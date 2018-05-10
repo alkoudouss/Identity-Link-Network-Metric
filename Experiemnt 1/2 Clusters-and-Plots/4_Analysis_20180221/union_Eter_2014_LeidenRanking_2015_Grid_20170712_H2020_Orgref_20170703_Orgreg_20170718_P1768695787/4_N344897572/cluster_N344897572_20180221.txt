@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 8949 
+NAME    N344897572
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.442871.c>
+	<http://risis.eu/orgref_20170703/resource/12066563>
+	<http://www.grid.ac/institutes/grid.250860.9>
+	<http://risis.eu/orgref_20170703/resource/20428515>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.442871.c........ http://www.grid.ac/institutes/grid.250860.9........ 0.9375............................................. [TERI University] was compared to [Tenri University] 
+	http://www.grid.ac/institutes/grid.250860.9........ http://www.grid.ac/institutes/grid.442871.c........ 0.9375............................................. [TERI University] was compared to [Tenri University] 
+	http://risis.eu/orgref_20170703/resource/12066563.. http://www.grid.ac/institutes/grid.250860.9........ 0.9375............................................. [TERI University] was compared to [Tenri University] 
+	http://www.grid.ac/institutes/grid.250860.9........ http://risis.eu/orgref_20170703/resource/12066563.. 0.9375............................................. [TERI University] was compared to [Tenri University] 
+	http://www.grid.ac/institutes/grid.250860.9........ http://risis.eu/orgref_20170703/resource/20428515.. 1.................................................. [TERI University] was compared to [TERI University] 
+	http://risis.eu/orgref_20170703/resource/20428515.. http://www.grid.ac/institutes/grid.250860.9........ 1.................................................. [TERI University] was compared to [TERI University] 
+	http://www.grid.ac/institutes/grid.442871.c........ http://risis.eu/orgref_20170703/resource/12066563.. 1.................................................. [Tenri University] was compared to [Tenri University] 
+	http://risis.eu/orgref_20170703/resource/12066563.. http://www.grid.ac/institutes/grid.442871.c........ 1.................................................. [Tenri University] was compared to [Tenri University] 
+	http://www.grid.ac/institutes/grid.442871.c........ http://risis.eu/orgref_20170703/resource/20428515.. 0.9375............................................. [Tenri University] was compared to [TERI University] 
+	http://risis.eu/orgref_20170703/resource/20428515.. http://www.grid.ac/institutes/grid.442871.c........ 0.9375............................................. [Tenri University] was compared to [TERI University] 
+	http://risis.eu/orgref_20170703/resource/12066563.. http://risis.eu/orgref_20170703/resource/20428515.. 0.9375............................................. [Tenri University] was compared to [TERI University] 
+	http://risis.eu/orgref_20170703/resource/20428515.. http://risis.eu/orgref_20170703/resource/12066563.. 0.9375............................................. [Tenri University] was compared to [TERI University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.442871.c........ Tenri University................................... 
+	http://risis.eu/orgref_20170703/resource/12066563.. http://en.wikipedia.org/wiki?curid=12066563........ 
+	http://risis.eu/orgref_20170703/resource/12066563.. http://www.wikidata.org/wiki/Q4387971.............. 
+	http://risis.eu/orgref_20170703/resource/12066563.. http://www.tenri-u.ac.jp........................... 
+	http://risis.eu/orgref_20170703/resource/12066563.. Tenri University................................... 
+	http://www.grid.ac/institutes/grid.250860.9........ 77.148384.......................................... 
+	http://www.grid.ac/institutes/grid.250860.9........ 28.544514.......................................... 
+	http://www.grid.ac/institutes/grid.250860.9........ http://www.teriuniversity.ac.in/................... 
+	http://www.grid.ac/institutes/grid.250860.9........ TERI University.................................... 
+	http://risis.eu/orgref_20170703/resource/20428515.. http://en.wikipedia.org/wiki?curid=20428515........ 
+	http://risis.eu/orgref_20170703/resource/20428515.. http://www.wikidata.org/wiki/Q7670026.............. 
+	http://risis.eu/orgref_20170703/resource/20428515.. http://www.teriuniversity.ac.in.................... 
+	http://risis.eu/orgref_20170703/resource/20428515.. TERI University.................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.442871.c', '3:grid.250860.9'), ('2:12066563', '1:grid.442871.c'), ('2:12066563', '3:grid.250860.9'), ('4:20428515', '1:grid.442871.c'), ('4:20428515', '2:12066563'), ('4:20428515', '3:grid.250860.9')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

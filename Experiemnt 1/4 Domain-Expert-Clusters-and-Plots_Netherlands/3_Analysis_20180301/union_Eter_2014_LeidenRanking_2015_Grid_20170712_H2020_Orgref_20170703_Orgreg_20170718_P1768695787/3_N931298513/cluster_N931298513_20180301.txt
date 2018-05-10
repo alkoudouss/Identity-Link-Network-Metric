@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 9883 
+NAME    N931298513
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.6054.7>
+	<http://risis.eu/orgref_20170703/resource/506063>
+	<http://risis.eu/orgreg_20170718/resource/NL1009>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.6054.7........ http://risis.eu/orgref_20170703/resource/506063.. 0.933333333333................................... [Centrum Wiskunde and Informatica] was compared to [Centrum Wiskunde & Informatica] 
+	http://www.grid.ac/institutes/grid.6054.7........ http://risis.eu/orgreg_20170718/resource/NL1009.. 0.933333333333................................... [Centrum Wiskunde and Informatica] was compared to [Centrum Wiskunde & Informatica] 
+	http://risis.eu/orgref_20170703/resource/506063.. http://risis.eu/orgreg_20170718/resource/NL1009.. 1................................................ [Centrum Wiskunde & Informatica] was compared to [Centrum Wiskunde & Informatica] 
+	http://risis.eu/orgref_20170703/resource/506063.. http://www.grid.ac/institutes/grid.6054.7........ 0.933333333333................................... [Centrum Wiskunde and Informatica] was compared to [Centrum Wiskunde & Informatica] 
+	http://risis.eu/orgreg_20170718/resource/NL1009.. http://www.grid.ac/institutes/grid.6054.7........ 0.933333333333................................... [Centrum Wiskunde and Informatica] was compared to [Centrum Wiskunde & Informatica] 
+	http://risis.eu/orgreg_20170718/resource/NL1009.. http://risis.eu/orgref_20170703/resource/506063.. 1................................................ [Centrum Wiskunde & Informatica] was compared to [Centrum Wiskunde & Informatica] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.6054.7........ 4.951944......................................... 
+	http://www.grid.ac/institutes/grid.6054.7........ 52.356388........................................ 
+	http://www.grid.ac/institutes/grid.6054.7........ http://www.cwi.nl/............................... 
+	http://www.grid.ac/institutes/grid.6054.7........ Centrum Wiskunde and Informatica................. 
+	http://risis.eu/orgref_20170703/resource/506063.. http://en.wikipedia.org/wiki?curid=506063........ 
+	http://risis.eu/orgref_20170703/resource/506063.. http://www.wikidata.org/wiki/Q1054410............ 
+	http://risis.eu/orgref_20170703/resource/506063.. http://www.cwi.nl................................ 
+	http://risis.eu/orgref_20170703/resource/506063.. Centrum Wiskunde & Informatica................... 
+	http://risis.eu/orgreg_20170718/resource/NL1009.. 4................................................ 
+	http://risis.eu/orgreg_20170718/resource/NL1009.. 52............................................... 
+	http://risis.eu/orgreg_20170718/resource/NL1009.. http://www.cwi.nl/............................... 
+	http://risis.eu/orgreg_20170718/resource/NL1009.. Centrum Wiskunde & Informatica................... 
+
+NETWORK ANALYSIS
+	NETWORK [('N931298513-NL1009', 'P1611313216-grid.6054.7'), ('P894072942-506063', 'N931298513-NL1009'), ('P894072942-506063', 'P1611313216-grid.6054.7')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

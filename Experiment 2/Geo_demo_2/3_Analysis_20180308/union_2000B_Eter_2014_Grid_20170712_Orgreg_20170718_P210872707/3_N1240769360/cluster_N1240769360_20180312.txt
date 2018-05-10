@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 75 
+NAME    N1240769360
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.415217.4>
+	<http://www.grid.ac/institutes/grid.423913.e>
+	<http://risis.eu/eter_2014/resource/IT0246>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.415217.4.. http://risis.eu/eter_2014/resource/IT0246.... 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://www.grid.ac/institutes/grid.423913.e.. http://risis.eu/eter_2014/resource/IT0246.... 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/IT0246.... http://www.grid.ac/institutes/grid.415217.4.. 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/IT0246.... http://www.grid.ac/institutes/grid.423913.e.. 1............................................ Near each other by at most 2000 meter(s)..... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.415217.4.. 10.629708.................................... 
+	http://www.grid.ac/institutes/grid.415217.4.. 44.684856.................................... 
+	http://www.grid.ac/institutes/grid.415217.4.. http://www.asmn.re.it/hospital-profile....... 
+	http://www.grid.ac/institutes/grid.415217.4.. Santa Maria Nuova Hospital................... 
+	http://www.grid.ac/institutes/grid.423913.e.. 10.625906.................................... 
+	http://www.grid.ac/institutes/grid.423913.e.. 44.698925.................................... 
+	http://www.grid.ac/institutes/grid.423913.e.. http://www.crpa.it/.......................... 
+	http://www.grid.ac/institutes/grid.423913.e.. Centro Ricerche Produzioni Animali........... 
+	http://risis.eu/eter_2014/resource/IT0246.... 44,698694.................................... 
+	http://risis.eu/eter_2014/resource/IT0246.... 10,637355.................................... 
+	http://risis.eu/eter_2014/resource/IT0246.... http://www.istitutoperi.com.................. 
+	http://risis.eu/eter_2014/resource/IT0246.... a............................................ 
+	http://risis.eu/eter_2014/resource/IT0246.... Music Institute of REGGIO EMILIA e CASTELNOVO NE' MONTI Achille Peri e Merulo 
+	http://risis.eu/eter_2014/resource/IT0246.... Istituto Superiore di Studi Musicali di REGGIO EMILIA e CASTELNOVO NE' MONTI Achille Peri e Merulo 
+
+NETWORK ANALYSIS
+	NETWORK [('P354765583-IT0246', 'P414110941-grid.423913.e'), ('P354765583-IT0246', 'N1240769360-grid.415217.4')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

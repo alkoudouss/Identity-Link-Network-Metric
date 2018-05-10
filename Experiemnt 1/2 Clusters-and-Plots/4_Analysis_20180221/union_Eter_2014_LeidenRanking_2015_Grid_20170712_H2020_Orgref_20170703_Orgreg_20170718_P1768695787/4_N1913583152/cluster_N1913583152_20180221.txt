@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 3449 
+NAME    N1913583152
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.213876.9>
+	<http://risis.eu/orgref_20170703/resource/378232>
+	<http://www.grid.ac/institutes/grid.264978.6>
+	<http://risis.eu/orgref_20170703/resource/7929556>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.213876.9....... http://www.grid.ac/institutes/grid.264978.6....... 1................................................. [University of Georgia] was compared to [University of Georgia] 
+	http://www.grid.ac/institutes/grid.264978.6....... http://www.grid.ac/institutes/grid.213876.9....... 1................................................. [University of Georgia] was compared to [University of Georgia] 
+	http://www.grid.ac/institutes/grid.213876.9....... http://risis.eu/orgref_20170703/resource/7929556.. 1................................................. [University of Georgia] was compared to [University of Georgia (Tbilisi)] 
+	http://risis.eu/orgref_20170703/resource/7929556.. http://www.grid.ac/institutes/grid.213876.9....... 1................................................. [University of Georgia] was compared to [University of Georgia (Tbilisi)] 
+	http://www.grid.ac/institutes/grid.213876.9....... http://risis.eu/orgref_20170703/resource/378232... 1................................................. [University of Georgia] was compared to [University of Georgia] 
+	http://risis.eu/orgref_20170703/resource/378232... http://www.grid.ac/institutes/grid.213876.9....... 1................................................. [University of Georgia] was compared to [University of Georgia] 
+	http://www.grid.ac/institutes/grid.264978.6....... http://risis.eu/orgref_20170703/resource/7929556.. 1................................................. [University of Georgia] was compared to [University of Georgia (Tbilisi)] 
+	http://risis.eu/orgref_20170703/resource/7929556.. http://www.grid.ac/institutes/grid.264978.6....... 1................................................. [University of Georgia] was compared to [University of Georgia (Tbilisi)] 
+	http://risis.eu/orgref_20170703/resource/378232... http://www.grid.ac/institutes/grid.264978.6....... 1................................................. [University of Georgia] was compared to [University of Georgia] 
+	http://www.grid.ac/institutes/grid.264978.6....... http://risis.eu/orgref_20170703/resource/378232... 1................................................. [University of Georgia] was compared to [University of Georgia] 
+	http://risis.eu/orgref_20170703/resource/378232... http://risis.eu/orgref_20170703/resource/7929556.. 1................................................. [University of Georgia] was compared to [University of Georgia (Tbilisi)] 
+	http://risis.eu/orgref_20170703/resource/7929556.. http://risis.eu/orgref_20170703/resource/378232... 1................................................. [University of Georgia] was compared to [University of Georgia (Tbilisi)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.213876.9....... -83.37734......................................... 
+	http://www.grid.ac/institutes/grid.213876.9....... 33.948273......................................... 
+	http://www.grid.ac/institutes/grid.213876.9....... http://www.uga.edu/............................... 
+	http://www.grid.ac/institutes/grid.213876.9....... Franklin College.................................. 
+	http://www.grid.ac/institutes/grid.213876.9....... University of Georgia............................. 
+	http://risis.eu/orgref_20170703/resource/378232... http://en.wikipedia.org/wiki?curid=378232......... 
+	http://risis.eu/orgref_20170703/resource/378232... http://www.wikidata.org/wiki/Q761534.............. 
+	http://risis.eu/orgref_20170703/resource/378232... http://uga.edu.................................... 
+	http://risis.eu/orgref_20170703/resource/378232... University of Georgia............................. 
+	http://www.grid.ac/institutes/grid.264978.6....... 44.77778.......................................... 
+	http://www.grid.ac/institutes/grid.264978.6....... 41.72389.......................................... 
+	http://www.grid.ac/institutes/grid.264978.6....... https://www.ug.edu.ge/............................ 
+	http://www.grid.ac/institutes/grid.264978.6....... University of Georgia............................. 
+	http://risis.eu/orgref_20170703/resource/7929556.. http://en.wikipedia.org/wiki?curid=7929556........ 
+	http://risis.eu/orgref_20170703/resource/7929556.. http://www.wikidata.org/wiki/Q1509484............. 
+	http://risis.eu/orgref_20170703/resource/7929556.. http://www.ug.edu.ge.............................. 
+	http://risis.eu/orgref_20170703/resource/7929556.. University of Georgia (Tbilisi)................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:378232', '1:grid.213876.9'), ('2:378232', '3:grid.264978.6'), ('3:grid.264978.6', '1:grid.213876.9'), ('4:7929556', '1:grid.213876.9'), ('4:7929556', '2:378232'), ('4:7929556', '3:grid.264978.6')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

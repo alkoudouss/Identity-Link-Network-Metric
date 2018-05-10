@@ -1,0 +1,70 @@
+SIZE    4   
+CLUSTER 14346 
+NAME    N963630942
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.4842.a>
+	<http://risis.eu/eter_2014/resource/CZ0012>
+	<http://risis.eu/orgreg_20170718/resource/CZ0012>
+	<http://risis.eu/orgref_20170703/resource/1082743>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.4842.a......... http://risis.eu/orgref_20170703/resource/1082743.. 1................................................. [University of Hradec Králové] was compared to [University of Hradec Králové] 
+	http://risis.eu/orgref_20170703/resource/1082743.. http://www.grid.ac/institutes/grid.4842.a......... 1................................................. [University of Hradec Králové] was compared to [University of Hradec Králové] 
+	http://www.grid.ac/institutes/grid.4842.a......... http://risis.eu/eter_2014/resource/CZ0012......... 0.92.............................................. [University of Hradec Králové] was compared to [Univerzita Hradec Králové] 
+	http://risis.eu/eter_2014/resource/CZ0012......... http://www.grid.ac/institutes/grid.4842.a......... 0.92.............................................. [University of Hradec Králové] was compared to [Univerzita Hradec Králové] 
+	http://risis.eu/eter_2014/resource/CZ0012......... http://risis.eu/orgref_20170703/resource/1082743.. 0.92.............................................. [University of Hradec Králové] was compared to [Univerzita Hradec Králové] 
+	http://risis.eu/orgref_20170703/resource/1082743.. http://risis.eu/eter_2014/resource/CZ0012......... 0.92.............................................. [University of Hradec Králové] was compared to [Univerzita Hradec Králové] 
+	http://risis.eu/eter_2014/resource/CZ0012......... http://risis.eu/orgreg_20170718/resource/CZ0012... 0.92.............................................. [University of Hradec Králové] was compared to [Univerzita Hradec Králové] 
+	http://risis.eu/orgreg_20170718/resource/CZ0012... http://risis.eu/eter_2014/resource/CZ0012......... 0.92.............................................. [University of Hradec Králové] was compared to [Univerzita Hradec Králové] 
+	http://risis.eu/orgreg_20170718/resource/CZ0012... http://risis.eu/orgref_20170703/resource/1082743.. 1................................................. [University of Hradec Králové] was compared to [University of Hradec Králové] 
+	http://risis.eu/orgref_20170703/resource/1082743.. http://risis.eu/orgreg_20170718/resource/CZ0012... 1................................................. [University of Hradec Králové] was compared to [University of Hradec Králové] 
+	http://www.grid.ac/institutes/grid.4842.a......... http://risis.eu/orgreg_20170718/resource/CZ0012... 1................................................. [University of Hradec Králové] was compared to [University of Hradec Králové] 
+	http://risis.eu/orgreg_20170718/resource/CZ0012... http://www.grid.ac/institutes/grid.4842.a......... 1................................................. [University of Hradec Králové] was compared to [University of Hradec Králové] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 19 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.4842.a......... 15.82645.......................................... 
+	http://www.grid.ac/institutes/grid.4842.a......... 50.20988.......................................... 
+	http://www.grid.ac/institutes/grid.4842.a......... https://www.uhk.cz/en-GB/UHK...................... 
+	http://www.grid.ac/institutes/grid.4842.a......... Univerzita Hradec Králové....................... 
+	http://www.grid.ac/institutes/grid.4842.a......... University of Hradec Králové.................... 
+	http://risis.eu/eter_2014/resource/CZ0012......... 50,239729......................................... 
+	http://risis.eu/eter_2014/resource/CZ0012......... 15,877017......................................... 
+	http://risis.eu/eter_2014/resource/CZ0012......... http://www.uhk.cz/................................ 
+	http://risis.eu/eter_2014/resource/CZ0012......... a................................................. 
+	http://risis.eu/eter_2014/resource/CZ0012......... University of Hradec Králové.................... 
+	http://risis.eu/eter_2014/resource/CZ0012......... Univerzita Hradec Králové....................... 
+	http://risis.eu/orgreg_20170718/resource/CZ0012... 15.877017......................................... 
+	http://risis.eu/orgreg_20170718/resource/CZ0012... 50.239729......................................... 
+	http://risis.eu/orgreg_20170718/resource/CZ0012... http://www.uhk.cz/................................ 
+	http://risis.eu/orgreg_20170718/resource/CZ0012... University of Hradec Králové.................... 
+	http://risis.eu/orgref_20170703/resource/1082743.. http://en.wikipedia.org/wiki?curid=1082743........ 
+	http://risis.eu/orgref_20170703/resource/1082743.. http://www.wikidata.org/wiki/Q1712507............. 
+	http://risis.eu/orgref_20170703/resource/1082743.. http://www.uhk.cz................................. 
+	http://risis.eu/orgref_20170703/resource/1082743.. University of Hradec Králové.................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:CZ0012', '1:grid.4842.a'), ('2:CZ0012', '3:CZ0012'), ('2:CZ0012', '4:1082743'), ('3:CZ0012', '1:grid.4842.a'), ('3:CZ0012', '4:1082743'), ('4:1082743', '1:grid.4842.a')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 2734 
+NAME    N1832496023
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.443909.3>
+	<http://risis.eu/cordisH2020/resource/participant_999447067>
+	<http://risis.eu/orgref_20170703/resource/545250>
+	<http://risis.eu/leidenRanking_2015/resource/1088>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.443909.3................. http://risis.eu/orgref_20170703/resource/545250............. 1........................................................... [University of Chile] was compared to [University of Chile]. 
+	http://risis.eu/orgref_20170703/resource/545250............. http://www.grid.ac/institutes/grid.443909.3................. 1........................................................... [University of Chile] was compared to [University of Chile]. 
+	http://www.grid.ac/institutes/grid.443909.3................. http://risis.eu/leidenRanking_2015/resource/1088............ 1........................................................... [University of Chile] was compared to [University of Chile]. 
+	http://risis.eu/leidenRanking_2015/resource/1088............ http://www.grid.ac/institutes/grid.443909.3................. 1........................................................... [University of Chile] was compared to [University of Chile]. 
+	http://risis.eu/orgref_20170703/resource/545250............. http://risis.eu/leidenRanking_2015/resource/1088............ 1........................................................... [University of Chile] was compared to [University of Chile]. 
+	http://risis.eu/leidenRanking_2015/resource/1088............ http://risis.eu/orgref_20170703/resource/545250............. 1........................................................... [University of Chile] was compared to [University of Chile]. 
+	http://risis.eu/cordisH2020/resource/participant_999447067.. http://risis.eu/leidenRanking_2015/resource/1088............ 0.823529411765.............................................. [UNIVERSIDAD DE CHILE] was compared to [University of Chile] 
+	http://risis.eu/leidenRanking_2015/resource/1088............ http://risis.eu/cordisH2020/resource/participant_999447067.. 0.823529411765.............................................. [UNIVERSIDAD DE CHILE] was compared to [University of Chile] 
+	http://risis.eu/cordisH2020/resource/participant_999447067.. http://risis.eu/orgref_20170703/resource/545250............. 0.823529411765.............................................. [University of Chile] was compared to [UNIVERSIDAD DE CHILE] 
+	http://risis.eu/orgref_20170703/resource/545250............. http://risis.eu/cordisH2020/resource/participant_999447067.. 0.823529411765.............................................. [University of Chile] was compared to [UNIVERSIDAD DE CHILE] 
+	http://www.grid.ac/institutes/grid.443909.3................. http://risis.eu/cordisH2020/resource/participant_999447067.. 0.823529411765.............................................. [University of Chile] was compared to [UNIVERSIDAD DE CHILE] 
+	http://risis.eu/cordisH2020/resource/participant_999447067.. http://www.grid.ac/institutes/grid.443909.3................. 0.823529411765.............................................. [University of Chile] was compared to [UNIVERSIDAD DE CHILE] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.443909.3................. -70.65058................................................... 
+	http://www.grid.ac/institutes/grid.443909.3................. -33.44332................................................... 
+	http://www.grid.ac/institutes/grid.443909.3................. http://www.uchile.cl/....................................... 
+	http://www.grid.ac/institutes/grid.443909.3................. University of Chile......................................... 
+	http://risis.eu/cordisH2020/resource/participant_999447067.. http://risis.eu/cordisH2020/resource/www.uchile.cl.......... 
+	http://risis.eu/cordisH2020/resource/participant_999447067.. UNIVERSIDAD DE CHILE........................................ 
+	http://risis.eu/orgref_20170703/resource/545250............. http://en.wikipedia.org/wiki?curid=545250................... 
+	http://risis.eu/orgref_20170703/resource/545250............. http://www.wikidata.org/wiki/Q232141........................ 
+	http://risis.eu/orgref_20170703/resource/545250............. http://www.uchile.cl........................................ 
+	http://risis.eu/orgref_20170703/resource/545250............. University of Chile......................................... 
+	http://risis.eu/leidenRanking_2015/resource/1088............ University of Chile......................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_999447067', '1:grid.443909.3'), ('2:participant_999447067', '3:545250'), ('3:545250', '1:grid.443909.3'), ('4:1088', '1:grid.443909.3'), ('4:1088', '2:participant_999447067'), ('4:1088', '3:545250')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,49 @@
+SIZE    3   
+CLUSTER 6380 
+NAME    N1369004095
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.448100.9>
+	<http://www.grid.ac/institutes/grid.22526.31>
+	<http://www.grid.ac/institutes/grid.437935.f>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.448100.9.. http://www.grid.ac/institutes/grid.22526.31.. 0.888888888889............................... [PTV Group (Germany)] was compared to [STV Group (Czech Republic)] 
+	http://www.grid.ac/institutes/grid.448100.9.. http://www.grid.ac/institutes/grid.437935.f.. 0.888888888889............................... [STC Group (Netherlands)] was compared to [STV Group (Czech Republic)] 
+	http://www.grid.ac/institutes/grid.22526.31.. http://www.grid.ac/institutes/grid.448100.9.. 0.888888888889............................... [PTV Group (Germany)] was compared to [STV Group (Czech Republic)] 
+	http://www.grid.ac/institutes/grid.437935.f.. http://www.grid.ac/institutes/grid.448100.9.. 0.888888888889............................... [STC Group (Netherlands)] was compared to [STV Group (Czech Republic)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 7 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.448100.9.. STV Group (Czech Republic)................... 
+	http://www.grid.ac/institutes/grid.22526.31.. 8.427779..................................... 
+	http://www.grid.ac/institutes/grid.22526.31.. 49.01356..................................... 
+	http://www.grid.ac/institutes/grid.22526.31.. https://www.ptvgroup.com/en/welcome-to-the-ptv-group/ 
+	http://www.grid.ac/institutes/grid.22526.31.. Planung Transport Verkehr AG................. 
+	http://www.grid.ac/institutes/grid.22526.31.. PTV Group (Germany).......................... 
+	http://www.grid.ac/institutes/grid.437935.f.. STC Group (Netherlands)...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('P1877435323-grid.437935.f', 'P200032360-grid.448100.9'), ('N1369004095-grid.22526.31', 'P200032360-grid.448100.9')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

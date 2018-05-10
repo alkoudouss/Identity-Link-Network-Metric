@@ -1,0 +1,226 @@
+INSERT DATA { GRAPH <http://risis.eu/activity/idea_3944ec>  
+{
+	<http://risis.eu/dataset/grid_20170712> a <http://risis.eu/class/Dataset> ;
+		<http://risis.eu/alignment/predicate/hasDatatype> <http://xmlns.com/foaf/0.1/Organization> .
+	
+	<http://risis.eu/dataset/orgref_20170703> a <http://risis.eu/class/Dataset> ;
+		<http://risis.eu/alignment/predicate/hasDatatype> <http://risis.eu/orgref_20170703/ontology/class/Organisation> .
+	
+	<http://risis.eu/dataset/leidenRanking_2015> a <http://risis.eu/class/Dataset> ;
+		<http://risis.eu/alignment/predicate/hasDatatype> <http://risis.eu/leidenRanking_2015/ontology/class/University> .
+	
+	<http://risis.eu/dataset/eter_2014> a <http://risis.eu/class/Dataset> ;
+		<http://risis.eu/alignment/predicate/hasDatatype> <http://risis.eu/eter_2014/ontology/class/University> .
+	
+	<http://risis.eu/dataset/orgreg_20170718> a <http://risis.eu/class/Dataset> ;
+		<http://risis.eu/alignment/predicate/hasDatatype> <http://risis.eu/orgreg_20170718/ontology/class/University> .
+	
+	<http://risis.eu/dataset/h2020> a <http://risis.eu/class/Dataset> ;
+		<http://risis.eu/alignment/predicate/hasDatatype> <http://xmlns.com/foaf/0.1/Organization> .
+	
+	<http://risis.eu/activity/idea_3944ec> a <http://risis.eu/class/ResearchQuestion> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "Link Validation Reprocess 0.75" ;
+		<http://risis.eu/alignment/predicate/selected> <http://risis.eu/dataset/grid_20170712> , <http://risis.eu/dataset/orgref_20170703> , <http://risis.eu/dataset/leidenRanking_2015> , <http://risis.eu/dataset/eter_2014> , <http://risis.eu/dataset/orgreg_20170718> , <http://risis.eu/dataset/h2020> ;
+		<http://risis.eu/alignment/predicate/created> <http://risis.eu/activity/idea_algmt_f54bfc> , <http://risis.eu/activity/idea_algmt_0b89f9> , <http://risis.eu/activity/idea_algmt_45faeb> , <http://risis.eu/activity/idea_algmt_877f6b> , <http://risis.eu/activity/idea_algmt_5cb2fc> , <http://risis.eu/activity/idea_algmt_1a31ac> , <http://risis.eu/activity/idea_algmt_f62879> , <http://risis.eu/activity/idea_algmt_41da82> , <http://risis.eu/activity/idea_algmt_d3bf5d> , <http://risis.eu/activity/idea_algmt_968c39> , <http://risis.eu/activity/idea_algmt_0ca4fe> , <http://risis.eu/activity/idea_algmt_ebe962> , <http://risis.eu/activity/idea_algmt_52e299> , <http://risis.eu/activity/idea_algmt_04b99f> , <http://risis.eu/activity/idea_algmt_dad9c6> , <http://risis.eu/activity/idea_algmt_0875ff> , <http://risis.eu/activity/idea_algmt_7b2199> , <http://risis.eu/activity/idea_algmt_2321d1> , <http://risis.eu/activity/idea_algmt_1377b4> , <http://risis.eu/activity/idea_algmt_de4af3> , <http://risis.eu/activity/idea_algmt_d5a9ef> , <http://risis.eu/activity/idea_algmt_cdf14f> ;
+		<http://www.w3.org/ns/prov#used> <http://risis.eu/lens/union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787> .
+	
+	<http://risis.eu/activity/idea_algmt_f54bfc> a <http://risis.eu/class/AlignmentMapping> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/grid_20170712> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/h2020> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://www.w3.org/2004/02/skos/core#altLabel> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://xmlns.com/foaf/0.1/name> .
+	
+	<http://risis.eu/activity/idea_algmt_0b89f9> a <http://risis.eu/class/AlignmentMapping> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/h2020> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/leidenRanking_2015> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/leidenRanking_2015/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://xmlns.com/foaf/0.1/name> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/leidenRanking_2015/ontology/predicate/actor> ;
+		<http://risis.eu/alignment/predicate/created> <http://risis.eu/linkset/h2020_leidenRanking_2015_approxStrSim_Organization_name_N247890402> .
+	
+	<http://risis.eu/activity/idea_algmt_45faeb> a <http://risis.eu/class/AlignmentMapping> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/h2020> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/h2020> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://xmlns.com/foaf/0.1/name> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://xmlns.com/foaf/0.1/name> ;
+		<http://risis.eu/alignment/predicate/created> <http://risis.eu/linkset/h2020_h2020_approxStrSim_Organization_name_N529851809> .
+	
+	<http://risis.eu/activity/idea_algmt_877f6b> a <http://risis.eu/class/AlignmentMapping> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/h2020> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/eter_2014> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/eter_2014/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://xmlns.com/foaf/0.1/name> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/eter_2014/ontology/predicate/Institution_Name> ;
+		<http://risis.eu/alignment/predicate/created> <http://risis.eu/linkset/h2020_eter_2014_approxStrSim_Organization_name_P1029719164> .
+	
+	<http://risis.eu/activity/idea_algmt_5cb2fc> a <http://risis.eu/class/AlignmentMapping> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/eter_2014> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/eter_2014> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/eter_2014/ontology/class/University> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/eter_2014/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://risis.eu/eter_2014/ontology/predicate/Institution_Name> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/eter_2014/ontology/predicate/Institution_Name> ;
+		<http://risis.eu/alignment/predicate/created> <http://risis.eu/linkset/eter_2014_eter_2014_approxStrSim_University_Institution_Name_P98241885> .
+	
+	<http://risis.eu/activity/idea_algmt_1a31ac> a <http://risis.eu/class/AlignmentMapping> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/eter_2014> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/leidenRanking_2015> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/eter_2014/ontology/class/University> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/leidenRanking_2015/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://risis.eu/eter_2014/ontology/predicate/Institution_Name> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/leidenRanking_2015/ontology/predicate/actor> ;
+		<http://risis.eu/alignment/predicate/created> <http://risis.eu/linkset/eter_2014_leidenRanking_2015_approxStrSim_University_Institution_Name_P1341700851> .
+	
+	<http://risis.eu/activity/idea_algmt_f62879> a <http://risis.eu/class/AlignmentMapping> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/leidenRanking_2015> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/leidenRanking_2015> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/leidenRanking_2015/ontology/class/University> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/leidenRanking_2015/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://risis.eu/leidenRanking_2015/ontology/predicate/actor> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/leidenRanking_2015/ontology/predicate/actor> ;
+		<http://risis.eu/alignment/predicate/created> <http://risis.eu/linkset/leidenRanking_2015_leidenRanking_2015_approxStrSim_University_actor_P297548047> .
+	
+	<http://risis.eu/activity/idea_algmt_41da82> a <http://risis.eu/class/AlignmentMapping> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/orgreg_20170718> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/orgreg_20170718> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/orgreg_20170718/ontology/class/University> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/orgreg_20170718/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://risis.eu/orgreg_20170718/ontology/predicate/Entity_current_name_English> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/orgreg_20170718/ontology/predicate/Entity_current_name_English> ;
+		<http://risis.eu/alignment/predicate/created> <http://risis.eu/linkset/orgreg_20170718_orgreg_20170718_approxStrSim_University_Entity_current_name_English_N2106656183> .
+	
+	<http://risis.eu/activity/idea_algmt_d3bf5d> a <http://risis.eu/class/AlignmentMapping> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/orgreg_20170718> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/leidenRanking_2015> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/orgreg_20170718/ontology/class/University> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/leidenRanking_2015/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://risis.eu/orgreg_20170718/ontology/predicate/Entity_current_name_English> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/leidenRanking_2015/ontology/predicate/actor> ;
+		<http://risis.eu/alignment/predicate/created> <http://risis.eu/linkset/orgreg_20170718_leidenRanking_2015_approxStrSim_University_Entity_current_name_English_P851564778> .
+	
+	<http://risis.eu/activity/idea_algmt_968c39> a <http://risis.eu/class/AlignmentMapping> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/orgreg_20170718> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/h2020> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/orgreg_20170718/ontology/class/University> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://risis.eu/orgreg_20170718/ontology/predicate/Entity_current_name_English> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://xmlns.com/foaf/0.1/name> ;
+		<http://risis.eu/alignment/predicate/created> <http://risis.eu/linkset/orgreg_20170718_h2020_approxStrSim_University_Entity_current_name_English_N440126701> .
+	
+	<http://risis.eu/activity/idea_algmt_0ca4fe> a <http://risis.eu/class/AlignmentMapping> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/orgreg_20170718> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/eter_2014> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/orgreg_20170718/ontology/class/University> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/eter_2014/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://risis.eu/orgreg_20170718/ontology/predicate/Entity_current_name_English> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/eter_2014/ontology/predicate/Institution_Name> ;
+		<http://risis.eu/alignment/predicate/created> <http://risis.eu/linkset/orgreg_20170718_eter_2014_approxStrSim_University_Entity_current_name_English_N7470094> .
+	
+	<http://risis.eu/activity/idea_algmt_ebe962> a <http://risis.eu/class/AlignmentMapping> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/orgref_20170703> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/orgref_20170703> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/orgref_20170703/ontology/class/Organisation> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/orgref_20170703/ontology/class/Organisation> ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://risis.eu/orgref_20170703/ontology/predicate/Name> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/orgref_20170703/ontology/predicate/Name> ;
+		<http://risis.eu/alignment/predicate/created> <http://risis.eu/linkset/orgref_20170703_orgref_20170703_approxStrSim_Organisation_Name_P1648413443> .
+	
+	<http://risis.eu/activity/idea_algmt_52e299> a <http://risis.eu/class/AlignmentMapping> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/orgref_20170703> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/h2020> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/orgref_20170703/ontology/class/Organisation> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://risis.eu/orgref_20170703/ontology/predicate/Name> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://xmlns.com/foaf/0.1/name> ;
+		<http://risis.eu/alignment/predicate/created> <http://risis.eu/linkset/orgref_20170703_h2020_approxStrSim_Organisation_Name_N351690465> .
+	
+	<http://risis.eu/activity/idea_algmt_04b99f> a <http://risis.eu/class/AlignmentMapping> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/orgref_20170703> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/eter_2014> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/orgref_20170703/ontology/class/Organisation> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/eter_2014/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://risis.eu/orgref_20170703/ontology/predicate/Name> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/eter_2014/ontology/predicate/Institution_Name> ;
+		<http://risis.eu/alignment/predicate/created> <http://risis.eu/linkset/orgref_20170703_eter_2014_approxStrSim_Organisation_Name_N511837006> .
+	
+	<http://risis.eu/activity/idea_algmt_dad9c6> a <http://risis.eu/class/AlignmentMapping> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/orgref_20170703> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/orgreg_20170718> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/orgref_20170703/ontology/class/Organisation> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/orgreg_20170718/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://risis.eu/orgref_20170703/ontology/predicate/Name> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/orgreg_20170718/ontology/predicate/Entity_current_name_English> ;
+		<http://risis.eu/alignment/predicate/created> <http://risis.eu/linkset/orgref_20170703_orgreg_20170718_approxStrSim_Organisation_Name_N1174725709> .
+	
+	<http://risis.eu/activity/idea_algmt_0875ff> a <http://risis.eu/class/AlignmentMapping> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/orgref_20170703> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/leidenRanking_2015> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/orgref_20170703/ontology/class/Organisation> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/leidenRanking_2015/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://risis.eu/orgref_20170703/ontology/predicate/Name> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/leidenRanking_2015/ontology/predicate/actor> ;
+		<http://risis.eu/alignment/predicate/created> <http://risis.eu/linkset/orgref_20170703_leidenRanking_2015_approxStrSim_Organisation_Name_P414492146> .
+	
+	<http://risis.eu/activity/idea_algmt_7b2199> a <http://risis.eu/class/AlignmentMapping> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/grid_20170712> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/grid_20170712> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://www.w3.org/2000/01/rdf-schema#label> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://www.w3.org/2000/01/rdf-schema#label> ;
+		<http://risis.eu/alignment/predicate/created> <http://risis.eu/linkset/grid_20170712_grid_20170712_approxStrSim_Organization_label_N1317369133> .
+	
+	<http://risis.eu/activity/idea_algmt_2321d1> a <http://risis.eu/class/AlignmentMapping> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/grid_20170712> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/orgref_20170703> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/orgref_20170703/ontology/class/Organisation> ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://www.w3.org/2000/01/rdf-schema#label> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/orgref_20170703/ontology/predicate/Name> ;
+		<http://risis.eu/alignment/predicate/created> <http://risis.eu/linkset/grid_20170712_orgref_20170703_approxStrSim_Organization_label_N367004354> .
+	
+	<http://risis.eu/activity/idea_algmt_1377b4> a <http://risis.eu/class/AlignmentMapping> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/grid_20170712> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/eter_2014> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/eter_2014/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://www.w3.org/2000/01/rdf-schema#label> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/eter_2014/ontology/predicate/Institution_Name> ;
+		<http://risis.eu/alignment/predicate/created> <http://risis.eu/linkset/grid_20170712_eter_2014_approxStrSim_Organization_label_N1891646655> .
+	
+	<http://risis.eu/activity/idea_algmt_de4af3> a <http://risis.eu/class/AlignmentMapping> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/grid_20170712> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/leidenRanking_2015> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/leidenRanking_2015/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://www.w3.org/2000/01/rdf-schema#label> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/leidenRanking_2015/ontology/predicate/actor> ;
+		<http://risis.eu/alignment/predicate/created> <http://risis.eu/linkset/grid_20170712_leidenRanking_2015_approxStrSim_Organization_label_N1072316279> .
+	
+	<http://risis.eu/activity/idea_algmt_d5a9ef> a <http://risis.eu/class/AlignmentMapping> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/grid_20170712> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/h2020> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://www.w3.org/2000/01/rdf-schema#label> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://xmlns.com/foaf/0.1/name> ;
+		<http://risis.eu/alignment/predicate/created> <http://risis.eu/linkset/grid_20170712_h2020_approxStrSim_Organization_label_N1087999532> .
+	
+	<http://risis.eu/activity/idea_algmt_cdf14f> a <http://risis.eu/class/AlignmentMapping> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/grid_20170712> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/orgreg_20170718> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/orgreg_20170718/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://www.w3.org/2000/01/rdf-schema#label> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/orgreg_20170718/ontology/predicate/Entity_current_name_English> ;
+		<http://risis.eu/alignment/predicate/created> <http://risis.eu/linkset/grid_20170712_orgreg_20170718_approxStrSim_Organization_label_P384246094> .
+	
+	<http://risis.eu/lens/union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787> a <http://vocabularies.bridgedb.org/ops#Lens> .
+}
+}

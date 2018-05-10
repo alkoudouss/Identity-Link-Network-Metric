@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 12573 
+NAME    P265432602
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.417981.2>
+	<http://www.grid.ac/institutes/grid.481656.8>
+	<http://www.grid.ac/institutes/grid.466748.f>
+	<http://risis.eu/orgref_20170703/resource/33064838>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.417981.2........ http://www.grid.ac/institutes/grid.481656.8........ 1.................................................. [Applied Science and Technology Research Institute] was compared to [Applied Science and Technology Research Institute] 
+	http://www.grid.ac/institutes/grid.481656.8........ http://www.grid.ac/institutes/grid.417981.2........ 1.................................................. [Applied Science and Technology Research Institute] was compared to [Applied Science and Technology Research Institute] 
+	http://www.grid.ac/institutes/grid.417981.2........ http://www.grid.ac/institutes/grid.466748.f........ 0.822222222222..................................... [Applied Science and Technology Research Institute] was compared to [National Institute of Applied Science and Technology] 
+	http://www.grid.ac/institutes/grid.466748.f........ http://www.grid.ac/institutes/grid.417981.2........ 0.822222222222..................................... [Applied Science and Technology Research Institute] was compared to [National Institute of Applied Science and Technology] 
+	http://www.grid.ac/institutes/grid.481656.8........ http://www.grid.ac/institutes/grid.466748.f........ 0.822222222222..................................... [National Institute of Applied Science and Technology] was compared to [Applied Science and Technology Research Institute] 
+	http://www.grid.ac/institutes/grid.466748.f........ http://www.grid.ac/institutes/grid.481656.8........ 0.822222222222..................................... [National Institute of Applied Science and Technology] was compared to [Applied Science and Technology Research Institute] 
+	http://www.grid.ac/institutes/grid.466748.f........ http://risis.eu/orgref_20170703/resource/33064838.. 1.................................................. [National Institute of Applied Science and Technology] was compared to [National Institute of Applied Science and Technology] 
+	http://risis.eu/orgref_20170703/resource/33064838.. http://www.grid.ac/institutes/grid.466748.f........ 1.................................................. [National Institute of Applied Science and Technology] was compared to [National Institute of Applied Science and Technology] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.417981.2........ 114.21283.......................................... 
+	http://www.grid.ac/institutes/grid.417981.2........ 22.424047.......................................... 
+	http://www.grid.ac/institutes/grid.417981.2........ http://www.astri.org/.............................. 
+	http://www.grid.ac/institutes/grid.417981.2........ Applied Science and Technology Research Institute.. 
+	http://www.grid.ac/institutes/grid.481656.8........ 114.02775.......................................... 
+	http://www.grid.ac/institutes/grid.481656.8........ 22.608173.......................................... 
+	http://www.grid.ac/institutes/grid.481656.8........ https://www.astri.org/............................. 
+	http://www.grid.ac/institutes/grid.481656.8........ Applied Science and Technology Research Institute.. 
+	http://www.grid.ac/institutes/grid.466748.f........ 10.196716.......................................... 
+	http://www.grid.ac/institutes/grid.466748.f........ 36.843716.......................................... 
+	http://www.grid.ac/institutes/grid.466748.f........ http://www.insat.rnu.tn/Fr/accueil_46_34........... 
+	http://www.grid.ac/institutes/grid.466748.f........ National Institute of Applied Science and Technology 
+	http://risis.eu/orgref_20170703/resource/33064838.. http://en.wikipedia.org/wiki?curid=33064838........ 
+	http://risis.eu/orgref_20170703/resource/33064838.. http://www.wikidata.org/wiki/Q3152441.............. 
+	http://risis.eu/orgref_20170703/resource/33064838.. http://www.insat.rnu.tn............................ 
+	http://risis.eu/orgref_20170703/resource/33064838.. National Institute of Applied Science and Technology 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.481656.8', '1:grid.417981.2'), ('2:grid.481656.8', '3:grid.466748.f'), ('3:grid.466748.f', '1:grid.417981.2'), ('4:33064838', '3:grid.466748.f')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

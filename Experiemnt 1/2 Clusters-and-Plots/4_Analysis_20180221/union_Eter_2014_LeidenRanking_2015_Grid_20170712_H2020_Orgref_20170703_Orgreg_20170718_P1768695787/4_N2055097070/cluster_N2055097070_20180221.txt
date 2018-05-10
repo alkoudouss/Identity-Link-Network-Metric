@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 6579 
+NAME    N2055097070
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.261367.7>
+	<http://risis.eu/orgref_20170703/resource/10723563>
+	<http://www.grid.ac/institutes/grid.266902.9>
+	<http://risis.eu/orgref_20170703/resource/1181334>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.261367.7........ http://www.grid.ac/institutes/grid.266902.9........ 0.875.............................................. [Oklahoma State University Center for Health Sciences] was compared to [University of Oklahoma Health Sciences Center] 
+	http://www.grid.ac/institutes/grid.266902.9........ http://www.grid.ac/institutes/grid.261367.7........ 0.875.............................................. [Oklahoma State University Center for Health Sciences] was compared to [University of Oklahoma Health Sciences Center] 
+	http://www.grid.ac/institutes/grid.261367.7........ http://risis.eu/orgref_20170703/resource/1181334... 1.................................................. [Oklahoma State University Center for Health Sciences] was compared to [Oklahoma State University Center for Health Sciences] 
+	http://risis.eu/orgref_20170703/resource/1181334... http://www.grid.ac/institutes/grid.261367.7........ 1.................................................. [Oklahoma State University Center for Health Sciences] was compared to [Oklahoma State University Center for Health Sciences] 
+	http://www.grid.ac/institutes/grid.261367.7........ http://risis.eu/orgref_20170703/resource/10723563.. 0.875.............................................. [Oklahoma State University Center for Health Sciences] was compared to [University of Oklahoma Health Sciences Center] 
+	http://risis.eu/orgref_20170703/resource/10723563.. http://www.grid.ac/institutes/grid.261367.7........ 0.875.............................................. [Oklahoma State University Center for Health Sciences] was compared to [University of Oklahoma Health Sciences Center] 
+	http://www.grid.ac/institutes/grid.266902.9........ http://risis.eu/orgref_20170703/resource/1181334... 0.875.............................................. [University of Oklahoma Health Sciences Center] was compared to [Oklahoma State University Center for Health Sciences] 
+	http://risis.eu/orgref_20170703/resource/1181334... http://www.grid.ac/institutes/grid.266902.9........ 0.875.............................................. [University of Oklahoma Health Sciences Center] was compared to [Oklahoma State University Center for Health Sciences] 
+	http://risis.eu/orgref_20170703/resource/10723563.. http://www.grid.ac/institutes/grid.266902.9........ 1.................................................. [University of Oklahoma Health Sciences Center] was compared to [University of Oklahoma Health Sciences Center] 
+	http://www.grid.ac/institutes/grid.266902.9........ http://risis.eu/orgref_20170703/resource/10723563.. 1.................................................. [University of Oklahoma Health Sciences Center] was compared to [University of Oklahoma Health Sciences Center] 
+	http://risis.eu/orgref_20170703/resource/10723563.. http://risis.eu/orgref_20170703/resource/1181334... 0.875.............................................. [University of Oklahoma Health Sciences Center] was compared to [Oklahoma State University Center for Health Sciences] 
+	http://risis.eu/orgref_20170703/resource/1181334... http://risis.eu/orgref_20170703/resource/10723563.. 0.875.............................................. [University of Oklahoma Health Sciences Center] was compared to [Oklahoma State University Center for Health Sciences] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.261367.7........ -96.006226......................................... 
+	http://www.grid.ac/institutes/grid.261367.7........ 36.13797........................................... 
+	http://www.grid.ac/institutes/grid.261367.7........ http://www.healthsciences.okstate.edu/com/......... 
+	http://www.grid.ac/institutes/grid.261367.7........ Oklahoma State University Center for Health Sciences 
+	http://risis.eu/orgref_20170703/resource/10723563.. http://en.wikipedia.org/wiki?curid=10723563........ 
+	http://risis.eu/orgref_20170703/resource/10723563.. http://www.wikidata.org/wiki/Q7896014.............. 
+	http://risis.eu/orgref_20170703/resource/10723563.. http://www.ouhsc.edu............................... 
+	http://risis.eu/orgref_20170703/resource/10723563.. University of Oklahoma Health Sciences Center...... 
+	http://www.grid.ac/institutes/grid.266902.9........ -97.49639.......................................... 
+	http://www.grid.ac/institutes/grid.266902.9........ 35.480278.......................................... 
+	http://www.grid.ac/institutes/grid.266902.9........ http://www.ouhsc.edu/.............................. 
+	http://www.grid.ac/institutes/grid.266902.9........ University of Oklahoma Health Sciences Center...... 
+	http://risis.eu/orgref_20170703/resource/1181334... http://en.wikipedia.org/wiki?curid=1181334......... 
+	http://risis.eu/orgref_20170703/resource/1181334... http://www.wikidata.org/wiki/Q7082377.............. 
+	http://risis.eu/orgref_20170703/resource/1181334... http://www.healthsciences.okstate.edu/college...... 
+	http://risis.eu/orgref_20170703/resource/1181334... Oklahoma State University Center for Health Sciences 
+
+NETWORK ANALYSIS
+	NETWORK [('2:10723563', '1:grid.261367.7'), ('3:grid.266902.9', '1:grid.261367.7'), ('3:grid.266902.9', '2:10723563'), ('4:1181334', '1:grid.261367.7'), ('4:1181334', '2:10723563'), ('4:1181334', '3:grid.266902.9')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

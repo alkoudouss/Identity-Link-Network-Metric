@@ -1,0 +1,68 @@
+SIZE    5   
+CLUSTER 17040 
+NAME    N1686515189
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.466182.f>
+	<http://risis.eu/orgreg_20170718/resource/GR0030>
+	<http://risis.eu/orgref_20170703/resource/38439105>
+	<http://risis.eu/orgref_20170703/resource/12074797>
+	<http://risis.eu/orgreg_20170718/resource/GR0032>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.466182.f........ http://risis.eu/orgref_20170703/resource/38439105.. 1.................................................. [Technological Educational Institute of Central Macedonia] was compared to [Technological Educational Institute of Central Macedonia] 
+	http://risis.eu/orgref_20170703/resource/38439105.. http://www.grid.ac/institutes/grid.466182.f........ 1.................................................. [Technological Educational Institute of Central Macedonia] was compared to [Technological Educational Institute of Central Macedonia] 
+	http://risis.eu/orgreg_20170718/resource/GR0030.... http://risis.eu/orgref_20170703/resource/38439105.. 1.................................................. [Technological Educational Institute of Central Macedonia] was compared to [Technological Educational Institute of Central Macedonia] 
+	http://risis.eu/orgref_20170703/resource/38439105.. http://risis.eu/orgreg_20170718/resource/GR0030.... 1.................................................. [Technological Educational Institute of Central Macedonia] was compared to [Technological Educational Institute of Central Macedonia] 
+	http://risis.eu/orgref_20170703/resource/12074797.. http://risis.eu/orgreg_20170718/resource/GR0032.... 0.943396226415..................................... [Technological Educational Institute of Western Macedonia] was compared to [TECHNOLOGICAL EDUCATIONAL INSTITUTE OF WEST MACEDONIA] 
+	http://risis.eu/orgreg_20170718/resource/GR0032.... http://risis.eu/orgref_20170703/resource/12074797.. 0.943396226415..................................... [Technological Educational Institute of Western Macedonia] was compared to [TECHNOLOGICAL EDUCATIONAL INSTITUTE OF WEST MACEDONIA] 
+	http://www.grid.ac/institutes/grid.466182.f........ http://risis.eu/orgreg_20170718/resource/GR0030.... 1.................................................. [Technological Educational Institute of Central Macedonia] was compared to [Technological Educational Institute of Central Macedonia] 
+	http://risis.eu/orgreg_20170718/resource/GR0030.... http://www.grid.ac/institutes/grid.466182.f........ 1.................................................. [Technological Educational Institute of Central Macedonia] was compared to [Technological Educational Institute of Central Macedonia] 
+	http://www.grid.ac/institutes/grid.466182.f........ http://risis.eu/orgreg_20170718/resource/GR0032.... 0.905660377358..................................... [Technological Educational Institute of Central Macedonia] was compared to [TECHNOLOGICAL EDUCATIONAL INSTITUTE OF WEST MACEDONIA] 
+	http://risis.eu/orgreg_20170718/resource/GR0032.... http://www.grid.ac/institutes/grid.466182.f........ 0.905660377358..................................... [Technological Educational Institute of Central Macedonia] was compared to [TECHNOLOGICAL EDUCATIONAL INSTITUTE OF WEST MACEDONIA] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.466182.f........ 23.553713.......................................... 
+	http://www.grid.ac/institutes/grid.466182.f........ 41.074776.......................................... 
+	http://www.grid.ac/institutes/grid.466182.f........ http://www.teicm.gr/............................... 
+	http://www.grid.ac/institutes/grid.466182.f........ Technological Educational Institute of Serres...... 
+	http://www.grid.ac/institutes/grid.466182.f........ T.E.I. of Central Macedonia........................ 
+	http://www.grid.ac/institutes/grid.466182.f........ Technological Educational Institute of Central Macedonia 
+	http://risis.eu/orgreg_20170718/resource/GR0030.... http://www.teiser.gr/.............................. 
+	http://risis.eu/orgreg_20170718/resource/GR0030.... Technological Educational Institute of Central Macedonia 
+	http://risis.eu/orgref_20170703/resource/38439105.. http://en.wikipedia.org/wiki?curid=38439105........ 
+	http://risis.eu/orgref_20170703/resource/38439105.. http://www.wikidata.org/wiki/Q4267127.............. 
+	http://risis.eu/orgref_20170703/resource/38439105.. http://www.teiscm.gr............................... 
+	http://risis.eu/orgref_20170703/resource/38439105.. Technological Educational Institute of Central Macedonia 
+	http://risis.eu/orgref_20170703/resource/12074797.. http://en.wikipedia.org/wiki?curid=12074797........ 
+	http://risis.eu/orgref_20170703/resource/12074797.. http://www.wikidata.org/wiki/Q25067................ 
+	http://risis.eu/orgref_20170703/resource/12074797.. http://www.teikoz.gr............................... 
+	http://risis.eu/orgref_20170703/resource/12074797.. Technological Educational Institute of Western Macedonia 
+	http://risis.eu/orgreg_20170718/resource/GR0032.... http://www.teiwm.gr/index.php?lang=el.............. 
+	http://risis.eu/orgreg_20170718/resource/GR0032.... TECHNOLOGICAL EDUCATIONAL INSTITUTE OF WEST MACEDONIA 
+
+NETWORK ANALYSIS
+	NETWORK [('2:GR0030', '1:grid.466182.f'), ('3:38439105', '1:grid.466182.f'), ('3:38439105', '2:GR0030'), ('5:GR0032', '1:grid.466182.f'), ('5:GR0032', '4:12074797')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 1.3
+	AVERAGE NODE CONNECTIVITY RATIO : 0.325
+	BRIDGES                         : 2
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.556
+	QUALITY USED                    : 0.574
+	SUMMARY 1: BRIDGE 0.5 CLOSURE 0.5 DIAMETER 0.667 QUALITY 0.556 QUALITY USED 0.574
+	SUMMARY 2: BRIDGE 0.556 CLOSURE 0.5 DIAMETER 0.667 QUALITY 0.556 QUALITY USED 0.574

@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 638 
+NAME    N1540582363
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.459896.f>
+	<http://www.grid.ac/institutes/grid.469599.e>
+	<http://www.grid.ac/institutes/grid.459520.f>
+	<http://www.grid.ac/institutes/grid.459766.f>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.459896.f.. http://www.grid.ac/institutes/grid.459520.f.. 0.9.......................................... [Quzhou City People's Hospital] was compared to [Qingzhou City People's Hospital] 
+	http://www.grid.ac/institutes/grid.459520.f.. http://www.grid.ac/institutes/grid.459896.f.. 0.9.......................................... [Quzhou City People's Hospital] was compared to [Qingzhou City People's Hospital] 
+	http://www.grid.ac/institutes/grid.469599.e.. http://www.grid.ac/institutes/grid.459766.f.. 0.931034482759............................... [Meizhou City People's Hospital] was compared to [Wenzhou City People's Hospital] 
+	http://www.grid.ac/institutes/grid.459766.f.. http://www.grid.ac/institutes/grid.469599.e.. 0.931034482759............................... [Meizhou City People's Hospital] was compared to [Wenzhou City People's Hospital] 
+	http://www.grid.ac/institutes/grid.459896.f.. http://www.grid.ac/institutes/grid.469599.e.. 0.9.......................................... [Qingzhou City People's Hospital] was compared to [Wenzhou City People's Hospital] 
+	http://www.grid.ac/institutes/grid.469599.e.. http://www.grid.ac/institutes/grid.459896.f.. 0.9.......................................... [Qingzhou City People's Hospital] was compared to [Wenzhou City People's Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 19 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.459896.f.. 118.58103.................................... 
+	http://www.grid.ac/institutes/grid.459896.f.. 36.749393.................................... 
+	http://www.grid.ac/institutes/grid.459896.f.. http://www.qzrmyy.com/....................... 
+	http://www.grid.ac/institutes/grid.459896.f.. Qingzhou City People's Hospital.............. 
+	http://www.grid.ac/institutes/grid.469599.e.. 120.65427.................................... 
+	http://www.grid.ac/institutes/grid.469599.e.. 28.01224..................................... 
+	http://www.grid.ac/institutes/grid.469599.e.. http://www.wzsrmyy.com/...................... 
+	http://www.grid.ac/institutes/grid.469599.e.. Charity Catholic Church hospital............. 
+	http://www.grid.ac/institutes/grid.469599.e.. Wenzhou Third People's Hospital.............. 
+	http://www.grid.ac/institutes/grid.469599.e.. Wenzhou City People's Hospital............... 
+	http://www.grid.ac/institutes/grid.459520.f.. 118.8721..................................... 
+	http://www.grid.ac/institutes/grid.459520.f.. 28.96235..................................... 
+	http://www.grid.ac/institutes/grid.459520.f.. http://www.qzhospital.com/................... 
+	http://www.grid.ac/institutes/grid.459520.f.. Quzhou City People's Hospital................ 
+	http://www.grid.ac/institutes/grid.459766.f.. 116.10029.................................... 
+	http://www.grid.ac/institutes/grid.459766.f.. 24.312798.................................... 
+	http://www.grid.ac/institutes/grid.459766.f.. http://www.mzrmyy.com/....................... 
+	http://www.grid.ac/institutes/grid.459766.f.. Huangtangjia Hospital........................ 
+	http://www.grid.ac/institutes/grid.459766.f.. Meizhou City People's Hospital............... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.469599.e', '1:grid.459896.f'), ('3:grid.459520.f', '1:grid.459896.f'), ('4:grid.459766.f', '2:grid.469599.e')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

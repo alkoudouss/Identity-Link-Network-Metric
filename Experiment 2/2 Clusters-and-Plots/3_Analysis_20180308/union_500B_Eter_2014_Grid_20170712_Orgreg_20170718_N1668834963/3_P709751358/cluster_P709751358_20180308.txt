@@ -1,0 +1,58 @@
+SIZE    3   
+CLUSTER 993 
+NAME    P709751358
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/PL0121>
+	<http://www.grid.ac/institutes/grid.477747.0>
+	<http://risis.eu/eter_2014/resource/PL0080>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/PL0121.... http://www.grid.ac/institutes/grid.477747.0.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.477747.0.. http://risis.eu/eter_2014/resource/PL0080.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.477747.0.. http://risis.eu/eter_2014/resource/PL0121.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/PL0080.... http://www.grid.ac/institutes/grid.477747.0.. 1............................................ Near each other by at most 500 meter(s)...... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/PL0121.... 50,016693.................................... 
+	http://risis.eu/eter_2014/resource/PL0121.... 20,994657.................................... 
+	http://risis.eu/eter_2014/resource/PL0121.... http://pwsztar.edu.pl/....................... 
+	http://risis.eu/eter_2014/resource/PL0121.... a............................................ 
+	http://risis.eu/eter_2014/resource/PL0121.... State Higher Vocational School in Tarnów.... 
+	http://risis.eu/eter_2014/resource/PL0121.... Państwowa Wyższa Szkoła Zawodowa w Tarnowie 
+	http://www.grid.ac/institutes/grid.477747.0.. 20.994623.................................... 
+	http://www.grid.ac/institutes/grid.477747.0.. 50.017185.................................... 
+	http://www.grid.ac/institutes/grid.477747.0.. http://www.ssz.tar.pl/....................... 
+	http://www.grid.ac/institutes/grid.477747.0.. Specjalistyczny Szpital im.E.Szczeklika w Tarnowie 
+	http://risis.eu/eter_2014/resource/PL0080.... 50,016693.................................... 
+	http://risis.eu/eter_2014/resource/PL0080.... 20,994657.................................... 
+	http://risis.eu/eter_2014/resource/PL0080.... http://www.mwse.edu.pl/...................... 
+	http://risis.eu/eter_2014/resource/PL0080.... a............................................ 
+	http://risis.eu/eter_2014/resource/PL0080.... Economic Higher School of Małopolska in Tarnów 
+	http://risis.eu/eter_2014/resource/PL0080.... Małopolska Wyższa Szkoła Ekonomiczna w Tarnowie 
+
+NETWORK ANALYSIS
+	NETWORK [('P1470989976-PL0121', 'P1030521294-grid.477747.0'), ('P709751358-PL0080', 'P1030521294-grid.477747.0')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

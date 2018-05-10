@@ -1,0 +1,71 @@
+SIZE    5   
+CLUSTER 12723 
+NAME    N494095121
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/21595634>
+	<http://risis.eu/leidenRanking_2015/resource/1270>
+	<http://www.grid.ac/institutes/grid.264727.2>
+	<http://risis.eu/orgref_20170703/resource/239930>
+	<http://www.grid.ac/institutes/grid.420197.9>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.264727.2........ http://risis.eu/orgref_20170703/resource/239930.... 1.................................................. [Temple University] was compared to [Temple University] 
+	http://risis.eu/orgref_20170703/resource/239930.... http://www.grid.ac/institutes/grid.264727.2........ 1.................................................. [Temple University] was compared to [Temple University] 
+	http://risis.eu/orgref_20170703/resource/21595634.. http://www.grid.ac/institutes/grid.420197.9........ 0.944444444444..................................... [People’s University] was compared to [University of the People] 
+	http://www.grid.ac/institutes/grid.420197.9........ http://risis.eu/orgref_20170703/resource/21595634.. 0.944444444444..................................... [People’s University] was compared to [University of the People] 
+	http://risis.eu/leidenRanking_2015/resource/1270... http://www.grid.ac/institutes/grid.264727.2........ 1.................................................. [Temple University] was compared to [Temple University] 
+	http://www.grid.ac/institutes/grid.264727.2........ http://risis.eu/leidenRanking_2015/resource/1270... 1.................................................. [Temple University] was compared to [Temple University] 
+	http://risis.eu/leidenRanking_2015/resource/1270... http://risis.eu/orgref_20170703/resource/239930.... 1.................................................. [Temple University] was compared to [Temple University] 
+	http://risis.eu/orgref_20170703/resource/239930.... http://risis.eu/leidenRanking_2015/resource/1270... 1.................................................. [Temple University] was compared to [Temple University] 
+	http://risis.eu/orgref_20170703/resource/21595634.. http://risis.eu/orgref_20170703/resource/239930.... 0.882352941176..................................... [University of the People] was compared to [Temple University] 
+	http://risis.eu/orgref_20170703/resource/239930.... http://risis.eu/orgref_20170703/resource/21595634.. 0.882352941176..................................... [University of the People] was compared to [Temple University] 
+	http://risis.eu/orgref_20170703/resource/21595634.. http://risis.eu/leidenRanking_2015/resource/1270... 0.882352941176..................................... [University of the People] was compared to [Temple University] 
+	http://risis.eu/leidenRanking_2015/resource/1270... http://risis.eu/orgref_20170703/resource/21595634.. 0.882352941176..................................... [University of the People] was compared to [Temple University] 
+	http://risis.eu/orgref_20170703/resource/21595634.. http://www.grid.ac/institutes/grid.264727.2........ 0.882352941176..................................... [Temple University] was compared to [University of the People] 
+	http://www.grid.ac/institutes/grid.264727.2........ http://risis.eu/orgref_20170703/resource/21595634.. 0.882352941176..................................... [Temple University] was compared to [University of the People] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/21595634.. http://en.wikipedia.org/wiki?curid=21595634........ 
+	http://risis.eu/orgref_20170703/resource/21595634.. http://www.wikidata.org/wiki/Q620973............... 
+	http://risis.eu/orgref_20170703/resource/21595634.. http://uopeople.edu................................ 
+	http://risis.eu/orgref_20170703/resource/21595634.. University of the People........................... 
+	http://risis.eu/leidenRanking_2015/resource/1270... Temple University.................................. 
+	http://www.grid.ac/institutes/grid.264727.2........ -75.154594......................................... 
+	http://www.grid.ac/institutes/grid.264727.2........ 39.982258.......................................... 
+	http://www.grid.ac/institutes/grid.264727.2........ http://www.temple.edu/............................. 
+	http://www.grid.ac/institutes/grid.264727.2........ Temple University.................................. 
+	http://risis.eu/orgref_20170703/resource/239930.... http://en.wikipedia.org/wiki?curid=239930.......... 
+	http://risis.eu/orgref_20170703/resource/239930.... http://www.wikidata.org/wiki/Q1420239.............. 
+	http://risis.eu/orgref_20170703/resource/239930.... http://temple.edu.................................. 
+	http://risis.eu/orgref_20170703/resource/239930.... Temple University.................................. 
+	http://www.grid.ac/institutes/grid.420197.9........ 77.42399........................................... 
+	http://www.grid.ac/institutes/grid.420197.9........ 23.301237.......................................... 
+	http://www.grid.ac/institutes/grid.420197.9........ http://peoplesuniversity.edu.in/peoples-home/index.php 
+	http://www.grid.ac/institutes/grid.420197.9........ People’s University.............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1270', '1:21595634'), ('2:1270', '3:grid.264727.2'), ('3:grid.264727.2', '1:21595634'), ('4:239930', '1:21595634'), ('4:239930', '2:1270'), ('4:239930', '3:grid.264727.2'), ('5:grid.420197.9', '1:21595634')]
+	MAX DISTANCE:                   : 0.7
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 2.2
+	AVERAGE NODE CONNECTIVITY RATIO : 0.55
+	BRIDGES                         : 1
+	CLOSURE                         : 0.7
+	DIAMETER                        : 2
+	QUALITY                         : 0.294
+	QUALITY USED                    : 0.357
+	SUMMARY 1: BRIDGE 0.25 CLOSURE 0.3 DIAMETER 0.333 QUALITY 0.294 QUALITY USED 0.357
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.3 DIAMETER 0.385 QUALITY 0.294 QUALITY USED 0.357

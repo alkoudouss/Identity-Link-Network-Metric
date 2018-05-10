@@ -1,0 +1,71 @@
+SIZE    5   
+CLUSTER 1887 
+NAME    N599392577
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.448136.c>
+	<http://risis.eu/orgreg_20170718/resource/SK1006>
+	<http://risis.eu/orgreg_20170718/resource/CZ1024>
+	<http://www.grid.ac/institutes/grid.458510.d>
+	<http://www.grid.ac/institutes/grid.464537.7>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.458510.d...... http://www.grid.ac/institutes/grid.464537.7...... 0.825............................................ [Institute of Soil and Water Conservation] was compared to [Indian Institute of Soil and Water Conservation] 
+	http://www.grid.ac/institutes/grid.464537.7...... http://www.grid.ac/institutes/grid.458510.d...... 0.825............................................ [Institute of Soil and Water Conservation] was compared to [Indian Institute of Soil and Water Conservation] 
+	http://www.grid.ac/institutes/grid.448136.c...... http://www.grid.ac/institutes/grid.464537.7...... 0.833333333333................................... [Research Institute for Soil and Water Conservation] was compared to [Indian Institute of Soil and Water Conservation] 
+	http://www.grid.ac/institutes/grid.464537.7...... http://www.grid.ac/institutes/grid.448136.c...... 0.833333333333................................... [Research Institute for Soil and Water Conservation] was compared to [Indian Institute of Soil and Water Conservation] 
+	http://risis.eu/orgreg_20170718/resource/SK1006.. http://risis.eu/orgreg_20170718/resource/CZ1024.. 0.863636363636................................... [Research Institute for Soil and Water Conservation] was compared to [Soil Science and Conservation Research Institute (SSCRI)] 
+	http://risis.eu/orgreg_20170718/resource/CZ1024.. http://risis.eu/orgreg_20170718/resource/SK1006.. 0.863636363636................................... [Research Institute for Soil and Water Conservation] was compared to [Soil Science and Conservation Research Institute (SSCRI)] 
+	http://www.grid.ac/institutes/grid.448136.c...... http://risis.eu/orgreg_20170718/resource/SK1006.. 0.863636363636................................... [Research Institute for Soil and Water Conservation] was compared to [Soil Science and Conservation Research Institute (SSCRI)] 
+	http://risis.eu/orgreg_20170718/resource/SK1006.. http://www.grid.ac/institutes/grid.448136.c...... 0.863636363636................................... [Research Institute for Soil and Water Conservation] was compared to [Soil Science and Conservation Research Institute (SSCRI)] 
+	http://www.grid.ac/institutes/grid.448136.c...... http://risis.eu/orgreg_20170718/resource/CZ1024.. 1................................................ [Research Institute for Soil and Water Conservation] was compared to [Research Institute for Soil and Water Conservation] 
+	http://risis.eu/orgreg_20170718/resource/CZ1024.. http://www.grid.ac/institutes/grid.448136.c...... 1................................................ [Research Institute for Soil and Water Conservation] was compared to [Research Institute for Soil and Water Conservation] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 21 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.448136.c...... 14.383796........................................ 
+	http://www.grid.ac/institutes/grid.448136.c...... 49.970123........................................ 
+	http://www.grid.ac/institutes/grid.448136.c...... http://www.vumop.cz/............................. 
+	http://www.grid.ac/institutes/grid.448136.c...... Research Institute for Soil and Water Conservation 
+	http://risis.eu/orgreg_20170718/resource/SK1006.. 17.169369........................................ 
+	http://risis.eu/orgreg_20170718/resource/SK1006.. 48.150333........................................ 
+	http://risis.eu/orgreg_20170718/resource/SK1006.. www.vupop.sk..................................... 
+	http://risis.eu/orgreg_20170718/resource/SK1006.. Soil Science and Conservation Research Institute (SSCRI) 
+	http://risis.eu/orgreg_20170718/resource/CZ1024.. 14.374484........................................ 
+	http://risis.eu/orgreg_20170718/resource/CZ1024.. 50.00334......................................... 
+	http://risis.eu/orgreg_20170718/resource/CZ1024.. http://www.vumop.cz.............................. 
+	http://risis.eu/orgreg_20170718/resource/CZ1024.. Research Institute for Soil and Water Conservation 
+	http://www.grid.ac/institutes/grid.458510.d...... 108.07471........................................ 
+	http://www.grid.ac/institutes/grid.458510.d...... 34.274487........................................ 
+	http://www.grid.ac/institutes/grid.458510.d...... http://english.iswc.cas.cn/...................... 
+	http://www.grid.ac/institutes/grid.458510.d...... Institute of Soil and Water Conservation......... 
+	http://www.grid.ac/institutes/grid.464537.7...... 78.01437......................................... 
+	http://www.grid.ac/institutes/grid.464537.7...... 30.34451......................................... 
+	http://www.grid.ac/institutes/grid.464537.7...... http://www.cswcrtiweb.org/....................... 
+	http://www.grid.ac/institutes/grid.464537.7...... Central Soil and Water Conservation Research and Training Institute 
+	http://www.grid.ac/institutes/grid.464537.7...... Indian Institute of Soil and Water Conservation.. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:SK1006', '1:grid.448136.c'), ('2:SK1006', '3:CZ1024'), ('3:CZ1024', '1:grid.448136.c'), ('5:grid.464537.7', '1:grid.448136.c'), ('5:grid.464537.7', '4:grid.458510.d')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 1.3
+	AVERAGE NODE CONNECTIVITY RATIO : 0.325
+	BRIDGES                         : 2
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.556
+	QUALITY USED                    : 0.574
+	SUMMARY 1: BRIDGE 0.5 CLOSURE 0.5 DIAMETER 0.667 QUALITY 0.556 QUALITY USED 0.574
+	SUMMARY 2: BRIDGE 0.556 CLOSURE 0.5 DIAMETER 0.667 QUALITY 0.556 QUALITY USED 0.574

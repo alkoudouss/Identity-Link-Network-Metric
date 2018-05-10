@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 11517 
+NAME    N2034792738
+
+RESOURCES INVOLVED
+	<http://risis.eu/cordisH2020/resource/participant_999988812>
+	<http://risis.eu/eter_2014/resource/DE0071>
+	<http://risis.eu/orgreg_20170718/resource/DE0071>
+	<http://risis.eu/leidenRanking_2015/resource/219>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_999988812.. http://risis.eu/leidenRanking_2015/resource/219............. 0.913043478261.............................................. [RUHR-UNIVERSITAET BOCHUM] was compared to [Ruhr-Universit�t Bochum] 
+	http://risis.eu/leidenRanking_2015/resource/219............. http://risis.eu/cordisH2020/resource/participant_999988812.. 0.913043478261.............................................. [RUHR-UNIVERSITAET BOCHUM] was compared to [Ruhr-Universit�t Bochum] 
+	http://risis.eu/cordisH2020/resource/participant_999988812.. http://risis.eu/eter_2014/resource/DE0071................... 0.95652173913............................................... [RUHR-UNIVERSITAET BOCHUM] was compared to [Ruhr-Universität Bochum] 
+	http://risis.eu/eter_2014/resource/DE0071................... http://risis.eu/cordisH2020/resource/participant_999988812.. 0.95652173913............................................... [RUHR-UNIVERSITAET BOCHUM] was compared to [Ruhr-Universität Bochum] 
+	http://risis.eu/eter_2014/resource/DE0071................... http://risis.eu/leidenRanking_2015/resource/219............. 0.954545454545.............................................. [Ruhr-Universität Bochum] was compared to [Ruhr-Universit�t Bochum] 
+	http://risis.eu/leidenRanking_2015/resource/219............. http://risis.eu/eter_2014/resource/DE0071................... 0.954545454545.............................................. [Ruhr-Universität Bochum] was compared to [Ruhr-Universit�t Bochum] 
+	http://risis.eu/orgreg_20170718/resource/DE0071............. http://risis.eu/leidenRanking_2015/resource/219............. 0.952380952381.............................................. [Ruhr-University Bochum] was compared to [Ruhr-Universit�t Bochum] 
+	http://risis.eu/leidenRanking_2015/resource/219............. http://risis.eu/orgreg_20170718/resource/DE0071............. 0.952380952381.............................................. [Ruhr-University Bochum] was compared to [Ruhr-Universit�t Bochum] 
+	http://risis.eu/cordisH2020/resource/participant_999988812.. http://risis.eu/orgreg_20170718/resource/DE0071............. 0.869565217391.............................................. [Ruhr-University Bochum] was compared to [RUHR-UNIVERSITAET BOCHUM] 
+	http://risis.eu/orgreg_20170718/resource/DE0071............. http://risis.eu/cordisH2020/resource/participant_999988812.. 0.869565217391.............................................. [Ruhr-University Bochum] was compared to [RUHR-UNIVERSITAET BOCHUM] 
+	http://risis.eu/eter_2014/resource/DE0071................... http://risis.eu/orgreg_20170718/resource/DE0071............. 0.909090909091.............................................. [Ruhr-University Bochum] was compared to [Ruhr-Universität Bochum] 
+	http://risis.eu/orgreg_20170718/resource/DE0071............. http://risis.eu/eter_2014/resource/DE0071................... 0.909090909091.............................................. [Ruhr-University Bochum] was compared to [Ruhr-Universität Bochum] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_999988812.. http://risis.eu/cordisH2020/resource/www.rub.de............. 
+	http://risis.eu/cordisH2020/resource/participant_999988812.. http://risis.eu/cordisH2020/resource/www.ruhr-uni-bochum.de. 
+	http://risis.eu/cordisH2020/resource/participant_999988812.. RUHR-UNIVERSITAET BOCHUM.................................... 
+	http://risis.eu/eter_2014/resource/DE0071................... 51,453068................................................... 
+	http://risis.eu/eter_2014/resource/DE0071................... 7,26841..................................................... 
+	http://risis.eu/eter_2014/resource/DE0071................... /www.ruhr-uni-bochum.de..................................... 
+	http://risis.eu/eter_2014/resource/DE0071................... a........................................................... 
+	http://risis.eu/eter_2014/resource/DE0071................... Ruhr-University Bochum...................................... 
+	http://risis.eu/eter_2014/resource/DE0071................... Ruhr-Universität Bochum.................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0071............. 51.453068................................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0071............. 7.26841..................................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0071............. /www.ruhr-uni-bochum.de..................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0071............. Ruhr-University Bochum...................................... 
+	http://risis.eu/leidenRanking_2015/resource/219............. Ruhr-Universit�t Bochum................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:participant_999988812', '3:DE0071'), ('2:DE0071', '1:participant_999988812'), ('3:DE0071', '2:DE0071'), ('4:219', '1:participant_999988812'), ('4:219', '2:DE0071'), ('4:219', '3:DE0071')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

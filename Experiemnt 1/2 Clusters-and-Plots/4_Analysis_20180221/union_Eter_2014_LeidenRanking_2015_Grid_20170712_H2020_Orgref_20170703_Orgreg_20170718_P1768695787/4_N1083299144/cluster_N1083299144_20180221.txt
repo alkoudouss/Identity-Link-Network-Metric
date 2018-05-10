@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 8890 
+NAME    N1083299144
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.469188.a>
+	<http://risis.eu/orgref_20170703/resource/23737358>
+	<http://risis.eu/orgref_20170703/resource/10722038>
+	<http://www.grid.ac/institutes/grid.470103.1>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.469188.a........ http://risis.eu/orgref_20170703/resource/10722038.. 1.................................................. [Southern Maine Community College] was compared to [Southern Maine Community College] 
+	http://risis.eu/orgref_20170703/resource/10722038.. http://www.grid.ac/institutes/grid.469188.a........ 1.................................................. [Southern Maine Community College] was compared to [Southern Maine Community College] 
+	http://risis.eu/orgref_20170703/resource/23737358.. http://www.grid.ac/institutes/grid.470103.1........ 1.................................................. [Northern Maine Community College] was compared to [Northern Maine Community College] 
+	http://www.grid.ac/institutes/grid.470103.1........ http://risis.eu/orgref_20170703/resource/23737358.. 1.................................................. [Northern Maine Community College] was compared to [Northern Maine Community College] 
+	http://risis.eu/orgref_20170703/resource/23737358.. http://risis.eu/orgref_20170703/resource/10722038.. 0.9375............................................. [Southern Maine Community College] was compared to [Northern Maine Community College] 
+	http://risis.eu/orgref_20170703/resource/10722038.. http://risis.eu/orgref_20170703/resource/23737358.. 0.9375............................................. [Southern Maine Community College] was compared to [Northern Maine Community College] 
+	http://www.grid.ac/institutes/grid.469188.a........ http://www.grid.ac/institutes/grid.470103.1........ 0.9375............................................. [Southern Maine Community College] was compared to [Northern Maine Community College] 
+	http://www.grid.ac/institutes/grid.470103.1........ http://www.grid.ac/institutes/grid.469188.a........ 0.9375............................................. [Southern Maine Community College] was compared to [Northern Maine Community College] 
+	http://www.grid.ac/institutes/grid.469188.a........ http://risis.eu/orgref_20170703/resource/23737358.. 0.9375............................................. [Southern Maine Community College] was compared to [Northern Maine Community College] 
+	http://risis.eu/orgref_20170703/resource/23737358.. http://www.grid.ac/institutes/grid.469188.a........ 0.9375............................................. [Southern Maine Community College] was compared to [Northern Maine Community College] 
+	http://risis.eu/orgref_20170703/resource/10722038.. http://www.grid.ac/institutes/grid.470103.1........ 0.9375............................................. [Northern Maine Community College] was compared to [Southern Maine Community College] 
+	http://www.grid.ac/institutes/grid.470103.1........ http://risis.eu/orgref_20170703/resource/10722038.. 0.9375............................................. [Northern Maine Community College] was compared to [Southern Maine Community College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.469188.a........ -70.22829.......................................... 
+	http://www.grid.ac/institutes/grid.469188.a........ 43.647068.......................................... 
+	http://www.grid.ac/institutes/grid.469188.a........ http://www.smccme.edu/............................. 
+	http://www.grid.ac/institutes/grid.469188.a........ Southern Maine Community College................... 
+	http://risis.eu/orgref_20170703/resource/23737358.. http://en.wikipedia.org/wiki?curid=23737358........ 
+	http://risis.eu/orgref_20170703/resource/23737358.. http://www.wikidata.org/wiki/Q14715332............. 
+	http://risis.eu/orgref_20170703/resource/23737358.. http://www.nmcc.edu................................ 
+	http://risis.eu/orgref_20170703/resource/23737358.. Northern Maine Community College................... 
+	http://risis.eu/orgref_20170703/resource/10722038.. http://en.wikipedia.org/wiki?curid=10722038........ 
+	http://risis.eu/orgref_20170703/resource/10722038.. http://www.wikidata.org/wiki/Q7570118.............. 
+	http://risis.eu/orgref_20170703/resource/10722038.. http://www.smccme.edu.............................. 
+	http://risis.eu/orgref_20170703/resource/10722038.. Southern Maine Community College................... 
+	http://www.grid.ac/institutes/grid.470103.1........ -68.03433.......................................... 
+	http://www.grid.ac/institutes/grid.470103.1........ 46.694454.......................................... 
+	http://www.grid.ac/institutes/grid.470103.1........ http://www.nmcc.edu/............................... 
+	http://www.grid.ac/institutes/grid.470103.1........ Northern Maine Technical College................... 
+	http://www.grid.ac/institutes/grid.470103.1........ Northern Maine Community College................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:23737358', '1:grid.469188.a'), ('2:23737358', '4:grid.470103.1'), ('3:10722038', '1:grid.469188.a'), ('3:10722038', '2:23737358'), ('4:grid.470103.1', '1:grid.469188.a'), ('4:grid.470103.1', '3:10722038')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

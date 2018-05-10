@@ -1,0 +1,55 @@
+SIZE    3   
+CLUSTER 248 
+NAME    N1709239824
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.437235.4>
+	<http://www.grid.ac/institutes/grid.451094.d>
+	<http://risis.eu/eter_2014/resource/UK0168>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.437235.4.. http://risis.eu/eter_2014/resource/UK0168.... 0.833333333333............................... [leeds college art] was compared to [leeds city college] 
+	http://www.grid.ac/institutes/grid.451094.d.. http://risis.eu/eter_2014/resource/UK0168.... 1............................................ [leeds college art] was compared to [leeds college art] 
+	http://risis.eu/eter_2014/resource/UK0168.... http://www.grid.ac/institutes/grid.437235.4.. 0.833333333333............................... [leeds college art] was compared to [leeds city college] 
+	http://risis.eu/eter_2014/resource/UK0168.... http://www.grid.ac/institutes/grid.451094.d.. 1............................................ [leeds college art] was compared to [leeds college art] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.437235.4.. -1.558363.................................... 
+	http://www.grid.ac/institutes/grid.437235.4.. 53.800503.................................... 
+	http://www.grid.ac/institutes/grid.437235.4.. http://www.leedscitycollege.ac.uk/........... 
+	http://www.grid.ac/institutes/grid.437235.4.. Leeds City College........................... 
+	http://www.grid.ac/institutes/grid.451094.d.. -1.5517...................................... 
+	http://www.grid.ac/institutes/grid.451094.d.. 53.8084...................................... 
+	http://www.grid.ac/institutes/grid.451094.d.. http://www.leeds-art.ac.uk/.................. 
+	http://www.grid.ac/institutes/grid.451094.d.. Leeds College of Art......................... 
+	http://risis.eu/eter_2014/resource/UK0168.... 53,808447.................................... 
+	http://risis.eu/eter_2014/resource/UK0168.... -1,551775.................................... 
+	http://risis.eu/eter_2014/resource/UK0168.... http://www.leeds-art.ac.uk................... 
+	http://risis.eu/eter_2014/resource/UK0168.... a............................................ 
+	http://risis.eu/eter_2014/resource/UK0168.... Leeds College of Art......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('P1668684207-UK0168', 'P1210546459-grid.451094.d'), ('P1668684207-UK0168', 'N1709239824-grid.437235.4')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

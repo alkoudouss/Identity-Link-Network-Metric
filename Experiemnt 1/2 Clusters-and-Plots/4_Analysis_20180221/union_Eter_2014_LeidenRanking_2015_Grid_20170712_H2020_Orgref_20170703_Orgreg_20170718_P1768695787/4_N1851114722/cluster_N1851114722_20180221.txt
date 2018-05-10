@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 781 
+NAME    N1851114722
+
+RESOURCES INVOLVED
+	<http://risis.eu/cordisH2020/resource/participant_998475709>
+	<http://risis.eu/eter_2014/resource/IT0008>
+	<http://risis.eu/cordisH2020/resource/participant_999595380>
+	<http://risis.eu/eter_2014/resource/IT0081>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_998475709.. http://risis.eu/cordisH2020/resource/participant_999595380.. 0.939393939394.............................................. [UNIVERSITA DEGLI STUDI DI TERAMO] was compared to [UNIVERSITA' DEGLI STUDI DI BERGAMO] 
+	http://risis.eu/cordisH2020/resource/participant_999595380.. http://risis.eu/cordisH2020/resource/participant_998475709.. 0.939393939394.............................................. [UNIVERSITA DEGLI STUDI DI TERAMO] was compared to [UNIVERSITA' DEGLI STUDI DI BERGAMO] 
+	http://risis.eu/cordisH2020/resource/participant_999595380.. http://risis.eu/eter_2014/resource/IT0081................... 0.939393939394.............................................. [UNIVERSITA' DEGLI STUDI DI BERGAMO] was compared to [Università degli Studi di TERAMO] 
+	http://risis.eu/eter_2014/resource/IT0081................... http://risis.eu/cordisH2020/resource/participant_999595380.. 0.939393939394.............................................. [UNIVERSITA' DEGLI STUDI DI BERGAMO] was compared to [Università degli Studi di TERAMO] 
+	http://risis.eu/eter_2014/resource/IT0008................... http://risis.eu/cordisH2020/resource/participant_999595380.. 1........................................................... [UNIVERSITA' DEGLI STUDI DI BERGAMO] was compared to [Università degli Studi di BERGAMO] 
+	http://risis.eu/cordisH2020/resource/participant_999595380.. http://risis.eu/eter_2014/resource/IT0008................... 1........................................................... [UNIVERSITA' DEGLI STUDI DI BERGAMO] was compared to [Università degli Studi di BERGAMO] 
+	http://risis.eu/cordisH2020/resource/participant_998475709.. http://risis.eu/eter_2014/resource/IT0081................... 1........................................................... [UNIVERSITA DEGLI STUDI DI TERAMO] was compared to [Università degli Studi di TERAMO] 
+	http://risis.eu/eter_2014/resource/IT0081................... http://risis.eu/cordisH2020/resource/participant_998475709.. 1........................................................... [UNIVERSITA DEGLI STUDI DI TERAMO] was compared to [Università degli Studi di TERAMO] 
+	http://risis.eu/cordisH2020/resource/participant_998475709.. http://risis.eu/eter_2014/resource/IT0008................... 0.939393939394.............................................. [UNIVERSITA DEGLI STUDI DI TERAMO] was compared to [Università degli Studi di BERGAMO] 
+	http://risis.eu/eter_2014/resource/IT0008................... http://risis.eu/cordisH2020/resource/participant_998475709.. 0.939393939394.............................................. [UNIVERSITA DEGLI STUDI DI TERAMO] was compared to [Università degli Studi di BERGAMO] 
+	http://risis.eu/eter_2014/resource/IT0008................... http://risis.eu/eter_2014/resource/IT0081................... 0.939393939394.............................................. [Università degli Studi di BERGAMO] was compared to [Università degli Studi di TERAMO] 
+	http://risis.eu/eter_2014/resource/IT0081................... http://risis.eu/eter_2014/resource/IT0008................... 0.939393939394.............................................. [Università degli Studi di BERGAMO] was compared to [Università degli Studi di TERAMO] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_998475709.. http://risis.eu/cordisH2020/resource/www.unite.it........... 
+	http://risis.eu/cordisH2020/resource/participant_998475709.. UNIVERSITA DEGLI STUDI DI TERAMO............................ 
+	http://risis.eu/eter_2014/resource/IT0008................... 45,702253................................................... 
+	http://risis.eu/eter_2014/resource/IT0008................... 9,63232..................................................... 
+	http://risis.eu/eter_2014/resource/IT0008................... http://www.unibg.it......................................... 
+	http://risis.eu/eter_2014/resource/IT0008................... a........................................................... 
+	http://risis.eu/eter_2014/resource/IT0008................... University of Bergamo....................................... 
+	http://risis.eu/eter_2014/resource/IT0008................... Università degli Studi di BERGAMO.......................... 
+	http://risis.eu/cordisH2020/resource/participant_999595380.. http://risis.eu/cordisH2020/resource/www.unibg.it........... 
+	http://risis.eu/cordisH2020/resource/participant_999595380.. UNIVERSITA' DEGLI STUDI DI BERGAMO.......................... 
+	http://risis.eu/eter_2014/resource/IT0081................... 42,661143................................................... 
+	http://risis.eu/eter_2014/resource/IT0081................... 13,698664................................................... 
+	http://risis.eu/eter_2014/resource/IT0081................... http://www.unite.it......................................... 
+	http://risis.eu/eter_2014/resource/IT0081................... a........................................................... 
+	http://risis.eu/eter_2014/resource/IT0081................... University of Teramo........................................ 
+	http://risis.eu/eter_2014/resource/IT0081................... Università degli Studi di TERAMO........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:IT0008', '1:participant_998475709'), ('2:IT0008', '3:participant_999595380'), ('3:participant_999595380', '1:participant_998475709'), ('4:IT0081', '1:participant_998475709'), ('4:IT0081', '2:IT0008'), ('4:IT0081', '3:participant_999595380')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

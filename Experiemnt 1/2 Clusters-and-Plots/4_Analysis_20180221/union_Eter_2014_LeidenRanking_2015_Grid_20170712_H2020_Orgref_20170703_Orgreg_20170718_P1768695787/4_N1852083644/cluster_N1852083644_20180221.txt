@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 9198 
+NAME    N1852083644
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.411666.2>
+	<http://www.grid.ac/institutes/grid.442940.f>
+	<http://risis.eu/orgref_20170703/resource/28838297>
+	<http://risis.eu/orgref_20170703/resource/19665571>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.411666.2........ http://risis.eu/orgref_20170703/resource/28838297.. 1.................................................. [Benue State University] was compared to [Benue State University] 
+	http://risis.eu/orgref_20170703/resource/28838297.. http://www.grid.ac/institutes/grid.411666.2........ 1.................................................. [Benue State University] was compared to [Benue State University] 
+	http://www.grid.ac/institutes/grid.442940.f........ http://risis.eu/orgref_20170703/resource/19665571.. 1.................................................. [Benguet State University] was compared to [Benguet State University] 
+	http://risis.eu/orgref_20170703/resource/19665571.. http://www.grid.ac/institutes/grid.442940.f........ 1.................................................. [Benguet State University] was compared to [Benguet State University] 
+	http://risis.eu/orgref_20170703/resource/28838297.. http://risis.eu/orgref_20170703/resource/19665571.. 0.916666666667..................................... [Benguet State University] was compared to [Benue State University] 
+	http://risis.eu/orgref_20170703/resource/19665571.. http://risis.eu/orgref_20170703/resource/28838297.. 0.916666666667..................................... [Benguet State University] was compared to [Benue State University] 
+	http://www.grid.ac/institutes/grid.411666.2........ http://www.grid.ac/institutes/grid.442940.f........ 0.916666666667..................................... [Benue State University] was compared to [Benguet State University] 
+	http://www.grid.ac/institutes/grid.442940.f........ http://www.grid.ac/institutes/grid.411666.2........ 0.916666666667..................................... [Benue State University] was compared to [Benguet State University] 
+	http://www.grid.ac/institutes/grid.411666.2........ http://risis.eu/orgref_20170703/resource/19665571.. 0.916666666667..................................... [Benue State University] was compared to [Benguet State University] 
+	http://risis.eu/orgref_20170703/resource/19665571.. http://www.grid.ac/institutes/grid.411666.2........ 0.916666666667..................................... [Benue State University] was compared to [Benguet State University] 
+	http://www.grid.ac/institutes/grid.442940.f........ http://risis.eu/orgref_20170703/resource/28838297.. 0.916666666667..................................... [Benguet State University] was compared to [Benue State University] 
+	http://risis.eu/orgref_20170703/resource/28838297.. http://www.grid.ac/institutes/grid.442940.f........ 0.916666666667..................................... [Benguet State University] was compared to [Benue State University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.411666.2........ 8.552874........................................... 
+	http://www.grid.ac/institutes/grid.411666.2........ 7.728164........................................... 
+	http://www.grid.ac/institutes/grid.411666.2........ http://www.bsum.edu.ng/............................ 
+	http://www.grid.ac/institutes/grid.411666.2........ Benue State University............................. 
+	http://www.grid.ac/institutes/grid.442940.f........ Benguet State University........................... 
+	http://risis.eu/orgref_20170703/resource/28838297.. http://en.wikipedia.org/wiki?curid=28838297........ 
+	http://risis.eu/orgref_20170703/resource/28838297.. http://www.wikidata.org/wiki/Q4890689.............. 
+	http://risis.eu/orgref_20170703/resource/28838297.. http://www.bsum.edu.ng............................. 
+	http://risis.eu/orgref_20170703/resource/28838297.. Benue State University............................. 
+	http://risis.eu/orgref_20170703/resource/19665571.. http://en.wikipedia.org/wiki?curid=19665571........ 
+	http://risis.eu/orgref_20170703/resource/19665571.. http://www.wikidata.org/wiki/Q3578258.............. 
+	http://risis.eu/orgref_20170703/resource/19665571.. http://www.bsu.edu.ph.............................. 
+	http://risis.eu/orgref_20170703/resource/19665571.. Benguet State University........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.442940.f', '1:grid.411666.2'), ('3:28838297', '1:grid.411666.2'), ('3:28838297', '2:grid.442940.f'), ('3:28838297', '4:19665571'), ('4:19665571', '1:grid.411666.2'), ('4:19665571', '2:grid.442940.f')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 9614 
+NAME    N1424532027
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.422920.f>
+	<http://risis.eu/orgref_20170703/resource/1067137>
+	<http://www.grid.ac/institutes/grid.264771.1>
+	<http://risis.eu/orgref_20170703/resource/543894>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.264771.1....... http://risis.eu/orgref_20170703/resource/543894... 1................................................. [Texas Southern University] was compared to [Texas Southern University] 
+	http://risis.eu/orgref_20170703/resource/543894... http://www.grid.ac/institutes/grid.264771.1....... 1................................................. [Texas Southern University] was compared to [Texas Southern University] 
+	http://www.grid.ac/institutes/grid.422920.f....... http://risis.eu/orgref_20170703/resource/1067137.. 1................................................. [Texas Lutheran University] was compared to [Texas Lutheran University] 
+	http://risis.eu/orgref_20170703/resource/1067137.. http://www.grid.ac/institutes/grid.422920.f....... 1................................................. [Texas Lutheran University] was compared to [Texas Lutheran University] 
+	http://risis.eu/orgref_20170703/resource/1067137.. http://risis.eu/orgref_20170703/resource/543894... 0.88.............................................. [Texas Lutheran University] was compared to [Texas Southern University] 
+	http://risis.eu/orgref_20170703/resource/543894... http://risis.eu/orgref_20170703/resource/1067137.. 0.88.............................................. [Texas Lutheran University] was compared to [Texas Southern University] 
+	http://www.grid.ac/institutes/grid.422920.f....... http://www.grid.ac/institutes/grid.264771.1....... 0.88.............................................. [Texas Southern University] was compared to [Texas Lutheran University] 
+	http://www.grid.ac/institutes/grid.264771.1....... http://www.grid.ac/institutes/grid.422920.f....... 0.88.............................................. [Texas Southern University] was compared to [Texas Lutheran University] 
+	http://risis.eu/orgref_20170703/resource/1067137.. http://www.grid.ac/institutes/grid.264771.1....... 0.88.............................................. [Texas Southern University] was compared to [Texas Lutheran University] 
+	http://www.grid.ac/institutes/grid.264771.1....... http://risis.eu/orgref_20170703/resource/1067137.. 0.88.............................................. [Texas Southern University] was compared to [Texas Lutheran University] 
+	http://www.grid.ac/institutes/grid.422920.f....... http://risis.eu/orgref_20170703/resource/543894... 0.88.............................................. [Texas Lutheran University] was compared to [Texas Southern University] 
+	http://risis.eu/orgref_20170703/resource/543894... http://www.grid.ac/institutes/grid.422920.f....... 0.88.............................................. [Texas Lutheran University] was compared to [Texas Southern University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.422920.f....... -97.986........................................... 
+	http://www.grid.ac/institutes/grid.422920.f....... 29.574............................................ 
+	http://www.grid.ac/institutes/grid.422920.f....... http://www.tlu.edu/............................... 
+	http://www.grid.ac/institutes/grid.422920.f....... Texas Lutheran University......................... 
+	http://risis.eu/orgref_20170703/resource/1067137.. http://en.wikipedia.org/wiki?curid=1067137........ 
+	http://risis.eu/orgref_20170703/resource/1067137.. http://www.wikidata.org/wiki/Q3301911............. 
+	http://risis.eu/orgref_20170703/resource/1067137.. http://www.tlu.edu................................ 
+	http://risis.eu/orgref_20170703/resource/1067137.. Texas Lutheran University......................... 
+	http://www.grid.ac/institutes/grid.264771.1....... -95.361115........................................ 
+	http://www.grid.ac/institutes/grid.264771.1....... 29.722221......................................... 
+	http://www.grid.ac/institutes/grid.264771.1....... http://www.tsu.edu/about/......................... 
+	http://www.grid.ac/institutes/grid.264771.1....... Texas Southern University......................... 
+	http://risis.eu/orgref_20170703/resource/543894... http://en.wikipedia.org/wiki?curid=543894......... 
+	http://risis.eu/orgref_20170703/resource/543894... http://www.wikidata.org/wiki/Q626591.............. 
+	http://risis.eu/orgref_20170703/resource/543894... http://www.tsu.edu................................ 
+	http://risis.eu/orgref_20170703/resource/543894... Texas Southern University......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.422920.f', '3:grid.264771.1'), ('2:1067137', '1:grid.422920.f'), ('2:1067137', '3:grid.264771.1'), ('4:543894', '1:grid.422920.f'), ('4:543894', '2:1067137'), ('4:543894', '3:grid.264771.1')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

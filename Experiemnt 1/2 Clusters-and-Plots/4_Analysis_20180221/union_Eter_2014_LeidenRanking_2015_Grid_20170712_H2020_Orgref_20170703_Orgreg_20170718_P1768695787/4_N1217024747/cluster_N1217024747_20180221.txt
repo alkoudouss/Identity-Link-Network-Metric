@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 10589 
+NAME    N1217024747
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.439261.b>
+	<http://www.grid.ac/institutes/grid.480461.f>
+	<http://www.grid.ac/institutes/grid.474434.4>
+	<http://www.grid.ac/institutes/grid.456371.2>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.439261.b.. http://www.grid.ac/institutes/grid.474434.4.. 1............................................ [Microsemi (United Kingdom)] was compared to [Microsemi (Israel)] 
+	http://www.grid.ac/institutes/grid.474434.4.. http://www.grid.ac/institutes/grid.439261.b.. 1............................................ [Microsemi (United Kingdom)] was compared to [Microsemi (Israel)] 
+	http://www.grid.ac/institutes/grid.439261.b.. http://www.grid.ac/institutes/grid.456371.2.. 1............................................ [Microsemi (United Kingdom)] was compared to [Microsemi (United States)] 
+	http://www.grid.ac/institutes/grid.456371.2.. http://www.grid.ac/institutes/grid.439261.b.. 1............................................ [Microsemi (United Kingdom)] was compared to [Microsemi (United States)] 
+	http://www.grid.ac/institutes/grid.439261.b.. http://www.grid.ac/institutes/grid.480461.f.. 1............................................ [Microsemi (United Kingdom)] was compared to [Microsemi (Canada)] 
+	http://www.grid.ac/institutes/grid.480461.f.. http://www.grid.ac/institutes/grid.439261.b.. 1............................................ [Microsemi (United Kingdom)] was compared to [Microsemi (Canada)] 
+	http://www.grid.ac/institutes/grid.474434.4.. http://www.grid.ac/institutes/grid.456371.2.. 1............................................ [Microsemi (United States)] was compared to [Microsemi (Israel)] 
+	http://www.grid.ac/institutes/grid.456371.2.. http://www.grid.ac/institutes/grid.474434.4.. 1............................................ [Microsemi (United States)] was compared to [Microsemi (Israel)] 
+	http://www.grid.ac/institutes/grid.480461.f.. http://www.grid.ac/institutes/grid.456371.2.. 1............................................ [Microsemi (United States)] was compared to [Microsemi (Canada)] 
+	http://www.grid.ac/institutes/grid.456371.2.. http://www.grid.ac/institutes/grid.480461.f.. 1............................................ [Microsemi (United States)] was compared to [Microsemi (Canada)] 
+	http://www.grid.ac/institutes/grid.480461.f.. http://www.grid.ac/institutes/grid.474434.4.. 1............................................ [Microsemi (Israel)] was compared to [Microsemi (Canada)] 
+	http://www.grid.ac/institutes/grid.474434.4.. http://www.grid.ac/institutes/grid.480461.f.. 1............................................ [Microsemi (Israel)] was compared to [Microsemi (Canada)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.439261.b.. -2.753791.................................... 
+	http://www.grid.ac/institutes/grid.439261.b.. 51.591972.................................... 
+	http://www.grid.ac/institutes/grid.439261.b.. http://www.microsemi.com/.................... 
+	http://www.grid.ac/institutes/grid.439261.b.. Microsemi (United Kingdom)................... 
+	http://www.grid.ac/institutes/grid.480461.f.. -122.914055.................................. 
+	http://www.grid.ac/institutes/grid.480461.f.. 49.259945.................................... 
+	http://www.grid.ac/institutes/grid.480461.f.. https://www.microsemi.com/................... 
+	http://www.grid.ac/institutes/grid.480461.f.. Microsemi (Canada)........................... 
+	http://www.grid.ac/institutes/grid.474434.4.. 34.896294.................................... 
+	http://www.grid.ac/institutes/grid.474434.4.. 32.1318...................................... 
+	http://www.grid.ac/institutes/grid.474434.4.. http://www.microsemi.com/.................... 
+	http://www.grid.ac/institutes/grid.474434.4.. Microsemi (Israel)........................... 
+	http://www.grid.ac/institutes/grid.456371.2.. -117.73346................................... 
+	http://www.grid.ac/institutes/grid.456371.2.. 33.585888.................................... 
+	http://www.grid.ac/institutes/grid.456371.2.. http://www.microsemi.com/.................... 
+	http://www.grid.ac/institutes/grid.456371.2.. Microsemi (United States).................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.480461.f', '1:grid.439261.b'), ('2:grid.480461.f', '4:grid.456371.2'), ('3:grid.474434.4', '1:grid.439261.b'), ('3:grid.474434.4', '2:grid.480461.f'), ('4:grid.456371.2', '1:grid.439261.b'), ('4:grid.456371.2', '3:grid.474434.4')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

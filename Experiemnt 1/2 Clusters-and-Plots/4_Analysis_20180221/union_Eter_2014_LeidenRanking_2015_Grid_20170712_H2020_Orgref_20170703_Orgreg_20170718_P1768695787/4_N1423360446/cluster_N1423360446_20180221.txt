@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 384 
+NAME    N1423360446
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/PT0010>
+	<http://risis.eu/leidenRanking_2015/resource/1051>
+	<http://www.grid.ac/institutes/grid.26793.39>
+	<http://risis.eu/orgref_20170703/resource/2093363>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.26793.39....... http://risis.eu/orgref_20170703/resource/2093363.. 1................................................. [University of Madeira] was compared to [University of Madeira] 
+	http://risis.eu/orgref_20170703/resource/2093363.. http://www.grid.ac/institutes/grid.26793.39....... 1................................................. [University of Madeira] was compared to [University of Madeira] 
+	http://risis.eu/leidenRanking_2015/resource/1051.. http://www.grid.ac/institutes/grid.26793.39....... 1................................................. [University of Madeira] was compared to [University of Madeira] 
+	http://www.grid.ac/institutes/grid.26793.39....... http://risis.eu/leidenRanking_2015/resource/1051.. 1................................................. [University of Madeira] was compared to [University of Madeira] 
+	http://risis.eu/leidenRanking_2015/resource/1051.. http://risis.eu/orgref_20170703/resource/2093363.. 1................................................. [University of Madeira] was compared to [University of Madeira] 
+	http://risis.eu/orgref_20170703/resource/2093363.. http://risis.eu/leidenRanking_2015/resource/1051.. 1................................................. [University of Madeira] was compared to [University of Madeira] 
+	http://risis.eu/orgreg_20170718/resource/PT0010... http://risis.eu/leidenRanking_2015/resource/1051.. 1................................................. [University of Madeira] was compared to [University of Madeira] 
+	http://risis.eu/leidenRanking_2015/resource/1051.. http://risis.eu/orgreg_20170718/resource/PT0010... 1................................................. [University of Madeira] was compared to [University of Madeira] 
+	http://risis.eu/orgreg_20170718/resource/PT0010... http://risis.eu/orgref_20170703/resource/2093363.. 1................................................. [University of Madeira] was compared to [University of Madeira] 
+	http://risis.eu/orgref_20170703/resource/2093363.. http://risis.eu/orgreg_20170718/resource/PT0010... 1................................................. [University of Madeira] was compared to [University of Madeira] 
+	http://risis.eu/orgreg_20170718/resource/PT0010... http://www.grid.ac/institutes/grid.26793.39....... 1................................................. [University of Madeira] was compared to [University of Madeira] 
+	http://www.grid.ac/institutes/grid.26793.39....... http://risis.eu/orgreg_20170718/resource/PT0010... 1................................................. [University of Madeira] was compared to [University of Madeira] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgreg_20170718/resource/PT0010... -16.908843........................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0010... 32.65011.......................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0010... http://www.uma.pt................................. 
+	http://risis.eu/orgreg_20170718/resource/PT0010... University of Madeira............................. 
+	http://risis.eu/leidenRanking_2015/resource/1051.. University of Madeira............................. 
+	http://www.grid.ac/institutes/grid.26793.39....... -16.924444........................................ 
+	http://www.grid.ac/institutes/grid.26793.39....... 32.65889.......................................... 
+	http://www.grid.ac/institutes/grid.26793.39....... http://www.uma.pt/portal/modulos/noticia/index.php?NV_MOD=MODNOTICIA&NV_EAGR=EAGR_NOTICIABROWSER&TPESQ=PESQ_NOTICIA_DESTAQUES 
+	http://www.grid.ac/institutes/grid.26793.39....... University of Madeira............................. 
+	http://risis.eu/orgref_20170703/resource/2093363.. http://en.wikipedia.org/wiki?curid=2093363........ 
+	http://risis.eu/orgref_20170703/resource/2093363.. http://www.wikidata.org/wiki/Q1434847............. 
+	http://risis.eu/orgref_20170703/resource/2093363.. http://www.uma.pt................................. 
+	http://risis.eu/orgref_20170703/resource/2093363.. University of Madeira............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1051', '1:PT0010'), ('2:1051', '3:grid.26793.39'), ('2:1051', '4:2093363'), ('3:grid.26793.39', '1:PT0010'), ('4:2093363', '1:PT0010'), ('4:2093363', '3:grid.26793.39')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

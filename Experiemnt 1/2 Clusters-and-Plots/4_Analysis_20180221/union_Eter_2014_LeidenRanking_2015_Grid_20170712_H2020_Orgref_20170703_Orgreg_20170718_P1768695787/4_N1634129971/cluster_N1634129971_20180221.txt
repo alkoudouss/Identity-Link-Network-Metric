@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 14210 
+NAME    N1634129971
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.7459.f>
+	<http://risis.eu/orgref_20170703/resource/12797301>
+	<http://risis.eu/cordisH2020/resource/participant_999863100>
+	<http://risis.eu/eter_2014/resource/FR0022>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.7459.f................... http://risis.eu/orgref_20170703/resource/12797301........... 1........................................................... [University of Franche-Comté] was compared to [University of Franche-Comté] 
+	http://risis.eu/orgref_20170703/resource/12797301........... http://www.grid.ac/institutes/grid.7459.f................... 1........................................................... [University of Franche-Comté] was compared to [University of Franche-Comté] 
+	http://www.grid.ac/institutes/grid.7459.f................... http://risis.eu/eter_2014/resource/FR0022................... 0.95652173913............................................... [University of Franche-Comté] was compared to [Université de Franche-Comté] 
+	http://risis.eu/eter_2014/resource/FR0022................... http://www.grid.ac/institutes/grid.7459.f................... 0.95652173913............................................... [University of Franche-Comté] was compared to [Université de Franche-Comté] 
+	http://www.grid.ac/institutes/grid.7459.f................... http://risis.eu/cordisH2020/resource/participant_999863100.. 0.95652173913............................................... [University of Franche-Comté] was compared to [UNIVERSITE DE FRANCHE-COMTE] 
+	http://risis.eu/cordisH2020/resource/participant_999863100.. http://www.grid.ac/institutes/grid.7459.f................... 0.95652173913............................................... [University of Franche-Comté] was compared to [UNIVERSITE DE FRANCHE-COMTE] 
+	http://risis.eu/orgref_20170703/resource/12797301........... http://risis.eu/eter_2014/resource/FR0022................... 0.95652173913............................................... [University of Franche-Comté] was compared to [Université de Franche-Comté] 
+	http://risis.eu/eter_2014/resource/FR0022................... http://risis.eu/orgref_20170703/resource/12797301........... 0.95652173913............................................... [University of Franche-Comté] was compared to [Université de Franche-Comté] 
+	http://risis.eu/orgref_20170703/resource/12797301........... http://risis.eu/cordisH2020/resource/participant_999863100.. 0.95652173913............................................... [University of Franche-Comté] was compared to [UNIVERSITE DE FRANCHE-COMTE] 
+	http://risis.eu/cordisH2020/resource/participant_999863100.. http://risis.eu/orgref_20170703/resource/12797301........... 0.95652173913............................................... [University of Franche-Comté] was compared to [UNIVERSITE DE FRANCHE-COMTE] 
+	http://risis.eu/cordisH2020/resource/participant_999863100.. http://risis.eu/eter_2014/resource/FR0022................... 1........................................................... [UNIVERSITE DE FRANCHE-COMTE] was compared to [Université de Franche-Comté] 
+	http://risis.eu/eter_2014/resource/FR0022................... http://risis.eu/cordisH2020/resource/participant_999863100.. 1........................................................... [UNIVERSITE DE FRANCHE-COMTE] was compared to [Université de Franche-Comté] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.7459.f................... 6.0225...................................................... 
+	http://www.grid.ac/institutes/grid.7459.f................... 47.240555................................................... 
+	http://www.grid.ac/institutes/grid.7459.f................... http://www.univ-fcomte.fr/.................................. 
+	http://www.grid.ac/institutes/grid.7459.f................... University of Franche-Comté................................ 
+	http://risis.eu/orgref_20170703/resource/12797301........... http://en.wikipedia.org/wiki?curid=12797301................. 
+	http://risis.eu/orgref_20170703/resource/12797301........... http://www.wikidata.org/wiki/Q829449........................ 
+	http://risis.eu/orgref_20170703/resource/12797301........... http://www.univ-fcomte.fr................................... 
+	http://risis.eu/orgref_20170703/resource/12797301........... University of Franche-Comté................................ 
+	http://risis.eu/cordisH2020/resource/participant_999863100.. http://www.univ-fcomte.fr/.................................. 
+	http://risis.eu/cordisH2020/resource/participant_999863100.. UNIVERSITE DE FRANCHE-COMTE................................. 
+	http://risis.eu/eter_2014/resource/FR0022................... 47,261322................................................... 
+	http://risis.eu/eter_2014/resource/FR0022................... 5,871637.................................................... 
+	http://risis.eu/eter_2014/resource/FR0022................... http://www.univ-fcomte.fr/.................................. 
+	http://risis.eu/eter_2014/resource/FR0022................... m........................................................... 
+	http://risis.eu/eter_2014/resource/FR0022................... University of Franche-Comté................................ 
+	http://risis.eu/eter_2014/resource/FR0022................... Université de Franche-Comté............................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:12797301', '1:grid.7459.f'), ('3:participant_999863100', '1:grid.7459.f'), ('3:participant_999863100', '2:12797301'), ('4:FR0022', '1:grid.7459.f'), ('4:FR0022', '2:12797301'), ('4:FR0022', '3:participant_999863100')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

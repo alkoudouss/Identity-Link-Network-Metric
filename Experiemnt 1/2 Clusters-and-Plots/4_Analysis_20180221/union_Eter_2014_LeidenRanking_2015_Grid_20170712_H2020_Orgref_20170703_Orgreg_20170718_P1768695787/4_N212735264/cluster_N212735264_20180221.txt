@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 2111 
+NAME    N212735264
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.462769.8>
+	<http://risis.eu/orgref_20170703/resource/833793>
+	<http://risis.eu/orgref_20170703/resource/5500226>
+	<http://www.grid.ac/institutes/grid.462772.2>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.462769.8....... http://www.grid.ac/institutes/grid.462772.2....... 0.862068965517.................................... [Saint Joseph Seminary College] was compared to [St. Joseph’s Seminary and College] 
+	http://www.grid.ac/institutes/grid.462772.2....... http://www.grid.ac/institutes/grid.462769.8....... 0.862068965517.................................... [Saint Joseph Seminary College] was compared to [St. Joseph’s Seminary and College] 
+	http://www.grid.ac/institutes/grid.462769.8....... http://risis.eu/orgref_20170703/resource/833793... 1................................................. [Saint Joseph Seminary College] was compared to [Saint Joseph College Seminary] 
+	http://risis.eu/orgref_20170703/resource/833793... http://www.grid.ac/institutes/grid.462769.8....... 1................................................. [Saint Joseph Seminary College] was compared to [Saint Joseph College Seminary] 
+	http://www.grid.ac/institutes/grid.462769.8....... http://risis.eu/orgref_20170703/resource/5500226.. 1................................................. [Saint Joseph Seminary College] was compared to [Saint Joseph Seminary College] 
+	http://risis.eu/orgref_20170703/resource/5500226.. http://www.grid.ac/institutes/grid.462769.8....... 1................................................. [Saint Joseph Seminary College] was compared to [Saint Joseph Seminary College] 
+	http://risis.eu/orgref_20170703/resource/833793... http://risis.eu/orgref_20170703/resource/5500226.. 1................................................. [Saint Joseph Seminary College] was compared to [Saint Joseph College Seminary] 
+	http://risis.eu/orgref_20170703/resource/5500226.. http://risis.eu/orgref_20170703/resource/833793... 1................................................. [Saint Joseph Seminary College] was compared to [Saint Joseph College Seminary] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.462769.8....... -90.11337......................................... 
+	http://www.grid.ac/institutes/grid.462769.8....... 30.52708.......................................... 
+	http://www.grid.ac/institutes/grid.462769.8....... http://www.sjasc.edu/............................. 
+	http://www.grid.ac/institutes/grid.462769.8....... St. Ben........................................... 
+	http://www.grid.ac/institutes/grid.462769.8....... Saint Joseph Seminary College..................... 
+	http://risis.eu/orgref_20170703/resource/833793... http://en.wikipedia.org/wiki?curid=833793......... 
+	http://risis.eu/orgref_20170703/resource/833793... http://www.wikidata.org/wiki/Q7401553............. 
+	http://risis.eu/orgref_20170703/resource/833793... http://cometojoseph.com........................... 
+	http://risis.eu/orgref_20170703/resource/833793... Saint Joseph College Seminary..................... 
+	http://risis.eu/orgref_20170703/resource/5500226.. http://en.wikipedia.org/wiki?curid=5500226........ 
+	http://risis.eu/orgref_20170703/resource/5500226.. http://www.wikidata.org/wiki/Q7401567............. 
+	http://risis.eu/orgref_20170703/resource/5500226.. http://www.sjasc.edu.............................. 
+	http://risis.eu/orgref_20170703/resource/5500226.. Saint Joseph Seminary College..................... 
+	http://www.grid.ac/institutes/grid.462772.2....... -73.86436......................................... 
+	http://www.grid.ac/institutes/grid.462772.2....... 40.93139.......................................... 
+	http://www.grid.ac/institutes/grid.462772.2....... http://www.dunwoodie.edu/......................... 
+	http://www.grid.ac/institutes/grid.462772.2....... Dunwoodie......................................... 
+	http://www.grid.ac/institutes/grid.462772.2....... St. Joseph’s Seminary and College............... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:833793', '1:grid.462769.8'), ('2:833793', '3:5500226'), ('3:5500226', '1:grid.462769.8'), ('4:grid.462772.2', '1:grid.462769.8')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

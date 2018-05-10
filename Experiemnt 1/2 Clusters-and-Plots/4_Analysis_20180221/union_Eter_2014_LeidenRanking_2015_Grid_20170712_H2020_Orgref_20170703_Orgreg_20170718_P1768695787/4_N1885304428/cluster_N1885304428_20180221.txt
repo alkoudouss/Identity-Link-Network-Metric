@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 11700 
+NAME    N1885304428
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.11875.3a>
+	<http://risis.eu/leidenRanking_2015/resource/1363>
+	<http://www.grid.ac/institutes/grid.462995.5>
+	<http://risis.eu/orgref_20170703/resource/16786994>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.11875.3a........ http://www.grid.ac/institutes/grid.462995.5........ 0.806451612903..................................... [Universiti Sains Malaysia] was compared to [Universiti Sains Islam Malaysia] 
+	http://www.grid.ac/institutes/grid.462995.5........ http://www.grid.ac/institutes/grid.11875.3a........ 0.806451612903..................................... [Universiti Sains Malaysia] was compared to [Universiti Sains Islam Malaysia] 
+	http://www.grid.ac/institutes/grid.462995.5........ http://risis.eu/orgref_20170703/resource/16786994.. 1.................................................. [Universiti Sains Islam Malaysia] was compared to [Universiti Sains Islam Malaysia] 
+	http://risis.eu/orgref_20170703/resource/16786994.. http://www.grid.ac/institutes/grid.462995.5........ 1.................................................. [Universiti Sains Islam Malaysia] was compared to [Universiti Sains Islam Malaysia] 
+	http://www.grid.ac/institutes/grid.11875.3a........ http://risis.eu/leidenRanking_2015/resource/1363... 1.................................................. [Universiti Sains Malaysia] was compared to [Universiti Sains Malaysia] 
+	http://risis.eu/leidenRanking_2015/resource/1363... http://www.grid.ac/institutes/grid.11875.3a........ 1.................................................. [Universiti Sains Malaysia] was compared to [Universiti Sains Malaysia] 
+	http://risis.eu/leidenRanking_2015/resource/1363... http://www.grid.ac/institutes/grid.462995.5........ 0.806451612903..................................... [Universiti Sains Islam Malaysia] was compared to [Universiti Sains Malaysia] 
+	http://www.grid.ac/institutes/grid.462995.5........ http://risis.eu/leidenRanking_2015/resource/1363... 0.806451612903..................................... [Universiti Sains Islam Malaysia] was compared to [Universiti Sains Malaysia] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.11875.3a........ 100.30139.......................................... 
+	http://www.grid.ac/institutes/grid.11875.3a........ 5.356944........................................... 
+	http://www.grid.ac/institutes/grid.11875.3a........ https://www.usm.my/index.php/en/................... 
+	http://www.grid.ac/institutes/grid.11875.3a........ Universiti Sains Malaysia.......................... 
+	http://risis.eu/leidenRanking_2015/resource/1363... Universiti Sains Malaysia.......................... 
+	http://www.grid.ac/institutes/grid.462995.5........ 101.781845......................................... 
+	http://www.grid.ac/institutes/grid.462995.5........ 2.844354........................................... 
+	http://www.grid.ac/institutes/grid.462995.5........ http://www.usim.edu.my/............................ 
+	http://www.grid.ac/institutes/grid.462995.5........ Kolej Universiti Islam Malaysia.................... 
+	http://www.grid.ac/institutes/grid.462995.5........ Universiti Sains Islam Malaysia.................... 
+	http://risis.eu/orgref_20170703/resource/16786994.. http://en.wikipedia.org/wiki?curid=16786994........ 
+	http://risis.eu/orgref_20170703/resource/16786994.. http://www.wikidata.org/wiki/Q7894433.............. 
+	http://risis.eu/orgref_20170703/resource/16786994.. http://www.usim.edu.my............................. 
+	http://risis.eu/orgref_20170703/resource/16786994.. Universiti Sains Islam Malaysia.................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1363', '1:grid.11875.3a'), ('2:1363', '3:grid.462995.5'), ('3:grid.462995.5', '1:grid.11875.3a'), ('4:16786994', '3:grid.462995.5')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

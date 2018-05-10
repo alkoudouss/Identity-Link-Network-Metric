@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 6870 
+NAME    N1492201159
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.414074.2>
+	<http://www.grid.ac/institutes/grid.414357.0>
+	<http://risis.eu/orgref_20170703/resource/30049027>
+	<http://www.grid.ac/institutes/grid.460868.4>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/30049027.. http://www.grid.ac/institutes/grid.460868.4........ 1.................................................. [Almas Hospital] was compared to [Almas Hospital].. 
+	http://www.grid.ac/institutes/grid.460868.4........ http://risis.eu/orgref_20170703/resource/30049027.. 1.................................................. [Almas Hospital] was compared to [Almas Hospital].. 
+	http://www.grid.ac/institutes/grid.414074.2........ http://www.grid.ac/institutes/grid.414357.0........ 0.875.............................................. [Aultman Hospital] was compared to [Hospital Alemán] 
+	http://www.grid.ac/institutes/grid.414357.0........ http://www.grid.ac/institutes/grid.414074.2........ 0.875.............................................. [Aultman Hospital] was compared to [Hospital Alemán] 
+	http://www.grid.ac/institutes/grid.414357.0........ http://www.grid.ac/institutes/grid.460868.4........ 0.866666666667..................................... [Hospital Alemán] was compared to [Almas Hospital] 
+	http://www.grid.ac/institutes/grid.460868.4........ http://www.grid.ac/institutes/grid.414357.0........ 0.866666666667..................................... [Hospital Alemán] was compared to [Almas Hospital] 
+	http://www.grid.ac/institutes/grid.414357.0........ http://risis.eu/orgref_20170703/resource/30049027.. 0.866666666667..................................... [Hospital Alemán] was compared to [Almas Hospital] 
+	http://risis.eu/orgref_20170703/resource/30049027.. http://www.grid.ac/institutes/grid.414357.0........ 0.866666666667..................................... [Hospital Alemán] was compared to [Almas Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.414074.2........ -81.40364.......................................... 
+	http://www.grid.ac/institutes/grid.414074.2........ 40.796047.......................................... 
+	http://www.grid.ac/institutes/grid.414074.2........ https://aultman.org/home/about/aultman-hospital/mission/#/ 
+	http://www.grid.ac/institutes/grid.414074.2........ Aultman Hospital................................... 
+	http://www.grid.ac/institutes/grid.414357.0........ -58.400997......................................... 
+	http://www.grid.ac/institutes/grid.414357.0........ -34.591934......................................... 
+	http://www.grid.ac/institutes/grid.414357.0........ http://www.hospitalaleman.org.ar/en/............... 
+	http://www.grid.ac/institutes/grid.414357.0........ Hospital Alemán................................... 
+	http://risis.eu/orgref_20170703/resource/30049027.. http://en.wikipedia.org/wiki?curid=30049027........ 
+	http://risis.eu/orgref_20170703/resource/30049027.. http://www.wikidata.org/wiki/Q4733707.............. 
+	http://risis.eu/orgref_20170703/resource/30049027.. http://almashospital.com........................... 
+	http://risis.eu/orgref_20170703/resource/30049027.. Almas Hospital..................................... 
+	http://www.grid.ac/institutes/grid.460868.4........ 75.991165.......................................... 
+	http://www.grid.ac/institutes/grid.460868.4........ 11.000219.......................................... 
+	http://www.grid.ac/institutes/grid.460868.4........ http://www.almashospital.com/...................... 
+	http://www.grid.ac/institutes/grid.460868.4........ Almas Hospital..................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.414357.0', '1:grid.414074.2'), ('3:30049027', '2:grid.414357.0'), ('3:30049027', '4:grid.460868.4'), ('4:grid.460868.4', '2:grid.414357.0')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

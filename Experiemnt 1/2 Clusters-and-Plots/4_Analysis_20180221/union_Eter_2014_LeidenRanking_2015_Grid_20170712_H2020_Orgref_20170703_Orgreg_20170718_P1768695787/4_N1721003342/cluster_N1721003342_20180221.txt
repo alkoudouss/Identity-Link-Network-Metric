@@ -1,0 +1,54 @@
+SIZE    4   
+CLUSTER 17951 
+NAME    N1721003342
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.444615.6>
+	<http://risis.eu/orgref_20170703/resource/19304424>
+	<http://www.grid.ac/institutes/grid.449907.7>
+	<http://risis.eu/orgref_20170703/resource/20898414>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.444615.6........ http://risis.eu/orgref_20170703/resource/19304424.. 1.................................................. [Mandalay Technological University] was compared to [Mandalay Technological University] 
+	http://risis.eu/orgref_20170703/resource/19304424.. http://www.grid.ac/institutes/grid.444615.6........ 1.................................................. [Mandalay Technological University] was compared to [Mandalay Technological University] 
+	http://www.grid.ac/institutes/grid.449907.7........ http://risis.eu/orgref_20170703/resource/20898414.. 1.................................................. [University of Medical Technology Mandalay] was compared to [University of Medical Technology, Mandalay] 
+	http://risis.eu/orgref_20170703/resource/20898414.. http://www.grid.ac/institutes/grid.449907.7........ 1.................................................. [University of Medical Technology Mandalay] was compared to [University of Medical Technology, Mandalay] 
+	http://www.grid.ac/institutes/grid.444615.6........ http://www.grid.ac/institutes/grid.449907.7........ 0.868421052632..................................... [Mandalay Technological University] was compared to [University of Medical Technology Mandalay] 
+	http://www.grid.ac/institutes/grid.449907.7........ http://www.grid.ac/institutes/grid.444615.6........ 0.868421052632..................................... [Mandalay Technological University] was compared to [University of Medical Technology Mandalay] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 9 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.444615.6........ Mandalay Technological University.................. 
+	http://risis.eu/orgref_20170703/resource/19304424.. http://en.wikipedia.org/wiki?curid=19304424........ 
+	http://risis.eu/orgref_20170703/resource/19304424.. http://www.wikidata.org/wiki/Q6747771.............. 
+	http://risis.eu/orgref_20170703/resource/19304424.. http://mtu.moe-st.gov.mm........................... 
+	http://risis.eu/orgref_20170703/resource/19304424.. Mandalay Technological University.................. 
+	http://www.grid.ac/institutes/grid.449907.7........ University of Medical Technology Mandalay.......... 
+	http://risis.eu/orgref_20170703/resource/20898414.. http://en.wikipedia.org/wiki?curid=20898414........ 
+	http://risis.eu/orgref_20170703/resource/20898414.. http://www.wikidata.org/wiki/Q7896062.............. 
+	http://risis.eu/orgref_20170703/resource/20898414.. University of Medical Technology, Mandalay......... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:19304424', '1:grid.444615.6'), ('3:grid.449907.7', '1:grid.444615.6'), ('4:20898414', '3:grid.449907.7')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

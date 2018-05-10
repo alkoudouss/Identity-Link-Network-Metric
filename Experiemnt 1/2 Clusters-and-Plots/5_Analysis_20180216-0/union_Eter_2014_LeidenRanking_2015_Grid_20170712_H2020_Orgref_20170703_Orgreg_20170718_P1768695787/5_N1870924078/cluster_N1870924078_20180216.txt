@@ -1,0 +1,72 @@
+SIZE    5   
+CLUSTER 961 
+NAME    N1870924078
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.5613.1>
+	<http://risis.eu/orgref_20170703/resource/2082570>
+	<http://www.grid.ac/institutes/grid.7749.d>
+	<http://risis.eu/orgref_20170703/resource/5611046>
+	<http://risis.eu/leidenRanking_2015/resource/2606>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.5613.1......... http://risis.eu/orgref_20170703/resource/5611046.. 1................................................. [University of Burgundy] was compared to [University of Burgundy] 
+	http://risis.eu/orgref_20170703/resource/5611046.. http://www.grid.ac/institutes/grid.5613.1......... 1................................................. [University of Burgundy] was compared to [University of Burgundy] 
+	http://risis.eu/orgref_20170703/resource/2082570.. http://www.grid.ac/institutes/grid.7749.d......... 0.809523809524.................................... [Universite Du Burundi] was compared to [University of Burundi] 
+	http://www.grid.ac/institutes/grid.7749.d......... http://risis.eu/orgref_20170703/resource/2082570.. 0.809523809524.................................... [Universite Du Burundi] was compared to [University of Burundi] 
+	http://www.grid.ac/institutes/grid.5613.1......... http://risis.eu/leidenRanking_2015/resource/2606.. 1................................................. [University of Burgundy] was compared to [University of Burgundy] 
+	http://risis.eu/leidenRanking_2015/resource/2606.. http://www.grid.ac/institutes/grid.5613.1......... 1................................................. [University of Burgundy] was compared to [University of Burgundy] 
+	http://risis.eu/orgref_20170703/resource/5611046.. http://risis.eu/leidenRanking_2015/resource/2606.. 1................................................. [University of Burgundy] was compared to [University of Burgundy] 
+	http://risis.eu/leidenRanking_2015/resource/2606.. http://risis.eu/orgref_20170703/resource/5611046.. 1................................................. [University of Burgundy] was compared to [University of Burgundy] 
+	http://risis.eu/orgref_20170703/resource/2082570.. http://risis.eu/orgref_20170703/resource/5611046.. 0.894736842105.................................... [University of Burundi] was compared to [University of Burgundy] 
+	http://risis.eu/orgref_20170703/resource/5611046.. http://risis.eu/orgref_20170703/resource/2082570.. 0.894736842105.................................... [University of Burundi] was compared to [University of Burgundy] 
+	http://risis.eu/orgref_20170703/resource/2082570.. http://risis.eu/leidenRanking_2015/resource/2606.. 0.894736842105.................................... [University of Burundi] was compared to [University of Burgundy] 
+	http://risis.eu/leidenRanking_2015/resource/2606.. http://risis.eu/orgref_20170703/resource/2082570.. 0.894736842105.................................... [University of Burundi] was compared to [University of Burgundy] 
+	http://www.grid.ac/institutes/grid.5613.1......... http://risis.eu/orgref_20170703/resource/2082570.. 0.894736842105.................................... [University of Burgundy] was compared to [University of Burundi] 
+	http://risis.eu/orgref_20170703/resource/2082570.. http://www.grid.ac/institutes/grid.5613.1......... 0.894736842105.................................... [University of Burgundy] was compared to [University of Burundi] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.5613.1......... 5.070833.......................................... 
+	http://www.grid.ac/institutes/grid.5613.1......... 47.3125........................................... 
+	http://www.grid.ac/institutes/grid.5613.1......... http://en.u-bourgogne.fr/......................... 
+	http://www.grid.ac/institutes/grid.5613.1......... University of Dijon............................... 
+	http://www.grid.ac/institutes/grid.5613.1......... University of Burgundy............................ 
+	http://risis.eu/orgref_20170703/resource/2082570.. http://en.wikipedia.org/wiki?curid=2082570........ 
+	http://risis.eu/orgref_20170703/resource/2082570.. http://www.wikidata.org/wiki/Q719925.............. 
+	http://risis.eu/orgref_20170703/resource/2082570.. http://www.ub.edu.bi.............................. 
+	http://risis.eu/orgref_20170703/resource/2082570.. University of Burundi............................. 
+	http://www.grid.ac/institutes/grid.7749.d......... 29.383827......................................... 
+	http://www.grid.ac/institutes/grid.7749.d......... -3.379034......................................... 
+	http://www.grid.ac/institutes/grid.7749.d......... http://www.ub.edu.bi/............................. 
+	http://www.grid.ac/institutes/grid.7749.d......... Universite Du Burundi............................. 
+	http://risis.eu/orgref_20170703/resource/5611046.. http://en.wikipedia.org/wiki?curid=5611046........ 
+	http://risis.eu/orgref_20170703/resource/5611046.. http://www.wikidata.org/wiki/Q287072.............. 
+	http://risis.eu/orgref_20170703/resource/5611046.. http://en.u-bourgogne.fr.......................... 
+	http://risis.eu/orgref_20170703/resource/5611046.. University of Burgundy............................ 
+	http://risis.eu/leidenRanking_2015/resource/2606.. University of Burgundy............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:2082570', '1:grid.5613.1'), ('3:grid.7749.d', '2:2082570'), ('4:5611046', '1:grid.5613.1'), ('4:5611046', '2:2082570'), ('5:2606', '1:grid.5613.1'), ('5:2606', '2:2082570'), ('5:2606', '4:5611046')]
+	MAX DISTANCE:                   : 0.7
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 2.2
+	AVERAGE NODE CONNECTIVITY RATIO : 0.55
+	BRIDGES                         : 1
+	CLOSURE                         : 0.7
+	DIAMETER                        : 2
+	QUALITY                         : 0.294
+	QUALITY USED                    : 0.357
+	SUMMARY 1: BRIDGE 0.25 CLOSURE 0.3 DIAMETER 0.333 QUALITY 0.294 QUALITY USED 0.357
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.3 DIAMETER 0.385 QUALITY 0.294 QUALITY USED 0.357

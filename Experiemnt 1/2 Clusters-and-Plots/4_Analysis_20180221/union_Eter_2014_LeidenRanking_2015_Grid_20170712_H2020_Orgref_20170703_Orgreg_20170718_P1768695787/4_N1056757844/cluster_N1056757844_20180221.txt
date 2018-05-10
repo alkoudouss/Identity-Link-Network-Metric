@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 8230 
+NAME    N1056757844
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.7945.f>
+	<http://risis.eu/orgreg_20170718/resource/IT0037>
+	<http://risis.eu/orgref_20170703/resource/706612>
+	<http://risis.eu/leidenRanking_2015/resource/428>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.7945.f........ http://risis.eu/orgref_20170703/resource/706612.. 1................................................ [Bocconi University] was compared to [Bocconi University] 
+	http://risis.eu/orgref_20170703/resource/706612.. http://www.grid.ac/institutes/grid.7945.f........ 1................................................ [Bocconi University] was compared to [Bocconi University] 
+	http://www.grid.ac/institutes/grid.7945.f........ http://risis.eu/leidenRanking_2015/resource/428.. 1................................................ [Bocconi University] was compared to [Bocconi University] 
+	http://risis.eu/leidenRanking_2015/resource/428.. http://www.grid.ac/institutes/grid.7945.f........ 1................................................ [Bocconi University] was compared to [Bocconi University] 
+	http://risis.eu/orgref_20170703/resource/706612.. http://risis.eu/leidenRanking_2015/resource/428.. 1................................................ [Bocconi University] was compared to [Bocconi University] 
+	http://risis.eu/leidenRanking_2015/resource/428.. http://risis.eu/orgref_20170703/resource/706612.. 1................................................ [Bocconi University] was compared to [Bocconi University] 
+	http://risis.eu/orgreg_20170718/resource/IT0037.. http://risis.eu/leidenRanking_2015/resource/428.. 0.944444444444................................... [Università Bocconi] was compared to [Bocconi University] 
+	http://risis.eu/leidenRanking_2015/resource/428.. http://risis.eu/orgreg_20170718/resource/IT0037.. 0.944444444444................................... [Università Bocconi] was compared to [Bocconi University] 
+	http://risis.eu/orgreg_20170718/resource/IT0037.. http://risis.eu/orgref_20170703/resource/706612.. 0.944444444444................................... [Bocconi University] was compared to [Università Bocconi] 
+	http://risis.eu/orgref_20170703/resource/706612.. http://risis.eu/orgreg_20170718/resource/IT0037.. 0.944444444444................................... [Bocconi University] was compared to [Università Bocconi] 
+	http://www.grid.ac/institutes/grid.7945.f........ http://risis.eu/orgreg_20170718/resource/IT0037.. 0.944444444444................................... [Bocconi University] was compared to [Università Bocconi] 
+	http://risis.eu/orgreg_20170718/resource/IT0037.. http://www.grid.ac/institutes/grid.7945.f........ 0.944444444444................................... [Bocconi University] was compared to [Università Bocconi] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.7945.f........ 9.189473......................................... 
+	http://www.grid.ac/institutes/grid.7945.f........ 45.44865......................................... 
+	http://www.grid.ac/institutes/grid.7945.f........ http://www.unibocconi.it/wps/wcm/connect/Bocconi/SitoPubblico_IT/Albero+di+navigazione/Home/ 
+	http://www.grid.ac/institutes/grid.7945.f........ Bocconi University............................... 
+	http://risis.eu/orgreg_20170718/resource/IT0037.. 45.447645........................................ 
+	http://risis.eu/orgreg_20170718/resource/IT0037.. 9.185597......................................... 
+	http://risis.eu/orgreg_20170718/resource/IT0037.. http://www.unibocconi.it......................... 
+	http://risis.eu/orgreg_20170718/resource/IT0037.. Università Bocconi.............................. 
+	http://risis.eu/orgref_20170703/resource/706612.. http://en.wikipedia.org/wiki?curid=706612........ 
+	http://risis.eu/orgref_20170703/resource/706612.. http://www.wikidata.org/wiki/Q959524............. 
+	http://risis.eu/orgref_20170703/resource/706612.. http://www.unibocconi.eu......................... 
+	http://risis.eu/orgref_20170703/resource/706612.. Bocconi University............................... 
+	http://risis.eu/leidenRanking_2015/resource/428.. Bocconi University............................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:IT0037', '1:grid.7945.f'), ('3:706612', '1:grid.7945.f'), ('3:706612', '2:IT0037'), ('4:428', '1:grid.7945.f'), ('4:428', '2:IT0037'), ('4:428', '3:706612')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

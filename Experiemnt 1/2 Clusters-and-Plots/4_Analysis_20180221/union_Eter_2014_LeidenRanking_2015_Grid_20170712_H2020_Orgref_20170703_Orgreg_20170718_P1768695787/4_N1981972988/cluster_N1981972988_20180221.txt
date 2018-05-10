@@ -1,0 +1,60 @@
+SIZE    4   
+CLUSTER 895 
+NAME    N1981972988
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.436418.c>
+	<http://www.grid.ac/institutes/grid.474341.1>
+	<http://www.grid.ac/institutes/grid.450124.6>
+	<http://www.grid.ac/institutes/grid.450327.7>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.474341.1.. http://www.grid.ac/institutes/grid.450327.7.. 1............................................ [Mellanox Technologies (United States)] was compared to [Mellanox Technologies (Israel)] 
+	http://www.grid.ac/institutes/grid.450327.7.. http://www.grid.ac/institutes/grid.474341.1.. 1............................................ [Mellanox Technologies (United States)] was compared to [Mellanox Technologies (Israel)] 
+	http://www.grid.ac/institutes/grid.436418.c.. http://www.grid.ac/institutes/grid.450124.6.. 0.9.......................................... [Mellon Technologies (Greece)] was compared to [Pellion Technologies (United States)] 
+	http://www.grid.ac/institutes/grid.450124.6.. http://www.grid.ac/institutes/grid.436418.c.. 0.9.......................................... [Mellon Technologies (Greece)] was compared to [Pellion Technologies (United States)] 
+	http://www.grid.ac/institutes/grid.436418.c.. http://www.grid.ac/institutes/grid.450327.7.. 0.857142857143............................... [Mellon Technologies (Greece)] was compared to [Mellanox Technologies (United States)] 
+	http://www.grid.ac/institutes/grid.450327.7.. http://www.grid.ac/institutes/grid.436418.c.. 0.857142857143............................... [Mellon Technologies (Greece)] was compared to [Mellanox Technologies (United States)] 
+	http://www.grid.ac/institutes/grid.436418.c.. http://www.grid.ac/institutes/grid.474341.1.. 0.857142857143............................... [Mellon Technologies (Greece)] was compared to [Mellanox Technologies (Israel)] 
+	http://www.grid.ac/institutes/grid.474341.1.. http://www.grid.ac/institutes/grid.436418.c.. 0.857142857143............................... [Mellon Technologies (Greece)] was compared to [Mellanox Technologies (Israel)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.436418.c.. Mellon Technologies (Greece)................. 
+	http://www.grid.ac/institutes/grid.474341.1.. 35.105244.................................... 
+	http://www.grid.ac/institutes/grid.474341.1.. 32.664703.................................... 
+	http://www.grid.ac/institutes/grid.474341.1.. http://www.mellanox.com/..................... 
+	http://www.grid.ac/institutes/grid.474341.1.. Mellanox Technologies (Israel)............... 
+	http://www.grid.ac/institutes/grid.450124.6.. -71.146904................................... 
+	http://www.grid.ac/institutes/grid.450124.6.. 42.375347.................................... 
+	http://www.grid.ac/institutes/grid.450124.6.. http://www.pelliontech.com/.................. 
+	http://www.grid.ac/institutes/grid.450124.6.. Pellion Technologies (United States)......... 
+	http://www.grid.ac/institutes/grid.450327.7.. -118.16519................................... 
+	http://www.grid.ac/institutes/grid.450327.7.. 34.046104.................................... 
+	http://www.grid.ac/institutes/grid.450327.7.. http://www.mellanox.com/..................... 
+	http://www.grid.ac/institutes/grid.450327.7.. Mellanox Technologies (United States)........ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.474341.1', '1:grid.436418.c'), ('2:grid.474341.1', '4:grid.450327.7'), ('3:grid.450124.6', '1:grid.436418.c'), ('4:grid.450327.7', '1:grid.436418.c')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

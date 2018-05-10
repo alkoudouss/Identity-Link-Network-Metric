@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 6413 
+NAME    N347336654
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.412650.4>
+	<http://risis.eu/orgreg_20170718/resource/SE2005>
+	<http://risis.eu/orgref_20170703/resource/33714776>
+	<http://www.grid.ac/institutes/grid.411843.b>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.412650.4........ http://www.grid.ac/institutes/grid.411843.b........ 1.................................................. [Skåne University Hospital] was compared to [Skåne University Hospital] 
+	http://www.grid.ac/institutes/grid.411843.b........ http://www.grid.ac/institutes/grid.412650.4........ 1.................................................. [Skåne University Hospital] was compared to [Skåne University Hospital] 
+	http://risis.eu/orgref_20170703/resource/33714776.. http://www.grid.ac/institutes/grid.411843.b........ 1.................................................. [Skåne University Hospital] was compared to [Skåne University Hospital] 
+	http://www.grid.ac/institutes/grid.411843.b........ http://risis.eu/orgref_20170703/resource/33714776.. 1.................................................. [Skåne University Hospital] was compared to [Skåne University Hospital] 
+	http://www.grid.ac/institutes/grid.412650.4........ http://risis.eu/orgref_20170703/resource/33714776.. 1.................................................. [Skåne University Hospital] was compared to [Skåne University Hospital] 
+	http://risis.eu/orgref_20170703/resource/33714776.. http://www.grid.ac/institutes/grid.412650.4........ 1.................................................. [Skåne University Hospital] was compared to [Skåne University Hospital] 
+	http://risis.eu/orgreg_20170718/resource/SE2005.... http://risis.eu/orgref_20170703/resource/33714776.. 1.................................................. [Skåne University Hospital] was compared to [Skane University Hospital] 
+	http://risis.eu/orgref_20170703/resource/33714776.. http://risis.eu/orgreg_20170718/resource/SE2005.... 1.................................................. [Skåne University Hospital] was compared to [Skane University Hospital] 
+	http://risis.eu/orgreg_20170718/resource/SE2005.... http://www.grid.ac/institutes/grid.411843.b........ 1.................................................. [Skåne University Hospital] was compared to [Skane University Hospital] 
+	http://www.grid.ac/institutes/grid.411843.b........ http://risis.eu/orgreg_20170718/resource/SE2005.... 1.................................................. [Skåne University Hospital] was compared to [Skane University Hospital] 
+	http://www.grid.ac/institutes/grid.412650.4........ http://risis.eu/orgreg_20170718/resource/SE2005.... 1.................................................. [Skåne University Hospital] was compared to [Skane University Hospital] 
+	http://risis.eu/orgreg_20170718/resource/SE2005.... http://www.grid.ac/institutes/grid.412650.4........ 1.................................................. [Skåne University Hospital] was compared to [Skane University Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.412650.4........ 13.00171........................................... 
+	http://www.grid.ac/institutes/grid.412650.4........ 55.58962........................................... 
+	http://www.grid.ac/institutes/grid.412650.4........ http://www.skane.se/sv/Webbplatser/Skanes-universitetssjukhus/ 
+	http://www.grid.ac/institutes/grid.412650.4........ Skånes universitetssjukhus........................ 
+	http://www.grid.ac/institutes/grid.412650.4........ Skåne University Hospital......................... 
+	http://risis.eu/orgreg_20170718/resource/SE2005.... m.................................................. 
+	http://risis.eu/orgreg_20170718/resource/SE2005.... http://www.skane.se/sv/Webbplatser/Skanes-universitetssjukhus/ 
+	http://risis.eu/orgreg_20170718/resource/SE2005.... Skane University Hospital.......................... 
+	http://risis.eu/orgref_20170703/resource/33714776.. http://en.wikipedia.org/wiki?curid=33714776........ 
+	http://risis.eu/orgref_20170703/resource/33714776.. http://www.wikidata.org/wiki/Q781200............... 
+	http://risis.eu/orgref_20170703/resource/33714776.. Skåne University Hospital......................... 
+	http://www.grid.ac/institutes/grid.411843.b........ 13.198333.......................................... 
+	http://www.grid.ac/institutes/grid.411843.b........ 55.711666.......................................... 
+	http://www.grid.ac/institutes/grid.411843.b........ http://www.skane.se/sv/Webbplatser/Skanes-universitetssjukhus/ 
+	http://www.grid.ac/institutes/grid.411843.b........ Skåne University Hospital......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:SE2005', '1:grid.412650.4'), ('2:SE2005', '3:33714776'), ('2:SE2005', '4:grid.411843.b'), ('3:33714776', '1:grid.412650.4'), ('3:33714776', '4:grid.411843.b'), ('4:grid.411843.b', '1:grid.412650.4')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

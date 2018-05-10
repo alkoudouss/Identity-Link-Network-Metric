@@ -1,0 +1,68 @@
+SIZE    5   
+CLUSTER 7960 
+NAME    N2138102056
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.433938.6>
+	<http://www.grid.ac/institutes/grid.438267.c>
+	<http://www.grid.ac/institutes/grid.456341.1>
+	<http://www.grid.ac/institutes/grid.436109.9>
+	<http://www.grid.ac/institutes/grid.436108.8>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 20 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.433938.6.. http://www.grid.ac/institutes/grid.436109.9.. 1............................................ [Meggitt (Denmark)] was compared to [Meggitt (Switzerland)] 
+	http://www.grid.ac/institutes/grid.436109.9.. http://www.grid.ac/institutes/grid.433938.6.. 1............................................ [Meggitt (Denmark)] was compared to [Meggitt (Switzerland)] 
+	http://www.grid.ac/institutes/grid.433938.6.. http://www.grid.ac/institutes/grid.438267.c.. 1............................................ [Meggitt (Denmark)] was compared to [Meggitt (France)] 
+	http://www.grid.ac/institutes/grid.438267.c.. http://www.grid.ac/institutes/grid.433938.6.. 1............................................ [Meggitt (Denmark)] was compared to [Meggitt (France)] 
+	http://www.grid.ac/institutes/grid.433938.6.. http://www.grid.ac/institutes/grid.456341.1.. 1............................................ [Meggitt (Denmark)] was compared to [Meggitt (United States)] 
+	http://www.grid.ac/institutes/grid.456341.1.. http://www.grid.ac/institutes/grid.433938.6.. 1............................................ [Meggitt (Denmark)] was compared to [Meggitt (United States)] 
+	http://www.grid.ac/institutes/grid.433938.6.. http://www.grid.ac/institutes/grid.436108.8.. 1............................................ [Meggitt (Denmark)] was compared to [Meggitt (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.436108.8.. http://www.grid.ac/institutes/grid.433938.6.. 1............................................ [Meggitt (Denmark)] was compared to [Meggitt (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.436109.9.. http://www.grid.ac/institutes/grid.436108.8.. 1............................................ [Meggitt (United Kingdom)] was compared to [Meggitt (Switzerland)] 
+	http://www.grid.ac/institutes/grid.436108.8.. http://www.grid.ac/institutes/grid.436109.9.. 1............................................ [Meggitt (United Kingdom)] was compared to [Meggitt (Switzerland)] 
+	http://www.grid.ac/institutes/grid.438267.c.. http://www.grid.ac/institutes/grid.436108.8.. 1............................................ [Meggitt (United Kingdom)] was compared to [Meggitt (France)] 
+	http://www.grid.ac/institutes/grid.436108.8.. http://www.grid.ac/institutes/grid.438267.c.. 1............................................ [Meggitt (United Kingdom)] was compared to [Meggitt (France)] 
+	http://www.grid.ac/institutes/grid.456341.1.. http://www.grid.ac/institutes/grid.436108.8.. 1............................................ [Meggitt (United Kingdom)] was compared to [Meggitt (United States)] 
+	http://www.grid.ac/institutes/grid.436108.8.. http://www.grid.ac/institutes/grid.456341.1.. 1............................................ [Meggitt (United Kingdom)] was compared to [Meggitt (United States)] 
+	http://www.grid.ac/institutes/grid.438267.c.. http://www.grid.ac/institutes/grid.436109.9.. 1............................................ [Meggitt (Switzerland)] was compared to [Meggitt (France)] 
+	http://www.grid.ac/institutes/grid.436109.9.. http://www.grid.ac/institutes/grid.438267.c.. 1............................................ [Meggitt (Switzerland)] was compared to [Meggitt (France)] 
+	http://www.grid.ac/institutes/grid.456341.1.. http://www.grid.ac/institutes/grid.436109.9.. 1............................................ [Meggitt (Switzerland)] was compared to [Meggitt (United States)] 
+	http://www.grid.ac/institutes/grid.436109.9.. http://www.grid.ac/institutes/grid.456341.1.. 1............................................ [Meggitt (Switzerland)] was compared to [Meggitt (United States)] 
+	http://www.grid.ac/institutes/grid.438267.c.. http://www.grid.ac/institutes/grid.456341.1.. 1............................................ [Meggitt (France)] was compared to [Meggitt (United States)] 
+	http://www.grid.ac/institutes/grid.456341.1.. http://www.grid.ac/institutes/grid.438267.c.. 1............................................ [Meggitt (France)] was compared to [Meggitt (United States)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.433938.6.. Meggitt (Denmark)............................ 
+	http://www.grid.ac/institutes/grid.438267.c.. Meggitt (France)............................. 
+	http://www.grid.ac/institutes/grid.456341.1.. -82.146454................................... 
+	http://www.grid.ac/institutes/grid.456341.1.. 41.291298.................................... 
+	http://www.grid.ac/institutes/grid.456341.1.. http://www.meggitt.com/?OBH=363.............. 
+	http://www.grid.ac/institutes/grid.456341.1.. Meggitt (United States)...................... 
+	http://www.grid.ac/institutes/grid.436109.9.. Meggitt (Switzerland)........................ 
+	http://www.grid.ac/institutes/grid.436108.8.. Meggitt (United Kingdom)..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.438267.c', '1:grid.433938.6'), ('2:grid.438267.c', '5:grid.436108.8'), ('3:grid.456341.1', '1:grid.433938.6'), ('3:grid.456341.1', '2:grid.438267.c'), ('3:grid.456341.1', '4:grid.436109.9'), ('3:grid.456341.1', '5:grid.436108.8'), ('4:grid.436109.9', '1:grid.433938.6'), ('4:grid.436109.9', '2:grid.438267.c'), ('4:grid.436109.9', '5:grid.436108.8'), ('5:grid.436108.8', '1:grid.433938.6')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 4.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 16088 
+NAME    N673709324
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.416738.f>
+	<http://risis.eu/leidenRanking_2015/resource/16220>
+	<http://risis.eu/leidenRanking_2015/resource/100156>
+	<http://risis.eu/orgref_20170703/resource/6811>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                               object                                               Strength                                             Evidence                                             
+	#################################################### #################################################### #################################################### #################################################### 
+	http://www.grid.ac/institutes/grid.416738.f......... http://risis.eu/orgref_20170703/resource/6811....... 1................................................... [Centers for Disease Control and Prevention] was compared to [Centers for Disease Control and Prevention] 
+	http://risis.eu/orgref_20170703/resource/6811....... http://www.grid.ac/institutes/grid.416738.f......... 1................................................... [Centers for Disease Control and Prevention] was compared to [Centers for Disease Control and Prevention] 
+	http://www.grid.ac/institutes/grid.416738.f......... http://risis.eu/leidenRanking_2015/resource/16220... 0.85................................................ [Centers for Disease Control and Prevention] was compared to [Korea Centers for Disease Control and Prevention] 
+	http://risis.eu/leidenRanking_2015/resource/16220... http://www.grid.ac/institutes/grid.416738.f......... 0.85................................................ [Centers for Disease Control and Prevention] was compared to [Korea Centers for Disease Control and Prevention] 
+	http://www.grid.ac/institutes/grid.416738.f......... http://risis.eu/leidenRanking_2015/resource/100156.. 1................................................... [Centers for Disease Control and Prevention] was compared to [Centers for Disease Control and Prevention] 
+	http://risis.eu/leidenRanking_2015/resource/100156.. http://www.grid.ac/institutes/grid.416738.f......... 1................................................... [Centers for Disease Control and Prevention] was compared to [Centers for Disease Control and Prevention] 
+	http://risis.eu/leidenRanking_2015/resource/100156.. http://risis.eu/orgref_20170703/resource/6811....... 1................................................... [Centers for Disease Control and Prevention] was compared to [Centers for Disease Control and Prevention] 
+	http://risis.eu/orgref_20170703/resource/6811....... http://risis.eu/leidenRanking_2015/resource/100156.. 1................................................... [Centers for Disease Control and Prevention] was compared to [Centers for Disease Control and Prevention] 
+	http://risis.eu/leidenRanking_2015/resource/16220... http://risis.eu/orgref_20170703/resource/6811....... 0.85................................................ [Centers for Disease Control and Prevention] was compared to [Korea Centers for Disease Control and Prevention] 
+	http://risis.eu/orgref_20170703/resource/6811....... http://risis.eu/leidenRanking_2015/resource/16220... 0.85................................................ [Centers for Disease Control and Prevention] was compared to [Korea Centers for Disease Control and Prevention] 
+	http://risis.eu/leidenRanking_2015/resource/16220... http://risis.eu/leidenRanking_2015/resource/100156.. 0.85................................................ [Centers for Disease Control and Prevention] was compared to [Korea Centers for Disease Control and Prevention] 
+	http://risis.eu/leidenRanking_2015/resource/100156.. http://risis.eu/leidenRanking_2015/resource/16220... 0.85................................................ [Centers for Disease Control and Prevention] was compared to [Korea Centers for Disease Control and Prevention] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                              object                                               
+	#################################################### #################################################### 
+	http://www.grid.ac/institutes/grid.416738.f......... -84.3256............................................ 
+	http://www.grid.ac/institutes/grid.416738.f......... 33.798817........................................... 
+	http://www.grid.ac/institutes/grid.416738.f......... http://www.cdc.gov/................................. 
+	http://www.grid.ac/institutes/grid.416738.f......... Centers for Disease Control and Prevention.......... 
+	http://risis.eu/leidenRanking_2015/resource/16220... Korea Centers for Disease Control and Prevention.... 
+	http://risis.eu/leidenRanking_2015/resource/100156.. Centers for Disease Control and Prevention.......... 
+	http://risis.eu/orgref_20170703/resource/6811....... http://en.wikipedia.org/wiki?curid=6811............. 
+	http://risis.eu/orgref_20170703/resource/6811....... http://www.wikidata.org/wiki/Q583725................ 
+	http://risis.eu/orgref_20170703/resource/6811....... http://www.cdc.gov.................................. 
+	http://risis.eu/orgref_20170703/resource/6811....... Centers for Disease Control and Prevention.......... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:16220', '1:grid.416738.f'), ('2:16220', '3:100156'), ('2:16220', '4:6811'), ('3:100156', '1:grid.416738.f'), ('3:100156', '4:6811'), ('4:6811', '1:grid.416738.f')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

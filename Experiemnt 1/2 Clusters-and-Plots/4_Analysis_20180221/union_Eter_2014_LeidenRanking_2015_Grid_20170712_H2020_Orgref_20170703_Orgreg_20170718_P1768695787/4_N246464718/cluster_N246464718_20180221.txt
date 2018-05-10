@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 7057 
+NAME    N246464718
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.32995.34>
+	<http://risis.eu/orgreg_20170718/resource/SE0020>
+	<http://risis.eu/leidenRanking_2015/resource/868>
+	<http://risis.eu/orgref_20170703/resource/28110503>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.32995.34........ http://risis.eu/orgref_20170703/resource/28110503.. 1.................................................. [Malmö University] was compared to [Malmö University] 
+	http://risis.eu/orgref_20170703/resource/28110503.. http://www.grid.ac/institutes/grid.32995.34........ 1.................................................. [Malmö University] was compared to [Malmö University] 
+	http://www.grid.ac/institutes/grid.32995.34........ http://risis.eu/leidenRanking_2015/resource/868.... 0.9375............................................. [Malmö University] was compared to [Malm� University] 
+	http://risis.eu/leidenRanking_2015/resource/868.... http://www.grid.ac/institutes/grid.32995.34........ 0.9375............................................. [Malmö University] was compared to [Malm� University] 
+	http://risis.eu/leidenRanking_2015/resource/868.... http://risis.eu/orgref_20170703/resource/28110503.. 0.9375............................................. [Malmö University] was compared to [Malm� University] 
+	http://risis.eu/orgref_20170703/resource/28110503.. http://risis.eu/leidenRanking_2015/resource/868.... 0.9375............................................. [Malmö University] was compared to [Malm� University] 
+	http://risis.eu/orgreg_20170718/resource/SE0020.... http://risis.eu/leidenRanking_2015/resource/868.... 0.9375............................................. [Malmö University] was compared to [Malm� University] 
+	http://risis.eu/leidenRanking_2015/resource/868.... http://risis.eu/orgreg_20170718/resource/SE0020.... 0.9375............................................. [Malmö University] was compared to [Malm� University] 
+	http://risis.eu/orgreg_20170718/resource/SE0020.... http://risis.eu/orgref_20170703/resource/28110503.. 1.................................................. [Malmö University] was compared to [Malmö University] 
+	http://risis.eu/orgref_20170703/resource/28110503.. http://risis.eu/orgreg_20170718/resource/SE0020.... 1.................................................. [Malmö University] was compared to [Malmö University] 
+	http://www.grid.ac/institutes/grid.32995.34........ http://risis.eu/orgreg_20170718/resource/SE0020.... 1.................................................. [Malmö University] was compared to [Malmö University] 
+	http://risis.eu/orgreg_20170718/resource/SE0020.... http://www.grid.ac/institutes/grid.32995.34........ 1.................................................. [Malmö University] was compared to [Malmö University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.32995.34........ 12.992432.......................................... 
+	http://www.grid.ac/institutes/grid.32995.34........ 55.60916........................................... 
+	http://www.grid.ac/institutes/grid.32995.34........ https://www.mah.se/english......................... 
+	http://www.grid.ac/institutes/grid.32995.34........ Malmö University College.......................... 
+	http://www.grid.ac/institutes/grid.32995.34........ Malmö University.................................. 
+	http://risis.eu/orgreg_20170718/resource/SE0020.... 14.504168.......................................... 
+	http://risis.eu/orgreg_20170718/resource/SE0020.... 59.307115.......................................... 
+	http://risis.eu/orgreg_20170718/resource/SE0020.... http://www.mah.se/english.......................... 
+	http://risis.eu/orgreg_20170718/resource/SE0020.... Malmö University.................................. 
+	http://risis.eu/leidenRanking_2015/resource/868.... Malm� University................................. 
+	http://risis.eu/orgref_20170703/resource/28110503.. http://en.wikipedia.org/wiki?curid=28110503........ 
+	http://risis.eu/orgref_20170703/resource/28110503.. http://www.wikidata.org/wiki/Q977781............... 
+	http://risis.eu/orgref_20170703/resource/28110503.. http://www.malmouniversity.se...................... 
+	http://risis.eu/orgref_20170703/resource/28110503.. Malmö University.................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:SE0020', '1:grid.32995.34'), ('3:868', '1:grid.32995.34'), ('3:868', '2:SE0020'), ('3:868', '4:28110503'), ('4:28110503', '1:grid.32995.34'), ('4:28110503', '2:SE0020')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

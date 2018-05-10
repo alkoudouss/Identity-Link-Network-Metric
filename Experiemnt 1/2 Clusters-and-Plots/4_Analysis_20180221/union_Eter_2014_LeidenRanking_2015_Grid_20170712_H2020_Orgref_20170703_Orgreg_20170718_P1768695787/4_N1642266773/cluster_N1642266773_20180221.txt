@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 12289 
+NAME    N1642266773
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.463378.d>
+	<http://risis.eu/orgref_20170703/resource/19122975>
+	<http://www.grid.ac/institutes/grid.482545.a>
+	<http://risis.eu/orgref_20170703/resource/35981724>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.463378.d........ http://risis.eu/orgref_20170703/resource/19122975.. 1.................................................. [National Disasters Management Institute] was compared to [National Disasters Management Institute] 
+	http://risis.eu/orgref_20170703/resource/19122975.. http://www.grid.ac/institutes/grid.463378.d........ 1.................................................. [National Disasters Management Institute] was compared to [National Disasters Management Institute] 
+	http://www.grid.ac/institutes/grid.463378.d........ http://risis.eu/orgref_20170703/resource/35981724.. 0.974358974359..................................... [National Disasters Management Institute] was compared to [National Institute of Disaster Management] 
+	http://risis.eu/orgref_20170703/resource/35981724.. http://www.grid.ac/institutes/grid.463378.d........ 0.974358974359..................................... [National Disasters Management Institute] was compared to [National Institute of Disaster Management] 
+	http://www.grid.ac/institutes/grid.482545.a........ http://risis.eu/orgref_20170703/resource/35981724.. 0.808510638298..................................... [National Disaster Management Research Institute] was compared to [National Institute of Disaster Management] 
+	http://risis.eu/orgref_20170703/resource/35981724.. http://www.grid.ac/institutes/grid.482545.a........ 0.808510638298..................................... [National Disaster Management Research Institute] was compared to [National Institute of Disaster Management] 
+	http://risis.eu/orgref_20170703/resource/19122975.. http://risis.eu/orgref_20170703/resource/35981724.. 0.974358974359..................................... [National Disasters Management Institute] was compared to [National Institute of Disaster Management] 
+	http://risis.eu/orgref_20170703/resource/35981724.. http://risis.eu/orgref_20170703/resource/19122975.. 0.974358974359..................................... [National Disasters Management Institute] was compared to [National Institute of Disaster Management] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.463378.d........ 32.565765.......................................... 
+	http://www.grid.ac/institutes/grid.463378.d........ -25.814283......................................... 
+	http://www.grid.ac/institutes/grid.463378.d........ http://www.ingc.gov.mz/............................ 
+	http://www.grid.ac/institutes/grid.463378.d........ National Disasters Management Institute............ 
+	http://risis.eu/orgref_20170703/resource/19122975.. http://en.wikipedia.org/wiki?curid=19122975........ 
+	http://risis.eu/orgref_20170703/resource/19122975.. http://www.wikidata.org/wiki/Q6972312.............. 
+	http://risis.eu/orgref_20170703/resource/19122975.. http://www.ingc.gov.mz............................. 
+	http://risis.eu/orgref_20170703/resource/19122975.. National Disasters Management Institute............ 
+	http://www.grid.ac/institutes/grid.482545.a........ 129.3515........................................... 
+	http://www.grid.ac/institutes/grid.482545.a........ 35.56205........................................... 
+	http://www.grid.ac/institutes/grid.482545.a........ http://eng.ndmi.go.kr/............................. 
+	http://www.grid.ac/institutes/grid.482545.a........ National Disaster Management Research Institute.... 
+	http://risis.eu/orgref_20170703/resource/35981724.. http://en.wikipedia.org/wiki?curid=35981724........ 
+	http://risis.eu/orgref_20170703/resource/35981724.. http://www.wikidata.org/wiki/Q15261130............. 
+	http://risis.eu/orgref_20170703/resource/35981724.. http://nidm.gov.in................................. 
+	http://risis.eu/orgref_20170703/resource/35981724.. National Institute of Disaster Management.......... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:19122975', '1:grid.463378.d'), ('4:35981724', '1:grid.463378.d'), ('4:35981724', '2:19122975'), ('4:35981724', '3:grid.482545.a')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

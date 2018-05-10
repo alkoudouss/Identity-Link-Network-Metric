@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 1929 
+NAME    N2111066057
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.411179.b>
+	<http://risis.eu/orgref_20170703/resource/2407712>
+	<http://www.grid.ac/institutes/grid.411181.c>
+	<http://risis.eu/orgref_20170703/resource/1867576>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.411179.b....... http://risis.eu/orgref_20170703/resource/2407712.. 1................................................. [Federal University of Alagoas] was compared to [Federal University of Alagoas] 
+	http://risis.eu/orgref_20170703/resource/2407712.. http://www.grid.ac/institutes/grid.411179.b....... 1................................................. [Federal University of Alagoas] was compared to [Federal University of Alagoas] 
+	http://www.grid.ac/institutes/grid.411181.c....... http://risis.eu/orgref_20170703/resource/1867576.. 1................................................. [Federal University of Amazonas] was compared to [Federal University of Amazonas] 
+	http://risis.eu/orgref_20170703/resource/1867576.. http://www.grid.ac/institutes/grid.411181.c....... 1................................................. [Federal University of Amazonas] was compared to [Federal University of Amazonas] 
+	http://risis.eu/orgref_20170703/resource/2407712.. http://risis.eu/orgref_20170703/resource/1867576.. 0.888888888889.................................... [Federal University of Amazonas] was compared to [Federal University of Alagoas] 
+	http://risis.eu/orgref_20170703/resource/1867576.. http://risis.eu/orgref_20170703/resource/2407712.. 0.888888888889.................................... [Federal University of Amazonas] was compared to [Federal University of Alagoas] 
+	http://www.grid.ac/institutes/grid.411179.b....... http://www.grid.ac/institutes/grid.411181.c....... 0.888888888889.................................... [Federal University of Alagoas] was compared to [Federal University of Amazonas] 
+	http://www.grid.ac/institutes/grid.411181.c....... http://www.grid.ac/institutes/grid.411179.b....... 0.888888888889.................................... [Federal University of Alagoas] was compared to [Federal University of Amazonas] 
+	http://www.grid.ac/institutes/grid.411179.b....... http://risis.eu/orgref_20170703/resource/1867576.. 0.888888888889.................................... [Federal University of Alagoas] was compared to [Federal University of Amazonas] 
+	http://risis.eu/orgref_20170703/resource/1867576.. http://www.grid.ac/institutes/grid.411179.b....... 0.888888888889.................................... [Federal University of Alagoas] was compared to [Federal University of Amazonas] 
+	http://risis.eu/orgref_20170703/resource/2407712.. http://www.grid.ac/institutes/grid.411181.c....... 0.888888888889.................................... [Federal University of Amazonas] was compared to [Federal University of Alagoas] 
+	http://www.grid.ac/institutes/grid.411181.c....... http://risis.eu/orgref_20170703/resource/2407712.. 0.888888888889.................................... [Federal University of Amazonas] was compared to [Federal University of Alagoas] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.411179.b....... -35.77606......................................... 
+	http://www.grid.ac/institutes/grid.411179.b....... -9.556068......................................... 
+	http://www.grid.ac/institutes/grid.411179.b....... http://www.ufal.edu.br/........................... 
+	http://www.grid.ac/institutes/grid.411179.b....... Federal University of Alagoas..................... 
+	http://risis.eu/orgref_20170703/resource/2407712.. http://en.wikipedia.org/wiki?curid=2407712........ 
+	http://risis.eu/orgref_20170703/resource/2407712.. http://www.wikidata.org/wiki/Q5440475............. 
+	http://risis.eu/orgref_20170703/resource/2407712.. http://www.ufal.edu.br/ufal....................... 
+	http://risis.eu/orgref_20170703/resource/2407712.. Federal University of Alagoas..................... 
+	http://www.grid.ac/institutes/grid.411181.c....... -60.017586........................................ 
+	http://www.grid.ac/institutes/grid.411181.c....... -3.122065......................................... 
+	http://www.grid.ac/institutes/grid.411181.c....... http://www.ufam.edu.br/........................... 
+	http://www.grid.ac/institutes/grid.411181.c....... Federal University of Amazonas.................... 
+	http://risis.eu/orgref_20170703/resource/1867576.. http://en.wikipedia.org/wiki?curid=1867576........ 
+	http://risis.eu/orgref_20170703/resource/1867576.. http://www.wikidata.org/wiki/Q5440476............. 
+	http://risis.eu/orgref_20170703/resource/1867576.. http://www.ufam.edu.br............................ 
+	http://risis.eu/orgref_20170703/resource/1867576.. Federal University of Amazonas.................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:2407712', '1:grid.411179.b'), ('2:2407712', '3:grid.411181.c'), ('2:2407712', '4:1867576'), ('3:grid.411181.c', '1:grid.411179.b'), ('4:1867576', '1:grid.411179.b'), ('4:1867576', '3:grid.411181.c')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

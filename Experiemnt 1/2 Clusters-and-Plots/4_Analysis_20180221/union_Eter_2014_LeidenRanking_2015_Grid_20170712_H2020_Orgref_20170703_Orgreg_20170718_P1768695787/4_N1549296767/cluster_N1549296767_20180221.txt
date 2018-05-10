@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 14700 
+NAME    N1549296767
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.5098.4>
+	<http://risis.eu/orgreg_20170718/resource/BG0027>
+	<http://risis.eu/orgref_20170703/resource/5201451>
+	<http://risis.eu/cordisH2020/resource/participant_999875128>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.5098.4................... http://risis.eu/orgref_20170703/resource/5201451............ 1........................................................... [University of National and World Economy] was compared to [University of National and World Economy] 
+	http://risis.eu/orgref_20170703/resource/5201451............ http://www.grid.ac/institutes/grid.5098.4................... 1........................................................... [University of National and World Economy] was compared to [University of National and World Economy] 
+	http://www.grid.ac/institutes/grid.5098.4................... http://risis.eu/cordisH2020/resource/participant_999875128.. 1........................................................... [University of National and World Economy] was compared to [UNIVERSITY OF NATIONAL AND WORLD ECONOMY] 
+	http://risis.eu/cordisH2020/resource/participant_999875128.. http://www.grid.ac/institutes/grid.5098.4................... 1........................................................... [University of National and World Economy] was compared to [UNIVERSITY OF NATIONAL AND WORLD ECONOMY] 
+	http://risis.eu/orgref_20170703/resource/5201451............ http://risis.eu/cordisH2020/resource/participant_999875128.. 1........................................................... [University of National and World Economy] was compared to [UNIVERSITY OF NATIONAL AND WORLD ECONOMY] 
+	http://risis.eu/cordisH2020/resource/participant_999875128.. http://risis.eu/orgref_20170703/resource/5201451............ 1........................................................... [University of National and World Economy] was compared to [UNIVERSITY OF NATIONAL AND WORLD ECONOMY] 
+	http://risis.eu/orgreg_20170718/resource/BG0027............. http://risis.eu/cordisH2020/resource/participant_999875128.. 1........................................................... [University of National and World Economy] was compared to [UNIVERSITY OF NATIONAL AND WORLD ECONOMY] 
+	http://risis.eu/cordisH2020/resource/participant_999875128.. http://risis.eu/orgreg_20170718/resource/BG0027............. 1........................................................... [University of National and World Economy] was compared to [UNIVERSITY OF NATIONAL AND WORLD ECONOMY] 
+	http://risis.eu/orgreg_20170718/resource/BG0027............. http://risis.eu/orgref_20170703/resource/5201451............ 1........................................................... [University of National and World Economy] was compared to [University of National and World Economy] 
+	http://risis.eu/orgref_20170703/resource/5201451............ http://risis.eu/orgreg_20170718/resource/BG0027............. 1........................................................... [University of National and World Economy] was compared to [University of National and World Economy] 
+	http://www.grid.ac/institutes/grid.5098.4................... http://risis.eu/orgreg_20170718/resource/BG0027............. 1........................................................... [University of National and World Economy] was compared to [University of National and World Economy] 
+	http://risis.eu/orgreg_20170718/resource/BG0027............. http://www.grid.ac/institutes/grid.5098.4................... 1........................................................... [University of National and World Economy] was compared to [University of National and World Economy] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.5098.4................... 23.348612................................................... 
+	http://www.grid.ac/institutes/grid.5098.4................... 42.650833................................................... 
+	http://www.grid.ac/institutes/grid.5098.4................... http://www.unwe.bg/en....................................... 
+	http://www.grid.ac/institutes/grid.5098.4................... Karl Marx Higher Institute of Economics..................... 
+	http://www.grid.ac/institutes/grid.5098.4................... University of National and World Economy.................... 
+	http://risis.eu/orgreg_20170718/resource/BG0027............. 23.324564................................................... 
+	http://risis.eu/orgreg_20170718/resource/BG0027............. 42.697821................................................... 
+	http://risis.eu/orgreg_20170718/resource/BG0027............. http://www.unwe.bg/en/...................................... 
+	http://risis.eu/orgreg_20170718/resource/BG0027............. University of National and World Economy.................... 
+	http://risis.eu/orgref_20170703/resource/5201451............ http://en.wikipedia.org/wiki?curid=5201451.................. 
+	http://risis.eu/orgref_20170703/resource/5201451............ http://www.wikidata.org/wiki/Q1029504....................... 
+	http://risis.eu/orgref_20170703/resource/5201451............ http://www.unwe.bg/en....................................... 
+	http://risis.eu/orgref_20170703/resource/5201451............ University of National and World Economy.................... 
+	http://risis.eu/cordisH2020/resource/participant_999875128.. http://www.unwe.acad.bg..................................... 
+	http://risis.eu/cordisH2020/resource/participant_999875128.. UNIVERSITY OF NATIONAL AND WORLD ECONOMY.................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:BG0027', '1:grid.5098.4'), ('2:BG0027', '3:5201451'), ('3:5201451', '1:grid.5098.4'), ('4:participant_999875128', '1:grid.5098.4'), ('4:participant_999875128', '2:BG0027'), ('4:participant_999875128', '3:5201451')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

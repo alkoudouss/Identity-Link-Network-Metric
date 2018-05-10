@@ -1,0 +1,70 @@
+SIZE    5   
+CLUSTER 10775 
+NAME    N1540358760
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.444724.5>
+	<http://risis.eu/orgref_20170703/resource/2970028>
+	<http://risis.eu/orgref_20170703/resource/17002032>
+	<http://risis.eu/orgref_20170703/resource/20899735>
+	<http://www.grid.ac/institutes/grid.446306.3>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.444724.5........ http://risis.eu/orgref_20170703/resource/17002032.. 1.................................................. [International Pacific University] was compared to [International Pacific University] 
+	http://risis.eu/orgref_20170703/resource/17002032.. http://www.grid.ac/institutes/grid.444724.5........ 1.................................................. [International Pacific University] was compared to [International Pacific University] 
+	http://risis.eu/orgref_20170703/resource/20899735.. http://www.grid.ac/institutes/grid.446306.3........ 1.................................................. [Pacific National University] was compared to [Pacific National University] 
+	http://www.grid.ac/institutes/grid.446306.3........ http://risis.eu/orgref_20170703/resource/20899735.. 1.................................................. [Pacific National University] was compared to [Pacific National University] 
+	http://risis.eu/orgref_20170703/resource/17002032.. http://risis.eu/orgref_20170703/resource/20899735.. 0.84375............................................ [International Pacific University] was compared to [Pacific National University] 
+	http://risis.eu/orgref_20170703/resource/20899735.. http://risis.eu/orgref_20170703/resource/17002032.. 0.84375............................................ [International Pacific University] was compared to [Pacific National University] 
+	http://risis.eu/orgref_20170703/resource/2970028... http://risis.eu/orgref_20170703/resource/17002032.. 0.888888888889..................................... [International Pacific University] was compared to [Asia-Pacific International University] 
+	http://risis.eu/orgref_20170703/resource/17002032.. http://risis.eu/orgref_20170703/resource/2970028... 0.888888888889..................................... [International Pacific University] was compared to [Asia-Pacific International University] 
+	http://www.grid.ac/institutes/grid.444724.5........ http://www.grid.ac/institutes/grid.446306.3........ 0.84375............................................ [International Pacific University] was compared to [Pacific National University] 
+	http://www.grid.ac/institutes/grid.446306.3........ http://www.grid.ac/institutes/grid.444724.5........ 0.84375............................................ [International Pacific University] was compared to [Pacific National University] 
+	http://www.grid.ac/institutes/grid.444724.5........ http://risis.eu/orgref_20170703/resource/2970028... 0.888888888889..................................... [International Pacific University] was compared to [Asia-Pacific International University] 
+	http://risis.eu/orgref_20170703/resource/2970028... http://www.grid.ac/institutes/grid.444724.5........ 0.888888888889..................................... [International Pacific University] was compared to [Asia-Pacific International University] 
+	http://www.grid.ac/institutes/grid.444724.5........ http://risis.eu/orgref_20170703/resource/20899735.. 0.84375............................................ [International Pacific University] was compared to [Pacific National University] 
+	http://risis.eu/orgref_20170703/resource/20899735.. http://www.grid.ac/institutes/grid.444724.5........ 0.84375............................................ [International Pacific University] was compared to [Pacific National University] 
+	http://risis.eu/orgref_20170703/resource/17002032.. http://www.grid.ac/institutes/grid.446306.3........ 0.84375............................................ [Pacific National University] was compared to [International Pacific University] 
+	http://www.grid.ac/institutes/grid.446306.3........ http://risis.eu/orgref_20170703/resource/17002032.. 0.84375............................................ [Pacific National University] was compared to [International Pacific University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.444724.5........ International Pacific University................... 
+	http://risis.eu/orgref_20170703/resource/2970028... http://en.wikipedia.org/wiki?curid=2970028......... 
+	http://risis.eu/orgref_20170703/resource/2970028... http://www.wikidata.org/wiki/Q726793............... 
+	http://risis.eu/orgref_20170703/resource/2970028... http://www.apiu.edu................................ 
+	http://risis.eu/orgref_20170703/resource/2970028... Asia-Pacific International University.............. 
+	http://risis.eu/orgref_20170703/resource/17002032.. http://en.wikipedia.org/wiki?curid=17002032........ 
+	http://risis.eu/orgref_20170703/resource/17002032.. http://www.wikidata.org/wiki/Q6052304.............. 
+	http://risis.eu/orgref_20170703/resource/17002032.. http://www.ipu-japan.jp/english.................... 
+	http://risis.eu/orgref_20170703/resource/17002032.. International Pacific University................... 
+	http://risis.eu/orgref_20170703/resource/20899735.. http://en.wikipedia.org/wiki?curid=20899735........ 
+	http://risis.eu/orgref_20170703/resource/20899735.. http://www.wikidata.org/wiki/Q1051345.............. 
+	http://risis.eu/orgref_20170703/resource/20899735.. http://pnu.edu.ru/en............................... 
+	http://risis.eu/orgref_20170703/resource/20899735.. Pacific National University........................ 
+	http://www.grid.ac/institutes/grid.446306.3........ Pacific National University........................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:2970028', '1:grid.444724.5'), ('3:17002032', '1:grid.444724.5'), ('3:17002032', '2:2970028'), ('3:17002032', '5:grid.446306.3'), ('4:20899735', '1:grid.444724.5'), ('4:20899735', '3:17002032'), ('5:grid.446306.3', '1:grid.444724.5'), ('5:grid.446306.3', '4:20899735')]
+	MAX DISTANCE:                   : 0.8
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 2.7
+	AVERAGE NODE CONNECTIVITY RATIO : 0.675
+	BRIDGES                         : 0
+	CLOSURE                         : 0.8
+	DIAMETER                        : 2
+	QUALITY                         : 0.178
+	QUALITY USED                    : 0.195
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.2 DIAMETER 0.333 QUALITY 0.178 QUALITY USED 0.195
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.2 DIAMETER 0.385 QUALITY 0.178 QUALITY USED 0.195

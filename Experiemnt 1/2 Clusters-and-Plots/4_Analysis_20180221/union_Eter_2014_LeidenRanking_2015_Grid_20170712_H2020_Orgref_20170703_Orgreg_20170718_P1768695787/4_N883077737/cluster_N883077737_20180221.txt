@@ -1,0 +1,69 @@
+SIZE    4   
+CLUSTER 18126 
+NAME    N883077737
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.450966.8>
+	<http://www.grid.ac/institutes/grid.481661.c>
+	<http://www.grid.ac/institutes/grid.426225.5>
+	<http://www.grid.ac/institutes/grid.434040.7>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.426225.5.. http://www.grid.ac/institutes/grid.434040.7.. 1............................................ [JDSU (Switzerland)] was compared to [JDSU (United States)] 
+	http://www.grid.ac/institutes/grid.434040.7.. http://www.grid.ac/institutes/grid.426225.5.. 1............................................ [JDSU (Switzerland)] was compared to [JDSU (United States)] 
+	http://www.grid.ac/institutes/grid.450966.8.. http://www.grid.ac/institutes/grid.426225.5.. 1............................................ [JDSU (Switzerland)] was compared to [JDSU (Canada)] 
+	http://www.grid.ac/institutes/grid.426225.5.. http://www.grid.ac/institutes/grid.450966.8.. 1............................................ [JDSU (Switzerland)] was compared to [JDSU (Canada)] 
+	http://www.grid.ac/institutes/grid.481661.c.. http://www.grid.ac/institutes/grid.426225.5.. 1............................................ [JDSU (Switzerland)] was compared to [JDSU (China)] 
+	http://www.grid.ac/institutes/grid.426225.5.. http://www.grid.ac/institutes/grid.481661.c.. 1............................................ [JDSU (Switzerland)] was compared to [JDSU (China)] 
+	http://www.grid.ac/institutes/grid.450966.8.. http://www.grid.ac/institutes/grid.434040.7.. 1............................................ [JDSU (United States)] was compared to [JDSU (Canada)] 
+	http://www.grid.ac/institutes/grid.434040.7.. http://www.grid.ac/institutes/grid.450966.8.. 1............................................ [JDSU (United States)] was compared to [JDSU (Canada)] 
+	http://www.grid.ac/institutes/grid.481661.c.. http://www.grid.ac/institutes/grid.434040.7.. 1............................................ [JDSU (United States)] was compared to [JDSU (China)] 
+	http://www.grid.ac/institutes/grid.434040.7.. http://www.grid.ac/institutes/grid.481661.c.. 1............................................ [JDSU (United States)] was compared to [JDSU (China)] 
+	http://www.grid.ac/institutes/grid.450966.8.. http://www.grid.ac/institutes/grid.481661.c.. 1............................................ [JDSU (Canada)] was compared to [JDSU (China)] 
+	http://www.grid.ac/institutes/grid.481661.c.. http://www.grid.ac/institutes/grid.450966.8.. 1............................................ [JDSU (Canada)] was compared to [JDSU (China)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.450966.8.. -75.96094.................................... 
+	http://www.grid.ac/institutes/grid.450966.8.. 45.30784..................................... 
+	http://www.grid.ac/institutes/grid.450966.8.. http://www.jdsu.com/......................... 
+	http://www.grid.ac/institutes/grid.450966.8.. JDS Uniphase................................. 
+	http://www.grid.ac/institutes/grid.450966.8.. JDSU (Canada)................................ 
+	http://www.grid.ac/institutes/grid.481661.c.. 114.06619.................................... 
+	http://www.grid.ac/institutes/grid.481661.c.. 22.562527.................................... 
+	http://www.grid.ac/institutes/grid.481661.c.. http://www.viavisolutions.com/en-us.......... 
+	http://www.grid.ac/institutes/grid.481661.c.. JDSU (China)................................. 
+	http://www.grid.ac/institutes/grid.426225.5.. 7.442294..................................... 
+	http://www.grid.ac/institutes/grid.426225.5.. 46.95108..................................... 
+	http://www.grid.ac/institutes/grid.426225.5.. https://www.jdsu.com......................... 
+	http://www.grid.ac/institutes/grid.426225.5.. JDSU (Switzerland)........................... 
+	http://www.grid.ac/institutes/grid.434040.7.. -121.88503................................... 
+	http://www.grid.ac/institutes/grid.434040.7.. 37.392883.................................... 
+	http://www.grid.ac/institutes/grid.434040.7.. https://www.JDSU.com......................... 
+	http://www.grid.ac/institutes/grid.434040.7.. JDS Uniphase................................. 
+	http://www.grid.ac/institutes/grid.434040.7.. JDSU (United States)......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.450966.8', '4:grid.434040.7'), ('2:grid.481661.c', '1:grid.450966.8'), ('2:grid.481661.c', '3:grid.426225.5'), ('3:grid.426225.5', '1:grid.450966.8'), ('4:grid.434040.7', '2:grid.481661.c'), ('4:grid.434040.7', '3:grid.426225.5')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

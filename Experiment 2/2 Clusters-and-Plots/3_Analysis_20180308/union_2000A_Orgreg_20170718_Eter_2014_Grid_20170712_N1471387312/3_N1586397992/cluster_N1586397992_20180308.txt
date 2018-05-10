@@ -1,0 +1,58 @@
+SIZE    3   
+CLUSTER 1197 
+NAME    N1586397992
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.7727.5>
+	<http://risis.eu/eter_2014/resource/DE0026>
+	<http://www.grid.ac/institutes/grid.411941.8>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.7727.5.... http://risis.eu/eter_2014/resource/DE0026.... 1............................................ [university regensburg] was compared to [university regensburg] 
+	http://www.grid.ac/institutes/grid.7727.5.... http://risis.eu/eter_2014/resource/DE0026.... 0.909090909091............................... [universitat regensburg] was compared to [university regensburg] 
+	http://risis.eu/eter_2014/resource/DE0026.... http://www.grid.ac/institutes/grid.7727.5.... 1............................................ [university regensburg] was compared to [university regensburg] 
+	http://risis.eu/eter_2014/resource/DE0026.... http://www.grid.ac/institutes/grid.7727.5.... 0.909090909091............................... [universitat regensburg] was compared to [university regensburg] 
+	http://risis.eu/eter_2014/resource/DE0026.... http://www.grid.ac/institutes/grid.411941.8.. 0.7.......................................... [university regensburg] was compared to [university hospital regensburg] 
+	http://www.grid.ac/institutes/grid.411941.8.. http://risis.eu/eter_2014/resource/DE0026.... 0.7.......................................... [university regensburg] was compared to [university hospital regensburg] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.7727.5.... 12.09217..................................... 
+	http://www.grid.ac/institutes/grid.7727.5.... 49.00001..................................... 
+	http://www.grid.ac/institutes/grid.7727.5.... http://www.uni-regensburg.de/index.html.en... 
+	http://www.grid.ac/institutes/grid.7727.5.... University of Regensburg..................... 
+	http://risis.eu/eter_2014/resource/DE0026.... 48,988222.................................... 
+	http://risis.eu/eter_2014/resource/DE0026.... 12,102064.................................... 
+	http://risis.eu/eter_2014/resource/DE0026.... www.uni-regensburg.de........................ 
+	http://risis.eu/eter_2014/resource/DE0026.... a............................................ 
+	http://risis.eu/eter_2014/resource/DE0026.... University of Regensburg..................... 
+	http://risis.eu/eter_2014/resource/DE0026.... Universität Regensburg...................... 
+	http://www.grid.ac/institutes/grid.411941.8.. 12.089145.................................... 
+	http://www.grid.ac/institutes/grid.411941.8.. 48.988487.................................... 
+	http://www.grid.ac/institutes/grid.411941.8.. http://www.uniklinikum-regensburg.de/e/...... 
+	http://www.grid.ac/institutes/grid.411941.8.. University Hospital Regensburg............... 
+
+NETWORK ANALYSIS
+	NETWORK [('N86725471-DE0026', 'N33252590-grid.411941.8'), ('N86725471-DE0026', 'N1586397992-grid.7727.5')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

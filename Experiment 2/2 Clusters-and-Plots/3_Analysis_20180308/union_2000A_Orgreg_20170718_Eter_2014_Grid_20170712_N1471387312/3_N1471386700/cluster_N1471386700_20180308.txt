@@ -1,0 +1,60 @@
+SIZE    3   
+CLUSTER 1183 
+NAME    N1471386700
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/SK0003>
+	<http://risis.eu/orgreg_20170718/resource/SK0003>
+	<http://www.grid.ac/institutes/grid.445181.d>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/eter_2014/resource/SK0003........ http://www.grid.ac/institutes/grid.445181.d...... 0.708333333333................................... [university presov presov] was compared to [university presov] 
+	http://risis.eu/eter_2014/resource/SK0003........ http://risis.eu/orgreg_20170718/resource/SK0003.. 1................................................ [university presov presov] was compared to [university presov presov] 
+	http://risis.eu/eter_2014/resource/SK0003........ http://risis.eu/orgreg_20170718/resource/SK0003.. 0.733333333333................................... [university presov presov] was compared to [presovska univerzita v presove] 
+	http://risis.eu/orgreg_20170718/resource/SK0003.. http://www.grid.ac/institutes/grid.445181.d...... 0.708333333333................................... [university presov presov] was compared to [university presov] 
+	http://risis.eu/orgreg_20170718/resource/SK0003.. http://risis.eu/eter_2014/resource/SK0003........ 1................................................ [university presov presov] was compared to [university presov presov] 
+	http://risis.eu/orgreg_20170718/resource/SK0003.. http://risis.eu/eter_2014/resource/SK0003........ 0.733333333333................................... [university presov presov] was compared to [presovska univerzita v presove] 
+	http://www.grid.ac/institutes/grid.445181.d...... http://risis.eu/eter_2014/resource/SK0003........ 0.708333333333................................... [university presov presov] was compared to [university presov] 
+	http://www.grid.ac/institutes/grid.445181.d...... http://risis.eu/orgreg_20170718/resource/SK0003.. 0.708333333333................................... [university presov presov] was compared to [university presov] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/eter_2014/resource/SK0003........ 48,9999708....................................... 
+	http://risis.eu/eter_2014/resource/SK0003........ 21,2228422....................................... 
+	http://risis.eu/eter_2014/resource/SK0003........ www.unipo.sk..................................... 
+	http://risis.eu/eter_2014/resource/SK0003........ a................................................ 
+	http://risis.eu/eter_2014/resource/SK0003........ University of Prešov in Prešov................. 
+	http://risis.eu/eter_2014/resource/SK0003........ Prešovska Univerzita V Prešove................. 
+	http://risis.eu/orgreg_20170718/resource/SK0003.. 21.2228422....................................... 
+	http://risis.eu/orgreg_20170718/resource/SK0003.. 48.9999708....................................... 
+	http://risis.eu/orgreg_20170718/resource/SK0003.. www.unipo.sk..................................... 
+	http://risis.eu/orgreg_20170718/resource/SK0003.. University of Prešov in Prešov................. 
+	http://www.grid.ac/institutes/grid.445181.d...... 21.232958........................................ 
+	http://www.grid.ac/institutes/grid.445181.d...... 48.99125......................................... 
+	http://www.grid.ac/institutes/grid.445181.d...... http://www.unipo.sk/............................. 
+	http://www.grid.ac/institutes/grid.445181.d...... University of Prešov............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('N1471386700-SK0003', 'P1758430909-grid.445181.d'), ('N917805215-SK0003', 'P1758430909-grid.445181.d'), ('N917805215-SK0003', 'N1471386700-SK0003')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 17882 
+NAME    N1594377690
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.444002.6>
+	<http://risis.eu/orgref_20170703/resource/18207471>
+	<http://www.grid.ac/institutes/grid.440778.8>
+	<http://risis.eu/orgref_20170703/resource/27574388>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.444002.6........ http://www.grid.ac/institutes/grid.440778.8........ 0.933333333333..................................... [Hunan University of Arts and Science] was compared to [University of Human Arts and Sciences] 
+	http://www.grid.ac/institutes/grid.440778.8........ http://www.grid.ac/institutes/grid.444002.6........ 0.933333333333..................................... [Hunan University of Arts and Science] was compared to [University of Human Arts and Sciences] 
+	http://www.grid.ac/institutes/grid.440778.8........ http://risis.eu/orgref_20170703/resource/27574388.. 1.................................................. [Hunan University of Arts and Science] was compared to [Hunan University of Arts and Science] 
+	http://risis.eu/orgref_20170703/resource/27574388.. http://www.grid.ac/institutes/grid.440778.8........ 1.................................................. [Hunan University of Arts and Science] was compared to [Hunan University of Arts and Science] 
+	http://risis.eu/orgref_20170703/resource/18207471.. http://www.grid.ac/institutes/grid.440778.8........ 0.933333333333..................................... [Hunan University of Arts and Science] was compared to [University of Human Arts and Sciences] 
+	http://www.grid.ac/institutes/grid.440778.8........ http://risis.eu/orgref_20170703/resource/18207471.. 0.933333333333..................................... [Hunan University of Arts and Science] was compared to [University of Human Arts and Sciences] 
+	http://www.grid.ac/institutes/grid.444002.6........ http://risis.eu/orgref_20170703/resource/27574388.. 0.933333333333..................................... [University of Human Arts and Sciences] was compared to [Hunan University of Arts and Science] 
+	http://risis.eu/orgref_20170703/resource/27574388.. http://www.grid.ac/institutes/grid.444002.6........ 0.933333333333..................................... [University of Human Arts and Sciences] was compared to [Hunan University of Arts and Science] 
+	http://www.grid.ac/institutes/grid.444002.6........ http://risis.eu/orgref_20170703/resource/18207471.. 1.................................................. [University of Human Arts and Sciences] was compared to [University of Human Arts and Sciences] 
+	http://risis.eu/orgref_20170703/resource/18207471.. http://www.grid.ac/institutes/grid.444002.6........ 1.................................................. [University of Human Arts and Sciences] was compared to [University of Human Arts and Sciences] 
+	http://risis.eu/orgref_20170703/resource/18207471.. http://risis.eu/orgref_20170703/resource/27574388.. 0.933333333333..................................... [University of Human Arts and Sciences] was compared to [Hunan University of Arts and Science] 
+	http://risis.eu/orgref_20170703/resource/27574388.. http://risis.eu/orgref_20170703/resource/18207471.. 0.933333333333..................................... [University of Human Arts and Sciences] was compared to [Hunan University of Arts and Science] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.444002.6........ University of Human Arts and Sciences.............. 
+	http://risis.eu/orgref_20170703/resource/18207471.. http://en.wikipedia.org/wiki?curid=18207471........ 
+	http://risis.eu/orgref_20170703/resource/18207471.. http://www.wikidata.org/wiki/Q7895513.............. 
+	http://risis.eu/orgref_20170703/resource/18207471.. http://www.human.ac.jp............................. 
+	http://risis.eu/orgref_20170703/resource/18207471.. University of Human Arts and Sciences.............. 
+	http://www.grid.ac/institutes/grid.440778.8........ Hunan University of Arts and Science............... 
+	http://risis.eu/orgref_20170703/resource/27574388.. http://en.wikipedia.org/wiki?curid=27574388........ 
+	http://risis.eu/orgref_20170703/resource/27574388.. http://www.wikidata.org/wiki/Q5942046.............. 
+	http://risis.eu/orgref_20170703/resource/27574388.. http://www.huas.cn................................. 
+	http://risis.eu/orgref_20170703/resource/27574388.. Hunan University of Arts and Science............... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:18207471', '1:grid.444002.6'), ('2:18207471', '3:grid.440778.8'), ('3:grid.440778.8', '1:grid.444002.6'), ('4:27574388', '1:grid.444002.6'), ('4:27574388', '2:18207471'), ('4:27574388', '3:grid.440778.8')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,68 @@
+SIZE    5   
+CLUSTER 3516 
+NAME    N1624771513
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.471915.f>
+	<http://www.grid.ac/institutes/grid.471924.d>
+	<http://www.grid.ac/institutes/grid.471910.a>
+	<http://www.grid.ac/institutes/grid.471921.8>
+	<http://www.grid.ac/institutes/grid.471900.b>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.471924.d.. http://www.grid.ac/institutes/grid.471900.b.. 0.829787234043............................... [Niigata Prefectural Niigata Central High School] was compared to [Niigata Prefectural Niigata High School] 
+	http://www.grid.ac/institutes/grid.471900.b.. http://www.grid.ac/institutes/grid.471924.d.. 0.829787234043............................... [Niigata Prefectural Niigata Central High School] was compared to [Niigata Prefectural Niigata High School] 
+	http://www.grid.ac/institutes/grid.471924.d.. http://www.grid.ac/institutes/grid.471910.a.. 0.8125....................................... [Niigata Prefectural Niigata MidoriKo High School] was compared to [Niigata Prefectural Niigata High School] 
+	http://www.grid.ac/institutes/grid.471910.a.. http://www.grid.ac/institutes/grid.471924.d.. 0.8125....................................... [Niigata Prefectural Niigata MidoriKo High School] was compared to [Niigata Prefectural Niigata High School] 
+	http://www.grid.ac/institutes/grid.471915.f.. http://www.grid.ac/institutes/grid.471924.d.. 0.847826086957............................... [Niigata Prefectural Niigata Minami High School] was compared to [Niigata Prefectural Niigata High School] 
+	http://www.grid.ac/institutes/grid.471924.d.. http://www.grid.ac/institutes/grid.471915.f.. 0.847826086957............................... [Niigata Prefectural Niigata Minami High School] was compared to [Niigata Prefectural Niigata High School] 
+	http://www.grid.ac/institutes/grid.471924.d.. http://www.grid.ac/institutes/grid.471921.8.. 0.897435897436............................... [Niigata Prefectural Nagaoka High School] was compared to [Niigata Prefectural Niigata High School] 
+	http://www.grid.ac/institutes/grid.471921.8.. http://www.grid.ac/institutes/grid.471924.d.. 0.897435897436............................... [Niigata Prefectural Nagaoka High School] was compared to [Niigata Prefectural Niigata High School] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 20 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.471915.f.. 139.04391.................................... 
+	http://www.grid.ac/institutes/grid.471915.f.. 37.90871..................................... 
+	http://www.grid.ac/institutes/grid.471915.f.. http://www.niigatami-h.nein.ed.jp/........... 
+	http://www.grid.ac/institutes/grid.471915.f.. Niigata Prefectural Niigata Minami High School 
+	http://www.grid.ac/institutes/grid.471924.d.. 139.02338.................................... 
+	http://www.grid.ac/institutes/grid.471924.d.. 37.915348.................................... 
+	http://www.grid.ac/institutes/grid.471924.d.. http://www.niigata-h.nein.ed.jp/............. 
+	http://www.grid.ac/institutes/grid.471924.d.. Niigata Prefectural Niigata High School...... 
+	http://www.grid.ac/institutes/grid.471910.a.. 138.99771.................................... 
+	http://www.grid.ac/institutes/grid.471910.a.. 37.83921..................................... 
+	http://www.grid.ac/institutes/grid.471910.a.. http://www.niigatasuikou-h.nein.ed.jp/....... 
+	http://www.grid.ac/institutes/grid.471910.a.. Niigata Prefectural Niigata MidoriKo High School 
+	http://www.grid.ac/institutes/grid.471921.8.. 138.8594..................................... 
+	http://www.grid.ac/institutes/grid.471921.8.. 37.444614.................................... 
+	http://www.grid.ac/institutes/grid.471921.8.. http://www.nagaoka-h.nein.ed.jp/............. 
+	http://www.grid.ac/institutes/grid.471921.8.. Niigata Prefectural Nagaoka High School...... 
+	http://www.grid.ac/institutes/grid.471900.b.. 139.0307..................................... 
+	http://www.grid.ac/institutes/grid.471900.b.. 37.918472.................................... 
+	http://www.grid.ac/institutes/grid.471900.b.. http://www.niigatachuo-h.nein.ed.jp/......... 
+	http://www.grid.ac/institutes/grid.471900.b.. Niigata Prefectural Niigata Central High School 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.471924.d', '1:grid.471915.f'), ('3:grid.471910.a', '2:grid.471924.d'), ('4:grid.471921.8', '2:grid.471924.d'), ('5:grid.471900.b', '2:grid.471924.d')]
+	MAX DISTANCE:                   : 0.4
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.25
+	BRIDGES                         : 4
+	CLOSURE                         : 0.4
+	DIAMETER                        : 2
+	QUALITY                         : 0.644
+	QUALITY USED                    : 0.662
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.6 DIAMETER 0.333 QUALITY 0.644 QUALITY USED 0.662
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.6 DIAMETER 0.385 QUALITY 0.644 QUALITY USED 0.662

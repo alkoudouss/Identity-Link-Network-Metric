@@ -1,0 +1,69 @@
+SIZE    5   
+CLUSTER 18075 
+NAME    N373551833
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.413336.0>
+	<http://www.grid.ac/institutes/grid.460711.5>
+	<http://www.grid.ac/institutes/grid.416953.c>
+	<http://www.grid.ac/institutes/grid.439614.d>
+	<http://risis.eu/orgref_20170703/resource/12672697>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.460711.5........ http://www.grid.ac/institutes/grid.416953.c........ 0.894736842105..................................... [Waterbury Hospital] was compared to [Canterbury Hospital] 
+	http://www.grid.ac/institutes/grid.416953.c........ http://www.grid.ac/institutes/grid.460711.5........ 0.894736842105..................................... [Waterbury Hospital] was compared to [Canterbury Hospital] 
+	http://www.grid.ac/institutes/grid.460711.5........ http://risis.eu/orgref_20170703/resource/12672697.. 1.................................................. [Canterbury Hospital] was compared to [Canterbury Hospital] 
+	http://risis.eu/orgref_20170703/resource/12672697.. http://www.grid.ac/institutes/grid.460711.5........ 1.................................................. [Canterbury Hospital] was compared to [Canterbury Hospital] 
+	http://www.grid.ac/institutes/grid.416953.c........ http://risis.eu/orgref_20170703/resource/12672697.. 0.894736842105..................................... [Waterbury Hospital] was compared to [Canterbury Hospital] 
+	http://risis.eu/orgref_20170703/resource/12672697.. http://www.grid.ac/institutes/grid.416953.c........ 0.894736842105..................................... [Waterbury Hospital] was compared to [Canterbury Hospital] 
+	http://www.grid.ac/institutes/grid.413336.0........ http://www.grid.ac/institutes/grid.460711.5........ 0.8................................................ [Canniesburn Hospital] was compared to [Canterbury Hospital] 
+	http://www.grid.ac/institutes/grid.460711.5........ http://www.grid.ac/institutes/grid.413336.0........ 0.8................................................ [Canniesburn Hospital] was compared to [Canterbury Hospital] 
+	http://www.grid.ac/institutes/grid.416953.c........ http://www.grid.ac/institutes/grid.439614.d........ 0.833333333333..................................... [Waterbury Hospital] was compared to [Tetbury Hospital] 
+	http://www.grid.ac/institutes/grid.439614.d........ http://www.grid.ac/institutes/grid.416953.c........ 0.833333333333..................................... [Waterbury Hospital] was compared to [Tetbury Hospital] 
+	http://www.grid.ac/institutes/grid.413336.0........ http://risis.eu/orgref_20170703/resource/12672697.. 0.8................................................ [Canniesburn Hospital] was compared to [Canterbury Hospital] 
+	http://risis.eu/orgref_20170703/resource/12672697.. http://www.grid.ac/institutes/grid.413336.0........ 0.8................................................ [Canniesburn Hospital] was compared to [Canterbury Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.413336.0........ -4.233292.......................................... 
+	http://www.grid.ac/institutes/grid.413336.0........ 55.865417.......................................... 
+	http://www.grid.ac/institutes/grid.413336.0........ http://www.canniesburn.org/........................ 
+	http://www.grid.ac/institutes/grid.413336.0........ Canniesburn Hospital............................... 
+	http://www.grid.ac/institutes/grid.460711.5........ 151.0984........................................... 
+	http://www.grid.ac/institutes/grid.460711.5........ -33.9196........................................... 
+	http://www.grid.ac/institutes/grid.460711.5........ http://www.slhd.nsw.gov.au/canterbury/............. 
+	http://www.grid.ac/institutes/grid.460711.5........ Canterbury Hospital................................ 
+	http://www.grid.ac/institutes/grid.416953.c........ -73.05933.......................................... 
+	http://www.grid.ac/institutes/grid.416953.c........ 41.559505.......................................... 
+	http://www.grid.ac/institutes/grid.416953.c........ http://www.waterburyhospital.org/.................. 
+	http://www.grid.ac/institutes/grid.416953.c........ Waterbury Hospital................................. 
+	http://www.grid.ac/institutes/grid.439614.d........ Tetbury Hospital................................... 
+	http://risis.eu/orgref_20170703/resource/12672697.. http://en.wikipedia.org/wiki?curid=12672697........ 
+	http://risis.eu/orgref_20170703/resource/12672697.. http://www.wikidata.org/wiki/Q5033669.............. 
+	http://risis.eu/orgref_20170703/resource/12672697.. http://www.slhd.nsw.gov.au/canterbury.............. 
+	http://risis.eu/orgref_20170703/resource/12672697.. Canterbury Hospital................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.460711.5', '1:grid.413336.0'), ('3:grid.416953.c', '2:grid.460711.5'), ('4:grid.439614.d', '3:grid.416953.c'), ('5:12672697', '1:grid.413336.0'), ('5:12672697', '2:grid.460711.5'), ('5:12672697', '3:grid.416953.c')]
+	MAX DISTANCE:                   : 0.6
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 1.7
+	AVERAGE NODE CONNECTIVITY RATIO : 0.425
+	BRIDGES                         : 1
+	CLOSURE                         : 0.6
+	DIAMETER                        : 3
+	QUALITY                         : 0.439
+	QUALITY USED                    : 0.484
+	SUMMARY 1: BRIDGE 0.25 CLOSURE 0.4 DIAMETER 0.667 QUALITY 0.439 QUALITY USED 0.484
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.4 DIAMETER 0.667 QUALITY 0.439 QUALITY USED 0.484

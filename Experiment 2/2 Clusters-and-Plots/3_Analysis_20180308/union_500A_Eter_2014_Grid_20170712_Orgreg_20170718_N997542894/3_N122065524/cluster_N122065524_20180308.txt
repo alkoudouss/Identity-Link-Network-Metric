@@ -1,0 +1,58 @@
+SIZE    3   
+CLUSTER 1156 
+NAME    N122065524
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/CZ2004>
+	<http://risis.eu/orgreg_20170718/resource/CZ0012>
+	<http://risis.eu/eter_2014/resource/CZ0012>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/CZ2004.. http://risis.eu/eter_2014/resource/CZ0012........ 0.735294117647................................... [university hospital hradec kralove] was compared to [university hradec kralove] 
+	http://risis.eu/orgreg_20170718/resource/CZ0012.. http://risis.eu/eter_2014/resource/CZ0012........ 1................................................ [university hradec kralove] was compared to [university hradec kralove] 
+	http://risis.eu/orgreg_20170718/resource/CZ0012.. http://risis.eu/eter_2014/resource/CZ0012........ 0.92............................................. [university hradec kralove] was compared to [univerzita hradec kralove] 
+	http://risis.eu/eter_2014/resource/CZ0012........ http://risis.eu/orgreg_20170718/resource/CZ0012.. 1................................................ [university hradec kralove] was compared to [university hradec kralove] 
+	http://risis.eu/eter_2014/resource/CZ0012........ http://risis.eu/orgreg_20170718/resource/CZ0012.. 0.92............................................. [university hradec kralove] was compared to [univerzita hradec kralove] 
+	http://risis.eu/eter_2014/resource/CZ0012........ http://risis.eu/orgreg_20170718/resource/CZ2004.. 0.735294117647................................... [university hospital hradec kralove] was compared to [university hradec kralove] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/CZ2004.. 15.877017........................................ 
+	http://risis.eu/orgreg_20170718/resource/CZ2004.. 50.239729........................................ 
+	http://risis.eu/orgreg_20170718/resource/CZ2004.. https://www.fnhk.cz/............................. 
+	http://risis.eu/orgreg_20170718/resource/CZ2004.. University Hospital Hradec Kralove............... 
+	http://risis.eu/orgreg_20170718/resource/CZ0012.. 15.877017........................................ 
+	http://risis.eu/orgreg_20170718/resource/CZ0012.. 50.239729........................................ 
+	http://risis.eu/orgreg_20170718/resource/CZ0012.. http://www.uhk.cz/............................... 
+	http://risis.eu/orgreg_20170718/resource/CZ0012.. University of Hradec Králové................... 
+	http://risis.eu/eter_2014/resource/CZ0012........ 50,239729........................................ 
+	http://risis.eu/eter_2014/resource/CZ0012........ 15,877017........................................ 
+	http://risis.eu/eter_2014/resource/CZ0012........ http://www.uhk.cz/............................... 
+	http://risis.eu/eter_2014/resource/CZ0012........ a................................................ 
+	http://risis.eu/eter_2014/resource/CZ0012........ University of Hradec Králové................... 
+	http://risis.eu/eter_2014/resource/CZ0012........ Univerzita Hradec Králové...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('N122065524-CZ0012', 'P1576439457-CZ0012'), ('N122065524-CZ0012', 'P1158944112-CZ2004')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

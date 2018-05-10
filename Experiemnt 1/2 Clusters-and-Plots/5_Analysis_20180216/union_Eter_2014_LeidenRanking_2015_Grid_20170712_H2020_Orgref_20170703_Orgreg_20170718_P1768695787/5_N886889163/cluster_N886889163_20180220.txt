@@ -1,0 +1,70 @@
+SIZE    5   
+CLUSTER 6539 
+NAME    N886889163
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.445582.a>
+	<http://risis.eu/orgref_20170703/resource/361870>
+	<http://www.grid.ac/institutes/grid.265193.a>
+	<http://www.grid.ac/institutes/grid.446209.d>
+	<http://risis.eu/orgref_20170703/resource/20356450>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/361870.... http://www.grid.ac/institutes/grid.265193.a........ 1.................................................. [Truman State University] was compared to [Truman State University] 
+	http://www.grid.ac/institutes/grid.265193.a........ http://risis.eu/orgref_20170703/resource/361870.... 1.................................................. [Truman State University] was compared to [Truman State University] 
+	http://www.grid.ac/institutes/grid.445582.a........ http://risis.eu/orgref_20170703/resource/20356450.. 1.................................................. [Tuvan State University] was compared to [Tuvan State University] 
+	http://risis.eu/orgref_20170703/resource/20356450.. http://www.grid.ac/institutes/grid.445582.a........ 1.................................................. [Tuvan State University] was compared to [Tuvan State University] 
+	http://risis.eu/orgref_20170703/resource/361870.... http://risis.eu/orgref_20170703/resource/20356450.. 0.913043478261..................................... [Tuvan State University] was compared to [Truman State University] 
+	http://risis.eu/orgref_20170703/resource/20356450.. http://risis.eu/orgref_20170703/resource/361870.... 0.913043478261..................................... [Tuvan State University] was compared to [Truman State University] 
+	http://www.grid.ac/institutes/grid.445582.a........ http://www.grid.ac/institutes/grid.265193.a........ 0.913043478261..................................... [Truman State University] was compared to [Tuvan State University] 
+	http://www.grid.ac/institutes/grid.265193.a........ http://www.grid.ac/institutes/grid.445582.a........ 0.913043478261..................................... [Truman State University] was compared to [Tuvan State University] 
+	http://www.grid.ac/institutes/grid.265193.a........ http://www.grid.ac/institutes/grid.446209.d........ 0.913043478261..................................... [Truman State University] was compared to [Tyumen State University] 
+	http://www.grid.ac/institutes/grid.446209.d........ http://www.grid.ac/institutes/grid.265193.a........ 0.913043478261..................................... [Truman State University] was compared to [Tyumen State University] 
+	http://www.grid.ac/institutes/grid.265193.a........ http://risis.eu/orgref_20170703/resource/20356450.. 0.913043478261..................................... [Truman State University] was compared to [Tuvan State University] 
+	http://risis.eu/orgref_20170703/resource/20356450.. http://www.grid.ac/institutes/grid.265193.a........ 0.913043478261..................................... [Truman State University] was compared to [Tuvan State University] 
+	http://www.grid.ac/institutes/grid.445582.a........ http://risis.eu/orgref_20170703/resource/361870.... 0.913043478261..................................... [Tuvan State University] was compared to [Truman State University] 
+	http://risis.eu/orgref_20170703/resource/361870.... http://www.grid.ac/institutes/grid.445582.a........ 0.913043478261..................................... [Tuvan State University] was compared to [Truman State University] 
+	http://risis.eu/orgref_20170703/resource/361870.... http://www.grid.ac/institutes/grid.446209.d........ 0.913043478261..................................... [Tyumen State University] was compared to [Truman State University] 
+	http://www.grid.ac/institutes/grid.446209.d........ http://risis.eu/orgref_20170703/resource/361870.... 0.913043478261..................................... [Tyumen State University] was compared to [Truman State University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.445582.a........ Tuvan State University............................. 
+	http://risis.eu/orgref_20170703/resource/361870.... http://en.wikipedia.org/wiki?curid=361870.......... 
+	http://risis.eu/orgref_20170703/resource/361870.... http://www.wikidata.org/wiki/Q7847734.............. 
+	http://risis.eu/orgref_20170703/resource/361870.... http://www.truman.edu.............................. 
+	http://risis.eu/orgref_20170703/resource/361870.... Truman State University............................ 
+	http://www.grid.ac/institutes/grid.265193.a........ -92.58174.......................................... 
+	http://www.grid.ac/institutes/grid.265193.a........ 40.1859............................................ 
+	http://www.grid.ac/institutes/grid.265193.a........ http://www.truman.edu/............................. 
+	http://www.grid.ac/institutes/grid.265193.a........ Truman State University............................ 
+	http://www.grid.ac/institutes/grid.446209.d........ Tyumen State University............................ 
+	http://risis.eu/orgref_20170703/resource/20356450.. http://en.wikipedia.org/wiki?curid=20356450........ 
+	http://risis.eu/orgref_20170703/resource/20356450.. http://www.wikidata.org/wiki/Q3551556.............. 
+	http://risis.eu/orgref_20170703/resource/20356450.. http://www.tuvsu.ru................................ 
+	http://risis.eu/orgref_20170703/resource/20356450.. Tuvan State University............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:361870', '1:grid.445582.a'), ('2:361870', '3:grid.265193.a'), ('2:361870', '4:grid.446209.d'), ('3:grid.265193.a', '1:grid.445582.a'), ('4:grid.446209.d', '3:grid.265193.a'), ('5:20356450', '1:grid.445582.a'), ('5:20356450', '2:361870'), ('5:20356450', '3:grid.265193.a')]
+	MAX DISTANCE:                   : 0.8
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 2.7
+	AVERAGE NODE CONNECTIVITY RATIO : 0.675
+	BRIDGES                         : 0
+	CLOSURE                         : 0.8
+	DIAMETER                        : 2
+	QUALITY                         : 0.178
+	QUALITY USED                    : 0.195
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.2 DIAMETER 0.333 QUALITY 0.178 QUALITY USED 0.195
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.2 DIAMETER 0.385 QUALITY 0.178 QUALITY USED 0.195

@@ -1,0 +1,51 @@
+SIZE    3   
+CLUSTER 8998 
+NAME    P587654550
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.473959.5>
+	<http://www.grid.ac/institutes/grid.432314.3>
+	<http://www.grid.ac/institutes/grid.425644.5>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.473959.5.. http://www.grid.ac/institutes/grid.425644.5.. 1............................................ [ASM International (Finland)] was compared to [ASM International (Belgium)] 
+	http://www.grid.ac/institutes/grid.473959.5.. http://www.grid.ac/institutes/grid.432314.3.. 1............................................ [ASM International (Netherlands)] was compared to [ASM International (Belgium)] 
+	http://www.grid.ac/institutes/grid.432314.3.. http://www.grid.ac/institutes/grid.473959.5.. 1............................................ [ASM International (Netherlands)] was compared to [ASM International (Belgium)] 
+	http://www.grid.ac/institutes/grid.432314.3.. http://www.grid.ac/institutes/grid.425644.5.. 1............................................ [ASM International (Finland)] was compared to [ASM International (Netherlands)] 
+	http://www.grid.ac/institutes/grid.425644.5.. http://www.grid.ac/institutes/grid.432314.3.. 1............................................ [ASM International (Finland)] was compared to [ASM International (Netherlands)] 
+	http://www.grid.ac/institutes/grid.425644.5.. http://www.grid.ac/institutes/grid.473959.5.. 1............................................ [ASM International (Finland)] was compared to [ASM International (Belgium)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 7 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.473959.5.. 4.705428..................................... 
+	http://www.grid.ac/institutes/grid.473959.5.. 50.885605.................................... 
+	http://www.grid.ac/institutes/grid.473959.5.. http://www.asm.com/about/locations........... 
+	http://www.grid.ac/institutes/grid.473959.5.. Advanced Semiconductor Materials............. 
+	http://www.grid.ac/institutes/grid.473959.5.. ASM International (Belgium).................. 
+	http://www.grid.ac/institutes/grid.432314.3.. ASM International (Netherlands).............. 
+	http://www.grid.ac/institutes/grid.425644.5.. ASM International (Finland).................. 
+
+NETWORK ANALYSIS
+	NETWORK [('P1149914690-grid.432314.3', 'P976661240-grid.473959.5'), ('P587654550-grid.425644.5', 'P1149914690-grid.432314.3'), ('P587654550-grid.425644.5', 'P976661240-grid.473959.5')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

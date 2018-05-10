@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 2096 
+NAME    N1656775757
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.440029.b>
+	<http://risis.eu/orgref_20170703/resource/9935213>
+	<http://www.grid.ac/institutes/grid.469047.8>
+	<http://risis.eu/orgref_20170703/resource/17653946>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.469047.8........ http://risis.eu/orgref_20170703/resource/17653946.. 1.................................................. [Redcliffe College] was compared to [Redcliffe College] 
+	http://risis.eu/orgref_20170703/resource/17653946.. http://www.grid.ac/institutes/grid.469047.8........ 1.................................................. [Redcliffe College] was compared to [Redcliffe College] 
+	http://www.grid.ac/institutes/grid.440029.b........ http://www.grid.ac/institutes/grid.469047.8........ 0.823529411765..................................... [Wycliffe College] was compared to [Redcliffe College] 
+	http://www.grid.ac/institutes/grid.469047.8........ http://www.grid.ac/institutes/grid.440029.b........ 0.823529411765..................................... [Wycliffe College] was compared to [Redcliffe College] 
+	http://www.grid.ac/institutes/grid.440029.b........ http://risis.eu/orgref_20170703/resource/9935213... 0.8125............................................. [Wycliffe College] was compared to [Cliff College]. 
+	http://risis.eu/orgref_20170703/resource/9935213... http://www.grid.ac/institutes/grid.440029.b........ 0.8125............................................. [Wycliffe College] was compared to [Cliff College]. 
+	http://www.grid.ac/institutes/grid.440029.b........ http://risis.eu/orgref_20170703/resource/17653946.. 0.823529411765..................................... [Wycliffe College] was compared to [Redcliffe College] 
+	http://risis.eu/orgref_20170703/resource/17653946.. http://www.grid.ac/institutes/grid.440029.b........ 0.823529411765..................................... [Wycliffe College] was compared to [Redcliffe College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.440029.b........ -79.395............................................ 
+	http://www.grid.ac/institutes/grid.440029.b........ 43.664444.......................................... 
+	http://www.grid.ac/institutes/grid.440029.b........ http://wycliffecollege.ca/......................... 
+	http://www.grid.ac/institutes/grid.440029.b........ Wycliffe College................................... 
+	http://risis.eu/orgref_20170703/resource/9935213... http://en.wikipedia.org/wiki?curid=9935213......... 
+	http://risis.eu/orgref_20170703/resource/9935213... http://www.wikidata.org/wiki/Q5132570.............. 
+	http://risis.eu/orgref_20170703/resource/9935213... Cliff College...................................... 
+	http://www.grid.ac/institutes/grid.469047.8........ -2.227............................................. 
+	http://www.grid.ac/institutes/grid.469047.8........ 51.868............................................. 
+	http://www.grid.ac/institutes/grid.469047.8........ http://www.redcliffe.ac.uk/........................ 
+	http://www.grid.ac/institutes/grid.469047.8........ Redcliffe College, Centre for Mission Training..... 
+	http://www.grid.ac/institutes/grid.469047.8........ Redcliffe College.................................. 
+	http://risis.eu/orgref_20170703/resource/17653946.. http://en.wikipedia.org/wiki?curid=17653946........ 
+	http://risis.eu/orgref_20170703/resource/17653946.. http://www.wikidata.org/wiki/Q7305558.............. 
+	http://risis.eu/orgref_20170703/resource/17653946.. http://www.redcliffe.ac.uk......................... 
+	http://risis.eu/orgref_20170703/resource/17653946.. Redcliffe College.................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:9935213', '1:grid.440029.b'), ('3:grid.469047.8', '1:grid.440029.b'), ('4:17653946', '1:grid.440029.b'), ('4:17653946', '3:grid.469047.8')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 10553 
+NAME    N802005364
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/231031>
+	<http://risis.eu/leidenRanking_2015/resource/1060>
+	<http://risis.eu/cordisH2020/resource/participant_999538247>
+	<http://www.grid.ac/institutes/grid.1012.2>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/231031............. http://www.grid.ac/institutes/grid.1012.2................... 1........................................................... [University of Western Australia] was compared to [University of Western Australia] 
+	http://www.grid.ac/institutes/grid.1012.2................... http://risis.eu/orgref_20170703/resource/231031............. 1........................................................... [University of Western Australia] was compared to [University of Western Australia] 
+	http://risis.eu/leidenRanking_2015/resource/1060............ http://www.grid.ac/institutes/grid.1012.2................... 1........................................................... [University of Western Australia] was compared to [University of Western Australia] 
+	http://www.grid.ac/institutes/grid.1012.2................... http://risis.eu/leidenRanking_2015/resource/1060............ 1........................................................... [University of Western Australia] was compared to [University of Western Australia] 
+	http://risis.eu/cordisH2020/resource/participant_999538247.. http://www.grid.ac/institutes/grid.1012.2................... 1........................................................... [University of Western Australia] was compared to [THE UNIVERSITY OF WESTERN AUSTRALIA] 
+	http://www.grid.ac/institutes/grid.1012.2................... http://risis.eu/cordisH2020/resource/participant_999538247.. 1........................................................... [University of Western Australia] was compared to [THE UNIVERSITY OF WESTERN AUSTRALIA] 
+	http://risis.eu/orgref_20170703/resource/231031............. http://risis.eu/leidenRanking_2015/resource/1060............ 1........................................................... [University of Western Australia] was compared to [University of Western Australia] 
+	http://risis.eu/leidenRanking_2015/resource/1060............ http://risis.eu/orgref_20170703/resource/231031............. 1........................................................... [University of Western Australia] was compared to [University of Western Australia] 
+	http://risis.eu/orgref_20170703/resource/231031............. http://risis.eu/cordisH2020/resource/participant_999538247.. 1........................................................... [University of Western Australia] was compared to [THE UNIVERSITY OF WESTERN AUSTRALIA] 
+	http://risis.eu/cordisH2020/resource/participant_999538247.. http://risis.eu/orgref_20170703/resource/231031............. 1........................................................... [University of Western Australia] was compared to [THE UNIVERSITY OF WESTERN AUSTRALIA] 
+	http://risis.eu/leidenRanking_2015/resource/1060............ http://risis.eu/cordisH2020/resource/participant_999538247.. 1........................................................... [THE UNIVERSITY OF WESTERN AUSTRALIA] was compared to [University of Western Australia] 
+	http://risis.eu/cordisH2020/resource/participant_999538247.. http://risis.eu/leidenRanking_2015/resource/1060............ 1........................................................... [THE UNIVERSITY OF WESTERN AUSTRALIA] was compared to [University of Western Australia] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/231031............. http://en.wikipedia.org/wiki?curid=231031................... 
+	http://risis.eu/orgref_20170703/resource/231031............. http://www.wikidata.org/wiki/Q1517021....................... 
+	http://risis.eu/orgref_20170703/resource/231031............. http://www.uwa.edu.au....................................... 
+	http://risis.eu/orgref_20170703/resource/231031............. University of Western Australia............................. 
+	http://risis.eu/leidenRanking_2015/resource/1060............ University of Western Australia............................. 
+	http://risis.eu/cordisH2020/resource/participant_999538247.. THE UNIVERSITY OF WESTERN AUSTRALIA......................... 
+	http://www.grid.ac/institutes/grid.1012.2................... 115.81988................................................... 
+	http://www.grid.ac/institutes/grid.1012.2................... -31.980915.................................................. 
+	http://www.grid.ac/institutes/grid.1012.2................... http://www.uwa.edu.au/...................................... 
+	http://www.grid.ac/institutes/grid.1012.2................... University of Western Australia............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:231031', '4:grid.1012.2'), ('2:1060', '1:231031'), ('2:1060', '4:grid.1012.2'), ('3:participant_999538247', '1:231031'), ('3:participant_999538247', '2:1060'), ('4:grid.1012.2', '3:participant_999538247')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

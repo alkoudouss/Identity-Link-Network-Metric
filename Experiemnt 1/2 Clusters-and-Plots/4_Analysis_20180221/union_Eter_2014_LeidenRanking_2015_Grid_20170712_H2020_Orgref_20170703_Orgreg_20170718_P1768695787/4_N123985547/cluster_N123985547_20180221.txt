@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 4235 
+NAME    N123985547
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/23954488>
+	<http://risis.eu/orgreg_20170718/resource/HU0810>
+	<http://www.grid.ac/institutes/grid.466363.2>
+	<http://www.grid.ac/institutes/grid.468868.c>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.466363.2........ http://www.grid.ac/institutes/grid.468868.c........ 1.................................................. [International School of Management] was compared to [International School of Management] 
+	http://www.grid.ac/institutes/grid.468868.c........ http://www.grid.ac/institutes/grid.466363.2........ 1.................................................. [International School of Management] was compared to [International School of Management] 
+	http://risis.eu/orgref_20170703/resource/23954488.. http://www.grid.ac/institutes/grid.466363.2........ 1.................................................. [International School of Management] was compared to [International School of Management (ISM)] 
+	http://www.grid.ac/institutes/grid.466363.2........ http://risis.eu/orgref_20170703/resource/23954488.. 1.................................................. [International School of Management] was compared to [International School of Management (ISM)] 
+	http://risis.eu/orgref_20170703/resource/23954488.. http://www.grid.ac/institutes/grid.468868.c........ 1.................................................. [International School of Management] was compared to [International School of Management (ISM)] 
+	http://www.grid.ac/institutes/grid.468868.c........ http://risis.eu/orgref_20170703/resource/23954488.. 1.................................................. [International School of Management] was compared to [International School of Management (ISM)] 
+	http://risis.eu/orgref_20170703/resource/23954488.. http://risis.eu/orgreg_20170718/resource/HU0810.... 0.8125............................................. [International School of Management (ISM)] was compared to [College of International Management] 
+	http://risis.eu/orgreg_20170718/resource/HU0810.... http://risis.eu/orgref_20170703/resource/23954488.. 0.8125............................................. [International School of Management (ISM)] was compared to [College of International Management] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/23954488.. http://en.wikipedia.org/wiki?curid=23954488........ 
+	http://risis.eu/orgref_20170703/resource/23954488.. http://www.wikidata.org/wiki/Q5974032.............. 
+	http://risis.eu/orgref_20170703/resource/23954488.. http://www.ism.edu................................. 
+	http://risis.eu/orgref_20170703/resource/23954488.. International School of Management (ISM)........... 
+	http://risis.eu/orgreg_20170718/resource/HU0810.... m.................................................. 
+	http://risis.eu/orgreg_20170718/resource/HU0810.... College of International Management................ 
+	http://www.grid.ac/institutes/grid.466363.2........ 7.405668........................................... 
+	http://www.grid.ac/institutes/grid.466363.2........ 51.48908........................................... 
+	http://www.grid.ac/institutes/grid.466363.2........ http://en.ism.de/.................................. 
+	http://www.grid.ac/institutes/grid.466363.2........ International School of Management................. 
+	http://www.grid.ac/institutes/grid.468868.c........ 2.326285........................................... 
+	http://www.grid.ac/institutes/grid.468868.c........ 48.854065.......................................... 
+	http://www.grid.ac/institutes/grid.468868.c........ http://www.ism.edu/................................ 
+	http://www.grid.ac/institutes/grid.468868.c........ International School of Management................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:23954488', '4:grid.468868.c'), ('2:HU0810', '1:23954488'), ('3:grid.466363.2', '1:23954488'), ('4:grid.468868.c', '3:grid.466363.2')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

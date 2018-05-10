@@ -1,0 +1,97 @@
+INSERT DATA 
+{
+	<http://risis.eu/lens/diff_P1602491002_N100110462> a <http://vocabularies.bridgedb.org/ops#Lens> ;
+		<http://risis.eu/alignment/predicate/operator> <http://risis.eu/lens/operator/difference> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/linkset/eter_2014_grid_20170712_nearbyGeoSim2000Meter_University_LatitudeLongitude_N1158450531> .
+	
+	<http://risis.eu/linkset/eter_2014_grid_20170712_nearbyGeoSim2000Meter_University_LatitudeLongitude_N1158450531> a <http://rdfs.org/ns/void#Linkset> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "eter_2014_grid_20170712_nearbyGeoSim2000Meter_University_LatitudeLongitude_N1158450531" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "Linking <http://risis.eu/dataset/eter_2014> to <http://risis.eu/dataset/grid_20170712> based on their nearby Geo-Similarity using the mechanism: nearbyGeoSim" ;
+		<http://rdfs.org/ns/void#triples> 25792 ;
+		<http://risis.eu/alignment/predicate/sameAsCount> 4 ;
+		<http://risis.eu/alignment/predicate/alignsMechanism> <http://risis.eu/mechanism/nearbyGeoSim> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/eter_2014> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/grid_20170712> ;
+		<http://rdfs.org/ns/void#linkPredicate> <http://risis.eu/alignment/predicate/exactStrSim4> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/eter_2014/ontology/class/University> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/eter_2014_grid_20170712_nearbyGeoSim2000Meter_University_LatitudeLongitude_N1158450531> ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/eter_2014_grid_20170712_nearbyGeoSim2000Meter_University_LatitudeLongitude_N1158450531> ;
+		<http://vocabularies.bridgedb.org/ops#linksetJustification> <http://risis.eu/justification/eter_2014_grid_20170712_nearbyGeoSim2000Meter_University_LatitudeLongitude_N1158450531> ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> _:bnode_7571de33_c1c9_43fa_a517_b68e5f43021c_13 ;
+		<http://risis.eu/alignment/predicate/alignsObjects> _:bnode_7571de33_c1c9_43fa_a517_b68e5f43021c_15 ;
+		<http://risis.eu/alignment/predicate/crossCheckSubject> <http://risis.eu/eter_2014/ontology/predicate/Institution_Name> ;
+		<http://risis.eu/alignment/predicate/crossCheckObject> <http://www.w3.org/2000/01/rdf-schema#label> ;
+		<http://risis.eu/alignment/predicate/unit> <http://qudt.org/vocab/unit#Meter> ;
+		<http://risis.eu/alignment/predicate/unitValue> 2000 .
+	
+	<http://risis.eu/lens/diff_P1602491002_N100110462> <http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/linkset/refined_eter_2014_grid_20170712_nearbyGeoSim2000Meter_University_LatitudeLongitude_N1158450531_approxStrSim_English_Institution_Name_N287988058> .
+	
+	<http://risis.eu/linkset/refined_eter_2014_grid_20170712_nearbyGeoSim2000Meter_University_LatitudeLongitude_N1158450531_approxStrSim_English_Institution_Name_N287988058> a <http://rdfs.org/ns/void#Linkset> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "refined_eter_2014_grid_20170712_nearbyGeoSim2000Meter_University_LatitudeLongitude_N1158450531_approxStrSim_English_Institution_Name_N287988058" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "Linking <http://risis.eu/dataset/eter_2014> to <http://risis.eu/dataset/grid_20170712> based on their approximate string similarity using the mechanism: approxStrSim" ;
+		<http://rdfs.org/ns/void#triples> 889 ;
+		<http://risis.eu/alignment/predicate/sameAsCount> 50 ;
+		<http://risis.eu/alignment/predicate/alignsMechanism> <http://risis.eu/mechanism/approxStrSim> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/eter_2014> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/grid_20170712> ;
+		<http://rdfs.org/ns/void#linkPredicate> <http://risis.eu/alignment/predicate/exactStrSim50> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/eter_2014/ontology/class/University> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/refined_eter_2014_grid_20170712_nearbyGeoSim2000Meter_University_LatitudeLongitude_N1158450531_approxStrSim_English_Institution_Name_N287988058> ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/refined_eter_2014_grid_20170712_nearbyGeoSim2000Meter_University_LatitudeLongitude_N1158450531_approxStrSim_English_Institution_Name_N287988058> ;
+		<http://vocabularies.bridgedb.org/ops#linksetJustification> <http://risis.eu/justification/refined_eter_2014_grid_20170712_nearbyGeoSim2000Meter_University_LatitudeLongitude_N1158450531_approxStrSim_English_Institution_Name_N287988058> ;
+		<http://risis.eu/alignment/predicate/threshold> 0.7 ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://risis.eu/eter_2014/ontology/predicate/English_Institution_Name> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://www.w3.org/2000/01/rdf-schema#label> ;
+		<http://www.w3.org/ns/prov#wasDerivedFrom> <http://risis.eu/linkset/eter_2014_grid_20170712_nearbyGeoSim2000Meter_University_LatitudeLongitude_N1158450531> ;
+		<http://risis.eu/alignment/predicate/subjectsExtended> <http://risis.eu/dataset/eter_2014> ;
+		<http://risis.eu/alignment/predicate/objectsExtended> <http://risis.eu/dataset/grid_20170712> .
+	
+	<http://risis.eu/lens/diff_P1602491002_N100110462> <http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/diff_P1602491002_N100110462> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "diff_P1602491002_N100110462" ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/diff_P1602491002_N100110462> .
+	
+	<http://risis.eu/method/diff_P1602491002_N100110462> <http://risis.eu/alignment/predicate/sparql> """
+        PREFIX prov: <http://www.w3.org/ns/prov#>
+        PREFIX specific:<http://risis.eu/singletons/>
+        ### Difference between
+        ### <http://risis.eu/linkset/eter_2014_grid_20170712_nearbyGeoSim2000Meter_University_LatitudeLongitude_N1158450531> and
+        ### <http://risis.eu/linkset/refined_eter_2014_grid_20170712_nearbyGeoSim2000Meter_University_LatitudeLongitude_N1158450531_approxStrSim_English_Institution_Name_N287988058>
+        INSERT
+        {
+            GRAPH <http://risis.eu/lens/diff_P1602491002_N100110462>
+            {
+                ?subject        ?newSingletons          ?object .
+            }
+            GRAPH specific:diff_P1602491002_N100110462
+            {
+                ?newSingletons	prov:wasDerivedFrom 	?predicate1 .
+                ?predicate1	    ?pre 			        ?obj .
+            }
+        }
+        WHERE
+        {
+            {
+                GRAPH <http://risis.eu/linkset/eter_2014_grid_20170712_nearbyGeoSim2000Meter_University_LatitudeLongitude_N1158450531>
+                {
+                    ?subject ?predicate1 ?object .
+                    bind( iri(replace(\"http://risis.eu/alignment/predicate/diff_#\", \"#\",  strafter(str(uuid()), \"uuid:\") )) as ?newSingletons )
+                }
+                GRAPH ?g
+                {
+                    ?predicate1 ?pre ?obj .
+                }
+            }
+            MINUS
+            {
+                GRAPH <http://risis.eu/linkset/refined_eter_2014_grid_20170712_nearbyGeoSim2000Meter_University_LatitudeLongitude_N1158450531_approxStrSim_English_Institution_Name_N287988058>
+                {
+                    ?subject ?predicate2 ?object .
+                }
+            }
+        }
+        """ .
+	
+	<http://risis.eu/lens/diff_P1602491002_N100110462> <http://rdfs.org/ns/void#triples> 24903 .
+}

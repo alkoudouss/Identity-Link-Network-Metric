@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 16997 
+NAME    N708187881
+
+RESOURCES INVOLVED
+	<http://risis.eu/cordisH2020/resource/participant_986206373>
+	<http://risis.eu/eter_2014/resource/UK0101>
+	<http://www.grid.ac/institutes/grid.42167.36>
+	<http://risis.eu/orgref_20170703/resource/269757>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.42167.36................. http://risis.eu/orgref_20170703/resource/269757............. 1........................................................... [Royal College of Art] was compared to [Royal College of Art] 
+	http://risis.eu/orgref_20170703/resource/269757............. http://www.grid.ac/institutes/grid.42167.36................. 1........................................................... [Royal College of Art] was compared to [Royal College of Art] 
+	http://risis.eu/eter_2014/resource/UK0101................... http://www.grid.ac/institutes/grid.42167.36................. 1........................................................... [Royal College of Art] was compared to [Royal College of Art] 
+	http://www.grid.ac/institutes/grid.42167.36................. http://risis.eu/eter_2014/resource/UK0101................... 1........................................................... [Royal College of Art] was compared to [Royal College of Art] 
+	http://risis.eu/cordisH2020/resource/participant_986206373.. http://www.grid.ac/institutes/grid.42167.36................. 1........................................................... [Royal College of Art] was compared to [THE ROYAL COLLEGE OF ART] 
+	http://www.grid.ac/institutes/grid.42167.36................. http://risis.eu/cordisH2020/resource/participant_986206373.. 1........................................................... [Royal College of Art] was compared to [THE ROYAL COLLEGE OF ART] 
+	http://risis.eu/eter_2014/resource/UK0101................... http://risis.eu/orgref_20170703/resource/269757............. 1........................................................... [Royal College of Art] was compared to [Royal College of Art] 
+	http://risis.eu/orgref_20170703/resource/269757............. http://risis.eu/eter_2014/resource/UK0101................... 1........................................................... [Royal College of Art] was compared to [Royal College of Art] 
+	http://risis.eu/cordisH2020/resource/participant_986206373.. http://risis.eu/orgref_20170703/resource/269757............. 1........................................................... [Royal College of Art] was compared to [THE ROYAL COLLEGE OF ART] 
+	http://risis.eu/orgref_20170703/resource/269757............. http://risis.eu/cordisH2020/resource/participant_986206373.. 1........................................................... [Royal College of Art] was compared to [THE ROYAL COLLEGE OF ART] 
+	http://risis.eu/cordisH2020/resource/participant_986206373.. http://risis.eu/eter_2014/resource/UK0101................... 1........................................................... [THE ROYAL COLLEGE OF ART] was compared to [Royal College of Art] 
+	http://risis.eu/eter_2014/resource/UK0101................... http://risis.eu/cordisH2020/resource/participant_986206373.. 1........................................................... [THE ROYAL COLLEGE OF ART] was compared to [Royal College of Art] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_986206373.. http://risis.eu/cordisH2020/resource/www.rca.ac.uk.......... 
+	http://risis.eu/cordisH2020/resource/participant_986206373.. THE ROYAL COLLEGE OF ART.................................... 
+	http://risis.eu/eter_2014/resource/UK0101................... 51,501354................................................... 
+	http://risis.eu/eter_2014/resource/UK0101................... -0,178473................................................... 
+	http://risis.eu/eter_2014/resource/UK0101................... http://www.rca.ac.uk/....................................... 
+	http://risis.eu/eter_2014/resource/UK0101................... a........................................................... 
+	http://risis.eu/eter_2014/resource/UK0101................... Royal College of Art........................................ 
+	http://www.grid.ac/institutes/grid.42167.36................. -0.178889................................................... 
+	http://www.grid.ac/institutes/grid.42167.36................. 51.50139.................................................... 
+	http://www.grid.ac/institutes/grid.42167.36................. http://www.rca.ac.uk/....................................... 
+	http://www.grid.ac/institutes/grid.42167.36................. Royal College of Art........................................ 
+	http://risis.eu/orgref_20170703/resource/269757............. http://en.wikipedia.org/wiki?curid=269757................... 
+	http://risis.eu/orgref_20170703/resource/269757............. http://www.wikidata.org/wiki/Q1753535....................... 
+	http://risis.eu/orgref_20170703/resource/269757............. http://www.rca.ac.uk........................................ 
+	http://risis.eu/orgref_20170703/resource/269757............. Royal College of Art........................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:participant_986206373', '4:269757'), ('2:UK0101', '1:participant_986206373'), ('2:UK0101', '3:grid.42167.36'), ('3:grid.42167.36', '1:participant_986206373'), ('4:269757', '2:UK0101'), ('4:269757', '3:grid.42167.36')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

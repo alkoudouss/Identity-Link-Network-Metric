@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 6765 
+NAME    N352577720
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.414497.b>
+	<http://risis.eu/orgref_20170703/resource/4308937>
+	<http://www.grid.ac/institutes/grid.421073.3>
+	<http://risis.eu/orgref_20170703/resource/680866>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.414497.b....... http://risis.eu/orgref_20170703/resource/680866... 1................................................. [Tacoma Community College] was compared to [Tacoma Community College] 
+	http://risis.eu/orgref_20170703/resource/680866... http://www.grid.ac/institutes/grid.414497.b....... 1................................................. [Tacoma Community College] was compared to [Tacoma Community College] 
+	http://risis.eu/orgref_20170703/resource/4308937.. http://www.grid.ac/institutes/grid.421073.3....... 1................................................. [Macomb Community College] was compared to [Macomb Community College] 
+	http://www.grid.ac/institutes/grid.421073.3....... http://risis.eu/orgref_20170703/resource/4308937.. 1................................................. [Macomb Community College] was compared to [Macomb Community College] 
+	http://risis.eu/orgref_20170703/resource/4308937.. http://risis.eu/orgref_20170703/resource/680866... 0.916666666667.................................... [Macomb Community College] was compared to [Tacoma Community College] 
+	http://risis.eu/orgref_20170703/resource/680866... http://risis.eu/orgref_20170703/resource/4308937.. 0.916666666667.................................... [Macomb Community College] was compared to [Tacoma Community College] 
+	http://www.grid.ac/institutes/grid.414497.b....... http://www.grid.ac/institutes/grid.421073.3....... 0.916666666667.................................... [Tacoma Community College] was compared to [Macomb Community College] 
+	http://www.grid.ac/institutes/grid.421073.3....... http://www.grid.ac/institutes/grid.414497.b....... 0.916666666667.................................... [Tacoma Community College] was compared to [Macomb Community College] 
+	http://www.grid.ac/institutes/grid.414497.b....... http://risis.eu/orgref_20170703/resource/4308937.. 0.916666666667.................................... [Tacoma Community College] was compared to [Macomb Community College] 
+	http://risis.eu/orgref_20170703/resource/4308937.. http://www.grid.ac/institutes/grid.414497.b....... 0.916666666667.................................... [Tacoma Community College] was compared to [Macomb Community College] 
+	http://www.grid.ac/institutes/grid.421073.3....... http://risis.eu/orgref_20170703/resource/680866... 0.916666666667.................................... [Macomb Community College] was compared to [Tacoma Community College] 
+	http://risis.eu/orgref_20170703/resource/680866... http://www.grid.ac/institutes/grid.421073.3....... 0.916666666667.................................... [Macomb Community College] was compared to [Tacoma Community College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.414497.b....... -122.5241......................................... 
+	http://www.grid.ac/institutes/grid.414497.b....... 47.2467........................................... 
+	http://www.grid.ac/institutes/grid.414497.b....... http://www.tacomacc.edu/.......................... 
+	http://www.grid.ac/institutes/grid.414497.b....... Tacoma Community College.......................... 
+	http://risis.eu/orgref_20170703/resource/4308937.. http://en.wikipedia.org/wiki?curid=4308937........ 
+	http://risis.eu/orgref_20170703/resource/4308937.. http://www.wikidata.org/wiki/Q17018054............ 
+	http://risis.eu/orgref_20170703/resource/4308937.. http://www.macomb.edu............................. 
+	http://risis.eu/orgref_20170703/resource/4308937.. Macomb Community College.......................... 
+	http://www.grid.ac/institutes/grid.421073.3....... -82.97397......................................... 
+	http://www.grid.ac/institutes/grid.421073.3....... 42.50538.......................................... 
+	http://www.grid.ac/institutes/grid.421073.3....... http://www.macomb.edu/............................ 
+	http://www.grid.ac/institutes/grid.421073.3....... South Macomb Community College.................... 
+	http://www.grid.ac/institutes/grid.421073.3....... Macomb Community College.......................... 
+	http://risis.eu/orgref_20170703/resource/680866... http://en.wikipedia.org/wiki?curid=680866......... 
+	http://risis.eu/orgref_20170703/resource/680866... http://www.wikidata.org/wiki/Q7673988............. 
+	http://risis.eu/orgref_20170703/resource/680866... http://www.tacomacc.edu........................... 
+	http://risis.eu/orgref_20170703/resource/680866... Tacoma Community College.......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:4308937', '1:grid.414497.b'), ('2:4308937', '3:grid.421073.3'), ('3:grid.421073.3', '1:grid.414497.b'), ('4:680866', '1:grid.414497.b'), ('4:680866', '2:4308937'), ('4:680866', '3:grid.421073.3')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

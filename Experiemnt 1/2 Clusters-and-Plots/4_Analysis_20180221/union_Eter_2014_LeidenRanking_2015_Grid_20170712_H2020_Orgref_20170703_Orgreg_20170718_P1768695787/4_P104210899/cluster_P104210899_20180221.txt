@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 18297 
+NAME    P104210899
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.449750.b>
+	<http://risis.eu/eter_2014/resource/ES0052>
+	<http://risis.eu/orgreg_20170718/resource/ES0052>
+	<http://risis.eu/orgref_20170703/resource/27680825>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.449750.b........ http://risis.eu/orgref_20170703/resource/27680825.. 0.892857142857..................................... [Camilo José Cela University] was compared to [Universidad Camilo José Cela] 
+	http://risis.eu/orgref_20170703/resource/27680825.. http://www.grid.ac/institutes/grid.449750.b........ 0.892857142857..................................... [Camilo José Cela University] was compared to [Universidad Camilo José Cela] 
+	http://www.grid.ac/institutes/grid.449750.b........ http://risis.eu/eter_2014/resource/ES0052.......... 0.892857142857..................................... [Camilo José Cela University] was compared to [Universidad Camilo José Cela] 
+	http://risis.eu/eter_2014/resource/ES0052.......... http://www.grid.ac/institutes/grid.449750.b........ 0.892857142857..................................... [Camilo José Cela University] was compared to [Universidad Camilo José Cela] 
+	http://risis.eu/eter_2014/resource/ES0052.......... http://risis.eu/orgref_20170703/resource/27680825.. 1.................................................. [Universidad Camilo José Cela] was compared to [Universidad Camilo José Cela] 
+	http://risis.eu/orgref_20170703/resource/27680825.. http://risis.eu/eter_2014/resource/ES0052.......... 1.................................................. [Universidad Camilo José Cela] was compared to [Universidad Camilo José Cela] 
+	http://risis.eu/eter_2014/resource/ES0052.......... http://risis.eu/orgreg_20170718/resource/ES0052.... 0.892857142857..................................... [Camilo José Cela University] was compared to [Universidad Camilo José Cela] 
+	http://risis.eu/orgreg_20170718/resource/ES0052.... http://risis.eu/eter_2014/resource/ES0052.......... 0.892857142857..................................... [Camilo José Cela University] was compared to [Universidad Camilo José Cela] 
+	http://risis.eu/orgreg_20170718/resource/ES0052.... http://risis.eu/orgref_20170703/resource/27680825.. 0.892857142857..................................... [Universidad Camilo José Cela] was compared to [Camilo José Cela University] 
+	http://risis.eu/orgref_20170703/resource/27680825.. http://risis.eu/orgreg_20170718/resource/ES0052.... 0.892857142857..................................... [Universidad Camilo José Cela] was compared to [Camilo José Cela University] 
+	http://www.grid.ac/institutes/grid.449750.b........ http://risis.eu/orgreg_20170718/resource/ES0052.... 1.................................................. [Camilo José Cela University] was compared to [Camilo José Cela University] 
+	http://risis.eu/orgreg_20170718/resource/ES0052.... http://www.grid.ac/institutes/grid.449750.b........ 1.................................................. [Camilo José Cela University] was compared to [Camilo José Cela University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.449750.b........ Camilo José Cela University....................... 
+	http://risis.eu/eter_2014/resource/ES0052.......... 40,46061........................................... 
+	http://risis.eu/eter_2014/resource/ES0052.......... -3,952138.......................................... 
+	http://risis.eu/eter_2014/resource/ES0052.......... http://www.ucjc.edu................................ 
+	http://risis.eu/eter_2014/resource/ES0052.......... a.................................................. 
+	http://risis.eu/eter_2014/resource/ES0052.......... Camilo José Cela University....................... 
+	http://risis.eu/eter_2014/resource/ES0052.......... Universidad Camilo José Cela...................... 
+	http://risis.eu/orgreg_20170718/resource/ES0052.... 40.46061........................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0052.... -3.952138.......................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0052.... http://www.ucjc.edu................................ 
+	http://risis.eu/orgreg_20170718/resource/ES0052.... Camilo José Cela University....................... 
+	http://risis.eu/orgref_20170703/resource/27680825.. http://en.wikipedia.org/wiki?curid=27680825........ 
+	http://risis.eu/orgref_20170703/resource/27680825.. http://www.wikidata.org/wiki/Q7894248.............. 
+	http://risis.eu/orgref_20170703/resource/27680825.. http://www.ucjc.edu................................ 
+	http://risis.eu/orgref_20170703/resource/27680825.. Universidad Camilo José Cela...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:ES0052', '1:grid.449750.b'), ('2:ES0052', '4:27680825'), ('3:ES0052', '1:grid.449750.b'), ('3:ES0052', '2:ES0052'), ('3:ES0052', '4:27680825'), ('4:27680825', '1:grid.449750.b')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

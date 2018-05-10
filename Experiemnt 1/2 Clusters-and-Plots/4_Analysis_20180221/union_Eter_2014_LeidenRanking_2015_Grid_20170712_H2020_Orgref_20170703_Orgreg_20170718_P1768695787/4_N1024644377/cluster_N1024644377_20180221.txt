@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 13367 
+NAME    N1024644377
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/14320658>
+	<http://risis.eu/orgref_20170703/resource/31666223>
+	<http://risis.eu/orgref_20170703/resource/1739542>
+	<http://risis.eu/orgref_20170703/resource/39287208>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/14320658.. http://risis.eu/orgref_20170703/resource/39287208.. 0.933333333333..................................... [Ministry of Labor (Taiwan)] was compared to [Ministry of Labour (Colombia)] 
+	http://risis.eu/orgref_20170703/resource/39287208.. http://risis.eu/orgref_20170703/resource/14320658.. 0.933333333333..................................... [Ministry of Labor (Taiwan)] was compared to [Ministry of Labour (Colombia)] 
+	http://risis.eu/orgref_20170703/resource/14320658.. http://risis.eu/orgref_20170703/resource/1739542... 0.933333333333..................................... [Ministry of Labor (Taiwan)] was compared to [Ministry of Labour (Ontario)] 
+	http://risis.eu/orgref_20170703/resource/1739542... http://risis.eu/orgref_20170703/resource/14320658.. 0.933333333333..................................... [Ministry of Labor (Taiwan)] was compared to [Ministry of Labour (Ontario)] 
+	http://risis.eu/orgref_20170703/resource/14320658.. http://risis.eu/orgref_20170703/resource/31666223.. 0.933333333333..................................... [Ministry of Labor (Taiwan)] was compared to [Ministry of Labour (Thailand)] 
+	http://risis.eu/orgref_20170703/resource/31666223.. http://risis.eu/orgref_20170703/resource/14320658.. 0.933333333333..................................... [Ministry of Labor (Taiwan)] was compared to [Ministry of Labour (Thailand)] 
+	http://risis.eu/orgref_20170703/resource/1739542... http://risis.eu/orgref_20170703/resource/39287208.. 1.................................................. [Ministry of Labour (Ontario)] was compared to [Ministry of Labour (Colombia)] 
+	http://risis.eu/orgref_20170703/resource/39287208.. http://risis.eu/orgref_20170703/resource/1739542... 1.................................................. [Ministry of Labour (Ontario)] was compared to [Ministry of Labour (Colombia)] 
+	http://risis.eu/orgref_20170703/resource/31666223.. http://risis.eu/orgref_20170703/resource/1739542... 1.................................................. [Ministry of Labour (Ontario)] was compared to [Ministry of Labour (Thailand)] 
+	http://risis.eu/orgref_20170703/resource/1739542... http://risis.eu/orgref_20170703/resource/31666223.. 1.................................................. [Ministry of Labour (Ontario)] was compared to [Ministry of Labour (Thailand)] 
+	http://risis.eu/orgref_20170703/resource/31666223.. http://risis.eu/orgref_20170703/resource/39287208.. 1.................................................. [Ministry of Labour (Thailand)] was compared to [Ministry of Labour (Colombia)] 
+	http://risis.eu/orgref_20170703/resource/39287208.. http://risis.eu/orgref_20170703/resource/31666223.. 1.................................................. [Ministry of Labour (Thailand)] was compared to [Ministry of Labour (Colombia)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/14320658.. http://en.wikipedia.org/wiki?curid=14320658........ 
+	http://risis.eu/orgref_20170703/resource/14320658.. http://www.wikidata.org/wiki/Q5176432.............. 
+	http://risis.eu/orgref_20170703/resource/14320658.. http://english.mol.gov.tw/cgi-bin/sitemaker/sm_theme?page=52f34260 
+	http://risis.eu/orgref_20170703/resource/14320658.. Ministry of Labor (Taiwan)......................... 
+	http://risis.eu/orgref_20170703/resource/31666223.. http://en.wikipedia.org/wiki?curid=31666223........ 
+	http://risis.eu/orgref_20170703/resource/31666223.. http://www.wikidata.org/wiki/Q4923085.............. 
+	http://risis.eu/orgref_20170703/resource/31666223.. http://www.mol.go.th............................... 
+	http://risis.eu/orgref_20170703/resource/31666223.. Ministry of Labour (Thailand)...................... 
+	http://risis.eu/orgref_20170703/resource/1739542... http://en.wikipedia.org/wiki?curid=1739542......... 
+	http://risis.eu/orgref_20170703/resource/1739542... http://www.wikidata.org/wiki/Q6867335.............. 
+	http://risis.eu/orgref_20170703/resource/1739542... http://www.labour.gov.on.ca........................ 
+	http://risis.eu/orgref_20170703/resource/1739542... Ministry of Labour (Ontario)....................... 
+	http://risis.eu/orgref_20170703/resource/39287208.. http://en.wikipedia.org/wiki?curid=39287208........ 
+	http://risis.eu/orgref_20170703/resource/39287208.. http://www.wikidata.org/wiki/Q6017448.............. 
+	http://risis.eu/orgref_20170703/resource/39287208.. http://www.mintrabajo.gov.co....................... 
+	http://risis.eu/orgref_20170703/resource/39287208.. Ministry of Labour (Colombia)...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:31666223', '1:14320658'), ('2:31666223', '3:1739542'), ('3:1739542', '1:14320658'), ('4:39287208', '1:14320658'), ('4:39287208', '2:31666223'), ('4:39287208', '3:1739542')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 9076 
+NAME    N816869083
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.452928.0>
+	<http://risis.eu/orgref_20170703/resource/36551624>
+	<http://www.grid.ac/institutes/grid.460723.4>
+	<http://risis.eu/orgref_20170703/resource/36551742>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.452928.0........ http://risis.eu/orgref_20170703/resource/36551624.. 1.................................................. [Yaoundé General Hospital] was compared to [Yaoundé General Hospital] 
+	http://risis.eu/orgref_20170703/resource/36551624.. http://www.grid.ac/institutes/grid.452928.0........ 1.................................................. [Yaoundé General Hospital] was compared to [Yaoundé General Hospital] 
+	http://www.grid.ac/institutes/grid.460723.4........ http://risis.eu/orgref_20170703/resource/36551742.. 1.................................................. [Central Hospital of Yaoundé] was compared to [Central Hospital of Yaoundé] 
+	http://risis.eu/orgref_20170703/resource/36551742.. http://www.grid.ac/institutes/grid.460723.4........ 1.................................................. [Central Hospital of Yaoundé] was compared to [Central Hospital of Yaoundé] 
+	http://risis.eu/orgref_20170703/resource/36551624.. http://risis.eu/orgref_20170703/resource/36551742.. 0.916666666667..................................... [Yaoundé General Hospital] was compared to [Central Hospital of Yaoundé] 
+	http://risis.eu/orgref_20170703/resource/36551742.. http://risis.eu/orgref_20170703/resource/36551624.. 0.916666666667..................................... [Yaoundé General Hospital] was compared to [Central Hospital of Yaoundé] 
+	http://www.grid.ac/institutes/grid.452928.0........ http://www.grid.ac/institutes/grid.460723.4........ 0.916666666667..................................... [Yaoundé General Hospital] was compared to [Central Hospital of Yaoundé] 
+	http://www.grid.ac/institutes/grid.460723.4........ http://www.grid.ac/institutes/grid.452928.0........ 0.916666666667..................................... [Yaoundé General Hospital] was compared to [Central Hospital of Yaoundé] 
+	http://www.grid.ac/institutes/grid.452928.0........ http://risis.eu/orgref_20170703/resource/36551742.. 0.916666666667..................................... [Yaoundé General Hospital] was compared to [Central Hospital of Yaoundé] 
+	http://risis.eu/orgref_20170703/resource/36551742.. http://www.grid.ac/institutes/grid.452928.0........ 0.916666666667..................................... [Yaoundé General Hospital] was compared to [Central Hospital of Yaoundé] 
+	http://risis.eu/orgref_20170703/resource/36551624.. http://www.grid.ac/institutes/grid.460723.4........ 0.916666666667..................................... [Central Hospital of Yaoundé] was compared to [Yaoundé General Hospital] 
+	http://www.grid.ac/institutes/grid.460723.4........ http://risis.eu/orgref_20170703/resource/36551624.. 0.916666666667..................................... [Central Hospital of Yaoundé] was compared to [Yaoundé General Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.452928.0........ 11.5414............................................ 
+	http://www.grid.ac/institutes/grid.452928.0........ 3.9066............................................. 
+	http://www.grid.ac/institutes/grid.452928.0........ Hôpital Général de Yaoundé..................... 
+	http://www.grid.ac/institutes/grid.452928.0........ Yaoundé General Hospital.......................... 
+	http://risis.eu/orgref_20170703/resource/36551624.. http://en.wikipedia.org/wiki?curid=36551624........ 
+	http://risis.eu/orgref_20170703/resource/36551624.. http://www.wikidata.org/wiki/Q14556952............. 
+	http://risis.eu/orgref_20170703/resource/36551624.. Yaoundé General Hospital.......................... 
+	http://www.grid.ac/institutes/grid.460723.4........ 11.510351.......................................... 
+	http://www.grid.ac/institutes/grid.460723.4........ 3.871127........................................... 
+	http://www.grid.ac/institutes/grid.460723.4........ Central Hospital of Yaoundé....................... 
+	http://risis.eu/orgref_20170703/resource/36551742.. http://en.wikipedia.org/wiki?curid=36551742........ 
+	http://risis.eu/orgref_20170703/resource/36551742.. http://www.wikidata.org/wiki/Q5061218.............. 
+	http://risis.eu/orgref_20170703/resource/36551742.. http://www.hopitalcentral.org/nouveau.............. 
+	http://risis.eu/orgref_20170703/resource/36551742.. Central Hospital of Yaoundé....................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:36551624', '1:grid.452928.0'), ('3:grid.460723.4', '1:grid.452928.0'), ('3:grid.460723.4', '2:36551624'), ('4:36551742', '1:grid.452928.0'), ('4:36551742', '2:36551624'), ('4:36551742', '3:grid.460723.4')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

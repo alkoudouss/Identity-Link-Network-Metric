@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 12249 
+NAME    N1832140426
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.21113.30>
+	<http://risis.eu/orgreg_20170718/resource/HU0014>
+	<http://risis.eu/orgref_20170703/resource/25045377>
+	<http://risis.eu/cordisH2020/resource/participant_999879590>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.21113.30................. http://risis.eu/orgref_20170703/resource/25045377........... 1........................................................... [Széchenyi István University] was compared to [Széchenyi István University] 
+	http://risis.eu/orgref_20170703/resource/25045377........... http://www.grid.ac/institutes/grid.21113.30................. 1........................................................... [Széchenyi István University] was compared to [Széchenyi István University] 
+	http://www.grid.ac/institutes/grid.21113.30................. http://risis.eu/cordisH2020/resource/participant_999879590.. 1........................................................... [Széchenyi István University] was compared to [SZECHENYI ISTVAN UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_999879590.. http://www.grid.ac/institutes/grid.21113.30................. 1........................................................... [Széchenyi István University] was compared to [SZECHENYI ISTVAN UNIVERSITY] 
+	http://risis.eu/orgref_20170703/resource/25045377........... http://risis.eu/cordisH2020/resource/participant_999879590.. 1........................................................... [Széchenyi István University] was compared to [SZECHENYI ISTVAN UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_999879590.. http://risis.eu/orgref_20170703/resource/25045377........... 1........................................................... [Széchenyi István University] was compared to [SZECHENYI ISTVAN UNIVERSITY] 
+	http://risis.eu/orgreg_20170718/resource/HU0014............. http://risis.eu/cordisH2020/resource/participant_999879590.. 1........................................................... [Széchenyi István University] was compared to [SZECHENYI ISTVAN UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_999879590.. http://risis.eu/orgreg_20170718/resource/HU0014............. 1........................................................... [Széchenyi István University] was compared to [SZECHENYI ISTVAN UNIVERSITY] 
+	http://risis.eu/orgreg_20170718/resource/HU0014............. http://risis.eu/orgref_20170703/resource/25045377........... 1........................................................... [Széchenyi István University] was compared to [Széchenyi István University] 
+	http://risis.eu/orgref_20170703/resource/25045377........... http://risis.eu/orgreg_20170718/resource/HU0014............. 1........................................................... [Széchenyi István University] was compared to [Széchenyi István University] 
+	http://www.grid.ac/institutes/grid.21113.30................. http://risis.eu/orgreg_20170718/resource/HU0014............. 1........................................................... [Széchenyi István University] was compared to [Széchenyi István University] 
+	http://risis.eu/orgreg_20170718/resource/HU0014............. http://www.grid.ac/institutes/grid.21113.30................. 1........................................................... [Széchenyi István University] was compared to [Széchenyi István University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.21113.30................. 17.6275..................................................... 
+	http://www.grid.ac/institutes/grid.21113.30................. 47.69361.................................................... 
+	http://www.grid.ac/institutes/grid.21113.30................. http://uni.sze.hu/en_GB/home................................ 
+	http://www.grid.ac/institutes/grid.21113.30................. Széchenyi István Egyetem.................................. 
+	http://www.grid.ac/institutes/grid.21113.30................. Széchenyi István University............................... 
+	http://risis.eu/orgreg_20170718/resource/HU0014............. 17.642292................................................... 
+	http://risis.eu/orgreg_20170718/resource/HU0014............. 47.70381.................................................... 
+	http://risis.eu/orgreg_20170718/resource/HU0014............. uni.sze.hu.................................................. 
+	http://risis.eu/orgreg_20170718/resource/HU0014............. Széchenyi István University............................... 
+	http://risis.eu/orgref_20170703/resource/25045377........... http://en.wikipedia.org/wiki?curid=25045377................. 
+	http://risis.eu/orgref_20170703/resource/25045377........... http://www.wikidata.org/wiki/Q631317........................ 
+	http://risis.eu/orgref_20170703/resource/25045377........... http://uni.sze.hu/en_gb/home................................ 
+	http://risis.eu/orgref_20170703/resource/25045377........... Széchenyi István University............................... 
+	http://risis.eu/cordisH2020/resource/participant_999879590.. http://uni.sze.hu........................................... 
+	http://risis.eu/cordisH2020/resource/participant_999879590.. SZECHENYI ISTVAN UNIVERSITY................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:HU0014', '1:grid.21113.30'), ('2:HU0014', '3:25045377'), ('3:25045377', '1:grid.21113.30'), ('4:participant_999879590', '1:grid.21113.30'), ('4:participant_999879590', '2:HU0014'), ('4:participant_999879590', '3:25045377')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

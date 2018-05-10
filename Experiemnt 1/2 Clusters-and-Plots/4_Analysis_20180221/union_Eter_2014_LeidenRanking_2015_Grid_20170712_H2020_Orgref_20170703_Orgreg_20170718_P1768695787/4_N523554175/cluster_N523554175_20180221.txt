@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 14158 
+NAME    N523554175
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/4879170>
+	<http://risis.eu/cordisH2020/resource/participant_998173069>
+	<http://risis.eu/orgreg_20170718/resource/BG0038>
+	<http://www.grid.ac/institutes/grid.5507.7>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/4879170............ http://www.grid.ac/institutes/grid.5507.7................... 1........................................................... [New Bulgarian University] was compared to [New Bulgarian University] 
+	http://www.grid.ac/institutes/grid.5507.7................... http://risis.eu/orgref_20170703/resource/4879170............ 1........................................................... [New Bulgarian University] was compared to [New Bulgarian University] 
+	http://risis.eu/cordisH2020/resource/participant_998173069.. http://www.grid.ac/institutes/grid.5507.7................... 1........................................................... [New Bulgarian University] was compared to [NEW BULGARIAN UNIVERSITY] 
+	http://www.grid.ac/institutes/grid.5507.7................... http://risis.eu/cordisH2020/resource/participant_998173069.. 1........................................................... [New Bulgarian University] was compared to [NEW BULGARIAN UNIVERSITY] 
+	http://risis.eu/orgref_20170703/resource/4879170............ http://risis.eu/cordisH2020/resource/participant_998173069.. 1........................................................... [New Bulgarian University] was compared to [NEW BULGARIAN UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_998173069.. http://risis.eu/orgref_20170703/resource/4879170............ 1........................................................... [New Bulgarian University] was compared to [NEW BULGARIAN UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_998173069.. http://risis.eu/orgreg_20170718/resource/BG0038............. 1........................................................... [New Bulgarian University] was compared to [NEW BULGARIAN UNIVERSITY] 
+	http://risis.eu/orgreg_20170718/resource/BG0038............. http://risis.eu/cordisH2020/resource/participant_998173069.. 1........................................................... [New Bulgarian University] was compared to [NEW BULGARIAN UNIVERSITY] 
+	http://risis.eu/orgref_20170703/resource/4879170............ http://risis.eu/orgreg_20170718/resource/BG0038............. 1........................................................... [New Bulgarian University] was compared to [New Bulgarian University] 
+	http://risis.eu/orgreg_20170718/resource/BG0038............. http://risis.eu/orgref_20170703/resource/4879170............ 1........................................................... [New Bulgarian University] was compared to [New Bulgarian University] 
+	http://risis.eu/orgreg_20170718/resource/BG0038............. http://www.grid.ac/institutes/grid.5507.7................... 1........................................................... [New Bulgarian University] was compared to [New Bulgarian University] 
+	http://www.grid.ac/institutes/grid.5507.7................... http://risis.eu/orgreg_20170718/resource/BG0038............. 1........................................................... [New Bulgarian University] was compared to [New Bulgarian University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/4879170............ http://en.wikipedia.org/wiki?curid=4879170.................. 
+	http://risis.eu/orgref_20170703/resource/4879170............ http://www.wikidata.org/wiki/Q370968........................ 
+	http://risis.eu/orgref_20170703/resource/4879170............ http://www.nbu.bg/entrance.php?lang=1....................... 
+	http://risis.eu/orgref_20170703/resource/4879170............ New Bulgarian University.................................... 
+	http://risis.eu/cordisH2020/resource/participant_998173069.. http://risis.eu/cordisH2020/resource/www.nbu.bg............. 
+	http://risis.eu/cordisH2020/resource/participant_998173069.. NEW BULGARIAN UNIVERSITY.................................... 
+	http://risis.eu/orgreg_20170718/resource/BG0038............. 23.324564................................................... 
+	http://risis.eu/orgreg_20170718/resource/BG0038............. 42.697821................................................... 
+	http://risis.eu/orgreg_20170718/resource/BG0038............. http://www.nbu.bg/entrance.php?lang=1....................... 
+	http://risis.eu/orgreg_20170718/resource/BG0038............. New Bulgarian University.................................... 
+	http://www.grid.ac/institutes/grid.5507.7................... 23.253056................................................... 
+	http://www.grid.ac/institutes/grid.5507.7................... 42.6775..................................................... 
+	http://www.grid.ac/institutes/grid.5507.7................... http://www.nbu.bg/entrance.php?lang=1....................... 
+	http://www.grid.ac/institutes/grid.5507.7................... New Bulgarian University.................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_998173069', '1:4879170'), ('2:participant_998173069', '3:BG0038'), ('2:participant_998173069', '4:grid.5507.7'), ('3:BG0038', '1:4879170'), ('3:BG0038', '4:grid.5507.7'), ('4:grid.5507.7', '1:4879170')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

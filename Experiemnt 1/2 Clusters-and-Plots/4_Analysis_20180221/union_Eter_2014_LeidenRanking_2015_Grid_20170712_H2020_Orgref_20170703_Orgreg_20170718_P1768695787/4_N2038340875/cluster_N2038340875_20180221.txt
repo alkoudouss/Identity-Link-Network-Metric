@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 16203 
+NAME    N2038340875
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.8974.2>
+	<http://risis.eu/orgref_20170703/resource/1810005>
+	<http://risis.eu/cordisH2020/resource/participant_999883373>
+	<http://risis.eu/leidenRanking_2015/resource/1504>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.8974.2................... http://risis.eu/orgref_20170703/resource/1810005............ 1........................................................... [University of the Western Cape] was compared to [University of the Western Cape] 
+	http://risis.eu/orgref_20170703/resource/1810005............ http://www.grid.ac/institutes/grid.8974.2................... 1........................................................... [University of the Western Cape] was compared to [University of the Western Cape] 
+	http://www.grid.ac/institutes/grid.8974.2................... http://risis.eu/leidenRanking_2015/resource/1504............ 1........................................................... [University of the Western Cape] was compared to [University of the Western Cape] 
+	http://risis.eu/leidenRanking_2015/resource/1504............ http://www.grid.ac/institutes/grid.8974.2................... 1........................................................... [University of the Western Cape] was compared to [University of the Western Cape] 
+	http://www.grid.ac/institutes/grid.8974.2................... http://risis.eu/cordisH2020/resource/participant_999883373.. 1........................................................... [University of the Western Cape] was compared to [UNIVERSITY OF THE WESTERN CAPE] 
+	http://risis.eu/cordisH2020/resource/participant_999883373.. http://www.grid.ac/institutes/grid.8974.2................... 1........................................................... [University of the Western Cape] was compared to [UNIVERSITY OF THE WESTERN CAPE] 
+	http://risis.eu/orgref_20170703/resource/1810005............ http://risis.eu/leidenRanking_2015/resource/1504............ 1........................................................... [University of the Western Cape] was compared to [University of the Western Cape] 
+	http://risis.eu/leidenRanking_2015/resource/1504............ http://risis.eu/orgref_20170703/resource/1810005............ 1........................................................... [University of the Western Cape] was compared to [University of the Western Cape] 
+	http://risis.eu/orgref_20170703/resource/1810005............ http://risis.eu/cordisH2020/resource/participant_999883373.. 1........................................................... [University of the Western Cape] was compared to [UNIVERSITY OF THE WESTERN CAPE] 
+	http://risis.eu/cordisH2020/resource/participant_999883373.. http://risis.eu/orgref_20170703/resource/1810005............ 1........................................................... [University of the Western Cape] was compared to [UNIVERSITY OF THE WESTERN CAPE] 
+	http://risis.eu/cordisH2020/resource/participant_999883373.. http://risis.eu/leidenRanking_2015/resource/1504............ 1........................................................... [UNIVERSITY OF THE WESTERN CAPE] was compared to [University of the Western Cape] 
+	http://risis.eu/leidenRanking_2015/resource/1504............ http://risis.eu/cordisH2020/resource/participant_999883373.. 1........................................................... [UNIVERSITY OF THE WESTERN CAPE] was compared to [University of the Western Cape] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.8974.2................... 18.627787................................................... 
+	http://www.grid.ac/institutes/grid.8974.2................... -33.933556.................................................. 
+	http://www.grid.ac/institutes/grid.8974.2................... http://www.uwc.ac.za/Pages/default.aspx..................... 
+	http://www.grid.ac/institutes/grid.8974.2................... University of the Western Cape.............................. 
+	http://risis.eu/orgref_20170703/resource/1810005............ http://en.wikipedia.org/wiki?curid=1810005.................. 
+	http://risis.eu/orgref_20170703/resource/1810005............ http://www.wikidata.org/wiki/Q475700........................ 
+	http://risis.eu/orgref_20170703/resource/1810005............ http://www.uwc.ac.za........................................ 
+	http://risis.eu/orgref_20170703/resource/1810005............ University of the Western Cape.............................. 
+	http://risis.eu/cordisH2020/resource/participant_999883373.. UNIVERSITY OF THE WESTERN CAPE.............................. 
+	http://risis.eu/leidenRanking_2015/resource/1504............ University of the Western Cape.............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1810005', '1:grid.8974.2'), ('3:participant_999883373', '1:grid.8974.2'), ('3:participant_999883373', '2:1810005'), ('4:1504', '1:grid.8974.2'), ('4:1504', '2:1810005'), ('4:1504', '3:participant_999883373')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

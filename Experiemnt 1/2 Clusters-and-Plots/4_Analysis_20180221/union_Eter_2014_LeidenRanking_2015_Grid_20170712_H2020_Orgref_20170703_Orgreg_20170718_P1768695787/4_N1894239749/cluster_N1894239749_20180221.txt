@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 14500 
+NAME    N1894239749
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.257167.0>
+	<http://www.grid.ac/institutes/grid.420778.e>
+	<http://risis.eu/orgref_20170703/resource/14330>
+	<http://risis.eu/orgref_20170703/resource/673122>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.257167.0...... http://risis.eu/orgref_20170703/resource/14330... 1................................................ [Hunter College] was compared to [Hunter College] 
+	http://risis.eu/orgref_20170703/resource/14330... http://www.grid.ac/institutes/grid.257167.0...... 1................................................ [Hunter College] was compared to [Hunter College] 
+	http://www.grid.ac/institutes/grid.420778.e...... http://risis.eu/orgref_20170703/resource/673122.. 1................................................ [Humber College] was compared to [Humber College] 
+	http://risis.eu/orgref_20170703/resource/673122.. http://www.grid.ac/institutes/grid.420778.e...... 1................................................ [Humber College] was compared to [Humber College] 
+	http://risis.eu/orgref_20170703/resource/14330... http://risis.eu/orgref_20170703/resource/673122.. 0.857142857143................................... [Hunter College] was compared to [Humber College] 
+	http://risis.eu/orgref_20170703/resource/673122.. http://risis.eu/orgref_20170703/resource/14330... 0.857142857143................................... [Hunter College] was compared to [Humber College] 
+	http://www.grid.ac/institutes/grid.257167.0...... http://www.grid.ac/institutes/grid.420778.e...... 0.857142857143................................... [Hunter College] was compared to [Humber College] 
+	http://www.grid.ac/institutes/grid.420778.e...... http://www.grid.ac/institutes/grid.257167.0...... 0.857142857143................................... [Hunter College] was compared to [Humber College] 
+	http://www.grid.ac/institutes/grid.257167.0...... http://risis.eu/orgref_20170703/resource/673122.. 0.857142857143................................... [Hunter College] was compared to [Humber College] 
+	http://risis.eu/orgref_20170703/resource/673122.. http://www.grid.ac/institutes/grid.257167.0...... 0.857142857143................................... [Hunter College] was compared to [Humber College] 
+	http://www.grid.ac/institutes/grid.420778.e...... http://risis.eu/orgref_20170703/resource/14330... 0.857142857143................................... [Humber College] was compared to [Hunter College] 
+	http://risis.eu/orgref_20170703/resource/14330... http://www.grid.ac/institutes/grid.420778.e...... 0.857142857143................................... [Humber College] was compared to [Hunter College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.257167.0...... -73.964745....................................... 
+	http://www.grid.ac/institutes/grid.257167.0...... 40.76854......................................... 
+	http://www.grid.ac/institutes/grid.257167.0...... http://www.hunter.cuny.edu/main/................. 
+	http://www.grid.ac/institutes/grid.257167.0...... Hunter College................................... 
+	http://www.grid.ac/institutes/grid.420778.e...... -79.60787........................................ 
+	http://www.grid.ac/institutes/grid.420778.e...... 43.728497........................................ 
+	http://www.grid.ac/institutes/grid.420778.e...... http://www.humber.ca/............................ 
+	http://www.grid.ac/institutes/grid.420778.e...... Humber College Institute of Technology and Advanced Learning 
+	http://www.grid.ac/institutes/grid.420778.e...... Humber College................................... 
+	http://risis.eu/orgref_20170703/resource/14330... http://en.wikipedia.org/wiki?curid=14330......... 
+	http://risis.eu/orgref_20170703/resource/14330... http://www.wikidata.org/wiki/Q1446181............ 
+	http://risis.eu/orgref_20170703/resource/14330... http://www.hunter.cuny.edu....................... 
+	http://risis.eu/orgref_20170703/resource/14330... Hunter College................................... 
+	http://risis.eu/orgref_20170703/resource/673122.. http://en.wikipedia.org/wiki?curid=673122........ 
+	http://risis.eu/orgref_20170703/resource/673122.. http://www.wikidata.org/wiki/Q5939790............ 
+	http://risis.eu/orgref_20170703/resource/673122.. http://www.humber.ca............................. 
+	http://risis.eu/orgref_20170703/resource/673122.. Humber College................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.420778.e', '1:grid.257167.0'), ('3:14330', '1:grid.257167.0'), ('3:14330', '2:grid.420778.e'), ('4:673122', '1:grid.257167.0'), ('4:673122', '2:grid.420778.e'), ('4:673122', '3:14330')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

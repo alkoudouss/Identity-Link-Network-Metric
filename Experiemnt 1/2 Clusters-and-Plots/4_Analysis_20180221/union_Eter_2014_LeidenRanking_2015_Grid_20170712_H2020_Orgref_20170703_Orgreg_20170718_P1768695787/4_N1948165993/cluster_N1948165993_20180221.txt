@@ -1,0 +1,60 @@
+SIZE    4   
+CLUSTER 14552 
+NAME    N1948165993
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/1870472>
+	<http://risis.eu/orgref_20170703/resource/949909>
+	<http://www.grid.ac/institutes/grid.469150.f>
+	<http://www.grid.ac/institutes/grid.470953.c>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/1870472.. http://www.grid.ac/institutes/grid.469150.f....... 1................................................. [South Orange County Community College District] was compared to [South Orange County Community College District] 
+	http://www.grid.ac/institutes/grid.469150.f....... http://risis.eu/orgref_20170703/resource/1870472.. 1................................................. [South Orange County Community College District] was compared to [South Orange County Community College District] 
+	http://risis.eu/orgref_20170703/resource/949909... http://www.grid.ac/institutes/grid.470953.c....... 1................................................. [North Orange County Community College District] was compared to [North Orange County Community College District] 
+	http://www.grid.ac/institutes/grid.470953.c....... http://risis.eu/orgref_20170703/resource/949909... 1................................................. [North Orange County Community College District] was compared to [North Orange County Community College District] 
+	http://risis.eu/orgref_20170703/resource/1870472.. http://risis.eu/orgref_20170703/resource/949909... 0.95652173913..................................... [South Orange County Community College District] was compared to [North Orange County Community College District] 
+	http://risis.eu/orgref_20170703/resource/949909... http://risis.eu/orgref_20170703/resource/1870472.. 0.95652173913..................................... [South Orange County Community College District] was compared to [North Orange County Community College District] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/1870472.. http://en.wikipedia.org/wiki?curid=1870472........ 
+	http://risis.eu/orgref_20170703/resource/1870472.. http://www.wikidata.org/wiki/Q7568074............. 
+	http://risis.eu/orgref_20170703/resource/1870472.. South Orange County Community College District.... 
+	http://risis.eu/orgref_20170703/resource/949909... http://en.wikipedia.org/wiki?curid=949909......... 
+	http://risis.eu/orgref_20170703/resource/949909... http://www.wikidata.org/wiki/Q7056230............. 
+	http://risis.eu/orgref_20170703/resource/949909... http://www.nocccd.edu............................. 
+	http://risis.eu/orgref_20170703/resource/949909... North Orange County Community College District.... 
+	http://www.grid.ac/institutes/grid.469150.f....... -117.665764....................................... 
+	http://www.grid.ac/institutes/grid.469150.f....... 33.553173......................................... 
+	http://www.grid.ac/institutes/grid.469150.f....... https://www.socccd.edu/........................... 
+	http://www.grid.ac/institutes/grid.469150.f....... South Orange County Community College District.... 
+	http://www.grid.ac/institutes/grid.470953.c....... -117.94562........................................ 
+	http://www.grid.ac/institutes/grid.470953.c....... 33.850163......................................... 
+	http://www.grid.ac/institutes/grid.470953.c....... https://www.nocccd.edu/........................... 
+	http://www.grid.ac/institutes/grid.470953.c....... North Orange County Community College District.... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:949909', '1:1870472'), ('3:grid.469150.f', '1:1870472'), ('4:grid.470953.c', '2:949909')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

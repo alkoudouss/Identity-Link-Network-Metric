@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 354 
+NAME    N1527807396
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.415131.3>
+	<http://risis.eu/leidenRanking_2015/resource/2455>
+	<http://www.grid.ac/institutes/grid.414764.4>
+	<http://risis.eu/orgref_20170703/resource/22463721>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.415131.3........ http://www.grid.ac/institutes/grid.414764.4........ 1.................................................. [Institute of Post Graduate Medical Education And Research] was compared to [Post Graduate Institute of Medical Education and Research] 
+	http://www.grid.ac/institutes/grid.414764.4........ http://www.grid.ac/institutes/grid.415131.3........ 1.................................................. [Institute of Post Graduate Medical Education And Research] was compared to [Post Graduate Institute of Medical Education and Research] 
+	http://www.grid.ac/institutes/grid.414764.4........ http://risis.eu/orgref_20170703/resource/22463721.. 1.................................................. [Institute of Post Graduate Medical Education And Research] was compared to [Post Graduate Institute of Medical Education and Research (New Delhi)] 
+	http://risis.eu/orgref_20170703/resource/22463721.. http://www.grid.ac/institutes/grid.414764.4........ 1.................................................. [Institute of Post Graduate Medical Education And Research] was compared to [Post Graduate Institute of Medical Education and Research (New Delhi)] 
+	http://www.grid.ac/institutes/grid.415131.3........ http://risis.eu/orgref_20170703/resource/22463721.. 1.................................................. [Post Graduate Institute of Medical Education and Research] was compared to [Post Graduate Institute of Medical Education and Research (New Delhi)] 
+	http://risis.eu/orgref_20170703/resource/22463721.. http://www.grid.ac/institutes/grid.415131.3........ 1.................................................. [Post Graduate Institute of Medical Education and Research] was compared to [Post Graduate Institute of Medical Education and Research (New Delhi)] 
+	http://risis.eu/leidenRanking_2015/resource/2455... http://risis.eu/orgref_20170703/resource/22463721.. 0.941176470588..................................... [Post Graduate Institute of Medical Education and Research (New Delhi)] was compared to [Postgraduate Institute of Medical Education & Research] 
+	http://risis.eu/orgref_20170703/resource/22463721.. http://risis.eu/leidenRanking_2015/resource/2455... 0.941176470588..................................... [Post Graduate Institute of Medical Education and Research (New Delhi)] was compared to [Postgraduate Institute of Medical Education & Research] 
+	http://risis.eu/leidenRanking_2015/resource/2455... http://www.grid.ac/institutes/grid.414764.4........ 0.941176470588..................................... [Institute of Post Graduate Medical Education And Research] was compared to [Postgraduate Institute of Medical Education & Research] 
+	http://www.grid.ac/institutes/grid.414764.4........ http://risis.eu/leidenRanking_2015/resource/2455... 0.941176470588..................................... [Institute of Post Graduate Medical Education And Research] was compared to [Postgraduate Institute of Medical Education & Research] 
+	http://www.grid.ac/institutes/grid.415131.3........ http://risis.eu/leidenRanking_2015/resource/2455... 0.941176470588..................................... [Post Graduate Institute of Medical Education and Research] was compared to [Postgraduate Institute of Medical Education & Research] 
+	http://risis.eu/leidenRanking_2015/resource/2455... http://www.grid.ac/institutes/grid.415131.3........ 0.941176470588..................................... [Post Graduate Institute of Medical Education and Research] was compared to [Postgraduate Institute of Medical Education & Research] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.415131.3........ 76.77548........................................... 
+	http://www.grid.ac/institutes/grid.415131.3........ 30.76619........................................... 
+	http://www.grid.ac/institutes/grid.415131.3........ http://pgimer.edu.in/PGIMER_PORTAL/PGIMERPORTAL/home.jsp 
+	http://www.grid.ac/institutes/grid.415131.3........ Post Graduate Institute of Medical Education and Research 
+	http://risis.eu/leidenRanking_2015/resource/2455... Postgraduate Institute of Medical Education & Research 
+	http://www.grid.ac/institutes/grid.414764.4........ 88.39524........................................... 
+	http://www.grid.ac/institutes/grid.414764.4........ 22.608465.......................................... 
+	http://www.grid.ac/institutes/grid.414764.4........ http://www.ipgmer.gov.in/.......................... 
+	http://www.grid.ac/institutes/grid.414764.4........ Seth Sukhlal Karnani Memorial Hospital............. 
+	http://www.grid.ac/institutes/grid.414764.4........ Presidency General Hospital........................ 
+	http://www.grid.ac/institutes/grid.414764.4........ SSKM Hospital...................................... 
+	http://www.grid.ac/institutes/grid.414764.4........ PG Hospital........................................ 
+	http://www.grid.ac/institutes/grid.414764.4........ Institute of Post Graduate Medical Education And Research 
+	http://risis.eu/orgref_20170703/resource/22463721.. http://en.wikipedia.org/wiki?curid=22463721........ 
+	http://risis.eu/orgref_20170703/resource/22463721.. http://www.wikidata.org/wiki/Q7233633.............. 
+	http://risis.eu/orgref_20170703/resource/22463721.. Post Graduate Institute of Medical Education and Research (New Delhi) 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.415131.3', '3:grid.414764.4'), ('2:2455', '1:grid.415131.3'), ('2:2455', '4:22463721'), ('3:grid.414764.4', '2:2455'), ('4:22463721', '1:grid.415131.3'), ('4:22463721', '3:grid.414764.4')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

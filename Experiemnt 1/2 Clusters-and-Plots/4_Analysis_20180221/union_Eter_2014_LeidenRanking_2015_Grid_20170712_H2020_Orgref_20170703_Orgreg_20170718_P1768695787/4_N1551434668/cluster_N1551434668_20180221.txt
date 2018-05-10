@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 8094 
+NAME    N1551434668
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/4208577>
+	<http://risis.eu/leidenRanking_2015/resource/716>
+	<http://www.grid.ac/institutes/grid.10359.3e>
+	<http://risis.eu/eter_2014/resource/TR0109>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/4208577.. http://www.grid.ac/institutes/grid.10359.3e....... 1................................................. [Bahçeşehir University] was compared to [Bahçeşehir University] 
+	http://www.grid.ac/institutes/grid.10359.3e....... http://risis.eu/orgref_20170703/resource/4208577.. 1................................................. [Bahçeşehir University] was compared to [Bahçeşehir University] 
+	http://risis.eu/leidenRanking_2015/resource/716... http://www.grid.ac/institutes/grid.10359.3e....... 0.952380952381.................................... [Bahçeşehir University] was compared to [Bah�esehir University] 
+	http://www.grid.ac/institutes/grid.10359.3e....... http://risis.eu/leidenRanking_2015/resource/716... 0.952380952381.................................... [Bahçeşehir University] was compared to [Bah�esehir University] 
+	http://risis.eu/orgref_20170703/resource/4208577.. http://risis.eu/leidenRanking_2015/resource/716... 0.952380952381.................................... [Bahçeşehir University] was compared to [Bah�esehir University] 
+	http://risis.eu/leidenRanking_2015/resource/716... http://risis.eu/orgref_20170703/resource/4208577.. 0.952380952381.................................... [Bahçeşehir University] was compared to [Bah�esehir University] 
+	http://risis.eu/orgref_20170703/resource/4208577.. http://risis.eu/eter_2014/resource/TR0109......... 0.869565217391.................................... [Bahçeşehir University] was compared to [BAHÇEŞEHIR ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0109......... http://risis.eu/orgref_20170703/resource/4208577.. 0.869565217391.................................... [Bahçeşehir University] was compared to [BAHÇEŞEHIR ÜNIVERSITESI] 
+	http://www.grid.ac/institutes/grid.10359.3e....... http://risis.eu/eter_2014/resource/TR0109......... 0.869565217391.................................... [Bahçeşehir University] was compared to [BAHÇEŞEHIR ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0109......... http://www.grid.ac/institutes/grid.10359.3e....... 0.869565217391.................................... [Bahçeşehir University] was compared to [BAHÇEŞEHIR ÜNIVERSITESI] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/4208577.. http://en.wikipedia.org/wiki?curid=4208577........ 
+	http://risis.eu/orgref_20170703/resource/4208577.. http://www.wikidata.org/wiki/Q3409570............. 
+	http://risis.eu/orgref_20170703/resource/4208577.. http://www.bahcesehir.edu.tr...................... 
+	http://risis.eu/orgref_20170703/resource/4208577.. Bahçeşehir University........................... 
+	http://risis.eu/leidenRanking_2015/resource/716... Bah�esehir University........................... 
+	http://www.grid.ac/institutes/grid.10359.3e....... 29.009443......................................... 
+	http://www.grid.ac/institutes/grid.10359.3e....... 41.041668......................................... 
+	http://www.grid.ac/institutes/grid.10359.3e....... http://www.bahcesehir.edu.tr/index.php?lang=EN.... 
+	http://www.grid.ac/institutes/grid.10359.3e....... Bahçeşehir University........................... 
+	http://risis.eu/eter_2014/resource/TR0109......... 41,04715.......................................... 
+	http://risis.eu/eter_2014/resource/TR0109......... 29,013986......................................... 
+	http://risis.eu/eter_2014/resource/TR0109......... http://www.bahcesehir.edu.tr...................... 
+	http://risis.eu/eter_2014/resource/TR0109......... a................................................. 
+	http://risis.eu/eter_2014/resource/TR0109......... Bahcesehir University............................. 
+	http://risis.eu/eter_2014/resource/TR0109......... BAHÇEŞEHIR ÜNIVERSITESI........................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:716', '1:4208577'), ('2:716', '3:grid.10359.3e'), ('3:grid.10359.3e', '1:4208577'), ('4:TR0109', '1:4208577'), ('4:TR0109', '3:grid.10359.3e')]
+	MAX DISTANCE:                   : 0.833
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 2.16666666667
+	AVERAGE NODE CONNECTIVITY RATIO : 0.722222222222
+	BRIDGES                         : 0
+	CLOSURE                         : 0.833
+	DIAMETER                        : 2
+	QUALITY                         : 0.223
+	QUALITY USED                    : 0.223
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223

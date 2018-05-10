@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 513 
+NAME    N1134027637
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/EE0005>
+	<http://risis.eu/orgreg_20170718/resource/EE0020>
+	<http://risis.eu/eter_2014/resource/EE0005>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/EE0005.. http://risis.eu/eter_2014/resource/EE0005........ 1................................................ Near each other by at most 2000 meter(s)......... 
+	http://risis.eu/orgreg_20170718/resource/EE0020.. http://risis.eu/eter_2014/resource/EE0005........ 1................................................ Near each other by at most 2000 meter(s)......... 
+	http://risis.eu/eter_2014/resource/EE0005........ http://risis.eu/orgreg_20170718/resource/EE0005.. 1................................................ Near each other by at most 2000 meter(s)......... 
+	http://risis.eu/eter_2014/resource/EE0005........ http://risis.eu/orgreg_20170718/resource/EE0020.. 1................................................ Near each other by at most 2000 meter(s)......... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/EE0005.. 24.845927........................................ 
+	http://risis.eu/orgreg_20170718/resource/EE0005.. 59.421672........................................ 
+	http://risis.eu/orgreg_20170718/resource/EE0005.. http://www.eek.ee................................ 
+	http://risis.eu/orgreg_20170718/resource/EE0005.. Estonian Entrepreneurship University of Applied Sciences 
+	http://risis.eu/orgreg_20170718/resource/EE0020.. 24.827428........................................ 
+	http://risis.eu/orgreg_20170718/resource/EE0020.. 59.435417........................................ 
+	http://risis.eu/orgreg_20170718/resource/EE0020.. a................................................ 
+	http://risis.eu/orgreg_20170718/resource/EE0020.. Estonian-American Business Academy............... 
+	http://risis.eu/eter_2014/resource/EE0005........ 59,421672........................................ 
+	http://risis.eu/eter_2014/resource/EE0005........ 24,845927........................................ 
+	http://risis.eu/eter_2014/resource/EE0005........ http://www.eek.ee................................ 
+	http://risis.eu/eter_2014/resource/EE0005........ a................................................ 
+	http://risis.eu/eter_2014/resource/EE0005........ Estonian Entrepreneurship University of Applied Sciences 
+	http://risis.eu/eter_2014/resource/EE0005........ Eesti Ettevõtluskõrgkool Mainor................ 
+
+NETWORK ANALYSIS
+	NETWORK [('P1880196719-EE0005', 'N1134027637-EE0020'), ('P1880196719-EE0005', 'P1691179658-EE0005')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

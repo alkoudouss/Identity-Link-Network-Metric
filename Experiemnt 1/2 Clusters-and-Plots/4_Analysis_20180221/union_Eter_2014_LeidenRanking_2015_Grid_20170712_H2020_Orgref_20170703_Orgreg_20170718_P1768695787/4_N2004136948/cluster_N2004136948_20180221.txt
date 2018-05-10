@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 4672 
+NAME    N2004136948
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/73276>
+	<http://risis.eu/leidenRanking_2015/resource/1086>
+	<http://www.grid.ac/institutes/grid.46078.3d>
+	<http://risis.eu/cordisH2020/resource/participant_996231614>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/73276.............. http://www.grid.ac/institutes/grid.46078.3d................. 1........................................................... [University of Waterloo] was compared to [University of Waterloo] 
+	http://www.grid.ac/institutes/grid.46078.3d................. http://risis.eu/orgref_20170703/resource/73276.............. 1........................................................... [University of Waterloo] was compared to [University of Waterloo] 
+	http://risis.eu/leidenRanking_2015/resource/1086............ http://www.grid.ac/institutes/grid.46078.3d................. 1........................................................... [University of Waterloo] was compared to [University of Waterloo] 
+	http://www.grid.ac/institutes/grid.46078.3d................. http://risis.eu/leidenRanking_2015/resource/1086............ 1........................................................... [University of Waterloo] was compared to [University of Waterloo] 
+	http://www.grid.ac/institutes/grid.46078.3d................. http://risis.eu/cordisH2020/resource/participant_996231614.. 1........................................................... [University of Waterloo] was compared to [University of Waterloo] 
+	http://risis.eu/cordisH2020/resource/participant_996231614.. http://www.grid.ac/institutes/grid.46078.3d................. 1........................................................... [University of Waterloo] was compared to [University of Waterloo] 
+	http://risis.eu/orgref_20170703/resource/73276.............. http://risis.eu/leidenRanking_2015/resource/1086............ 1........................................................... [University of Waterloo] was compared to [University of Waterloo] 
+	http://risis.eu/leidenRanking_2015/resource/1086............ http://risis.eu/orgref_20170703/resource/73276.............. 1........................................................... [University of Waterloo] was compared to [University of Waterloo] 
+	http://risis.eu/orgref_20170703/resource/73276.............. http://risis.eu/cordisH2020/resource/participant_996231614.. 1........................................................... [University of Waterloo] was compared to [University of Waterloo] 
+	http://risis.eu/cordisH2020/resource/participant_996231614.. http://risis.eu/orgref_20170703/resource/73276.............. 1........................................................... [University of Waterloo] was compared to [University of Waterloo] 
+	http://risis.eu/leidenRanking_2015/resource/1086............ http://risis.eu/cordisH2020/resource/participant_996231614.. 1........................................................... [University of Waterloo] was compared to [University of Waterloo] 
+	http://risis.eu/cordisH2020/resource/participant_996231614.. http://risis.eu/leidenRanking_2015/resource/1086............ 1........................................................... [University of Waterloo] was compared to [University of Waterloo] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/73276.............. http://en.wikipedia.org/wiki?curid=73276.................... 
+	http://risis.eu/orgref_20170703/resource/73276.............. http://www.wikidata.org/wiki/Q1049470....................... 
+	http://risis.eu/orgref_20170703/resource/73276.............. https://uwaterloo.ca........................................ 
+	http://risis.eu/orgref_20170703/resource/73276.............. University of Waterloo...................................... 
+	http://risis.eu/leidenRanking_2015/resource/1086............ University of Waterloo...................................... 
+	http://www.grid.ac/institutes/grid.46078.3d................. -80.544876.................................................. 
+	http://www.grid.ac/institutes/grid.46078.3d................. 43.472534................................................... 
+	http://www.grid.ac/institutes/grid.46078.3d................. https://uwaterloo.ca/....................................... 
+	http://www.grid.ac/institutes/grid.46078.3d................. UWaterloo................................................... 
+	http://www.grid.ac/institutes/grid.46078.3d................. University of Waterloo...................................... 
+	http://risis.eu/cordisH2020/resource/participant_996231614.. http://risis.eu/cordisH2020/resource/www.uwaterloo.ca....... 
+	http://risis.eu/cordisH2020/resource/participant_996231614.. University of Waterloo...................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1086', '1:73276'), ('2:1086', '3:grid.46078.3d'), ('2:1086', '4:participant_996231614'), ('3:grid.46078.3d', '1:73276'), ('4:participant_996231614', '1:73276'), ('4:participant_996231614', '3:grid.46078.3d')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 1130 
+NAME    N1550756475
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.5802.f>
+	<http://risis.eu/leidenRanking_2015/resource/257>
+	<http://risis.eu/orgref_20170703/resource/747169>
+	<http://risis.eu/orgreg_20170718/resource/DE0087>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.5802.f........ http://risis.eu/orgref_20170703/resource/747169.. 1................................................ [Johannes Gutenberg University of Mainz] was compared to [Johannes Gutenberg University of Mainz] 
+	http://risis.eu/orgref_20170703/resource/747169.. http://www.grid.ac/institutes/grid.5802.f........ 1................................................ [Johannes Gutenberg University of Mainz] was compared to [Johannes Gutenberg University of Mainz] 
+	http://www.grid.ac/institutes/grid.5802.f........ http://risis.eu/leidenRanking_2015/resource/257.. 1................................................ [Johannes Gutenberg University of Mainz] was compared to [Johannes Gutenberg University Mainz] 
+	http://risis.eu/leidenRanking_2015/resource/257.. http://www.grid.ac/institutes/grid.5802.f........ 1................................................ [Johannes Gutenberg University of Mainz] was compared to [Johannes Gutenberg University Mainz] 
+	http://risis.eu/leidenRanking_2015/resource/257.. http://risis.eu/orgref_20170703/resource/747169.. 1................................................ [Johannes Gutenberg University of Mainz] was compared to [Johannes Gutenberg University Mainz] 
+	http://risis.eu/orgref_20170703/resource/747169.. http://risis.eu/leidenRanking_2015/resource/257.. 1................................................ [Johannes Gutenberg University of Mainz] was compared to [Johannes Gutenberg University Mainz] 
+	http://risis.eu/leidenRanking_2015/resource/257.. http://risis.eu/orgreg_20170718/resource/DE0087.. 1................................................ [Johannes Gutenberg University Mainz] was compared to [Johannes Gutenberg University Mainz] 
+	http://risis.eu/orgreg_20170718/resource/DE0087.. http://risis.eu/leidenRanking_2015/resource/257.. 1................................................ [Johannes Gutenberg University Mainz] was compared to [Johannes Gutenberg University Mainz] 
+	http://risis.eu/orgref_20170703/resource/747169.. http://risis.eu/orgreg_20170718/resource/DE0087.. 1................................................ [Johannes Gutenberg University of Mainz] was compared to [Johannes Gutenberg University Mainz] 
+	http://risis.eu/orgreg_20170718/resource/DE0087.. http://risis.eu/orgref_20170703/resource/747169.. 1................................................ [Johannes Gutenberg University of Mainz] was compared to [Johannes Gutenberg University Mainz] 
+	http://www.grid.ac/institutes/grid.5802.f........ http://risis.eu/orgreg_20170718/resource/DE0087.. 1................................................ [Johannes Gutenberg University of Mainz] was compared to [Johannes Gutenberg University Mainz] 
+	http://risis.eu/orgreg_20170718/resource/DE0087.. http://www.grid.ac/institutes/grid.5802.f........ 1................................................ [Johannes Gutenberg University of Mainz] was compared to [Johannes Gutenberg University Mainz] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.5802.f........ 8.241212......................................... 
+	http://www.grid.ac/institutes/grid.5802.f........ 49.992584........................................ 
+	http://www.grid.ac/institutes/grid.5802.f........ http://www.uni-mainz.de/eng/..................... 
+	http://www.grid.ac/institutes/grid.5802.f........ Johannes Gutenberg University of Mainz........... 
+	http://risis.eu/leidenRanking_2015/resource/257.. Johannes Gutenberg University Mainz.............. 
+	http://risis.eu/orgref_20170703/resource/747169.. http://en.wikipedia.org/wiki?curid=747169........ 
+	http://risis.eu/orgref_20170703/resource/747169.. http://www.wikidata.org/wiki/Q161982............. 
+	http://risis.eu/orgref_20170703/resource/747169.. https://www.uni-mainz.de/eng..................... 
+	http://risis.eu/orgref_20170703/resource/747169.. Johannes Gutenberg University of Mainz........... 
+	http://risis.eu/orgreg_20170718/resource/DE0087.. 50.001792........................................ 
+	http://risis.eu/orgreg_20170718/resource/DE0087.. 8.236156......................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0087.. www.uni-mainz.de................................. 
+	http://risis.eu/orgreg_20170718/resource/DE0087.. Johannes Gutenberg University Mainz.............. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:257', '1:grid.5802.f'), ('2:257', '3:747169'), ('2:257', '4:DE0087'), ('3:747169', '1:grid.5802.f'), ('4:DE0087', '1:grid.5802.f'), ('4:DE0087', '3:747169')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

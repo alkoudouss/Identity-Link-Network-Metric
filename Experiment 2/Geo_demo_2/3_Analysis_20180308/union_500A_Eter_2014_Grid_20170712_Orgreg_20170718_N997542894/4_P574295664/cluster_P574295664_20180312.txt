@@ -1,0 +1,69 @@
+SIZE    4   
+CLUSTER 651 
+NAME    P574295664
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/PT0117>
+	<http://risis.eu/eter_2014/resource/PT0117>
+	<http://www.grid.ac/institutes/grid.411006.2>
+	<http://risis.eu/orgreg_20170718/resource/PT0800>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/PT0117.. http://risis.eu/eter_2014/resource/PT0117........ 1................................................ [portuguese higher institute marketing management oporto] was compared to [portuguese higher institute marketing management oporto] 
+	http://risis.eu/orgreg_20170718/resource/PT0117.. http://risis.eu/eter_2014/resource/PT0117........ 0.862068965517................................... [polytechnic institute setubal] was compared to [instituto politecnico setubal] 
+	http://risis.eu/orgreg_20170718/resource/PT0117.. http://risis.eu/eter_2014/resource/PT0117........ 0.862068965517................................... [portuguese higher institute marketing management oporto] was compared to [portuguese higher institute marketing management oporto] 
+	http://risis.eu/orgreg_20170718/resource/PT0117.. http://risis.eu/eter_2014/resource/PT0117........ 1................................................ [polytechnic institute setubal] was compared to [instituto politecnico setubal] 
+	http://risis.eu/eter_2014/resource/PT0117........ http://www.grid.ac/institutes/grid.411006.2...... 0.796296296296................................... [instituto portugues administracao marketing matosinhos] was compared to [instituto portugues administracao marketing] 
+	http://risis.eu/eter_2014/resource/PT0117........ http://risis.eu/orgreg_20170718/resource/PT0117.. 1................................................ [portuguese higher institute marketing management oporto] was compared to [portuguese higher institute marketing management oporto] 
+	http://risis.eu/eter_2014/resource/PT0117........ http://risis.eu/orgreg_20170718/resource/PT0117.. 0.862068965517................................... [polytechnic institute setubal] was compared to [instituto politecnico setubal] 
+	http://risis.eu/eter_2014/resource/PT0117........ http://risis.eu/orgreg_20170718/resource/PT0117.. 0.862068965517................................... [portuguese higher institute marketing management oporto] was compared to [portuguese higher institute marketing management oporto] 
+	http://risis.eu/eter_2014/resource/PT0117........ http://risis.eu/orgreg_20170718/resource/PT0117.. 1................................................ [polytechnic institute setubal] was compared to [instituto politecnico setubal] 
+	http://risis.eu/eter_2014/resource/PT0117........ http://risis.eu/orgreg_20170718/resource/PT0800.. 0.727272727273................................... [portuguese institute marketing management matosinhos] was compared to [portuguese higher institute marketing management oporto] 
+	http://www.grid.ac/institutes/grid.411006.2...... http://risis.eu/eter_2014/resource/PT0117........ 0.796296296296................................... [instituto portugues administracao marketing matosinhos] was compared to [instituto portugues administracao marketing] 
+	http://risis.eu/orgreg_20170718/resource/PT0800.. http://risis.eu/eter_2014/resource/PT0117........ 0.727272727273................................... [portuguese institute marketing management matosinhos] was compared to [portuguese higher institute marketing management oporto] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/PT0117.. -8.647639........................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0117.. 41.173483........................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0117.. http://www.ipam.pt............................... 
+	http://risis.eu/orgreg_20170718/resource/PT0117.. Portuguese Higher Institute of Marketing Management of Oporto 
+	http://risis.eu/eter_2014/resource/PT0117........ 41,173483........................................ 
+	http://risis.eu/eter_2014/resource/PT0117........ -8,647639........................................ 
+	http://risis.eu/eter_2014/resource/PT0117........ http://www.ipam.pt............................... 
+	http://risis.eu/eter_2014/resource/PT0117........ a................................................ 
+	http://risis.eu/eter_2014/resource/PT0117........ Portuguese Higher Institute of Marketing Management of Oporto 
+	http://risis.eu/eter_2014/resource/PT0117........ Instituto Português de Administração de Marketing de Matosinhos 
+	http://www.grid.ac/institutes/grid.411006.2...... -8.649899........................................ 
+	http://www.grid.ac/institutes/grid.411006.2...... 41.175564........................................ 
+	http://www.grid.ac/institutes/grid.411006.2...... http://www.ipam.pt/.............................. 
+	http://www.grid.ac/institutes/grid.411006.2...... Instituto Português de Administração de Marketing 
+	http://risis.eu/orgreg_20170718/resource/PT0800.. -8.647639........................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0800.. 41.173483........................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0800.. http://www.ipam.pt............................... 
+	http://risis.eu/orgreg_20170718/resource/PT0800.. Portuguese Institute of Marketing Management Matosinhos 
+
+NETWORK ANALYSIS
+	NETWORK [('P1220889209-PT0117', 'P1237822338-grid.411006.2'), ('P1220889209-PT0117', 'P574295664-PT0117'), ('P1220889209-PT0117', 'P2140460963-PT0800')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 2
+	QUALITY                         : 0.667
+	QUALITY USED                    : 0.667
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 0.5 QUALITY 0.667 QUALITY USED 0.667
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 0.5 QUALITY 0.667 QUALITY USED 0.667

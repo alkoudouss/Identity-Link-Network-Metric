@@ -1,0 +1,70 @@
+SIZE    4   
+CLUSTER 9542 
+NAME    N1464194882
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/1001108>
+	<http://risis.eu/orgref_20170703/resource/1271750>
+	<http://www.grid.ac/institutes/grid.267748.8>
+	<http://www.grid.ac/institutes/grid.412185.b>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.267748.8....... http://www.grid.ac/institutes/grid.412185.b....... 1................................................. [Valparaiso University] was compared to [University of Valparaíso] 
+	http://www.grid.ac/institutes/grid.412185.b....... http://www.grid.ac/institutes/grid.267748.8....... 1................................................. [Valparaiso University] was compared to [University of Valparaíso] 
+	http://risis.eu/orgref_20170703/resource/1271750.. http://www.grid.ac/institutes/grid.267748.8....... 1................................................. [Valparaiso University] was compared to [University of Valparaíso] 
+	http://www.grid.ac/institutes/grid.267748.8....... http://risis.eu/orgref_20170703/resource/1271750.. 1................................................. [Valparaiso University] was compared to [University of Valparaíso] 
+	http://risis.eu/orgref_20170703/resource/1001108.. http://www.grid.ac/institutes/grid.267748.8....... 1................................................. [Valparaiso University] was compared to [Valparaiso University] 
+	http://www.grid.ac/institutes/grid.267748.8....... http://risis.eu/orgref_20170703/resource/1001108.. 1................................................. [Valparaiso University] was compared to [Valparaiso University] 
+	http://risis.eu/orgref_20170703/resource/1271750.. http://www.grid.ac/institutes/grid.412185.b....... 1................................................. [University of Valparaíso] was compared to [University of Valparaíso] 
+	http://www.grid.ac/institutes/grid.412185.b....... http://risis.eu/orgref_20170703/resource/1271750.. 1................................................. [University of Valparaíso] was compared to [University of Valparaíso] 
+	http://risis.eu/orgref_20170703/resource/1001108.. http://www.grid.ac/institutes/grid.412185.b....... 1................................................. [University of Valparaíso] was compared to [Valparaiso University] 
+	http://www.grid.ac/institutes/grid.412185.b....... http://risis.eu/orgref_20170703/resource/1001108.. 1................................................. [University of Valparaíso] was compared to [Valparaiso University] 
+	http://risis.eu/orgref_20170703/resource/1001108.. http://risis.eu/orgref_20170703/resource/1271750.. 1................................................. [Valparaiso University] was compared to [University of Valparaíso] 
+	http://risis.eu/orgref_20170703/resource/1271750.. http://risis.eu/orgref_20170703/resource/1001108.. 1................................................. [Valparaiso University] was compared to [University of Valparaíso] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 19 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/1001108.. http://en.wikipedia.org/wiki?curid=1001108........ 
+	http://risis.eu/orgref_20170703/resource/1001108.. http://www.wikidata.org/wiki/Q186047.............. 
+	http://risis.eu/orgref_20170703/resource/1001108.. http://www.valpo.edu.............................. 
+	http://risis.eu/orgref_20170703/resource/1001108.. Valparaiso University............................. 
+	http://risis.eu/orgref_20170703/resource/1271750.. http://en.wikipedia.org/wiki?curid=1271750........ 
+	http://risis.eu/orgref_20170703/resource/1271750.. http://www.wikidata.org/wiki/Q1546014............. 
+	http://risis.eu/orgref_20170703/resource/1271750.. http://www.uv.cl.................................. 
+	http://risis.eu/orgref_20170703/resource/1271750.. University of Valparaíso......................... 
+	http://www.grid.ac/institutes/grid.267748.8....... -87.04241......................................... 
+	http://www.grid.ac/institutes/grid.267748.8....... 41.46429.......................................... 
+	http://www.grid.ac/institutes/grid.267748.8....... http://www.valpo.edu/............................. 
+	http://www.grid.ac/institutes/grid.267748.8....... Valparaiso College................................ 
+	http://www.grid.ac/institutes/grid.267748.8....... Valparaiso Male and Female College................ 
+	http://www.grid.ac/institutes/grid.267748.8....... Northern Indiana Normal School and Business Institute 
+	http://www.grid.ac/institutes/grid.267748.8....... Valparaiso University............................. 
+	http://www.grid.ac/institutes/grid.412185.b....... -71.61718......................................... 
+	http://www.grid.ac/institutes/grid.412185.b....... -33.043766........................................ 
+	http://www.grid.ac/institutes/grid.412185.b....... http://www.uv.cl/................................. 
+	http://www.grid.ac/institutes/grid.412185.b....... University of Valparaíso......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:1001108', '3:grid.267748.8'), ('2:1271750', '1:1001108'), ('2:1271750', '4:grid.412185.b'), ('3:grid.267748.8', '2:1271750'), ('4:grid.412185.b', '1:1001108'), ('4:grid.412185.b', '3:grid.267748.8')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

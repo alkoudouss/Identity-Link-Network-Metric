@@ -1,0 +1,58 @@
+SIZE    3   
+CLUSTER 367 
+NAME    N550850062
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/IE0016>
+	<http://risis.eu/eter_2014/resource/IE0016>
+	<http://www.grid.ac/institutes/grid.418998.5>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/IE0016.. http://www.grid.ac/institutes/grid.418998.5...... 0.962962962963................................... [institute technology	 sligo] was compared to [institute technology sligo] 
+	http://risis.eu/orgreg_20170718/resource/IE0016.. http://risis.eu/eter_2014/resource/IE0016........ 0.962962962963................................... [institute technology	 sligo] was compared to [institute technology sligo] 
+	http://risis.eu/eter_2014/resource/IE0016........ http://www.grid.ac/institutes/grid.418998.5...... 1................................................ [institute technology sligo] was compared to [institute technology sligo] 
+	http://risis.eu/eter_2014/resource/IE0016........ http://risis.eu/orgreg_20170718/resource/IE0016.. 0.962962962963................................... [institute technology	 sligo] was compared to [institute technology sligo] 
+	http://www.grid.ac/institutes/grid.418998.5...... http://risis.eu/eter_2014/resource/IE0016........ 1................................................ [institute technology sligo] was compared to [institute technology sligo] 
+	http://www.grid.ac/institutes/grid.418998.5...... http://risis.eu/orgreg_20170718/resource/IE0016.. 0.962962962963................................... [institute technology	 sligo] was compared to [institute technology sligo] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/IE0016.. -8.4760888....................................... 
+	http://risis.eu/orgreg_20170718/resource/IE0016.. 54.2766103....................................... 
+	http://risis.eu/orgreg_20170718/resource/IE0016.. http://www.itsligo.ie............................ 
+	http://risis.eu/orgreg_20170718/resource/IE0016.. Institute of Technology	 Sligo................... 
+	http://risis.eu/eter_2014/resource/IE0016........ 54,2766103....................................... 
+	http://risis.eu/eter_2014/resource/IE0016........ -8,4760888....................................... 
+	http://risis.eu/eter_2014/resource/IE0016........ http://www.itsligo.ie............................ 
+	http://risis.eu/eter_2014/resource/IE0016........ a................................................ 
+	http://risis.eu/eter_2014/resource/IE0016........ Institute of Technology, Sligo................... 
+	http://www.grid.ac/institutes/grid.418998.5...... -8.461624........................................ 
+	http://www.grid.ac/institutes/grid.418998.5...... 54.27827......................................... 
+	http://www.grid.ac/institutes/grid.418998.5...... http://itsligo.ie/............................... 
+	http://www.grid.ac/institutes/grid.418998.5...... Institiúid Teicneolaíochta Sligeach............ 
+	http://www.grid.ac/institutes/grid.418998.5...... Institute of Technology Sligo.................... 
+
+NETWORK ANALYSIS
+	NETWORK [('P674180323-IE0016', 'N550850062-IE0016'), ('P674180323-IE0016', 'P324980042-grid.418998.5'), ('N550850062-IE0016', 'P324980042-grid.418998.5')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

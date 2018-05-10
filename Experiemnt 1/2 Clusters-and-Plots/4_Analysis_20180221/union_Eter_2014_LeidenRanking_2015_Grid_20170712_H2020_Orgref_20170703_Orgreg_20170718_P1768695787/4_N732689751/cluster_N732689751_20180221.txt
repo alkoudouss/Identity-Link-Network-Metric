@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 3594 
+NAME    N732689751
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.410664.1>
+	<http://www.grid.ac/institutes/grid.468410.f>
+	<http://www.grid.ac/institutes/grid.478799.c>
+	<http://risis.eu/orgref_20170703/resource/47000439>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.410664.1........ http://www.grid.ac/institutes/grid.478799.c........ 0.875.............................................. [Hanson Institute] was compared to [Dannon Institute] 
+	http://www.grid.ac/institutes/grid.478799.c........ http://www.grid.ac/institutes/grid.410664.1........ 0.875.............................................. [Hanson Institute] was compared to [Dannon Institute] 
+	http://www.grid.ac/institutes/grid.410664.1........ http://www.grid.ac/institutes/grid.468410.f........ 0.875.............................................. [Hanson Institute] was compared to [Hudson Institute] 
+	http://www.grid.ac/institutes/grid.468410.f........ http://www.grid.ac/institutes/grid.410664.1........ 0.875.............................................. [Hanson Institute] was compared to [Hudson Institute] 
+	http://www.grid.ac/institutes/grid.410664.1........ http://risis.eu/orgref_20170703/resource/47000439.. 0.875.............................................. [Hanson Institute] was compared to [Nansen Institute] 
+	http://risis.eu/orgref_20170703/resource/47000439.. http://www.grid.ac/institutes/grid.410664.1........ 0.875.............................................. [Hanson Institute] was compared to [Nansen Institute] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.410664.1........ 138.60074.......................................... 
+	http://www.grid.ac/institutes/grid.410664.1........ -34.922623......................................... 
+	http://www.grid.ac/institutes/grid.410664.1........ http://www.hansoninstitute.sa.gov.au/.............. 
+	http://www.grid.ac/institutes/grid.410664.1........ Hanson Centre for Cancer Research.................. 
+	http://www.grid.ac/institutes/grid.410664.1........ Hanson Institute................................... 
+	http://www.grid.ac/institutes/grid.468410.f........ -77.02877.......................................... 
+	http://www.grid.ac/institutes/grid.468410.f........ 38.895573.......................................... 
+	http://www.grid.ac/institutes/grid.468410.f........ http://www.hudson.org/............................. 
+	http://www.grid.ac/institutes/grid.468410.f........ Hudson Institute................................... 
+	http://www.grid.ac/institutes/grid.478799.c........ -73.75464.......................................... 
+	http://www.grid.ac/institutes/grid.478799.c........ 41.019775.......................................... 
+	http://www.grid.ac/institutes/grid.478799.c........ http://www.dannon-institute.org/................... 
+	http://www.grid.ac/institutes/grid.478799.c........ Dannon Institute................................... 
+	http://risis.eu/orgref_20170703/resource/47000439.. http://en.wikipedia.org/wiki?curid=4395827......... 
+	http://risis.eu/orgref_20170703/resource/47000439.. http://www.wikidata.org/wiki/Q1779925.............. 
+	http://risis.eu/orgref_20170703/resource/47000439.. http://www.fni.no.................................. 
+	http://risis.eu/orgref_20170703/resource/47000439.. Nansen Institute................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.468410.f', '1:grid.410664.1'), ('3:grid.478799.c', '1:grid.410664.1'), ('4:47000439', '1:grid.410664.1')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 2
+	QUALITY                         : 0.667
+	QUALITY USED                    : 0.667
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 0.5 QUALITY 0.667 QUALITY USED 0.667
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 0.5 QUALITY 0.667 QUALITY USED 0.667

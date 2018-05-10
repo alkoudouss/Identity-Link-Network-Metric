@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 2916 
+NAME    N410155065
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.431933.f>
+	<http://www.grid.ac/institutes/grid.468101.a>
+	<http://www.grid.ac/institutes/grid.474124.0>
+	<http://risis.eu/orgref_20170703/resource/34901207>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.431933.f........ http://www.grid.ac/institutes/grid.468101.a........ 1.................................................. [Department of Education and Training] was compared to [Department of Education and Training] 
+	http://www.grid.ac/institutes/grid.468101.a........ http://www.grid.ac/institutes/grid.431933.f........ 1.................................................. [Department of Education and Training] was compared to [Department of Education and Training] 
+	http://www.grid.ac/institutes/grid.431933.f........ http://www.grid.ac/institutes/grid.474124.0........ 1.................................................. [Department of Education and Training] was compared to [Department of Education and Training] 
+	http://www.grid.ac/institutes/grid.474124.0........ http://www.grid.ac/institutes/grid.431933.f........ 1.................................................. [Department of Education and Training] was compared to [Department of Education and Training] 
+	http://www.grid.ac/institutes/grid.468101.a........ http://www.grid.ac/institutes/grid.474124.0........ 1.................................................. [Department of Education and Training] was compared to [Department of Education and Training] 
+	http://www.grid.ac/institutes/grid.474124.0........ http://www.grid.ac/institutes/grid.468101.a........ 1.................................................. [Department of Education and Training] was compared to [Department of Education and Training] 
+	http://www.grid.ac/institutes/grid.431933.f........ http://risis.eu/orgref_20170703/resource/34901207.. 1.................................................. [Department of Education and Training] was compared to [Department of Education and Training (Queensland)] 
+	http://risis.eu/orgref_20170703/resource/34901207.. http://www.grid.ac/institutes/grid.431933.f........ 1.................................................. [Department of Education and Training] was compared to [Department of Education and Training (Queensland)] 
+	http://www.grid.ac/institutes/grid.468101.a........ http://risis.eu/orgref_20170703/resource/34901207.. 1.................................................. [Department of Education and Training] was compared to [Department of Education and Training (Queensland)] 
+	http://risis.eu/orgref_20170703/resource/34901207.. http://www.grid.ac/institutes/grid.468101.a........ 1.................................................. [Department of Education and Training] was compared to [Department of Education and Training (Queensland)] 
+	http://www.grid.ac/institutes/grid.474124.0........ http://risis.eu/orgref_20170703/resource/34901207.. 1.................................................. [Department of Education and Training] was compared to [Department of Education and Training (Queensland)] 
+	http://risis.eu/orgref_20170703/resource/34901207.. http://www.grid.ac/institutes/grid.474124.0........ 1.................................................. [Department of Education and Training] was compared to [Department of Education and Training (Queensland)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.431933.f........ 149.1328........................................... 
+	http://www.grid.ac/institutes/grid.431933.f........ -35.261173......................................... 
+	http://www.grid.ac/institutes/grid.431933.f........ https://www.education.gov.au/...................... 
+	http://www.grid.ac/institutes/grid.431933.f........ Department of Education and Training............... 
+	http://www.grid.ac/institutes/grid.468101.a........ 144.976............................................ 
+	http://www.grid.ac/institutes/grid.468101.a........ -37.813023......................................... 
+	http://www.grid.ac/institutes/grid.468101.a........ http://www.education.vic.gov.au/Pages/default.aspx. 
+	http://www.grid.ac/institutes/grid.468101.a........ Department of Education and Training............... 
+	http://www.grid.ac/institutes/grid.474124.0........ 153.02629.......................................... 
+	http://www.grid.ac/institutes/grid.474124.0........ -27.47258.......................................... 
+	http://www.grid.ac/institutes/grid.474124.0........ http://education.qld.gov.au/....................... 
+	http://www.grid.ac/institutes/grid.474124.0........ Department of Education and Training............... 
+	http://risis.eu/orgref_20170703/resource/34901207.. http://en.wikipedia.org/wiki?curid=34901207........ 
+	http://risis.eu/orgref_20170703/resource/34901207.. http://www.wikidata.org/wiki/Q5260277.............. 
+	http://risis.eu/orgref_20170703/resource/34901207.. http://deta.qld.gov.au............................. 
+	http://risis.eu/orgref_20170703/resource/34901207.. Department of Education and Training (Queensland).. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.468101.a', '1:grid.431933.f'), ('3:grid.474124.0', '1:grid.431933.f'), ('3:grid.474124.0', '2:grid.468101.a'), ('4:34901207', '1:grid.431933.f'), ('4:34901207', '2:grid.468101.a'), ('4:34901207', '3:grid.474124.0')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

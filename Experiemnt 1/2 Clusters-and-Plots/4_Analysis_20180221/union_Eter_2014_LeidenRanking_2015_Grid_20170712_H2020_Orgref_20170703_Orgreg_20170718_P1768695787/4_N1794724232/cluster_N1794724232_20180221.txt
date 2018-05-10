@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 12293 
+NAME    N1794724232
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.452596.9>
+	<http://risis.eu/orgref_20170703/resource/6683117>
+	<http://risis.eu/orgref_20170703/resource/614794>
+	<http://www.grid.ac/institutes/grid.419494.5>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.452596.9....... http://risis.eu/orgref_20170703/resource/614794... 1................................................. [Max Planck Institute for Astrophysics] was compared to [Max Planck Institute for Astrophysics] 
+	http://risis.eu/orgref_20170703/resource/614794... http://www.grid.ac/institutes/grid.452596.9....... 1................................................. [Max Planck Institute for Astrophysics] was compared to [Max Planck Institute for Astrophysics] 
+	http://risis.eu/orgref_20170703/resource/6683117.. http://www.grid.ac/institutes/grid.419494.5....... 1................................................. [Max Planck Institute of Biophysics] was compared to [Max Planck Institute of Biophysics] 
+	http://www.grid.ac/institutes/grid.419494.5....... http://risis.eu/orgref_20170703/resource/6683117.. 1................................................. [Max Planck Institute of Biophysics] was compared to [Max Planck Institute of Biophysics] 
+	http://risis.eu/orgref_20170703/resource/6683117.. http://risis.eu/orgref_20170703/resource/614794... 0.878787878788.................................... [Max Planck Institute for Astrophysics] was compared to [Max Planck Institute of Biophysics] 
+	http://risis.eu/orgref_20170703/resource/614794... http://risis.eu/orgref_20170703/resource/6683117.. 0.878787878788.................................... [Max Planck Institute for Astrophysics] was compared to [Max Planck Institute of Biophysics] 
+	http://www.grid.ac/institutes/grid.452596.9....... http://www.grid.ac/institutes/grid.419494.5....... 0.878787878788.................................... [Max Planck Institute of Biophysics] was compared to [Max Planck Institute for Astrophysics] 
+	http://www.grid.ac/institutes/grid.419494.5....... http://www.grid.ac/institutes/grid.452596.9....... 0.878787878788.................................... [Max Planck Institute of Biophysics] was compared to [Max Planck Institute for Astrophysics] 
+	http://www.grid.ac/institutes/grid.452596.9....... http://risis.eu/orgref_20170703/resource/6683117.. 0.878787878788.................................... [Max Planck Institute for Astrophysics] was compared to [Max Planck Institute of Biophysics] 
+	http://risis.eu/orgref_20170703/resource/6683117.. http://www.grid.ac/institutes/grid.452596.9....... 0.878787878788.................................... [Max Planck Institute for Astrophysics] was compared to [Max Planck Institute of Biophysics] 
+	http://risis.eu/orgref_20170703/resource/614794... http://www.grid.ac/institutes/grid.419494.5....... 0.878787878788.................................... [Max Planck Institute of Biophysics] was compared to [Max Planck Institute for Astrophysics] 
+	http://www.grid.ac/institutes/grid.419494.5....... http://risis.eu/orgref_20170703/resource/614794... 0.878787878788.................................... [Max Planck Institute of Biophysics] was compared to [Max Planck Institute for Astrophysics] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.452596.9....... 11.671451......................................... 
+	http://www.grid.ac/institutes/grid.452596.9....... 48.260986......................................... 
+	http://www.grid.ac/institutes/grid.452596.9....... http://www.mpa-garching.mpg.de/................... 
+	http://www.grid.ac/institutes/grid.452596.9....... MPI für Astrophysik.............................. 
+	http://www.grid.ac/institutes/grid.452596.9....... Max Planck Institute for Astrophysics............. 
+	http://risis.eu/orgref_20170703/resource/6683117.. http://en.wikipedia.org/wiki?curid=6683117........ 
+	http://risis.eu/orgref_20170703/resource/6683117.. http://www.wikidata.org/wiki/Q255876.............. 
+	http://risis.eu/orgref_20170703/resource/6683117.. http://www.mpibp-frankfurt.mpg.de................. 
+	http://risis.eu/orgref_20170703/resource/6683117.. Max Planck Institute of Biophysics................ 
+	http://risis.eu/orgref_20170703/resource/614794... http://en.wikipedia.org/wiki?curid=614794......... 
+	http://risis.eu/orgref_20170703/resource/614794... http://www.wikidata.org/wiki/Q48861............... 
+	http://risis.eu/orgref_20170703/resource/614794... http://www.mpa-garching.mpg.de.................... 
+	http://risis.eu/orgref_20170703/resource/614794... Max Planck Institute for Astrophysics............. 
+	http://www.grid.ac/institutes/grid.419494.5....... 8.630278.......................................... 
+	http://www.grid.ac/institutes/grid.419494.5....... 50.17361.......................................... 
+	http://www.grid.ac/institutes/grid.419494.5....... http://www.biophys.mpg.de/en.html................. 
+	http://www.grid.ac/institutes/grid.419494.5....... Max Planck Institute of Biophysics................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.452596.9', '4:grid.419494.5'), ('2:6683117', '1:grid.452596.9'), ('2:6683117', '3:614794'), ('2:6683117', '4:grid.419494.5'), ('3:614794', '1:grid.452596.9'), ('4:grid.419494.5', '3:614794')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

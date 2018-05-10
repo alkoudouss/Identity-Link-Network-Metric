@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 4247 
+NAME    N2051576814
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/919325>
+	<http://risis.eu/orgref_20170703/resource/919881>
+	<http://www.grid.ac/institutes/grid.443524.0>
+	<http://www.grid.ac/institutes/grid.411526.5>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/919325.. http://www.grid.ac/institutes/grid.411526.5...... 1................................................ [China University of Political Science and Law] was compared to [China University of Political Science and Law] 
+	http://www.grid.ac/institutes/grid.411526.5...... http://risis.eu/orgref_20170703/resource/919325.. 1................................................ [China University of Political Science and Law] was compared to [China University of Political Science and Law] 
+	http://risis.eu/orgref_20170703/resource/919881.. http://www.grid.ac/institutes/grid.443524.0...... 1................................................ [East China University of Political Science and Law] was compared to [East China University of Political Science and Law] 
+	http://www.grid.ac/institutes/grid.443524.0...... http://risis.eu/orgref_20170703/resource/919881.. 1................................................ [East China University of Political Science and Law] was compared to [East China University of Political Science and Law] 
+	http://risis.eu/orgref_20170703/resource/919325.. http://risis.eu/orgref_20170703/resource/919881.. 0.883720930233................................... [China University of Political Science and Law] was compared to [East China University of Political Science and Law] 
+	http://risis.eu/orgref_20170703/resource/919881.. http://risis.eu/orgref_20170703/resource/919325.. 0.883720930233................................... [China University of Political Science and Law] was compared to [East China University of Political Science and Law] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/919325.. http://en.wikipedia.org/wiki?curid=919325........ 
+	http://risis.eu/orgref_20170703/resource/919325.. http://www.wikidata.org/wiki/Q833961............. 
+	http://risis.eu/orgref_20170703/resource/919325.. http://www.cupl.edu.cn........................... 
+	http://risis.eu/orgref_20170703/resource/919325.. China University of Political Science and Law.... 
+	http://risis.eu/orgref_20170703/resource/919881.. http://en.wikipedia.org/wiki?curid=919881........ 
+	http://risis.eu/orgref_20170703/resource/919881.. http://www.wikidata.org/wiki/Q5328082............ 
+	http://risis.eu/orgref_20170703/resource/919881.. http://www.ecupl.edu.cn.......................... 
+	http://risis.eu/orgref_20170703/resource/919881.. East China University of Political Science and Law 
+	http://www.grid.ac/institutes/grid.443524.0...... 121.4147......................................... 
+	http://www.grid.ac/institutes/grid.443524.0...... 31.221947........................................ 
+	http://www.grid.ac/institutes/grid.443524.0...... http://study.ecupl.edu.cn/....................... 
+	http://www.grid.ac/institutes/grid.443524.0...... Huádōng Zhèngfǎ Dàxué...................... 
+	http://www.grid.ac/institutes/grid.443524.0...... East China University of Political Science and Law 
+	http://www.grid.ac/institutes/grid.411526.5...... 116.35177........................................ 
+	http://www.grid.ac/institutes/grid.411526.5...... 39.966007........................................ 
+	http://www.grid.ac/institutes/grid.411526.5...... http://www.cupl.edu.cn/.......................... 
+	http://www.grid.ac/institutes/grid.411526.5...... Peking College of Political Science and Law...... 
+	http://www.grid.ac/institutes/grid.411526.5...... China University of Political Science and Law.... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:919881', '1:919325'), ('3:grid.443524.0', '2:919881'), ('4:grid.411526.5', '1:919325')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

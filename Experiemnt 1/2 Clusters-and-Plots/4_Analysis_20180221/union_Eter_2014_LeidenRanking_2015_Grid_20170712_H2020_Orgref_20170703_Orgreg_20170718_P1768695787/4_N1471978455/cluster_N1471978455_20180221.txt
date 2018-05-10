@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 6186 
+NAME    N1471978455
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.414317.4>
+	<http://risis.eu/leidenRanking_2015/resource/1953>
+	<http://risis.eu/orgref_20170703/resource/25969986>
+	<http://risis.eu/orgreg_20170718/resource/IL2014>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.414317.4........ http://risis.eu/leidenRanking_2015/resource/1953... 1.................................................. [Wolfson Medical Center] was compared to [Wolfson Medical Center] 
+	http://risis.eu/leidenRanking_2015/resource/1953... http://www.grid.ac/institutes/grid.414317.4........ 1.................................................. [Wolfson Medical Center] was compared to [Wolfson Medical Center] 
+	http://risis.eu/leidenRanking_2015/resource/1953... http://risis.eu/orgreg_20170718/resource/IL2014.... 1.................................................. [Wolfson Medical Center] was compared to [Wolfson Medical Center] 
+	http://risis.eu/orgreg_20170718/resource/IL2014.... http://risis.eu/leidenRanking_2015/resource/1953... 1.................................................. [Wolfson Medical Center] was compared to [Wolfson Medical Center] 
+	http://risis.eu/orgref_20170703/resource/25969986.. http://risis.eu/orgreg_20170718/resource/IL2014.... 0.909090909091..................................... [Wilson Medical Center (North Carolina)] was compared to [Wolfson Medical Center] 
+	http://risis.eu/orgreg_20170718/resource/IL2014.... http://risis.eu/orgref_20170703/resource/25969986.. 0.909090909091..................................... [Wilson Medical Center (North Carolina)] was compared to [Wolfson Medical Center] 
+	http://risis.eu/leidenRanking_2015/resource/1953... http://risis.eu/orgref_20170703/resource/25969986.. 0.909090909091..................................... [Wilson Medical Center (North Carolina)] was compared to [Wolfson Medical Center] 
+	http://risis.eu/orgref_20170703/resource/25969986.. http://risis.eu/leidenRanking_2015/resource/1953... 0.909090909091..................................... [Wilson Medical Center (North Carolina)] was compared to [Wolfson Medical Center] 
+	http://www.grid.ac/institutes/grid.414317.4........ http://risis.eu/orgref_20170703/resource/25969986.. 0.909090909091..................................... [Wolfson Medical Center] was compared to [Wilson Medical Center (North Carolina)] 
+	http://risis.eu/orgref_20170703/resource/25969986.. http://www.grid.ac/institutes/grid.414317.4........ 0.909090909091..................................... [Wolfson Medical Center] was compared to [Wilson Medical Center (North Carolina)] 
+	http://www.grid.ac/institutes/grid.414317.4........ http://risis.eu/orgreg_20170718/resource/IL2014.... 1.................................................. [Wolfson Medical Center] was compared to [Wolfson Medical Center] 
+	http://risis.eu/orgreg_20170718/resource/IL2014.... http://www.grid.ac/institutes/grid.414317.4........ 1.................................................. [Wolfson Medical Center] was compared to [Wolfson Medical Center] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.414317.4........ 34.763058.......................................... 
+	http://www.grid.ac/institutes/grid.414317.4........ 32.03528........................................... 
+	http://www.grid.ac/institutes/grid.414317.4........ http://wolfsonmedicalcenter.com/................... 
+	http://www.grid.ac/institutes/grid.414317.4........ Merkaz Refu'i Wolfson.............................. 
+	http://www.grid.ac/institutes/grid.414317.4........ Wolfson Medical Center............................. 
+	http://risis.eu/leidenRanking_2015/resource/1953... Wolfson Medical Center............................. 
+	http://risis.eu/orgref_20170703/resource/25969986.. http://en.wikipedia.org/wiki?curid=25969986........ 
+	http://risis.eu/orgref_20170703/resource/25969986.. http://www.wikidata.org/wiki/Q8023141.............. 
+	http://risis.eu/orgref_20170703/resource/25969986.. http://www.wilmed.org.............................. 
+	http://risis.eu/orgref_20170703/resource/25969986.. Wilson Medical Center (North Carolina)............. 
+	http://risis.eu/orgreg_20170718/resource/IL2014.... m.................................................. 
+	http://risis.eu/orgreg_20170718/resource/IL2014.... http://www.wolfson.org.il/......................... 
+	http://risis.eu/orgreg_20170718/resource/IL2014.... Wolfson Medical Center............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1953', '1:grid.414317.4'), ('2:1953', '3:25969986'), ('2:1953', '4:IL2014'), ('3:25969986', '1:grid.414317.4'), ('4:IL2014', '1:grid.414317.4'), ('4:IL2014', '3:25969986')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

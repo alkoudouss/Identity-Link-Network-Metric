@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 123 
+NAME    N435923368
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.417714.0>
+	<http://www.grid.ac/institutes/grid.411475.2>
+	<http://risis.eu/eter_2014/resource/IT0138>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.417714.0.. http://risis.eu/eter_2014/resource/IT0138.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.411475.2.. http://risis.eu/eter_2014/resource/IT0138.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/IT0138.... http://www.grid.ac/institutes/grid.411475.2.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/IT0138.... http://www.grid.ac/institutes/grid.417714.0.. 1............................................ Near each other by at most 500 meter(s)...... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.417714.0.. 10.989783.................................... 
+	http://www.grid.ac/institutes/grid.417714.0.. 45.438877.................................... 
+	http://www.grid.ac/institutes/grid.417714.0.. http://www.cf-europe.eu/italian-cystic-fibrosis-research-foundation-grant-proposals-2013-call-applications 
+	http://www.grid.ac/institutes/grid.417714.0.. Cystic Fibrosis Research Foundation.......... 
+	http://www.grid.ac/institutes/grid.411475.2.. 10.986763.................................... 
+	http://www.grid.ac/institutes/grid.411475.2.. 45.434826.................................... 
+	http://www.grid.ac/institutes/grid.411475.2.. http://www.ospedaleuniverona.it/ecm/home..... 
+	http://www.grid.ac/institutes/grid.411475.2.. Azienda Ospedaliera Universitaria Integrata Verona 
+	http://risis.eu/eter_2014/resource/IT0138.... 45,434448.................................... 
+	http://risis.eu/eter_2014/resource/IT0138.... 10,990679.................................... 
+	http://risis.eu/eter_2014/resource/IT0138.... http://www.accademiacignaroli.it............. 
+	http://risis.eu/eter_2014/resource/IT0138.... a............................................ 
+	http://risis.eu/eter_2014/resource/IT0138.... Free Academy of fine arts of VERONA Cignaroli 
+	http://risis.eu/eter_2014/resource/IT0138.... Accademia delle Belle Arti legalmente riconosciuta di VERONA Cignaroli 
+
+NETWORK ANALYSIS
+	NETWORK [('P78876747-IT0138', 'P1150538928-grid.417714.0'), ('P78876747-IT0138', 'N435923368-grid.411475.2')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

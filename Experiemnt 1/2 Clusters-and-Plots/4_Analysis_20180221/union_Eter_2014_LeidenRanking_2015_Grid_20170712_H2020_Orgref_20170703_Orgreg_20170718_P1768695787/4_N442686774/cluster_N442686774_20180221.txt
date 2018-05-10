@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 6623 
+NAME    N442686774
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.442676.5>
+	<http://risis.eu/orgref_20170703/resource/29300938>
+	<http://risis.eu/orgref_20170703/resource/1173926>
+	<http://www.grid.ac/institutes/grid.431738.a>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.442676.5........ http://www.grid.ac/institutes/grid.431738.a........ 0.909090909091..................................... [Cornerstone University] was compared to [Copperstone University] 
+	http://www.grid.ac/institutes/grid.431738.a........ http://www.grid.ac/institutes/grid.442676.5........ 0.909090909091..................................... [Cornerstone University] was compared to [Copperstone University] 
+	http://risis.eu/orgref_20170703/resource/1173926... http://www.grid.ac/institutes/grid.431738.a........ 1.................................................. [Cornerstone University] was compared to [Cornerstone University] 
+	http://www.grid.ac/institutes/grid.431738.a........ http://risis.eu/orgref_20170703/resource/1173926... 1.................................................. [Cornerstone University] was compared to [Cornerstone University] 
+	http://risis.eu/orgref_20170703/resource/29300938.. http://www.grid.ac/institutes/grid.431738.a........ 0.909090909091..................................... [Cornerstone University] was compared to [Copperstone University] 
+	http://www.grid.ac/institutes/grid.431738.a........ http://risis.eu/orgref_20170703/resource/29300938.. 0.909090909091..................................... [Cornerstone University] was compared to [Copperstone University] 
+	http://www.grid.ac/institutes/grid.442676.5........ http://risis.eu/orgref_20170703/resource/29300938.. 1.................................................. [Copperstone University] was compared to [Copperstone University] 
+	http://risis.eu/orgref_20170703/resource/29300938.. http://www.grid.ac/institutes/grid.442676.5........ 1.................................................. [Copperstone University] was compared to [Copperstone University] 
+	http://www.grid.ac/institutes/grid.442676.5........ http://risis.eu/orgref_20170703/resource/1173926... 0.909090909091..................................... [Copperstone University] was compared to [Cornerstone University] 
+	http://risis.eu/orgref_20170703/resource/1173926... http://www.grid.ac/institutes/grid.442676.5........ 0.909090909091..................................... [Copperstone University] was compared to [Cornerstone University] 
+	http://risis.eu/orgref_20170703/resource/29300938.. http://risis.eu/orgref_20170703/resource/1173926... 0.909090909091..................................... [Cornerstone University] was compared to [Copperstone University] 
+	http://risis.eu/orgref_20170703/resource/1173926... http://risis.eu/orgref_20170703/resource/29300938.. 0.909090909091..................................... [Cornerstone University] was compared to [Copperstone University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.442676.5........ Copperstone University............................. 
+	http://risis.eu/orgref_20170703/resource/29300938.. http://en.wikipedia.org/wiki?curid=29300938........ 
+	http://risis.eu/orgref_20170703/resource/29300938.. http://www.wikidata.org/wiki/Q5168854.............. 
+	http://risis.eu/orgref_20170703/resource/29300938.. http://www.copperstone.ac.zm/index.php............. 
+	http://risis.eu/orgref_20170703/resource/29300938.. Copperstone University............................. 
+	http://risis.eu/orgref_20170703/resource/1173926... http://en.wikipedia.org/wiki?curid=1173926......... 
+	http://risis.eu/orgref_20170703/resource/1173926... http://www.wikidata.org/wiki/Q5171689.............. 
+	http://risis.eu/orgref_20170703/resource/1173926... http://www.cornerstone.edu......................... 
+	http://risis.eu/orgref_20170703/resource/1173926... Cornerstone University............................. 
+	http://www.grid.ac/institutes/grid.431738.a........ -85.595604......................................... 
+	http://www.grid.ac/institutes/grid.431738.a........ 42.979046.......................................... 
+	http://www.grid.ac/institutes/grid.431738.a........ https://www.cornerstone.edu/....................... 
+	http://www.grid.ac/institutes/grid.431738.a........ Cornerstone University............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.442676.5', '4:grid.431738.a'), ('2:29300938', '1:grid.442676.5'), ('2:29300938', '3:1173926'), ('2:29300938', '4:grid.431738.a'), ('3:1173926', '1:grid.442676.5'), ('4:grid.431738.a', '3:1173926')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

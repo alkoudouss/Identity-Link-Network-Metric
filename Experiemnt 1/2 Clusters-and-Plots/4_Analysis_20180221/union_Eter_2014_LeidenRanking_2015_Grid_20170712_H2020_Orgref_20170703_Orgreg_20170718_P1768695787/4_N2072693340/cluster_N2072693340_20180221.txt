@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 7523 
+NAME    N2072693340
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/630656>
+	<http://risis.eu/leidenRanking_2015/resource/1316>
+	<http://www.grid.ac/institutes/grid.5361.1>
+	<http://risis.eu/orgreg_20170718/resource/AT0016>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/630656... http://www.grid.ac/institutes/grid.5361.1......... 1................................................. [Innsbruck Medical University] was compared to [Medical University of Innsbruck] 
+	http://www.grid.ac/institutes/grid.5361.1......... http://risis.eu/orgref_20170703/resource/630656... 1................................................. [Innsbruck Medical University] was compared to [Medical University of Innsbruck] 
+	http://risis.eu/leidenRanking_2015/resource/1316.. http://www.grid.ac/institutes/grid.5361.1......... 1................................................. [Innsbruck Medical University] was compared to [Medical University of Innsbruck] 
+	http://www.grid.ac/institutes/grid.5361.1......... http://risis.eu/leidenRanking_2015/resource/1316.. 1................................................. [Innsbruck Medical University] was compared to [Medical University of Innsbruck] 
+	http://risis.eu/orgref_20170703/resource/630656... http://risis.eu/leidenRanking_2015/resource/1316.. 1................................................. [Medical University of Innsbruck] was compared to [Medical University of Innsbruck] 
+	http://risis.eu/leidenRanking_2015/resource/1316.. http://risis.eu/orgref_20170703/resource/630656... 1................................................. [Medical University of Innsbruck] was compared to [Medical University of Innsbruck] 
+	http://risis.eu/leidenRanking_2015/resource/1316.. http://risis.eu/orgreg_20170718/resource/AT0016... 0.896551724138.................................... [Innsbruck University of Medicine] was compared to [Medical University of Innsbruck] 
+	http://risis.eu/orgreg_20170718/resource/AT0016... http://risis.eu/leidenRanking_2015/resource/1316.. 0.896551724138.................................... [Innsbruck University of Medicine] was compared to [Medical University of Innsbruck] 
+	http://risis.eu/orgref_20170703/resource/630656... http://risis.eu/orgreg_20170718/resource/AT0016... 0.896551724138.................................... [Medical University of Innsbruck] was compared to [Innsbruck University of Medicine] 
+	http://risis.eu/orgreg_20170718/resource/AT0016... http://risis.eu/orgref_20170703/resource/630656... 0.896551724138.................................... [Medical University of Innsbruck] was compared to [Innsbruck University of Medicine] 
+	http://www.grid.ac/institutes/grid.5361.1......... http://risis.eu/orgreg_20170718/resource/AT0016... 0.896551724138.................................... [Innsbruck Medical University] was compared to [Innsbruck University of Medicine] 
+	http://risis.eu/orgreg_20170718/resource/AT0016... http://www.grid.ac/institutes/grid.5361.1......... 0.896551724138.................................... [Innsbruck Medical University] was compared to [Innsbruck University of Medicine] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/630656... http://en.wikipedia.org/wiki?curid=630656......... 
+	http://risis.eu/orgref_20170703/resource/630656... http://www.wikidata.org/wiki/Q686772.............. 
+	http://risis.eu/orgref_20170703/resource/630656... http://www.i-med.ac.at............................ 
+	http://risis.eu/orgref_20170703/resource/630656... Medical University of Innsbruck................... 
+	http://risis.eu/leidenRanking_2015/resource/1316.. Medical University of Innsbruck................... 
+	http://www.grid.ac/institutes/grid.5361.1......... 11.385333......................................... 
+	http://www.grid.ac/institutes/grid.5361.1......... 47.262684......................................... 
+	http://www.grid.ac/institutes/grid.5361.1......... https://www.i-med.ac.at/mypoint/.................. 
+	http://www.grid.ac/institutes/grid.5361.1......... Innsbruck Medical University...................... 
+	http://risis.eu/orgreg_20170718/resource/AT0016... 11.4.............................................. 
+	http://risis.eu/orgreg_20170718/resource/AT0016... 47.27............................................. 
+	http://risis.eu/orgreg_20170718/resource/AT0016... http://www.i-med.ac.at/mypoint/................... 
+	http://risis.eu/orgreg_20170718/resource/AT0016... Innsbruck University of Medicine.................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:630656', '3:grid.5361.1'), ('2:1316', '1:630656'), ('2:1316', '4:AT0016'), ('3:grid.5361.1', '2:1316'), ('4:AT0016', '1:630656'), ('4:AT0016', '3:grid.5361.1')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

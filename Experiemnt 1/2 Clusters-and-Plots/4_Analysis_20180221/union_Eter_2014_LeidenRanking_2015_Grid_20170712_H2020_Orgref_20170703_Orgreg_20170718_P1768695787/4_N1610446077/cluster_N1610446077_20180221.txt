@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 12074 
+NAME    N1610446077
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.423748.e>
+	<http://www.grid.ac/institutes/grid.472793.c>
+	<http://www.grid.ac/institutes/grid.419047.f>
+	<http://www.grid.ac/institutes/grid.450389.3>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.419047.f.. http://www.grid.ac/institutes/grid.450389.3.. 1............................................ [Arkema (United States)] was compared to [Arkema (Canada)] 
+	http://www.grid.ac/institutes/grid.450389.3.. http://www.grid.ac/institutes/grid.419047.f.. 1............................................ [Arkema (United States)] was compared to [Arkema (Canada)] 
+	http://www.grid.ac/institutes/grid.423748.e.. http://www.grid.ac/institutes/grid.419047.f.. 1............................................ [Arkema (United States)] was compared to [Arkema (France)] 
+	http://www.grid.ac/institutes/grid.419047.f.. http://www.grid.ac/institutes/grid.423748.e.. 1............................................ [Arkema (United States)] was compared to [Arkema (France)] 
+	http://www.grid.ac/institutes/grid.472793.c.. http://www.grid.ac/institutes/grid.419047.f.. 1............................................ [Arkema (United States)] was compared to [Arkema (Germany)] 
+	http://www.grid.ac/institutes/grid.419047.f.. http://www.grid.ac/institutes/grid.472793.c.. 1............................................ [Arkema (United States)] was compared to [Arkema (Germany)] 
+	http://www.grid.ac/institutes/grid.423748.e.. http://www.grid.ac/institutes/grid.450389.3.. 1............................................ [Arkema (France)] was compared to [Arkema (Canada)] 
+	http://www.grid.ac/institutes/grid.450389.3.. http://www.grid.ac/institutes/grid.423748.e.. 1............................................ [Arkema (France)] was compared to [Arkema (Canada)] 
+	http://www.grid.ac/institutes/grid.423748.e.. http://www.grid.ac/institutes/grid.472793.c.. 1............................................ [Arkema (France)] was compared to [Arkema (Germany)] 
+	http://www.grid.ac/institutes/grid.472793.c.. http://www.grid.ac/institutes/grid.423748.e.. 1............................................ [Arkema (France)] was compared to [Arkema (Germany)] 
+	http://www.grid.ac/institutes/grid.472793.c.. http://www.grid.ac/institutes/grid.450389.3.. 1............................................ [Arkema (Canada)] was compared to [Arkema (Germany)] 
+	http://www.grid.ac/institutes/grid.450389.3.. http://www.grid.ac/institutes/grid.472793.c.. 1............................................ [Arkema (Canada)] was compared to [Arkema (Germany)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.423748.e.. 2.230821..................................... 
+	http://www.grid.ac/institutes/grid.423748.e.. 48.90901..................................... 
+	http://www.grid.ac/institutes/grid.423748.e.. http://www.arkema.com/en/.................... 
+	http://www.grid.ac/institutes/grid.423748.e.. Arkema (France).............................. 
+	http://www.grid.ac/institutes/grid.472793.c.. 8.271777..................................... 
+	http://www.grid.ac/institutes/grid.472793.c.. 52.09684..................................... 
+	http://www.grid.ac/institutes/grid.472793.c.. http://www.arkema.com/en/all-arkema-locations/?country=europe/germany/ 
+	http://www.grid.ac/institutes/grid.472793.c.. Arkema (Germany)............................. 
+	http://www.grid.ac/institutes/grid.419047.f.. -75.4048..................................... 
+	http://www.grid.ac/institutes/grid.419047.f.. 40.09614..................................... 
+	http://www.grid.ac/institutes/grid.419047.f.. http://www.arkema-americas.com/en/........... 
+	http://www.grid.ac/institutes/grid.419047.f.. Arkema (United States)....................... 
+	http://www.grid.ac/institutes/grid.450389.3.. -72.37642.................................... 
+	http://www.grid.ac/institutes/grid.450389.3.. 46.385235.................................... 
+	http://www.grid.ac/institutes/grid.450389.3.. http://www.arkema.ca/en/..................... 
+	http://www.grid.ac/institutes/grid.450389.3.. Arkema (Canada).............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.423748.e', '3:grid.419047.f'), ('2:grid.472793.c', '1:grid.423748.e'), ('2:grid.472793.c', '3:grid.419047.f'), ('2:grid.472793.c', '4:grid.450389.3'), ('4:grid.450389.3', '1:grid.423748.e'), ('4:grid.450389.3', '3:grid.419047.f')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

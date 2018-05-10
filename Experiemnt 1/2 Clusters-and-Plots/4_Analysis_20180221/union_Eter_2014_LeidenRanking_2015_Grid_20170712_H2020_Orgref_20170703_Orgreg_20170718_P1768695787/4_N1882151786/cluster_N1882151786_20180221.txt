@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 2036 
+NAME    N1882151786
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/TR0027>
+	<http://risis.eu/leidenRanking_2015/resource/1007>
+	<http://www.grid.ac/institutes/grid.411822.c>
+	<http://risis.eu/orgref_20170703/resource/31390745>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.411822.c........ http://risis.eu/orgref_20170703/resource/31390745.. 1.................................................. [Bülent Ecevit University] was compared to [Bülent Ecevit University] 
+	http://risis.eu/orgref_20170703/resource/31390745.. http://www.grid.ac/institutes/grid.411822.c........ 1.................................................. [Bülent Ecevit University] was compared to [Bülent Ecevit University] 
+	http://risis.eu/leidenRanking_2015/resource/1007... http://www.grid.ac/institutes/grid.411822.c........ 0.958333333333..................................... [Bülent Ecevit University] was compared to [B�lent Ecevit University] 
+	http://www.grid.ac/institutes/grid.411822.c........ http://risis.eu/leidenRanking_2015/resource/1007... 0.958333333333..................................... [Bülent Ecevit University] was compared to [B�lent Ecevit University] 
+	http://risis.eu/eter_2014/resource/TR0027.......... http://www.grid.ac/institutes/grid.411822.c........ 0.884615384615..................................... [Bülent Ecevit University] was compared to [BÜLENT ECEVIT ÜNIVERSITESI] 
+	http://www.grid.ac/institutes/grid.411822.c........ http://risis.eu/eter_2014/resource/TR0027.......... 0.884615384615..................................... [Bülent Ecevit University] was compared to [BÜLENT ECEVIT ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0027.......... http://risis.eu/orgref_20170703/resource/31390745.. 0.884615384615..................................... [Bülent Ecevit University] was compared to [BÜLENT ECEVIT ÜNIVERSITESI] 
+	http://risis.eu/orgref_20170703/resource/31390745.. http://risis.eu/eter_2014/resource/TR0027.......... 0.884615384615..................................... [Bülent Ecevit University] was compared to [BÜLENT ECEVIT ÜNIVERSITESI] 
+	http://risis.eu/leidenRanking_2015/resource/1007... http://risis.eu/orgref_20170703/resource/31390745.. 0.958333333333..................................... [Bülent Ecevit University] was compared to [B�lent Ecevit University] 
+	http://risis.eu/orgref_20170703/resource/31390745.. http://risis.eu/leidenRanking_2015/resource/1007... 0.958333333333..................................... [Bülent Ecevit University] was compared to [B�lent Ecevit University] 
+	http://risis.eu/eter_2014/resource/TR0027.......... http://risis.eu/leidenRanking_2015/resource/1007... 0.846153846154..................................... [BÜLENT ECEVIT ÜNIVERSITESI] was compared to [B�lent Ecevit University] 
+	http://risis.eu/leidenRanking_2015/resource/1007... http://risis.eu/eter_2014/resource/TR0027.......... 0.846153846154..................................... [BÜLENT ECEVIT ÜNIVERSITESI] was compared to [B�lent Ecevit University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/eter_2014/resource/TR0027.......... 41,446744.......................................... 
+	http://risis.eu/eter_2014/resource/TR0027.......... 31,777203.......................................... 
+	http://risis.eu/eter_2014/resource/TR0027.......... http://www.beun.edu.tr............................. 
+	http://risis.eu/eter_2014/resource/TR0027.......... a.................................................. 
+	http://risis.eu/eter_2014/resource/TR0027.......... Bulent Ecevit University........................... 
+	http://risis.eu/eter_2014/resource/TR0027.......... BÜLENT ECEVIT ÜNIVERSITESI....................... 
+	http://risis.eu/leidenRanking_2015/resource/1007... B�lent Ecevit University......................... 
+	http://www.grid.ac/institutes/grid.411822.c........ 31.76319........................................... 
+	http://www.grid.ac/institutes/grid.411822.c........ 41.450943.......................................... 
+	http://www.grid.ac/institutes/grid.411822.c........ http://eng.beun.edu.tr/............................ 
+	http://www.grid.ac/institutes/grid.411822.c........ Zonguldak Karaelmas University..................... 
+	http://www.grid.ac/institutes/grid.411822.c........ Bülent Ecevit Üniversitesi....................... 
+	http://www.grid.ac/institutes/grid.411822.c........ Bülent Ecevit University.......................... 
+	http://risis.eu/orgref_20170703/resource/31390745.. http://en.wikipedia.org/wiki?curid=31390745........ 
+	http://risis.eu/orgref_20170703/resource/31390745.. http://www.wikidata.org/wiki/Q5005278.............. 
+	http://risis.eu/orgref_20170703/resource/31390745.. http://eng.beun.edu.tr............................. 
+	http://risis.eu/orgref_20170703/resource/31390745.. Bülent Ecevit University.......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:TR0027', '4:31390745'), ('2:1007', '1:TR0027'), ('2:1007', '3:grid.411822.c'), ('3:grid.411822.c', '1:TR0027'), ('4:31390745', '2:1007'), ('4:31390745', '3:grid.411822.c')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

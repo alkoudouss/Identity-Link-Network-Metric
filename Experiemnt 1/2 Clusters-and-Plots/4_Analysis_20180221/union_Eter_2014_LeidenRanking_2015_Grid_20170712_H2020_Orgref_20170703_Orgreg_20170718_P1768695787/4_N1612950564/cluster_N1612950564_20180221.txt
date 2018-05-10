@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 13009 
+NAME    N1612950564
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.432919.4>
+	<http://www.grid.ac/institutes/grid.454112.7>
+	<http://www.grid.ac/institutes/grid.473070.7>
+	<http://www.grid.ac/institutes/grid.482282.6>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.432919.4.. http://www.grid.ac/institutes/grid.482282.6.. 1............................................ [Elekta (United States)] was compared to [Elekta (Switzerland)] 
+	http://www.grid.ac/institutes/grid.482282.6.. http://www.grid.ac/institutes/grid.432919.4.. 1............................................ [Elekta (United States)] was compared to [Elekta (Switzerland)] 
+	http://www.grid.ac/institutes/grid.432919.4.. http://www.grid.ac/institutes/grid.473070.7.. 1............................................ [Elekta (United States)] was compared to [Elekta (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.473070.7.. http://www.grid.ac/institutes/grid.432919.4.. 1............................................ [Elekta (United States)] was compared to [Elekta (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.432919.4.. http://www.grid.ac/institutes/grid.454112.7.. 1............................................ [Elekta (United States)] was compared to [Elekta (Sweden)] 
+	http://www.grid.ac/institutes/grid.454112.7.. http://www.grid.ac/institutes/grid.432919.4.. 1............................................ [Elekta (United States)] was compared to [Elekta (Sweden)] 
+	http://www.grid.ac/institutes/grid.454112.7.. http://www.grid.ac/institutes/grid.482282.6.. 1............................................ [Elekta (Sweden)] was compared to [Elekta (Switzerland)] 
+	http://www.grid.ac/institutes/grid.482282.6.. http://www.grid.ac/institutes/grid.454112.7.. 1............................................ [Elekta (Sweden)] was compared to [Elekta (Switzerland)] 
+	http://www.grid.ac/institutes/grid.454112.7.. http://www.grid.ac/institutes/grid.473070.7.. 1............................................ [Elekta (Sweden)] was compared to [Elekta (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.473070.7.. http://www.grid.ac/institutes/grid.454112.7.. 1............................................ [Elekta (Sweden)] was compared to [Elekta (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.473070.7.. http://www.grid.ac/institutes/grid.482282.6.. 1............................................ [Elekta (United Kingdom)] was compared to [Elekta (Switzerland)] 
+	http://www.grid.ac/institutes/grid.482282.6.. http://www.grid.ac/institutes/grid.473070.7.. 1............................................ [Elekta (United Kingdom)] was compared to [Elekta (Switzerland)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.432919.4.. Elekta (United States)....................... 
+	http://www.grid.ac/institutes/grid.454112.7.. 18.014282.................................... 
+	http://www.grid.ac/institutes/grid.454112.7.. 59.572575.................................... 
+	http://www.grid.ac/institutes/grid.454112.7.. http://www.elekta.com/....................... 
+	http://www.grid.ac/institutes/grid.454112.7.. Elekta (Sweden).............................. 
+	http://www.grid.ac/institutes/grid.473070.7.. -0.183635.................................... 
+	http://www.grid.ac/institutes/grid.473070.7.. 51.13434..................................... 
+	http://www.grid.ac/institutes/grid.473070.7.. https://www.elekta.com....................... 
+	http://www.grid.ac/institutes/grid.473070.7.. Elekta (United Kingdom)...................... 
+	http://www.grid.ac/institutes/grid.482282.6.. 8.225304..................................... 
+	http://www.grid.ac/institutes/grid.482282.6.. 47.411503.................................... 
+	http://www.grid.ac/institutes/grid.482282.6.. https://www.elekta.com/...................... 
+	http://www.grid.ac/institutes/grid.482282.6.. Elekta (Switzerland)......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.454112.7', '1:grid.432919.4'), ('3:grid.473070.7', '1:grid.432919.4'), ('3:grid.473070.7', '2:grid.454112.7'), ('4:grid.482282.6', '1:grid.432919.4'), ('4:grid.482282.6', '2:grid.454112.7'), ('4:grid.482282.6', '3:grid.473070.7')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

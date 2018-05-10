@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 702 
+NAME    P67295038
+
+RESOURCES INVOLVED
+	<http://risis.eu/cordisH2020/resource/participant_999623122>
+	<http://risis.eu/eter_2014/resource/FR0202>
+	<http://risis.eu/orgref_20170703/resource/449760>
+	<http://www.grid.ac/institutes/grid.4307.0>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/449760............. http://www.grid.ac/institutes/grid.4307.0................... 1........................................................... [Paris Observatory] was compared to [Paris Observatory]..... 
+	http://www.grid.ac/institutes/grid.4307.0................... http://risis.eu/orgref_20170703/resource/449760............. 1........................................................... [Paris Observatory] was compared to [Paris Observatory]..... 
+	http://risis.eu/eter_2014/resource/FR0202................... http://risis.eu/orgref_20170703/resource/449760............. 0.888888888889.............................................. [Paris Observatory] was compared to [Observatoire de Paris]. 
+	http://risis.eu/orgref_20170703/resource/449760............. http://risis.eu/eter_2014/resource/FR0202................... 0.888888888889.............................................. [Paris Observatory] was compared to [Observatoire de Paris]. 
+	http://risis.eu/cordisH2020/resource/participant_999623122.. http://risis.eu/orgref_20170703/resource/449760............. 0.888888888889.............................................. [Paris Observatory] was compared to [OBSERVATOIRE DE PARIS]. 
+	http://risis.eu/orgref_20170703/resource/449760............. http://risis.eu/cordisH2020/resource/participant_999623122.. 0.888888888889.............................................. [Paris Observatory] was compared to [OBSERVATOIRE DE PARIS]. 
+	http://risis.eu/cordisH2020/resource/participant_999623122.. http://risis.eu/eter_2014/resource/FR0202................... 1........................................................... [OBSERVATOIRE DE PARIS] was compared to [Observatoire de Paris] 
+	http://risis.eu/eter_2014/resource/FR0202................... http://risis.eu/cordisH2020/resource/participant_999623122.. 1........................................................... [OBSERVATOIRE DE PARIS] was compared to [Observatoire de Paris] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_999623122.. http://risis.eu/cordisH2020/resource/www.obspm.fr........... 
+	http://risis.eu/cordisH2020/resource/participant_999623122.. OBSERVATOIRE DE PARIS....................................... 
+	http://risis.eu/eter_2014/resource/FR0202................... 48,831441................................................... 
+	http://risis.eu/eter_2014/resource/FR0202................... 2,325568.................................................... 
+	http://risis.eu/eter_2014/resource/FR0202................... http://www.obspm.fr/........................................ 
+	http://risis.eu/eter_2014/resource/FR0202................... m........................................................... 
+	http://risis.eu/eter_2014/resource/FR0202................... Observatoire de Paris....................................... 
+	http://risis.eu/orgref_20170703/resource/449760............. http://en.wikipedia.org/wiki?curid=449760................... 
+	http://risis.eu/orgref_20170703/resource/449760............. http://www.wikidata.org/wiki/Q461340........................ 
+	http://risis.eu/orgref_20170703/resource/449760............. Paris Observatory........................................... 
+	http://www.grid.ac/institutes/grid.4307.0................... 2.336502.................................................... 
+	http://www.grid.ac/institutes/grid.4307.0................... 48.835903................................................... 
+	http://www.grid.ac/institutes/grid.4307.0................... https://www.obspm.fr/?lang=en............................... 
+	http://www.grid.ac/institutes/grid.4307.0................... Observatoire de Paris-Meudon................................ 
+	http://www.grid.ac/institutes/grid.4307.0................... Paris Observatory........................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:FR0202', '1:participant_999623122'), ('2:FR0202', '3:449760'), ('3:449760', '1:participant_999623122'), ('4:grid.4307.0', '3:449760')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

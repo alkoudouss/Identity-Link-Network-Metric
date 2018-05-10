@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 12656 
+NAME    N1772137807
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/453760>
+	<http://risis.eu/orgreg_20170718/resource/IT0087>
+	<http://risis.eu/leidenRanking_2015/resource/456>
+	<http://www.grid.ac/institutes/grid.5133.4>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/453760.. http://www.grid.ac/institutes/grid.5133.4........ 1................................................ [University of Trieste] was compared to [University of Trieste] 
+	http://www.grid.ac/institutes/grid.5133.4........ http://risis.eu/orgref_20170703/resource/453760.. 1................................................ [University of Trieste] was compared to [University of Trieste] 
+	http://risis.eu/leidenRanking_2015/resource/456.. http://www.grid.ac/institutes/grid.5133.4........ 1................................................ [University of Trieste] was compared to [University of Trieste] 
+	http://www.grid.ac/institutes/grid.5133.4........ http://risis.eu/leidenRanking_2015/resource/456.. 1................................................ [University of Trieste] was compared to [University of Trieste] 
+	http://risis.eu/orgref_20170703/resource/453760.. http://risis.eu/leidenRanking_2015/resource/456.. 1................................................ [University of Trieste] was compared to [University of Trieste] 
+	http://risis.eu/leidenRanking_2015/resource/456.. http://risis.eu/orgref_20170703/resource/453760.. 1................................................ [University of Trieste] was compared to [University of Trieste] 
+	http://risis.eu/orgreg_20170718/resource/IT0087.. http://risis.eu/leidenRanking_2015/resource/456.. 1................................................ [University of Trieste] was compared to [University of Trieste] 
+	http://risis.eu/leidenRanking_2015/resource/456.. http://risis.eu/orgreg_20170718/resource/IT0087.. 1................................................ [University of Trieste] was compared to [University of Trieste] 
+	http://risis.eu/orgref_20170703/resource/453760.. http://risis.eu/orgreg_20170718/resource/IT0087.. 1................................................ [University of Trieste] was compared to [University of Trieste] 
+	http://risis.eu/orgreg_20170718/resource/IT0087.. http://risis.eu/orgref_20170703/resource/453760.. 1................................................ [University of Trieste] was compared to [University of Trieste] 
+	http://risis.eu/orgreg_20170718/resource/IT0087.. http://www.grid.ac/institutes/grid.5133.4........ 1................................................ [University of Trieste] was compared to [University of Trieste] 
+	http://www.grid.ac/institutes/grid.5133.4........ http://risis.eu/orgreg_20170718/resource/IT0087.. 1................................................ [University of Trieste] was compared to [University of Trieste] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/453760.. http://en.wikipedia.org/wiki?curid=453760........ 
+	http://risis.eu/orgref_20170703/resource/453760.. http://www.wikidata.org/wiki/Q1751060............ 
+	http://risis.eu/orgref_20170703/resource/453760.. http://www.units.it.............................. 
+	http://risis.eu/orgref_20170703/resource/453760.. University of Trieste............................ 
+	http://risis.eu/orgreg_20170718/resource/IT0087.. 45.662471........................................ 
+	http://risis.eu/orgreg_20170718/resource/IT0087.. 13.797271........................................ 
+	http://risis.eu/orgreg_20170718/resource/IT0087.. http://www.units.it.............................. 
+	http://risis.eu/orgreg_20170718/resource/IT0087.. University of Trieste............................ 
+	http://risis.eu/leidenRanking_2015/resource/456.. University of Trieste............................ 
+	http://www.grid.ac/institutes/grid.5133.4........ 13.79318......................................... 
+	http://www.grid.ac/institutes/grid.5133.4........ 45.6585.......................................... 
+	http://www.grid.ac/institutes/grid.5133.4........ http://www.units.it/............................. 
+	http://www.grid.ac/institutes/grid.5133.4........ University of Trieste............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:453760', '4:grid.5133.4'), ('2:IT0087', '1:453760'), ('3:456', '1:453760'), ('3:456', '2:IT0087'), ('3:456', '4:grid.5133.4'), ('4:grid.5133.4', '2:IT0087')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

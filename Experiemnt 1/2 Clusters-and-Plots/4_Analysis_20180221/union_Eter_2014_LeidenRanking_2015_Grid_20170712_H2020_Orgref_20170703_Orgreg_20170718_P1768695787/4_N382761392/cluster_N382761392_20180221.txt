@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 16332 
+NAME    N382761392
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.443843.c>
+	<http://risis.eu/orgref_20170703/resource/6153180>
+	<http://risis.eu/orgref_20170703/resource/37087029>
+	<http://www.grid.ac/institutes/grid.473246.0>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.443843.c........ http://www.grid.ac/institutes/grid.473246.0........ 1.................................................. [Department of Agriculture] was compared to [Department of Agriculture] 
+	http://www.grid.ac/institutes/grid.473246.0........ http://www.grid.ac/institutes/grid.443843.c........ 1.................................................. [Department of Agriculture] was compared to [Department of Agriculture] 
+	http://www.grid.ac/institutes/grid.443843.c........ http://risis.eu/orgref_20170703/resource/6153180... 1.................................................. [Department of Agriculture] was compared to [Department of Agriculture (Philippines)] 
+	http://risis.eu/orgref_20170703/resource/6153180... http://www.grid.ac/institutes/grid.443843.c........ 1.................................................. [Department of Agriculture] was compared to [Department of Agriculture (Philippines)] 
+	http://www.grid.ac/institutes/grid.443843.c........ http://risis.eu/orgref_20170703/resource/37087029.. 1.................................................. [Department of Agriculture] was compared to [Department of Agriculture (Tamil Nadu)] 
+	http://risis.eu/orgref_20170703/resource/37087029.. http://www.grid.ac/institutes/grid.443843.c........ 1.................................................. [Department of Agriculture] was compared to [Department of Agriculture (Tamil Nadu)] 
+	http://risis.eu/orgref_20170703/resource/6153180... http://www.grid.ac/institutes/grid.473246.0........ 1.................................................. [Department of Agriculture] was compared to [Department of Agriculture (Philippines)] 
+	http://www.grid.ac/institutes/grid.473246.0........ http://risis.eu/orgref_20170703/resource/6153180... 1.................................................. [Department of Agriculture] was compared to [Department of Agriculture (Philippines)] 
+	http://risis.eu/orgref_20170703/resource/37087029.. http://www.grid.ac/institutes/grid.473246.0........ 1.................................................. [Department of Agriculture] was compared to [Department of Agriculture (Tamil Nadu)] 
+	http://www.grid.ac/institutes/grid.473246.0........ http://risis.eu/orgref_20170703/resource/37087029.. 1.................................................. [Department of Agriculture] was compared to [Department of Agriculture (Tamil Nadu)] 
+	http://risis.eu/orgref_20170703/resource/6153180... http://risis.eu/orgref_20170703/resource/37087029.. 1.................................................. [Department of Agriculture (Tamil Nadu)] was compared to [Department of Agriculture (Philippines)] 
+	http://risis.eu/orgref_20170703/resource/37087029.. http://risis.eu/orgref_20170703/resource/6153180... 1.................................................. [Department of Agriculture (Tamil Nadu)] was compared to [Department of Agriculture (Philippines)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.443843.c........ Department of Agriculture.......................... 
+	http://risis.eu/orgref_20170703/resource/6153180... http://en.wikipedia.org/wiki?curid=6153180......... 
+	http://risis.eu/orgref_20170703/resource/6153180... http://www.wikidata.org/wiki/Q5260142.............. 
+	http://risis.eu/orgref_20170703/resource/6153180... http://www.da.gov.ph............................... 
+	http://risis.eu/orgref_20170703/resource/6153180... Department of Agriculture (Philippines)............ 
+	http://risis.eu/orgref_20170703/resource/37087029.. http://en.wikipedia.org/wiki?curid=37087029........ 
+	http://risis.eu/orgref_20170703/resource/37087029.. http://www.wikidata.org/wiki/Q5260139.............. 
+	http://risis.eu/orgref_20170703/resource/37087029.. http://www.tn.gov.in/department/2.................. 
+	http://risis.eu/orgref_20170703/resource/37087029.. Department of Agriculture (Tamil Nadu)............. 
+	http://www.grid.ac/institutes/grid.473246.0........ -88.19551.......................................... 
+	http://www.grid.ac/institutes/grid.473246.0........ 17.529537.......................................... 
+	http://www.grid.ac/institutes/grid.473246.0........ http://www.agriculture.gov.bz/Agriculture_Dept.html 
+	http://www.grid.ac/institutes/grid.473246.0........ Department of Agriculture.......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:6153180', '1:grid.443843.c'), ('3:37087029', '1:grid.443843.c'), ('3:37087029', '2:6153180'), ('3:37087029', '4:grid.473246.0'), ('4:grid.473246.0', '1:grid.443843.c'), ('4:grid.473246.0', '2:6153180')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

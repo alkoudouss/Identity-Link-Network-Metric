@@ -1,0 +1,57 @@
+SIZE    6   
+CLUSTER 14032 
+NAME    N1779940682
+
+RESOURCES INVOLVED
+	<http://risis.eu/cordisH2020/resource/participant_941012521>
+	<http://risis.eu/cordisH2020/resource/participant_950148078>
+	<http://risis.eu/cordisH2020/resource/participant_938721769>
+	<http://risis.eu/cordisH2020/resource/participant_999779389>
+	<http://risis.eu/cordisH2020/resource/participant_999781814>
+	<http://risis.eu/cordisH2020/resource/participant_999909078>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_999779389.. http://risis.eu/cordisH2020/resource/participant_999781814.. 0.814814814815.............................................. [CHAMBRE DE COMMERCE ET D'INDUSTRIE REGION AUVERGNE] was compared to [CHAMBRE DE COMMERCE ET D'INDUSTRIEDE REGION HAUTE-NORMANDIE] 
+	http://risis.eu/cordisH2020/resource/participant_999781814.. http://risis.eu/cordisH2020/resource/participant_999779389.. 0.814814814815.............................................. [CHAMBRE DE COMMERCE ET D'INDUSTRIE REGION AUVERGNE] was compared to [CHAMBRE DE COMMERCE ET D'INDUSTRIEDE REGION HAUTE-NORMANDIE] 
+	http://risis.eu/cordisH2020/resource/participant_941012521.. http://risis.eu/cordisH2020/resource/participant_950148078.. 0.851063829787.............................................. [CHAMBRE DE COMMERCE ET DE L'INDUSTRIE REGION ALSACE] was compared to [CHAMBRE DE COMMERCE ET D'INDUSTRIE DE REGION AQUITAINE] 
+	http://risis.eu/cordisH2020/resource/participant_950148078.. http://risis.eu/cordisH2020/resource/participant_941012521.. 0.851063829787.............................................. [CHAMBRE DE COMMERCE ET DE L'INDUSTRIE REGION ALSACE] was compared to [CHAMBRE DE COMMERCE ET D'INDUSTRIE DE REGION AQUITAINE] 
+	http://risis.eu/cordisH2020/resource/participant_941012521.. http://risis.eu/cordisH2020/resource/participant_999909078.. 0.847826086957.............................................. [CHAMBRE DE COMMERCE ET DE L'INDUSTRIE REGION ALSACE] was compared to [CHAMBRE DE COMMERCE ET D'INDUSTRIE DE REGION BRETAGNE] 
+	http://risis.eu/cordisH2020/resource/participant_999909078.. http://risis.eu/cordisH2020/resource/participant_941012521.. 0.847826086957.............................................. [CHAMBRE DE COMMERCE ET DE L'INDUSTRIE REGION ALSACE] was compared to [CHAMBRE DE COMMERCE ET D'INDUSTRIE DE REGION BRETAGNE] 
+	http://risis.eu/cordisH2020/resource/participant_941012521.. http://risis.eu/cordisH2020/resource/participant_999779389.. 0.847826086957.............................................. [CHAMBRE DE COMMERCE ET DE L'INDUSTRIE REGION ALSACE] was compared to [CHAMBRE DE COMMERCE ET D'INDUSTRIE REGION AUVERGNE] 
+	http://risis.eu/cordisH2020/resource/participant_999779389.. http://risis.eu/cordisH2020/resource/participant_941012521.. 0.847826086957.............................................. [CHAMBRE DE COMMERCE ET DE L'INDUSTRIE REGION ALSACE] was compared to [CHAMBRE DE COMMERCE ET D'INDUSTRIE REGION AUVERGNE] 
+	http://risis.eu/cordisH2020/resource/participant_941012521.. http://risis.eu/cordisH2020/resource/participant_938721769.. 0.847826086957.............................................. [CHAMBRE DE COMMERCE ET D'INDUSTRIE DE REGION PICARDIE] was compared to [CHAMBRE DE COMMERCE ET DE L'INDUSTRIE REGION ALSACE] 
+	http://risis.eu/cordisH2020/resource/participant_938721769.. http://risis.eu/cordisH2020/resource/participant_941012521.. 0.847826086957.............................................. [CHAMBRE DE COMMERCE ET D'INDUSTRIE DE REGION PICARDIE] was compared to [CHAMBRE DE COMMERCE ET DE L'INDUSTRIE REGION ALSACE] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_941012521.. CHAMBRE DE COMMERCE ET DE L'INDUSTRIE REGION ALSACE......... 
+	http://risis.eu/cordisH2020/resource/participant_950148078.. CHAMBRE DE COMMERCE ET D'INDUSTRIE DE REGION AQUITAINE...... 
+	http://risis.eu/cordisH2020/resource/participant_938721769.. CHAMBRE DE COMMERCE ET D'INDUSTRIE DE REGION PICARDIE....... 
+	http://risis.eu/cordisH2020/resource/participant_999779389.. CHAMBRE DE COMMERCE ET D'INDUSTRIE REGION AUVERGNE.......... 
+	http://risis.eu/cordisH2020/resource/participant_999781814.. CHAMBRE DE COMMERCE ET D'INDUSTRIEDE REGION HAUTE-NORMANDIE. 
+	http://risis.eu/cordisH2020/resource/participant_999909078.. CHAMBRE DE COMMERCE ET D'INDUSTRIE DE REGION BRETAGNE....... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_950148078', '1:participant_941012521'), ('3:participant_938721769', '1:participant_941012521'), ('4:participant_999779389', '1:participant_941012521'), ('5:participant_999781814', '4:participant_999779389'), ('6:participant_999909078', '1:participant_941012521')]
+	MAX DISTANCE:                   : 0.333
+	MAXIMUM POSSIBLE CONNECTIVITY   : 5
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.2
+	BRIDGES                         : 5
+	CLOSURE                         : 0.333
+	DIAMETER                        : 3
+	QUALITY                         : 0.723
+	QUALITY USED                    : 0.742
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.67 DIAMETER 0.5 QUALITY 0.723 QUALITY USED 0.742
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.67 DIAMETER 0.556 QUALITY 0.723 QUALITY USED 0.742

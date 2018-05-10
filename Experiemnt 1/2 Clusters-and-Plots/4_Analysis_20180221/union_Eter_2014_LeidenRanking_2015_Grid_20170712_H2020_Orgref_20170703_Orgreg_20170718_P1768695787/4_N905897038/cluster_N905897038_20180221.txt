@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 4848 
+NAME    N905897038
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.413709.8>
+	<http://risis.eu/leidenRanking_2015/resource/1671>
+	<http://risis.eu/orgref_20170703/resource/4944591>
+	<http://www.grid.ac/institutes/grid.413629.b>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/4944591.. http://www.grid.ac/institutes/grid.413629.b....... 1................................................. [Hammersmith Hospital] was compared to [Hammersmith Hospital] 
+	http://www.grid.ac/institutes/grid.413629.b....... http://risis.eu/orgref_20170703/resource/4944591.. 1................................................. [Hammersmith Hospital] was compared to [Hammersmith Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1671.. http://www.grid.ac/institutes/grid.413629.b....... 1................................................. [Hammersmith Hospital] was compared to [Hammersmith Hospital] 
+	http://www.grid.ac/institutes/grid.413629.b....... http://risis.eu/leidenRanking_2015/resource/1671.. 1................................................. [Hammersmith Hospital] was compared to [Hammersmith Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1671.. http://risis.eu/orgref_20170703/resource/4944591.. 1................................................. [Hammersmith Hospital] was compared to [Hammersmith Hospital] 
+	http://risis.eu/orgref_20170703/resource/4944591.. http://risis.eu/leidenRanking_2015/resource/1671.. 1................................................. [Hammersmith Hospital] was compared to [Hammersmith Hospital] 
+	http://www.grid.ac/institutes/grid.413709.8....... http://www.grid.ac/institutes/grid.413629.b....... 0.8............................................... [Hammersmith Hospital] was compared to [Hammerfest Hospital] 
+	http://www.grid.ac/institutes/grid.413629.b....... http://www.grid.ac/institutes/grid.413709.8....... 0.8............................................... [Hammersmith Hospital] was compared to [Hammerfest Hospital] 
+	http://www.grid.ac/institutes/grid.413709.8....... http://risis.eu/orgref_20170703/resource/4944591.. 0.8............................................... [Hammerfest Hospital] was compared to [Hammersmith Hospital] 
+	http://risis.eu/orgref_20170703/resource/4944591.. http://www.grid.ac/institutes/grid.413709.8....... 0.8............................................... [Hammerfest Hospital] was compared to [Hammersmith Hospital] 
+	http://www.grid.ac/institutes/grid.413709.8....... http://risis.eu/leidenRanking_2015/resource/1671.. 0.8............................................... [Hammerfest Hospital] was compared to [Hammersmith Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1671.. http://www.grid.ac/institutes/grid.413709.8....... 0.8............................................... [Hammerfest Hospital] was compared to [Hammersmith Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.413709.8....... 23.672415......................................... 
+	http://www.grid.ac/institutes/grid.413709.8....... 70.67274.......................................... 
+	http://www.grid.ac/institutes/grid.413709.8....... https://finnmarkssykehuset.no/steder/hammerfest-sykehus-hammarfeastta-buohcciviessu 
+	http://www.grid.ac/institutes/grid.413709.8....... Hammerfest Hospital............................... 
+	http://risis.eu/leidenRanking_2015/resource/1671.. Hammersmith Hospital.............................. 
+	http://risis.eu/orgref_20170703/resource/4944591.. http://en.wikipedia.org/wiki?curid=4944591........ 
+	http://risis.eu/orgref_20170703/resource/4944591.. http://www.wikidata.org/wiki/Q5645747............. 
+	http://risis.eu/orgref_20170703/resource/4944591.. http://www.imperial.nhs.uk/hammersmith............ 
+	http://risis.eu/orgref_20170703/resource/4944591.. Hammersmith Hospital.............................. 
+	http://www.grid.ac/institutes/grid.413629.b....... -0.237499......................................... 
+	http://www.grid.ac/institutes/grid.413629.b....... 51.51636.......................................... 
+	http://www.grid.ac/institutes/grid.413629.b....... http://www.imperial.nhs.uk/hammersmith/index.htm.. 
+	http://www.grid.ac/institutes/grid.413629.b....... Military Orthopaedic Hospital..................... 
+	http://www.grid.ac/institutes/grid.413629.b....... Hammersmith Hospital.............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1671', '1:grid.413709.8'), ('2:1671', '3:4944591'), ('2:1671', '4:grid.413629.b'), ('3:4944591', '1:grid.413709.8'), ('3:4944591', '4:grid.413629.b'), ('4:grid.413629.b', '1:grid.413709.8')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

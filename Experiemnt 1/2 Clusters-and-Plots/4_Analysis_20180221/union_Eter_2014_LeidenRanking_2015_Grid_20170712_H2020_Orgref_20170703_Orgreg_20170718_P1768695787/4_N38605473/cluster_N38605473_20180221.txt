@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 14787 
+NAME    N38605473
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.28455.3e>
+	<http://risis.eu/cordisH2020/resource/participant_999891133>
+	<http://risis.eu/eter_2014/resource/TR0140>
+	<http://risis.eu/orgref_20170703/resource/7935713>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.28455.3e................. http://risis.eu/orgref_20170703/resource/7935713............ 1........................................................... [Kadir Has University] was compared to [Kadir Has University] 
+	http://risis.eu/orgref_20170703/resource/7935713............ http://www.grid.ac/institutes/grid.28455.3e................. 1........................................................... [Kadir Has University] was compared to [Kadir Has University] 
+	http://www.grid.ac/institutes/grid.28455.3e................. http://risis.eu/eter_2014/resource/TR0140................... 0.863636363636.............................................. [Kadir Has University] was compared to [KADIR HAS ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0140................... http://www.grid.ac/institutes/grid.28455.3e................. 0.863636363636.............................................. [Kadir Has University] was compared to [KADIR HAS ÜNIVERSITESI] 
+	http://www.grid.ac/institutes/grid.28455.3e................. http://risis.eu/cordisH2020/resource/participant_999891133.. 0.863636363636.............................................. [Kadir Has University] was compared to [KADIR HAS UNIVERSITESI] 
+	http://risis.eu/cordisH2020/resource/participant_999891133.. http://www.grid.ac/institutes/grid.28455.3e................. 0.863636363636.............................................. [Kadir Has University] was compared to [KADIR HAS UNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0140................... http://risis.eu/orgref_20170703/resource/7935713............ 0.863636363636.............................................. [Kadir Has University] was compared to [KADIR HAS ÜNIVERSITESI] 
+	http://risis.eu/orgref_20170703/resource/7935713............ http://risis.eu/eter_2014/resource/TR0140................... 0.863636363636.............................................. [Kadir Has University] was compared to [KADIR HAS ÜNIVERSITESI] 
+	http://risis.eu/cordisH2020/resource/participant_999891133.. http://risis.eu/orgref_20170703/resource/7935713............ 0.863636363636.............................................. [Kadir Has University] was compared to [KADIR HAS UNIVERSITESI] 
+	http://risis.eu/orgref_20170703/resource/7935713............ http://risis.eu/cordisH2020/resource/participant_999891133.. 0.863636363636.............................................. [Kadir Has University] was compared to [KADIR HAS UNIVERSITESI] 
+	http://risis.eu/cordisH2020/resource/participant_999891133.. http://risis.eu/eter_2014/resource/TR0140................... 1........................................................... [KADIR HAS UNIVERSITESI] was compared to [KADIR HAS ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0140................... http://risis.eu/cordisH2020/resource/participant_999891133.. 1........................................................... [KADIR HAS UNIVERSITESI] was compared to [KADIR HAS ÜNIVERSITESI] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.28455.3e................. 28.380556................................................... 
+	http://www.grid.ac/institutes/grid.28455.3e................. 41.052223................................................... 
+	http://www.grid.ac/institutes/grid.28455.3e................. http://www.khas.edu.tr/..................................... 
+	http://www.grid.ac/institutes/grid.28455.3e................. Kadir Has Üniversitesi..................................... 
+	http://www.grid.ac/institutes/grid.28455.3e................. Kadir Has University........................................ 
+	http://risis.eu/cordisH2020/resource/participant_999891133.. KADIR HAS UNIVERSITESI...................................... 
+	http://risis.eu/eter_2014/resource/TR0140................... 41,022981................................................... 
+	http://risis.eu/eter_2014/resource/TR0140................... 28,95432.................................................... 
+	http://risis.eu/eter_2014/resource/TR0140................... http://www.khas.edu.tr...................................... 
+	http://risis.eu/eter_2014/resource/TR0140................... a........................................................... 
+	http://risis.eu/eter_2014/resource/TR0140................... Kadir Has University........................................ 
+	http://risis.eu/eter_2014/resource/TR0140................... KADIR HAS ÜNIVERSITESI..................................... 
+	http://risis.eu/orgref_20170703/resource/7935713............ http://en.wikipedia.org/wiki?curid=7935713.................. 
+	http://risis.eu/orgref_20170703/resource/7935713............ http://www.wikidata.org/wiki/Q3242620....................... 
+	http://risis.eu/orgref_20170703/resource/7935713............ http://www.khas.edu.tr...................................... 
+	http://risis.eu/orgref_20170703/resource/7935713............ Kadir Has University........................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_999891133', '1:grid.28455.3e'), ('2:participant_999891133', '4:7935713'), ('3:TR0140', '1:grid.28455.3e'), ('3:TR0140', '2:participant_999891133'), ('4:7935713', '1:grid.28455.3e'), ('4:7935713', '3:TR0140')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

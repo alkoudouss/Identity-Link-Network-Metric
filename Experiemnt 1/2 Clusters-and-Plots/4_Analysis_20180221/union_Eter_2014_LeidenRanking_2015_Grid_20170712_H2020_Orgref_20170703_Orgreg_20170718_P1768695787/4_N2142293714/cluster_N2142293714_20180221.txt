@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 13027 
+NAME    N2142293714
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/14691593>
+	<http://risis.eu/orgreg_20170718/resource/NO0033>
+	<http://risis.eu/orgref_20170703/resource/7406757>
+	<http://risis.eu/orgreg_20170718/resource/NO0023>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgreg_20170718/resource/NO0033.... http://risis.eu/orgreg_20170718/resource/NO0023.... 0.888888888889..................................... [Hedmark University College] was compared to [Telemark University College] 
+	http://risis.eu/orgreg_20170718/resource/NO0023.... http://risis.eu/orgreg_20170718/resource/NO0033.... 0.888888888889..................................... [Hedmark University College] was compared to [Telemark University College] 
+	http://risis.eu/orgref_20170703/resource/14691593.. http://risis.eu/orgref_20170703/resource/7406757... 0.888888888889..................................... [Hedmark University College] was compared to [Telemark University College] 
+	http://risis.eu/orgref_20170703/resource/7406757... http://risis.eu/orgref_20170703/resource/14691593.. 0.888888888889..................................... [Hedmark University College] was compared to [Telemark University College] 
+	http://risis.eu/orgref_20170703/resource/14691593.. http://risis.eu/orgreg_20170718/resource/NO0023.... 1.................................................. [Hedmark University College] was compared to [Hedmark University College] 
+	http://risis.eu/orgreg_20170718/resource/NO0023.... http://risis.eu/orgref_20170703/resource/14691593.. 1.................................................. [Hedmark University College] was compared to [Hedmark University College] 
+	http://risis.eu/orgref_20170703/resource/14691593.. http://risis.eu/orgreg_20170718/resource/NO0033.... 0.888888888889..................................... [Hedmark University College] was compared to [Telemark University College] 
+	http://risis.eu/orgreg_20170718/resource/NO0033.... http://risis.eu/orgref_20170703/resource/14691593.. 0.888888888889..................................... [Hedmark University College] was compared to [Telemark University College] 
+	http://risis.eu/orgref_20170703/resource/7406757... http://risis.eu/orgreg_20170718/resource/NO0023.... 0.888888888889..................................... [Telemark University College] was compared to [Hedmark University College] 
+	http://risis.eu/orgreg_20170718/resource/NO0023.... http://risis.eu/orgref_20170703/resource/7406757... 0.888888888889..................................... [Telemark University College] was compared to [Hedmark University College] 
+	http://risis.eu/orgreg_20170718/resource/NO0033.... http://risis.eu/orgref_20170703/resource/7406757... 1.................................................. [Telemark University College] was compared to [Telemark University College] 
+	http://risis.eu/orgref_20170703/resource/7406757... http://risis.eu/orgreg_20170718/resource/NO0033.... 1.................................................. [Telemark University College] was compared to [Telemark University College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/14691593.. http://en.wikipedia.org/wiki?curid=14691593........ 
+	http://risis.eu/orgref_20170703/resource/14691593.. http://www.wikidata.org/wiki/Q1468783.............. 
+	http://risis.eu/orgref_20170703/resource/14691593.. http://english.hihm.no............................. 
+	http://risis.eu/orgref_20170703/resource/14691593.. Hedmark University College......................... 
+	http://risis.eu/orgreg_20170718/resource/NO0033.... 9.6555147.......................................... 
+	http://risis.eu/orgreg_20170718/resource/NO0033.... 59.1385567......................................... 
+	http://risis.eu/orgreg_20170718/resource/NO0033.... http://www.hit.no/eng.............................. 
+	http://risis.eu/orgreg_20170718/resource/NO0033.... Telemark University College........................ 
+	http://risis.eu/orgref_20170703/resource/7406757... http://en.wikipedia.org/wiki?curid=7406757......... 
+	http://risis.eu/orgref_20170703/resource/7406757... http://www.wikidata.org/wiki/Q1368733.............. 
+	http://risis.eu/orgref_20170703/resource/7406757... http://www.hit.no/eng.............................. 
+	http://risis.eu/orgref_20170703/resource/7406757... Telemark University College........................ 
+	http://risis.eu/orgreg_20170718/resource/NO0023.... 11.558105.......................................... 
+	http://risis.eu/orgreg_20170718/resource/NO0023.... 60.885483.......................................... 
+	http://risis.eu/orgreg_20170718/resource/NO0023.... http://www.hihm.no/English......................... 
+	http://risis.eu/orgreg_20170718/resource/NO0023.... Hedmark University College......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:NO0033', '1:14691593'), ('2:NO0033', '3:7406757'), ('3:7406757', '1:14691593'), ('4:NO0023', '1:14691593'), ('4:NO0023', '2:NO0033'), ('4:NO0023', '3:7406757')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

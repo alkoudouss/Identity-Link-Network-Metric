@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 997 
+NAME    N461484072
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.15649.3f>
+	<http://risis.eu/eter_2014/resource/DE0365>
+	<http://www.grid.ac/institutes/grid.477845.d>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.15649.3f.. http://risis.eu/eter_2014/resource/DE0365.... 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/DE0365.... http://www.grid.ac/institutes/grid.15649.3f.. 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/DE0365.... http://www.grid.ac/institutes/grid.477845.d.. 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://www.grid.ac/institutes/grid.477845.d.. http://risis.eu/eter_2014/resource/DE0365.... 1............................................ Near each other by at most 2000 meter(s)..... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.15649.3f.. 10.180141.................................... 
+	http://www.grid.ac/institutes/grid.15649.3f.. 54.327137.................................... 
+	http://www.grid.ac/institutes/grid.15649.3f.. http://www.geomar.de/en/..................... 
+	http://www.grid.ac/institutes/grid.15649.3f.. GEOMAR Helmholtz Centre for Ocean Research Kiel 
+	http://risis.eu/eter_2014/resource/DE0365.... 54,33551..................................... 
+	http://risis.eu/eter_2014/resource/DE0365.... 10,190194.................................... 
+	http://risis.eu/eter_2014/resource/DE0365.... www.fh-kiel.de............................... 
+	http://risis.eu/eter_2014/resource/DE0365.... a............................................ 
+	http://risis.eu/eter_2014/resource/DE0365.... Kiel University of Applied Sciences.......... 
+	http://risis.eu/eter_2014/resource/DE0365.... Fachhochschule Kiel.......................... 
+	http://www.grid.ac/institutes/grid.477845.d.. 10.183028.................................... 
+	http://www.grid.ac/institutes/grid.477845.d.. 54.329144.................................... 
+	http://www.grid.ac/institutes/grid.477845.d.. http://www.schmerzklinik.de/................. 
+	http://www.grid.ac/institutes/grid.477845.d.. Schmerzklinik Kiel........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('P1769837873-DE0365', 'P669107301-grid.477845.d'), ('P1769837873-DE0365', 'N461484072-grid.15649.3f')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

@@ -1,0 +1,53 @@
+SIZE    3   
+CLUSTER 173 
+NAME    N2131229809
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.415313.1>
+	<http://risis.eu/orgreg_20170718/resource/NO2009>
+	<http://risis.eu/orgreg_20170718/resource/NO2007>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.415313.1...... http://risis.eu/orgreg_20170718/resource/NO2007.. 1................................................ Near each other by at most 500 meter(s).......... 
+	http://www.grid.ac/institutes/grid.415313.1...... http://risis.eu/orgreg_20170718/resource/NO2009.. 1................................................ Near each other by at most 500 meter(s).......... 
+	http://risis.eu/orgreg_20170718/resource/NO2009.. http://www.grid.ac/institutes/grid.415313.1...... 1................................................ Near each other by at most 500 meter(s).......... 
+	http://risis.eu/orgreg_20170718/resource/NO2007.. http://www.grid.ac/institutes/grid.415313.1...... 1................................................ Near each other by at most 500 meter(s).......... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.415313.1...... 10.720319........................................ 
+	http://www.grid.ac/institutes/grid.415313.1...... 59.952053........................................ 
+	http://www.grid.ac/institutes/grid.415313.1...... Gaustad Hospital................................. 
+	http://risis.eu/orgreg_20170718/resource/NO2009.. 10.72042......................................... 
+	http://risis.eu/orgreg_20170718/resource/NO2009.. 59.95434......................................... 
+	http://risis.eu/orgreg_20170718/resource/NO2009.. a................................................ 
+	http://risis.eu/orgreg_20170718/resource/NO2009.. Rikshospitalet & Radium Hosp..................... 
+	http://risis.eu/orgreg_20170718/resource/NO2007.. 10.72042......................................... 
+	http://risis.eu/orgreg_20170718/resource/NO2007.. 59.95434......................................... 
+	http://risis.eu/orgreg_20170718/resource/NO2007.. http://www.oslo-universitetssykehus.no/.......... 
+	http://risis.eu/orgreg_20170718/resource/NO2007.. Oslo University Hospital......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('N2131229809-NO2007', 'P527773224-grid.415313.1'), ('N2117229787-NO2009', 'P527773224-grid.415313.1')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

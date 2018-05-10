@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 12797 
+NAME    N2129229815
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/12577616>
+	<http://risis.eu/orgreg_20170718/resource/NO2005>
+	<http://www.grid.ac/institutes/grid.412008.f>
+	<http://risis.eu/leidenRanking_2015/resource/1566>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/12577616.. http://www.grid.ac/institutes/grid.412008.f........ 1.................................................. [Haukeland University Hospital] was compared to [Haukeland University Hospital] 
+	http://www.grid.ac/institutes/grid.412008.f........ http://risis.eu/orgref_20170703/resource/12577616.. 1.................................................. [Haukeland University Hospital] was compared to [Haukeland University Hospital] 
+	http://www.grid.ac/institutes/grid.412008.f........ http://risis.eu/leidenRanking_2015/resource/1566... 1.................................................. [Haukeland University Hospital] was compared to [Haukeland University Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1566... http://www.grid.ac/institutes/grid.412008.f........ 1.................................................. [Haukeland University Hospital] was compared to [Haukeland University Hospital] 
+	http://risis.eu/orgref_20170703/resource/12577616.. http://risis.eu/leidenRanking_2015/resource/1566... 1.................................................. [Haukeland University Hospital] was compared to [Haukeland University Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1566... http://risis.eu/orgref_20170703/resource/12577616.. 1.................................................. [Haukeland University Hospital] was compared to [Haukeland University Hospital] 
+	http://risis.eu/orgreg_20170718/resource/NO2005.... http://risis.eu/leidenRanking_2015/resource/1566... 1.................................................. [Haukeland University Hospital] was compared to [Haukeland University Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1566... http://risis.eu/orgreg_20170718/resource/NO2005.... 1.................................................. [Haukeland University Hospital] was compared to [Haukeland University Hospital] 
+	http://risis.eu/orgref_20170703/resource/12577616.. http://risis.eu/orgreg_20170718/resource/NO2005.... 1.................................................. [Haukeland University Hospital] was compared to [Haukeland University Hospital] 
+	http://risis.eu/orgreg_20170718/resource/NO2005.... http://risis.eu/orgref_20170703/resource/12577616.. 1.................................................. [Haukeland University Hospital] was compared to [Haukeland University Hospital] 
+	http://risis.eu/orgreg_20170718/resource/NO2005.... http://www.grid.ac/institutes/grid.412008.f........ 1.................................................. [Haukeland University Hospital] was compared to [Haukeland University Hospital] 
+	http://www.grid.ac/institutes/grid.412008.f........ http://risis.eu/orgreg_20170718/resource/NO2005.... 1.................................................. [Haukeland University Hospital] was compared to [Haukeland University Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/12577616.. http://en.wikipedia.org/wiki?curid=12577616........ 
+	http://risis.eu/orgref_20170703/resource/12577616.. http://www.wikidata.org/wiki/Q1770239.............. 
+	http://risis.eu/orgref_20170703/resource/12577616.. http://www.helse-bergen.no/en/sider/default.aspx... 
+	http://risis.eu/orgref_20170703/resource/12577616.. Haukeland University Hospital...................... 
+	http://risis.eu/orgreg_20170718/resource/NO2005.... 5.359569........................................... 
+	http://risis.eu/orgreg_20170718/resource/NO2005.... 60.373914.......................................... 
+	http://risis.eu/orgreg_20170718/resource/NO2005.... http://www.helse-bergen.no/........................ 
+	http://risis.eu/orgreg_20170718/resource/NO2005.... Haukeland University Hospital...................... 
+	http://www.grid.ac/institutes/grid.412008.f........ 5.3587............................................. 
+	http://www.grid.ac/institutes/grid.412008.f........ 60.374............................................. 
+	http://www.grid.ac/institutes/grid.412008.f........ http://www.helse-bergen.no/no/Sider/default.aspx... 
+	http://www.grid.ac/institutes/grid.412008.f........ Haukeland universitetssykehus...................... 
+	http://www.grid.ac/institutes/grid.412008.f........ Haukeland University Hospital...................... 
+	http://risis.eu/leidenRanking_2015/resource/1566... Haukeland University Hospital...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:12577616', '3:grid.412008.f'), ('2:NO2005', '1:12577616'), ('3:grid.412008.f', '2:NO2005'), ('4:1566', '1:12577616'), ('4:1566', '2:NO2005'), ('4:1566', '3:grid.412008.f')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

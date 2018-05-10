@@ -1,0 +1,55 @@
+SIZE    4   
+CLUSTER 17661 
+NAME    N706828113
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.432353.0>
+	<http://risis.eu/cordisH2020/resource/participant_999811787>
+	<http://www.grid.ac/institutes/grid.423659.f>
+	<http://risis.eu/cordisH2020/resource/participant_954758488>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.432353.0................. http://www.grid.ac/institutes/grid.423659.f................. 1........................................................... [ADVA Optical Networking (Germany)] was compared to [Adva Optical Networking (Poland)] 
+	http://www.grid.ac/institutes/grid.423659.f................. http://www.grid.ac/institutes/grid.432353.0................. 1........................................................... [ADVA Optical Networking (Germany)] was compared to [Adva Optical Networking (Poland)] 
+	http://risis.eu/cordisH2020/resource/participant_999811787.. http://www.grid.ac/institutes/grid.423659.f................. 0.884615384615.............................................. [ADVA Optical Networking (Germany)] was compared to [ADVA OPTICAL NETWORKING SE] 
+	http://www.grid.ac/institutes/grid.423659.f................. http://risis.eu/cordisH2020/resource/participant_999811787.. 0.884615384615.............................................. [ADVA Optical Networking (Germany)] was compared to [ADVA OPTICAL NETWORKING SE] 
+	http://www.grid.ac/institutes/grid.432353.0................. http://risis.eu/cordisH2020/resource/participant_999811787.. 0.884615384615.............................................. [Adva Optical Networking (Poland)] was compared to [ADVA OPTICAL NETWORKING SE] 
+	http://risis.eu/cordisH2020/resource/participant_999811787.. http://www.grid.ac/institutes/grid.432353.0................. 0.884615384615.............................................. [Adva Optical Networking (Poland)] was compared to [ADVA OPTICAL NETWORKING SE] 
+	http://risis.eu/cordisH2020/resource/participant_999811787.. http://risis.eu/cordisH2020/resource/participant_954758488.. 0.806451612903.............................................. [ADVA OPTICAL NETWORKING LIMITED] was compared to [ADVA OPTICAL NETWORKING SE] 
+	http://risis.eu/cordisH2020/resource/participant_954758488.. http://risis.eu/cordisH2020/resource/participant_999811787.. 0.806451612903.............................................. [ADVA OPTICAL NETWORKING LIMITED] was compared to [ADVA OPTICAL NETWORKING SE] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.432353.0................. Adva Optical Networking (Poland)............................ 
+	http://risis.eu/cordisH2020/resource/participant_999811787.. http://risis.eu/cordisH2020/resource/www.advaoptical.com.... 
+	http://risis.eu/cordisH2020/resource/participant_999811787.. ADVA OPTICAL NETWORKING SE.................................. 
+	http://www.grid.ac/institutes/grid.423659.f................. 11.447998................................................... 
+	http://www.grid.ac/institutes/grid.423659.f................. 48.111324................................................... 
+	http://www.grid.ac/institutes/grid.423659.f................. http://www.advaoptical.com/en............................... 
+	http://www.grid.ac/institutes/grid.423659.f................. ADVA Optical Networking (Germany)........................... 
+	http://risis.eu/cordisH2020/resource/participant_954758488.. ADVA OPTICAL NETWORKING LIMITED............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_999811787', '1:grid.432353.0'), ('2:participant_999811787', '3:grid.423659.f'), ('3:grid.423659.f', '1:grid.432353.0'), ('4:participant_954758488', '2:participant_999811787')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

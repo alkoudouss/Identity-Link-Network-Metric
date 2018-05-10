@@ -1,0 +1,74 @@
+SIZE    5   
+CLUSTER 7458 
+NAME    N1630536124
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.460947.8>
+	<http://risis.eu/orgref_20170703/resource/2379156>
+	<http://www.grid.ac/institutes/grid.416044.3>
+	<http://risis.eu/orgref_20170703/resource/16998486>
+	<http://www.grid.ac/institutes/grid.459883.b>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.460947.8........ http://risis.eu/orgref_20170703/resource/2379156... 1.................................................. [Cooper Hospital] was compared to [Cooper Hospital] 
+	http://risis.eu/orgref_20170703/resource/2379156... http://www.grid.ac/institutes/grid.460947.8........ 1.................................................. [Cooper Hospital] was compared to [Cooper Hospital] 
+	http://risis.eu/orgref_20170703/resource/2379156... http://risis.eu/orgref_20170703/resource/16998486.. 0.866666666667..................................... [Cromer Hospital] was compared to [Cooper Hospital] 
+	http://risis.eu/orgref_20170703/resource/16998486.. http://risis.eu/orgref_20170703/resource/2379156... 0.866666666667..................................... [Cromer Hospital] was compared to [Cooper Hospital] 
+	http://www.grid.ac/institutes/grid.460947.8........ http://www.grid.ac/institutes/grid.416044.3........ 0.866666666667..................................... [Roper Hospital] was compared to [Cooper Hospital]. 
+	http://www.grid.ac/institutes/grid.416044.3........ http://www.grid.ac/institutes/grid.460947.8........ 0.866666666667..................................... [Roper Hospital] was compared to [Cooper Hospital]. 
+	http://www.grid.ac/institutes/grid.416044.3........ http://www.grid.ac/institutes/grid.459883.b........ 0.875.............................................. [Roper Hospital] was compared to [Prosper Hospital] 
+	http://www.grid.ac/institutes/grid.459883.b........ http://www.grid.ac/institutes/grid.416044.3........ 0.875.............................................. [Roper Hospital] was compared to [Prosper Hospital] 
+	http://risis.eu/orgref_20170703/resource/2379156... http://www.grid.ac/institutes/grid.416044.3........ 0.866666666667..................................... [Roper Hospital] was compared to [Cooper Hospital]. 
+	http://www.grid.ac/institutes/grid.416044.3........ http://risis.eu/orgref_20170703/resource/2379156... 0.866666666667..................................... [Roper Hospital] was compared to [Cooper Hospital]. 
+	http://www.grid.ac/institutes/grid.416044.3........ http://risis.eu/orgref_20170703/resource/16998486.. 0.866666666667..................................... [Roper Hospital] was compared to [Cromer Hospital]. 
+	http://risis.eu/orgref_20170703/resource/16998486.. http://www.grid.ac/institutes/grid.416044.3........ 0.866666666667..................................... [Roper Hospital] was compared to [Cromer Hospital]. 
+	http://www.grid.ac/institutes/grid.460947.8........ http://risis.eu/orgref_20170703/resource/16998486.. 0.866666666667..................................... [Cooper Hospital] was compared to [Cromer Hospital] 
+	http://risis.eu/orgref_20170703/resource/16998486.. http://www.grid.ac/institutes/grid.460947.8........ 0.866666666667..................................... [Cooper Hospital] was compared to [Cromer Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 20 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.460947.8........ 72.835556.......................................... 
+	http://www.grid.ac/institutes/grid.460947.8........ 19.107677.......................................... 
+	http://www.grid.ac/institutes/grid.460947.8........ http://www.coopermcgh.org/......................... 
+	http://www.grid.ac/institutes/grid.460947.8........ Cooper Hospital.................................... 
+	http://risis.eu/orgref_20170703/resource/2379156... http://en.wikipedia.org/wiki?curid=2379156......... 
+	http://risis.eu/orgref_20170703/resource/2379156... http://www.wikidata.org/wiki/Q5167777.............. 
+	http://risis.eu/orgref_20170703/resource/2379156... http://hbtmc.edu.in................................ 
+	http://risis.eu/orgref_20170703/resource/2379156... Cooper Hospital.................................... 
+	http://www.grid.ac/institutes/grid.416044.3........ -79.94959.......................................... 
+	http://www.grid.ac/institutes/grid.416044.3........ 32.7826............................................ 
+	http://www.grid.ac/institutes/grid.416044.3........ http://www.rsfh.com/roper-hospital/................ 
+	http://www.grid.ac/institutes/grid.416044.3........ Roper Hospital..................................... 
+	http://risis.eu/orgref_20170703/resource/16998486.. http://en.wikipedia.org/wiki?curid=16998486........ 
+	http://risis.eu/orgref_20170703/resource/16998486.. http://www.wikidata.org/wiki/Q5187593.............. 
+	http://risis.eu/orgref_20170703/resource/16998486.. http://www.nnuh.nhs.uk/page.asp?id=75.............. 
+	http://risis.eu/orgref_20170703/resource/16998486.. Cromer Hospital.................................... 
+	http://www.grid.ac/institutes/grid.459883.b........ 7.190282........................................... 
+	http://www.grid.ac/institutes/grid.459883.b........ 51.60726........................................... 
+	http://www.grid.ac/institutes/grid.459883.b........ http://www.prosper-hospital.de/.................... 
+	http://www.grid.ac/institutes/grid.459883.b........ Prosper Hospital................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:2379156', '1:grid.460947.8'), ('2:2379156', '3:grid.416044.3'), ('2:2379156', '4:16998486'), ('3:grid.416044.3', '1:grid.460947.8'), ('4:16998486', '1:grid.460947.8'), ('4:16998486', '3:grid.416044.3'), ('5:grid.459883.b', '3:grid.416044.3')]
+	MAX DISTANCE:                   : 0.7
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 2.2
+	AVERAGE NODE CONNECTIVITY RATIO : 0.55
+	BRIDGES                         : 1
+	CLOSURE                         : 0.7
+	DIAMETER                        : 2
+	QUALITY                         : 0.294
+	QUALITY USED                    : 0.357
+	SUMMARY 1: BRIDGE 0.25 CLOSURE 0.3 DIAMETER 0.333 QUALITY 0.294 QUALITY USED 0.357
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.3 DIAMETER 0.385 QUALITY 0.294 QUALITY USED 0.357

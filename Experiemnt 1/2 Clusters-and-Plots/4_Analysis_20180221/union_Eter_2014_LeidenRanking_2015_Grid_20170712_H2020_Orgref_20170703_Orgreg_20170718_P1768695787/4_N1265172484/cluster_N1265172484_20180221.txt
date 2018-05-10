@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 5313 
+NAME    N1265172484
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.469845.2>
+	<http://risis.eu/orgref_20170703/resource/1462736>
+	<http://risis.eu/orgref_20170703/resource/1462707>
+	<http://www.grid.ac/institutes/grid.420428.8>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.469845.2....... http://www.grid.ac/institutes/grid.420428.8....... 1................................................. [Glendale Community College] was compared to [Glendale Community College] 
+	http://www.grid.ac/institutes/grid.420428.8....... http://www.grid.ac/institutes/grid.469845.2....... 1................................................. [Glendale Community College] was compared to [Glendale Community College] 
+	http://www.grid.ac/institutes/grid.469845.2....... http://risis.eu/orgref_20170703/resource/1462736.. 1................................................. [Glendale Community College] was compared to [Glendale Community College (Arizona)] 
+	http://risis.eu/orgref_20170703/resource/1462736.. http://www.grid.ac/institutes/grid.469845.2....... 1................................................. [Glendale Community College] was compared to [Glendale Community College (Arizona)] 
+	http://www.grid.ac/institutes/grid.469845.2....... http://risis.eu/orgref_20170703/resource/1462707.. 1................................................. [Glendale Community College] was compared to [Glendale Community College (California)] 
+	http://risis.eu/orgref_20170703/resource/1462707.. http://www.grid.ac/institutes/grid.469845.2....... 1................................................. [Glendale Community College] was compared to [Glendale Community College (California)] 
+	http://risis.eu/orgref_20170703/resource/1462736.. http://www.grid.ac/institutes/grid.420428.8....... 1................................................. [Glendale Community College] was compared to [Glendale Community College (Arizona)] 
+	http://www.grid.ac/institutes/grid.420428.8....... http://risis.eu/orgref_20170703/resource/1462736.. 1................................................. [Glendale Community College] was compared to [Glendale Community College (Arizona)] 
+	http://risis.eu/orgref_20170703/resource/1462707.. http://www.grid.ac/institutes/grid.420428.8....... 1................................................. [Glendale Community College] was compared to [Glendale Community College (California)] 
+	http://www.grid.ac/institutes/grid.420428.8....... http://risis.eu/orgref_20170703/resource/1462707.. 1................................................. [Glendale Community College] was compared to [Glendale Community College (California)] 
+	http://risis.eu/orgref_20170703/resource/1462736.. http://risis.eu/orgref_20170703/resource/1462707.. 1................................................. [Glendale Community College (California)] was compared to [Glendale Community College (Arizona)] 
+	http://risis.eu/orgref_20170703/resource/1462707.. http://risis.eu/orgref_20170703/resource/1462736.. 1................................................. [Glendale Community College (California)] was compared to [Glendale Community College (Arizona)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.469845.2....... -112.19011........................................ 
+	http://www.grid.ac/institutes/grid.469845.2....... 33.57078.......................................... 
+	http://www.grid.ac/institutes/grid.469845.2....... http://www.gccaz.edu/............................. 
+	http://www.grid.ac/institutes/grid.469845.2....... Glendale Community College........................ 
+	http://risis.eu/orgref_20170703/resource/1462736.. http://en.wikipedia.org/wiki?curid=1462736........ 
+	http://risis.eu/orgref_20170703/resource/1462736.. http://www.wikidata.org/wiki/Q5568352............. 
+	http://risis.eu/orgref_20170703/resource/1462736.. http://www.gccaz.edu.............................. 
+	http://risis.eu/orgref_20170703/resource/1462736.. Glendale Community College (Arizona).............. 
+	http://risis.eu/orgref_20170703/resource/1462707.. http://en.wikipedia.org/wiki?curid=1462707........ 
+	http://risis.eu/orgref_20170703/resource/1462707.. http://www.wikidata.org/wiki/Q5568357............. 
+	http://risis.eu/orgref_20170703/resource/1462707.. http://www.glendale.edu........................... 
+	http://risis.eu/orgref_20170703/resource/1462707.. Glendale Community College (California)........... 
+	http://www.grid.ac/institutes/grid.420428.8....... -118.22838........................................ 
+	http://www.grid.ac/institutes/grid.420428.8....... 34.1664........................................... 
+	http://www.grid.ac/institutes/grid.420428.8....... http://www.glendale.edu/.......................... 
+	http://www.grid.ac/institutes/grid.420428.8....... Glendale Community College........................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1462736', '1:grid.469845.2'), ('2:1462736', '3:1462707'), ('2:1462736', '4:grid.420428.8'), ('3:1462707', '1:grid.469845.2'), ('3:1462707', '4:grid.420428.8'), ('4:grid.420428.8', '1:grid.469845.2')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,53 @@
+SIZE    3   
+CLUSTER 17856 
+NAME    N1272924006
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.31147.30>
+	<http://risis.eu/leidenRanking_2015/resource/7367>
+	<http://risis.eu/orgreg_20170718/resource/NL1017>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.31147.30....... http://risis.eu/leidenRanking_2015/resource/7367.. 0.95652173913..................................... [National Institute for Public Health and the Environment] was compared to [National Institute of Public Health & Environment] 
+	http://www.grid.ac/institutes/grid.31147.30....... http://risis.eu/orgreg_20170718/resource/NL1017... 1................................................. [National Institute for Public Health and the Environment] was compared to [National Institute of Public Health and the Environment] 
+	http://risis.eu/leidenRanking_2015/resource/7367.. http://www.grid.ac/institutes/grid.31147.30....... 0.95652173913..................................... [National Institute for Public Health and the Environment] was compared to [National Institute of Public Health & Environment] 
+	http://risis.eu/leidenRanking_2015/resource/7367.. http://risis.eu/orgreg_20170718/resource/NL1017... 0.95652173913..................................... [National Institute of Public Health and the Environment] was compared to [National Institute of Public Health & Environment] 
+	http://risis.eu/orgreg_20170718/resource/NL1017... http://risis.eu/leidenRanking_2015/resource/7367.. 0.95652173913..................................... [National Institute of Public Health and the Environment] was compared to [National Institute of Public Health & Environment] 
+	http://risis.eu/orgreg_20170718/resource/NL1017... http://www.grid.ac/institutes/grid.31147.30....... 1................................................. [National Institute for Public Health and the Environment] was compared to [National Institute of Public Health and the Environment] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 9 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.31147.30....... 5.189863.......................................... 
+	http://www.grid.ac/institutes/grid.31147.30....... 52.117775......................................... 
+	http://www.grid.ac/institutes/grid.31147.30....... http://www.rivm.nl/en/............................ 
+	http://www.grid.ac/institutes/grid.31147.30....... National Institute for Public Health and the Environment 
+	http://risis.eu/leidenRanking_2015/resource/7367.. National Institute of Public Health & Environment. 
+	http://risis.eu/orgreg_20170718/resource/NL1017... 5................................................. 
+	http://risis.eu/orgreg_20170718/resource/NL1017... 52................................................ 
+	http://risis.eu/orgreg_20170718/resource/NL1017... http://www.rivm.nl/en............................. 
+	http://risis.eu/orgreg_20170718/resource/NL1017... National Institute of Public Health and the Environment 
+
+NETWORK ANALYSIS
+	NETWORK [('N205918548-NL1017', 'P696520185-grid.31147.30'), ('N1272924006-7367', 'N205918548-NL1017'), ('N1272924006-7367', 'P696520185-grid.31147.30')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

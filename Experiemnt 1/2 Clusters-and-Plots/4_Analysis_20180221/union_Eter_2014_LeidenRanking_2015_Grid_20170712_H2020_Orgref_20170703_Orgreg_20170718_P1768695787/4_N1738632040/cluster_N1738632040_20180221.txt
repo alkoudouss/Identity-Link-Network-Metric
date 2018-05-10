@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 2135 
+NAME    N1738632040
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.466948.1>
+	<http://risis.eu/orgref_20170703/resource/2163522>
+	<http://www.grid.ac/institutes/grid.24488.32>
+	<http://www.grid.ac/institutes/grid.424745.4>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.466948.1....... http://www.grid.ac/institutes/grid.24488.32....... 1................................................. [Microsoft Research (United Kingdom)] was compared to [Microsoft Research (India)] 
+	http://www.grid.ac/institutes/grid.24488.32....... http://www.grid.ac/institutes/grid.466948.1....... 1................................................. [Microsoft Research (United Kingdom)] was compared to [Microsoft Research (India)] 
+	http://www.grid.ac/institutes/grid.24488.32....... http://www.grid.ac/institutes/grid.424745.4....... 1................................................. [Microsoft Research (United Kingdom)] was compared to [Microsoft Research (Germany)] 
+	http://www.grid.ac/institutes/grid.424745.4....... http://www.grid.ac/institutes/grid.24488.32....... 1................................................. [Microsoft Research (United Kingdom)] was compared to [Microsoft Research (Germany)] 
+	http://www.grid.ac/institutes/grid.466948.1....... http://www.grid.ac/institutes/grid.424745.4....... 1................................................. [Microsoft Research (Germany)] was compared to [Microsoft Research (India)] 
+	http://www.grid.ac/institutes/grid.424745.4....... http://www.grid.ac/institutes/grid.466948.1....... 1................................................. [Microsoft Research (Germany)] was compared to [Microsoft Research (India)] 
+	http://risis.eu/orgref_20170703/resource/2163522.. http://www.grid.ac/institutes/grid.24488.32....... 1................................................. [Microsoft Research (United Kingdom)] was compared to [Microsoft Research] 
+	http://www.grid.ac/institutes/grid.24488.32....... http://risis.eu/orgref_20170703/resource/2163522.. 1................................................. [Microsoft Research (United Kingdom)] was compared to [Microsoft Research] 
+	http://risis.eu/orgref_20170703/resource/2163522.. http://www.grid.ac/institutes/grid.424745.4....... 1................................................. [Microsoft Research (Germany)] was compared to [Microsoft Research] 
+	http://www.grid.ac/institutes/grid.424745.4....... http://risis.eu/orgref_20170703/resource/2163522.. 1................................................. [Microsoft Research (Germany)] was compared to [Microsoft Research] 
+	http://www.grid.ac/institutes/grid.466948.1....... http://risis.eu/orgref_20170703/resource/2163522.. 1................................................. [Microsoft Research (India)] was compared to [Microsoft Research] 
+	http://risis.eu/orgref_20170703/resource/2163522.. http://www.grid.ac/institutes/grid.466948.1....... 1................................................. [Microsoft Research (India)] was compared to [Microsoft Research] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.466948.1....... 77.596275......................................... 
+	http://www.grid.ac/institutes/grid.466948.1....... 12.966332......................................... 
+	http://www.grid.ac/institutes/grid.466948.1....... http://research.microsoft.com/en-us/labs/india/... 
+	http://www.grid.ac/institutes/grid.466948.1....... Microsoft Research (India)........................ 
+	http://risis.eu/orgref_20170703/resource/2163522.. http://en.wikipedia.org/wiki?curid=2163522........ 
+	http://risis.eu/orgref_20170703/resource/2163522.. http://www.wikidata.org/wiki/Q1144725............. 
+	http://risis.eu/orgref_20170703/resource/2163522.. http://research.microsoft.com..................... 
+	http://risis.eu/orgref_20170703/resource/2163522.. Microsoft Research................................ 
+	http://www.grid.ac/institutes/grid.24488.32....... 0.134905.......................................... 
+	http://www.grid.ac/institutes/grid.24488.32....... 52.19492.......................................... 
+	http://www.grid.ac/institutes/grid.24488.32....... http://research.microsoft.com/en-us/labs/cambridge/default.aspx 
+	http://www.grid.ac/institutes/grid.24488.32....... Microsoft Research (United Kingdom)............... 
+	http://www.grid.ac/institutes/grid.424745.4....... 11.591417......................................... 
+	http://www.grid.ac/institutes/grid.424745.4....... 48.126953......................................... 
+	http://www.grid.ac/institutes/grid.424745.4....... http://research.microsoft.com/en-us/labs/atle/default.aspx 
+	http://www.grid.ac/institutes/grid.424745.4....... Advanced Technology Labs.......................... 
+	http://www.grid.ac/institutes/grid.424745.4....... Microsoft Research (Germany)...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.466948.1', '4:grid.424745.4'), ('2:2163522', '1:grid.466948.1'), ('2:2163522', '3:grid.24488.32'), ('3:grid.24488.32', '1:grid.466948.1'), ('4:grid.424745.4', '2:2163522'), ('4:grid.424745.4', '3:grid.24488.32')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

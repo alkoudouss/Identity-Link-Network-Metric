@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 17826 
+NAME    N1567042818
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/NL0048>
+	<http://www.grid.ac/institutes/grid.466109.c>
+	<http://risis.eu/orgref_20170703/resource/161778>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/NL0048.. http://www.grid.ac/institutes/grid.466109.c...... 1................................................ [Royal Academy of Art] was compared to [Royal Academy of Art] 
+	http://risis.eu/orgreg_20170718/resource/NL0048.. http://risis.eu/orgref_20170703/resource/161778.. 0.944444444444................................... [Royal Academy of Arts] was compared to [Royal Academy of Art] 
+	http://www.grid.ac/institutes/grid.466109.c...... http://risis.eu/orgref_20170703/resource/161778.. 0.944444444444................................... [Royal Academy of Art] was compared to [Royal Academy of Arts] 
+	http://www.grid.ac/institutes/grid.466109.c...... http://risis.eu/orgreg_20170718/resource/NL0048.. 1................................................ [Royal Academy of Art] was compared to [Royal Academy of Art] 
+	http://risis.eu/orgref_20170703/resource/161778.. http://risis.eu/orgreg_20170718/resource/NL0048.. 0.944444444444................................... [Royal Academy of Arts] was compared to [Royal Academy of Art] 
+	http://risis.eu/orgref_20170703/resource/161778.. http://www.grid.ac/institutes/grid.466109.c...... 0.944444444444................................... [Royal Academy of Art] was compared to [Royal Academy of Arts] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/NL0048.. 4.319468......................................... 
+	http://risis.eu/orgreg_20170718/resource/NL0048.. 52.081712........................................ 
+	http://risis.eu/orgreg_20170718/resource/NL0048.. http://www.kabk.nl/hk/index.html................. 
+	http://risis.eu/orgreg_20170718/resource/NL0048.. Royal Academy of Art............................. 
+	http://www.grid.ac/institutes/grid.466109.c...... 4.319379......................................... 
+	http://www.grid.ac/institutes/grid.466109.c...... 52.081856........................................ 
+	http://www.grid.ac/institutes/grid.466109.c...... http://www.kabk.nl/.............................. 
+	http://www.grid.ac/institutes/grid.466109.c...... Royal Academy of Art............................. 
+	http://risis.eu/orgref_20170703/resource/161778.. http://en.wikipedia.org/wiki?curid=161778........ 
+	http://risis.eu/orgref_20170703/resource/161778.. http://www.wikidata.org/wiki/Q270920............. 
+	http://risis.eu/orgref_20170703/resource/161778.. http://www.royalacademy.org.uk................... 
+	http://risis.eu/orgref_20170703/resource/161778.. Royal Academy of Arts............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('P2099518169-NL0048', 'P1289148301-grid.466109.c'), ('N1567042818-161778', 'P2099518169-NL0048'), ('N1567042818-161778', 'P1289148301-grid.466109.c')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

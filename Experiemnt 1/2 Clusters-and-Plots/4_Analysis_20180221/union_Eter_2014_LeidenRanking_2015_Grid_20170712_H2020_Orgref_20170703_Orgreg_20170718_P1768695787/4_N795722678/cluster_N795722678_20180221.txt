@@ -1,0 +1,69 @@
+SIZE    4   
+CLUSTER 15957 
+NAME    N795722678
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/24070376>
+	<http://risis.eu/orgreg_20170718/resource/DK0022>
+	<http://risis.eu/eter_2014/resource/DK0022>
+	<http://www.grid.ac/institutes/grid.460119.b>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/24070376.. http://www.grid.ac/institutes/grid.460119.b........ 1.................................................. [VIA University College] was compared to [VIA University College] 
+	http://www.grid.ac/institutes/grid.460119.b........ http://risis.eu/orgref_20170703/resource/24070376.. 1.................................................. [VIA University College] was compared to [VIA University College] 
+	http://risis.eu/eter_2014/resource/DK0022.......... http://www.grid.ac/institutes/grid.460119.b........ 1.................................................. [VIA University College] was compared to [VIA University College] 
+	http://www.grid.ac/institutes/grid.460119.b........ http://risis.eu/eter_2014/resource/DK0022.......... 1.................................................. [VIA University College] was compared to [VIA University College] 
+	http://risis.eu/orgref_20170703/resource/24070376.. http://risis.eu/eter_2014/resource/DK0022.......... 1.................................................. [VIA University College] was compared to [VIA University College] 
+	http://risis.eu/eter_2014/resource/DK0022.......... http://risis.eu/orgref_20170703/resource/24070376.. 1.................................................. [VIA University College] was compared to [VIA University College] 
+	http://risis.eu/orgreg_20170718/resource/DK0022.... http://risis.eu/eter_2014/resource/DK0022.......... 1.................................................. [VIA University College] was compared to [VIA University College] 
+	http://risis.eu/eter_2014/resource/DK0022.......... http://risis.eu/orgreg_20170718/resource/DK0022.... 1.................................................. [VIA University College] was compared to [VIA University College] 
+	http://risis.eu/orgref_20170703/resource/24070376.. http://risis.eu/orgreg_20170718/resource/DK0022.... 1.................................................. [VIA University College] was compared to [VIA University College] 
+	http://risis.eu/orgreg_20170718/resource/DK0022.... http://risis.eu/orgref_20170703/resource/24070376.. 1.................................................. [VIA University College] was compared to [VIA University College] 
+	http://risis.eu/orgreg_20170718/resource/DK0022.... http://www.grid.ac/institutes/grid.460119.b........ 1.................................................. [VIA University College] was compared to [VIA University College] 
+	http://www.grid.ac/institutes/grid.460119.b........ http://risis.eu/orgreg_20170718/resource/DK0022.... 1.................................................. [VIA University College] was compared to [VIA University College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/24070376.. http://en.wikipedia.org/wiki?curid=24070376........ 
+	http://risis.eu/orgref_20170703/resource/24070376.. http://www.wikidata.org/wiki/Q3625669.............. 
+	http://risis.eu/orgref_20170703/resource/24070376.. http://www.viauc.com............................... 
+	http://risis.eu/orgref_20170703/resource/24070376.. VIA University College............................. 
+	http://risis.eu/orgreg_20170718/resource/DK0022.... 10.226571.......................................... 
+	http://risis.eu/orgreg_20170718/resource/DK0022.... 56.188276.......................................... 
+	http://risis.eu/orgreg_20170718/resource/DK0022.... http://www.viauc.com/Pages/via-university-college.aspx 
+	http://risis.eu/orgreg_20170718/resource/DK0022.... VIA University College............................. 
+	http://risis.eu/eter_2014/resource/DK0022.......... 56,188276.......................................... 
+	http://risis.eu/eter_2014/resource/DK0022.......... 10,226571.......................................... 
+	http://risis.eu/eter_2014/resource/DK0022.......... http://www.viauc.com/Pages/via-university-college.aspx 
+	http://risis.eu/eter_2014/resource/DK0022.......... a.................................................. 
+	http://risis.eu/eter_2014/resource/DK0022.......... VIA University College............................. 
+	http://www.grid.ac/institutes/grid.460119.b........ 9.885972........................................... 
+	http://www.grid.ac/institutes/grid.460119.b........ 55.871662.......................................... 
+	http://www.grid.ac/institutes/grid.460119.b........ http://en.via.dk/.................................. 
+	http://www.grid.ac/institutes/grid.460119.b........ Professionshøjskole............................... 
+	http://www.grid.ac/institutes/grid.460119.b........ VIA University College............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:24070376', '4:grid.460119.b'), ('2:DK0022', '1:24070376'), ('3:DK0022', '1:24070376'), ('3:DK0022', '2:DK0022'), ('3:DK0022', '4:grid.460119.b'), ('4:grid.460119.b', '2:DK0022')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

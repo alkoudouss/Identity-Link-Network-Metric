@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 5392 
+NAME    N938221528
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.418030.e>
+	<http://www.grid.ac/institutes/grid.473334.4>
+	<http://risis.eu/orgref_20170703/resource/5690429>
+	<http://risis.eu/leidenRanking_2015/resource/100690>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                               object                                               Strength                                             Evidence                                             
+	#################################################### #################################################### #################################################### #################################################### 
+	http://www.grid.ac/institutes/grid.418030.e......... http://www.grid.ac/institutes/grid.473334.4......... 0.8................................................. [Industrial Technology Research Institute] was compared to [National Institute of Industrial Technology] 
+	http://www.grid.ac/institutes/grid.473334.4......... http://www.grid.ac/institutes/grid.418030.e......... 0.8................................................. [Industrial Technology Research Institute] was compared to [National Institute of Industrial Technology] 
+	http://www.grid.ac/institutes/grid.418030.e......... http://risis.eu/orgref_20170703/resource/5690429.... 1................................................... [Industrial Technology Research Institute] was compared to [Industrial Technology Research Institute] 
+	http://risis.eu/orgref_20170703/resource/5690429.... http://www.grid.ac/institutes/grid.418030.e......... 1................................................... [Industrial Technology Research Institute] was compared to [Industrial Technology Research Institute] 
+	http://www.grid.ac/institutes/grid.418030.e......... http://risis.eu/leidenRanking_2015/resource/100690.. 1................................................... [Industrial Technology Research Institute] was compared to [Industrial Technology Research Institute] 
+	http://risis.eu/leidenRanking_2015/resource/100690.. http://www.grid.ac/institutes/grid.418030.e......... 1................................................... [Industrial Technology Research Institute] was compared to [Industrial Technology Research Institute] 
+	http://www.grid.ac/institutes/grid.473334.4......... http://risis.eu/leidenRanking_2015/resource/100690.. 0.8................................................. [National Institute of Industrial Technology] was compared to [Industrial Technology Research Institute] 
+	http://risis.eu/leidenRanking_2015/resource/100690.. http://www.grid.ac/institutes/grid.473334.4......... 0.8................................................. [National Institute of Industrial Technology] was compared to [Industrial Technology Research Institute] 
+	http://risis.eu/orgref_20170703/resource/5690429.... http://risis.eu/leidenRanking_2015/resource/100690.. 1................................................... [Industrial Technology Research Institute] was compared to [Industrial Technology Research Institute] 
+	http://risis.eu/leidenRanking_2015/resource/100690.. http://risis.eu/orgref_20170703/resource/5690429.... 1................................................... [Industrial Technology Research Institute] was compared to [Industrial Technology Research Institute] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                              object                                               
+	#################################################### #################################################### 
+	http://www.grid.ac/institutes/grid.418030.e......... 121.3802............................................ 
+	http://www.grid.ac/institutes/grid.418030.e......... 25.05722............................................ 
+	http://www.grid.ac/institutes/grid.418030.e......... https://www.itri.org.tw/eng/........................ 
+	http://www.grid.ac/institutes/grid.418030.e......... Gōngyè Jìshù Yánjiùyuàn...................... 
+	http://www.grid.ac/institutes/grid.418030.e......... Industrial Technology Research Institute............ 
+	http://www.grid.ac/institutes/grid.473334.4......... -58.513275.......................................... 
+	http://www.grid.ac/institutes/grid.473334.4......... -34.575844.......................................... 
+	http://www.grid.ac/institutes/grid.473334.4......... http://www.inti.gob.ar/............................. 
+	http://www.grid.ac/institutes/grid.473334.4......... National Institute of Industrial Technology......... 
+	http://risis.eu/orgref_20170703/resource/5690429.... http://en.wikipedia.org/wiki?curid=5690429.......... 
+	http://risis.eu/orgref_20170703/resource/5690429.... http://www.wikidata.org/wiki/Q10532988.............. 
+	http://risis.eu/orgref_20170703/resource/5690429.... https://www.itri.org/eng............................ 
+	http://risis.eu/orgref_20170703/resource/5690429.... Industrial Technology Research Institute............ 
+	http://risis.eu/leidenRanking_2015/resource/100690.. Industrial Technology Research Institute............ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.473334.4', '1:grid.418030.e'), ('3:5690429', '1:grid.418030.e'), ('4:100690', '1:grid.418030.e'), ('4:100690', '2:grid.473334.4'), ('4:100690', '3:5690429')]
+	MAX DISTANCE:                   : 0.833
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 2.16666666667
+	AVERAGE NODE CONNECTIVITY RATIO : 0.722222222222
+	BRIDGES                         : 0
+	CLOSURE                         : 0.833
+	DIAMETER                        : 2
+	QUALITY                         : 0.223
+	QUALITY USED                    : 0.223
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223

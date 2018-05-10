@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 370 
+NAME    N1783682420
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/PL0062>
+	<http://www.grid.ac/institutes/grid.465935.8>
+	<http://www.grid.ac/institutes/grid.460385.c>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/PL0062.... http://www.grid.ac/institutes/grid.460385.c.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/PL0062.... http://www.grid.ac/institutes/grid.465935.8.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.465935.8.. http://risis.eu/eter_2014/resource/PL0062.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.460385.c.. http://risis.eu/eter_2014/resource/PL0062.... 1............................................ Near each other by at most 500 meter(s)...... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/PL0062.... 50,212109.................................... 
+	http://risis.eu/eter_2014/resource/PL0062.... 18,975061.................................... 
+	http://risis.eu/eter_2014/resource/PL0062.... http://www.gwsh.pl........................... 
+	http://risis.eu/eter_2014/resource/PL0062.... a............................................ 
+	http://risis.eu/eter_2014/resource/PL0062.... Katowice School of Economics................. 
+	http://risis.eu/eter_2014/resource/PL0062.... Górnośląska Wyższa Szkoła Handlowa im. Wojciecha Korfantego w Katowicach 
+	http://www.grid.ac/institutes/grid.465935.8.. 18.976967.................................... 
+	http://www.grid.ac/institutes/grid.465935.8.. 50.212273.................................... 
+	http://www.grid.ac/institutes/grid.465935.8.. http://www.dwz.gwsh.pl/...................... 
+	http://www.grid.ac/institutes/grid.465935.8.. Katowice School of Economics................. 
+	http://www.grid.ac/institutes/grid.460385.c.. 18.972942.................................... 
+	http://www.grid.ac/institutes/grid.460385.c.. 50.213936.................................... 
+	http://www.grid.ac/institutes/grid.460385.c.. http://tdj.pl/en/............................ 
+	http://www.grid.ac/institutes/grid.460385.c.. TDJ (Poland)................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('P2019886122-PL0062', 'N592121603-grid.460385.c'), ('P2019886122-PL0062', 'N1783682420-grid.465935.8')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

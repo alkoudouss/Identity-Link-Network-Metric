@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 4885 
+NAME    N1383377113
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.461963.f>
+	<http://risis.eu/orgref_20170703/resource/18661122>
+	<http://risis.eu/orgref_20170703/resource/8657742>
+	<http://risis.eu/orgref_20170703/resource/55974>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.461963.f........ http://risis.eu/orgref_20170703/resource/18661122.. 0.823529411765..................................... [Federal Communications Commission] was compared to [National Communications Commission] 
+	http://risis.eu/orgref_20170703/resource/18661122.. http://www.grid.ac/institutes/grid.461963.f........ 0.823529411765..................................... [Federal Communications Commission] was compared to [National Communications Commission] 
+	http://www.grid.ac/institutes/grid.461963.f........ http://risis.eu/orgref_20170703/resource/55974..... 1.................................................. [Federal Communications Commission] was compared to [Federal Communications Commission] 
+	http://risis.eu/orgref_20170703/resource/55974..... http://www.grid.ac/institutes/grid.461963.f........ 1.................................................. [Federal Communications Commission] was compared to [Federal Communications Commission] 
+	http://risis.eu/orgref_20170703/resource/18661122.. http://risis.eu/orgref_20170703/resource/8657742... 0.894736842105..................................... [National Communications Commission] was compared to [National Telecommunications Commission (Philippines)] 
+	http://risis.eu/orgref_20170703/resource/8657742... http://risis.eu/orgref_20170703/resource/18661122.. 0.894736842105..................................... [National Communications Commission] was compared to [National Telecommunications Commission (Philippines)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.461963.f........ -77.02839.......................................... 
+	http://www.grid.ac/institutes/grid.461963.f........ 38.883373.......................................... 
+	http://www.grid.ac/institutes/grid.461963.f........ https://www.fcc.gov/............................... 
+	http://www.grid.ac/institutes/grid.461963.f........ Federal Communications Commission.................. 
+	http://risis.eu/orgref_20170703/resource/18661122.. http://en.wikipedia.org/wiki?curid=18661122........ 
+	http://risis.eu/orgref_20170703/resource/18661122.. http://www.wikidata.org/wiki/Q5973105.............. 
+	http://risis.eu/orgref_20170703/resource/18661122.. http://www.ncc.gov.tw/english/index.aspx........... 
+	http://risis.eu/orgref_20170703/resource/18661122.. National Communications Commission................. 
+	http://risis.eu/orgref_20170703/resource/8657742... http://en.wikipedia.org/wiki?curid=8657742......... 
+	http://risis.eu/orgref_20170703/resource/8657742... http://www.wikidata.org/wiki/Q6978887.............. 
+	http://risis.eu/orgref_20170703/resource/8657742... http://www.ntc.gov.ph.............................. 
+	http://risis.eu/orgref_20170703/resource/8657742... National Telecommunications Commission (Philippines) 
+	http://risis.eu/orgref_20170703/resource/55974..... http://en.wikipedia.org/wiki?curid=55974........... 
+	http://risis.eu/orgref_20170703/resource/55974..... http://www.wikidata.org/wiki/Q128831............... 
+	http://risis.eu/orgref_20170703/resource/55974..... http://www.fcc.gov................................. 
+	http://risis.eu/orgref_20170703/resource/55974..... Federal Communications Commission.................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:18661122', '1:grid.461963.f'), ('3:8657742', '2:18661122'), ('4:55974', '1:grid.461963.f')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

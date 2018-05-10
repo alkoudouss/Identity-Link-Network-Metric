@@ -1,0 +1,54 @@
+SIZE    4   
+CLUSTER 2125 
+NAME    N1842339496
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.446348.9>
+	<http://www.grid.ac/institutes/grid.446557.1>
+	<http://www.grid.ac/institutes/grid.446926.b>
+	<http://www.grid.ac/institutes/grid.475001.7>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.446557.1.. http://www.grid.ac/institutes/grid.475001.7.. 0.92......................................... [Barrington Public Library] was compared to [Arlington Public Library] 
+	http://www.grid.ac/institutes/grid.475001.7.. http://www.grid.ac/institutes/grid.446557.1.. 0.92......................................... [Barrington Public Library] was compared to [Arlington Public Library] 
+	http://www.grid.ac/institutes/grid.446348.9.. http://www.grid.ac/institutes/grid.446557.1.. 0.846153846154............................... [Bloomington Public Library] was compared to [Barrington Public Library] 
+	http://www.grid.ac/institutes/grid.446557.1.. http://www.grid.ac/institutes/grid.446348.9.. 0.846153846154............................... [Bloomington Public Library] was compared to [Barrington Public Library] 
+	http://www.grid.ac/institutes/grid.446348.9.. http://www.grid.ac/institutes/grid.446926.b.. 0.846153846154............................... [Bloomington Public Library] was compared to [Lexington Public Library] 
+	http://www.grid.ac/institutes/grid.446926.b.. http://www.grid.ac/institutes/grid.446348.9.. 0.846153846154............................... [Bloomington Public Library] was compared to [Lexington Public Library] 
+	http://www.grid.ac/institutes/grid.446926.b.. http://www.grid.ac/institutes/grid.475001.7.. 0.875........................................ [Lexington Public Library] was compared to [Arlington Public Library] 
+	http://www.grid.ac/institutes/grid.475001.7.. http://www.grid.ac/institutes/grid.446926.b.. 0.875........................................ [Lexington Public Library] was compared to [Arlington Public Library] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 7 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.446348.9.. Bloomington Public Library................... 
+	http://www.grid.ac/institutes/grid.446557.1.. Barrington Public Library.................... 
+	http://www.grid.ac/institutes/grid.446926.b.. Lexington Public Library..................... 
+	http://www.grid.ac/institutes/grid.475001.7.. -97.117165................................... 
+	http://www.grid.ac/institutes/grid.475001.7.. 32.73782..................................... 
+	http://www.grid.ac/institutes/grid.475001.7.. http://arlingtonlibrary.org/................. 
+	http://www.grid.ac/institutes/grid.475001.7.. Arlington Public Library..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.446557.1', '1:grid.446348.9'), ('3:grid.446926.b', '1:grid.446348.9'), ('4:grid.475001.7', '2:grid.446557.1'), ('4:grid.475001.7', '3:grid.446926.b')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.666666666667
+	BRIDGES                         : 0
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.277
+	QUALITY USED                    : 0.277
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.277 QUALITY USED 0.277
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.277 QUALITY USED 0.277

@@ -1,0 +1,70 @@
+SIZE    5   
+CLUSTER 11540 
+NAME    N1251835744
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.6518.a>
+	<http://risis.eu/cordisH2020/resource/participant_999839432>
+	<http://risis.eu/leidenRanking_2015/resource/281>
+	<http://risis.eu/orgref_20170703/resource/275018>
+	<http://risis.eu/eter_2014/resource/UK0125>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.6518.a................... http://risis.eu/orgref_20170703/resource/275018............. 1........................................................... [University of the West of England] was compared to [University of the West of England] 
+	http://risis.eu/orgref_20170703/resource/275018............. http://www.grid.ac/institutes/grid.6518.a................... 1........................................................... [University of the West of England] was compared to [University of the West of England] 
+	http://www.grid.ac/institutes/grid.6518.a................... http://risis.eu/cordisH2020/resource/participant_999839432.. 1........................................................... [University of the West of England] was compared to [University of the West of England] 
+	http://risis.eu/cordisH2020/resource/participant_999839432.. http://www.grid.ac/institutes/grid.6518.a................... 1........................................................... [University of the West of England] was compared to [University of the West of England] 
+	http://risis.eu/cordisH2020/resource/participant_999839432.. http://risis.eu/orgref_20170703/resource/275018............. 1........................................................... [University of the West of England] was compared to [University of the West of England] 
+	http://risis.eu/orgref_20170703/resource/275018............. http://risis.eu/cordisH2020/resource/participant_999839432.. 1........................................................... [University of the West of England] was compared to [University of the West of England] 
+	http://risis.eu/cordisH2020/resource/participant_999839432.. http://risis.eu/leidenRanking_2015/resource/281............. 1........................................................... [UNIVERSITY OF THE WEST OF ENGLAND, BRISTOL] was compared to [University of the West of England Bristol] 
+	http://risis.eu/leidenRanking_2015/resource/281............. http://risis.eu/cordisH2020/resource/participant_999839432.. 1........................................................... [UNIVERSITY OF THE WEST OF ENGLAND, BRISTOL] was compared to [University of the West of England Bristol] 
+	http://risis.eu/cordisH2020/resource/participant_999839432.. http://risis.eu/eter_2014/resource/UK0125................... 1........................................................... [UNIVERSITY OF THE WEST OF ENGLAND, BRISTOL] was compared to [University of the West of England, Bristol] 
+	http://risis.eu/eter_2014/resource/UK0125................... http://risis.eu/cordisH2020/resource/participant_999839432.. 1........................................................... [UNIVERSITY OF THE WEST OF ENGLAND, BRISTOL] was compared to [University of the West of England, Bristol] 
+	http://risis.eu/leidenRanking_2015/resource/281............. http://risis.eu/eter_2014/resource/UK0125................... 1........................................................... [University of the West of England, Bristol] was compared to [University of the West of England Bristol] 
+	http://risis.eu/eter_2014/resource/UK0125................... http://risis.eu/leidenRanking_2015/resource/281............. 1........................................................... [University of the West of England, Bristol] was compared to [University of the West of England Bristol] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.6518.a................... -2.54749.................................................... 
+	http://www.grid.ac/institutes/grid.6518.a................... 51.50021.................................................... 
+	http://www.grid.ac/institutes/grid.6518.a................... http://www.uwe.ac.uk/....................................... 
+	http://www.grid.ac/institutes/grid.6518.a................... University of the West of England........................... 
+	http://risis.eu/cordisH2020/resource/participant_999839432.. http://www.uwe.ac.uk/....................................... 
+	http://risis.eu/cordisH2020/resource/participant_999839432.. http://risis.eu/cordisH2020/resource/www.uwe.ac.uk.......... 
+	http://risis.eu/cordisH2020/resource/participant_999839432.. University of the West of England........................... 
+	http://risis.eu/cordisH2020/resource/participant_999839432.. UNIVERSITY OF THE WEST OF ENGLAND, BRISTOL.................. 
+	http://risis.eu/leidenRanking_2015/resource/281............. University of the West of England Bristol................... 
+	http://risis.eu/orgref_20170703/resource/275018............. http://en.wikipedia.org/wiki?curid=275018................... 
+	http://risis.eu/orgref_20170703/resource/275018............. http://www.wikidata.org/wiki/Q2002520....................... 
+	http://risis.eu/orgref_20170703/resource/275018............. http://www.uwe.ac.uk........................................ 
+	http://risis.eu/orgref_20170703/resource/275018............. University of the West of England........................... 
+	http://risis.eu/eter_2014/resource/UK0125................... 51,500207................................................... 
+	http://risis.eu/eter_2014/resource/UK0125................... -2,54749.................................................... 
+	http://risis.eu/eter_2014/resource/UK0125................... http://www.uwe.ac.uk/....................................... 
+	http://risis.eu/eter_2014/resource/UK0125................... a........................................................... 
+	http://risis.eu/eter_2014/resource/UK0125................... University of the West of England, Bristol.................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_999839432', '1:grid.6518.a'), ('2:participant_999839432', '4:275018'), ('3:281', '2:participant_999839432'), ('4:275018', '1:grid.6518.a'), ('5:UK0125', '2:participant_999839432'), ('5:UK0125', '3:281')]
+	MAX DISTANCE:                   : 0.6
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 1.6
+	AVERAGE NODE CONNECTIVITY RATIO : 0.4
+	BRIDGES                         : 0
+	CLOSURE                         : 0.6
+	DIAMETER                        : 2
+	QUALITY                         : 0.244
+	QUALITY USED                    : 0.262
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.4 DIAMETER 0.333 QUALITY 0.244 QUALITY USED 0.262
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.4 DIAMETER 0.385 QUALITY 0.244 QUALITY USED 0.262

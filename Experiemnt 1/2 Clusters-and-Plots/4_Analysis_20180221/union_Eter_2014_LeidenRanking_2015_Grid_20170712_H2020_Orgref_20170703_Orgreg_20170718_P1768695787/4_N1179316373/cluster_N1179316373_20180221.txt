@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 533 
+NAME    N1179316373
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.218430.c>
+	<http://risis.eu/cordisH2020/resource/participant_999828859>
+	<http://risis.eu/orgref_20170703/resource/47000350>
+	<http://risis.eu/eter_2014/resource/ES0044>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.218430.c................. http://risis.eu/orgref_20170703/resource/47000350........... 1........................................................... [Polytechnic University of Cartagena] was compared to [Polytechnic University of Cartagena] 
+	http://risis.eu/orgref_20170703/resource/47000350........... http://www.grid.ac/institutes/grid.218430.c................. 1........................................................... [Polytechnic University of Cartagena] was compared to [Polytechnic University of Cartagena] 
+	http://risis.eu/cordisH2020/resource/participant_999828859.. http://risis.eu/eter_2014/resource/ES0044................... 1........................................................... [UNIVERSIDAD POLITECNICA DE CARTAGENA] was compared to [Universidad Politécnica de Cartagena] 
+	http://risis.eu/eter_2014/resource/ES0044................... http://risis.eu/cordisH2020/resource/participant_999828859.. 1........................................................... [UNIVERSIDAD POLITECNICA DE CARTAGENA] was compared to [Universidad Politécnica de Cartagena] 
+	http://risis.eu/cordisH2020/resource/participant_999828859.. http://risis.eu/orgref_20170703/resource/47000350........... 0.818181818182.............................................. [Polytechnic University of Cartagena] was compared to [UNIVERSIDAD POLITECNICA DE CARTAGENA] 
+	http://risis.eu/orgref_20170703/resource/47000350........... http://risis.eu/cordisH2020/resource/participant_999828859.. 0.818181818182.............................................. [Polytechnic University of Cartagena] was compared to [UNIVERSIDAD POLITECNICA DE CARTAGENA] 
+	http://risis.eu/orgref_20170703/resource/47000350........... http://risis.eu/eter_2014/resource/ES0044................... 0.818181818182.............................................. [Polytechnic University of Cartagena] was compared to [Universidad Politécnica de Cartagena] 
+	http://risis.eu/eter_2014/resource/ES0044................... http://risis.eu/orgref_20170703/resource/47000350........... 0.818181818182.............................................. [Polytechnic University of Cartagena] was compared to [Universidad Politécnica de Cartagena] 
+	http://www.grid.ac/institutes/grid.218430.c................. http://risis.eu/eter_2014/resource/ES0044................... 0.818181818182.............................................. [Polytechnic University of Cartagena] was compared to [Universidad Politécnica de Cartagena] 
+	http://risis.eu/eter_2014/resource/ES0044................... http://www.grid.ac/institutes/grid.218430.c................. 0.818181818182.............................................. [Polytechnic University of Cartagena] was compared to [Universidad Politécnica de Cartagena] 
+	http://www.grid.ac/institutes/grid.218430.c................. http://risis.eu/cordisH2020/resource/participant_999828859.. 0.818181818182.............................................. [Polytechnic University of Cartagena] was compared to [UNIVERSIDAD POLITECNICA DE CARTAGENA] 
+	http://risis.eu/cordisH2020/resource/participant_999828859.. http://www.grid.ac/institutes/grid.218430.c................. 0.818181818182.............................................. [Polytechnic University of Cartagena] was compared to [UNIVERSIDAD POLITECNICA DE CARTAGENA] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.218430.c................. -0.979497................................................... 
+	http://www.grid.ac/institutes/grid.218430.c................. 37.60491.................................................... 
+	http://www.grid.ac/institutes/grid.218430.c................. http://estudiaencartagena.upct.es/international/english/start/ 
+	http://www.grid.ac/institutes/grid.218430.c................. Polytechnic University of Cartagena......................... 
+	http://risis.eu/cordisH2020/resource/participant_999828859.. http://www.upct.es.......................................... 
+	http://risis.eu/cordisH2020/resource/participant_999828859.. UNIVERSIDAD POLITECNICA DE CARTAGENA........................ 
+	http://risis.eu/orgref_20170703/resource/47000350........... Polytechnic University of Cartagena......................... 
+	http://risis.eu/eter_2014/resource/ES0044................... 37,586794................................................... 
+	http://risis.eu/eter_2014/resource/ES0044................... -0,96773.................................................... 
+	http://risis.eu/eter_2014/resource/ES0044................... http://www.upct.es.......................................... 
+	http://risis.eu/eter_2014/resource/ES0044................... a........................................................... 
+	http://risis.eu/eter_2014/resource/ES0044................... Technical University of Cartagena........................... 
+	http://risis.eu/eter_2014/resource/ES0044................... Universidad Politécnica de Cartagena....................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_999828859', '1:grid.218430.c'), ('2:participant_999828859', '3:47000350'), ('3:47000350', '1:grid.218430.c'), ('4:ES0044', '1:grid.218430.c'), ('4:ES0044', '2:participant_999828859'), ('4:ES0044', '3:47000350')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

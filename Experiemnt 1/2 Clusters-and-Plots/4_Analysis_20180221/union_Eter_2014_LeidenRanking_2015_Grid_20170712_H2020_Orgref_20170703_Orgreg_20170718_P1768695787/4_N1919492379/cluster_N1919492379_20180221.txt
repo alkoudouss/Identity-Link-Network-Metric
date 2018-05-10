@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 6748 
+NAME    N1919492379
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/IT0070>
+	<http://risis.eu/leidenRanking_2015/resource/447>
+	<http://www.grid.ac/institutes/grid.6530.0>
+	<http://risis.eu/orgref_20170703/resource/2097467>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.6530.0......... http://risis.eu/orgref_20170703/resource/2097467.. 1................................................. [University of Rome Tor Vergata] was compared to [University of Rome Tor Vergata] 
+	http://risis.eu/orgref_20170703/resource/2097467.. http://www.grid.ac/institutes/grid.6530.0......... 1................................................. [University of Rome Tor Vergata] was compared to [University of Rome Tor Vergata] 
+	http://risis.eu/leidenRanking_2015/resource/447... http://www.grid.ac/institutes/grid.6530.0......... 0.814814814815.................................... [University of Rome Tor Vergata] was compared to [University of Tor Vergata] 
+	http://www.grid.ac/institutes/grid.6530.0......... http://risis.eu/leidenRanking_2015/resource/447... 0.814814814815.................................... [University of Rome Tor Vergata] was compared to [University of Tor Vergata] 
+	http://risis.eu/leidenRanking_2015/resource/447... http://risis.eu/orgref_20170703/resource/2097467.. 0.814814814815.................................... [University of Rome Tor Vergata] was compared to [University of Tor Vergata] 
+	http://risis.eu/orgref_20170703/resource/2097467.. http://risis.eu/leidenRanking_2015/resource/447... 0.814814814815.................................... [University of Rome Tor Vergata] was compared to [University of Tor Vergata] 
+	http://risis.eu/orgreg_20170718/resource/IT0070... http://risis.eu/leidenRanking_2015/resource/447... 0.814814814815.................................... [University of Rome Tor Vergata] was compared to [University of Tor Vergata] 
+	http://risis.eu/leidenRanking_2015/resource/447... http://risis.eu/orgreg_20170718/resource/IT0070... 0.814814814815.................................... [University of Rome Tor Vergata] was compared to [University of Tor Vergata] 
+	http://risis.eu/orgreg_20170718/resource/IT0070... http://risis.eu/orgref_20170703/resource/2097467.. 1................................................. [University of Rome Tor Vergata] was compared to [University of Rome Tor Vergata] 
+	http://risis.eu/orgref_20170703/resource/2097467.. http://risis.eu/orgreg_20170718/resource/IT0070... 1................................................. [University of Rome Tor Vergata] was compared to [University of Rome Tor Vergata] 
+	http://risis.eu/orgreg_20170718/resource/IT0070... http://www.grid.ac/institutes/grid.6530.0......... 1................................................. [University of Rome Tor Vergata] was compared to [University of Rome Tor Vergata] 
+	http://www.grid.ac/institutes/grid.6530.0......... http://risis.eu/orgreg_20170718/resource/IT0070... 1................................................. [University of Rome Tor Vergata] was compared to [University of Rome Tor Vergata] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgreg_20170718/resource/IT0070... 41.836606......................................... 
+	http://risis.eu/orgreg_20170718/resource/IT0070... 12.65894.......................................... 
+	http://risis.eu/orgreg_20170718/resource/IT0070... http://www.uniroma2.it............................ 
+	http://risis.eu/orgreg_20170718/resource/IT0070... University of Rome Tor Vergata.................... 
+	http://risis.eu/leidenRanking_2015/resource/447... University of Tor Vergata......................... 
+	http://www.grid.ac/institutes/grid.6530.0......... 12.597991......................................... 
+	http://www.grid.ac/institutes/grid.6530.0......... 41.85015.......................................... 
+	http://www.grid.ac/institutes/grid.6530.0......... http://web.uniroma2.it/home.php?newlang=italian... 
+	http://www.grid.ac/institutes/grid.6530.0......... University of Rome II............................. 
+	http://www.grid.ac/institutes/grid.6530.0......... University of Rome Tor Vergata.................... 
+	http://risis.eu/orgref_20170703/resource/2097467.. http://en.wikipedia.org/wiki?curid=2097467........ 
+	http://risis.eu/orgref_20170703/resource/2097467.. http://www.wikidata.org/wiki/Q1031803............. 
+	http://risis.eu/orgref_20170703/resource/2097467.. http://www.uniroma2.it............................ 
+	http://risis.eu/orgref_20170703/resource/2097467.. University of Rome Tor Vergata.................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:IT0070', '3:grid.6530.0'), ('2:447', '1:IT0070'), ('2:447', '4:2097467'), ('3:grid.6530.0', '2:447'), ('4:2097467', '1:IT0070'), ('4:2097467', '3:grid.6530.0')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

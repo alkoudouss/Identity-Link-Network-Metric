@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 11917 
+NAME    N1926257474
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.426732.6>
+	<http://risis.eu/orgref_20170703/resource/39039>
+	<http://www.grid.ac/institutes/grid.250008.f>
+	<http://risis.eu/leidenRanking_2015/resource/100385>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                               object                                               Strength                                             Evidence                                             
+	#################################################### #################################################### #################################################### #################################################### 
+	http://www.grid.ac/institutes/grid.426732.6......... http://www.grid.ac/institutes/grid.250008.f......... 0.815789473684...................................... [Lawrence Livermore National Laboratory] was compared to [Lawrence Livermore National Security] 
+	http://www.grid.ac/institutes/grid.250008.f......... http://www.grid.ac/institutes/grid.426732.6......... 0.815789473684...................................... [Lawrence Livermore National Laboratory] was compared to [Lawrence Livermore National Security] 
+	http://risis.eu/orgref_20170703/resource/39039...... http://www.grid.ac/institutes/grid.250008.f......... 1................................................... [Lawrence Livermore National Laboratory] was compared to [Lawrence Livermore National Laboratory] 
+	http://www.grid.ac/institutes/grid.250008.f......... http://risis.eu/orgref_20170703/resource/39039...... 1................................................... [Lawrence Livermore National Laboratory] was compared to [Lawrence Livermore National Laboratory] 
+	http://www.grid.ac/institutes/grid.426732.6......... http://risis.eu/orgref_20170703/resource/39039...... 0.815789473684...................................... [Lawrence Livermore National Security] was compared to [Lawrence Livermore National Laboratory] 
+	http://risis.eu/orgref_20170703/resource/39039...... http://www.grid.ac/institutes/grid.426732.6......... 0.815789473684...................................... [Lawrence Livermore National Security] was compared to [Lawrence Livermore National Laboratory] 
+	http://www.grid.ac/institutes/grid.250008.f......... http://risis.eu/leidenRanking_2015/resource/100385.. 1................................................... [Lawrence Livermore National Laboratory] was compared to [Lawrence Livermore National Laboratory] 
+	http://risis.eu/leidenRanking_2015/resource/100385.. http://www.grid.ac/institutes/grid.250008.f......... 1................................................... [Lawrence Livermore National Laboratory] was compared to [Lawrence Livermore National Laboratory] 
+	http://www.grid.ac/institutes/grid.426732.6......... http://risis.eu/leidenRanking_2015/resource/100385.. 0.815789473684...................................... [Lawrence Livermore National Security] was compared to [Lawrence Livermore National Laboratory] 
+	http://risis.eu/leidenRanking_2015/resource/100385.. http://www.grid.ac/institutes/grid.426732.6......... 0.815789473684...................................... [Lawrence Livermore National Security] was compared to [Lawrence Livermore National Laboratory] 
+	http://risis.eu/orgref_20170703/resource/39039...... http://risis.eu/leidenRanking_2015/resource/100385.. 1................................................... [Lawrence Livermore National Laboratory] was compared to [Lawrence Livermore National Laboratory] 
+	http://risis.eu/leidenRanking_2015/resource/100385.. http://risis.eu/orgref_20170703/resource/39039...... 1................................................... [Lawrence Livermore National Laboratory] was compared to [Lawrence Livermore National Laboratory] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                              object                                               
+	#################################################### #################################################### 
+	http://www.grid.ac/institutes/grid.426732.6......... Lawrence Livermore National Security................ 
+	http://risis.eu/orgref_20170703/resource/39039...... http://en.wikipedia.org/wiki?curid=39039............ 
+	http://risis.eu/orgref_20170703/resource/39039...... http://www.wikidata.org/wiki/Q519826................ 
+	http://risis.eu/orgref_20170703/resource/39039...... http://www.llnl.gov................................. 
+	http://risis.eu/orgref_20170703/resource/39039...... Lawrence Livermore National Laboratory.............. 
+	http://www.grid.ac/institutes/grid.250008.f......... -121.71715.......................................... 
+	http://www.grid.ac/institutes/grid.250008.f......... 37.689255........................................... 
+	http://www.grid.ac/institutes/grid.250008.f......... https://www.llnl.gov/............................... 
+	http://www.grid.ac/institutes/grid.250008.f......... Lawrence Livermore National Laboratory.............. 
+	http://risis.eu/leidenRanking_2015/resource/100385.. Lawrence Livermore National Laboratory.............. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.426732.6', '3:grid.250008.f'), ('2:39039', '1:grid.426732.6'), ('3:grid.250008.f', '2:39039'), ('4:100385', '1:grid.426732.6'), ('4:100385', '2:39039'), ('4:100385', '3:grid.250008.f')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

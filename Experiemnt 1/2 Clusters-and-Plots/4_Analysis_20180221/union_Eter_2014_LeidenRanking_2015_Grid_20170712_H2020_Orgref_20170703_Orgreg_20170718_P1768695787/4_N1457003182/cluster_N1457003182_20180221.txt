@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 5677 
+NAME    N1457003182
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.419125.a>
+	<http://risis.eu/orgreg_20170718/resource/CZ1001>
+	<http://www.grid.ac/institutes/grid.464332.4>
+	<http://www.grid.ac/institutes/grid.466766.3>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.464332.4...... http://www.grid.ac/institutes/grid.466766.3...... 1................................................ [Institute of Animal Sciences] was compared to [Institute of Animal Sciences] 
+	http://www.grid.ac/institutes/grid.466766.3...... http://www.grid.ac/institutes/grid.464332.4...... 1................................................ [Institute of Animal Sciences] was compared to [Institute of Animal Sciences] 
+	http://www.grid.ac/institutes/grid.419125.a...... http://www.grid.ac/institutes/grid.464332.4...... 0.96............................................. [Institute of Animal Science] was compared to [Institute of Animal Sciences] 
+	http://www.grid.ac/institutes/grid.464332.4...... http://www.grid.ac/institutes/grid.419125.a...... 0.96............................................. [Institute of Animal Science] was compared to [Institute of Animal Sciences] 
+	http://www.grid.ac/institutes/grid.419125.a...... http://www.grid.ac/institutes/grid.466766.3...... 0.96............................................. [Institute of Animal Science] was compared to [Institute of Animal Sciences] 
+	http://www.grid.ac/institutes/grid.466766.3...... http://www.grid.ac/institutes/grid.419125.a...... 0.96............................................. [Institute of Animal Science] was compared to [Institute of Animal Sciences] 
+	http://risis.eu/orgreg_20170718/resource/CZ1001.. http://www.grid.ac/institutes/grid.464332.4...... 0.96............................................. [Institute of Animal Sciences] was compared to [Institute of Animal Science] 
+	http://www.grid.ac/institutes/grid.464332.4...... http://risis.eu/orgreg_20170718/resource/CZ1001.. 0.96............................................. [Institute of Animal Sciences] was compared to [Institute of Animal Science] 
+	http://www.grid.ac/institutes/grid.419125.a...... http://risis.eu/orgreg_20170718/resource/CZ1001.. 1................................................ [Institute of Animal Science] was compared to [Institute of Animal Science] 
+	http://risis.eu/orgreg_20170718/resource/CZ1001.. http://www.grid.ac/institutes/grid.419125.a...... 1................................................ [Institute of Animal Science] was compared to [Institute of Animal Science] 
+	http://risis.eu/orgreg_20170718/resource/CZ1001.. http://www.grid.ac/institutes/grid.466766.3...... 0.96............................................. [Institute of Animal Sciences] was compared to [Institute of Animal Science] 
+	http://www.grid.ac/institutes/grid.466766.3...... http://risis.eu/orgreg_20170718/resource/CZ1001.. 0.96............................................. [Institute of Animal Sciences] was compared to [Institute of Animal Science] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.419125.a...... 14.605174........................................ 
+	http://www.grid.ac/institutes/grid.419125.a...... 50.030773........................................ 
+	http://www.grid.ac/institutes/grid.419125.a...... http://www.vuzv.cz/.............................. 
+	http://www.grid.ac/institutes/grid.419125.a...... Research Institute of Animal Science............. 
+	http://www.grid.ac/institutes/grid.419125.a...... Institute of Animal Science...................... 
+	http://risis.eu/orgreg_20170718/resource/CZ1001.. 14.599438........................................ 
+	http://risis.eu/orgreg_20170718/resource/CZ1001.. 50.031997........................................ 
+	http://risis.eu/orgreg_20170718/resource/CZ1001.. www.vuzv.cz/..................................... 
+	http://risis.eu/orgreg_20170718/resource/CZ1001.. Institute of Animal Science...................... 
+	http://www.grid.ac/institutes/grid.464332.4...... 116.275375....................................... 
+	http://www.grid.ac/institutes/grid.464332.4...... 40.02986......................................... 
+	http://www.grid.ac/institutes/grid.464332.4...... http://en.iascaas.net.cn/........................ 
+	http://www.grid.ac/institutes/grid.464332.4...... Institute of Animal Sciences..................... 
+	http://www.grid.ac/institutes/grid.466766.3...... 23.213743........................................ 
+	http://www.grid.ac/institutes/grid.466766.3...... 42.813595........................................ 
+	http://www.grid.ac/institutes/grid.466766.3...... http://www.ias.bg/english........................ 
+	http://www.grid.ac/institutes/grid.466766.3...... Institute of Animal Sciences..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:CZ1001', '1:grid.419125.a'), ('2:CZ1001', '3:grid.464332.4'), ('2:CZ1001', '4:grid.466766.3'), ('3:grid.464332.4', '1:grid.419125.a'), ('4:grid.466766.3', '1:grid.419125.a'), ('4:grid.466766.3', '3:grid.464332.4')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

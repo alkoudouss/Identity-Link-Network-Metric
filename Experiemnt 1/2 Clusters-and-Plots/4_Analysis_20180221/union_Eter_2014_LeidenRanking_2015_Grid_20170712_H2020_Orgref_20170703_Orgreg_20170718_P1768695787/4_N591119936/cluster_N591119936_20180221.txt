@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 8263 
+NAME    N591119936
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.437217.4>
+	<http://risis.eu/orgref_20170703/resource/11118444>
+	<http://www.grid.ac/institutes/grid.468686.2>
+	<http://risis.eu/orgref_20170703/resource/6993692>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/11118444.. http://www.grid.ac/institutes/grid.468686.2........ 1.................................................. [Aiken Technical College] was compared to [Aiken Technical College] 
+	http://www.grid.ac/institutes/grid.468686.2........ http://risis.eu/orgref_20170703/resource/11118444.. 1.................................................. [Aiken Technical College] was compared to [Aiken Technical College] 
+	http://www.grid.ac/institutes/grid.437217.4........ http://risis.eu/orgref_20170703/resource/6993692... 1.................................................. [Ranken Technical College] was compared to [Ranken Technical College] 
+	http://risis.eu/orgref_20170703/resource/6993692... http://www.grid.ac/institutes/grid.437217.4........ 1.................................................. [Ranken Technical College] was compared to [Ranken Technical College] 
+	http://risis.eu/orgref_20170703/resource/11118444.. http://risis.eu/orgref_20170703/resource/6993692... 0.916666666667..................................... [Aiken Technical College] was compared to [Ranken Technical College] 
+	http://risis.eu/orgref_20170703/resource/6993692... http://risis.eu/orgref_20170703/resource/11118444.. 0.916666666667..................................... [Aiken Technical College] was compared to [Ranken Technical College] 
+	http://www.grid.ac/institutes/grid.437217.4........ http://www.grid.ac/institutes/grid.468686.2........ 0.916666666667..................................... [Ranken Technical College] was compared to [Aiken Technical College] 
+	http://www.grid.ac/institutes/grid.468686.2........ http://www.grid.ac/institutes/grid.437217.4........ 0.916666666667..................................... [Ranken Technical College] was compared to [Aiken Technical College] 
+	http://www.grid.ac/institutes/grid.468686.2........ http://risis.eu/orgref_20170703/resource/6993692... 0.916666666667..................................... [Aiken Technical College] was compared to [Ranken Technical College] 
+	http://risis.eu/orgref_20170703/resource/6993692... http://www.grid.ac/institutes/grid.468686.2........ 0.916666666667..................................... [Aiken Technical College] was compared to [Ranken Technical College] 
+	http://www.grid.ac/institutes/grid.437217.4........ http://risis.eu/orgref_20170703/resource/11118444.. 0.916666666667..................................... [Ranken Technical College] was compared to [Aiken Technical College] 
+	http://risis.eu/orgref_20170703/resource/11118444.. http://www.grid.ac/institutes/grid.437217.4........ 0.916666666667..................................... [Ranken Technical College] was compared to [Aiken Technical College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.437217.4........ -90.24905.......................................... 
+	http://www.grid.ac/institutes/grid.437217.4........ 38.652885.......................................... 
+	http://www.grid.ac/institutes/grid.437217.4........ http://ranken.edu/................................. 
+	http://www.grid.ac/institutes/grid.437217.4........ Ranken Technical College........................... 
+	http://risis.eu/orgref_20170703/resource/11118444.. http://en.wikipedia.org/wiki?curid=11118444........ 
+	http://risis.eu/orgref_20170703/resource/11118444.. http://www.wikidata.org/wiki/Q4696945.............. 
+	http://risis.eu/orgref_20170703/resource/11118444.. http://www.atc.edu................................. 
+	http://risis.eu/orgref_20170703/resource/11118444.. Aiken Technical College............................ 
+	http://www.grid.ac/institutes/grid.468686.2........ -81.84275.......................................... 
+	http://www.grid.ac/institutes/grid.468686.2........ 33.532967.......................................... 
+	http://www.grid.ac/institutes/grid.468686.2........ http://www.atc.edu/................................ 
+	http://www.grid.ac/institutes/grid.468686.2........ Aiken Technical College............................ 
+	http://risis.eu/orgref_20170703/resource/6993692... http://en.wikipedia.org/wiki?curid=6993692......... 
+	http://risis.eu/orgref_20170703/resource/6993692... http://www.wikidata.org/wiki/Q7293233.............. 
+	http://risis.eu/orgref_20170703/resource/6993692... http://www.ranken.edu.............................. 
+	http://risis.eu/orgref_20170703/resource/6993692... Ranken Technical College........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:11118444', '1:grid.437217.4'), ('3:grid.468686.2', '1:grid.437217.4'), ('3:grid.468686.2', '2:11118444'), ('4:6993692', '1:grid.437217.4'), ('4:6993692', '2:11118444'), ('4:6993692', '3:grid.468686.2')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

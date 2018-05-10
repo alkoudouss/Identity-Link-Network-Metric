@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 6514 
+NAME    N1978223247
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/3984562>
+	<http://risis.eu/leidenRanking_2015/resource/2687>
+	<http://www.grid.ac/institutes/grid.11024.36>
+	<http://risis.eu/cordisH2020/resource/participant_998929669>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/3984562............ http://www.grid.ac/institutes/grid.11024.36................. 1........................................................... [Paris Dauphine University] was compared to [Paris Dauphine University] 
+	http://www.grid.ac/institutes/grid.11024.36................. http://risis.eu/orgref_20170703/resource/3984562............ 1........................................................... [Paris Dauphine University] was compared to [Paris Dauphine University] 
+	http://risis.eu/leidenRanking_2015/resource/2687............ http://www.grid.ac/institutes/grid.11024.36................. 1........................................................... [Paris Dauphine University] was compared to [Paris Dauphine University] 
+	http://www.grid.ac/institutes/grid.11024.36................. http://risis.eu/leidenRanking_2015/resource/2687............ 1........................................................... [Paris Dauphine University] was compared to [Paris Dauphine University] 
+	http://www.grid.ac/institutes/grid.11024.36................. http://risis.eu/cordisH2020/resource/participant_998929669.. 0.96........................................................ [Paris Dauphine University] was compared to [UNIVERSITE PARIS DAUPHINE] 
+	http://risis.eu/cordisH2020/resource/participant_998929669.. http://www.grid.ac/institutes/grid.11024.36................. 0.96........................................................ [Paris Dauphine University] was compared to [UNIVERSITE PARIS DAUPHINE] 
+	http://risis.eu/orgref_20170703/resource/3984562............ http://risis.eu/leidenRanking_2015/resource/2687............ 1........................................................... [Paris Dauphine University] was compared to [Paris Dauphine University] 
+	http://risis.eu/leidenRanking_2015/resource/2687............ http://risis.eu/orgref_20170703/resource/3984562............ 1........................................................... [Paris Dauphine University] was compared to [Paris Dauphine University] 
+	http://risis.eu/orgref_20170703/resource/3984562............ http://risis.eu/cordisH2020/resource/participant_998929669.. 0.96........................................................ [Paris Dauphine University] was compared to [UNIVERSITE PARIS DAUPHINE] 
+	http://risis.eu/cordisH2020/resource/participant_998929669.. http://risis.eu/orgref_20170703/resource/3984562............ 0.96........................................................ [Paris Dauphine University] was compared to [UNIVERSITE PARIS DAUPHINE] 
+	http://risis.eu/leidenRanking_2015/resource/2687............ http://risis.eu/cordisH2020/resource/participant_998929669.. 0.96........................................................ [UNIVERSITE PARIS DAUPHINE] was compared to [Paris Dauphine University] 
+	http://risis.eu/cordisH2020/resource/participant_998929669.. http://risis.eu/leidenRanking_2015/resource/2687............ 0.96........................................................ [UNIVERSITE PARIS DAUPHINE] was compared to [Paris Dauphine University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/3984562............ http://en.wikipedia.org/wiki?curid=3984562.................. 
+	http://risis.eu/orgref_20170703/resource/3984562............ http://www.wikidata.org/wiki/Q1546437....................... 
+	http://risis.eu/orgref_20170703/resource/3984562............ http://www.dauphine.fr...................................... 
+	http://risis.eu/orgref_20170703/resource/3984562............ Paris Dauphine University................................... 
+	http://risis.eu/leidenRanking_2015/resource/2687............ Paris Dauphine University................................... 
+	http://www.grid.ac/institutes/grid.11024.36................. 2.27344..................................................... 
+	http://www.grid.ac/institutes/grid.11024.36................. 48.870018................................................... 
+	http://www.grid.ac/institutes/grid.11024.36................. http://www.dauphine.fr/en/welcome.html...................... 
+	http://www.grid.ac/institutes/grid.11024.36................. Paris Dauphine.............................................. 
+	http://www.grid.ac/institutes/grid.11024.36................. Paris Dauphine University................................... 
+	http://risis.eu/cordisH2020/resource/participant_998929669.. http://risis.eu/cordisH2020/resource/www.dauphine.fr........ 
+	http://risis.eu/cordisH2020/resource/participant_998929669.. UNIVERSITE PARIS DAUPHINE................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:2687', '1:3984562'), ('2:2687', '3:grid.11024.36'), ('2:2687', '4:participant_998929669'), ('3:grid.11024.36', '1:3984562'), ('4:participant_998929669', '1:3984562'), ('4:participant_998929669', '3:grid.11024.36')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

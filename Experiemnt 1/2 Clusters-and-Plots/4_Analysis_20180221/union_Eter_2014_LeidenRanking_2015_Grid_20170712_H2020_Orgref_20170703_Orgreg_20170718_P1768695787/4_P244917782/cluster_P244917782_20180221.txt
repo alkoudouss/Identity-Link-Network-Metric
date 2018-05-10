@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 4873 
+NAME    P244917782
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.239424.a>
+	<http://risis.eu/leidenRanking_2015/resource/1972>
+	<http://risis.eu/orgref_20170703/resource/4019917>
+	<http://www.grid.ac/institutes/grid.413567.2>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.239424.a....... http://risis.eu/orgref_20170703/resource/4019917.. 1................................................. [Boston Medical Center] was compared to [Boston Medical Center] 
+	http://risis.eu/orgref_20170703/resource/4019917.. http://www.grid.ac/institutes/grid.239424.a....... 1................................................. [Boston Medical Center] was compared to [Boston Medical Center] 
+	http://www.grid.ac/institutes/grid.239424.a....... http://risis.eu/leidenRanking_2015/resource/1972.. 1................................................. [Boston Medical Center] was compared to [Boston Medical Center] 
+	http://risis.eu/leidenRanking_2015/resource/1972.. http://www.grid.ac/institutes/grid.239424.a....... 1................................................. [Boston Medical Center] was compared to [Boston Medical Center] 
+	http://risis.eu/leidenRanking_2015/resource/1972.. http://risis.eu/orgref_20170703/resource/4019917.. 1................................................. [Boston Medical Center] was compared to [Boston Medical Center] 
+	http://risis.eu/orgref_20170703/resource/4019917.. http://risis.eu/leidenRanking_2015/resource/1972.. 1................................................. [Boston Medical Center] was compared to [Boston Medical Center] 
+	http://www.grid.ac/institutes/grid.239424.a....... http://www.grid.ac/institutes/grid.413567.2....... 0.909090909091.................................... [Boston Medical Center] was compared to [Houston Medical Center] 
+	http://www.grid.ac/institutes/grid.413567.2....... http://www.grid.ac/institutes/grid.239424.a....... 0.909090909091.................................... [Boston Medical Center] was compared to [Houston Medical Center] 
+	http://risis.eu/orgref_20170703/resource/4019917.. http://www.grid.ac/institutes/grid.413567.2....... 0.909090909091.................................... [Houston Medical Center] was compared to [Boston Medical Center] 
+	http://www.grid.ac/institutes/grid.413567.2....... http://risis.eu/orgref_20170703/resource/4019917.. 0.909090909091.................................... [Houston Medical Center] was compared to [Boston Medical Center] 
+	http://risis.eu/leidenRanking_2015/resource/1972.. http://www.grid.ac/institutes/grid.413567.2....... 0.909090909091.................................... [Houston Medical Center] was compared to [Boston Medical Center] 
+	http://www.grid.ac/institutes/grid.413567.2....... http://risis.eu/leidenRanking_2015/resource/1972.. 0.909090909091.................................... [Houston Medical Center] was compared to [Boston Medical Center] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.239424.a....... -71.0735.......................................... 
+	http://www.grid.ac/institutes/grid.239424.a....... 42.3349........................................... 
+	http://www.grid.ac/institutes/grid.239424.a....... http://www.bmc.org/............................... 
+	http://www.grid.ac/institutes/grid.239424.a....... Boston Medical Center............................. 
+	http://risis.eu/leidenRanking_2015/resource/1972.. Boston Medical Center............................. 
+	http://risis.eu/orgref_20170703/resource/4019917.. http://en.wikipedia.org/wiki?curid=4019917........ 
+	http://risis.eu/orgref_20170703/resource/4019917.. http://www.wikidata.org/wiki/Q4947980............. 
+	http://risis.eu/orgref_20170703/resource/4019917.. http://www.bmc.org................................ 
+	http://risis.eu/orgref_20170703/resource/4019917.. Boston Medical Center............................. 
+	http://www.grid.ac/institutes/grid.413567.2....... -83.63152......................................... 
+	http://www.grid.ac/institutes/grid.413567.2....... 32.616894......................................... 
+	http://www.grid.ac/institutes/grid.413567.2....... https://www.hhc.org/.............................. 
+	http://www.grid.ac/institutes/grid.413567.2....... Houston County Hospital........................... 
+	http://www.grid.ac/institutes/grid.413567.2....... Houston Medical Center............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1972', '1:grid.239424.a'), ('2:1972', '4:grid.413567.2'), ('3:4019917', '1:grid.239424.a'), ('3:4019917', '2:1972'), ('4:grid.413567.2', '1:grid.239424.a'), ('4:grid.413567.2', '3:4019917')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

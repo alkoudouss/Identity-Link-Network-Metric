@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 32 
+NAME    P735779436
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/PT0067>
+	<http://risis.eu/eter_2014/resource/PT0067>
+	<http://www.grid.ac/institutes/grid.410954.d>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/PT0067.. http://risis.eu/eter_2014/resource/PT0067........ 0.982142857143................................... [university institute psychological	 social life sciences] was compared to [university institute psychological social life sciences] 
+	http://risis.eu/eter_2014/resource/PT0067........ http://www.grid.ac/institutes/grid.410954.d...... 1................................................ [instituto universitario ciencias psicologicas sociais e da vida] was compared to [instituto universitario ciencias psicologicas sociais e da vida] 
+	http://risis.eu/eter_2014/resource/PT0067........ http://risis.eu/orgreg_20170718/resource/PT0067.. 0.982142857143................................... [university institute psychological	 social life sciences] was compared to [university institute psychological social life sciences] 
+	http://www.grid.ac/institutes/grid.410954.d...... http://risis.eu/eter_2014/resource/PT0067........ 1................................................ [instituto universitario ciencias psicologicas sociais e da vida] was compared to [instituto universitario ciencias psicologicas sociais e da vida] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/PT0067.. -9.1393366....................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0067.. 38.7222524....................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0067.. http://www.ispa.pt............................... 
+	http://risis.eu/orgreg_20170718/resource/PT0067.. University Institute of Psychological	 Social and Life Sciences 
+	http://risis.eu/eter_2014/resource/PT0067........ 38,7222524....................................... 
+	http://risis.eu/eter_2014/resource/PT0067........ -9,1393366....................................... 
+	http://risis.eu/eter_2014/resource/PT0067........ http://www.ispa.pt............................... 
+	http://risis.eu/eter_2014/resource/PT0067........ a................................................ 
+	http://risis.eu/eter_2014/resource/PT0067........ University Institute of Psychological, Social and Life Sciences 
+	http://risis.eu/eter_2014/resource/PT0067........ Instituto Universitário de Ciências Psicológicas, Sociais e da Vida 
+	http://www.grid.ac/institutes/grid.410954.d...... -9.126017........................................ 
+	http://www.grid.ac/institutes/grid.410954.d...... 38.71189......................................... 
+	http://www.grid.ac/institutes/grid.410954.d...... http://www.ispa.pt/pagina/ispa-instituto-universitario-de-ciencias-psicologicas-sociais-e-da-vida 
+	http://www.grid.ac/institutes/grid.410954.d...... Instituto Universitário de Ciências Psicológicas, Sociais e da Vida 
+
+NETWORK ANALYSIS
+	NETWORK [('P1075405485-PT0067', 'P735779436-PT0067'), ('P1075405485-PT0067', 'P1801703157-grid.410954.d')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 3627 
+NAME    N1859032684
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/14001987>
+	<http://risis.eu/orgref_20170703/resource/4654529>
+	<http://risis.eu/orgref_20170703/resource/1839902>
+	<http://risis.eu/orgref_20170703/resource/6036743>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/1839902... http://risis.eu/orgref_20170703/resource/6036743... 0.8................................................ [NYC Health + Hospitals/Bellevue] was compared to [NYC Health + Hospitals/Harlem] 
+	http://risis.eu/orgref_20170703/resource/6036743... http://risis.eu/orgref_20170703/resource/1839902... 0.8................................................ [NYC Health + Hospitals/Bellevue] was compared to [NYC Health + Hospitals/Harlem] 
+	http://risis.eu/orgref_20170703/resource/4654529... http://risis.eu/orgref_20170703/resource/6036743... 0.821428571429..................................... [NYC Health + Hospitals/Jacobi] was compared to [NYC Health + Hospitals/Harlem] 
+	http://risis.eu/orgref_20170703/resource/6036743... http://risis.eu/orgref_20170703/resource/4654529... 0.821428571429..................................... [NYC Health + Hospitals/Jacobi] was compared to [NYC Health + Hospitals/Harlem] 
+	http://risis.eu/orgref_20170703/resource/14001987.. http://risis.eu/orgref_20170703/resource/4654529... 0.827586206897..................................... [NYC Health + Hospitals/Lincoln] was compared to [NYC Health + Hospitals/Jacobi] 
+	http://risis.eu/orgref_20170703/resource/4654529... http://risis.eu/orgref_20170703/resource/14001987.. 0.827586206897..................................... [NYC Health + Hospitals/Lincoln] was compared to [NYC Health + Hospitals/Jacobi] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/14001987.. http://en.wikipedia.org/wiki?curid=14001987........ 
+	http://risis.eu/orgref_20170703/resource/14001987.. http://www.wikidata.org/wiki/Q6550756.............. 
+	http://risis.eu/orgref_20170703/resource/14001987.. http://nychhc.org/lincoln.......................... 
+	http://risis.eu/orgref_20170703/resource/14001987.. NYC Health + Hospitals/Lincoln..................... 
+	http://risis.eu/orgref_20170703/resource/4654529... http://en.wikipedia.org/wiki?curid=4654529......... 
+	http://risis.eu/orgref_20170703/resource/4654529... http://www.wikidata.org/wiki/Q6119635.............. 
+	http://risis.eu/orgref_20170703/resource/4654529... http://nychhc.org/jacobi........................... 
+	http://risis.eu/orgref_20170703/resource/4654529... NYC Health + Hospitals/Jacobi...................... 
+	http://risis.eu/orgref_20170703/resource/1839902... http://en.wikipedia.org/wiki?curid=1839902......... 
+	http://risis.eu/orgref_20170703/resource/1839902... http://www.wikidata.org/wiki/Q2894927.............. 
+	http://risis.eu/orgref_20170703/resource/1839902... http://nychhc.org/bellevue......................... 
+	http://risis.eu/orgref_20170703/resource/1839902... NYC Health + Hospitals/Bellevue.................... 
+	http://risis.eu/orgref_20170703/resource/6036743... http://en.wikipedia.org/wiki?curid=6036743......... 
+	http://risis.eu/orgref_20170703/resource/6036743... http://www.wikidata.org/wiki/Q14956756............. 
+	http://risis.eu/orgref_20170703/resource/6036743... http://nychhc.org/harlem........................... 
+	http://risis.eu/orgref_20170703/resource/6036743... NYC Health + Hospitals/Harlem...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:4654529', '1:14001987'), ('4:6036743', '2:4654529'), ('4:6036743', '3:1839902')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

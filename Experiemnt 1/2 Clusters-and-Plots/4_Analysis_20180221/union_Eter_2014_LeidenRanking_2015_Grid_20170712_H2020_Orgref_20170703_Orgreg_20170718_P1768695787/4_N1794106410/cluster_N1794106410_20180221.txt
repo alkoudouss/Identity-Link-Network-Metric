@@ -1,0 +1,58 @@
+SIZE    4   
+CLUSTER 227 
+NAME    N1794106410
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.427142.6>
+	<http://www.grid.ac/institutes/grid.455967.c>
+	<http://www.grid.ac/institutes/grid.437250.7>
+	<http://www.grid.ac/institutes/grid.423350.3>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.455967.c.. http://www.grid.ac/institutes/grid.423350.3.. 0.842105263158............................... [Photonic BioSystems (United States)] was compared to [Photonic Systems (United States)] 
+	http://www.grid.ac/institutes/grid.423350.3.. http://www.grid.ac/institutes/grid.455967.c.. 0.842105263158............................... [Photonic BioSystems (United States)] was compared to [Photonic Systems (United States)] 
+	http://www.grid.ac/institutes/grid.427142.6.. http://www.grid.ac/institutes/grid.455967.c.. 0.875........................................ [Photon Systems (United States)] was compared to [Photonic Systems (United States)] 
+	http://www.grid.ac/institutes/grid.455967.c.. http://www.grid.ac/institutes/grid.427142.6.. 0.875........................................ [Photon Systems (United States)] was compared to [Photonic Systems (United States)] 
+	http://www.grid.ac/institutes/grid.455967.c.. http://www.grid.ac/institutes/grid.437250.7.. 0.8125....................................... [Phoenix Systems (United States)] was compared to [Photonic Systems (United States)] 
+	http://www.grid.ac/institutes/grid.437250.7.. http://www.grid.ac/institutes/grid.455967.c.. 0.8125....................................... [Phoenix Systems (United States)] was compared to [Photonic Systems (United States)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.427142.6.. -117.92156................................... 
+	http://www.grid.ac/institutes/grid.427142.6.. 34.09118..................................... 
+	http://www.grid.ac/institutes/grid.427142.6.. http://www.photonsystems.com/................ 
+	http://www.grid.ac/institutes/grid.427142.6.. Photon Systems (United States)............... 
+	http://www.grid.ac/institutes/grid.455967.c.. -71.25221.................................... 
+	http://www.grid.ac/institutes/grid.455967.c.. 42.524933.................................... 
+	http://www.grid.ac/institutes/grid.455967.c.. http://www.photonicsinc.com/................. 
+	http://www.grid.ac/institutes/grid.455967.c.. Photonic Systems (United States)............. 
+	http://www.grid.ac/institutes/grid.437250.7.. Phoenix Systems (United States).............. 
+	http://www.grid.ac/institutes/grid.423350.3.. -122.09808................................... 
+	http://www.grid.ac/institutes/grid.423350.3.. 47.668636.................................... 
+	http://www.grid.ac/institutes/grid.423350.3.. http://www.photonicbiosystems.com/........... 
+	http://www.grid.ac/institutes/grid.423350.3.. Photonic BioSystems (United States).......... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.455967.c', '1:grid.427142.6'), ('3:grid.437250.7', '2:grid.455967.c'), ('4:grid.423350.3', '2:grid.455967.c')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 2
+	QUALITY                         : 0.667
+	QUALITY USED                    : 0.667
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 0.5 QUALITY 0.667 QUALITY USED 0.667
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 0.5 QUALITY 0.667 QUALITY USED 0.667

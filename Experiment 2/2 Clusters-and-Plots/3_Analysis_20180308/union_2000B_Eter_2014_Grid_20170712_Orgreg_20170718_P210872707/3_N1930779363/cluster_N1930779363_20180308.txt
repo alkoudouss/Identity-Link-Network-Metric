@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 276 
+NAME    N1930779363
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.11780.3f>
+	<http://www.grid.ac/institutes/grid.423875.f>
+	<http://risis.eu/eter_2014/resource/IT0077>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.11780.3f.. http://risis.eu/eter_2014/resource/IT0077.... 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://www.grid.ac/institutes/grid.423875.f.. http://risis.eu/eter_2014/resource/IT0077.... 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/IT0077.... http://www.grid.ac/institutes/grid.11780.3f.. 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/IT0077.... http://www.grid.ac/institutes/grid.423875.f.. 1............................................ Near each other by at most 2000 meter(s)..... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.11780.3f.. 14.795022.................................... 
+	http://www.grid.ac/institutes/grid.11780.3f.. 40.76868..................................... 
+	http://www.grid.ac/institutes/grid.11780.3f.. http://www.unisa.it/......................... 
+	http://www.grid.ac/institutes/grid.11780.3f.. University of Salerno........................ 
+	http://www.grid.ac/institutes/grid.423875.f.. 14.791975.................................... 
+	http://www.grid.ac/institutes/grid.423875.f.. 40.768776.................................... 
+	http://www.grid.ac/institutes/grid.423875.f.. http://www.crmpa.it/index.php/en/............ 
+	http://www.grid.ac/institutes/grid.423875.f.. Centro di Ricerca in Matematica Pura ed Applicata 
+	http://risis.eu/eter_2014/resource/IT0077.... 40,773194.................................... 
+	http://risis.eu/eter_2014/resource/IT0077.... 14,796561.................................... 
+	http://risis.eu/eter_2014/resource/IT0077.... http://www.unisa.it.......................... 
+	http://risis.eu/eter_2014/resource/IT0077.... a............................................ 
+	http://risis.eu/eter_2014/resource/IT0077.... University of Salerno........................ 
+	http://risis.eu/eter_2014/resource/IT0077.... Università degli Studi di SALERNO........... 
+
+NETWORK ANALYSIS
+	NETWORK [('N1930779363-IT0077', 'P604540000-grid.11780.3f'), ('N1930779363-IT0077', 'P1832988787-grid.423875.f')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

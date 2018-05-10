@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 5394 
+NAME    N1791786651
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/DE0285>
+	<http://risis.eu/cordisH2020/resource/participant_972166496>
+	<http://www.grid.ac/institutes/grid.440967.8>
+	<http://risis.eu/eter_2014/resource/DE0285>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.440967.8................. http://risis.eu/eter_2014/resource/DE0285................... 1........................................................... [Technische Hochschule Mittelhessen] was compared to [Technische Hochschule Mittelhessen] 
+	http://risis.eu/eter_2014/resource/DE0285................... http://www.grid.ac/institutes/grid.440967.8................. 1........................................................... [Technische Hochschule Mittelhessen] was compared to [Technische Hochschule Mittelhessen] 
+	http://risis.eu/cordisH2020/resource/participant_972166496.. http://www.grid.ac/institutes/grid.440967.8................. 1........................................................... [Technische Hochschule Mittelhessen] was compared to [TECHNISCHE HOCHSCHULE MITTELHESSEN] 
+	http://www.grid.ac/institutes/grid.440967.8................. http://risis.eu/cordisH2020/resource/participant_972166496.. 1........................................................... [Technische Hochschule Mittelhessen] was compared to [TECHNISCHE HOCHSCHULE MITTELHESSEN] 
+	http://risis.eu/cordisH2020/resource/participant_972166496.. http://risis.eu/eter_2014/resource/DE0285................... 1........................................................... [TECHNISCHE HOCHSCHULE MITTELHESSEN] was compared to [Technische Hochschule Mittelhessen] 
+	http://risis.eu/eter_2014/resource/DE0285................... http://risis.eu/cordisH2020/resource/participant_972166496.. 1........................................................... [TECHNISCHE HOCHSCHULE MITTELHESSEN] was compared to [Technische Hochschule Mittelhessen] 
+	http://risis.eu/orgreg_20170718/resource/DE0285............. http://risis.eu/cordisH2020/resource/participant_972166496.. 1........................................................... [Technische Hochschule Mittelhessen] was compared to [TECHNISCHE HOCHSCHULE MITTELHESSEN] 
+	http://risis.eu/cordisH2020/resource/participant_972166496.. http://risis.eu/orgreg_20170718/resource/DE0285............. 1........................................................... [Technische Hochschule Mittelhessen] was compared to [TECHNISCHE HOCHSCHULE MITTELHESSEN] 
+	http://risis.eu/orgreg_20170718/resource/DE0285............. http://risis.eu/eter_2014/resource/DE0285................... 1........................................................... [Technische Hochschule Mittelhessen] was compared to [Technische Hochschule Mittelhessen] 
+	http://risis.eu/eter_2014/resource/DE0285................... http://risis.eu/orgreg_20170718/resource/DE0285............. 1........................................................... [Technische Hochschule Mittelhessen] was compared to [Technische Hochschule Mittelhessen] 
+	http://risis.eu/orgreg_20170718/resource/DE0285............. http://www.grid.ac/institutes/grid.440967.8................. 1........................................................... [Technische Hochschule Mittelhessen] was compared to [Technische Hochschule Mittelhessen] 
+	http://www.grid.ac/institutes/grid.440967.8................. http://risis.eu/orgreg_20170718/resource/DE0285............. 1........................................................... [Technische Hochschule Mittelhessen] was compared to [Technische Hochschule Mittelhessen] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgreg_20170718/resource/DE0285............. 50.587406................................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0285............. 8.678739.................................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0285............. http://www.thm.de/site/..................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0285............. Technische Hochschule Mittelhessen.......................... 
+	http://risis.eu/cordisH2020/resource/participant_972166496.. http://risis.eu/cordisH2020/resource/www.fh-giessen-friedberg.de 
+	http://risis.eu/cordisH2020/resource/participant_972166496.. TECHNISCHE HOCHSCHULE MITTELHESSEN.......................... 
+	http://www.grid.ac/institutes/grid.440967.8................. 8.683259.................................................... 
+	http://www.grid.ac/institutes/grid.440967.8................. 50.587097................................................... 
+	http://www.grid.ac/institutes/grid.440967.8................. http://www.thm.de/.......................................... 
+	http://www.grid.ac/institutes/grid.440967.8................. Technische Hochschule Mittelhessen.......................... 
+	http://risis.eu/eter_2014/resource/DE0285................... 50,587406................................................... 
+	http://risis.eu/eter_2014/resource/DE0285................... 8,678739.................................................... 
+	http://risis.eu/eter_2014/resource/DE0285................... http://www.thm.de/site/..................................... 
+	http://risis.eu/eter_2014/resource/DE0285................... a........................................................... 
+	http://risis.eu/eter_2014/resource/DE0285................... Technische Hochschule Mittelhessen.......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:DE0285', '3:grid.440967.8'), ('2:participant_972166496', '1:DE0285'), ('3:grid.440967.8', '2:participant_972166496'), ('4:DE0285', '1:DE0285'), ('4:DE0285', '2:participant_972166496'), ('4:DE0285', '3:grid.440967.8')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

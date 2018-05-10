@@ -1,0 +1,60 @@
+SIZE    3   
+CLUSTER 995 
+NAME    N1771157788
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/SI0051>
+	<http://risis.eu/eter_2014/resource/SI0006>
+	<http://risis.eu/orgreg_20170718/resource/SI0051>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/eter_2014/resource/SI0051........ http://risis.eu/orgreg_20170718/resource/SI0051.. 1................................................ [university lubeck] was compared to [university lubeck] 
+	http://risis.eu/eter_2014/resource/SI0051........ http://risis.eu/orgreg_20170718/resource/SI0051.. 1................................................ [faculty business management sciences novo mesto] was compared to [faculty business management sciences novo mesto] 
+	http://risis.eu/eter_2014/resource/SI0006........ http://risis.eu/orgreg_20170718/resource/SI0051.. 1................................................ [faculty business management sciences novo mesto] was compared to [faculty business management sciences novo mesto] 
+	http://risis.eu/orgreg_20170718/resource/SI0051.. http://risis.eu/eter_2014/resource/SI0006........ 1................................................ [faculty business management sciences novo mesto] was compared to [faculty business management sciences novo mesto] 
+	http://risis.eu/orgreg_20170718/resource/SI0051.. http://risis.eu/eter_2014/resource/SI0051........ 1................................................ [university lubeck] was compared to [university lubeck] 
+	http://risis.eu/orgreg_20170718/resource/SI0051.. http://risis.eu/eter_2014/resource/SI0051........ 1................................................ [faculty business management sciences novo mesto] was compared to [faculty business management sciences novo mesto] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/eter_2014/resource/SI0051........ 45,801082........................................ 
+	http://risis.eu/eter_2014/resource/SI0051........ 15,171009........................................ 
+	http://risis.eu/eter_2014/resource/SI0051........ http://fpuv.vs-nm.si/en/home/.................... 
+	http://risis.eu/eter_2014/resource/SI0051........ a................................................ 
+	http://risis.eu/eter_2014/resource/SI0051........ Faculty of business and management sciences Novo mesto 
+	http://risis.eu/eter_2014/resource/SI0051........ Fakulteta za poslovne in upravne vede Novo mesto. 
+	http://risis.eu/eter_2014/resource/SI0006........ 45,801082........................................ 
+	http://risis.eu/eter_2014/resource/SI0006........ 15,171009........................................ 
+	http://risis.eu/eter_2014/resource/SI0006........ http://fpuv.vs-nm.si/en/home/.................... 
+	http://risis.eu/eter_2014/resource/SI0006........ a................................................ 
+	http://risis.eu/eter_2014/resource/SI0006........ Faculty of Business and Management Sciences Novo mesto 
+	http://risis.eu/eter_2014/resource/SI0006........ Visoka šola za upravljanje in poslovanje Novo mesto 
+	http://risis.eu/orgreg_20170718/resource/SI0051.. 15.171009........................................ 
+	http://risis.eu/orgreg_20170718/resource/SI0051.. 45.801082........................................ 
+	http://risis.eu/orgreg_20170718/resource/SI0051.. http://fpuv.vs-nm.si/en/home/.................... 
+	http://risis.eu/orgreg_20170718/resource/SI0051.. Faculty of business and management sciences Novo mesto 
+
+NETWORK ANALYSIS
+	NETWORK [('N1771157788-SI0006', 'N1720629651-SI0051'), ('P1742741752-SI0051', 'N1720629651-SI0051')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

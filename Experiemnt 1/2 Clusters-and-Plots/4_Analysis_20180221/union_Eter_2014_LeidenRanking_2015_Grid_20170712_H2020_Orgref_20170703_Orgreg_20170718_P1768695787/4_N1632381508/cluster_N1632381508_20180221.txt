@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 16153 
+NAME    N1632381508
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.440623.7>
+	<http://risis.eu/orgref_20170703/resource/919229>
+	<http://risis.eu/orgref_20170703/resource/37199412>
+	<http://www.grid.ac/institutes/grid.443552.1>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.440623.7........ http://risis.eu/orgref_20170703/resource/37199412.. 1.................................................. [Shandong Jianzhu University] was compared to [Shandong Jianzhu University] 
+	http://risis.eu/orgref_20170703/resource/37199412.. http://www.grid.ac/institutes/grid.440623.7........ 1.................................................. [Shandong Jianzhu University] was compared to [Shandong Jianzhu University] 
+	http://risis.eu/orgref_20170703/resource/919229.... http://www.grid.ac/institutes/grid.443552.1........ 1.................................................. [Shenyang Jianzhu University] was compared to [Shenyang Jianzhu University] 
+	http://www.grid.ac/institutes/grid.443552.1........ http://risis.eu/orgref_20170703/resource/919229.... 1.................................................. [Shenyang Jianzhu University] was compared to [Shenyang Jianzhu University] 
+	http://risis.eu/orgref_20170703/resource/919229.... http://risis.eu/orgref_20170703/resource/37199412.. 0.888888888889..................................... [Shandong Jianzhu University] was compared to [Shenyang Jianzhu University] 
+	http://risis.eu/orgref_20170703/resource/37199412.. http://risis.eu/orgref_20170703/resource/919229.... 0.888888888889..................................... [Shandong Jianzhu University] was compared to [Shenyang Jianzhu University] 
+	http://www.grid.ac/institutes/grid.440623.7........ http://www.grid.ac/institutes/grid.443552.1........ 0.888888888889..................................... [Shandong Jianzhu University] was compared to [Shenyang Jianzhu University] 
+	http://www.grid.ac/institutes/grid.443552.1........ http://www.grid.ac/institutes/grid.440623.7........ 0.888888888889..................................... [Shandong Jianzhu University] was compared to [Shenyang Jianzhu University] 
+	http://www.grid.ac/institutes/grid.440623.7........ http://risis.eu/orgref_20170703/resource/919229.... 0.888888888889..................................... [Shandong Jianzhu University] was compared to [Shenyang Jianzhu University] 
+	http://risis.eu/orgref_20170703/resource/919229.... http://www.grid.ac/institutes/grid.440623.7........ 0.888888888889..................................... [Shandong Jianzhu University] was compared to [Shenyang Jianzhu University] 
+	http://risis.eu/orgref_20170703/resource/37199412.. http://www.grid.ac/institutes/grid.443552.1........ 0.888888888889..................................... [Shenyang Jianzhu University] was compared to [Shandong Jianzhu University] 
+	http://www.grid.ac/institutes/grid.443552.1........ http://risis.eu/orgref_20170703/resource/37199412.. 0.888888888889..................................... [Shenyang Jianzhu University] was compared to [Shandong Jianzhu University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.440623.7........ Shandong Jianzhu University........................ 
+	http://risis.eu/orgref_20170703/resource/919229.... http://en.wikipedia.org/wiki?curid=919229.......... 
+	http://risis.eu/orgref_20170703/resource/919229.... http://www.wikidata.org/wiki/Q7494352.............. 
+	http://risis.eu/orgref_20170703/resource/919229.... http://english.sjzu.edu.cn/index.aspx?language=en.. 
+	http://risis.eu/orgref_20170703/resource/919229.... Shenyang Jianzhu University........................ 
+	http://risis.eu/orgref_20170703/resource/37199412.. http://en.wikipedia.org/wiki?curid=37199412........ 
+	http://risis.eu/orgref_20170703/resource/37199412.. http://www.wikidata.org/wiki/Q7487930.............. 
+	http://risis.eu/orgref_20170703/resource/37199412.. http://www.sdjzu.edu.cn/index.php.................. 
+	http://risis.eu/orgref_20170703/resource/37199412.. Shandong Jianzhu University........................ 
+	http://www.grid.ac/institutes/grid.443552.1........ Shenyang Jianzhu University........................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:919229', '1:grid.440623.7'), ('2:919229', '3:37199412'), ('2:919229', '4:grid.443552.1'), ('3:37199412', '1:grid.440623.7'), ('4:grid.443552.1', '1:grid.440623.7'), ('4:grid.443552.1', '3:37199412')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

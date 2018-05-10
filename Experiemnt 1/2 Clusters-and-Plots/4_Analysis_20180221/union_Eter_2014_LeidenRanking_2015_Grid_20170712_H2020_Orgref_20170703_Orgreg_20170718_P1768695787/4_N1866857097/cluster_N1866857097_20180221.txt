@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 3597 
+NAME    N1866857097
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.11956.3a>
+	<http://risis.eu/cordisH2020/resource/participant_999877359>
+	<http://risis.eu/orgref_20170703/resource/910541>
+	<http://risis.eu/leidenRanking_2015/resource/1432>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.11956.3a................. http://risis.eu/orgref_20170703/resource/910541............. 1........................................................... [Stellenbosch University] was compared to [Stellenbosch University] 
+	http://risis.eu/orgref_20170703/resource/910541............. http://www.grid.ac/institutes/grid.11956.3a................. 1........................................................... [Stellenbosch University] was compared to [Stellenbosch University] 
+	http://www.grid.ac/institutes/grid.11956.3a................. http://risis.eu/leidenRanking_2015/resource/1432............ 1........................................................... [Stellenbosch University] was compared to [Stellenbosch University] 
+	http://risis.eu/leidenRanking_2015/resource/1432............ http://www.grid.ac/institutes/grid.11956.3a................. 1........................................................... [Stellenbosch University] was compared to [Stellenbosch University] 
+	http://www.grid.ac/institutes/grid.11956.3a................. http://risis.eu/cordisH2020/resource/participant_999877359.. 1........................................................... [Stellenbosch University] was compared to [STELLENBOSCH UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_999877359.. http://www.grid.ac/institutes/grid.11956.3a................. 1........................................................... [Stellenbosch University] was compared to [STELLENBOSCH UNIVERSITY] 
+	http://risis.eu/orgref_20170703/resource/910541............. http://risis.eu/leidenRanking_2015/resource/1432............ 1........................................................... [Stellenbosch University] was compared to [Stellenbosch University] 
+	http://risis.eu/leidenRanking_2015/resource/1432............ http://risis.eu/orgref_20170703/resource/910541............. 1........................................................... [Stellenbosch University] was compared to [Stellenbosch University] 
+	http://risis.eu/cordisH2020/resource/participant_999877359.. http://risis.eu/orgref_20170703/resource/910541............. 1........................................................... [Stellenbosch University] was compared to [STELLENBOSCH UNIVERSITY] 
+	http://risis.eu/orgref_20170703/resource/910541............. http://risis.eu/cordisH2020/resource/participant_999877359.. 1........................................................... [Stellenbosch University] was compared to [STELLENBOSCH UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_999877359.. http://risis.eu/leidenRanking_2015/resource/1432............ 1........................................................... [STELLENBOSCH UNIVERSITY] was compared to [Stellenbosch University] 
+	http://risis.eu/leidenRanking_2015/resource/1432............ http://risis.eu/cordisH2020/resource/participant_999877359.. 1........................................................... [STELLENBOSCH UNIVERSITY] was compared to [Stellenbosch University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.11956.3a................. 18.862043................................................... 
+	http://www.grid.ac/institutes/grid.11956.3a................. -33.933163.................................................. 
+	http://www.grid.ac/institutes/grid.11956.3a................. http://www.sun.ac.za/english................................ 
+	http://www.grid.ac/institutes/grid.11956.3a................. Universiteit van Stellenbosch............................... 
+	http://www.grid.ac/institutes/grid.11956.3a................. University of Stellenbosch.................................. 
+	http://www.grid.ac/institutes/grid.11956.3a................. Stellenbosch University..................................... 
+	http://risis.eu/cordisH2020/resource/participant_999877359.. STELLENBOSCH UNIVERSITY..................................... 
+	http://risis.eu/orgref_20170703/resource/910541............. http://en.wikipedia.org/wiki?curid=910541................... 
+	http://risis.eu/orgref_20170703/resource/910541............. http://www.wikidata.org/wiki/Q1066492....................... 
+	http://risis.eu/orgref_20170703/resource/910541............. http://www.sun.ac.za........................................ 
+	http://risis.eu/orgref_20170703/resource/910541............. Stellenbosch University..................................... 
+	http://risis.eu/leidenRanking_2015/resource/1432............ Stellenbosch University..................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_999877359', '1:grid.11956.3a'), ('3:910541', '1:grid.11956.3a'), ('3:910541', '2:participant_999877359'), ('4:1432', '1:grid.11956.3a'), ('4:1432', '2:participant_999877359'), ('4:1432', '3:910541')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

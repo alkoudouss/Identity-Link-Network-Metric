@@ -1,0 +1,59 @@
+SIZE    3   
+CLUSTER 1239 
+NAME    N1831845580
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/SI0060>
+	<http://risis.eu/eter_2014/resource/SI0060>
+	<http://www.grid.ac/institutes/grid.459447.f>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/SI0060.. http://www.grid.ac/institutes/grid.459447.f...... 1................................................ [college industrial engineering] was compared to [college industrial engineering] 
+	http://risis.eu/orgreg_20170718/resource/SI0060.. http://risis.eu/eter_2014/resource/SI0060........ 1................................................ [college industrial engineering] was compared to [college industrial engineering] 
+	http://risis.eu/eter_2014/resource/SI0060........ http://www.grid.ac/institutes/grid.459447.f...... 1................................................ [college industrial engineering] was compared to [college industrial engineering] 
+	http://risis.eu/eter_2014/resource/SI0060........ http://risis.eu/orgreg_20170718/resource/SI0060.. 1................................................ [college industrial engineering] was compared to [college industrial engineering] 
+	http://www.grid.ac/institutes/grid.459447.f...... http://risis.eu/eter_2014/resource/SI0060........ 1................................................ [college industrial engineering] was compared to [college industrial engineering] 
+	http://www.grid.ac/institutes/grid.459447.f...... http://risis.eu/orgreg_20170718/resource/SI0060.. 1................................................ [college industrial engineering] was compared to [college industrial engineering] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/SI0060.. 15.245925........................................ 
+	http://risis.eu/orgreg_20170718/resource/SI0060.. 46.238639........................................ 
+	http://risis.eu/orgreg_20170718/resource/SI0060.. http://www.vspi.si/index_e.asp................... 
+	http://risis.eu/orgreg_20170718/resource/SI0060.. College of Industrial Engineering................ 
+	http://risis.eu/eter_2014/resource/SI0060........ 46,238639........................................ 
+	http://risis.eu/eter_2014/resource/SI0060........ 15,245925........................................ 
+	http://risis.eu/eter_2014/resource/SI0060........ http://www.vspi.si/index_e.asp................... 
+	http://risis.eu/eter_2014/resource/SI0060........ a................................................ 
+	http://risis.eu/eter_2014/resource/SI0060........ College of Industrial Engineering................ 
+	http://risis.eu/eter_2014/resource/SI0060........ Visoka šola za proizvodno inženirstvo, Celje... 
+	http://www.grid.ac/institutes/grid.459447.f...... 15.266618........................................ 
+	http://www.grid.ac/institutes/grid.459447.f...... 46.232136........................................ 
+	http://www.grid.ac/institutes/grid.459447.f...... http://www.vspi.si/index_e.asp................... 
+	http://www.grid.ac/institutes/grid.459447.f...... Visoka Sola Za Proizvodno Inzenirstvo............ 
+	http://www.grid.ac/institutes/grid.459447.f...... College of Industrial Engineering................ 
+
+NETWORK ANALYSIS
+	NETWORK [('N1831845580-SI0060', 'P2133347065-grid.459447.f'), ('N1831845580-SI0060', 'P1853957665-SI0060'), ('P1853957665-SI0060', 'P2133347065-grid.459447.f')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

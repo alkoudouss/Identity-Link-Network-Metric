@@ -1,0 +1,70 @@
+SIZE    4   
+CLUSTER 1852 
+NAME    N1122523006
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.17329.3e>
+	<http://risis.eu/orgref_20170703/resource/4800542>
+	<http://risis.eu/orgreg_20170718/resource/LV0005>
+	<http://risis.eu/eter_2014/resource/LV0005>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.17329.3e....... http://risis.eu/orgref_20170703/resource/4800542.. 1................................................. [Daugavpils University] was compared to [University of Daugavpils] 
+	http://risis.eu/orgref_20170703/resource/4800542.. http://www.grid.ac/institutes/grid.17329.3e....... 1................................................. [Daugavpils University] was compared to [University of Daugavpils] 
+	http://risis.eu/orgreg_20170718/resource/LV0005... http://risis.eu/eter_2014/resource/LV0005......... 0.869565217391.................................... [Daugavpils University] was compared to [Daugavpils Universitate] 
+	http://risis.eu/eter_2014/resource/LV0005......... http://risis.eu/orgreg_20170718/resource/LV0005... 0.869565217391.................................... [Daugavpils University] was compared to [Daugavpils Universitate] 
+	http://risis.eu/orgref_20170703/resource/4800542.. http://risis.eu/eter_2014/resource/LV0005......... 0.869565217391.................................... [University of Daugavpils] was compared to [Daugavpils Universitate] 
+	http://risis.eu/eter_2014/resource/LV0005......... http://risis.eu/orgref_20170703/resource/4800542.. 0.869565217391.................................... [University of Daugavpils] was compared to [Daugavpils Universitate] 
+	http://risis.eu/orgref_20170703/resource/4800542.. http://risis.eu/orgreg_20170718/resource/LV0005... 1................................................. [University of Daugavpils] was compared to [Daugavpils University] 
+	http://risis.eu/orgreg_20170718/resource/LV0005... http://risis.eu/orgref_20170703/resource/4800542.. 1................................................. [University of Daugavpils] was compared to [Daugavpils University] 
+	http://www.grid.ac/institutes/grid.17329.3e....... http://risis.eu/eter_2014/resource/LV0005......... 0.869565217391.................................... [Daugavpils University] was compared to [Daugavpils Universitate] 
+	http://risis.eu/eter_2014/resource/LV0005......... http://www.grid.ac/institutes/grid.17329.3e....... 0.869565217391.................................... [Daugavpils University] was compared to [Daugavpils Universitate] 
+	http://www.grid.ac/institutes/grid.17329.3e....... http://risis.eu/orgreg_20170718/resource/LV0005... 1................................................. [Daugavpils University] was compared to [Daugavpils University] 
+	http://risis.eu/orgreg_20170718/resource/LV0005... http://www.grid.ac/institutes/grid.17329.3e....... 1................................................. [Daugavpils University] was compared to [Daugavpils University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 19 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.17329.3e....... 26.515556......................................... 
+	http://www.grid.ac/institutes/grid.17329.3e....... 55.86889.......................................... 
+	http://www.grid.ac/institutes/grid.17329.3e....... http://du.lv/en................................... 
+	http://www.grid.ac/institutes/grid.17329.3e....... Daugavpils Universitāte.......................... 
+	http://www.grid.ac/institutes/grid.17329.3e....... Daugavpils University............................. 
+	http://risis.eu/orgref_20170703/resource/4800542.. http://en.wikipedia.org/wiki?curid=4800542........ 
+	http://risis.eu/orgref_20170703/resource/4800542.. http://www.wikidata.org/wiki/Q1854796............. 
+	http://risis.eu/orgref_20170703/resource/4800542.. http://du.lv/en................................... 
+	http://risis.eu/orgref_20170703/resource/4800542.. University of Daugavpils.......................... 
+	http://risis.eu/orgreg_20170718/resource/LV0005... 24.075808......................................... 
+	http://risis.eu/orgreg_20170718/resource/LV0005... 56.990521......................................... 
+	http://risis.eu/orgreg_20170718/resource/LV0005... http://www.du.lv.................................. 
+	http://risis.eu/orgreg_20170718/resource/LV0005... Daugavpils University............................. 
+	http://risis.eu/eter_2014/resource/LV0005......... 56,990521......................................... 
+	http://risis.eu/eter_2014/resource/LV0005......... 24,075808......................................... 
+	http://risis.eu/eter_2014/resource/LV0005......... http://www.du.lv.................................. 
+	http://risis.eu/eter_2014/resource/LV0005......... a................................................. 
+	http://risis.eu/eter_2014/resource/LV0005......... Daugavpils University............................. 
+	http://risis.eu/eter_2014/resource/LV0005......... Daugavpils Universitate........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:4800542', '1:grid.17329.3e'), ('3:LV0005', '1:grid.17329.3e'), ('3:LV0005', '2:4800542'), ('4:LV0005', '1:grid.17329.3e'), ('4:LV0005', '2:4800542'), ('4:LV0005', '3:LV0005')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

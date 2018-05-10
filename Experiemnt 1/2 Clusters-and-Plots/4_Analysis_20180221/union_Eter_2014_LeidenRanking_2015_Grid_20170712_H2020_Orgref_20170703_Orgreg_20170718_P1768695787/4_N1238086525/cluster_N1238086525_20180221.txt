@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 8292 
+NAME    N1238086525
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/564359>
+	<http://risis.eu/cordisH2020/resource/participant_997785845>
+	<http://risis.eu/leidenRanking_2015/resource/9596>
+	<http://www.grid.ac/institutes/grid.24539.39>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/564359............. http://www.grid.ac/institutes/grid.24539.39................. 1........................................................... [Renmin University of China] was compared to [Renmin University of China] 
+	http://www.grid.ac/institutes/grid.24539.39................. http://risis.eu/orgref_20170703/resource/564359............. 1........................................................... [Renmin University of China] was compared to [Renmin University of China] 
+	http://risis.eu/leidenRanking_2015/resource/9596............ http://www.grid.ac/institutes/grid.24539.39................. 1........................................................... [Renmin University of China] was compared to [Renmin University of China] 
+	http://www.grid.ac/institutes/grid.24539.39................. http://risis.eu/leidenRanking_2015/resource/9596............ 1........................................................... [Renmin University of China] was compared to [Renmin University of China] 
+	http://risis.eu/cordisH2020/resource/participant_997785845.. http://www.grid.ac/institutes/grid.24539.39................. 1........................................................... [Renmin University of China] was compared to [Renmin University of China] 
+	http://www.grid.ac/institutes/grid.24539.39................. http://risis.eu/cordisH2020/resource/participant_997785845.. 1........................................................... [Renmin University of China] was compared to [Renmin University of China] 
+	http://risis.eu/orgref_20170703/resource/564359............. http://risis.eu/leidenRanking_2015/resource/9596............ 1........................................................... [Renmin University of China] was compared to [Renmin University of China] 
+	http://risis.eu/leidenRanking_2015/resource/9596............ http://risis.eu/orgref_20170703/resource/564359............. 1........................................................... [Renmin University of China] was compared to [Renmin University of China] 
+	http://risis.eu/orgref_20170703/resource/564359............. http://risis.eu/cordisH2020/resource/participant_997785845.. 1........................................................... [Renmin University of China] was compared to [Renmin University of China] 
+	http://risis.eu/cordisH2020/resource/participant_997785845.. http://risis.eu/orgref_20170703/resource/564359............. 1........................................................... [Renmin University of China] was compared to [Renmin University of China] 
+	http://risis.eu/cordisH2020/resource/participant_997785845.. http://risis.eu/leidenRanking_2015/resource/9596............ 1........................................................... [Renmin University of China] was compared to [Renmin University of China] 
+	http://risis.eu/leidenRanking_2015/resource/9596............ http://risis.eu/cordisH2020/resource/participant_997785845.. 1........................................................... [Renmin University of China] was compared to [Renmin University of China] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/564359............. http://en.wikipedia.org/wiki?curid=564359................... 
+	http://risis.eu/orgref_20170703/resource/564359............. http://www.wikidata.org/wiki/Q1074117....................... 
+	http://risis.eu/orgref_20170703/resource/564359............. http://www.ruc.edu.cn....................................... 
+	http://risis.eu/orgref_20170703/resource/564359............. Renmin University of China.................................. 
+	http://risis.eu/cordisH2020/resource/participant_997785845.. http://risis.eu/cordisH2020/resource/www.ruc.edu.cn......... 
+	http://risis.eu/cordisH2020/resource/participant_997785845.. Renmin University of China.................................. 
+	http://risis.eu/leidenRanking_2015/resource/9596............ Renmin University of China.................................. 
+	http://www.grid.ac/institutes/grid.24539.39................. 116.3188.................................................... 
+	http://www.grid.ac/institutes/grid.24539.39................. 39.969845................................................... 
+	http://www.grid.ac/institutes/grid.24539.39................. http://www.ruc.edu.cn/en.................................... 
+	http://www.grid.ac/institutes/grid.24539.39................. Zhōngguó Rénmín Dàxué................................. 
+	http://www.grid.ac/institutes/grid.24539.39................. People's University of China................................ 
+	http://www.grid.ac/institutes/grid.24539.39................. Renmin University of China.................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:564359', '4:grid.24539.39'), ('2:participant_997785845', '1:564359'), ('2:participant_997785845', '4:grid.24539.39'), ('3:9596', '1:564359'), ('3:9596', '2:participant_997785845'), ('4:grid.24539.39', '3:9596')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

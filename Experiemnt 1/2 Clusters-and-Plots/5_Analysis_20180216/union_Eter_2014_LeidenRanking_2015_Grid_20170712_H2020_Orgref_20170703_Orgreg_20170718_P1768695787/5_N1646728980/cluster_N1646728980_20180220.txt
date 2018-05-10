@@ -1,0 +1,73 @@
+SIZE    5   
+CLUSTER 1717 
+NAME    N1646728980
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.267323.1>
+	<http://risis.eu/orgref_20170703/resource/3177570>
+	<http://risis.eu/orgref_20170703/resource/537010>
+	<http://risis.eu/leidenRanking_2015/resource/1204>
+	<http://www.grid.ac/institutes/grid.462968.7>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.267323.1....... http://www.grid.ac/institutes/grid.462968.7....... 0.8125............................................ [University of Texas at Dallas] was compared to [University of North Texas at Dallas] 
+	http://www.grid.ac/institutes/grid.462968.7....... http://www.grid.ac/institutes/grid.267323.1....... 0.8125............................................ [University of Texas at Dallas] was compared to [University of North Texas at Dallas] 
+	http://www.grid.ac/institutes/grid.267323.1....... http://risis.eu/orgref_20170703/resource/3177570.. 0.8125............................................ [University of Texas at Dallas] was compared to [University of North Texas at Dallas] 
+	http://risis.eu/orgref_20170703/resource/3177570.. http://www.grid.ac/institutes/grid.267323.1....... 0.8125............................................ [University of Texas at Dallas] was compared to [University of North Texas at Dallas] 
+	http://www.grid.ac/institutes/grid.267323.1....... http://risis.eu/orgref_20170703/resource/537010... 1................................................. [University of Texas at Dallas] was compared to [University of Texas at Dallas] 
+	http://risis.eu/orgref_20170703/resource/537010... http://www.grid.ac/institutes/grid.267323.1....... 1................................................. [University of Texas at Dallas] was compared to [University of Texas at Dallas] 
+	http://risis.eu/orgref_20170703/resource/3177570.. http://www.grid.ac/institutes/grid.462968.7....... 1................................................. [University of North Texas at Dallas] was compared to [University of North Texas at Dallas] 
+	http://www.grid.ac/institutes/grid.462968.7....... http://risis.eu/orgref_20170703/resource/3177570.. 1................................................. [University of North Texas at Dallas] was compared to [University of North Texas at Dallas] 
+	http://risis.eu/orgref_20170703/resource/537010... http://www.grid.ac/institutes/grid.462968.7....... 0.8125............................................ [University of North Texas at Dallas] was compared to [University of Texas at Dallas] 
+	http://www.grid.ac/institutes/grid.462968.7....... http://risis.eu/orgref_20170703/resource/537010... 0.8125............................................ [University of North Texas at Dallas] was compared to [University of Texas at Dallas] 
+	http://risis.eu/orgref_20170703/resource/537010... http://risis.eu/leidenRanking_2015/resource/1204.. 0.884615384615.................................... [University of Texas at Dallas] was compared to [University of Texas, Dallas] 
+	http://risis.eu/leidenRanking_2015/resource/1204.. http://risis.eu/orgref_20170703/resource/537010... 0.884615384615.................................... [University of Texas at Dallas] was compared to [University of Texas, Dallas] 
+	http://risis.eu/orgref_20170703/resource/3177570.. http://risis.eu/orgref_20170703/resource/537010... 0.8125............................................ [University of North Texas at Dallas] was compared to [University of Texas at Dallas] 
+	http://risis.eu/orgref_20170703/resource/537010... http://risis.eu/orgref_20170703/resource/3177570.. 0.8125............................................ [University of North Texas at Dallas] was compared to [University of Texas at Dallas] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 19 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.267323.1....... -96.7502.......................................... 
+	http://www.grid.ac/institutes/grid.267323.1....... 32.987644......................................... 
+	http://www.grid.ac/institutes/grid.267323.1....... http://www.utdallas.edu/.......................... 
+	http://www.grid.ac/institutes/grid.267323.1....... UT Dallas......................................... 
+	http://www.grid.ac/institutes/grid.267323.1....... University of Texas at Dallas..................... 
+	http://risis.eu/orgref_20170703/resource/3177570.. http://en.wikipedia.org/wiki?curid=3177570........ 
+	http://risis.eu/orgref_20170703/resource/3177570.. http://www.wikidata.org/wiki/Q7895983............. 
+	http://risis.eu/orgref_20170703/resource/3177570.. http://www.untdallas.edu.......................... 
+	http://risis.eu/orgref_20170703/resource/3177570.. University of North Texas at Dallas............... 
+	http://risis.eu/orgref_20170703/resource/537010... http://en.wikipedia.org/wiki?curid=537010......... 
+	http://risis.eu/orgref_20170703/resource/537010... http://www.wikidata.org/wiki/Q1781394............. 
+	http://risis.eu/orgref_20170703/resource/537010... http://www.utdallas.edu........................... 
+	http://risis.eu/orgref_20170703/resource/537010... University of Texas at Dallas..................... 
+	http://risis.eu/leidenRanking_2015/resource/1204.. University of Texas, Dallas....................... 
+	http://www.grid.ac/institutes/grid.462968.7....... -96.80389......................................... 
+	http://www.grid.ac/institutes/grid.462968.7....... 32.65861.......................................... 
+	http://www.grid.ac/institutes/grid.462968.7....... http://www.untdallas.edu/......................... 
+	http://www.grid.ac/institutes/grid.462968.7....... UNT Dallas........................................ 
+	http://www.grid.ac/institutes/grid.462968.7....... University of North Texas at Dallas............... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:3177570', '1:grid.267323.1'), ('2:3177570', '5:grid.462968.7'), ('3:537010', '1:grid.267323.1'), ('3:537010', '2:3177570'), ('3:537010', '5:grid.462968.7'), ('4:1204', '3:537010'), ('5:grid.462968.7', '1:grid.267323.1')]
+	MAX DISTANCE:                   : 0.7
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 2.2
+	AVERAGE NODE CONNECTIVITY RATIO : 0.55
+	BRIDGES                         : 1
+	CLOSURE                         : 0.7
+	DIAMETER                        : 2
+	QUALITY                         : 0.294
+	QUALITY USED                    : 0.357
+	SUMMARY 1: BRIDGE 0.25 CLOSURE 0.3 DIAMETER 0.333 QUALITY 0.294 QUALITY USED 0.357
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.3 DIAMETER 0.385 QUALITY 0.294 QUALITY USED 0.357

@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 890 
+NAME    N1241355161
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.63054.34>
+	<http://risis.eu/orgref_20170703/resource/239846>
+	<http://risis.eu/leidenRanking_2015/resource/1299>
+	<http://www.grid.ac/institutes/grid.464710.0>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.63054.34....... http://www.grid.ac/institutes/grid.464710.0....... 1................................................. [University of Connecticut] was compared to [University of Connecticut] 
+	http://www.grid.ac/institutes/grid.464710.0....... http://www.grid.ac/institutes/grid.63054.34....... 1................................................. [University of Connecticut] was compared to [University of Connecticut] 
+	http://www.grid.ac/institutes/grid.63054.34....... http://risis.eu/orgref_20170703/resource/239846... 1................................................. [University of Connecticut] was compared to [University of Connecticut] 
+	http://risis.eu/orgref_20170703/resource/239846... http://www.grid.ac/institutes/grid.63054.34....... 1................................................. [University of Connecticut] was compared to [University of Connecticut] 
+	http://risis.eu/orgref_20170703/resource/239846... http://www.grid.ac/institutes/grid.464710.0....... 1................................................. [University of Connecticut] was compared to [University of Connecticut] 
+	http://www.grid.ac/institutes/grid.464710.0....... http://risis.eu/orgref_20170703/resource/239846... 1................................................. [University of Connecticut] was compared to [University of Connecticut] 
+	http://www.grid.ac/institutes/grid.63054.34....... http://risis.eu/leidenRanking_2015/resource/1299.. 1................................................. [University of Connecticut] was compared to [University of Connecticut] 
+	http://risis.eu/leidenRanking_2015/resource/1299.. http://www.grid.ac/institutes/grid.63054.34....... 1................................................. [University of Connecticut] was compared to [University of Connecticut] 
+	http://risis.eu/leidenRanking_2015/resource/1299.. http://www.grid.ac/institutes/grid.464710.0....... 1................................................. [University of Connecticut] was compared to [University of Connecticut] 
+	http://www.grid.ac/institutes/grid.464710.0....... http://risis.eu/leidenRanking_2015/resource/1299.. 1................................................. [University of Connecticut] was compared to [University of Connecticut] 
+	http://risis.eu/orgref_20170703/resource/239846... http://risis.eu/leidenRanking_2015/resource/1299.. 1................................................. [University of Connecticut] was compared to [University of Connecticut] 
+	http://risis.eu/leidenRanking_2015/resource/1299.. http://risis.eu/orgref_20170703/resource/239846... 1................................................. [University of Connecticut] was compared to [University of Connecticut] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.63054.34....... -72.2525.......................................... 
+	http://www.grid.ac/institutes/grid.63054.34....... 41.807167......................................... 
+	http://www.grid.ac/institutes/grid.63054.34....... http://uconn.edu/................................. 
+	http://www.grid.ac/institutes/grid.63054.34....... UConn............................................. 
+	http://www.grid.ac/institutes/grid.63054.34....... University of Connecticut......................... 
+	http://risis.eu/orgref_20170703/resource/239846... http://en.wikipedia.org/wiki?curid=239846......... 
+	http://risis.eu/orgref_20170703/resource/239846... http://www.wikidata.org/wiki/Q49206............... 
+	http://risis.eu/orgref_20170703/resource/239846... http://www.uconn.edu.............................. 
+	http://risis.eu/orgref_20170703/resource/239846... University of Connecticut......................... 
+	http://risis.eu/leidenRanking_2015/resource/1299.. University of Connecticut......................... 
+	http://www.grid.ac/institutes/grid.464710.0....... -72.06375......................................... 
+	http://www.grid.ac/institutes/grid.464710.0....... 41.317577......................................... 
+	http://www.grid.ac/institutes/grid.464710.0....... http://averypoint.uconn.edu/...................... 
+	http://www.grid.ac/institutes/grid.464710.0....... University of Connecticut at Avery Point.......... 
+	http://www.grid.ac/institutes/grid.464710.0....... University of Connecticut......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.63054.34', '4:grid.464710.0'), ('2:239846', '1:grid.63054.34'), ('2:239846', '4:grid.464710.0'), ('3:1299', '1:grid.63054.34'), ('3:1299', '2:239846'), ('4:grid.464710.0', '3:1299')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

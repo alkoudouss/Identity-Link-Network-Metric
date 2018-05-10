@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 3344 
+NAME    N2144848416
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.411506.7>
+	<http://risis.eu/orgref_20170703/resource/24311937>
+	<http://risis.eu/leidenRanking_2015/resource/1006>
+	<http://risis.eu/eter_2014/resource/TR0017>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.411506.7........ http://risis.eu/orgref_20170703/resource/24311937.. 1.................................................. [Balıkesir University] was compared to [Balıkesir University] 
+	http://risis.eu/orgref_20170703/resource/24311937.. http://www.grid.ac/institutes/grid.411506.7........ 1.................................................. [Balıkesir University] was compared to [Balıkesir University] 
+	http://www.grid.ac/institutes/grid.411506.7........ http://risis.eu/leidenRanking_2015/resource/1006... 1.................................................. [Balıkesir University] was compared to [Balikesir University] 
+	http://risis.eu/leidenRanking_2015/resource/1006... http://www.grid.ac/institutes/grid.411506.7........ 1.................................................. [Balıkesir University] was compared to [Balikesir University] 
+	http://risis.eu/orgref_20170703/resource/24311937.. http://risis.eu/leidenRanking_2015/resource/1006... 1.................................................. [Balıkesir University] was compared to [Balikesir University] 
+	http://risis.eu/leidenRanking_2015/resource/1006... http://risis.eu/orgref_20170703/resource/24311937.. 1.................................................. [Balıkesir University] was compared to [Balikesir University] 
+	http://risis.eu/leidenRanking_2015/resource/1006... http://risis.eu/eter_2014/resource/TR0017.......... 0.863636363636..................................... [BALIKESIR ÜNIVERSITESI] was compared to [Balikesir University] 
+	http://risis.eu/eter_2014/resource/TR0017.......... http://risis.eu/leidenRanking_2015/resource/1006... 0.863636363636..................................... [BALIKESIR ÜNIVERSITESI] was compared to [Balikesir University] 
+	http://risis.eu/orgref_20170703/resource/24311937.. http://risis.eu/eter_2014/resource/TR0017.......... 0.863636363636..................................... [Balıkesir University] was compared to [BALIKESIR ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0017.......... http://risis.eu/orgref_20170703/resource/24311937.. 0.863636363636..................................... [Balıkesir University] was compared to [BALIKESIR ÜNIVERSITESI] 
+	http://www.grid.ac/institutes/grid.411506.7........ http://risis.eu/eter_2014/resource/TR0017.......... 0.863636363636..................................... [Balıkesir University] was compared to [BALIKESIR ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0017.......... http://www.grid.ac/institutes/grid.411506.7........ 0.863636363636..................................... [Balıkesir University] was compared to [BALIKESIR ÜNIVERSITESI] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.411506.7........ 28.011585.......................................... 
+	http://www.grid.ac/institutes/grid.411506.7........ 39.52167........................................... 
+	http://www.grid.ac/institutes/grid.411506.7........ http://www.balikesir.edu.tr/....................... 
+	http://www.grid.ac/institutes/grid.411506.7........ Balıkesir Üniversitesi........................... 
+	http://www.grid.ac/institutes/grid.411506.7........ Balıkesir University.............................. 
+	http://risis.eu/orgref_20170703/resource/24311937.. http://en.wikipedia.org/wiki?curid=24311937........ 
+	http://risis.eu/orgref_20170703/resource/24311937.. http://www.wikidata.org/wiki/Q4853224.............. 
+	http://risis.eu/orgref_20170703/resource/24311937.. http://www.balikesir.edu.tr........................ 
+	http://risis.eu/orgref_20170703/resource/24311937.. Balıkesir University.............................. 
+	http://risis.eu/leidenRanking_2015/resource/1006... Balikesir University............................... 
+	http://risis.eu/eter_2014/resource/TR0017.......... 39,652972.......................................... 
+	http://risis.eu/eter_2014/resource/TR0017.......... 27,891469.......................................... 
+	http://risis.eu/eter_2014/resource/TR0017.......... http://www.balikesir.edu.tr/....................... 
+	http://risis.eu/eter_2014/resource/TR0017.......... a.................................................. 
+	http://risis.eu/eter_2014/resource/TR0017.......... Balikesir University............................... 
+	http://risis.eu/eter_2014/resource/TR0017.......... BALIKESIR ÜNIVERSITESI............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:24311937', '1:grid.411506.7'), ('3:1006', '1:grid.411506.7'), ('3:1006', '2:24311937'), ('3:1006', '4:TR0017'), ('4:TR0017', '1:grid.411506.7'), ('4:TR0017', '2:24311937')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

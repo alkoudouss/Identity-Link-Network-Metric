@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 5636 
+NAME    N683863902
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.422152.2>
+	<http://risis.eu/orgref_20170703/resource/569595>
+	<http://www.grid.ac/institutes/grid.447850.a>
+	<http://www.grid.ac/institutes/grid.421611.1>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.447850.a...... http://www.grid.ac/institutes/grid.421611.1...... 1................................................ [National Archives] was compared to [National Archives] 
+	http://www.grid.ac/institutes/grid.421611.1...... http://www.grid.ac/institutes/grid.447850.a...... 1................................................ [National Archives] was compared to [National Archives] 
+	http://www.grid.ac/institutes/grid.422152.2...... http://www.grid.ac/institutes/grid.421611.1...... 1................................................ [National Archives] was compared to [National Archives] 
+	http://www.grid.ac/institutes/grid.421611.1...... http://www.grid.ac/institutes/grid.422152.2...... 1................................................ [National Archives] was compared to [National Archives] 
+	http://www.grid.ac/institutes/grid.422152.2...... http://www.grid.ac/institutes/grid.447850.a...... 1................................................ [National Archives] was compared to [National Archives] 
+	http://www.grid.ac/institutes/grid.447850.a...... http://www.grid.ac/institutes/grid.422152.2...... 1................................................ [National Archives] was compared to [National Archives] 
+	http://risis.eu/orgref_20170703/resource/569595.. http://www.grid.ac/institutes/grid.421611.1...... 1................................................ [National Archives] was compared to [The National Archives (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.421611.1...... http://risis.eu/orgref_20170703/resource/569595.. 1................................................ [National Archives] was compared to [The National Archives (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.422152.2...... http://risis.eu/orgref_20170703/resource/569595.. 1................................................ [National Archives] was compared to [The National Archives (United Kingdom)] 
+	http://risis.eu/orgref_20170703/resource/569595.. http://www.grid.ac/institutes/grid.422152.2...... 1................................................ [National Archives] was compared to [The National Archives (United Kingdom)] 
+	http://risis.eu/orgref_20170703/resource/569595.. http://www.grid.ac/institutes/grid.447850.a...... 1................................................ [National Archives] was compared to [The National Archives (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.447850.a...... http://risis.eu/orgref_20170703/resource/569595.. 1................................................ [National Archives] was compared to [The National Archives (United Kingdom)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.422152.2...... National Archives................................ 
+	http://risis.eu/orgref_20170703/resource/569595.. http://en.wikipedia.org/wiki?curid=569595........ 
+	http://risis.eu/orgref_20170703/resource/569595.. http://www.wikidata.org/wiki/Q392703............. 
+	http://risis.eu/orgref_20170703/resource/569595.. https://nationalarchives.gov.uk.................. 
+	http://risis.eu/orgref_20170703/resource/569595.. The National Archives (United Kingdom)........... 
+	http://www.grid.ac/institutes/grid.447850.a...... 14.492724........................................ 
+	http://www.grid.ac/institutes/grid.447850.a...... 50.03883......................................... 
+	http://www.grid.ac/institutes/grid.447850.a...... http://www.nacr.cz/eindex.htm.................... 
+	http://www.grid.ac/institutes/grid.447850.a...... National Archives................................ 
+	http://www.grid.ac/institutes/grid.421611.1...... -0.280286........................................ 
+	http://www.grid.ac/institutes/grid.421611.1...... 51.481533........................................ 
+	http://www.grid.ac/institutes/grid.421611.1...... http://www.nationalarchives.gov.uk/.............. 
+	http://www.grid.ac/institutes/grid.421611.1...... National Archives................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.422152.2', '4:grid.421611.1'), ('2:569595', '1:grid.422152.2'), ('2:569595', '3:grid.447850.a'), ('3:grid.447850.a', '1:grid.422152.2'), ('3:grid.447850.a', '4:grid.421611.1'), ('4:grid.421611.1', '2:569595')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

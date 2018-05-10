@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 6772 
+NAME    N2138277098
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/2409691>
+	<http://risis.eu/cordisH2020/resource/participant_998783296>
+	<http://www.grid.ac/institutes/grid.8193.3>
+	<http://risis.eu/leidenRanking_2015/resource/9307>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/2409691............ http://www.grid.ac/institutes/grid.8193.3................... 1........................................................... [University of Dar es Salaam] was compared to [University of Dar es Salaam] 
+	http://www.grid.ac/institutes/grid.8193.3................... http://risis.eu/orgref_20170703/resource/2409691............ 1........................................................... [University of Dar es Salaam] was compared to [University of Dar es Salaam] 
+	http://www.grid.ac/institutes/grid.8193.3................... http://risis.eu/leidenRanking_2015/resource/9307............ 1........................................................... [University of Dar es Salaam] was compared to [University of Dar es Salaam] 
+	http://risis.eu/leidenRanking_2015/resource/9307............ http://www.grid.ac/institutes/grid.8193.3................... 1........................................................... [University of Dar es Salaam] was compared to [University of Dar es Salaam] 
+	http://risis.eu/cordisH2020/resource/participant_998783296.. http://www.grid.ac/institutes/grid.8193.3................... 1........................................................... [University of Dar es Salaam] was compared to [UNIVERSITY OF DAR ES SALAAM] 
+	http://www.grid.ac/institutes/grid.8193.3................... http://risis.eu/cordisH2020/resource/participant_998783296.. 1........................................................... [University of Dar es Salaam] was compared to [UNIVERSITY OF DAR ES SALAAM] 
+	http://risis.eu/orgref_20170703/resource/2409691............ http://risis.eu/leidenRanking_2015/resource/9307............ 1........................................................... [University of Dar es Salaam] was compared to [University of Dar es Salaam] 
+	http://risis.eu/leidenRanking_2015/resource/9307............ http://risis.eu/orgref_20170703/resource/2409691............ 1........................................................... [University of Dar es Salaam] was compared to [University of Dar es Salaam] 
+	http://risis.eu/orgref_20170703/resource/2409691............ http://risis.eu/cordisH2020/resource/participant_998783296.. 1........................................................... [University of Dar es Salaam] was compared to [UNIVERSITY OF DAR ES SALAAM] 
+	http://risis.eu/cordisH2020/resource/participant_998783296.. http://risis.eu/orgref_20170703/resource/2409691............ 1........................................................... [University of Dar es Salaam] was compared to [UNIVERSITY OF DAR ES SALAAM] 
+	http://risis.eu/cordisH2020/resource/participant_998783296.. http://risis.eu/leidenRanking_2015/resource/9307............ 1........................................................... [UNIVERSITY OF DAR ES SALAAM] was compared to [University of Dar es Salaam] 
+	http://risis.eu/leidenRanking_2015/resource/9307............ http://risis.eu/cordisH2020/resource/participant_998783296.. 1........................................................... [UNIVERSITY OF DAR ES SALAAM] was compared to [University of Dar es Salaam] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/2409691............ http://en.wikipedia.org/wiki?curid=2409691.................. 
+	http://risis.eu/orgref_20170703/resource/2409691............ http://www.wikidata.org/wiki/Q557597........................ 
+	http://risis.eu/orgref_20170703/resource/2409691............ http://udsm.ac.tz........................................... 
+	http://risis.eu/orgref_20170703/resource/2409691............ University of Dar es Salaam................................. 
+	http://risis.eu/cordisH2020/resource/participant_998783296.. http://risis.eu/cordisH2020/resource/www.udsm.ac.tz......... 
+	http://risis.eu/cordisH2020/resource/participant_998783296.. UNIVERSITY OF DAR ES SALAAM................................. 
+	http://www.grid.ac/institutes/grid.8193.3................... 39.203335................................................... 
+	http://www.grid.ac/institutes/grid.8193.3................... -6.780556................................................... 
+	http://www.grid.ac/institutes/grid.8193.3................... https://udsm.ac.tz/......................................... 
+	http://www.grid.ac/institutes/grid.8193.3................... University of Dar es Salaam................................. 
+	http://risis.eu/leidenRanking_2015/resource/9307............ University of Dar es Salaam................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_998783296', '1:2409691'), ('2:participant_998783296', '3:grid.8193.3'), ('3:grid.8193.3', '1:2409691'), ('4:9307', '1:2409691'), ('4:9307', '2:participant_998783296'), ('4:9307', '3:grid.8193.3')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

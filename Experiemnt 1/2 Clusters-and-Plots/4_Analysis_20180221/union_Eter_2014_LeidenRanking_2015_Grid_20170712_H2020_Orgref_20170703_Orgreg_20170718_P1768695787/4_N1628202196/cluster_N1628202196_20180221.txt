@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 5156 
+NAME    N1628202196
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/14765693>
+	<http://risis.eu/leidenRanking_2015/resource/1635>
+	<http://www.grid.ac/institutes/grid.413588.3>
+	<http://www.grid.ac/institutes/grid.411900.d>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/14765693.. http://www.grid.ac/institutes/grid.411900.d........ 1.................................................. [Herlev Hospital] was compared to [Herlev Hospital] 
+	http://www.grid.ac/institutes/grid.411900.d........ http://risis.eu/orgref_20170703/resource/14765693.. 1.................................................. [Herlev Hospital] was compared to [Herlev Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1635... http://www.grid.ac/institutes/grid.411900.d........ 1.................................................. [Herlev Hospital] was compared to [Herlev Hospital] 
+	http://www.grid.ac/institutes/grid.411900.d........ http://risis.eu/leidenRanking_2015/resource/1635... 1.................................................. [Herlev Hospital] was compared to [Herlev Hospital] 
+	http://risis.eu/orgref_20170703/resource/14765693.. http://risis.eu/leidenRanking_2015/resource/1635... 1.................................................. [Herlev Hospital] was compared to [Herlev Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1635... http://risis.eu/orgref_20170703/resource/14765693.. 1.................................................. [Herlev Hospital] was compared to [Herlev Hospital] 
+	http://www.grid.ac/institutes/grid.413588.3........ http://www.grid.ac/institutes/grid.411900.d........ 0.833333333333..................................... [Herlev Hospital] was compared to [Haderslev Hospital] 
+	http://www.grid.ac/institutes/grid.411900.d........ http://www.grid.ac/institutes/grid.413588.3........ 0.833333333333..................................... [Herlev Hospital] was compared to [Haderslev Hospital] 
+	http://risis.eu/orgref_20170703/resource/14765693.. http://www.grid.ac/institutes/grid.413588.3........ 0.833333333333..................................... [Haderslev Hospital] was compared to [Herlev Hospital] 
+	http://www.grid.ac/institutes/grid.413588.3........ http://risis.eu/orgref_20170703/resource/14765693.. 0.833333333333..................................... [Haderslev Hospital] was compared to [Herlev Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1635... http://www.grid.ac/institutes/grid.413588.3........ 0.833333333333..................................... [Haderslev Hospital] was compared to [Herlev Hospital] 
+	http://www.grid.ac/institutes/grid.413588.3........ http://risis.eu/leidenRanking_2015/resource/1635... 0.833333333333..................................... [Haderslev Hospital] was compared to [Herlev Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/14765693.. http://en.wikipedia.org/wiki?curid=14765693........ 
+	http://risis.eu/orgref_20170703/resource/14765693.. http://www.wikidata.org/wiki/Q3375948.............. 
+	http://risis.eu/orgref_20170703/resource/14765693.. http://www.herlevhospital.dk....................... 
+	http://risis.eu/orgref_20170703/resource/14765693.. Herlev Hospital.................................... 
+	http://risis.eu/leidenRanking_2015/resource/1635... Herlev Hospital.................................... 
+	http://www.grid.ac/institutes/grid.413588.3........ 9.452722........................................... 
+	http://www.grid.ac/institutes/grid.413588.3........ 55.24259........................................... 
+	http://www.grid.ac/institutes/grid.413588.3........ Haderslev Hospital................................. 
+	http://www.grid.ac/institutes/grid.411900.d........ 12.443611.......................................... 
+	http://www.grid.ac/institutes/grid.411900.d........ 55.731388.......................................... 
+	http://www.grid.ac/institutes/grid.411900.d........ https://www.herlevhospital.dk/..................... 
+	http://www.grid.ac/institutes/grid.411900.d........ Amtssygehuset i Herlev............................. 
+	http://www.grid.ac/institutes/grid.411900.d........ Herlev Hospital.................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:14765693', '3:grid.413588.3'), ('1:14765693', '4:grid.411900.d'), ('2:1635', '1:14765693'), ('2:1635', '4:grid.411900.d'), ('3:grid.413588.3', '2:1635'), ('4:grid.411900.d', '3:grid.413588.3')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

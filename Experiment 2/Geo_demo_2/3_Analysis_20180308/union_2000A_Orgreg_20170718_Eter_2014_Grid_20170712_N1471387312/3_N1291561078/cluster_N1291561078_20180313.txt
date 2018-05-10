@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 8 
+NAME    N1291561078
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.22937.3d>
+	<http://risis.eu/eter_2014/resource/AT0014>
+	<http://risis.eu/orgreg_20170718/resource/AT0014>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.22937.3d...... http://risis.eu/eter_2014/resource/AT0014........ 0.884615384615................................... [vienna university medicine] was compared to [medical university vienna] 
+	http://risis.eu/eter_2014/resource/AT0014........ http://www.grid.ac/institutes/grid.22937.3d...... 0.884615384615................................... [vienna university medicine] was compared to [medical university vienna] 
+	http://risis.eu/eter_2014/resource/AT0014........ http://risis.eu/orgreg_20170718/resource/AT0014.. 1................................................ [vienna university medicine] was compared to [vienna university medicine] 
+	http://risis.eu/orgreg_20170718/resource/AT0014.. http://risis.eu/eter_2014/resource/AT0014........ 1................................................ [vienna university medicine] was compared to [vienna university medicine] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.22937.3d...... 16.351389........................................ 
+	http://www.grid.ac/institutes/grid.22937.3d...... 48.22............................................ 
+	http://www.grid.ac/institutes/grid.22937.3d...... http://www.meduniwien.ac.at/homepage/1/homepage/. 
+	http://www.grid.ac/institutes/grid.22937.3d...... Medical University of Vienna..................... 
+	http://risis.eu/eter_2014/resource/AT0014........ 48,225363........................................ 
+	http://risis.eu/eter_2014/resource/AT0014........ 16,356196........................................ 
+	http://risis.eu/eter_2014/resource/AT0014........ http://www.meduniwien.ac.at/..................... 
+	http://risis.eu/eter_2014/resource/AT0014........ a................................................ 
+	http://risis.eu/eter_2014/resource/AT0014........ Vienna University of Medicine.................... 
+	http://risis.eu/eter_2014/resource/AT0014........ Medizinische Universität Wien................... 
+	http://risis.eu/orgreg_20170718/resource/AT0014.. 16.36............................................ 
+	http://risis.eu/orgreg_20170718/resource/AT0014.. 48.23............................................ 
+	http://risis.eu/orgreg_20170718/resource/AT0014.. http://www.meduniwien.ac.at/..................... 
+	http://risis.eu/orgreg_20170718/resource/AT0014.. Vienna University of Medicine.................... 
+
+NETWORK ANALYSIS
+	NETWORK [('N1291561078-AT0014', 'P1832034231-AT0014'), ('N1291561078-AT0014', 'N131025952-grid.22937.3d')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

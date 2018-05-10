@@ -1,0 +1,70 @@
+SIZE    4   
+CLUSTER 1667 
+NAME    N2122310223
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.411456.3>
+	<http://www.grid.ac/institutes/grid.412656.2>
+	<http://risis.eu/orgref_20170703/resource/14847698>
+	<http://risis.eu/orgref_20170703/resource/1612343>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.411456.3........ http://risis.eu/orgref_20170703/resource/14847698.. 1.................................................. [Asahi University] was compared to [Asahi University] 
+	http://risis.eu/orgref_20170703/resource/14847698.. http://www.grid.ac/institutes/grid.411456.3........ 1.................................................. [Asahi University] was compared to [Asahi University] 
+	http://www.grid.ac/institutes/grid.412656.2........ http://risis.eu/orgref_20170703/resource/1612343... 1.................................................. [University of Rajshahi] was compared to [University of Rajshahi] 
+	http://risis.eu/orgref_20170703/resource/1612343... http://www.grid.ac/institutes/grid.412656.2........ 1.................................................. [University of Rajshahi] was compared to [University of Rajshahi] 
+	http://risis.eu/orgref_20170703/resource/14847698.. http://risis.eu/orgref_20170703/resource/1612343... 0.842105263158..................................... [Asahi University] was compared to [University of Rajshahi] 
+	http://risis.eu/orgref_20170703/resource/1612343... http://risis.eu/orgref_20170703/resource/14847698.. 0.842105263158..................................... [Asahi University] was compared to [University of Rajshahi] 
+	http://www.grid.ac/institutes/grid.411456.3........ http://www.grid.ac/institutes/grid.412656.2........ 0.842105263158..................................... [Asahi University] was compared to [University of Rajshahi] 
+	http://www.grid.ac/institutes/grid.412656.2........ http://www.grid.ac/institutes/grid.411456.3........ 0.842105263158..................................... [Asahi University] was compared to [University of Rajshahi] 
+	http://www.grid.ac/institutes/grid.411456.3........ http://risis.eu/orgref_20170703/resource/1612343... 0.842105263158..................................... [Asahi University] was compared to [University of Rajshahi] 
+	http://risis.eu/orgref_20170703/resource/1612343... http://www.grid.ac/institutes/grid.411456.3........ 0.842105263158..................................... [Asahi University] was compared to [University of Rajshahi] 
+	http://www.grid.ac/institutes/grid.412656.2........ http://risis.eu/orgref_20170703/resource/14847698.. 0.842105263158..................................... [University of Rajshahi] was compared to [Asahi University] 
+	http://risis.eu/orgref_20170703/resource/14847698.. http://www.grid.ac/institutes/grid.412656.2........ 0.842105263158..................................... [University of Rajshahi] was compared to [Asahi University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 19 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.411456.3........ 136.69055.......................................... 
+	http://www.grid.ac/institutes/grid.411456.3........ 35.381744.......................................... 
+	http://www.grid.ac/institutes/grid.411456.3........ http://www.asahi-u.ac.jp/.......................... 
+	http://www.grid.ac/institutes/grid.411456.3........ Gifu Dental University............................. 
+	http://www.grid.ac/institutes/grid.411456.3........ Asahi Daigaku...................................... 
+	http://www.grid.ac/institutes/grid.411456.3........ Asahi University................................... 
+	http://www.grid.ac/institutes/grid.412656.2........ 88.637............................................. 
+	http://www.grid.ac/institutes/grid.412656.2........ 24.37.............................................. 
+	http://www.grid.ac/institutes/grid.412656.2........ http://www.ru.ac.bd/............................... 
+	http://www.grid.ac/institutes/grid.412656.2........ Raajshaahi Bish-shobid-daloy....................... 
+	http://www.grid.ac/institutes/grid.412656.2........ University of Rajshahi............................. 
+	http://risis.eu/orgref_20170703/resource/14847698.. http://en.wikipedia.org/wiki?curid=14847698........ 
+	http://risis.eu/orgref_20170703/resource/14847698.. http://www.wikidata.org/wiki/Q4803373.............. 
+	http://risis.eu/orgref_20170703/resource/14847698.. http://www.asahi-u.ac.jp........................... 
+	http://risis.eu/orgref_20170703/resource/14847698.. Asahi University................................... 
+	http://risis.eu/orgref_20170703/resource/1612343... http://en.wikipedia.org/wiki?curid=1612343......... 
+	http://risis.eu/orgref_20170703/resource/1612343... http://www.wikidata.org/wiki/Q3350920.............. 
+	http://risis.eu/orgref_20170703/resource/1612343... http://www.ru.ac.bd................................ 
+	http://risis.eu/orgref_20170703/resource/1612343... University of Rajshahi............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.412656.2', '1:grid.411456.3'), ('3:14847698', '1:grid.411456.3'), ('3:14847698', '2:grid.412656.2'), ('4:1612343', '1:grid.411456.3'), ('4:1612343', '2:grid.412656.2'), ('4:1612343', '3:14847698')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,57 @@
+SIZE    4   
+CLUSTER 16475 
+NAME    N44626328
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.429549.7>
+	<http://risis.eu/orgref_20170703/resource/4841713>
+	<http://www.grid.ac/institutes/grid.427811.9>
+	<http://www.grid.ac/institutes/grid.427495.9>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.429549.7....... http://risis.eu/orgref_20170703/resource/4841713.. 1................................................. [McDowell County Schools] was compared to [McDowell County Schools] 
+	http://risis.eu/orgref_20170703/resource/4841713.. http://www.grid.ac/institutes/grid.429549.7....... 1................................................. [McDowell County Schools] was compared to [McDowell County Schools] 
+	http://www.grid.ac/institutes/grid.427811.9....... http://www.grid.ac/institutes/grid.427495.9....... 0.913043478261.................................... [Caldwell County Schools] was compared to [Caswell County Schools] 
+	http://www.grid.ac/institutes/grid.427495.9....... http://www.grid.ac/institutes/grid.427811.9....... 0.913043478261.................................... [Caldwell County Schools] was compared to [Caswell County Schools] 
+	http://www.grid.ac/institutes/grid.429549.7....... http://www.grid.ac/institutes/grid.427811.9....... 0.869565217391.................................... [Caswell County Schools] was compared to [McDowell County Schools] 
+	http://www.grid.ac/institutes/grid.427811.9....... http://www.grid.ac/institutes/grid.429549.7....... 0.869565217391.................................... [Caswell County Schools] was compared to [McDowell County Schools] 
+	http://risis.eu/orgref_20170703/resource/4841713.. http://www.grid.ac/institutes/grid.427811.9....... 0.869565217391.................................... [Caswell County Schools] was compared to [McDowell County Schools] 
+	http://www.grid.ac/institutes/grid.427811.9....... http://risis.eu/orgref_20170703/resource/4841713.. 0.869565217391.................................... [Caswell County Schools] was compared to [McDowell County Schools] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.429549.7....... -82.00695......................................... 
+	http://www.grid.ac/institutes/grid.429549.7....... 35.679607......................................... 
+	http://www.grid.ac/institutes/grid.429549.7....... http://mcdowell.k12.nc.us/........................ 
+	http://www.grid.ac/institutes/grid.429549.7....... McDowell County Schools........................... 
+	http://risis.eu/orgref_20170703/resource/4841713.. http://en.wikipedia.org/wiki?curid=4841713........ 
+	http://risis.eu/orgref_20170703/resource/4841713.. http://www.wikidata.org/wiki/Q6801015............. 
+	http://risis.eu/orgref_20170703/resource/4841713.. http://boe.mcdo.k12.wv.us......................... 
+	http://risis.eu/orgref_20170703/resource/4841713.. McDowell County Schools........................... 
+	http://www.grid.ac/institutes/grid.427811.9....... Caswell County Schools............................ 
+	http://www.grid.ac/institutes/grid.427495.9....... Caldwell County Schools........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.429549.7', '3:grid.427811.9'), ('2:4841713', '1:grid.429549.7'), ('3:grid.427811.9', '2:4841713'), ('4:grid.427495.9', '3:grid.427811.9')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

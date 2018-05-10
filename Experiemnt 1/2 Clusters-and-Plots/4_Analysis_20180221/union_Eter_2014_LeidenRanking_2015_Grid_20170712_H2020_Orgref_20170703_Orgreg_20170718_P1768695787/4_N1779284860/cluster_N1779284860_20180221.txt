@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 4574 
+NAME    N1779284860
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.412004.3>
+	<http://risis.eu/orgref_20170703/resource/19266411>
+	<http://risis.eu/orgreg_20170718/resource/DE2016>
+	<http://risis.eu/orgreg_20170718/resource/CH2008>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.412004.3........ http://risis.eu/orgref_20170703/resource/19266411.. 1.................................................. [University Hospital of Zurich] was compared to [University Hospital of Zürich] 
+	http://risis.eu/orgref_20170703/resource/19266411.. http://www.grid.ac/institutes/grid.412004.3........ 1.................................................. [University Hospital of Zurich] was compared to [University Hospital of Zürich] 
+	http://risis.eu/orgreg_20170718/resource/DE2016.... http://risis.eu/orgreg_20170718/resource/CH2008.... 0.923076923077..................................... [University of Zurich Hospital] was compared to [Munich University Hospital] 
+	http://risis.eu/orgreg_20170718/resource/CH2008.... http://risis.eu/orgreg_20170718/resource/DE2016.... 0.923076923077..................................... [University of Zurich Hospital] was compared to [Munich University Hospital] 
+	http://risis.eu/orgref_20170703/resource/19266411.. http://risis.eu/orgreg_20170718/resource/CH2008.... 1.................................................. [University Hospital of Zürich] was compared to [University of Zurich Hospital] 
+	http://risis.eu/orgreg_20170718/resource/CH2008.... http://risis.eu/orgref_20170703/resource/19266411.. 1.................................................. [University Hospital of Zürich] was compared to [University of Zurich Hospital] 
+	http://risis.eu/orgref_20170703/resource/19266411.. http://risis.eu/orgreg_20170718/resource/DE2016.... 0.923076923077..................................... [University Hospital of Zürich] was compared to [Munich University Hospital] 
+	http://risis.eu/orgreg_20170718/resource/DE2016.... http://risis.eu/orgref_20170703/resource/19266411.. 0.923076923077..................................... [University Hospital of Zürich] was compared to [Munich University Hospital] 
+	http://www.grid.ac/institutes/grid.412004.3........ http://risis.eu/orgreg_20170718/resource/CH2008.... 1.................................................. [University Hospital of Zurich] was compared to [University of Zurich Hospital] 
+	http://risis.eu/orgreg_20170718/resource/CH2008.... http://www.grid.ac/institutes/grid.412004.3........ 1.................................................. [University Hospital of Zurich] was compared to [University of Zurich Hospital] 
+	http://www.grid.ac/institutes/grid.412004.3........ http://risis.eu/orgreg_20170718/resource/DE2016.... 0.923076923077..................................... [University Hospital of Zurich] was compared to [Munich University Hospital] 
+	http://risis.eu/orgreg_20170718/resource/DE2016.... http://www.grid.ac/institutes/grid.412004.3........ 0.923076923077..................................... [University Hospital of Zurich] was compared to [Munich University Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.412004.3........ 8.549722........................................... 
+	http://www.grid.ac/institutes/grid.412004.3........ 47.376667.......................................... 
+	http://www.grid.ac/institutes/grid.412004.3........ http://www.en.usz.ch/Pages/default.aspx............ 
+	http://www.grid.ac/institutes/grid.412004.3........ University Hospital of Zurich...................... 
+	http://risis.eu/orgref_20170703/resource/19266411.. http://en.wikipedia.org/wiki?curid=19266411........ 
+	http://risis.eu/orgref_20170703/resource/19266411.. http://www.wikidata.org/wiki/Q450139............... 
+	http://risis.eu/orgref_20170703/resource/19266411.. http://www.en.usz.ch............................... 
+	http://risis.eu/orgref_20170703/resource/19266411.. University Hospital of Zürich..................... 
+	http://risis.eu/orgreg_20170718/resource/DE2016.... 48.130813.......................................... 
+	http://risis.eu/orgreg_20170718/resource/DE2016.... 48.11122........................................... 
+	http://risis.eu/orgreg_20170718/resource/DE2016.... 11.560679.......................................... 
+	http://risis.eu/orgreg_20170718/resource/DE2016.... 11.471132.......................................... 
+	http://risis.eu/orgreg_20170718/resource/DE2016.... http://www.klinikum.uni-muenchen.de/............... 
+	http://risis.eu/orgreg_20170718/resource/DE2016.... Munich University Hospital......................... 
+	http://risis.eu/orgreg_20170718/resource/CH2008.... m.................................................. 
+	http://risis.eu/orgreg_20170718/resource/CH2008.... http://www.usz.ch.................................. 
+	http://risis.eu/orgreg_20170718/resource/CH2008.... University of Zurich Hospital...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:19266411', '1:grid.412004.3'), ('3:DE2016', '1:grid.412004.3'), ('3:DE2016', '2:19266411'), ('4:CH2008', '1:grid.412004.3'), ('4:CH2008', '2:19266411'), ('4:CH2008', '3:DE2016')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

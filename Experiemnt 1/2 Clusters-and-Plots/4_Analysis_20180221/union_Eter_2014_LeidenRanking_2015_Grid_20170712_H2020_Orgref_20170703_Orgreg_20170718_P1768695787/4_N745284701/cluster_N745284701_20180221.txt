@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 18210 
+NAME    N745284701
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.1694.a>
+	<http://risis.eu/orgref_20170703/resource/1367457>
+	<http://www.grid.ac/institutes/grid.417197.d>
+	<http://risis.eu/leidenRanking_2015/resource/1586>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.1694.a......... http://www.grid.ac/institutes/grid.417197.d....... 1................................................. [Women's and Children's Hospital] was compared to [Women's and Children's Hospital] 
+	http://www.grid.ac/institutes/grid.417197.d....... http://www.grid.ac/institutes/grid.1694.a......... 1................................................. [Women's and Children's Hospital] was compared to [Women's and Children's Hospital] 
+	http://www.grid.ac/institutes/grid.1694.a......... http://risis.eu/orgref_20170703/resource/1367457.. 1................................................. [Women's and Children's Hospital] was compared to [Women's and Children's Hospital] 
+	http://risis.eu/orgref_20170703/resource/1367457.. http://www.grid.ac/institutes/grid.1694.a......... 1................................................. [Women's and Children's Hospital] was compared to [Women's and Children's Hospital] 
+	http://risis.eu/orgref_20170703/resource/1367457.. http://www.grid.ac/institutes/grid.417197.d....... 1................................................. [Women's and Children's Hospital] was compared to [Women's and Children's Hospital] 
+	http://www.grid.ac/institutes/grid.417197.d....... http://risis.eu/orgref_20170703/resource/1367457.. 1................................................. [Women's and Children's Hospital] was compared to [Women's and Children's Hospital] 
+	http://www.grid.ac/institutes/grid.1694.a......... http://risis.eu/leidenRanking_2015/resource/1586.. 1................................................. [Women's and Children's Hospital] was compared to [Women's and Children's Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1586.. http://www.grid.ac/institutes/grid.1694.a......... 1................................................. [Women's and Children's Hospital] was compared to [Women's and Children's Hospital] 
+	http://www.grid.ac/institutes/grid.417197.d....... http://risis.eu/leidenRanking_2015/resource/1586.. 1................................................. [Women's and Children's Hospital] was compared to [Women's and Children's Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1586.. http://www.grid.ac/institutes/grid.417197.d....... 1................................................. [Women's and Children's Hospital] was compared to [Women's and Children's Hospital] 
+	http://risis.eu/orgref_20170703/resource/1367457.. http://risis.eu/leidenRanking_2015/resource/1586.. 1................................................. [Women's and Children's Hospital] was compared to [Women's and Children's Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1586.. http://risis.eu/orgref_20170703/resource/1367457.. 1................................................. [Women's and Children's Hospital] was compared to [Women's and Children's Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.1694.a......... 138.5998.......................................... 
+	http://www.grid.ac/institutes/grid.1694.a......... -34.9114.......................................... 
+	http://www.grid.ac/institutes/grid.1694.a......... http://www.wch.sa.gov.au/......................... 
+	http://www.grid.ac/institutes/grid.1694.a......... Women's and Children's Hospital................... 
+	http://risis.eu/orgref_20170703/resource/1367457.. http://en.wikipedia.org/wiki?curid=1367457........ 
+	http://risis.eu/orgref_20170703/resource/1367457.. http://www.wikidata.org/wiki/Q8031120............. 
+	http://risis.eu/orgref_20170703/resource/1367457.. http://www.wch.sa.gov.au.......................... 
+	http://risis.eu/orgref_20170703/resource/1367457.. Women's and Children's Hospital................... 
+	http://www.grid.ac/institutes/grid.417197.d....... -118.21131........................................ 
+	http://www.grid.ac/institutes/grid.417197.d....... 34.061653......................................... 
+	http://www.grid.ac/institutes/grid.417197.d....... Women's and Children's Hospital................... 
+	http://risis.eu/leidenRanking_2015/resource/1586.. Women's and Children's Hospital................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1367457', '1:grid.1694.a'), ('2:1367457', '3:grid.417197.d'), ('3:grid.417197.d', '1:grid.1694.a'), ('4:1586', '1:grid.1694.a'), ('4:1586', '2:1367457'), ('4:1586', '3:grid.417197.d')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

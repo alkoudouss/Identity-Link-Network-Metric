@@ -1,0 +1,59 @@
+SIZE    3   
+CLUSTER 1012 
+NAME    N1045777823
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/SI0016>
+	<http://risis.eu/eter_2014/resource/SI0016>
+	<http://www.grid.ac/institutes/grid.457281.d>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/SI0016.. http://www.grid.ac/institutes/grid.457281.d...... 1................................................ Near each other by at most 2000 meter(s)......... 
+	http://risis.eu/orgreg_20170718/resource/SI0016.. http://risis.eu/eter_2014/resource/SI0016........ 1................................................ Near each other by at most 2000 meter(s)......... 
+	http://risis.eu/eter_2014/resource/SI0016........ http://www.grid.ac/institutes/grid.457281.d...... 1................................................ Near each other by at most 2000 meter(s)......... 
+	http://risis.eu/eter_2014/resource/SI0016........ http://risis.eu/orgreg_20170718/resource/SI0016.. 1................................................ Near each other by at most 2000 meter(s)......... 
+	http://www.grid.ac/institutes/grid.457281.d...... http://risis.eu/eter_2014/resource/SI0016........ 1................................................ Near each other by at most 2000 meter(s)......... 
+	http://www.grid.ac/institutes/grid.457281.d...... http://risis.eu/orgreg_20170718/resource/SI0016.. 1................................................ Near each other by at most 2000 meter(s)......... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/SI0016.. 14.557764........................................ 
+	http://risis.eu/orgreg_20170718/resource/SI0016.. 46.129824........................................ 
+	http://risis.eu/orgreg_20170718/resource/SI0016.. http://en.fd.si/................................. 
+	http://risis.eu/orgreg_20170718/resource/SI0016.. Faculty of design	 associated member of University of Primorska 
+	http://risis.eu/eter_2014/resource/SI0016........ 46,129824........................................ 
+	http://risis.eu/eter_2014/resource/SI0016........ 14,557764........................................ 
+	http://risis.eu/eter_2014/resource/SI0016........ http://en.fd.si/................................. 
+	http://risis.eu/eter_2014/resource/SI0016........ a................................................ 
+	http://risis.eu/eter_2014/resource/SI0016........ Faculty of design, associated member of University of Primorska 
+	http://risis.eu/eter_2014/resource/SI0016........ Fakulteta za dizajn, samostojni visokošolski zavod, pridružena članica Univerze na Primorskem 
+	http://www.grid.ac/institutes/grid.457281.d...... 14.547617........................................ 
+	http://www.grid.ac/institutes/grid.457281.d...... 46.122196........................................ 
+	http://www.grid.ac/institutes/grid.457281.d...... http://www.fd.si/................................ 
+	http://www.grid.ac/institutes/grid.457281.d...... Fakulteta za Dizajn.............................. 
+	http://www.grid.ac/institutes/grid.457281.d...... Faculty of Design................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('P1071889896-SI0016', 'P2020740145-grid.457281.d'), ('N1045777823-SI0016', 'P1071889896-SI0016'), ('N1045777823-SI0016', 'P2020740145-grid.457281.d')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

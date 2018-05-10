@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 1740 
+NAME    N1190837847
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/2245236>
+	<http://risis.eu/orgref_20170703/resource/23900106>
+	<http://www.grid.ac/institutes/grid.466798.2>
+	<http://risis.eu/orgref_20170703/resource/34921719>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/2245236... http://www.grid.ac/institutes/grid.466798.2........ 1.................................................. [Institute of Technology of Cambodia] was compared to [Institute of Technology of Cambodia] 
+	http://www.grid.ac/institutes/grid.466798.2........ http://risis.eu/orgref_20170703/resource/2245236... 1.................................................. [Institute of Technology of Cambodia] was compared to [Institute of Technology of Cambodia] 
+	http://risis.eu/orgref_20170703/resource/23900106.. http://risis.eu/orgref_20170703/resource/34921719.. 0.896551724138..................................... [Camellia Institute of Technology] was compared to [Millia Institute of Technology] 
+	http://risis.eu/orgref_20170703/resource/34921719.. http://risis.eu/orgref_20170703/resource/23900106.. 0.896551724138..................................... [Camellia Institute of Technology] was compared to [Millia Institute of Technology] 
+	http://risis.eu/orgref_20170703/resource/2245236... http://risis.eu/orgref_20170703/resource/23900106.. 0.896551724138..................................... [Institute of Technology of Cambodia] was compared to [Camellia Institute of Technology] 
+	http://risis.eu/orgref_20170703/resource/23900106.. http://risis.eu/orgref_20170703/resource/2245236... 0.896551724138..................................... [Institute of Technology of Cambodia] was compared to [Camellia Institute of Technology] 
+	http://risis.eu/orgref_20170703/resource/23900106.. http://www.grid.ac/institutes/grid.466798.2........ 0.896551724138..................................... [Institute of Technology of Cambodia] was compared to [Camellia Institute of Technology] 
+	http://www.grid.ac/institutes/grid.466798.2........ http://risis.eu/orgref_20170703/resource/23900106.. 0.896551724138..................................... [Institute of Technology of Cambodia] was compared to [Camellia Institute of Technology] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/2245236... http://en.wikipedia.org/wiki?curid=2245236......... 
+	http://risis.eu/orgref_20170703/resource/2245236... http://www.wikidata.org/wiki/Q11812055............. 
+	http://risis.eu/orgref_20170703/resource/2245236... http://itc.edu.kh.................................. 
+	http://risis.eu/orgref_20170703/resource/2245236... Institute of Technology of Cambodia................ 
+	http://risis.eu/orgref_20170703/resource/23900106.. http://en.wikipedia.org/wiki?curid=23900106........ 
+	http://risis.eu/orgref_20170703/resource/23900106.. http://www.wikidata.org/wiki/Q5025905.............. 
+	http://risis.eu/orgref_20170703/resource/23900106.. http://camelliait.ac.in............................ 
+	http://risis.eu/orgref_20170703/resource/23900106.. Camellia Institute of Technology................... 
+	http://www.grid.ac/institutes/grid.466798.2........ 104.89828.......................................... 
+	http://www.grid.ac/institutes/grid.466798.2........ 11.570561.......................................... 
+	http://www.grid.ac/institutes/grid.466798.2........ http://www.itc.edu.kh/en/.......................... 
+	http://www.grid.ac/institutes/grid.466798.2........ Techno............................................. 
+	http://www.grid.ac/institutes/grid.466798.2........ Institute of Technology of Cambodia................ 
+	http://risis.eu/orgref_20170703/resource/34921719.. http://en.wikipedia.org/wiki?curid=34921719........ 
+	http://risis.eu/orgref_20170703/resource/34921719.. http://www.wikidata.org/wiki/Q6859533.............. 
+	http://risis.eu/orgref_20170703/resource/34921719.. http://www.mitpurnea.org........................... 
+	http://risis.eu/orgref_20170703/resource/34921719.. Millia Institute of Technology..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:23900106', '1:2245236'), ('2:23900106', '3:grid.466798.2'), ('3:grid.466798.2', '1:2245236'), ('4:34921719', '2:23900106')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

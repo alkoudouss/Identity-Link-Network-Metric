@@ -1,0 +1,69 @@
+SIZE    4   
+CLUSTER 12759 
+NAME    N1976389826
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.449090.0>
+	<http://risis.eu/eter_2014/resource/ES0062>
+	<http://risis.eu/orgref_20170703/resource/29649091>
+	<http://risis.eu/orgreg_20170718/resource/ES0062>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.449090.0........ http://risis.eu/orgref_20170703/resource/29649091.. 1.................................................. [International University of Andalucía] was compared to [International University of Andalucía] 
+	http://risis.eu/orgref_20170703/resource/29649091.. http://www.grid.ac/institutes/grid.449090.0........ 1.................................................. [International University of Andalucía] was compared to [International University of Andalucía] 
+	http://www.grid.ac/institutes/grid.449090.0........ http://risis.eu/eter_2014/resource/ES0062.......... 0.885714285714..................................... [International University of Andalucía] was compared to [Universidad Internacional de Andalucía] 
+	http://risis.eu/eter_2014/resource/ES0062.......... http://www.grid.ac/institutes/grid.449090.0........ 0.885714285714..................................... [International University of Andalucía] was compared to [Universidad Internacional de Andalucía] 
+	http://risis.eu/eter_2014/resource/ES0062.......... http://risis.eu/orgref_20170703/resource/29649091.. 0.885714285714..................................... [International University of Andalucía] was compared to [Universidad Internacional de Andalucía] 
+	http://risis.eu/orgref_20170703/resource/29649091.. http://risis.eu/eter_2014/resource/ES0062.......... 0.885714285714..................................... [International University of Andalucía] was compared to [Universidad Internacional de Andalucía] 
+	http://risis.eu/eter_2014/resource/ES0062.......... http://risis.eu/orgreg_20170718/resource/ES0062.... 0.885714285714..................................... [International University of Andalucía] was compared to [Universidad Internacional de Andalucía] 
+	http://risis.eu/orgreg_20170718/resource/ES0062.... http://risis.eu/eter_2014/resource/ES0062.......... 0.885714285714..................................... [International University of Andalucía] was compared to [Universidad Internacional de Andalucía] 
+	http://risis.eu/orgref_20170703/resource/29649091.. http://risis.eu/orgreg_20170718/resource/ES0062.... 1.................................................. [International University of Andalucía] was compared to [International University of Andalucía] 
+	http://risis.eu/orgreg_20170718/resource/ES0062.... http://risis.eu/orgref_20170703/resource/29649091.. 1.................................................. [International University of Andalucía] was compared to [International University of Andalucía] 
+	http://www.grid.ac/institutes/grid.449090.0........ http://risis.eu/orgreg_20170718/resource/ES0062.... 1.................................................. [International University of Andalucía] was compared to [International University of Andalucía] 
+	http://risis.eu/orgreg_20170718/resource/ES0062.... http://www.grid.ac/institutes/grid.449090.0........ 1.................................................. [International University of Andalucía] was compared to [International University of Andalucía] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.449090.0........ -6.008917.......................................... 
+	http://www.grid.ac/institutes/grid.449090.0........ 37.3985............................................ 
+	http://www.grid.ac/institutes/grid.449090.0........ http://www.unia.es/................................ 
+	http://www.grid.ac/institutes/grid.449090.0........ International University of Andalucía............. 
+	http://risis.eu/eter_2014/resource/ES0062.......... 37,403782.......................................... 
+	http://risis.eu/eter_2014/resource/ES0062.......... -6,007057.......................................... 
+	http://risis.eu/eter_2014/resource/ES0062.......... http://www.unia.es................................. 
+	http://risis.eu/eter_2014/resource/ES0062.......... a.................................................. 
+	http://risis.eu/eter_2014/resource/ES0062.......... International University of Andalucía............. 
+	http://risis.eu/eter_2014/resource/ES0062.......... Universidad Internacional de Andalucía............ 
+	http://risis.eu/orgref_20170703/resource/29649091.. http://en.wikipedia.org/wiki?curid=29649091........ 
+	http://risis.eu/orgref_20170703/resource/29649091.. http://www.wikidata.org/wiki/Q4894042.............. 
+	http://risis.eu/orgref_20170703/resource/29649091.. http://www.unia.es................................. 
+	http://risis.eu/orgref_20170703/resource/29649091.. International University of Andalucía............. 
+	http://risis.eu/orgreg_20170718/resource/ES0062.... 37.403782.......................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0062.... -6.007057.......................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0062.... http://www.unia.es................................. 
+	http://risis.eu/orgreg_20170718/resource/ES0062.... International University of Andalucía............. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:ES0062', '1:grid.449090.0'), ('2:ES0062', '3:29649091'), ('2:ES0062', '4:ES0062'), ('3:29649091', '1:grid.449090.0'), ('4:ES0062', '1:grid.449090.0'), ('4:ES0062', '3:29649091')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

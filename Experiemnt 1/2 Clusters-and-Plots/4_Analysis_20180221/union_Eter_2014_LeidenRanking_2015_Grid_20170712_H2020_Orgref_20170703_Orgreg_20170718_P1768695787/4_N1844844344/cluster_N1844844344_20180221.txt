@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 15568 
+NAME    N1844844344
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.444646.0>
+	<http://risis.eu/orgref_20170703/resource/24840084>
+	<http://www.grid.ac/institutes/grid.442930.8>
+	<http://risis.eu/orgref_20170703/resource/18965074>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.442930.8........ http://risis.eu/orgref_20170703/resource/18965074.. 1.................................................. [Batangas State University] was compared to [Batangas State University] 
+	http://risis.eu/orgref_20170703/resource/18965074.. http://www.grid.ac/institutes/grid.442930.8........ 1.................................................. [Batangas State University] was compared to [Batangas State University] 
+	http://www.grid.ac/institutes/grid.444646.0........ http://risis.eu/orgref_20170703/resource/24840084.. 1.................................................. [Namangan State University] was compared to [Namangan State University] 
+	http://risis.eu/orgref_20170703/resource/24840084.. http://www.grid.ac/institutes/grid.444646.0........ 1.................................................. [Namangan State University] was compared to [Namangan State University] 
+	http://risis.eu/orgref_20170703/resource/24840084.. http://risis.eu/orgref_20170703/resource/18965074.. 0.88............................................... [Batangas State University] was compared to [Namangan State University] 
+	http://risis.eu/orgref_20170703/resource/18965074.. http://risis.eu/orgref_20170703/resource/24840084.. 0.88............................................... [Batangas State University] was compared to [Namangan State University] 
+	http://www.grid.ac/institutes/grid.444646.0........ http://www.grid.ac/institutes/grid.442930.8........ 0.88............................................... [Batangas State University] was compared to [Namangan State University] 
+	http://www.grid.ac/institutes/grid.442930.8........ http://www.grid.ac/institutes/grid.444646.0........ 0.88............................................... [Batangas State University] was compared to [Namangan State University] 
+	http://risis.eu/orgref_20170703/resource/24840084.. http://www.grid.ac/institutes/grid.442930.8........ 0.88............................................... [Batangas State University] was compared to [Namangan State University] 
+	http://www.grid.ac/institutes/grid.442930.8........ http://risis.eu/orgref_20170703/resource/24840084.. 0.88............................................... [Batangas State University] was compared to [Namangan State University] 
+	http://www.grid.ac/institutes/grid.444646.0........ http://risis.eu/orgref_20170703/resource/18965074.. 0.88............................................... [Namangan State University] was compared to [Batangas State University] 
+	http://risis.eu/orgref_20170703/resource/18965074.. http://www.grid.ac/institutes/grid.444646.0........ 0.88............................................... [Namangan State University] was compared to [Batangas State University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.444646.0........ Namangan State University.......................... 
+	http://risis.eu/orgref_20170703/resource/24840084.. http://en.wikipedia.org/wiki?curid=24840084........ 
+	http://risis.eu/orgref_20170703/resource/24840084.. http://www.wikidata.org/wiki/Q32393................ 
+	http://risis.eu/orgref_20170703/resource/24840084.. http://www.namdu.uz................................ 
+	http://risis.eu/orgref_20170703/resource/24840084.. Namangan State University.......................... 
+	http://www.grid.ac/institutes/grid.442930.8........ Batangas State University.......................... 
+	http://risis.eu/orgref_20170703/resource/18965074.. http://en.wikipedia.org/wiki?curid=18965074........ 
+	http://risis.eu/orgref_20170703/resource/18965074.. http://www.wikidata.org/wiki/Q3547053.............. 
+	http://risis.eu/orgref_20170703/resource/18965074.. http://www.batstate-u.edu.ph....................... 
+	http://risis.eu/orgref_20170703/resource/18965074.. Batangas State University.......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:24840084', '1:grid.444646.0'), ('2:24840084', '3:grid.442930.8'), ('2:24840084', '4:18965074'), ('3:grid.442930.8', '1:grid.444646.0'), ('4:18965074', '1:grid.444646.0'), ('4:18965074', '3:grid.442930.8')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

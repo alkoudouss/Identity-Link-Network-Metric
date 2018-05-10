@@ -1,0 +1,59 @@
+SIZE    3   
+CLUSTER 1072 
+NAME    N1798749441
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/DE0115>
+	<http://www.grid.ac/institutes/grid.449015.d>
+	<http://risis.eu/eter_2014/resource/DE0378>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/DE0115.... http://www.grid.ac/institutes/grid.449015.d.. 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://www.grid.ac/institutes/grid.449015.d.. http://risis.eu/eter_2014/resource/DE0115.... 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://www.grid.ac/institutes/grid.449015.d.. http://risis.eu/eter_2014/resource/DE0378.... 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/DE0378.... http://www.grid.ac/institutes/grid.449015.d.. 1............................................ Near each other by at most 2000 meter(s)..... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/DE0115.... 48,911669.................................... 
+	http://risis.eu/eter_2014/resource/DE0115.... 9,171818..................................... 
+	http://risis.eu/eter_2014/resource/DE0115.... www.ph-ludwigsburg.de........................ 
+	http://risis.eu/eter_2014/resource/DE0115.... a............................................ 
+	http://risis.eu/eter_2014/resource/DE0115.... University of Education Ludwigsburg.......... 
+	http://risis.eu/eter_2014/resource/DE0115.... Pädagogische Hochschule  Ludwigsburg........ 
+	http://www.grid.ac/institutes/grid.449015.d.. 9.183178..................................... 
+	http://www.grid.ac/institutes/grid.449015.d.. 48.909737.................................... 
+	http://www.grid.ac/institutes/grid.449015.d.. https://www.ph-ludwigsburg.de/index.php?id=1&L=1 
+	http://www.grid.ac/institutes/grid.449015.d.. Ludwigsburg University....................... 
+	http://www.grid.ac/institutes/grid.449015.d.. Ludwigsburg University of Education.......... 
+	http://risis.eu/eter_2014/resource/DE0378.... 48,911669.................................... 
+	http://risis.eu/eter_2014/resource/DE0378.... 9,171818..................................... 
+	http://risis.eu/eter_2014/resource/DE0378.... www.hs-ludwigsburg.de........................ 
+	http://risis.eu/eter_2014/resource/DE0378.... a............................................ 
+	http://risis.eu/eter_2014/resource/DE0378.... University of Applied Sciences - Public Administration and Finance Ludwigsburg 
+	http://risis.eu/eter_2014/resource/DE0378.... Hochschule Ludwigsburg für öffentliche Verwaltung und Finanzen 
+
+NETWORK ANALYSIS
+	NETWORK [('N1798749441-DE0378', 'N1423997317-grid.449015.d'), ('N1630656600-DE0115', 'N1423997317-grid.449015.d')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

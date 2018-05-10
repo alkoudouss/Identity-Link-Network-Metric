@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 216 
+NAME    P395338038
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.102760.2>
+	<http://risis.eu/orgreg_20170718/resource/PT0031>
+	<http://risis.eu/eter_2014/resource/PT0031>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.102760.2...... http://risis.eu/eter_2014/resource/PT0031........ 0.954545454545................................... [escola superior nautica infante d henrique] was compared to [escola superior nautica infante dom henrique] 
+	http://risis.eu/orgreg_20170718/resource/PT0031.. http://risis.eu/eter_2014/resource/PT0031........ 1................................................ [nautical school infante d henrique] was compared to [nautical school infante d henrique] 
+	http://risis.eu/eter_2014/resource/PT0031........ http://www.grid.ac/institutes/grid.102760.2...... 0.954545454545................................... [escola superior nautica infante d henrique] was compared to [escola superior nautica infante dom henrique] 
+	http://risis.eu/eter_2014/resource/PT0031........ http://risis.eu/orgreg_20170718/resource/PT0031.. 1................................................ [nautical school infante d henrique] was compared to [nautical school infante d henrique] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.102760.2...... -9.298337........................................ 
+	http://www.grid.ac/institutes/grid.102760.2...... 38.690693........................................ 
+	http://www.grid.ac/institutes/grid.102760.2...... http://www.enautica.pt/.......................... 
+	http://www.grid.ac/institutes/grid.102760.2...... Escola Superior Náutica Infante Dom Henrique.... 
+	http://risis.eu/orgreg_20170718/resource/PT0031.. -9.299157........................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0031.. 38.691999........................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0031.. http://www.enautica.pt........................... 
+	http://risis.eu/orgreg_20170718/resource/PT0031.. Nautical School Infante D. Henrique.............. 
+	http://risis.eu/eter_2014/resource/PT0031........ 38,691999........................................ 
+	http://risis.eu/eter_2014/resource/PT0031........ -9,299157........................................ 
+	http://risis.eu/eter_2014/resource/PT0031........ http://www.enautica.pt........................... 
+	http://risis.eu/eter_2014/resource/PT0031........ a................................................ 
+	http://risis.eu/eter_2014/resource/PT0031........ Nautical School Infante D. Henrique.............. 
+	http://risis.eu/eter_2014/resource/PT0031........ Escola Superior Náutica Infante D. Henrique..... 
+
+NETWORK ANALYSIS
+	NETWORK [('P395338038-PT0031', 'P1395846835-PT0031'), ('P395338038-PT0031', 'P1264219458-grid.102760.2')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

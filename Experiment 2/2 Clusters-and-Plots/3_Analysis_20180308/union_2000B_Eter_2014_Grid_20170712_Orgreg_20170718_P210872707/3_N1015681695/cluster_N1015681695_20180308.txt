@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 348 
+NAME    N1015681695
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/DE0329>
+	<http://www.grid.ac/institutes/grid.474441.6>
+	<http://www.grid.ac/institutes/grid.466374.4>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/DE0329.... http://www.grid.ac/institutes/grid.466374.4.. 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/DE0329.... http://www.grid.ac/institutes/grid.474441.6.. 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://www.grid.ac/institutes/grid.474441.6.. http://risis.eu/eter_2014/resource/DE0329.... 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://www.grid.ac/institutes/grid.466374.4.. http://risis.eu/eter_2014/resource/DE0329.... 1............................................ Near each other by at most 2000 meter(s)..... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/DE0329.... 51,381761.................................... 
+	http://risis.eu/eter_2014/resource/DE0329.... 7,721855..................................... 
+	http://risis.eu/eter_2014/resource/DE0329.... www.bits-iserlohn.de......................... 
+	http://risis.eu/eter_2014/resource/DE0329.... a............................................ 
+	http://risis.eu/eter_2014/resource/DE0329.... Business and Information Technology School Iserlohn (Priv. FH) 
+	http://www.grid.ac/institutes/grid.474441.6.. 7.695201..................................... 
+	http://www.grid.ac/institutes/grid.474441.6.. 51.3779...................................... 
+	http://www.grid.ac/institutes/grid.474441.6.. https://www.kirchhoff-automotive.com/........ 
+	http://www.grid.ac/institutes/grid.474441.6.. Kirchhoff (Germany).......................... 
+	http://www.grid.ac/institutes/grid.466374.4.. 7.71911...................................... 
+	http://www.grid.ac/institutes/grid.466374.4.. 51.384007.................................... 
+	http://www.grid.ac/institutes/grid.466374.4.. http://www.bits-hochschule.de/de/............ 
+	http://www.grid.ac/institutes/grid.466374.4.. BiTS Iserlohn................................ 
+	http://www.grid.ac/institutes/grid.466374.4.. Business and Information Technology School... 
+
+NETWORK ANALYSIS
+	NETWORK [('N1015681695-DE0329', 'P1909187782-grid.466374.4'), ('N1015681695-DE0329', 'N748976412-grid.474441.6')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

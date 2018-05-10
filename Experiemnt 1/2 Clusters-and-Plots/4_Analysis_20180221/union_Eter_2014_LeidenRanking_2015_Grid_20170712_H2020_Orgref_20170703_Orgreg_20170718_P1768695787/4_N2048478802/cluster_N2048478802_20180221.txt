@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 17503 
+NAME    N2048478802
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.420699.0>
+	<http://www.grid.ac/institutes/grid.435078.d>
+	<http://www.grid.ac/institutes/grid.471160.5>
+	<http://www.grid.ac/institutes/grid.424748.9>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.420699.0.. http://www.grid.ac/institutes/grid.471160.5.. 1............................................ [Huawei (United Kingdom)] was compared to [Huawei (United States)] 
+	http://www.grid.ac/institutes/grid.471160.5.. http://www.grid.ac/institutes/grid.420699.0.. 1............................................ [Huawei (United Kingdom)] was compared to [Huawei (United States)] 
+	http://www.grid.ac/institutes/grid.420699.0.. http://www.grid.ac/institutes/grid.435078.d.. 1............................................ [Huawei (United Kingdom)] was compared to [Huawei (Sweden)] 
+	http://www.grid.ac/institutes/grid.435078.d.. http://www.grid.ac/institutes/grid.420699.0.. 1............................................ [Huawei (United Kingdom)] was compared to [Huawei (Sweden)] 
+	http://www.grid.ac/institutes/grid.420699.0.. http://www.grid.ac/institutes/grid.424748.9.. 1............................................ [Huawei (United Kingdom)] was compared to [Huawei (Germany)] 
+	http://www.grid.ac/institutes/grid.424748.9.. http://www.grid.ac/institutes/grid.420699.0.. 1............................................ [Huawei (United Kingdom)] was compared to [Huawei (Germany)] 
+	http://www.grid.ac/institutes/grid.471160.5.. http://www.grid.ac/institutes/grid.424748.9.. 1............................................ [Huawei (Germany)] was compared to [Huawei (United States)] 
+	http://www.grid.ac/institutes/grid.424748.9.. http://www.grid.ac/institutes/grid.471160.5.. 1............................................ [Huawei (Germany)] was compared to [Huawei (United States)] 
+	http://www.grid.ac/institutes/grid.435078.d.. http://www.grid.ac/institutes/grid.424748.9.. 1............................................ [Huawei (Germany)] was compared to [Huawei (Sweden)] 
+	http://www.grid.ac/institutes/grid.424748.9.. http://www.grid.ac/institutes/grid.435078.d.. 1............................................ [Huawei (Germany)] was compared to [Huawei (Sweden)] 
+	http://www.grid.ac/institutes/grid.435078.d.. http://www.grid.ac/institutes/grid.471160.5.. 1............................................ [Huawei (Sweden)] was compared to [Huawei (United States)] 
+	http://www.grid.ac/institutes/grid.471160.5.. http://www.grid.ac/institutes/grid.435078.d.. 1............................................ [Huawei (Sweden)] was compared to [Huawei (United States)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.420699.0.. -1.091024.................................... 
+	http://www.grid.ac/institutes/grid.420699.0.. 51.24959..................................... 
+	http://www.grid.ac/institutes/grid.420699.0.. http://www.huawei.com/uk/.................... 
+	http://www.grid.ac/institutes/grid.420699.0.. Huawei Technologies.......................... 
+	http://www.grid.ac/institutes/grid.420699.0.. Huawei (United Kingdom)...................... 
+	http://www.grid.ac/institutes/grid.435078.d.. Huawei (Sweden).............................. 
+	http://www.grid.ac/institutes/grid.471160.5.. -96.82003.................................... 
+	http://www.grid.ac/institutes/grid.471160.5.. 33.070904.................................... 
+	http://www.grid.ac/institutes/grid.471160.5.. http://www.huawei.com/us/.................... 
+	http://www.grid.ac/institutes/grid.471160.5.. Huawei Investment & Holding.................. 
+	http://www.grid.ac/institutes/grid.471160.5.. Huawei (United States)....................... 
+	http://www.grid.ac/institutes/grid.424748.9.. 6.811722..................................... 
+	http://www.grid.ac/institutes/grid.424748.9.. 51.221966.................................... 
+	http://www.grid.ac/institutes/grid.424748.9.. http://www.huawei.com/de/.................... 
+	http://www.grid.ac/institutes/grid.424748.9.. Huawei (Germany)............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.435078.d', '1:grid.420699.0'), ('3:grid.471160.5', '1:grid.420699.0'), ('3:grid.471160.5', '2:grid.435078.d'), ('3:grid.471160.5', '4:grid.424748.9'), ('4:grid.424748.9', '1:grid.420699.0'), ('4:grid.424748.9', '2:grid.435078.d')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

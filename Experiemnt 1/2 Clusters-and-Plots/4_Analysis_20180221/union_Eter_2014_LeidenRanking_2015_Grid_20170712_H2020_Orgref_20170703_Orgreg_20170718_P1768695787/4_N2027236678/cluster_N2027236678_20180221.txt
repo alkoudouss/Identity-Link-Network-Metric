@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 14216 
+NAME    N2027236678
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.443051.7>
+	<http://risis.eu/orgref_20170703/resource/3280622>
+	<http://risis.eu/orgref_20170703/resource/1085385>
+	<http://www.grid.ac/institutes/grid.443220.3>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.443051.7....... http://www.grid.ac/institutes/grid.443220.3....... 1................................................. [University of Asia Pacific] was compared to [University of Asia and the Pacific] 
+	http://www.grid.ac/institutes/grid.443220.3....... http://www.grid.ac/institutes/grid.443051.7....... 1................................................. [University of Asia Pacific] was compared to [University of Asia and the Pacific] 
+	http://www.grid.ac/institutes/grid.443051.7....... http://risis.eu/orgref_20170703/resource/1085385.. 1................................................. [University of Asia Pacific] was compared to [University of Asia and the Pacific] 
+	http://risis.eu/orgref_20170703/resource/1085385.. http://www.grid.ac/institutes/grid.443051.7....... 1................................................. [University of Asia Pacific] was compared to [University of Asia and the Pacific] 
+	http://www.grid.ac/institutes/grid.443051.7....... http://risis.eu/orgref_20170703/resource/3280622.. 1................................................. [University of Asia Pacific] was compared to [University of Asia Pacific] 
+	http://risis.eu/orgref_20170703/resource/3280622.. http://www.grid.ac/institutes/grid.443051.7....... 1................................................. [University of Asia Pacific] was compared to [University of Asia Pacific] 
+	http://risis.eu/orgref_20170703/resource/1085385.. http://www.grid.ac/institutes/grid.443220.3....... 1................................................. [University of Asia and the Pacific] was compared to [University of Asia and the Pacific] 
+	http://www.grid.ac/institutes/grid.443220.3....... http://risis.eu/orgref_20170703/resource/1085385.. 1................................................. [University of Asia and the Pacific] was compared to [University of Asia and the Pacific] 
+	http://risis.eu/orgref_20170703/resource/3280622.. http://www.grid.ac/institutes/grid.443220.3....... 1................................................. [University of Asia and the Pacific] was compared to [University of Asia Pacific] 
+	http://www.grid.ac/institutes/grid.443220.3....... http://risis.eu/orgref_20170703/resource/3280622.. 1................................................. [University of Asia and the Pacific] was compared to [University of Asia Pacific] 
+	http://risis.eu/orgref_20170703/resource/3280622.. http://risis.eu/orgref_20170703/resource/1085385.. 1................................................. [University of Asia and the Pacific] was compared to [University of Asia Pacific] 
+	http://risis.eu/orgref_20170703/resource/1085385.. http://risis.eu/orgref_20170703/resource/3280622.. 1................................................. [University of Asia and the Pacific] was compared to [University of Asia Pacific] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.443051.7....... University of Asia Pacific........................ 
+	http://risis.eu/orgref_20170703/resource/3280622.. http://en.wikipedia.org/wiki?curid=3280622........ 
+	http://risis.eu/orgref_20170703/resource/3280622.. http://www.wikidata.org/wiki/Q7895090............. 
+	http://risis.eu/orgref_20170703/resource/3280622.. http://uap-bd.edu/index.html...................... 
+	http://risis.eu/orgref_20170703/resource/3280622.. University of Asia Pacific........................ 
+	http://risis.eu/orgref_20170703/resource/1085385.. http://en.wikipedia.org/wiki?curid=1085385........ 
+	http://risis.eu/orgref_20170703/resource/1085385.. http://www.wikidata.org/wiki/Q3543938............. 
+	http://risis.eu/orgref_20170703/resource/1085385.. http://www.uap.asia............................... 
+	http://risis.eu/orgref_20170703/resource/1085385.. University of Asia and the Pacific................ 
+	http://www.grid.ac/institutes/grid.443220.3....... University of Asia and the Pacific................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:3280622', '1:grid.443051.7'), ('2:3280622', '3:1085385'), ('3:1085385', '1:grid.443051.7'), ('3:1085385', '4:grid.443220.3'), ('4:grid.443220.3', '1:grid.443051.7'), ('4:grid.443220.3', '2:3280622')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

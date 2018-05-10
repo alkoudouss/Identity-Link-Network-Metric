@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 7117 
+NAME    N1313784746
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/1473997>
+	<http://risis.eu/eter_2014/resource/UK0066>
+	<http://risis.eu/cordisH2020/resource/participant_983198209>
+	<http://www.grid.ac/institutes/grid.146189.3>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/1473997............ http://www.grid.ac/institutes/grid.146189.3................. 1........................................................... [Liverpool Hope University] was compared to [Liverpool Hope University] 
+	http://www.grid.ac/institutes/grid.146189.3................. http://risis.eu/orgref_20170703/resource/1473997............ 1........................................................... [Liverpool Hope University] was compared to [Liverpool Hope University] 
+	http://risis.eu/eter_2014/resource/UK0066................... http://www.grid.ac/institutes/grid.146189.3................. 1........................................................... [Liverpool Hope University] was compared to [Liverpool Hope University] 
+	http://www.grid.ac/institutes/grid.146189.3................. http://risis.eu/eter_2014/resource/UK0066................... 1........................................................... [Liverpool Hope University] was compared to [Liverpool Hope University] 
+	http://risis.eu/cordisH2020/resource/participant_983198209.. http://www.grid.ac/institutes/grid.146189.3................. 1........................................................... [Liverpool Hope University] was compared to [LIVERPOOL HOPE UNIVERSITY] 
+	http://www.grid.ac/institutes/grid.146189.3................. http://risis.eu/cordisH2020/resource/participant_983198209.. 1........................................................... [Liverpool Hope University] was compared to [LIVERPOOL HOPE UNIVERSITY] 
+	http://risis.eu/orgref_20170703/resource/1473997............ http://risis.eu/eter_2014/resource/UK0066................... 1........................................................... [Liverpool Hope University] was compared to [Liverpool Hope University] 
+	http://risis.eu/eter_2014/resource/UK0066................... http://risis.eu/orgref_20170703/resource/1473997............ 1........................................................... [Liverpool Hope University] was compared to [Liverpool Hope University] 
+	http://risis.eu/orgref_20170703/resource/1473997............ http://risis.eu/cordisH2020/resource/participant_983198209.. 1........................................................... [Liverpool Hope University] was compared to [LIVERPOOL HOPE UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_983198209.. http://risis.eu/orgref_20170703/resource/1473997............ 1........................................................... [Liverpool Hope University] was compared to [LIVERPOOL HOPE UNIVERSITY] 
+	http://risis.eu/eter_2014/resource/UK0066................... http://risis.eu/cordisH2020/resource/participant_983198209.. 1........................................................... [LIVERPOOL HOPE UNIVERSITY] was compared to [Liverpool Hope University] 
+	http://risis.eu/cordisH2020/resource/participant_983198209.. http://risis.eu/eter_2014/resource/UK0066................... 1........................................................... [LIVERPOOL HOPE UNIVERSITY] was compared to [Liverpool Hope University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/1473997............ http://en.wikipedia.org/wiki?curid=1473997.................. 
+	http://risis.eu/orgref_20170703/resource/1473997............ http://www.wikidata.org/wiki/Q1818020....................... 
+	http://risis.eu/orgref_20170703/resource/1473997............ http://www.hope.ac.uk....................................... 
+	http://risis.eu/orgref_20170703/resource/1473997............ Liverpool Hope University................................... 
+	http://risis.eu/eter_2014/resource/UK0066................... 53,391475................................................... 
+	http://risis.eu/eter_2014/resource/UK0066................... -2,891936................................................... 
+	http://risis.eu/eter_2014/resource/UK0066................... http://www.hope.ac.uk....................................... 
+	http://risis.eu/eter_2014/resource/UK0066................... a........................................................... 
+	http://risis.eu/eter_2014/resource/UK0066................... Liverpool Hope University................................... 
+	http://risis.eu/cordisH2020/resource/participant_983198209.. LIVERPOOL HOPE UNIVERSITY................................... 
+	http://www.grid.ac/institutes/grid.146189.3................. -2.967894................................................... 
+	http://www.grid.ac/institutes/grid.146189.3................. 53.413033................................................... 
+	http://www.grid.ac/institutes/grid.146189.3................. http://www.hope.ac.uk/...................................... 
+	http://www.grid.ac/institutes/grid.146189.3................. Liverpool Hope University................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:1473997', '4:grid.146189.3'), ('2:UK0066', '1:1473997'), ('2:UK0066', '3:participant_983198209'), ('3:participant_983198209', '1:1473997'), ('3:participant_983198209', '4:grid.146189.3'), ('4:grid.146189.3', '2:UK0066')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

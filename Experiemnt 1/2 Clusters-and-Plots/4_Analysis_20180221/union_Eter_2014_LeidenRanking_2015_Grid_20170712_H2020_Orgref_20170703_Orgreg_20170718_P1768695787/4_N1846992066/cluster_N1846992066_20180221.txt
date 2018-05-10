@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 3006 
+NAME    N1846992066
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/IT0029>
+	<http://risis.eu/leidenRanking_2015/resource/422>
+	<http://risis.eu/orgref_20170703/resource/4945579>
+	<http://www.grid.ac/institutes/grid.158820.6>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/4945579.. http://www.grid.ac/institutes/grid.158820.6....... 1................................................. [University of L'Aquila] was compared to [University of L'Aquila] 
+	http://www.grid.ac/institutes/grid.158820.6....... http://risis.eu/orgref_20170703/resource/4945579.. 1................................................. [University of L'Aquila] was compared to [University of L'Aquila] 
+	http://risis.eu/leidenRanking_2015/resource/422... http://www.grid.ac/institutes/grid.158820.6....... 1................................................. [University of L'Aquila] was compared to [University of L'Aquila] 
+	http://www.grid.ac/institutes/grid.158820.6....... http://risis.eu/leidenRanking_2015/resource/422... 1................................................. [University of L'Aquila] was compared to [University of L'Aquila] 
+	http://risis.eu/leidenRanking_2015/resource/422... http://risis.eu/orgref_20170703/resource/4945579.. 1................................................. [University of L'Aquila] was compared to [University of L'Aquila] 
+	http://risis.eu/orgref_20170703/resource/4945579.. http://risis.eu/leidenRanking_2015/resource/422... 1................................................. [University of L'Aquila] was compared to [University of L'Aquila] 
+	http://risis.eu/orgreg_20170718/resource/IT0029... http://risis.eu/leidenRanking_2015/resource/422... 1................................................. [University of L'Aquila] was compared to [University of L'Aquila] 
+	http://risis.eu/leidenRanking_2015/resource/422... http://risis.eu/orgreg_20170718/resource/IT0029... 1................................................. [University of L'Aquila] was compared to [University of L'Aquila] 
+	http://risis.eu/orgreg_20170718/resource/IT0029... http://risis.eu/orgref_20170703/resource/4945579.. 1................................................. [University of L'Aquila] was compared to [University of L'Aquila] 
+	http://risis.eu/orgref_20170703/resource/4945579.. http://risis.eu/orgreg_20170718/resource/IT0029... 1................................................. [University of L'Aquila] was compared to [University of L'Aquila] 
+	http://risis.eu/orgreg_20170718/resource/IT0029... http://www.grid.ac/institutes/grid.158820.6....... 1................................................. [University of L'Aquila] was compared to [University of L'Aquila] 
+	http://www.grid.ac/institutes/grid.158820.6....... http://risis.eu/orgreg_20170718/resource/IT0029... 1................................................. [University of L'Aquila] was compared to [University of L'Aquila] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgreg_20170718/resource/IT0029... 42.349848......................................... 
+	http://risis.eu/orgreg_20170718/resource/IT0029... 13.399509......................................... 
+	http://risis.eu/orgreg_20170718/resource/IT0029... http://www.univaq.it.............................. 
+	http://risis.eu/orgreg_20170718/resource/IT0029... University of L'Aquila............................ 
+	http://risis.eu/leidenRanking_2015/resource/422... University of L'Aquila............................ 
+	http://risis.eu/orgref_20170703/resource/4945579.. http://en.wikipedia.org/wiki?curid=4945579........ 
+	http://risis.eu/orgref_20170703/resource/4945579.. http://www.wikidata.org/wiki/Q1494671............. 
+	http://risis.eu/orgref_20170703/resource/4945579.. http://www.univaq.it.............................. 
+	http://risis.eu/orgref_20170703/resource/4945579.. University of L'Aquila............................ 
+	http://www.grid.ac/institutes/grid.158820.6....... 13.351896......................................... 
+	http://www.grid.ac/institutes/grid.158820.6....... 42.367363......................................... 
+	http://www.grid.ac/institutes/grid.158820.6....... http://www.univaq.it/en/.......................... 
+	http://www.grid.ac/institutes/grid.158820.6....... University of L'Aquila............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:IT0029', '3:4945579'), ('1:IT0029', '4:grid.158820.6'), ('2:422', '1:IT0029'), ('3:4945579', '2:422'), ('3:4945579', '4:grid.158820.6'), ('4:grid.158820.6', '2:422')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

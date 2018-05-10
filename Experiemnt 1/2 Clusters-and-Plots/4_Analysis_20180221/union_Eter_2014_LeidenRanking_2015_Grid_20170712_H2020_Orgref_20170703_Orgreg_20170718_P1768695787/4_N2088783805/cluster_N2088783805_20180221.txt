@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 2694 
+NAME    N2088783805
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.11598.34>
+	<http://risis.eu/orgref_20170703/resource/6643183>
+	<http://risis.eu/leidenRanking_2015/resource/1315>
+	<http://risis.eu/orgreg_20170718/resource/AT0015>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.11598.34....... http://risis.eu/orgref_20170703/resource/6643183.. 1................................................. [Medical University of Graz] was compared to [Medical University of Graz] 
+	http://risis.eu/orgref_20170703/resource/6643183.. http://www.grid.ac/institutes/grid.11598.34....... 1................................................. [Medical University of Graz] was compared to [Medical University of Graz] 
+	http://www.grid.ac/institutes/grid.11598.34....... http://risis.eu/leidenRanking_2015/resource/1315.. 1................................................. [Medical University of Graz] was compared to [Medical University of Graz] 
+	http://risis.eu/leidenRanking_2015/resource/1315.. http://www.grid.ac/institutes/grid.11598.34....... 1................................................. [Medical University of Graz] was compared to [Medical University of Graz] 
+	http://risis.eu/orgref_20170703/resource/6643183.. http://risis.eu/leidenRanking_2015/resource/1315.. 1................................................. [Medical University of Graz] was compared to [Medical University of Graz] 
+	http://risis.eu/leidenRanking_2015/resource/1315.. http://risis.eu/orgref_20170703/resource/6643183.. 1................................................. [Medical University of Graz] was compared to [Medical University of Graz] 
+	http://risis.eu/leidenRanking_2015/resource/1315.. http://risis.eu/orgreg_20170718/resource/AT0015... 0.875............................................. [Graz University of Medicine] was compared to [Medical University of Graz] 
+	http://risis.eu/orgreg_20170718/resource/AT0015... http://risis.eu/leidenRanking_2015/resource/1315.. 0.875............................................. [Graz University of Medicine] was compared to [Medical University of Graz] 
+	http://risis.eu/orgref_20170703/resource/6643183.. http://risis.eu/orgreg_20170718/resource/AT0015... 0.875............................................. [Medical University of Graz] was compared to [Graz University of Medicine] 
+	http://risis.eu/orgreg_20170718/resource/AT0015... http://risis.eu/orgref_20170703/resource/6643183.. 0.875............................................. [Medical University of Graz] was compared to [Graz University of Medicine] 
+	http://www.grid.ac/institutes/grid.11598.34....... http://risis.eu/orgreg_20170718/resource/AT0015... 0.875............................................. [Medical University of Graz] was compared to [Graz University of Medicine] 
+	http://risis.eu/orgreg_20170718/resource/AT0015... http://www.grid.ac/institutes/grid.11598.34....... 0.875............................................. [Medical University of Graz] was compared to [Graz University of Medicine] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.11598.34....... 15.449444......................................... 
+	http://www.grid.ac/institutes/grid.11598.34....... 47.079166......................................... 
+	http://www.grid.ac/institutes/grid.11598.34....... http://www.medunigraz.at/en/...................... 
+	http://www.grid.ac/institutes/grid.11598.34....... Medical University of Graz........................ 
+	http://risis.eu/orgref_20170703/resource/6643183.. http://en.wikipedia.org/wiki?curid=6643183........ 
+	http://risis.eu/orgref_20170703/resource/6643183.. http://www.wikidata.org/wiki/Q872543.............. 
+	http://risis.eu/orgref_20170703/resource/6643183.. http://www.medunigraz.at.......................... 
+	http://risis.eu/orgref_20170703/resource/6643183.. Medical University of Graz........................ 
+	http://risis.eu/leidenRanking_2015/resource/1315.. Medical University of Graz........................ 
+	http://risis.eu/orgreg_20170718/resource/AT0015... 15.45............................................. 
+	http://risis.eu/orgreg_20170718/resource/AT0015... 47.07............................................. 
+	http://risis.eu/orgreg_20170718/resource/AT0015... http://www.meduni-graz.at/........................ 
+	http://risis.eu/orgreg_20170718/resource/AT0015... Graz University of Medicine....................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:6643183', '1:grid.11598.34'), ('3:1315', '1:grid.11598.34'), ('3:1315', '2:6643183'), ('3:1315', '4:AT0015'), ('4:AT0015', '1:grid.11598.34'), ('4:AT0015', '2:6643183')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

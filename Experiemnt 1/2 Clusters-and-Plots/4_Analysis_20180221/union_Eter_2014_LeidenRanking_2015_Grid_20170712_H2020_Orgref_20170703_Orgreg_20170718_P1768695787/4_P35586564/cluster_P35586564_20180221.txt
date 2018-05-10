@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 12151 
+NAME    P35586564
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/LT0008>
+	<http://risis.eu/leidenRanking_2015/resource/466>
+	<http://risis.eu/orgref_20170703/resource/6245437>
+	<http://www.grid.ac/institutes/grid.6901.e>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/6245437.. http://www.grid.ac/institutes/grid.6901.e......... 1................................................. [Kaunas University of Technology] was compared to [Kaunas University of Technology] 
+	http://www.grid.ac/institutes/grid.6901.e......... http://risis.eu/orgref_20170703/resource/6245437.. 1................................................. [Kaunas University of Technology] was compared to [Kaunas University of Technology] 
+	http://risis.eu/leidenRanking_2015/resource/466... http://www.grid.ac/institutes/grid.6901.e......... 1................................................. [Kaunas University of Technology] was compared to [Kaunas University of Technology] 
+	http://www.grid.ac/institutes/grid.6901.e......... http://risis.eu/leidenRanking_2015/resource/466... 1................................................. [Kaunas University of Technology] was compared to [Kaunas University of Technology] 
+	http://risis.eu/leidenRanking_2015/resource/466... http://risis.eu/orgref_20170703/resource/6245437.. 1................................................. [Kaunas University of Technology] was compared to [Kaunas University of Technology] 
+	http://risis.eu/orgref_20170703/resource/6245437.. http://risis.eu/leidenRanking_2015/resource/466... 1................................................. [Kaunas University of Technology] was compared to [Kaunas University of Technology] 
+	http://risis.eu/orgreg_20170718/resource/LT0008... http://risis.eu/leidenRanking_2015/resource/466... 1................................................. [Kaunas University of Technology] was compared to [Kaunas University of Technology] 
+	http://risis.eu/leidenRanking_2015/resource/466... http://risis.eu/orgreg_20170718/resource/LT0008... 1................................................. [Kaunas University of Technology] was compared to [Kaunas University of Technology] 
+	http://risis.eu/orgreg_20170718/resource/LT0008... http://risis.eu/orgref_20170703/resource/6245437.. 1................................................. [Kaunas University of Technology] was compared to [Kaunas University of Technology] 
+	http://risis.eu/orgref_20170703/resource/6245437.. http://risis.eu/orgreg_20170718/resource/LT0008... 1................................................. [Kaunas University of Technology] was compared to [Kaunas University of Technology] 
+	http://risis.eu/orgreg_20170718/resource/LT0008... http://www.grid.ac/institutes/grid.6901.e......... 1................................................. [Kaunas University of Technology] was compared to [Kaunas University of Technology] 
+	http://www.grid.ac/institutes/grid.6901.e......... http://risis.eu/orgreg_20170718/resource/LT0008... 1................................................. [Kaunas University of Technology] was compared to [Kaunas University of Technology] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgreg_20170718/resource/LT0008... 23.950302......................................... 
+	http://risis.eu/orgreg_20170718/resource/LT0008... 54.903024......................................... 
+	http://risis.eu/orgreg_20170718/resource/LT0008... http://www.ktu.lt................................. 
+	http://risis.eu/orgreg_20170718/resource/LT0008... Kaunas University of Technology................... 
+	http://risis.eu/leidenRanking_2015/resource/466... Kaunas University of Technology................... 
+	http://risis.eu/orgref_20170703/resource/6245437.. http://en.wikipedia.org/wiki?curid=6245437........ 
+	http://risis.eu/orgref_20170703/resource/6245437.. http://www.wikidata.org/wiki/Q625158.............. 
+	http://risis.eu/orgref_20170703/resource/6245437.. http://ktu.edu/en................................. 
+	http://risis.eu/orgref_20170703/resource/6245437.. Kaunas University of Technology................... 
+	http://www.grid.ac/institutes/grid.6901.e......... 23.912222......................................... 
+	http://www.grid.ac/institutes/grid.6901.e......... 54.89861.......................................... 
+	http://www.grid.ac/institutes/grid.6901.e......... http://ktu.edu/en................................. 
+	http://www.grid.ac/institutes/grid.6901.e......... Kauno technologijos universitetas................. 
+	http://www.grid.ac/institutes/grid.6901.e......... Kaunas University of Technology................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:LT0008', '4:grid.6901.e'), ('2:466', '1:LT0008'), ('2:466', '3:6245437'), ('3:6245437', '1:LT0008'), ('3:6245437', '4:grid.6901.e'), ('4:grid.6901.e', '2:466')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

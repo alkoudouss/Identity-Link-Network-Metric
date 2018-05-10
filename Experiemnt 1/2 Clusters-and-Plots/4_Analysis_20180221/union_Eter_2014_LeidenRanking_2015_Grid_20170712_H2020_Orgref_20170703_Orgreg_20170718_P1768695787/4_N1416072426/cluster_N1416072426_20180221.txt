@@ -1,0 +1,55 @@
+SIZE    4   
+CLUSTER 17234 
+NAME    N1416072426
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.423041.0>
+	<http://www.grid.ac/institutes/grid.476122.4>
+	<http://www.grid.ac/institutes/grid.430998.f>
+	<http://risis.eu/orgref_20170703/resource/26141336>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.423041.0........ http://www.grid.ac/institutes/grid.476122.4........ 0.954545454545..................................... [Adamis Pharmaceuticals (United States)] was compared to [Adamas Pharmaceuticals (United States)] 
+	http://www.grid.ac/institutes/grid.476122.4........ http://www.grid.ac/institutes/grid.423041.0........ 0.954545454545..................................... [Adamis Pharmaceuticals (United States)] was compared to [Adamas Pharmaceuticals (United States)] 
+	http://www.grid.ac/institutes/grid.423041.0........ http://risis.eu/orgref_20170703/resource/26141336.. 0.909090909091..................................... [Adamis Pharmaceuticals (United States)] was compared to [Aderis Pharmaceuticals] 
+	http://risis.eu/orgref_20170703/resource/26141336.. http://www.grid.ac/institutes/grid.423041.0........ 0.909090909091..................................... [Adamis Pharmaceuticals (United States)] was compared to [Aderis Pharmaceuticals] 
+	http://www.grid.ac/institutes/grid.430998.f........ http://risis.eu/orgref_20170703/resource/26141336.. 0.909090909091..................................... [Xeris Pharmaceuticals (United States)] was compared to [Aderis Pharmaceuticals] 
+	http://risis.eu/orgref_20170703/resource/26141336.. http://www.grid.ac/institutes/grid.430998.f........ 0.909090909091..................................... [Xeris Pharmaceuticals (United States)] was compared to [Aderis Pharmaceuticals] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.423041.0........ Adamis Pharmaceuticals (United States)............. 
+	http://www.grid.ac/institutes/grid.476122.4........ -122.29976......................................... 
+	http://www.grid.ac/institutes/grid.476122.4........ 37.83839........................................... 
+	http://www.grid.ac/institutes/grid.476122.4........ http://www.adamaspharma.com/....................... 
+	http://www.grid.ac/institutes/grid.476122.4........ Adamas Pharmaceuticals (United States)............. 
+	http://www.grid.ac/institutes/grid.430998.f........ Xeris Pharmaceuticals (United States).............. 
+	http://risis.eu/orgref_20170703/resource/26141336.. http://en.wikipedia.org/wiki?curid=26141336........ 
+	http://risis.eu/orgref_20170703/resource/26141336.. http://www.wikidata.org/wiki/Q4682357.............. 
+	http://risis.eu/orgref_20170703/resource/26141336.. https://web.archive.org/web/20090416142930/http://aderis.com:80/index.asp 
+	http://risis.eu/orgref_20170703/resource/26141336.. Aderis Pharmaceuticals............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.476122.4', '1:grid.423041.0'), ('4:26141336', '1:grid.423041.0'), ('4:26141336', '3:grid.430998.f')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

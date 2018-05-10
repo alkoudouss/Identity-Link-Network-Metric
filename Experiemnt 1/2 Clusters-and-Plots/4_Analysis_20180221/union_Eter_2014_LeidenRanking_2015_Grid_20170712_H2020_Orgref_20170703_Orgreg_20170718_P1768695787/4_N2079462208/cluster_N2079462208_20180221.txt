@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 6189 
+NAME    N2079462208
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.416338.b>
+	<http://www.grid.ac/institutes/grid.416340.4>
+	<http://risis.eu/orgref_20170703/resource/10500837>
+	<http://risis.eu/orgref_20170703/resource/9107173>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.416338.b........ http://www.grid.ac/institutes/grid.416340.4........ 0.954545454545..................................... [Musgrave Park Hospital] was compared to [Musgrove Park Hospital] 
+	http://www.grid.ac/institutes/grid.416340.4........ http://www.grid.ac/institutes/grid.416338.b........ 0.954545454545..................................... [Musgrave Park Hospital] was compared to [Musgrove Park Hospital] 
+	http://www.grid.ac/institutes/grid.416338.b........ http://risis.eu/orgref_20170703/resource/9107173... 1.................................................. [Musgrave Park Hospital] was compared to [Musgrave Park Hospital] 
+	http://risis.eu/orgref_20170703/resource/9107173... http://www.grid.ac/institutes/grid.416338.b........ 1.................................................. [Musgrave Park Hospital] was compared to [Musgrave Park Hospital] 
+	http://www.grid.ac/institutes/grid.416338.b........ http://risis.eu/orgref_20170703/resource/10500837.. 0.954545454545..................................... [Musgrave Park Hospital] was compared to [Musgrove Park Hospital] 
+	http://risis.eu/orgref_20170703/resource/10500837.. http://www.grid.ac/institutes/grid.416338.b........ 0.954545454545..................................... [Musgrave Park Hospital] was compared to [Musgrove Park Hospital] 
+	http://www.grid.ac/institutes/grid.416340.4........ http://risis.eu/orgref_20170703/resource/9107173... 0.954545454545..................................... [Musgrove Park Hospital] was compared to [Musgrave Park Hospital] 
+	http://risis.eu/orgref_20170703/resource/9107173... http://www.grid.ac/institutes/grid.416340.4........ 0.954545454545..................................... [Musgrove Park Hospital] was compared to [Musgrave Park Hospital] 
+	http://www.grid.ac/institutes/grid.416340.4........ http://risis.eu/orgref_20170703/resource/10500837.. 1.................................................. [Musgrove Park Hospital] was compared to [Musgrove Park Hospital] 
+	http://risis.eu/orgref_20170703/resource/10500837.. http://www.grid.ac/institutes/grid.416340.4........ 1.................................................. [Musgrove Park Hospital] was compared to [Musgrove Park Hospital] 
+	http://risis.eu/orgref_20170703/resource/10500837.. http://risis.eu/orgref_20170703/resource/9107173... 0.954545454545..................................... [Musgrove Park Hospital] was compared to [Musgrave Park Hospital] 
+	http://risis.eu/orgref_20170703/resource/9107173... http://risis.eu/orgref_20170703/resource/10500837.. 0.954545454545..................................... [Musgrove Park Hospital] was compared to [Musgrave Park Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.416338.b........ -5.981681.......................................... 
+	http://www.grid.ac/institutes/grid.416338.b........ 54.56834........................................... 
+	http://www.grid.ac/institutes/grid.416338.b........ http://www.belfasttrust.hscni.net/hospitals/MusgraveParkHospital.htm 
+	http://www.grid.ac/institutes/grid.416338.b........ Musgrave Park Hospital............................. 
+	http://www.grid.ac/institutes/grid.416340.4........ -3.119669.......................................... 
+	http://www.grid.ac/institutes/grid.416340.4........ 51.01235........................................... 
+	http://www.grid.ac/institutes/grid.416340.4........ http://www.musgroveparkhospital.nhs.uk/............ 
+	http://www.grid.ac/institutes/grid.416340.4........ Musgrove Park Hospital............................. 
+	http://risis.eu/orgref_20170703/resource/10500837.. http://en.wikipedia.org/wiki?curid=10500837........ 
+	http://risis.eu/orgref_20170703/resource/10500837.. http://www.wikidata.org/wiki/Q6941188.............. 
+	http://risis.eu/orgref_20170703/resource/10500837.. http://www.musgroveparkhospital.nhs.uk............. 
+	http://risis.eu/orgref_20170703/resource/10500837.. Musgrove Park Hospital............................. 
+	http://risis.eu/orgref_20170703/resource/9107173... http://en.wikipedia.org/wiki?curid=9107173......... 
+	http://risis.eu/orgref_20170703/resource/9107173... http://www.wikidata.org/wiki/Q6941171.............. 
+	http://risis.eu/orgref_20170703/resource/9107173... http://www.belfasttrust.hscni.net/mph_menu.html.... 
+	http://risis.eu/orgref_20170703/resource/9107173... Musgrave Park Hospital............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.416340.4', '1:grid.416338.b'), ('3:10500837', '1:grid.416338.b'), ('3:10500837', '2:grid.416340.4'), ('4:9107173', '1:grid.416338.b'), ('4:9107173', '2:grid.416340.4'), ('4:9107173', '3:10500837')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 13808 
+NAME    N246621693
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/288339>
+	<http://risis.eu/leidenRanking_2015/resource/874>
+	<http://risis.eu/orgreg_20170718/resource/DE0063>
+	<http://www.grid.ac/institutes/grid.412970.9>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/288339.. http://www.grid.ac/institutes/grid.412970.9...... 1................................................ [University of Veterinary Medicine Hanover] was compared to [University of Veterinary Medicine Hanover] 
+	http://www.grid.ac/institutes/grid.412970.9...... http://risis.eu/orgref_20170703/resource/288339.. 1................................................ [University of Veterinary Medicine Hanover] was compared to [University of Veterinary Medicine Hanover] 
+	http://risis.eu/leidenRanking_2015/resource/874.. http://www.grid.ac/institutes/grid.412970.9...... 0.974358974359................................... [University of Veterinary Medicine Hanover] was compared to [Hannover University of Veterinary Medicine] 
+	http://www.grid.ac/institutes/grid.412970.9...... http://risis.eu/leidenRanking_2015/resource/874.. 0.974358974359................................... [University of Veterinary Medicine Hanover] was compared to [Hannover University of Veterinary Medicine] 
+	http://risis.eu/orgref_20170703/resource/288339.. http://risis.eu/leidenRanking_2015/resource/874.. 0.974358974359................................... [University of Veterinary Medicine Hanover] was compared to [Hannover University of Veterinary Medicine] 
+	http://risis.eu/leidenRanking_2015/resource/874.. http://risis.eu/orgref_20170703/resource/288339.. 0.974358974359................................... [University of Veterinary Medicine Hanover] was compared to [Hannover University of Veterinary Medicine] 
+	http://risis.eu/leidenRanking_2015/resource/874.. http://risis.eu/orgreg_20170718/resource/DE0063.. 1................................................ [University of Veterinary Medicine Hannover] was compared to [Hannover University of Veterinary Medicine] 
+	http://risis.eu/orgreg_20170718/resource/DE0063.. http://risis.eu/leidenRanking_2015/resource/874.. 1................................................ [University of Veterinary Medicine Hannover] was compared to [Hannover University of Veterinary Medicine] 
+	http://risis.eu/orgref_20170703/resource/288339.. http://risis.eu/orgreg_20170718/resource/DE0063.. 0.974358974359................................... [University of Veterinary Medicine Hanover] was compared to [University of Veterinary Medicine Hannover] 
+	http://risis.eu/orgreg_20170718/resource/DE0063.. http://risis.eu/orgref_20170703/resource/288339.. 0.974358974359................................... [University of Veterinary Medicine Hanover] was compared to [University of Veterinary Medicine Hannover] 
+	http://risis.eu/orgreg_20170718/resource/DE0063.. http://www.grid.ac/institutes/grid.412970.9...... 0.974358974359................................... [University of Veterinary Medicine Hanover] was compared to [University of Veterinary Medicine Hannover] 
+	http://www.grid.ac/institutes/grid.412970.9...... http://risis.eu/orgreg_20170718/resource/DE0063.. 0.974358974359................................... [University of Veterinary Medicine Hanover] was compared to [University of Veterinary Medicine Hannover] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/288339.. http://en.wikipedia.org/wiki?curid=288339........ 
+	http://risis.eu/orgref_20170703/resource/288339.. http://www.wikidata.org/wiki/Q1607255............ 
+	http://risis.eu/orgref_20170703/resource/288339.. University of Veterinary Medicine Hanover........ 
+	http://risis.eu/leidenRanking_2015/resource/874.. Hannover University of Veterinary Medicine....... 
+	http://risis.eu/orgreg_20170718/resource/DE0063.. 52.355538........................................ 
+	http://risis.eu/orgreg_20170718/resource/DE0063.. 9.762669......................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0063.. www.tiho-hannover.de............................. 
+	http://risis.eu/orgreg_20170718/resource/DE0063.. University of Veterinary Medicine Hannover....... 
+	http://www.grid.ac/institutes/grid.412970.9...... 9.765556......................................... 
+	http://www.grid.ac/institutes/grid.412970.9...... 52.369167........................................ 
+	http://www.grid.ac/institutes/grid.412970.9...... http://www.tiho-hannover.de/..................... 
+	http://www.grid.ac/institutes/grid.412970.9...... University of Veterinary Medicine Hanover........ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:288339', '4:grid.412970.9'), ('2:874', '1:288339'), ('2:874', '4:grid.412970.9'), ('3:DE0063', '1:288339'), ('3:DE0063', '2:874'), ('4:grid.412970.9', '3:DE0063')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

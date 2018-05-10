@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 16526 
+NAME    N1855489346
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.449245.a>
+	<http://risis.eu/eter_2014/resource/RO0063>
+	<http://risis.eu/orgreg_20170718/resource/RO0063>
+	<http://risis.eu/orgref_20170703/resource/23159476>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.449245.a........ http://risis.eu/orgref_20170703/resource/23159476.. 1.................................................. [Petre Andrei University of Iași] was compared to [Petre Andrei University of Iași] 
+	http://risis.eu/orgref_20170703/resource/23159476.. http://www.grid.ac/institutes/grid.449245.a........ 1.................................................. [Petre Andrei University of Iași] was compared to [Petre Andrei University of Iași] 
+	http://www.grid.ac/institutes/grid.449245.a........ http://risis.eu/eter_2014/resource/RO0063.......... 0.84375............................................ [Petre Andrei University of Iași] was compared to [Universitatea  Petre Andrei Iasi] 
+	http://risis.eu/eter_2014/resource/RO0063.......... http://www.grid.ac/institutes/grid.449245.a........ 0.84375............................................ [Petre Andrei University of Iași] was compared to [Universitatea  Petre Andrei Iasi] 
+	http://risis.eu/eter_2014/resource/RO0063.......... http://risis.eu/orgref_20170703/resource/23159476.. 0.84375............................................ [Petre Andrei University of Iași] was compared to [Universitatea  Petre Andrei Iasi] 
+	http://risis.eu/orgref_20170703/resource/23159476.. http://risis.eu/eter_2014/resource/RO0063.......... 0.84375............................................ [Petre Andrei University of Iași] was compared to [Universitatea  Petre Andrei Iasi] 
+	http://risis.eu/eter_2014/resource/RO0063.......... http://risis.eu/orgreg_20170718/resource/RO0063.... 0.84375............................................ [Petre Andrei University of Iasi] was compared to [Universitatea  Petre Andrei Iasi] 
+	http://risis.eu/orgreg_20170718/resource/RO0063.... http://risis.eu/eter_2014/resource/RO0063.......... 0.84375............................................ [Petre Andrei University of Iasi] was compared to [Universitatea  Petre Andrei Iasi] 
+	http://risis.eu/orgreg_20170718/resource/RO0063.... http://risis.eu/orgref_20170703/resource/23159476.. 1.................................................. [Petre Andrei University of Iași] was compared to [Petre Andrei University of Iasi] 
+	http://risis.eu/orgref_20170703/resource/23159476.. http://risis.eu/orgreg_20170718/resource/RO0063.... 1.................................................. [Petre Andrei University of Iași] was compared to [Petre Andrei University of Iasi] 
+	http://www.grid.ac/institutes/grid.449245.a........ http://risis.eu/orgreg_20170718/resource/RO0063.... 1.................................................. [Petre Andrei University of Iași] was compared to [Petre Andrei University of Iasi] 
+	http://risis.eu/orgreg_20170718/resource/RO0063.... http://www.grid.ac/institutes/grid.449245.a........ 1.................................................. [Petre Andrei University of Iași] was compared to [Petre Andrei University of Iasi] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.449245.a........ Petre Andrei University of Iași................... 
+	http://risis.eu/eter_2014/resource/RO0063.......... m.................................................. 
+	http://risis.eu/eter_2014/resource/RO0063.......... www.upa.ro......................................... 
+	http://risis.eu/eter_2014/resource/RO0063.......... a.................................................. 
+	http://risis.eu/eter_2014/resource/RO0063.......... Petre Andrei University of Iasi.................... 
+	http://risis.eu/eter_2014/resource/RO0063.......... Universitatea  Petre Andrei Iasi................... 
+	http://risis.eu/orgreg_20170718/resource/RO0063.... 27.579597.......................................... 
+	http://risis.eu/orgreg_20170718/resource/RO0063.... 47.151909.......................................... 
+	http://risis.eu/orgreg_20170718/resource/RO0063.... www.upa.ro......................................... 
+	http://risis.eu/orgreg_20170718/resource/RO0063.... Petre Andrei University of Iasi.................... 
+	http://risis.eu/orgref_20170703/resource/23159476.. http://en.wikipedia.org/wiki?curid=23159476........ 
+	http://risis.eu/orgref_20170703/resource/23159476.. http://www.wikidata.org/wiki/Q3551478.............. 
+	http://risis.eu/orgref_20170703/resource/23159476.. http://www.upa.ro.................................. 
+	http://risis.eu/orgref_20170703/resource/23159476.. Petre Andrei University of Iași................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:RO0063', '1:grid.449245.a'), ('2:RO0063', '4:23159476'), ('3:RO0063', '1:grid.449245.a'), ('3:RO0063', '2:RO0063'), ('3:RO0063', '4:23159476'), ('4:23159476', '1:grid.449245.a')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

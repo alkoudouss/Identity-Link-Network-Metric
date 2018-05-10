@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 2426 
+NAME    N936032714
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.15711.33>
+	<http://risis.eu/leidenRanking_2015/resource/449>
+	<http://risis.eu/orgref_20170703/resource/7159603>
+	<http://risis.eu/cordisH2020/resource/participant_999902385>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.15711.33................. http://risis.eu/orgref_20170703/resource/7159603............ 1........................................................... [European University Institute] was compared to [European University Institute] 
+	http://risis.eu/orgref_20170703/resource/7159603............ http://www.grid.ac/institutes/grid.15711.33................. 1........................................................... [European University Institute] was compared to [European University Institute] 
+	http://www.grid.ac/institutes/grid.15711.33................. http://risis.eu/leidenRanking_2015/resource/449............. 1........................................................... [European University Institute] was compared to [European University Institute] 
+	http://risis.eu/leidenRanking_2015/resource/449............. http://www.grid.ac/institutes/grid.15711.33................. 1........................................................... [European University Institute] was compared to [European University Institute] 
+	http://www.grid.ac/institutes/grid.15711.33................. http://risis.eu/cordisH2020/resource/participant_999902385.. 1........................................................... [European University Institute] was compared to [EUROPEAN UNIVERSITY INSTITUTE] 
+	http://risis.eu/cordisH2020/resource/participant_999902385.. http://www.grid.ac/institutes/grid.15711.33................. 1........................................................... [European University Institute] was compared to [EUROPEAN UNIVERSITY INSTITUTE] 
+	http://risis.eu/leidenRanking_2015/resource/449............. http://risis.eu/orgref_20170703/resource/7159603............ 1........................................................... [European University Institute] was compared to [European University Institute] 
+	http://risis.eu/orgref_20170703/resource/7159603............ http://risis.eu/leidenRanking_2015/resource/449............. 1........................................................... [European University Institute] was compared to [European University Institute] 
+	http://risis.eu/orgref_20170703/resource/7159603............ http://risis.eu/cordisH2020/resource/participant_999902385.. 1........................................................... [European University Institute] was compared to [EUROPEAN UNIVERSITY INSTITUTE] 
+	http://risis.eu/cordisH2020/resource/participant_999902385.. http://risis.eu/orgref_20170703/resource/7159603............ 1........................................................... [European University Institute] was compared to [EUROPEAN UNIVERSITY INSTITUTE] 
+	http://risis.eu/leidenRanking_2015/resource/449............. http://risis.eu/cordisH2020/resource/participant_999902385.. 1........................................................... [EUROPEAN UNIVERSITY INSTITUTE] was compared to [European University Institute] 
+	http://risis.eu/cordisH2020/resource/participant_999902385.. http://risis.eu/leidenRanking_2015/resource/449............. 1........................................................... [EUROPEAN UNIVERSITY INSTITUTE] was compared to [European University Institute] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.15711.33................. 11.282778................................................... 
+	http://www.grid.ac/institutes/grid.15711.33................. 43.802776................................................... 
+	http://www.grid.ac/institutes/grid.15711.33................. http://www.eui.eu/.......................................... 
+	http://www.grid.ac/institutes/grid.15711.33................. European University Institute............................... 
+	http://risis.eu/leidenRanking_2015/resource/449............. European University Institute............................... 
+	http://risis.eu/orgref_20170703/resource/7159603............ http://en.wikipedia.org/wiki?curid=7159603.................. 
+	http://risis.eu/orgref_20170703/resource/7159603............ http://www.wikidata.org/wiki/Q1378099....................... 
+	http://risis.eu/orgref_20170703/resource/7159603............ http://www.eui.eu........................................... 
+	http://risis.eu/orgref_20170703/resource/7159603............ European University Institute............................... 
+	http://risis.eu/cordisH2020/resource/participant_999902385.. http://risis.eu/cordisH2020/resource/www.eui.eu............. 
+	http://risis.eu/cordisH2020/resource/participant_999902385.. EUROPEAN UNIVERSITY INSTITUTE............................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:449', '1:grid.15711.33'), ('2:449', '4:participant_999902385'), ('3:7159603', '1:grid.15711.33'), ('3:7159603', '2:449'), ('4:participant_999902385', '1:grid.15711.33'), ('4:participant_999902385', '3:7159603')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

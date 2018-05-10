@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 15258 
+NAME    P768678874
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.415953.f>
+	<http://www.grid.ac/institutes/grid.416994.7>
+	<http://risis.eu/orgref_20170703/resource/11169846>
+	<http://risis.eu/orgref_20170703/resource/12910414>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.415953.f........ http://risis.eu/orgref_20170703/resource/12910414.. 1.................................................. [Lister Hospital] was compared to [Lister Hospital (Stevenage)] 
+	http://risis.eu/orgref_20170703/resource/12910414.. http://www.grid.ac/institutes/grid.415953.f........ 1.................................................. [Lister Hospital] was compared to [Lister Hospital (Stevenage)] 
+	http://www.grid.ac/institutes/grid.416994.7........ http://risis.eu/orgref_20170703/resource/11169846.. 1.................................................. [Ulster Hospital] was compared to [Ulster Hospital] 
+	http://risis.eu/orgref_20170703/resource/11169846.. http://www.grid.ac/institutes/grid.416994.7........ 1.................................................. [Ulster Hospital] was compared to [Ulster Hospital] 
+	http://risis.eu/orgref_20170703/resource/11169846.. http://risis.eu/orgref_20170703/resource/12910414.. 0.866666666667..................................... [Ulster Hospital] was compared to [Lister Hospital (Stevenage)] 
+	http://risis.eu/orgref_20170703/resource/12910414.. http://risis.eu/orgref_20170703/resource/11169846.. 0.866666666667..................................... [Ulster Hospital] was compared to [Lister Hospital (Stevenage)] 
+	http://www.grid.ac/institutes/grid.415953.f........ http://www.grid.ac/institutes/grid.416994.7........ 0.866666666667..................................... [Lister Hospital] was compared to [Ulster Hospital] 
+	http://www.grid.ac/institutes/grid.416994.7........ http://www.grid.ac/institutes/grid.415953.f........ 0.866666666667..................................... [Lister Hospital] was compared to [Ulster Hospital] 
+	http://www.grid.ac/institutes/grid.415953.f........ http://risis.eu/orgref_20170703/resource/11169846.. 0.866666666667..................................... [Lister Hospital] was compared to [Ulster Hospital] 
+	http://risis.eu/orgref_20170703/resource/11169846.. http://www.grid.ac/institutes/grid.415953.f........ 0.866666666667..................................... [Lister Hospital] was compared to [Ulster Hospital] 
+	http://www.grid.ac/institutes/grid.416994.7........ http://risis.eu/orgref_20170703/resource/12910414.. 0.866666666667..................................... [Ulster Hospital] was compared to [Lister Hospital (Stevenage)] 
+	http://risis.eu/orgref_20170703/resource/12910414.. http://www.grid.ac/institutes/grid.416994.7........ 0.866666666667..................................... [Ulster Hospital] was compared to [Lister Hospital (Stevenage)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.415953.f........ -0.212651.......................................... 
+	http://www.grid.ac/institutes/grid.415953.f........ 51.923897.......................................... 
+	http://www.grid.ac/institutes/grid.415953.f........ http://www.enherts-tr.nhs.uk/our-hospitals/lister/. 
+	http://www.grid.ac/institutes/grid.415953.f........ Lister Hospital.................................... 
+	http://www.grid.ac/institutes/grid.416994.7........ -5.811514.......................................... 
+	http://www.grid.ac/institutes/grid.416994.7........ 54.59701........................................... 
+	http://www.grid.ac/institutes/grid.416994.7........ http://www.setrust.hscni.net/hospitals/2024.htm.... 
+	http://www.grid.ac/institutes/grid.416994.7........ Ulster Hospital.................................... 
+	http://risis.eu/orgref_20170703/resource/11169846.. http://en.wikipedia.org/wiki?curid=11169846........ 
+	http://risis.eu/orgref_20170703/resource/11169846.. http://www.wikidata.org/wiki/Q7879970.............. 
+	http://risis.eu/orgref_20170703/resource/11169846.. http://www.setrust.hscni.net....................... 
+	http://risis.eu/orgref_20170703/resource/11169846.. Ulster Hospital.................................... 
+	http://risis.eu/orgref_20170703/resource/12910414.. http://en.wikipedia.org/wiki?curid=12910414........ 
+	http://risis.eu/orgref_20170703/resource/12910414.. http://www.wikidata.org/wiki/Q6646491.............. 
+	http://risis.eu/orgref_20170703/resource/12910414.. http://www.enherts-tr.nhs.uk/our-hospitals/lister.. 
+	http://risis.eu/orgref_20170703/resource/12910414.. Lister Hospital (Stevenage)........................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.416994.7', '1:grid.415953.f'), ('3:11169846', '1:grid.415953.f'), ('3:11169846', '2:grid.416994.7'), ('4:12910414', '1:grid.415953.f'), ('4:12910414', '2:grid.416994.7'), ('4:12910414', '3:11169846')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

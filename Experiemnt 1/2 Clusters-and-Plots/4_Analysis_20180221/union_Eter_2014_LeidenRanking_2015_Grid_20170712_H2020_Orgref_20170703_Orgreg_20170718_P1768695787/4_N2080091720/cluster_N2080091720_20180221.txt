@@ -1,0 +1,59 @@
+SIZE    4   
+CLUSTER 371 
+NAME    N2080091720
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.435859.6>
+	<http://www.grid.ac/institutes/grid.472570.3>
+	<http://risis.eu/orgref_20170703/resource/5679201>
+	<http://risis.eu/cordisH2020/resource/participant_983940356>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.435859.6................. http://www.grid.ac/institutes/grid.472570.3................. 1........................................................... [Maxwell Technologies (Switzerland)] was compared to [Maxwell Technologies (United States)] 
+	http://www.grid.ac/institutes/grid.472570.3................. http://www.grid.ac/institutes/grid.435859.6................. 1........................................................... [Maxwell Technologies (Switzerland)] was compared to [Maxwell Technologies (United States)] 
+	http://www.grid.ac/institutes/grid.435859.6................. http://risis.eu/orgref_20170703/resource/5679201............ 1........................................................... [Maxwell Technologies (Switzerland)] was compared to [Maxwell Technologies] 
+	http://risis.eu/orgref_20170703/resource/5679201............ http://www.grid.ac/institutes/grid.435859.6................. 1........................................................... [Maxwell Technologies (Switzerland)] was compared to [Maxwell Technologies] 
+	http://www.grid.ac/institutes/grid.472570.3................. http://risis.eu/orgref_20170703/resource/5679201............ 1........................................................... [Maxwell Technologies (United States)] was compared to [Maxwell Technologies] 
+	http://risis.eu/orgref_20170703/resource/5679201............ http://www.grid.ac/institutes/grid.472570.3................. 1........................................................... [Maxwell Technologies (United States)] was compared to [Maxwell Technologies] 
+	http://risis.eu/orgref_20170703/resource/5679201............ http://risis.eu/cordisH2020/resource/participant_983940356.. 0.869565217391.............................................. [Maxwell Technologies] was compared to [MAXWELL TECHNOLOGIES SA] 
+	http://risis.eu/cordisH2020/resource/participant_983940356.. http://risis.eu/orgref_20170703/resource/5679201............ 0.869565217391.............................................. [Maxwell Technologies] was compared to [MAXWELL TECHNOLOGIES SA] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.435859.6................. Maxwell Technologies (Switzerland).......................... 
+	http://www.grid.ac/institutes/grid.472570.3................. -117.131386................................................. 
+	http://www.grid.ac/institutes/grid.472570.3................. 32.82273.................................................... 
+	http://www.grid.ac/institutes/grid.472570.3................. http://www.maxwell.com/..................................... 
+	http://www.grid.ac/institutes/grid.472570.3................. Maxwell Laboratories Inc.................................... 
+	http://www.grid.ac/institutes/grid.472570.3................. Maxwell Technologies (United States)........................ 
+	http://risis.eu/orgref_20170703/resource/5679201............ http://en.wikipedia.org/wiki?curid=5679201.................. 
+	http://risis.eu/orgref_20170703/resource/5679201............ http://www.wikidata.org/wiki/Q3302853....................... 
+	http://risis.eu/orgref_20170703/resource/5679201............ http://maxwell.com.......................................... 
+	http://risis.eu/orgref_20170703/resource/5679201............ Maxwell Technologies........................................ 
+	http://risis.eu/cordisH2020/resource/participant_983940356.. http://risis.eu/cordisH2020/resource/www.maxwell.com........ 
+	http://risis.eu/cordisH2020/resource/participant_983940356.. MAXWELL TECHNOLOGIES SA..................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.472570.3', '1:grid.435859.6'), ('3:5679201', '1:grid.435859.6'), ('3:5679201', '2:grid.472570.3'), ('4:participant_983940356', '3:5679201')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

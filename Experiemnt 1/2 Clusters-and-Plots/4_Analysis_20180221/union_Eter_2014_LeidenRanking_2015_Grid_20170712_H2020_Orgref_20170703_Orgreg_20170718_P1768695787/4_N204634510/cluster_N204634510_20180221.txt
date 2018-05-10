@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 1054 
+NAME    N204634510
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.412357.6>
+	<http://www.grid.ac/institutes/grid.419535.f>
+	<http://risis.eu/orgref_20170703/resource/25679492>
+	<http://risis.eu/orgref_20170703/resource/13991215>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.412357.6........ http://risis.eu/orgref_20170703/resource/13991215.. 1.................................................. [Sahmyook University] was compared to [Sahmyook University] 
+	http://risis.eu/orgref_20170703/resource/13991215.. http://www.grid.ac/institutes/grid.412357.6........ 1.................................................. [Sahmyook University] was compared to [Sahmyook University] 
+	http://www.grid.ac/institutes/grid.419535.f........ http://risis.eu/orgref_20170703/resource/25679492.. 1.................................................. [Saybrook University] was compared to [Saybrook University] 
+	http://risis.eu/orgref_20170703/resource/25679492.. http://www.grid.ac/institutes/grid.419535.f........ 1.................................................. [Saybrook University] was compared to [Saybrook University] 
+	http://risis.eu/orgref_20170703/resource/25679492.. http://risis.eu/orgref_20170703/resource/13991215.. 0.842105263158..................................... [Sahmyook University] was compared to [Saybrook University] 
+	http://risis.eu/orgref_20170703/resource/13991215.. http://risis.eu/orgref_20170703/resource/25679492.. 0.842105263158..................................... [Sahmyook University] was compared to [Saybrook University] 
+	http://www.grid.ac/institutes/grid.412357.6........ http://www.grid.ac/institutes/grid.419535.f........ 0.842105263158..................................... [Sahmyook University] was compared to [Saybrook University] 
+	http://www.grid.ac/institutes/grid.419535.f........ http://www.grid.ac/institutes/grid.412357.6........ 0.842105263158..................................... [Sahmyook University] was compared to [Saybrook University] 
+	http://www.grid.ac/institutes/grid.412357.6........ http://risis.eu/orgref_20170703/resource/25679492.. 0.842105263158..................................... [Sahmyook University] was compared to [Saybrook University] 
+	http://risis.eu/orgref_20170703/resource/25679492.. http://www.grid.ac/institutes/grid.412357.6........ 0.842105263158..................................... [Sahmyook University] was compared to [Saybrook University] 
+	http://www.grid.ac/institutes/grid.419535.f........ http://risis.eu/orgref_20170703/resource/13991215.. 0.842105263158..................................... [Saybrook University] was compared to [Sahmyook University] 
+	http://risis.eu/orgref_20170703/resource/13991215.. http://www.grid.ac/institutes/grid.419535.f........ 0.842105263158..................................... [Saybrook University] was compared to [Sahmyook University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.412357.6........ 127.1058........................................... 
+	http://www.grid.ac/institutes/grid.412357.6........ 37.6434............................................ 
+	http://www.grid.ac/institutes/grid.412357.6........ http://www.syu.ac.kr/web/eng/...................... 
+	http://www.grid.ac/institutes/grid.412357.6........ Sahmyook University................................ 
+	http://www.grid.ac/institutes/grid.419535.f........ -122.27228......................................... 
+	http://www.grid.ac/institutes/grid.419535.f........ 37.804802.......................................... 
+	http://www.grid.ac/institutes/grid.419535.f........ https://www.saybrook.edu/.......................... 
+	http://www.grid.ac/institutes/grid.419535.f........ Saybrook University................................ 
+	http://risis.eu/orgref_20170703/resource/25679492.. http://en.wikipedia.org/wiki?curid=25679492........ 
+	http://risis.eu/orgref_20170703/resource/25679492.. http://www.wikidata.org/wiki/Q7429134.............. 
+	http://risis.eu/orgref_20170703/resource/25679492.. http://www.saybrook.edu............................ 
+	http://risis.eu/orgref_20170703/resource/25679492.. Saybrook University................................ 
+	http://risis.eu/orgref_20170703/resource/13991215.. http://en.wikipedia.org/wiki?curid=13991215........ 
+	http://risis.eu/orgref_20170703/resource/13991215.. http://www.wikidata.org/wiki/Q624993............... 
+	http://risis.eu/orgref_20170703/resource/13991215.. http://www.syu.ac.kr............................... 
+	http://risis.eu/orgref_20170703/resource/13991215.. Sahmyook University................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.419535.f', '1:grid.412357.6'), ('3:25679492', '1:grid.412357.6'), ('3:25679492', '2:grid.419535.f'), ('3:25679492', '4:13991215'), ('4:13991215', '1:grid.412357.6'), ('4:13991215', '2:grid.419535.f')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

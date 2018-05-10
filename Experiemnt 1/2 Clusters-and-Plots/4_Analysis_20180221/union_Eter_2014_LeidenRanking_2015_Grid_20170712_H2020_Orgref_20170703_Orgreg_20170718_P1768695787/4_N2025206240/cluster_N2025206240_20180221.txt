@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 15512 
+NAME    N2025206240
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/GR1005>
+	<http://risis.eu/cordisH2020/resource/participant_999458610>
+	<http://www.grid.ac/institutes/grid.424165.0>
+	<http://risis.eu/orgref_20170703/resource/16886106>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.424165.0................. http://risis.eu/orgref_20170703/resource/16886106........... 1........................................................... [Alexander Fleming Biomedical Sciences Research Center] was compared to [Alexander Fleming Biomedical Sciences Research Center] 
+	http://risis.eu/orgref_20170703/resource/16886106........... http://www.grid.ac/institutes/grid.424165.0................. 1........................................................... [Alexander Fleming Biomedical Sciences Research Center] was compared to [Alexander Fleming Biomedical Sciences Research Center] 
+	http://risis.eu/cordisH2020/resource/participant_999458610.. http://www.grid.ac/institutes/grid.424165.0................. 1........................................................... [Alexander Fleming Biomedical Sciences Research Center] was compared to [BIOMEDICAL SCIENCES RESEARCH CENTER ALEXANDER FLEMING] 
+	http://www.grid.ac/institutes/grid.424165.0................. http://risis.eu/cordisH2020/resource/participant_999458610.. 1........................................................... [Alexander Fleming Biomedical Sciences Research Center] was compared to [BIOMEDICAL SCIENCES RESEARCH CENTER ALEXANDER FLEMING] 
+	http://risis.eu/cordisH2020/resource/participant_999458610.. http://risis.eu/orgref_20170703/resource/16886106........... 1........................................................... [Alexander Fleming Biomedical Sciences Research Center] was compared to [BIOMEDICAL SCIENCES RESEARCH CENTER ALEXANDER FLEMING] 
+	http://risis.eu/orgref_20170703/resource/16886106........... http://risis.eu/cordisH2020/resource/participant_999458610.. 1........................................................... [Alexander Fleming Biomedical Sciences Research Center] was compared to [BIOMEDICAL SCIENCES RESEARCH CENTER ALEXANDER FLEMING] 
+	http://risis.eu/orgreg_20170718/resource/GR1005............. http://risis.eu/cordisH2020/resource/participant_999458610.. 1........................................................... [ALEXANDER FLEMING' BIOMEDICAL SCIENCES RESEARCH CENTER] was compared to [BIOMEDICAL SCIENCES RESEARCH CENTER ALEXANDER FLEMING] 
+	http://risis.eu/cordisH2020/resource/participant_999458610.. http://risis.eu/orgreg_20170718/resource/GR1005............. 1........................................................... [ALEXANDER FLEMING' BIOMEDICAL SCIENCES RESEARCH CENTER] was compared to [BIOMEDICAL SCIENCES RESEARCH CENTER ALEXANDER FLEMING] 
+	http://risis.eu/orgreg_20170718/resource/GR1005............. http://risis.eu/orgref_20170703/resource/16886106........... 1........................................................... [Alexander Fleming Biomedical Sciences Research Center] was compared to [ALEXANDER FLEMING' BIOMEDICAL SCIENCES RESEARCH CENTER] 
+	http://risis.eu/orgref_20170703/resource/16886106........... http://risis.eu/orgreg_20170718/resource/GR1005............. 1........................................................... [Alexander Fleming Biomedical Sciences Research Center] was compared to [ALEXANDER FLEMING' BIOMEDICAL SCIENCES RESEARCH CENTER] 
+	http://risis.eu/orgreg_20170718/resource/GR1005............. http://www.grid.ac/institutes/grid.424165.0................. 1........................................................... [Alexander Fleming Biomedical Sciences Research Center] was compared to [ALEXANDER FLEMING' BIOMEDICAL SCIENCES RESEARCH CENTER] 
+	http://www.grid.ac/institutes/grid.424165.0................. http://risis.eu/orgreg_20170718/resource/GR1005............. 1........................................................... [Alexander Fleming Biomedical Sciences Research Center] was compared to [ALEXANDER FLEMING' BIOMEDICAL SCIENCES RESEARCH CENTER] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgreg_20170718/resource/GR1005............. https://www.fleming.gr/..................................... 
+	http://risis.eu/orgreg_20170718/resource/GR1005............. ALEXANDER FLEMING' BIOMEDICAL SCIENCES RESEARCH CENTER...... 
+	http://risis.eu/cordisH2020/resource/participant_999458610.. http://risis.eu/cordisH2020/resource/www.fleming.gr......... 
+	http://risis.eu/cordisH2020/resource/participant_999458610.. BIOMEDICAL SCIENCES RESEARCH CENTER ALEXANDER FLEMING....... 
+	http://www.grid.ac/institutes/grid.424165.0................. 23.793842................................................... 
+	http://www.grid.ac/institutes/grid.424165.0................. 37.82431.................................................... 
+	http://www.grid.ac/institutes/grid.424165.0................. https://www.fleming.gr/..................................... 
+	http://www.grid.ac/institutes/grid.424165.0................. BSRC Alexander Fleming...................................... 
+	http://www.grid.ac/institutes/grid.424165.0................. Alexander Fleming Biomedical Sciences Research Center....... 
+	http://risis.eu/orgref_20170703/resource/16886106........... http://en.wikipedia.org/wiki?curid=16886106................. 
+	http://risis.eu/orgref_20170703/resource/16886106........... http://www.wikidata.org/wiki/Q4718861....................... 
+	http://risis.eu/orgref_20170703/resource/16886106........... http://www.fleming.gr....................................... 
+	http://risis.eu/orgref_20170703/resource/16886106........... Alexander Fleming Biomedical Sciences Research Center....... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:GR1005', '4:16886106'), ('2:participant_999458610', '1:GR1005'), ('2:participant_999458610', '3:grid.424165.0'), ('2:participant_999458610', '4:16886106'), ('3:grid.424165.0', '1:GR1005'), ('4:16886106', '3:grid.424165.0')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

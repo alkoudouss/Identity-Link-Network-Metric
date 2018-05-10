@@ -1,0 +1,58 @@
+SIZE    3   
+CLUSTER 1447 
+NAME    N1546456408
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.461035.5>
+	<http://risis.eu/orgreg_20170718/resource/NL0001>
+	<http://risis.eu/eter_2014/resource/NL0001>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.461035.5...... http://risis.eu/eter_2014/resource/NL0001........ 0.8.............................................. [university amsterdam] was compared to [amsterdam university arts] 
+	http://www.grid.ac/institutes/grid.461035.5...... http://risis.eu/orgreg_20170718/resource/NL0001.. 0.8.............................................. [university amsterdam] was compared to [amsterdam university arts] 
+	http://risis.eu/orgreg_20170718/resource/NL0001.. http://www.grid.ac/institutes/grid.461035.5...... 0.8.............................................. [university amsterdam] was compared to [amsterdam university arts] 
+	http://risis.eu/orgreg_20170718/resource/NL0001.. http://risis.eu/eter_2014/resource/NL0001........ 1................................................ [university amsterdam] was compared to [university amsterdam] 
+	http://risis.eu/eter_2014/resource/NL0001........ http://www.grid.ac/institutes/grid.461035.5...... 0.8.............................................. [university amsterdam] was compared to [amsterdam university arts] 
+	http://risis.eu/eter_2014/resource/NL0001........ http://risis.eu/orgreg_20170718/resource/NL0001.. 1................................................ [university amsterdam] was compared to [university amsterdam] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.461035.5...... 4.90147.......................................... 
+	http://www.grid.ac/institutes/grid.461035.5...... 52.37009......................................... 
+	http://www.grid.ac/institutes/grid.461035.5...... http://www.ahk.nl/en/amsterdam-university-of-the-arts/ 
+	http://www.grid.ac/institutes/grid.461035.5...... Amsterdam University of the Arts................. 
+	http://risis.eu/orgreg_20170718/resource/NL0001.. 4.89127.......................................... 
+	http://risis.eu/orgreg_20170718/resource/NL0001.. 52.368941........................................ 
+	http://risis.eu/orgreg_20170718/resource/NL0001.. http://www.uva.nl/............................... 
+	http://risis.eu/orgreg_20170718/resource/NL0001.. University of Amsterdam.......................... 
+	http://risis.eu/eter_2014/resource/NL0001........ 52,368941........................................ 
+	http://risis.eu/eter_2014/resource/NL0001........ 4,89127.......................................... 
+	http://risis.eu/eter_2014/resource/NL0001........ http://www.uva.nl/............................... 
+	http://risis.eu/eter_2014/resource/NL0001........ a................................................ 
+	http://risis.eu/eter_2014/resource/NL0001........ University of Amsterdam.......................... 
+	http://risis.eu/eter_2014/resource/NL0001........ Universiteit van Amsterdam....................... 
+
+NETWORK ANALYSIS
+	NETWORK [('P603070434-NL0001', 'N1546456408-grid.461035.5'), ('P568504575-NL0001', 'N1546456408-grid.461035.5'), ('P568504575-NL0001', 'P603070434-NL0001')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

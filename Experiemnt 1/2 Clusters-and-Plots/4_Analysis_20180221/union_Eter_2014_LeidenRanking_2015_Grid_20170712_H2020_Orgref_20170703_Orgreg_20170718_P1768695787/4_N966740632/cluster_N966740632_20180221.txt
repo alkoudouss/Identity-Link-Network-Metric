@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 5821 
+NAME    N966740632
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.410363.3>
+	<http://www.grid.ac/institutes/grid.456823.e>
+	<http://risis.eu/orgref_20170703/resource/277311>
+	<http://www.grid.ac/institutes/grid.426125.6>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.410363.3...... http://www.grid.ac/institutes/grid.426125.6...... 1................................................ [Thales Group (France)] was compared to [Thales Group (Germany)] 
+	http://www.grid.ac/institutes/grid.426125.6...... http://www.grid.ac/institutes/grid.410363.3...... 1................................................ [Thales Group (France)] was compared to [Thales Group (Germany)] 
+	http://www.grid.ac/institutes/grid.410363.3...... http://www.grid.ac/institutes/grid.456823.e...... 1................................................ [Thales Group (France)] was compared to [Thales Group (Brazil)] 
+	http://www.grid.ac/institutes/grid.456823.e...... http://www.grid.ac/institutes/grid.410363.3...... 1................................................ [Thales Group (France)] was compared to [Thales Group (Brazil)] 
+	http://www.grid.ac/institutes/grid.456823.e...... http://www.grid.ac/institutes/grid.426125.6...... 1................................................ [Thales Group (Germany)] was compared to [Thales Group (Brazil)] 
+	http://www.grid.ac/institutes/grid.426125.6...... http://www.grid.ac/institutes/grid.456823.e...... 1................................................ [Thales Group (Germany)] was compared to [Thales Group (Brazil)] 
+	http://www.grid.ac/institutes/grid.410363.3...... http://risis.eu/orgref_20170703/resource/277311.. 1................................................ [Thales Group (France)] was compared to [Thales Group] 
+	http://risis.eu/orgref_20170703/resource/277311.. http://www.grid.ac/institutes/grid.410363.3...... 1................................................ [Thales Group (France)] was compared to [Thales Group] 
+	http://risis.eu/orgref_20170703/resource/277311.. http://www.grid.ac/institutes/grid.426125.6...... 1................................................ [Thales Group (Germany)] was compared to [Thales Group] 
+	http://www.grid.ac/institutes/grid.426125.6...... http://risis.eu/orgref_20170703/resource/277311.. 1................................................ [Thales Group (Germany)] was compared to [Thales Group] 
+	http://www.grid.ac/institutes/grid.456823.e...... http://risis.eu/orgref_20170703/resource/277311.. 1................................................ [Thales Group (Brazil)] was compared to [Thales Group] 
+	http://risis.eu/orgref_20170703/resource/277311.. http://www.grid.ac/institutes/grid.456823.e...... 1................................................ [Thales Group (Brazil)] was compared to [Thales Group] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.410363.3...... 2.245093......................................... 
+	http://www.grid.ac/institutes/grid.410363.3...... 48.892166........................................ 
+	http://www.grid.ac/institutes/grid.410363.3...... https://www.thalesgroup.com/en................... 
+	http://www.grid.ac/institutes/grid.410363.3...... Thales Group (France)............................ 
+	http://www.grid.ac/institutes/grid.456823.e...... -36.20496........................................ 
+	http://www.grid.ac/institutes/grid.456823.e...... -7.952421........................................ 
+	http://www.grid.ac/institutes/grid.456823.e...... https://www.thalesgroup.com/en/careers/brazil.... 
+	http://www.grid.ac/institutes/grid.456823.e...... Thales Group (Brazil)............................ 
+	http://risis.eu/orgref_20170703/resource/277311.. http://en.wikipedia.org/wiki?curid=277311........ 
+	http://risis.eu/orgref_20170703/resource/277311.. http://www.wikidata.org/wiki/Q1161666............ 
+	http://risis.eu/orgref_20170703/resource/277311.. http://www.thalesgroup.com....................... 
+	http://risis.eu/orgref_20170703/resource/277311.. Thales Group..................................... 
+	http://www.grid.ac/institutes/grid.426125.6...... 9.060567......................................... 
+	http://www.grid.ac/institutes/grid.426125.6...... 48.81601......................................... 
+	http://www.grid.ac/institutes/grid.426125.6...... https://www.thalesgroup.com/en/germany/global-presence-europe/germany# 
+	http://www.grid.ac/institutes/grid.426125.6...... Thales Group (Germany)........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.456823.e', '1:grid.410363.3'), ('2:grid.456823.e', '4:grid.426125.6'), ('3:277311', '1:grid.410363.3'), ('3:277311', '2:grid.456823.e'), ('3:277311', '4:grid.426125.6'), ('4:grid.426125.6', '1:grid.410363.3')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

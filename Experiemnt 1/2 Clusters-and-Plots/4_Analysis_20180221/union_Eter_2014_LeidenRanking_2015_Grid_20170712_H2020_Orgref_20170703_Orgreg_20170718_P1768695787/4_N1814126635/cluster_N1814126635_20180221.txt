@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 10176 
+NAME    N1814126635
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.32140.34>
+	<http://risis.eu/orgref_20170703/resource/3087956>
+	<http://risis.eu/eter_2014/resource/TR0163>
+	<http://risis.eu/leidenRanking_2015/resource/1017>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.32140.34....... http://risis.eu/orgref_20170703/resource/3087956.. 1................................................. [Yeditepe University] was compared to [Yeditepe University] 
+	http://risis.eu/orgref_20170703/resource/3087956.. http://www.grid.ac/institutes/grid.32140.34....... 1................................................. [Yeditepe University] was compared to [Yeditepe University] 
+	http://www.grid.ac/institutes/grid.32140.34....... http://risis.eu/leidenRanking_2015/resource/1017.. 1................................................. [Yeditepe University] was compared to [Yeditepe University] 
+	http://risis.eu/leidenRanking_2015/resource/1017.. http://www.grid.ac/institutes/grid.32140.34....... 1................................................. [Yeditepe University] was compared to [Yeditepe University] 
+	http://risis.eu/orgref_20170703/resource/3087956.. http://risis.eu/leidenRanking_2015/resource/1017.. 1................................................. [Yeditepe University] was compared to [Yeditepe University] 
+	http://risis.eu/leidenRanking_2015/resource/1017.. http://risis.eu/orgref_20170703/resource/3087956.. 1................................................. [Yeditepe University] was compared to [Yeditepe University] 
+	http://risis.eu/eter_2014/resource/TR0163......... http://risis.eu/leidenRanking_2015/resource/1017.. 0.857142857143.................................... [YEDITEPE ÜNIVERSITESI] was compared to [Yeditepe University] 
+	http://risis.eu/leidenRanking_2015/resource/1017.. http://risis.eu/eter_2014/resource/TR0163......... 0.857142857143.................................... [YEDITEPE ÜNIVERSITESI] was compared to [Yeditepe University] 
+	http://risis.eu/orgref_20170703/resource/3087956.. http://risis.eu/eter_2014/resource/TR0163......... 0.857142857143.................................... [Yeditepe University] was compared to [YEDITEPE ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0163......... http://risis.eu/orgref_20170703/resource/3087956.. 0.857142857143.................................... [Yeditepe University] was compared to [YEDITEPE ÜNIVERSITESI] 
+	http://www.grid.ac/institutes/grid.32140.34....... http://risis.eu/eter_2014/resource/TR0163......... 0.857142857143.................................... [Yeditepe University] was compared to [YEDITEPE ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0163......... http://www.grid.ac/institutes/grid.32140.34....... 0.857142857143.................................... [Yeditepe University] was compared to [YEDITEPE ÜNIVERSITESI] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.32140.34....... 29.151943......................................... 
+	http://www.grid.ac/institutes/grid.32140.34....... 40.97278.......................................... 
+	http://www.grid.ac/institutes/grid.32140.34....... http://www.yeditepe.edu.tr/?&language_id=2........ 
+	http://www.grid.ac/institutes/grid.32140.34....... Yeditepe Üniversitesi............................ 
+	http://www.grid.ac/institutes/grid.32140.34....... Yeditepe University............................... 
+	http://risis.eu/orgref_20170703/resource/3087956.. http://en.wikipedia.org/wiki?curid=3087956........ 
+	http://risis.eu/orgref_20170703/resource/3087956.. http://www.wikidata.org/wiki/Q478948.............. 
+	http://risis.eu/orgref_20170703/resource/3087956.. http://www.yeditepe.edu.tr........................ 
+	http://risis.eu/orgref_20170703/resource/3087956.. Yeditepe University............................... 
+	http://risis.eu/eter_2014/resource/TR0163......... 40,979485......................................... 
+	http://risis.eu/eter_2014/resource/TR0163......... 29,141972......................................... 
+	http://risis.eu/eter_2014/resource/TR0163......... http://www.yeditepe.edu.tr/....................... 
+	http://risis.eu/eter_2014/resource/TR0163......... a................................................. 
+	http://risis.eu/eter_2014/resource/TR0163......... Yeditepe University............................... 
+	http://risis.eu/eter_2014/resource/TR0163......... YEDITEPE ÜNIVERSITESI............................ 
+	http://risis.eu/leidenRanking_2015/resource/1017.. Yeditepe University............................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:3087956', '1:grid.32140.34'), ('3:TR0163', '1:grid.32140.34'), ('3:TR0163', '2:3087956'), ('4:1017', '1:grid.32140.34'), ('4:1017', '2:3087956'), ('4:1017', '3:TR0163')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

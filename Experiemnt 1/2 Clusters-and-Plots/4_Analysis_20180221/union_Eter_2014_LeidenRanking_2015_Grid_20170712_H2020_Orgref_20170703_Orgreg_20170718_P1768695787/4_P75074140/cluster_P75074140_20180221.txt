@@ -1,0 +1,50 @@
+SIZE    4   
+CLUSTER 10699 
+NAME    P75074140
+
+RESOURCES INVOLVED
+	<http://risis.eu/cordisH2020/resource/participant_942488764>
+	<http://risis.eu/cordisH2020/resource/participant_996258095>
+	<http://risis.eu/cordisH2020/resource/participant_951978468>
+	<http://risis.eu/cordisH2020/resource/participant_931768324>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_942488764.. http://risis.eu/cordisH2020/resource/participant_951978468.. 0.8......................................................... [DEMA SRL] was compared to [ADERMA SRL]..................... 
+	http://risis.eu/cordisH2020/resource/participant_951978468.. http://risis.eu/cordisH2020/resource/participant_942488764.. 0.8......................................................... [DEMA SRL] was compared to [ADERMA SRL]..................... 
+	http://risis.eu/cordisH2020/resource/participant_942488764.. http://risis.eu/cordisH2020/resource/participant_996258095.. 0.875....................................................... [DEMA SRL] was compared to [DMA SRL]........................ 
+	http://risis.eu/cordisH2020/resource/participant_996258095.. http://risis.eu/cordisH2020/resource/participant_942488764.. 0.875....................................................... [DEMA SRL] was compared to [DMA SRL]........................ 
+	http://risis.eu/cordisH2020/resource/participant_996258095.. http://risis.eu/cordisH2020/resource/participant_931768324.. 0.857142857143.............................................. [IMA SRL] was compared to [DMA SRL]......................... 
+	http://risis.eu/cordisH2020/resource/participant_931768324.. http://risis.eu/cordisH2020/resource/participant_996258095.. 0.857142857143.............................................. [IMA SRL] was compared to [DMA SRL]......................... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 5 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_942488764.. DEMA SRL.................................................... 
+	http://risis.eu/cordisH2020/resource/participant_996258095.. http://risis.eu/cordisH2020/resource/www.dmatorino.it....... 
+	http://risis.eu/cordisH2020/resource/participant_996258095.. DMA SRL..................................................... 
+	http://risis.eu/cordisH2020/resource/participant_951978468.. ADERMA SRL.................................................. 
+	http://risis.eu/cordisH2020/resource/participant_931768324.. IMA SRL..................................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_996258095', '1:participant_942488764'), ('3:participant_951978468', '1:participant_942488764'), ('4:participant_931768324', '2:participant_996258095')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

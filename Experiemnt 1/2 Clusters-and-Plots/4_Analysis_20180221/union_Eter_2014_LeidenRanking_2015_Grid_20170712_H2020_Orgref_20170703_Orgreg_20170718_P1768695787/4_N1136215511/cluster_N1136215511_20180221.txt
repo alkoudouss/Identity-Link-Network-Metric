@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 13043 
+NAME    N1136215511
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.421238.e>
+	<http://www.grid.ac/institutes/grid.432502.2>
+	<http://www.grid.ac/institutes/grid.420742.7>
+	<http://www.grid.ac/institutes/grid.450758.b>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.420742.7.. http://www.grid.ac/institutes/grid.450758.b.. 1............................................ [Aecom (United States)] was compared to [Aecom (Canada)] 
+	http://www.grid.ac/institutes/grid.450758.b.. http://www.grid.ac/institutes/grid.420742.7.. 1............................................ [Aecom (United States)] was compared to [Aecom (Canada)] 
+	http://www.grid.ac/institutes/grid.421238.e.. http://www.grid.ac/institutes/grid.420742.7.. 1............................................ [Aecom (United States)] was compared to [Aecom (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.420742.7.. http://www.grid.ac/institutes/grid.421238.e.. 1............................................ [Aecom (United States)] was compared to [Aecom (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.432502.2.. http://www.grid.ac/institutes/grid.420742.7.. 1............................................ [Aecom (United States)] was compared to [Aecom (Czech Republic)] 
+	http://www.grid.ac/institutes/grid.420742.7.. http://www.grid.ac/institutes/grid.432502.2.. 1............................................ [Aecom (United States)] was compared to [Aecom (Czech Republic)] 
+	http://www.grid.ac/institutes/grid.421238.e.. http://www.grid.ac/institutes/grid.450758.b.. 1............................................ [Aecom (United Kingdom)] was compared to [Aecom (Canada)] 
+	http://www.grid.ac/institutes/grid.450758.b.. http://www.grid.ac/institutes/grid.421238.e.. 1............................................ [Aecom (United Kingdom)] was compared to [Aecom (Canada)] 
+	http://www.grid.ac/institutes/grid.421238.e.. http://www.grid.ac/institutes/grid.432502.2.. 1............................................ [Aecom (United Kingdom)] was compared to [Aecom (Czech Republic)] 
+	http://www.grid.ac/institutes/grid.432502.2.. http://www.grid.ac/institutes/grid.421238.e.. 1............................................ [Aecom (United Kingdom)] was compared to [Aecom (Czech Republic)] 
+	http://www.grid.ac/institutes/grid.432502.2.. http://www.grid.ac/institutes/grid.450758.b.. 1............................................ [Aecom (Czech Republic)] was compared to [Aecom (Canada)] 
+	http://www.grid.ac/institutes/grid.450758.b.. http://www.grid.ac/institutes/grid.432502.2.. 1............................................ [Aecom (Czech Republic)] was compared to [Aecom (Canada)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.421238.e.. -0.235316.................................... 
+	http://www.grid.ac/institutes/grid.421238.e.. 52.102898.................................... 
+	http://www.grid.ac/institutes/grid.421238.e.. http://www.aecom.com/Where+We+Are/Europe/Countries/UK 
+	http://www.grid.ac/institutes/grid.421238.e.. AECOM Technology Corporation................. 
+	http://www.grid.ac/institutes/grid.421238.e.. Aecom (United Kingdom)....................... 
+	http://www.grid.ac/institutes/grid.432502.2.. Aecom (Czech Republic)....................... 
+	http://www.grid.ac/institutes/grid.420742.7.. -118.25852................................... 
+	http://www.grid.ac/institutes/grid.420742.7.. 34.050327.................................... 
+	http://www.grid.ac/institutes/grid.420742.7.. http://www.aecom.com/........................ 
+	http://www.grid.ac/institutes/grid.420742.7.. Aecom (United States)........................ 
+	http://www.grid.ac/institutes/grid.450758.b.. -114.04509................................... 
+	http://www.grid.ac/institutes/grid.450758.b.. 50.99413..................................... 
+	http://www.grid.ac/institutes/grid.450758.b.. http://www.aecom.ca/......................... 
+	http://www.grid.ac/institutes/grid.450758.b.. Aecom (Canada)............................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.421238.e', '3:grid.420742.7'), ('2:grid.432502.2', '1:grid.421238.e'), ('2:grid.432502.2', '3:grid.420742.7'), ('4:grid.450758.b', '1:grid.421238.e'), ('4:grid.450758.b', '2:grid.432502.2'), ('4:grid.450758.b', '3:grid.420742.7')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

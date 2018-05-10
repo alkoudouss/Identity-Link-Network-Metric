@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 14459 
+NAME    N1975979175
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/4447909>
+	<http://risis.eu/orgref_20170703/resource/480294>
+	<http://www.grid.ac/institutes/grid.415594.8>
+	<http://www.grid.ac/institutes/grid.415598.4>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/480294... http://www.grid.ac/institutes/grid.415598.4....... 1................................................. [Queen's Medical Centre] was compared to [Queen's Medical Centre] 
+	http://www.grid.ac/institutes/grid.415598.4....... http://risis.eu/orgref_20170703/resource/480294... 1................................................. [Queen's Medical Centre] was compared to [Queen's Medical Centre] 
+	http://risis.eu/orgref_20170703/resource/4447909.. http://www.grid.ac/institutes/grid.415594.8....... 1................................................. [Queen's Medical Center] was compared to [The Queen's Medical Center] 
+	http://www.grid.ac/institutes/grid.415594.8....... http://risis.eu/orgref_20170703/resource/4447909.. 1................................................. [Queen's Medical Center] was compared to [The Queen's Medical Center] 
+	http://risis.eu/orgref_20170703/resource/4447909.. http://risis.eu/orgref_20170703/resource/480294... 0.904761904762.................................... [The Queen's Medical Center] was compared to [Queen's Medical Centre] 
+	http://risis.eu/orgref_20170703/resource/480294... http://risis.eu/orgref_20170703/resource/4447909.. 0.904761904762.................................... [The Queen's Medical Center] was compared to [Queen's Medical Centre] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/4447909.. http://en.wikipedia.org/wiki?curid=4447909........ 
+	http://risis.eu/orgref_20170703/resource/4447909.. http://www.wikidata.org/wiki/Q7758968............. 
+	http://risis.eu/orgref_20170703/resource/4447909.. http://www.queensmedicalcenter.net................ 
+	http://risis.eu/orgref_20170703/resource/4447909.. The Queen's Medical Center........................ 
+	http://risis.eu/orgref_20170703/resource/480294... http://en.wikipedia.org/wiki?curid=480294......... 
+	http://risis.eu/orgref_20170703/resource/480294... http://www.wikidata.org/wiki/Q7270030............. 
+	http://risis.eu/orgref_20170703/resource/480294... http://www.nuh.nhs.uk............................. 
+	http://risis.eu/orgref_20170703/resource/480294... Queen's Medical Centre............................ 
+	http://www.grid.ac/institutes/grid.415594.8....... -157.85379........................................ 
+	http://www.grid.ac/institutes/grid.415594.8....... 21.309221......................................... 
+	http://www.grid.ac/institutes/grid.415594.8....... http://queensmedicalcenter.org/................... 
+	http://www.grid.ac/institutes/grid.415594.8....... Queen's Hospital.................................. 
+	http://www.grid.ac/institutes/grid.415594.8....... Queen's Medical Center............................ 
+	http://www.grid.ac/institutes/grid.415598.4....... -1.1857........................................... 
+	http://www.grid.ac/institutes/grid.415598.4....... 52.9436........................................... 
+	http://www.grid.ac/institutes/grid.415598.4....... http://www.nhs.uk/Services/hospitals/Overview/DefaultView.aspx?id=2027 
+	http://www.grid.ac/institutes/grid.415598.4....... Queen's Med....................................... 
+	http://www.grid.ac/institutes/grid.415598.4....... Queen's Medical Centre............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:480294', '1:4447909'), ('3:grid.415594.8', '1:4447909'), ('4:grid.415598.4', '2:480294')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

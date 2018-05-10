@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 6045 
+NAME    N2123388561
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/308722>
+	<http://risis.eu/leidenRanking_2015/resource/1263>
+	<http://www.grid.ac/institutes/grid.33489.35>
+	<http://risis.eu/cordisH2020/resource/participant_996478673>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/308722............. http://www.grid.ac/institutes/grid.33489.35................. 1........................................................... [University of Delaware] was compared to [University of Delaware] 
+	http://www.grid.ac/institutes/grid.33489.35................. http://risis.eu/orgref_20170703/resource/308722............. 1........................................................... [University of Delaware] was compared to [University of Delaware] 
+	http://risis.eu/leidenRanking_2015/resource/1263............ http://www.grid.ac/institutes/grid.33489.35................. 1........................................................... [University of Delaware] was compared to [University of Delaware] 
+	http://www.grid.ac/institutes/grid.33489.35................. http://risis.eu/leidenRanking_2015/resource/1263............ 1........................................................... [University of Delaware] was compared to [University of Delaware] 
+	http://www.grid.ac/institutes/grid.33489.35................. http://risis.eu/cordisH2020/resource/participant_996478673.. 1........................................................... [University of Delaware] was compared to [University of Delaware] 
+	http://risis.eu/cordisH2020/resource/participant_996478673.. http://www.grid.ac/institutes/grid.33489.35................. 1........................................................... [University of Delaware] was compared to [University of Delaware] 
+	http://risis.eu/orgref_20170703/resource/308722............. http://risis.eu/leidenRanking_2015/resource/1263............ 1........................................................... [University of Delaware] was compared to [University of Delaware] 
+	http://risis.eu/leidenRanking_2015/resource/1263............ http://risis.eu/orgref_20170703/resource/308722............. 1........................................................... [University of Delaware] was compared to [University of Delaware] 
+	http://risis.eu/orgref_20170703/resource/308722............. http://risis.eu/cordisH2020/resource/participant_996478673.. 1........................................................... [University of Delaware] was compared to [University of Delaware] 
+	http://risis.eu/cordisH2020/resource/participant_996478673.. http://risis.eu/orgref_20170703/resource/308722............. 1........................................................... [University of Delaware] was compared to [University of Delaware] 
+	http://risis.eu/leidenRanking_2015/resource/1263............ http://risis.eu/cordisH2020/resource/participant_996478673.. 1........................................................... [University of Delaware] was compared to [University of Delaware] 
+	http://risis.eu/cordisH2020/resource/participant_996478673.. http://risis.eu/leidenRanking_2015/resource/1263............ 1........................................................... [University of Delaware] was compared to [University of Delaware] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/308722............. http://en.wikipedia.org/wiki?curid=308722................... 
+	http://risis.eu/orgref_20170703/resource/308722............. http://www.wikidata.org/wiki/Q1068072....................... 
+	http://risis.eu/orgref_20170703/resource/308722............. http://www.udel.edu......................................... 
+	http://risis.eu/orgref_20170703/resource/308722............. University of Delaware...................................... 
+	http://risis.eu/leidenRanking_2015/resource/1263............ University of Delaware...................................... 
+	http://www.grid.ac/institutes/grid.33489.35................. -75.75217................................................... 
+	http://www.grid.ac/institutes/grid.33489.35................. 39.67911.................................................... 
+	http://www.grid.ac/institutes/grid.33489.35................. http://www.udel.edu/........................................ 
+	http://www.grid.ac/institutes/grid.33489.35................. University of Delaware...................................... 
+	http://risis.eu/cordisH2020/resource/participant_996478673.. http://www.udel.edu......................................... 
+	http://risis.eu/cordisH2020/resource/participant_996478673.. University of Delaware...................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1263', '1:308722'), ('2:1263', '3:grid.33489.35'), ('3:grid.33489.35', '1:308722'), ('4:participant_996478673', '1:308722'), ('4:participant_996478673', '2:1263'), ('4:participant_996478673', '3:grid.33489.35')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

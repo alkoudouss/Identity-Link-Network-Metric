@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 14043 
+NAME    P50270748
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.419675.8>
+	<http://www.grid.ac/institutes/grid.419811.4>
+	<http://www.grid.ac/institutes/grid.419813.6>
+	<http://risis.eu/leidenRanking_2015/resource/15430>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.419811.4........ http://www.grid.ac/institutes/grid.419813.6........ 1.................................................. [National Veterinary Research Institute] was compared to [National Veterinary Research Institute] 
+	http://www.grid.ac/institutes/grid.419813.6........ http://www.grid.ac/institutes/grid.419811.4........ 1.................................................. [National Veterinary Research Institute] was compared to [National Veterinary Research Institute] 
+	http://www.grid.ac/institutes/grid.419675.8........ http://www.grid.ac/institutes/grid.419813.6........ 1.................................................. [National Institute of Veterinary Research] was compared to [National Veterinary Research Institute] 
+	http://www.grid.ac/institutes/grid.419813.6........ http://www.grid.ac/institutes/grid.419675.8........ 1.................................................. [National Institute of Veterinary Research] was compared to [National Veterinary Research Institute] 
+	http://www.grid.ac/institutes/grid.419675.8........ http://www.grid.ac/institutes/grid.419811.4........ 1.................................................. [National Institute of Veterinary Research] was compared to [National Veterinary Research Institute] 
+	http://www.grid.ac/institutes/grid.419811.4........ http://www.grid.ac/institutes/grid.419675.8........ 1.................................................. [National Institute of Veterinary Research] was compared to [National Veterinary Research Institute] 
+	http://www.grid.ac/institutes/grid.419811.4........ http://risis.eu/leidenRanking_2015/resource/15430.. 1.................................................. [National Veterinary Research Institute] was compared to [National Veterinary Research Institute] 
+	http://risis.eu/leidenRanking_2015/resource/15430.. http://www.grid.ac/institutes/grid.419811.4........ 1.................................................. [National Veterinary Research Institute] was compared to [National Veterinary Research Institute] 
+	http://www.grid.ac/institutes/grid.419675.8........ http://risis.eu/leidenRanking_2015/resource/15430.. 1.................................................. [National Institute of Veterinary Research] was compared to [National Veterinary Research Institute] 
+	http://risis.eu/leidenRanking_2015/resource/15430.. http://www.grid.ac/institutes/grid.419675.8........ 1.................................................. [National Institute of Veterinary Research] was compared to [National Veterinary Research Institute] 
+	http://www.grid.ac/institutes/grid.419813.6........ http://risis.eu/leidenRanking_2015/resource/15430.. 1.................................................. [National Veterinary Research Institute] was compared to [National Veterinary Research Institute] 
+	http://risis.eu/leidenRanking_2015/resource/15430.. http://www.grid.ac/institutes/grid.419813.6........ 1.................................................. [National Veterinary Research Institute] was compared to [National Veterinary Research Institute] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.419675.8........ 105.83267.......................................... 
+	http://www.grid.ac/institutes/grid.419675.8........ 21.02798........................................... 
+	http://www.grid.ac/institutes/grid.419675.8........ National Institute of Veterinary Research.......... 
+	http://www.grid.ac/institutes/grid.419811.4........ 21.98339........................................... 
+	http://www.grid.ac/institutes/grid.419811.4........ 51.425407.......................................... 
+	http://www.grid.ac/institutes/grid.419811.4........ http://www.piwet.pulawy.pl/........................ 
+	http://www.grid.ac/institutes/grid.419811.4........ Państwowy Instytut Weterynaryjny.................. 
+	http://www.grid.ac/institutes/grid.419811.4........ National Veterinary Research Institute............. 
+	http://www.grid.ac/institutes/grid.419813.6........ 8.779512........................................... 
+	http://www.grid.ac/institutes/grid.419813.6........ 9.702219........................................... 
+	http://www.grid.ac/institutes/grid.419813.6........ http://www.nvri.gov.ng/............................ 
+	http://www.grid.ac/institutes/grid.419813.6........ Federal Department of Veterinary Research.......... 
+	http://www.grid.ac/institutes/grid.419813.6........ National Veterinary Research Institute............. 
+	http://risis.eu/leidenRanking_2015/resource/15430.. National Veterinary Research Institute............. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.419811.4', '1:grid.419675.8'), ('3:grid.419813.6', '1:grid.419675.8'), ('3:grid.419813.6', '2:grid.419811.4'), ('4:15430', '1:grid.419675.8'), ('4:15430', '2:grid.419811.4'), ('4:15430', '3:grid.419813.6')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

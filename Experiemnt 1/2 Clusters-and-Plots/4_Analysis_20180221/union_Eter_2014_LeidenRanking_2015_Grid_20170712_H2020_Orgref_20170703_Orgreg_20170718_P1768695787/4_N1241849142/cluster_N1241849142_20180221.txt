@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 8322 
+NAME    N1241849142
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/35332163>
+	<http://risis.eu/cordisH2020/resource/participant_999884925>
+	<http://risis.eu/orgreg_20170718/resource/GR4003>
+	<http://www.grid.ac/institutes/grid.419661.d>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/35332163........... http://www.grid.ac/institutes/grid.419661.d................. 1........................................................... [Mediterranean Agronomic Institute of Chania] was compared to [Mediterranean Agronomic Institute of Chania] 
+	http://www.grid.ac/institutes/grid.419661.d................. http://risis.eu/orgref_20170703/resource/35332163........... 1........................................................... [Mediterranean Agronomic Institute of Chania] was compared to [Mediterranean Agronomic Institute of Chania] 
+	http://risis.eu/cordisH2020/resource/participant_999884925.. http://www.grid.ac/institutes/grid.419661.d................. 1........................................................... [Mediterranean Agronomic Institute of Chania] was compared to [MEDITERRANEAN AGRONOMIC INSTITUTE OF CHANIA] 
+	http://www.grid.ac/institutes/grid.419661.d................. http://risis.eu/cordisH2020/resource/participant_999884925.. 1........................................................... [Mediterranean Agronomic Institute of Chania] was compared to [MEDITERRANEAN AGRONOMIC INSTITUTE OF CHANIA] 
+	http://risis.eu/orgref_20170703/resource/35332163........... http://risis.eu/cordisH2020/resource/participant_999884925.. 1........................................................... [Mediterranean Agronomic Institute of Chania] was compared to [MEDITERRANEAN AGRONOMIC INSTITUTE OF CHANIA] 
+	http://risis.eu/cordisH2020/resource/participant_999884925.. http://risis.eu/orgref_20170703/resource/35332163........... 1........................................................... [Mediterranean Agronomic Institute of Chania] was compared to [MEDITERRANEAN AGRONOMIC INSTITUTE OF CHANIA] 
+	http://risis.eu/cordisH2020/resource/participant_999884925.. http://risis.eu/orgreg_20170718/resource/GR4003............. 1........................................................... [MEDITERRANEAN AGRONOMIC INSTITUTE OF CHANIA] was compared to [MEDITERRANEAN AGRONOMIC INSTITUTE OF CHANIA] 
+	http://risis.eu/orgreg_20170718/resource/GR4003............. http://risis.eu/cordisH2020/resource/participant_999884925.. 1........................................................... [MEDITERRANEAN AGRONOMIC INSTITUTE OF CHANIA] was compared to [MEDITERRANEAN AGRONOMIC INSTITUTE OF CHANIA] 
+	http://risis.eu/orgref_20170703/resource/35332163........... http://risis.eu/orgreg_20170718/resource/GR4003............. 1........................................................... [Mediterranean Agronomic Institute of Chania] was compared to [MEDITERRANEAN AGRONOMIC INSTITUTE OF CHANIA] 
+	http://risis.eu/orgreg_20170718/resource/GR4003............. http://risis.eu/orgref_20170703/resource/35332163........... 1........................................................... [Mediterranean Agronomic Institute of Chania] was compared to [MEDITERRANEAN AGRONOMIC INSTITUTE OF CHANIA] 
+	http://risis.eu/orgreg_20170718/resource/GR4003............. http://www.grid.ac/institutes/grid.419661.d................. 1........................................................... [Mediterranean Agronomic Institute of Chania] was compared to [MEDITERRANEAN AGRONOMIC INSTITUTE OF CHANIA] 
+	http://www.grid.ac/institutes/grid.419661.d................. http://risis.eu/orgreg_20170718/resource/GR4003............. 1........................................................... [Mediterranean Agronomic Institute of Chania] was compared to [MEDITERRANEAN AGRONOMIC INSTITUTE OF CHANIA] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/35332163........... http://en.wikipedia.org/wiki?curid=35332163................. 
+	http://risis.eu/orgref_20170703/resource/35332163........... http://www.wikidata.org/wiki/Q6807032....................... 
+	http://risis.eu/orgref_20170703/resource/35332163........... http://www.maich.gr......................................... 
+	http://risis.eu/orgref_20170703/resource/35332163........... Mediterranean Agronomic Institute of Chania................. 
+	http://risis.eu/cordisH2020/resource/participant_999884925.. http://risis.eu/cordisH2020/resource/www.maich.gr........... 
+	http://risis.eu/cordisH2020/resource/participant_999884925.. MEDITERRANEAN AGRONOMIC INSTITUTE OF CHANIA................. 
+	http://risis.eu/orgreg_20170718/resource/GR4003............. http://www.maich.gr......................................... 
+	http://risis.eu/orgreg_20170718/resource/GR4003............. MEDITERRANEAN AGRONOMIC INSTITUTE OF CHANIA................. 
+	http://www.grid.ac/institutes/grid.419661.d................. 24.049154................................................... 
+	http://www.grid.ac/institutes/grid.419661.d................. 35.495506................................................... 
+	http://www.grid.ac/institutes/grid.419661.d................. http://www.maich.gr/........................................ 
+	http://www.grid.ac/institutes/grid.419661.d................. Mediterranean Agronomic Institute of Chania................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:35332163', '4:grid.419661.d'), ('2:participant_999884925', '1:35332163'), ('2:participant_999884925', '4:grid.419661.d'), ('3:GR4003', '1:35332163'), ('3:GR4003', '2:participant_999884925'), ('4:grid.419661.d', '3:GR4003')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

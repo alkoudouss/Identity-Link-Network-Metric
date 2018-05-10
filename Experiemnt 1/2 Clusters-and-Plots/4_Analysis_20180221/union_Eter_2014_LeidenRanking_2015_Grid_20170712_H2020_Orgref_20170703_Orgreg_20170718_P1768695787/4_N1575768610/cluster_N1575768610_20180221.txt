@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 1799 
+NAME    N1575768610
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.439313.f>
+	<http://www.grid.ac/institutes/grid.439787.6>
+	<http://risis.eu/orgref_20170703/resource/20198681>
+	<http://risis.eu/orgref_20170703/resource/3313803>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.439313.f........ http://risis.eu/orgref_20170703/resource/3313803... 1.................................................. [Newham University Hospital] was compared to [Newham University Hospital] 
+	http://risis.eu/orgref_20170703/resource/3313803... http://www.grid.ac/institutes/grid.439313.f........ 1.................................................. [Newham University Hospital] was compared to [Newham University Hospital] 
+	http://www.grid.ac/institutes/grid.439787.6........ http://risis.eu/orgref_20170703/resource/20198681.. 1.................................................. [University Hospital Lewisham] was compared to [University Hospital Lewisham] 
+	http://risis.eu/orgref_20170703/resource/20198681.. http://www.grid.ac/institutes/grid.439787.6........ 1.................................................. [University Hospital Lewisham] was compared to [University Hospital Lewisham] 
+	http://risis.eu/orgref_20170703/resource/20198681.. http://risis.eu/orgref_20170703/resource/3313803... 0.892857142857..................................... [University Hospital Lewisham] was compared to [Newham University Hospital] 
+	http://risis.eu/orgref_20170703/resource/3313803... http://risis.eu/orgref_20170703/resource/20198681.. 0.892857142857..................................... [University Hospital Lewisham] was compared to [Newham University Hospital] 
+	http://www.grid.ac/institutes/grid.439313.f........ http://www.grid.ac/institutes/grid.439787.6........ 0.892857142857..................................... [Newham University Hospital] was compared to [University Hospital Lewisham] 
+	http://www.grid.ac/institutes/grid.439787.6........ http://www.grid.ac/institutes/grid.439313.f........ 0.892857142857..................................... [Newham University Hospital] was compared to [University Hospital Lewisham] 
+	http://www.grid.ac/institutes/grid.439313.f........ http://risis.eu/orgref_20170703/resource/20198681.. 0.892857142857..................................... [Newham University Hospital] was compared to [University Hospital Lewisham] 
+	http://risis.eu/orgref_20170703/resource/20198681.. http://www.grid.ac/institutes/grid.439313.f........ 0.892857142857..................................... [Newham University Hospital] was compared to [University Hospital Lewisham] 
+	http://www.grid.ac/institutes/grid.439787.6........ http://risis.eu/orgref_20170703/resource/3313803... 0.892857142857..................................... [University Hospital Lewisham] was compared to [Newham University Hospital] 
+	http://risis.eu/orgref_20170703/resource/3313803... http://www.grid.ac/institutes/grid.439787.6........ 0.892857142857..................................... [University Hospital Lewisham] was compared to [Newham University Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.439313.f........ Newham University Hospital......................... 
+	http://www.grid.ac/institutes/grid.439787.6........ University Hospital Lewisham....................... 
+	http://risis.eu/orgref_20170703/resource/20198681.. http://en.wikipedia.org/wiki?curid=20198681........ 
+	http://risis.eu/orgref_20170703/resource/20198681.. http://www.wikidata.org/wiki/Q14956783............. 
+	http://risis.eu/orgref_20170703/resource/20198681.. http://www.lewishamandgreenwich.nhs.uk............. 
+	http://risis.eu/orgref_20170703/resource/20198681.. University Hospital Lewisham....................... 
+	http://risis.eu/orgref_20170703/resource/3313803... http://en.wikipedia.org/wiki?curid=3313803......... 
+	http://risis.eu/orgref_20170703/resource/3313803... http://www.wikidata.org/wiki/Q7018154.............. 
+	http://risis.eu/orgref_20170703/resource/3313803... http://bartshealth.nhs.uk/our-hospitals/newham-university-hospital 
+	http://risis.eu/orgref_20170703/resource/3313803... Newham University Hospital......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.439787.6', '1:grid.439313.f'), ('3:20198681', '1:grid.439313.f'), ('3:20198681', '2:grid.439787.6'), ('4:3313803', '1:grid.439313.f'), ('4:3313803', '2:grid.439787.6'), ('4:3313803', '3:20198681')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

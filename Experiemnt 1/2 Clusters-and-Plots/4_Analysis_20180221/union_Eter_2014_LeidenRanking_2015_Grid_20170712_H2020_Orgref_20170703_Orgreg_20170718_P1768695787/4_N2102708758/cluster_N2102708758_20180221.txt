@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 17200 
+NAME    N2102708758
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.7311.4>
+	<http://risis.eu/orgreg_20170718/resource/PT0003>
+	<http://risis.eu/leidenRanking_2015/resource/547>
+	<http://risis.eu/orgref_20170703/resource/1165393>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.7311.4......... http://risis.eu/orgref_20170703/resource/1165393.. 1................................................. [University of Aveiro] was compared to [University of Aveiro] 
+	http://risis.eu/orgref_20170703/resource/1165393.. http://www.grid.ac/institutes/grid.7311.4......... 1................................................. [University of Aveiro] was compared to [University of Aveiro] 
+	http://www.grid.ac/institutes/grid.7311.4......... http://risis.eu/leidenRanking_2015/resource/547... 1................................................. [University of Aveiro] was compared to [University of Aveiro] 
+	http://risis.eu/leidenRanking_2015/resource/547... http://www.grid.ac/institutes/grid.7311.4......... 1................................................. [University of Aveiro] was compared to [University of Aveiro] 
+	http://risis.eu/leidenRanking_2015/resource/547... http://risis.eu/orgref_20170703/resource/1165393.. 1................................................. [University of Aveiro] was compared to [University of Aveiro] 
+	http://risis.eu/orgref_20170703/resource/1165393.. http://risis.eu/leidenRanking_2015/resource/547... 1................................................. [University of Aveiro] was compared to [University of Aveiro] 
+	http://risis.eu/orgreg_20170718/resource/PT0003... http://risis.eu/leidenRanking_2015/resource/547... 1................................................. [University of Aveiro] was compared to [University of Aveiro] 
+	http://risis.eu/leidenRanking_2015/resource/547... http://risis.eu/orgreg_20170718/resource/PT0003... 1................................................. [University of Aveiro] was compared to [University of Aveiro] 
+	http://risis.eu/orgreg_20170718/resource/PT0003... http://risis.eu/orgref_20170703/resource/1165393.. 1................................................. [University of Aveiro] was compared to [University of Aveiro] 
+	http://risis.eu/orgref_20170703/resource/1165393.. http://risis.eu/orgreg_20170718/resource/PT0003... 1................................................. [University of Aveiro] was compared to [University of Aveiro] 
+	http://www.grid.ac/institutes/grid.7311.4......... http://risis.eu/orgreg_20170718/resource/PT0003... 1................................................. [University of Aveiro] was compared to [University of Aveiro] 
+	http://risis.eu/orgreg_20170718/resource/PT0003... http://www.grid.ac/institutes/grid.7311.4......... 1................................................. [University of Aveiro] was compared to [University of Aveiro] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.7311.4......... -8.657517......................................... 
+	http://www.grid.ac/institutes/grid.7311.4......... 40.63032.......................................... 
+	http://www.grid.ac/institutes/grid.7311.4......... http://www.ua.pt/................................. 
+	http://www.grid.ac/institutes/grid.7311.4......... University of Aveiro.............................. 
+	http://risis.eu/orgreg_20170718/resource/PT0003... -8.657261......................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0003... 40.633548......................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0003... http://www.ua.pt.................................. 
+	http://risis.eu/orgreg_20170718/resource/PT0003... University of Aveiro.............................. 
+	http://risis.eu/leidenRanking_2015/resource/547... University of Aveiro.............................. 
+	http://risis.eu/orgref_20170703/resource/1165393.. http://en.wikipedia.org/wiki?curid=1165393........ 
+	http://risis.eu/orgref_20170703/resource/1165393.. http://www.wikidata.org/wiki/Q29671............... 
+	http://risis.eu/orgref_20170703/resource/1165393.. https://www.ua.pt................................. 
+	http://risis.eu/orgref_20170703/resource/1165393.. University of Aveiro.............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:PT0003', '1:grid.7311.4'), ('2:PT0003', '4:1165393'), ('3:547', '1:grid.7311.4'), ('3:547', '2:PT0003'), ('4:1165393', '1:grid.7311.4'), ('4:1165393', '3:547')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

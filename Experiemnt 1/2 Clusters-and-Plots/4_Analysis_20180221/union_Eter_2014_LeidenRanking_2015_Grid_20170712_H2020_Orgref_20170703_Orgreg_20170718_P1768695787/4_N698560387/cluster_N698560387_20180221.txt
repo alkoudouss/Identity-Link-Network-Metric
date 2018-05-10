@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 9097 
+NAME    N698560387
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.415290.b>
+	<http://www.grid.ac/institutes/grid.415295.e>
+	<http://www.grid.ac/institutes/grid.415334.4>
+	<http://www.grid.ac/institutes/grid.413927.a>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.415290.b.. http://www.grid.ac/institutes/grid.415295.e.. 1............................................ [Providence Hospital] was compared to [Providence Hospital] 
+	http://www.grid.ac/institutes/grid.415295.e.. http://www.grid.ac/institutes/grid.415290.b.. 1............................................ [Providence Hospital] was compared to [Providence Hospital] 
+	http://www.grid.ac/institutes/grid.415290.b.. http://www.grid.ac/institutes/grid.415334.4.. 1............................................ [Providence Hospital] was compared to [Providence Hospital] 
+	http://www.grid.ac/institutes/grid.415334.4.. http://www.grid.ac/institutes/grid.415290.b.. 1............................................ [Providence Hospital] was compared to [Providence Hospital] 
+	http://www.grid.ac/institutes/grid.415295.e.. http://www.grid.ac/institutes/grid.413927.a.. 0.947368421053............................... [Hôpital de la Providence] was compared to [Providence Hospital] 
+	http://www.grid.ac/institutes/grid.413927.a.. http://www.grid.ac/institutes/grid.415295.e.. 0.947368421053............................... [Hôpital de la Providence] was compared to [Providence Hospital] 
+	http://www.grid.ac/institutes/grid.415334.4.. http://www.grid.ac/institutes/grid.413927.a.. 0.947368421053............................... [Hôpital de la Providence] was compared to [Providence Hospital] 
+	http://www.grid.ac/institutes/grid.413927.a.. http://www.grid.ac/institutes/grid.415334.4.. 0.947368421053............................... [Hôpital de la Providence] was compared to [Providence Hospital] 
+	http://www.grid.ac/institutes/grid.415290.b.. http://www.grid.ac/institutes/grid.413927.a.. 0.947368421053............................... [Hôpital de la Providence] was compared to [Providence Hospital] 
+	http://www.grid.ac/institutes/grid.413927.a.. http://www.grid.ac/institutes/grid.415290.b.. 0.947368421053............................... [Hôpital de la Providence] was compared to [Providence Hospital] 
+	http://www.grid.ac/institutes/grid.415295.e.. http://www.grid.ac/institutes/grid.415334.4.. 1............................................ [Providence Hospital] was compared to [Providence Hospital] 
+	http://www.grid.ac/institutes/grid.415334.4.. http://www.grid.ac/institutes/grid.415295.e.. 1............................................ [Providence Hospital] was compared to [Providence Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.415290.b.. -83.20536.................................... 
+	http://www.grid.ac/institutes/grid.415290.b.. 42.457863.................................... 
+	http://www.grid.ac/institutes/grid.415290.b.. Providence Hospital.......................... 
+	http://www.grid.ac/institutes/grid.415295.e.. -88.19889.................................... 
+	http://www.grid.ac/institutes/grid.415295.e.. 30.679167.................................... 
+	http://www.grid.ac/institutes/grid.415295.e.. https://www.providencehospital.org/.......... 
+	http://www.grid.ac/institutes/grid.415295.e.. Providence Hospital.......................... 
+	http://www.grid.ac/institutes/grid.415334.4.. -76.99149.................................... 
+	http://www.grid.ac/institutes/grid.415334.4.. 38.943867.................................... 
+	http://www.grid.ac/institutes/grid.415334.4.. http://www.provhosp.org/..................... 
+	http://www.grid.ac/institutes/grid.415334.4.. Providence Hospital.......................... 
+	http://www.grid.ac/institutes/grid.413927.a.. 6.938906..................................... 
+	http://www.grid.ac/institutes/grid.413927.a.. 46.995224.................................... 
+	http://www.grid.ac/institutes/grid.413927.a.. http://www.hopital-providence.ch/fr.......... 
+	http://www.grid.ac/institutes/grid.413927.a.. Hôpital de la Providence.................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.415295.e', '1:grid.415290.b'), ('2:grid.415295.e', '4:grid.413927.a'), ('3:grid.415334.4', '1:grid.415290.b'), ('3:grid.415334.4', '2:grid.415295.e'), ('3:grid.415334.4', '4:grid.413927.a'), ('4:grid.413927.a', '1:grid.415290.b')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

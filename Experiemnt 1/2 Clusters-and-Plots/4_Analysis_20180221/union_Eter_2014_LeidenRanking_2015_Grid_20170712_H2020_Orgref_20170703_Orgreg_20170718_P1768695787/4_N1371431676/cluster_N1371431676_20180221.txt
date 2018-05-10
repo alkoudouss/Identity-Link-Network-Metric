@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 752 
+NAME    N1371431676
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/15540445>
+	<http://risis.eu/leidenRanking_2015/resource/16060>
+	<http://www.grid.ac/institutes/grid.8658.3>
+	<http://www.grid.ac/institutes/grid.453000.2>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/15540445.. http://www.grid.ac/institutes/grid.8658.3.......... 1.................................................. [China Meteorological Administration] was compared to [China Meteorological Administration] 
+	http://www.grid.ac/institutes/grid.8658.3.......... http://risis.eu/orgref_20170703/resource/15540445.. 1.................................................. [China Meteorological Administration] was compared to [China Meteorological Administration] 
+	http://risis.eu/leidenRanking_2015/resource/16060.. http://www.grid.ac/institutes/grid.8658.3.......... 1.................................................. [China Meteorological Administration] was compared to [China Meteorological Administration] 
+	http://www.grid.ac/institutes/grid.8658.3.......... http://risis.eu/leidenRanking_2015/resource/16060.. 1.................................................. [China Meteorological Administration] was compared to [China Meteorological Administration] 
+	http://risis.eu/leidenRanking_2015/resource/16060.. http://www.grid.ac/institutes/grid.453000.2........ 0.885714285714..................................... [Korea Meteorological Administration] was compared to [China Meteorological Administration] 
+	http://www.grid.ac/institutes/grid.453000.2........ http://risis.eu/leidenRanking_2015/resource/16060.. 0.885714285714..................................... [Korea Meteorological Administration] was compared to [China Meteorological Administration] 
+	http://risis.eu/orgref_20170703/resource/15540445.. http://risis.eu/leidenRanking_2015/resource/16060.. 1.................................................. [China Meteorological Administration] was compared to [China Meteorological Administration] 
+	http://risis.eu/leidenRanking_2015/resource/16060.. http://risis.eu/orgref_20170703/resource/15540445.. 1.................................................. [China Meteorological Administration] was compared to [China Meteorological Administration] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/15540445.. http://en.wikipedia.org/wiki?curid=15540445........ 
+	http://risis.eu/orgref_20170703/resource/15540445.. http://www.wikidata.org/wiki/Q1063933.............. 
+	http://risis.eu/orgref_20170703/resource/15540445.. http://www.cma.gov.cn.............................. 
+	http://risis.eu/orgref_20170703/resource/15540445.. China Meteorological Administration................ 
+	http://risis.eu/leidenRanking_2015/resource/16060.. China Meteorological Administration................ 
+	http://www.grid.ac/institutes/grid.8658.3.......... 116.32806.......................................... 
+	http://www.grid.ac/institutes/grid.8658.3.......... 39.9475............................................ 
+	http://www.grid.ac/institutes/grid.8658.3.......... http://www.cma.gov.cn/en2014/...................... 
+	http://www.grid.ac/institutes/grid.8658.3.......... Central Military Commission Meteorological Bureau.. 
+	http://www.grid.ac/institutes/grid.8658.3.......... China Meteorological Administration................ 
+	http://www.grid.ac/institutes/grid.453000.2........ 126.91704.......................................... 
+	http://www.grid.ac/institutes/grid.453000.2........ 37.49371........................................... 
+	http://www.grid.ac/institutes/grid.453000.2........ http://web.kma.go.kr/eng/index.jsp................. 
+	http://www.grid.ac/institutes/grid.453000.2........ Korea Meteorological Administration................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:15540445', '3:grid.8658.3'), ('2:16060', '1:15540445'), ('3:grid.8658.3', '2:16060'), ('4:grid.453000.2', '2:16060')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

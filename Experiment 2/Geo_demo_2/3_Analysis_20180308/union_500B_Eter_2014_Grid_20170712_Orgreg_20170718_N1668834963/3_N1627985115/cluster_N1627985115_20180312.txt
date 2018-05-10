@@ -1,0 +1,57 @@
+SIZE    3   
+CLUSTER 577 
+NAME    N1627985115
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.477296.9>
+	<http://risis.eu/orgreg_20170718/resource/RO0031>
+	<http://www.grid.ac/institutes/grid.10414.30>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.477296.9...... http://risis.eu/orgreg_20170718/resource/RO0031.. 1................................................ Near each other by at most 500 meter(s).......... 
+	http://risis.eu/orgreg_20170718/resource/RO0031.. http://www.grid.ac/institutes/grid.10414.30...... 1................................................ Near each other by at most 500 meter(s).......... 
+	http://risis.eu/orgreg_20170718/resource/RO0031.. http://www.grid.ac/institutes/grid.477296.9...... 1................................................ Near each other by at most 500 meter(s).......... 
+	http://www.grid.ac/institutes/grid.10414.30...... http://risis.eu/orgreg_20170718/resource/RO0031.. 1................................................ Near each other by at most 500 meter(s).......... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.477296.9...... 24.583115........................................ 
+	http://www.grid.ac/institutes/grid.477296.9...... 46.55899......................................... 
+	http://www.grid.ac/institutes/grid.477296.9...... http://www.spitalmures.ro/....................... 
+	http://www.grid.ac/institutes/grid.477296.9...... SCJU Târgu Mureş............................... 
+	http://www.grid.ac/institutes/grid.477296.9...... Spitalul Clinic Judetean de Urgenta Târgu Mureş 
+	http://risis.eu/orgreg_20170718/resource/RO0031.. 24.582569........................................ 
+	http://risis.eu/orgreg_20170718/resource/RO0031.. 46.554863........................................ 
+	http://risis.eu/orgreg_20170718/resource/RO0031.. www.umftgm.ro.................................... 
+	http://risis.eu/orgreg_20170718/resource/RO0031.. University of Medicine and Pharmacy of Targu Mures 
+	http://www.grid.ac/institutes/grid.10414.30...... 24.582289........................................ 
+	http://www.grid.ac/institutes/grid.10414.30...... 46.55478......................................... 
+	http://www.grid.ac/institutes/grid.10414.30...... https://www.umftgm.ro/en/home.html............... 
+	http://www.grid.ac/institutes/grid.10414.30...... UMF Tîrgu Mureș................................ 
+	http://www.grid.ac/institutes/grid.10414.30...... Universitatea de Medicină și Farmacie din Tîrgu Mureș 
+	http://www.grid.ac/institutes/grid.10414.30...... University of Medicine and Pharmacy of Târgu Mureş 
+
+NETWORK ANALYSIS
+	NETWORK [('N678718716-RO0031', 'N1627985115-grid.10414.30'), ('N678718716-RO0031', 'P1499854552-grid.477296.9')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 12412 
+NAME    N1887195211
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/31926871>
+	<http://risis.eu/orgref_20170703/resource/31927266>
+	<http://risis.eu/orgref_20170703/resource/32033925>
+	<http://risis.eu/orgref_20170703/resource/31927018>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/31926871.. http://risis.eu/orgref_20170703/resource/31927266.. 0.816326530612..................................... [Eastern Michigan University College of Arts and Sciences] was compared to [Eastern Michigan University College of Business] 
+	http://risis.eu/orgref_20170703/resource/31927266.. http://risis.eu/orgref_20170703/resource/31926871.. 0.816326530612..................................... [Eastern Michigan University College of Arts and Sciences] was compared to [Eastern Michigan University College of Business] 
+	http://risis.eu/orgref_20170703/resource/31927266.. http://risis.eu/orgref_20170703/resource/32033925.. 0.822222222222..................................... [Eastern Michigan University College of Business] was compared to [Eastern Michigan University College of Education] 
+	http://risis.eu/orgref_20170703/resource/32033925.. http://risis.eu/orgref_20170703/resource/31927266.. 0.822222222222..................................... [Eastern Michigan University College of Business] was compared to [Eastern Michigan University College of Education] 
+	http://risis.eu/orgref_20170703/resource/31927266.. http://risis.eu/orgref_20170703/resource/31927018.. 0.804347826087..................................... [Eastern Michigan University College of Technology] was compared to [Eastern Michigan University College of Business] 
+	http://risis.eu/orgref_20170703/resource/31927018.. http://risis.eu/orgref_20170703/resource/31927266.. 0.804347826087..................................... [Eastern Michigan University College of Technology] was compared to [Eastern Michigan University College of Business] 
+	http://risis.eu/orgref_20170703/resource/32033925.. http://risis.eu/orgref_20170703/resource/31927018.. 0.804347826087..................................... [Eastern Michigan University College of Technology] was compared to [Eastern Michigan University College of Education] 
+	http://risis.eu/orgref_20170703/resource/31927018.. http://risis.eu/orgref_20170703/resource/32033925.. 0.804347826087..................................... [Eastern Michigan University College of Technology] was compared to [Eastern Michigan University College of Education] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/31926871.. http://en.wikipedia.org/wiki?curid=31926871........ 
+	http://risis.eu/orgref_20170703/resource/31926871.. http://www.wikidata.org/wiki/Q5330303.............. 
+	http://risis.eu/orgref_20170703/resource/31926871.. http://www.emich.edu/cas........................... 
+	http://risis.eu/orgref_20170703/resource/31926871.. Eastern Michigan University College of Arts and Sciences 
+	http://risis.eu/orgref_20170703/resource/31927266.. http://en.wikipedia.org/wiki?curid=31927266........ 
+	http://risis.eu/orgref_20170703/resource/31927266.. http://www.wikidata.org/wiki/Q5330302.............. 
+	http://risis.eu/orgref_20170703/resource/31927266.. http://www.cob.emich.edu........................... 
+	http://risis.eu/orgref_20170703/resource/31927266.. Eastern Michigan University College of Business.... 
+	http://risis.eu/orgref_20170703/resource/32033925.. http://en.wikipedia.org/wiki?curid=32033925........ 
+	http://risis.eu/orgref_20170703/resource/32033925.. http://www.wikidata.org/wiki/Q5330304.............. 
+	http://risis.eu/orgref_20170703/resource/32033925.. http://www.emich.edu/coe........................... 
+	http://risis.eu/orgref_20170703/resource/32033925.. Eastern Michigan University College of Education... 
+	http://risis.eu/orgref_20170703/resource/31927018.. http://en.wikipedia.org/wiki?curid=31927018........ 
+	http://risis.eu/orgref_20170703/resource/31927018.. http://www.wikidata.org/wiki/Q5330306.............. 
+	http://risis.eu/orgref_20170703/resource/31927018.. http://www.emich.edu/cot........................... 
+	http://risis.eu/orgref_20170703/resource/31927018.. Eastern Michigan University College of Technology.. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:31927266', '1:31926871'), ('2:31927266', '4:31927018'), ('3:32033925', '2:31927266'), ('4:31927018', '3:32033925')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

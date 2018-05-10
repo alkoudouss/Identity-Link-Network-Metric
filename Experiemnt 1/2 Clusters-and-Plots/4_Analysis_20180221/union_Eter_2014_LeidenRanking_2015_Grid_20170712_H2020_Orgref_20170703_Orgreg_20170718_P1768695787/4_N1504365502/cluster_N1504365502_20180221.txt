@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 13014 
+NAME    N1504365502
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.24956.3c>
+	<http://risis.eu/eter_2014/resource/TR0129>
+	<http://risis.eu/orgref_20170703/resource/2761444>
+	<http://risis.eu/cordisH2020/resource/participant_997830077>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.24956.3c................. http://risis.eu/orgref_20170703/resource/2761444............ 1........................................................... [Istanbul Bilgi University] was compared to [Istanbul Bilgi University] 
+	http://risis.eu/orgref_20170703/resource/2761444............ http://www.grid.ac/institutes/grid.24956.3c................. 1........................................................... [Istanbul Bilgi University] was compared to [Istanbul Bilgi University] 
+	http://www.grid.ac/institutes/grid.24956.3c................. http://risis.eu/eter_2014/resource/TR0129................... 0.888888888889.............................................. [Istanbul Bilgi University] was compared to [ISTANBUL BILGI ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0129................... http://www.grid.ac/institutes/grid.24956.3c................. 0.888888888889.............................................. [Istanbul Bilgi University] was compared to [ISTANBUL BILGI ÜNIVERSITESI] 
+	http://www.grid.ac/institutes/grid.24956.3c................. http://risis.eu/cordisH2020/resource/participant_997830077.. 0.888888888889.............................................. [Istanbul Bilgi University] was compared to [ISTANBUL BILGI UNIVERSITESI] 
+	http://risis.eu/cordisH2020/resource/participant_997830077.. http://www.grid.ac/institutes/grid.24956.3c................. 0.888888888889.............................................. [Istanbul Bilgi University] was compared to [ISTANBUL BILGI UNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0129................... http://risis.eu/orgref_20170703/resource/2761444............ 0.888888888889.............................................. [Istanbul Bilgi University] was compared to [ISTANBUL BILGI ÜNIVERSITESI] 
+	http://risis.eu/orgref_20170703/resource/2761444............ http://risis.eu/eter_2014/resource/TR0129................... 0.888888888889.............................................. [Istanbul Bilgi University] was compared to [ISTANBUL BILGI ÜNIVERSITESI] 
+	http://risis.eu/orgref_20170703/resource/2761444............ http://risis.eu/cordisH2020/resource/participant_997830077.. 0.888888888889.............................................. [Istanbul Bilgi University] was compared to [ISTANBUL BILGI UNIVERSITESI] 
+	http://risis.eu/cordisH2020/resource/participant_997830077.. http://risis.eu/orgref_20170703/resource/2761444............ 0.888888888889.............................................. [Istanbul Bilgi University] was compared to [ISTANBUL BILGI UNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0129................... http://risis.eu/cordisH2020/resource/participant_997830077.. 1........................................................... [ISTANBUL BILGI UNIVERSITESI] was compared to [ISTANBUL BILGI ÜNIVERSITESI] 
+	http://risis.eu/cordisH2020/resource/participant_997830077.. http://risis.eu/eter_2014/resource/TR0129................... 1........................................................... [ISTANBUL BILGI UNIVERSITESI] was compared to [ISTANBUL BILGI ÜNIVERSITESI] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.24956.3c................. 28.974262................................................... 
+	http://www.grid.ac/institutes/grid.24956.3c................. 41.040035................................................... 
+	http://www.grid.ac/institutes/grid.24956.3c................. http://www.bilgi.edu.tr/en/................................. 
+	http://www.grid.ac/institutes/grid.24956.3c................. İstanbul Bilgi Üniversitesi............................... 
+	http://www.grid.ac/institutes/grid.24956.3c................. Istanbul Bilgi University................................... 
+	http://risis.eu/eter_2014/resource/TR0129................... 41,09098.................................................... 
+	http://risis.eu/eter_2014/resource/TR0129................... 28,947042................................................... 
+	http://risis.eu/eter_2014/resource/TR0129................... http://www.bilgi.edu.tr/.................................... 
+	http://risis.eu/eter_2014/resource/TR0129................... a........................................................... 
+	http://risis.eu/eter_2014/resource/TR0129................... Istanbul Bilgi University................................... 
+	http://risis.eu/eter_2014/resource/TR0129................... ISTANBUL BILGI ÜNIVERSITESI................................ 
+	http://risis.eu/orgref_20170703/resource/2761444............ http://en.wikipedia.org/wiki?curid=2761444.................. 
+	http://risis.eu/orgref_20170703/resource/2761444............ http://www.wikidata.org/wiki/Q344262........................ 
+	http://risis.eu/orgref_20170703/resource/2761444............ http://www.bilgi.edu.tr..................................... 
+	http://risis.eu/orgref_20170703/resource/2761444............ Istanbul Bilgi University................................... 
+	http://risis.eu/cordisH2020/resource/participant_997830077.. http://risis.eu/cordisH2020/resource/www.bilgi.edu.tr....... 
+	http://risis.eu/cordisH2020/resource/participant_997830077.. ISTANBUL BILGI UNIVERSITESI................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:TR0129', '1:grid.24956.3c'), ('2:TR0129', '4:participant_997830077'), ('3:2761444', '1:grid.24956.3c'), ('3:2761444', '2:TR0129'), ('4:participant_997830077', '1:grid.24956.3c'), ('4:participant_997830077', '3:2761444')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

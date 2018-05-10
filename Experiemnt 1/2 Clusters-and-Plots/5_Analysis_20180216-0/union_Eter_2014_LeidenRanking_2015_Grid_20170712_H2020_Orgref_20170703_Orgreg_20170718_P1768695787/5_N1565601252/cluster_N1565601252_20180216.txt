@@ -1,0 +1,69 @@
+SIZE    5   
+CLUSTER 110 
+NAME    N1565601252
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.423009.c>
+	<http://risis.eu/orgref_20170703/resource/15987733>
+	<http://www.grid.ac/institutes/grid.451752.0>
+	<http://www.grid.ac/institutes/grid.421973.a>
+	<http://www.grid.ac/institutes/grid.437281.b>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.423009.c........ http://risis.eu/orgref_20170703/resource/15987733.. 1.................................................. [Biosearch Technologies (United States)] was compared to [Biosearch Technologies] 
+	http://risis.eu/orgref_20170703/resource/15987733.. http://www.grid.ac/institutes/grid.423009.c........ 1.................................................. [Biosearch Technologies (United States)] was compared to [Biosearch Technologies] 
+	http://www.grid.ac/institutes/grid.423009.c........ http://www.grid.ac/institutes/grid.421973.a........ 0.863636363636..................................... [Search Technologies (United States)] was compared to [Biosearch Technologies (United States)] 
+	http://www.grid.ac/institutes/grid.421973.a........ http://www.grid.ac/institutes/grid.423009.c........ 0.863636363636..................................... [Search Technologies (United States)] was compared to [Biosearch Technologies (United States)] 
+	http://www.grid.ac/institutes/grid.421973.a........ http://www.grid.ac/institutes/grid.437281.b........ 0.894736842105..................................... [Search Technologies (United States)] was compared to [Reach Technologies (Canada)] 
+	http://www.grid.ac/institutes/grid.437281.b........ http://www.grid.ac/institutes/grid.421973.a........ 0.894736842105..................................... [Search Technologies (United States)] was compared to [Reach Technologies (Canada)] 
+	http://www.grid.ac/institutes/grid.423009.c........ http://www.grid.ac/institutes/grid.451752.0........ 0.863636363636..................................... [Biosearch Technologies (United States)] was compared to [Bioservo Technologies (Sweden)] 
+	http://www.grid.ac/institutes/grid.451752.0........ http://www.grid.ac/institutes/grid.423009.c........ 0.863636363636..................................... [Biosearch Technologies (United States)] was compared to [Bioservo Technologies (Sweden)] 
+	http://risis.eu/orgref_20170703/resource/15987733.. http://www.grid.ac/institutes/grid.421973.a........ 0.863636363636..................................... [Search Technologies (United States)] was compared to [Biosearch Technologies] 
+	http://www.grid.ac/institutes/grid.421973.a........ http://risis.eu/orgref_20170703/resource/15987733.. 0.863636363636..................................... [Search Technologies (United States)] was compared to [Biosearch Technologies] 
+	http://risis.eu/orgref_20170703/resource/15987733.. http://www.grid.ac/institutes/grid.451752.0........ 0.863636363636..................................... [Bioservo Technologies (Sweden)] was compared to [Biosearch Technologies] 
+	http://www.grid.ac/institutes/grid.451752.0........ http://risis.eu/orgref_20170703/resource/15987733.. 0.863636363636..................................... [Bioservo Technologies (Sweden)] was compared to [Biosearch Technologies] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.423009.c........ -122.59197......................................... 
+	http://www.grid.ac/institutes/grid.423009.c........ 38.229088.......................................... 
+	http://www.grid.ac/institutes/grid.423009.c........ https://www.biosearchtech.com/..................... 
+	http://www.grid.ac/institutes/grid.423009.c........ Biosearch Technologies (United States)............. 
+	http://risis.eu/orgref_20170703/resource/15987733.. http://en.wikipedia.org/wiki?curid=15987733........ 
+	http://risis.eu/orgref_20170703/resource/15987733.. http://www.wikidata.org/wiki/Q4915271.............. 
+	http://risis.eu/orgref_20170703/resource/15987733.. http://www.biosearchtech.com....................... 
+	http://risis.eu/orgref_20170703/resource/15987733.. Biosearch Technologies............................. 
+	http://www.grid.ac/institutes/grid.451752.0........ 17.945063.......................................... 
+	http://www.grid.ac/institutes/grid.451752.0........ 59.40554........................................... 
+	http://www.grid.ac/institutes/grid.451752.0........ http://bioservo.com/en/............................ 
+	http://www.grid.ac/institutes/grid.451752.0........ Bioservo Technologies (Sweden)..................... 
+	http://www.grid.ac/institutes/grid.421973.a........ Search Technologies (United States)................ 
+	http://www.grid.ac/institutes/grid.437281.b........ -123.335846........................................ 
+	http://www.grid.ac/institutes/grid.437281.b........ 48.44363........................................... 
+	http://www.grid.ac/institutes/grid.437281.b........ http://www.reachtest.com/.......................... 
+	http://www.grid.ac/institutes/grid.437281.b........ Reach Technologies (Canada)........................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.423009.c', '4:grid.421973.a'), ('2:15987733', '1:grid.423009.c'), ('2:15987733', '3:grid.451752.0'), ('2:15987733', '4:grid.421973.a'), ('3:grid.451752.0', '1:grid.423009.c'), ('5:grid.437281.b', '4:grid.421973.a')]
+	MAX DISTANCE:                   : 0.6
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 1.7
+	AVERAGE NODE CONNECTIVITY RATIO : 0.425
+	BRIDGES                         : 1
+	CLOSURE                         : 0.6
+	DIAMETER                        : 3
+	QUALITY                         : 0.439
+	QUALITY USED                    : 0.484
+	SUMMARY 1: BRIDGE 0.25 CLOSURE 0.4 DIAMETER 0.667 QUALITY 0.439 QUALITY USED 0.484
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.4 DIAMETER 0.667 QUALITY 0.439 QUALITY USED 0.484

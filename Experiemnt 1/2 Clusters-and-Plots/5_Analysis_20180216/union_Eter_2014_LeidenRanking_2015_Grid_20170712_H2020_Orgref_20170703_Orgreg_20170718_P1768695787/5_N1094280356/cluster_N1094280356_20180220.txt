@@ -1,0 +1,72 @@
+SIZE    5   
+CLUSTER 11185 
+NAME    N1094280356
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.201894.6>
+	<http://risis.eu/leidenRanking_2015/resource/15863>
+	<http://risis.eu/orgref_20170703/resource/1805151>
+	<http://www.grid.ac/institutes/grid.425890.2>
+	<http://www.grid.ac/institutes/grid.454225.0>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.201894.6........ http://risis.eu/orgref_20170703/resource/1805151... 1.................................................. [Southwest Research Institute] was compared to [Southwest Research Institute] 
+	http://risis.eu/orgref_20170703/resource/1805151... http://www.grid.ac/institutes/grid.201894.6........ 1.................................................. [Southwest Research Institute] was compared to [Southwest Research Institute] 
+	http://www.grid.ac/institutes/grid.201894.6........ http://risis.eu/leidenRanking_2015/resource/15863.. 1.................................................. [Southwest Research Institute] was compared to [Southwest Research Institute] 
+	http://risis.eu/leidenRanking_2015/resource/15863.. http://www.grid.ac/institutes/grid.201894.6........ 1.................................................. [Southwest Research Institute] was compared to [Southwest Research Institute] 
+	http://risis.eu/leidenRanking_2015/resource/15863.. http://risis.eu/orgref_20170703/resource/1805151... 1.................................................. [Southwest Research Institute] was compared to [Southwest Research Institute] 
+	http://risis.eu/orgref_20170703/resource/1805151... http://risis.eu/leidenRanking_2015/resource/15863.. 1.................................................. [Southwest Research Institute] was compared to [Southwest Research Institute] 
+	http://www.grid.ac/institutes/grid.201894.6........ http://www.grid.ac/institutes/grid.454225.0........ 0.892857142857..................................... [Southwest Research Institute] was compared to [Southern Research Institute] 
+	http://www.grid.ac/institutes/grid.454225.0........ http://www.grid.ac/institutes/grid.201894.6........ 0.892857142857..................................... [Southwest Research Institute] was compared to [Southern Research Institute] 
+	http://www.grid.ac/institutes/grid.425890.2........ http://www.grid.ac/institutes/grid.454225.0........ 0.925925925926..................................... [Northern Research Institute] was compared to [Southern Research Institute] 
+	http://www.grid.ac/institutes/grid.454225.0........ http://www.grid.ac/institutes/grid.425890.2........ 0.925925925926..................................... [Northern Research Institute] was compared to [Southern Research Institute] 
+	http://risis.eu/orgref_20170703/resource/1805151... http://www.grid.ac/institutes/grid.454225.0........ 0.892857142857..................................... [Southern Research Institute] was compared to [Southwest Research Institute] 
+	http://www.grid.ac/institutes/grid.454225.0........ http://risis.eu/orgref_20170703/resource/1805151... 0.892857142857..................................... [Southern Research Institute] was compared to [Southwest Research Institute] 
+	http://risis.eu/leidenRanking_2015/resource/15863.. http://www.grid.ac/institutes/grid.454225.0........ 0.892857142857..................................... [Southern Research Institute] was compared to [Southwest Research Institute] 
+	http://www.grid.ac/institutes/grid.454225.0........ http://risis.eu/leidenRanking_2015/resource/15863.. 0.892857142857..................................... [Southern Research Institute] was compared to [Southwest Research Institute] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.201894.6........ -98.56111.......................................... 
+	http://www.grid.ac/institutes/grid.201894.6........ 29.45534........................................... 
+	http://www.grid.ac/institutes/grid.201894.6........ http://www.swri.org/............................... 
+	http://www.grid.ac/institutes/grid.201894.6........ Southwest Research Institute....................... 
+	http://risis.eu/leidenRanking_2015/resource/15863.. Southwest Research Institute....................... 
+	http://risis.eu/orgref_20170703/resource/1805151... http://en.wikipedia.org/wiki?curid=1805151......... 
+	http://risis.eu/orgref_20170703/resource/1805151... http://www.wikidata.org/wiki/Q1509357.............. 
+	http://risis.eu/orgref_20170703/resource/1805151... http://www.swri.org................................ 
+	http://risis.eu/orgref_20170703/resource/1805151... Southwest Research Institute....................... 
+	http://www.grid.ac/institutes/grid.425890.2........ 18.987734.......................................... 
+	http://www.grid.ac/institutes/grid.425890.2........ 69.68167........................................... 
+	http://www.grid.ac/institutes/grid.425890.2........ http://norut.no/en................................. 
+	http://www.grid.ac/institutes/grid.425890.2........ Norut.............................................. 
+	http://www.grid.ac/institutes/grid.425890.2........ Northern Research Institute........................ 
+	http://www.grid.ac/institutes/grid.454225.0........ -78.84941.......................................... 
+	http://www.grid.ac/institutes/grid.454225.0........ 36.10068........................................... 
+	http://www.grid.ac/institutes/grid.454225.0........ http://www.southernresearch.org/................... 
+	http://www.grid.ac/institutes/grid.454225.0........ Southern Research Institute........................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:15863', '1:grid.201894.6'), ('2:15863', '5:grid.454225.0'), ('3:1805151', '1:grid.201894.6'), ('3:1805151', '2:15863'), ('3:1805151', '5:grid.454225.0'), ('5:grid.454225.0', '1:grid.201894.6'), ('5:grid.454225.0', '4:grid.425890.2')]
+	MAX DISTANCE:                   : 0.7
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 2.2
+	AVERAGE NODE CONNECTIVITY RATIO : 0.55
+	BRIDGES                         : 1
+	CLOSURE                         : 0.7
+	DIAMETER                        : 2
+	QUALITY                         : 0.294
+	QUALITY USED                    : 0.357
+	SUMMARY 1: BRIDGE 0.25 CLOSURE 0.3 DIAMETER 0.333 QUALITY 0.294 QUALITY USED 0.357
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.3 DIAMETER 0.385 QUALITY 0.294 QUALITY USED 0.357

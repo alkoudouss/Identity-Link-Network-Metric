@@ -1,0 +1,57 @@
+SIZE    3   
+CLUSTER 53 
+NAME    N868793224
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/DE0054>
+	<http://www.grid.ac/institutes/grid.432326.2>
+	<http://www.grid.ac/institutes/grid.480413.a>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/DE0054.... http://www.grid.ac/institutes/grid.432326.2.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/DE0054.... http://www.grid.ac/institutes/grid.480413.a.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.432326.2.. http://risis.eu/eter_2014/resource/DE0054.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.480413.a.. http://risis.eu/eter_2014/resource/DE0054.... 1............................................ Near each other by at most 500 meter(s)...... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/DE0054.... 50,072672.................................... 
+	http://risis.eu/eter_2014/resource/DE0054.... 8,257024..................................... 
+	http://risis.eu/eter_2014/resource/DE0054.... www.ebs.edu.................................. 
+	http://risis.eu/eter_2014/resource/DE0054.... a............................................ 
+	http://risis.eu/eter_2014/resource/DE0054.... EBS University of Business and Law........... 
+	http://risis.eu/eter_2014/resource/DE0054.... EBS Universität für Wirtschaft und Recht (Priv.) 
+	http://www.grid.ac/institutes/grid.432326.2.. 8.252288..................................... 
+	http://www.grid.ac/institutes/grid.432326.2.. 50.071033.................................... 
+	http://www.grid.ac/institutes/grid.432326.2.. https://www.destatis.de/EN/Homepage.html..... 
+	http://www.grid.ac/institutes/grid.432326.2.. Destatis..................................... 
+	http://www.grid.ac/institutes/grid.432326.2.. Statistisches Bundesamt...................... 
+	http://www.grid.ac/institutes/grid.480413.a.. 8.255121..................................... 
+	http://www.grid.ac/institutes/grid.480413.a.. 50.072826.................................... 
+	http://www.grid.ac/institutes/grid.480413.a.. http://www.kiongroup.com/en/main/homepage.jsp 
+	http://www.grid.ac/institutes/grid.480413.a.. Kion Group (Germany)......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('N868793224-DE0054', 'P1811705008-grid.432326.2'), ('N868793224-DE0054', 'P1427533407-grid.480413.a')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

@@ -1,0 +1,75 @@
+SIZE    6   
+CLUSTER 10417 
+NAME    N1435750200
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.420500.3>
+	<http://www.grid.ac/institutes/grid.432984.0>
+	<http://www.grid.ac/institutes/grid.433244.6>
+	<http://www.grid.ac/institutes/grid.480922.5>
+	<http://www.grid.ac/institutes/grid.63387.39>
+	<http://www.grid.ac/institutes/grid.479162.f>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.420500.3.. http://www.grid.ac/institutes/grid.432984.0.. 0.888888888889............................... [CDM Group (United States)] was compared to [CRM Group (Belgium)] 
+	http://www.grid.ac/institutes/grid.432984.0.. http://www.grid.ac/institutes/grid.420500.3.. 0.888888888889............................... [CDM Group (United States)] was compared to [CRM Group (Belgium)] 
+	http://www.grid.ac/institutes/grid.420500.3.. http://www.grid.ac/institutes/grid.433244.6.. 0.888888888889............................... [CDM Group (United States)] was compared to [CIM Group (Serbia)] 
+	http://www.grid.ac/institutes/grid.433244.6.. http://www.grid.ac/institutes/grid.420500.3.. 0.888888888889............................... [CDM Group (United States)] was compared to [CIM Group (Serbia)] 
+	http://www.grid.ac/institutes/grid.432984.0.. http://www.grid.ac/institutes/grid.433244.6.. 0.888888888889............................... [CRM Group (Belgium)] was compared to [CIM Group (Serbia)] 
+	http://www.grid.ac/institutes/grid.433244.6.. http://www.grid.ac/institutes/grid.432984.0.. 0.888888888889............................... [CRM Group (Belgium)] was compared to [CIM Group (Serbia)] 
+	http://www.grid.ac/institutes/grid.432984.0.. http://www.grid.ac/institutes/grid.63387.39.. 0.888888888889............................... [CRM Group (Belgium)] was compared to [CRE Group (United States)] 
+	http://www.grid.ac/institutes/grid.63387.39.. http://www.grid.ac/institutes/grid.432984.0.. 0.888888888889............................... [CRM Group (Belgium)] was compared to [CRE Group (United States)] 
+	http://www.grid.ac/institutes/grid.433244.6.. http://www.grid.ac/institutes/grid.479162.f.. 0.888888888889............................... [CIM Group (Serbia)] was compared to [AIM Group (Tanzania)] 
+	http://www.grid.ac/institutes/grid.479162.f.. http://www.grid.ac/institutes/grid.433244.6.. 0.888888888889............................... [CIM Group (Serbia)] was compared to [AIM Group (Tanzania)] 
+	http://www.grid.ac/institutes/grid.480922.5.. http://www.grid.ac/institutes/grid.63387.39.. 0.888888888889............................... [CME Group (United States)] was compared to [CRE Group (United States)] 
+	http://www.grid.ac/institutes/grid.63387.39.. http://www.grid.ac/institutes/grid.480922.5.. 0.888888888889............................... [CME Group (United States)] was compared to [CRE Group (United States)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 22 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.420500.3.. -77.09493.................................... 
+	http://www.grid.ac/institutes/grid.420500.3.. 38.98509..................................... 
+	http://www.grid.ac/institutes/grid.420500.3.. http://www.cdmgroup.com/..................... 
+	http://www.grid.ac/institutes/grid.420500.3.. CDM Group (United States).................... 
+	http://www.grid.ac/institutes/grid.432984.0.. 3.705424..................................... 
+	http://www.grid.ac/institutes/grid.432984.0.. 51.010094.................................... 
+	http://www.grid.ac/institutes/grid.432984.0.. http://www.crmgroup.be/...................... 
+	http://www.grid.ac/institutes/grid.432984.0.. CRM Group (Belgium).......................... 
+	http://www.grid.ac/institutes/grid.433244.6.. CIM Group (Serbia)........................... 
+	http://www.grid.ac/institutes/grid.480922.5.. -87.64144.................................... 
+	http://www.grid.ac/institutes/grid.480922.5.. 41.883343.................................... 
+	http://www.grid.ac/institutes/grid.480922.5.. http://www.cmegroup.com/..................... 
+	http://www.grid.ac/institutes/grid.480922.5.. Chicago Mercantile Exchange & Chicago Board of Trade 
+	http://www.grid.ac/institutes/grid.480922.5.. CME Group (United States).................... 
+	http://www.grid.ac/institutes/grid.63387.39.. -122.4049.................................... 
+	http://www.grid.ac/institutes/grid.63387.39.. 37.797234.................................... 
+	http://www.grid.ac/institutes/grid.63387.39.. http://www.thecregroup.com/home.html......... 
+	http://www.grid.ac/institutes/grid.63387.39.. CRE Group (United States).................... 
+	http://www.grid.ac/institutes/grid.479162.f.. 39.27942..................................... 
+	http://www.grid.ac/institutes/grid.479162.f.. -6.744262.................................... 
+	http://www.grid.ac/institutes/grid.479162.f.. https://aimgroup.co.tz/...................... 
+	http://www.grid.ac/institutes/grid.479162.f.. AIM Group (Tanzania)......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.432984.0', '1:grid.420500.3'), ('3:grid.433244.6', '1:grid.420500.3'), ('3:grid.433244.6', '2:grid.432984.0'), ('5:grid.63387.39', '2:grid.432984.0'), ('5:grid.63387.39', '4:grid.480922.5'), ('6:grid.479162.f', '3:grid.433244.6')]
+	MAX DISTANCE:                   : 0.4
+	MAXIMUM POSSIBLE CONNECTIVITY   : 5
+	AVERAGE NODE CONNECTIVITY       : 1.2
+	AVERAGE NODE CONNECTIVITY RATIO : 0.24
+	BRIDGES                         : 3
+	CLOSURE                         : 0.4
+	DIAMETER                        : 4
+	QUALITY                         : 0.65
+	QUALITY USED                    : 0.667
+	SUMMARY 1: BRIDGE 0.6 CLOSURE 0.6 DIAMETER 0.75 QUALITY 0.65 QUALITY USED 0.667
+	SUMMARY 2: BRIDGE 0.652 CLOSURE 0.6 DIAMETER 0.75 QUALITY 0.65 QUALITY USED 0.667

@@ -1,0 +1,55 @@
+SIZE    3   
+CLUSTER 462 
+NAME    N492356070
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.451260.4>
+	<http://www.grid.ac/institutes/grid.433739.9>
+	<http://risis.eu/eter_2014/resource/DE0445>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.451260.4.. http://risis.eu/eter_2014/resource/DE0445.... 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://www.grid.ac/institutes/grid.433739.9.. http://risis.eu/eter_2014/resource/DE0445.... 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/DE0445.... http://www.grid.ac/institutes/grid.433739.9.. 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/DE0445.... http://www.grid.ac/institutes/grid.451260.4.. 1............................................ Near each other by at most 2000 meter(s)..... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.451260.4.. 13.812851.................................... 
+	http://www.grid.ac/institutes/grid.451260.4.. 51.010612.................................... 
+	http://www.grid.ac/institutes/grid.451260.4.. http://www.qpoint-composite.de/Unternehmen/42l1/ 
+	http://www.grid.ac/institutes/grid.451260.4.. Qpoint Composite (Germany)................... 
+	http://www.grid.ac/institutes/grid.433739.9.. 13.794937.................................... 
+	http://www.grid.ac/institutes/grid.433739.9.. 51.01632..................................... 
+	http://www.grid.ac/institutes/grid.433739.9.. https://www.dresden-elektronik.de/........... 
+	http://www.grid.ac/institutes/grid.433739.9.. Dresden Elektronik Ingenieurtechnik (Germany) 
+	http://risis.eu/eter_2014/resource/DE0445.... 51,017748.................................... 
+	http://risis.eu/eter_2014/resource/DE0445.... 13,805223.................................... 
+	http://risis.eu/eter_2014/resource/DE0445.... http://www.fh-dresden.eu/.................... 
+	http://risis.eu/eter_2014/resource/DE0445.... a............................................ 
+	http://risis.eu/eter_2014/resource/DE0445.... Fachhochschule Dresden (Priv. FH)............ 
+
+NETWORK ANALYSIS
+	NETWORK [('P360896606-DE0445', 'P1111001220-grid.433739.9'), ('P360896606-DE0445', 'N492356070-grid.451260.4')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

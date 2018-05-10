@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 9493 
+NAME    N1412238824
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.424167.2>
+	<http://risis.eu/orgref_20170703/resource/5847987>
+	<http://www.grid.ac/institutes/grid.418561.f>
+	<http://www.grid.ac/institutes/grid.452331.2>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.418561.f....... http://www.grid.ac/institutes/grid.452331.2....... 1................................................. [BioMérieux (United States)] was compared to [Biomerieux (India)] 
+	http://www.grid.ac/institutes/grid.452331.2....... http://www.grid.ac/institutes/grid.418561.f....... 1................................................. [BioMérieux (United States)] was compared to [Biomerieux (India)] 
+	http://www.grid.ac/institutes/grid.424167.2....... http://www.grid.ac/institutes/grid.418561.f....... 1................................................. [BioMérieux (United States)] was compared to [BioMérieux (France)] 
+	http://www.grid.ac/institutes/grid.418561.f....... http://www.grid.ac/institutes/grid.424167.2....... 1................................................. [BioMérieux (United States)] was compared to [BioMérieux (France)] 
+	http://www.grid.ac/institutes/grid.424167.2....... http://www.grid.ac/institutes/grid.452331.2....... 1................................................. [BioMérieux (France)] was compared to [Biomerieux (India)] 
+	http://www.grid.ac/institutes/grid.452331.2....... http://www.grid.ac/institutes/grid.424167.2....... 1................................................. [BioMérieux (France)] was compared to [Biomerieux (India)] 
+	http://risis.eu/orgref_20170703/resource/5847987.. http://www.grid.ac/institutes/grid.418561.f....... 1................................................. [BioMérieux (United States)] was compared to [BioMérieux] 
+	http://www.grid.ac/institutes/grid.418561.f....... http://risis.eu/orgref_20170703/resource/5847987.. 1................................................. [BioMérieux (United States)] was compared to [BioMérieux] 
+	http://www.grid.ac/institutes/grid.424167.2....... http://risis.eu/orgref_20170703/resource/5847987.. 1................................................. [BioMérieux (France)] was compared to [BioMérieux] 
+	http://risis.eu/orgref_20170703/resource/5847987.. http://www.grid.ac/institutes/grid.424167.2....... 1................................................. [BioMérieux (France)] was compared to [BioMérieux] 
+	http://risis.eu/orgref_20170703/resource/5847987.. http://www.grid.ac/institutes/grid.452331.2....... 1................................................. [Biomerieux (India)] was compared to [BioMérieux] 
+	http://www.grid.ac/institutes/grid.452331.2....... http://risis.eu/orgref_20170703/resource/5847987.. 1................................................. [Biomerieux (India)] was compared to [BioMérieux] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.424167.2....... 4.709391.......................................... 
+	http://www.grid.ac/institutes/grid.424167.2....... 45.780045......................................... 
+	http://www.grid.ac/institutes/grid.424167.2....... http://www.biomerieux.com/en/..................... 
+	http://www.grid.ac/institutes/grid.424167.2....... BioMérieux (France).............................. 
+	http://risis.eu/orgref_20170703/resource/5847987.. http://en.wikipedia.org/wiki?curid=5847987........ 
+	http://risis.eu/orgref_20170703/resource/5847987.. http://www.wikidata.org/wiki/Q2904021............. 
+	http://risis.eu/orgref_20170703/resource/5847987.. http://www.biomerieux.com......................... 
+	http://risis.eu/orgref_20170703/resource/5847987.. BioMérieux....................................... 
+	http://www.grid.ac/institutes/grid.418561.f....... -78.82644......................................... 
+	http://www.grid.ac/institutes/grid.418561.f....... 36.098446......................................... 
+	http://www.grid.ac/institutes/grid.418561.f....... http://www.biomerieux-usa.com/.................... 
+	http://www.grid.ac/institutes/grid.418561.f....... BioMérieux (United States)....................... 
+	http://www.grid.ac/institutes/grid.452331.2....... 77.283394......................................... 
+	http://www.grid.ac/institutes/grid.452331.2....... 28.517267......................................... 
+	http://www.grid.ac/institutes/grid.452331.2....... http://www.biomerieuxindia.in/servlet/srt/bio/india/home 
+	http://www.grid.ac/institutes/grid.452331.2....... Biomerieux (India)................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:5847987', '1:grid.424167.2'), ('2:5847987', '3:grid.418561.f'), ('3:grid.418561.f', '1:grid.424167.2'), ('4:grid.452331.2', '1:grid.424167.2'), ('4:grid.452331.2', '2:5847987'), ('4:grid.452331.2', '3:grid.418561.f')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

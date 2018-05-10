@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 18059 
+NAME    N1903128948
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/10066296>
+	<http://risis.eu/leidenRanking_2015/resource/739>
+	<http://www.grid.ac/institutes/grid.17242.32>
+	<http://risis.eu/eter_2014/resource/TR0090>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/10066296.. http://www.grid.ac/institutes/grid.17242.32........ 1.................................................. [Selçuk University] was compared to [Selçuk University] 
+	http://www.grid.ac/institutes/grid.17242.32........ http://risis.eu/orgref_20170703/resource/10066296.. 1.................................................. [Selçuk University] was compared to [Selçuk University] 
+	http://risis.eu/leidenRanking_2015/resource/739.... http://www.grid.ac/institutes/grid.17242.32........ 0.941176470588..................................... [Selçuk University] was compared to [Sel�uk University] 
+	http://www.grid.ac/institutes/grid.17242.32........ http://risis.eu/leidenRanking_2015/resource/739.... 0.941176470588..................................... [Selçuk University] was compared to [Sel�uk University] 
+	http://risis.eu/orgref_20170703/resource/10066296.. http://risis.eu/leidenRanking_2015/resource/739.... 0.941176470588..................................... [Selçuk University] was compared to [Sel�uk University] 
+	http://risis.eu/leidenRanking_2015/resource/739.... http://risis.eu/orgref_20170703/resource/10066296.. 0.941176470588..................................... [Selçuk University] was compared to [Sel�uk University] 
+	http://risis.eu/orgref_20170703/resource/10066296.. http://risis.eu/eter_2014/resource/TR0090.......... 0.842105263158..................................... [Selçuk University] was compared to [SELÇUK ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0090.......... http://risis.eu/orgref_20170703/resource/10066296.. 0.842105263158..................................... [Selçuk University] was compared to [SELÇUK ÜNIVERSITESI] 
+	http://www.grid.ac/institutes/grid.17242.32........ http://risis.eu/eter_2014/resource/TR0090.......... 0.842105263158..................................... [Selçuk University] was compared to [SELÇUK ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0090.......... http://www.grid.ac/institutes/grid.17242.32........ 0.842105263158..................................... [Selçuk University] was compared to [SELÇUK ÜNIVERSITESI] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/10066296.. http://en.wikipedia.org/wiki?curid=10066296........ 
+	http://risis.eu/orgref_20170703/resource/10066296.. http://www.wikidata.org/wiki/Q1627814.............. 
+	http://risis.eu/orgref_20170703/resource/10066296.. http://www.selcuk.edu.tr........................... 
+	http://risis.eu/orgref_20170703/resource/10066296.. Selçuk University................................. 
+	http://risis.eu/leidenRanking_2015/resource/739.... Sel�uk University................................ 
+	http://www.grid.ac/institutes/grid.17242.32........ 32.510704.......................................... 
+	http://www.grid.ac/institutes/grid.17242.32........ 38.023193.......................................... 
+	http://www.grid.ac/institutes/grid.17242.32........ http://www.selcuk.edu.tr/.......................... 
+	http://www.grid.ac/institutes/grid.17242.32........ Selçuk Üniversitesi.............................. 
+	http://www.grid.ac/institutes/grid.17242.32........ Selçuk University................................. 
+	http://risis.eu/eter_2014/resource/TR0090.......... 37,873041.......................................... 
+	http://risis.eu/eter_2014/resource/TR0090.......... 32,616441.......................................... 
+	http://risis.eu/eter_2014/resource/TR0090.......... http://www.selcuk.edu.tr/.......................... 
+	http://risis.eu/eter_2014/resource/TR0090.......... a.................................................. 
+	http://risis.eu/eter_2014/resource/TR0090.......... Selcuk University.................................. 
+	http://risis.eu/eter_2014/resource/TR0090.......... SELÇUK ÜNIVERSITESI.............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:10066296', '3:grid.17242.32'), ('2:739', '1:10066296'), ('3:grid.17242.32', '2:739'), ('4:TR0090', '1:10066296'), ('4:TR0090', '3:grid.17242.32')]
+	MAX DISTANCE:                   : 0.833
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 2.16666666667
+	AVERAGE NODE CONNECTIVITY RATIO : 0.722222222222
+	BRIDGES                         : 0
+	CLOSURE                         : 0.833
+	DIAMETER                        : 2
+	QUALITY                         : 0.223
+	QUALITY USED                    : 0.223
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223

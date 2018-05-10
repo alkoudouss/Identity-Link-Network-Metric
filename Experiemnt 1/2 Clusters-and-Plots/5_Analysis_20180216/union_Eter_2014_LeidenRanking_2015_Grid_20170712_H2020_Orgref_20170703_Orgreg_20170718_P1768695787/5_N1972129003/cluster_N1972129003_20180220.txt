@@ -1,0 +1,67 @@
+SIZE    5   
+CLUSTER 5690 
+NAME    N1972129003
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.442283.b>
+	<http://risis.eu/orgreg_20170718/resource/DE0421>
+	<http://risis.eu/orgref_20170703/resource/25080777>
+	<http://risis.eu/orgref_20170703/resource/32473972>
+	<http://www.grid.ac/institutes/grid.466217.0>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.442283.b........ http://risis.eu/orgref_20170703/resource/32473972.. 1.................................................. [University College of Management Studies] was compared to [University College of Management Studies] 
+	http://risis.eu/orgref_20170703/resource/32473972.. http://www.grid.ac/institutes/grid.442283.b........ 1.................................................. [University College of Management Studies] was compared to [University College of Management Studies] 
+	http://www.grid.ac/institutes/grid.442283.b........ http://risis.eu/orgref_20170703/resource/25080777.. 0.837837837838..................................... [University College of Management Studies] was compared to [University School of Management Studies] 
+	http://risis.eu/orgref_20170703/resource/25080777.. http://www.grid.ac/institutes/grid.442283.b........ 0.837837837838..................................... [University College of Management Studies] was compared to [University School of Management Studies] 
+	http://risis.eu/orgref_20170703/resource/25080777.. http://risis.eu/orgref_20170703/resource/32473972.. 0.837837837838..................................... [University School of Management Studies] was compared to [University College of Management Studies] 
+	http://risis.eu/orgref_20170703/resource/32473972.. http://risis.eu/orgref_20170703/resource/25080777.. 0.837837837838..................................... [University School of Management Studies] was compared to [University College of Management Studies] 
+	http://www.grid.ac/institutes/grid.442283.b........ http://risis.eu/orgreg_20170718/resource/DE0421.... 0.837837837838..................................... [University College of Management Studies] was compared to [University of Applied Management Studies] 
+	http://risis.eu/orgreg_20170718/resource/DE0421.... http://www.grid.ac/institutes/grid.442283.b........ 0.837837837838..................................... [University College of Management Studies] was compared to [University of Applied Management Studies] 
+	http://risis.eu/orgreg_20170718/resource/DE0421.... http://www.grid.ac/institutes/grid.466217.0........ 1.................................................. [University of Applied Management Studies] was compared to [University of Applied Management Studies] 
+	http://www.grid.ac/institutes/grid.466217.0........ http://risis.eu/orgreg_20170718/resource/DE0421.... 1.................................................. [University of Applied Management Studies] was compared to [University of Applied Management Studies] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.442283.b........ University College of Management Studies........... 
+	http://risis.eu/orgreg_20170718/resource/DE0421.... 49.467756.......................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0421.... 8.506636........................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0421.... http://www.hdwm.eu/hochschule.html................. 
+	http://risis.eu/orgreg_20170718/resource/DE0421.... University of Applied Management Studies........... 
+	http://risis.eu/orgref_20170703/resource/25080777.. http://en.wikipedia.org/wiki?curid=25080777........ 
+	http://risis.eu/orgref_20170703/resource/25080777.. http://www.wikidata.org/wiki/Q7894924.............. 
+	http://risis.eu/orgref_20170703/resource/25080777.. http://usms.co.in.................................. 
+	http://risis.eu/orgref_20170703/resource/25080777.. University School of Management Studies............ 
+	http://risis.eu/orgref_20170703/resource/32473972.. http://en.wikipedia.org/wiki?curid=32473972........ 
+	http://risis.eu/orgref_20170703/resource/32473972.. http://www.wikidata.org/wiki/Q2495782.............. 
+	http://risis.eu/orgref_20170703/resource/32473972.. http://www.ucoms.edu.gh............................ 
+	http://risis.eu/orgref_20170703/resource/32473972.. University College of Management Studies........... 
+	http://www.grid.ac/institutes/grid.466217.0........ 8.484753........................................... 
+	http://www.grid.ac/institutes/grid.466217.0........ 49.469433.......................................... 
+	http://www.grid.ac/institutes/grid.466217.0........ http://www.hdwm.de/en.............................. 
+	http://www.grid.ac/institutes/grid.466217.0........ University of Applied Management Studies........... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:DE0421', '1:grid.442283.b'), ('3:25080777', '1:grid.442283.b'), ('4:32473972', '1:grid.442283.b'), ('4:32473972', '3:25080777'), ('5:grid.466217.0', '2:DE0421')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 1.3
+	AVERAGE NODE CONNECTIVITY RATIO : 0.325
+	BRIDGES                         : 2
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.556
+	QUALITY USED                    : 0.574
+	SUMMARY 1: BRIDGE 0.5 CLOSURE 0.5 DIAMETER 0.667 QUALITY 0.556 QUALITY USED 0.574
+	SUMMARY 2: BRIDGE 0.556 CLOSURE 0.5 DIAMETER 0.667 QUALITY 0.556 QUALITY USED 0.574

@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 11580 
+NAME    N1749292378
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/CY0018>
+	<http://risis.eu/orgreg_20170718/resource/CZ0064>
+	<http://risis.eu/orgref_20170703/resource/38703170>
+	<http://www.grid.ac/institutes/grid.445460.7>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/38703170.. http://www.grid.ac/institutes/grid.445460.7........ 0.8125............................................. [College of Tourism and Hotel Management] was compared to [School of Hotel and Tourism Management] 
+	http://www.grid.ac/institutes/grid.445460.7........ http://risis.eu/orgref_20170703/resource/38703170.. 0.8125............................................. [College of Tourism and Hotel Management] was compared to [School of Hotel and Tourism Management] 
+	http://risis.eu/orgreg_20170718/resource/CY0018.... http://risis.eu/orgreg_20170718/resource/CZ0064.... 1.................................................. [College of Tourism and Hotel Management] was compared to [College of Tourism and Hotel Management] 
+	http://risis.eu/orgreg_20170718/resource/CZ0064.... http://risis.eu/orgreg_20170718/resource/CY0018.... 1.................................................. [College of Tourism and Hotel Management] was compared to [College of Tourism and Hotel Management] 
+	http://risis.eu/orgreg_20170718/resource/CY0018.... http://risis.eu/orgref_20170703/resource/38703170.. 0.8125............................................. [School of Hotel and Tourism Management] was compared to [College of Tourism and Hotel Management] 
+	http://risis.eu/orgref_20170703/resource/38703170.. http://risis.eu/orgreg_20170718/resource/CY0018.... 0.8125............................................. [School of Hotel and Tourism Management] was compared to [College of Tourism and Hotel Management] 
+	http://risis.eu/orgreg_20170718/resource/CZ0064.... http://risis.eu/orgref_20170703/resource/38703170.. 0.8125............................................. [School of Hotel and Tourism Management] was compared to [College of Tourism and Hotel Management] 
+	http://risis.eu/orgref_20170703/resource/38703170.. http://risis.eu/orgreg_20170718/resource/CZ0064.... 0.8125............................................. [School of Hotel and Tourism Management] was compared to [College of Tourism and Hotel Management] 
+	http://risis.eu/orgreg_20170718/resource/CY0018.... http://www.grid.ac/institutes/grid.445460.7........ 1.................................................. [College of Tourism and Hotel Management] was compared to [College of Tourism and Hotel Management] 
+	http://www.grid.ac/institutes/grid.445460.7........ http://risis.eu/orgreg_20170718/resource/CY0018.... 1.................................................. [College of Tourism and Hotel Management] was compared to [College of Tourism and Hotel Management] 
+	http://risis.eu/orgreg_20170718/resource/CZ0064.... http://www.grid.ac/institutes/grid.445460.7........ 1.................................................. [College of Tourism and Hotel Management] was compared to [College of Tourism and Hotel Management] 
+	http://www.grid.ac/institutes/grid.445460.7........ http://risis.eu/orgreg_20170718/resource/CZ0064.... 1.................................................. [College of Tourism and Hotel Management] was compared to [College of Tourism and Hotel Management] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgreg_20170718/resource/CY0018.... 33.361474.......................................... 
+	http://risis.eu/orgreg_20170718/resource/CY0018.... 35.170767.......................................... 
+	http://risis.eu/orgreg_20170718/resource/CY0018.... http://www.cothm.ac.cy............................. 
+	http://risis.eu/orgreg_20170718/resource/CY0018.... College of Tourism and Hotel Management............ 
+	http://risis.eu/orgreg_20170718/resource/CZ0064.... 16.573969.......................................... 
+	http://risis.eu/orgreg_20170718/resource/CZ0064.... 49.167445.......................................... 
+	http://risis.eu/orgreg_20170718/resource/CZ0064.... http://www.hotskolabrno.cz/........................ 
+	http://risis.eu/orgreg_20170718/resource/CZ0064.... College of Tourism and Hotel Management............ 
+	http://risis.eu/orgref_20170703/resource/38703170.. http://en.wikipedia.org/wiki?curid=38703170........ 
+	http://risis.eu/orgref_20170703/resource/38703170.. http://www.wikidata.org/wiki/Q7432471.............. 
+	http://risis.eu/orgref_20170703/resource/38703170.. http://hotelschool.shtm.polyu.edu.hk............... 
+	http://risis.eu/orgref_20170703/resource/38703170.. School of Hotel and Tourism Management............. 
+	http://www.grid.ac/institutes/grid.445460.7........ College of Tourism and Hotel Management............ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:CZ0064', '1:CY0018'), ('2:CZ0064', '3:38703170'), ('2:CZ0064', '4:grid.445460.7'), ('3:38703170', '1:CY0018'), ('3:38703170', '4:grid.445460.7'), ('4:grid.445460.7', '1:CY0018')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

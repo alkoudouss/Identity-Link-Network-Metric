@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 10269 
+NAME    N1095957784
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.443717.2>
+	<http://risis.eu/orgref_20170703/resource/16901262>
+	<http://www.grid.ac/institutes/grid.264041.5>
+	<http://risis.eu/orgref_20170703/resource/910779>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.443717.2........ http://www.grid.ac/institutes/grid.264041.5........ 1.................................................. [St. Catherine University] was compared to [St. Catherine University] 
+	http://www.grid.ac/institutes/grid.264041.5........ http://www.grid.ac/institutes/grid.443717.2........ 1.................................................. [St. Catherine University] was compared to [St. Catherine University] 
+	http://risis.eu/orgref_20170703/resource/16901262.. http://www.grid.ac/institutes/grid.264041.5........ 1.................................................. [St. Catherine University] was compared to [St. Catherine University (Japan)] 
+	http://www.grid.ac/institutes/grid.264041.5........ http://risis.eu/orgref_20170703/resource/16901262.. 1.................................................. [St. Catherine University] was compared to [St. Catherine University (Japan)] 
+	http://www.grid.ac/institutes/grid.264041.5........ http://risis.eu/orgref_20170703/resource/910779.... 1.................................................. [St. Catherine University] was compared to [St. Catherine University] 
+	http://risis.eu/orgref_20170703/resource/910779.... http://www.grid.ac/institutes/grid.264041.5........ 1.................................................. [St. Catherine University] was compared to [St. Catherine University] 
+	http://www.grid.ac/institutes/grid.443717.2........ http://risis.eu/orgref_20170703/resource/16901262.. 1.................................................. [St. Catherine University] was compared to [St. Catherine University (Japan)] 
+	http://risis.eu/orgref_20170703/resource/16901262.. http://www.grid.ac/institutes/grid.443717.2........ 1.................................................. [St. Catherine University] was compared to [St. Catherine University (Japan)] 
+	http://www.grid.ac/institutes/grid.443717.2........ http://risis.eu/orgref_20170703/resource/910779.... 1.................................................. [St. Catherine University] was compared to [St. Catherine University] 
+	http://risis.eu/orgref_20170703/resource/910779.... http://www.grid.ac/institutes/grid.443717.2........ 1.................................................. [St. Catherine University] was compared to [St. Catherine University] 
+	http://risis.eu/orgref_20170703/resource/16901262.. http://risis.eu/orgref_20170703/resource/910779.... 1.................................................. [St. Catherine University (Japan)] was compared to [St. Catherine University] 
+	http://risis.eu/orgref_20170703/resource/910779.... http://risis.eu/orgref_20170703/resource/16901262.. 1.................................................. [St. Catherine University (Japan)] was compared to [St. Catherine University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.443717.2........ St. Catherine University........................... 
+	http://risis.eu/orgref_20170703/resource/16901262.. http://en.wikipedia.org/wiki?curid=16901262........ 
+	http://risis.eu/orgref_20170703/resource/16901262.. http://www.wikidata.org/wiki/Q16937072............. 
+	http://risis.eu/orgref_20170703/resource/16901262.. http://www.catherine.ac.jp/english................. 
+	http://risis.eu/orgref_20170703/resource/16901262.. St. Catherine University (Japan)................... 
+	http://www.grid.ac/institutes/grid.264041.5........ -93.18216.......................................... 
+	http://www.grid.ac/institutes/grid.264041.5........ 44.924572.......................................... 
+	http://www.grid.ac/institutes/grid.264041.5........ http://www.stkate.edu/............................. 
+	http://www.grid.ac/institutes/grid.264041.5........ College of St. Catherine........................... 
+	http://www.grid.ac/institutes/grid.264041.5........ St. Kate's......................................... 
+	http://www.grid.ac/institutes/grid.264041.5........ St. Catherine University........................... 
+	http://risis.eu/orgref_20170703/resource/910779.... http://en.wikipedia.org/wiki?curid=910779.......... 
+	http://risis.eu/orgref_20170703/resource/910779.... http://www.wikidata.org/wiki/Q3444427.............. 
+	http://risis.eu/orgref_20170703/resource/910779.... http://www.stkate.edu.............................. 
+	http://risis.eu/orgref_20170703/resource/910779.... St. Catherine University........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.443717.2', '3:grid.264041.5'), ('2:16901262', '1:grid.443717.2'), ('2:16901262', '3:grid.264041.5'), ('4:910779', '1:grid.443717.2'), ('4:910779', '2:16901262'), ('4:910779', '3:grid.264041.5')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,69 @@
+SIZE    4   
+CLUSTER 4057 
+NAME    N553850053
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/IE0015>
+	<http://risis.eu/eter_2014/resource/IE0015>
+	<http://risis.eu/orgref_20170703/resource/529285>
+	<http://www.grid.ac/institutes/grid.435416.1>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/529285.. http://www.grid.ac/institutes/grid.435416.1...... 1................................................ [Institute of Technology Carlow] was compared to [Institute of Technology, Carlow] 
+	http://www.grid.ac/institutes/grid.435416.1...... http://risis.eu/orgref_20170703/resource/529285.. 1................................................ [Institute of Technology Carlow] was compared to [Institute of Technology, Carlow] 
+	http://risis.eu/eter_2014/resource/IE0015........ http://www.grid.ac/institutes/grid.435416.1...... 1................................................ [Institute of Technology Carlow] was compared to [Institute of Technology, Carlow] 
+	http://www.grid.ac/institutes/grid.435416.1...... http://risis.eu/eter_2014/resource/IE0015........ 1................................................ [Institute of Technology Carlow] was compared to [Institute of Technology, Carlow] 
+	http://risis.eu/eter_2014/resource/IE0015........ http://risis.eu/orgref_20170703/resource/529285.. 1................................................ [Institute of Technology, Carlow] was compared to [Institute of Technology, Carlow] 
+	http://risis.eu/orgref_20170703/resource/529285.. http://risis.eu/eter_2014/resource/IE0015........ 1................................................ [Institute of Technology, Carlow] was compared to [Institute of Technology, Carlow] 
+	http://risis.eu/orgreg_20170718/resource/IE0015.. http://risis.eu/eter_2014/resource/IE0015........ 0.964285714286................................... [Institute of Technology	 Carlow] was compared to [Institute of Technology, Carlow] 
+	http://risis.eu/eter_2014/resource/IE0015........ http://risis.eu/orgreg_20170718/resource/IE0015.. 0.964285714286................................... [Institute of Technology	 Carlow] was compared to [Institute of Technology, Carlow] 
+	http://risis.eu/orgreg_20170718/resource/IE0015.. http://risis.eu/orgref_20170703/resource/529285.. 0.964285714286................................... [Institute of Technology, Carlow] was compared to [Institute of Technology	 Carlow] 
+	http://risis.eu/orgref_20170703/resource/529285.. http://risis.eu/orgreg_20170718/resource/IE0015.. 0.964285714286................................... [Institute of Technology, Carlow] was compared to [Institute of Technology	 Carlow] 
+	http://risis.eu/orgreg_20170718/resource/IE0015.. http://www.grid.ac/institutes/grid.435416.1...... 0.964285714286................................... [Institute of Technology Carlow] was compared to [Institute of Technology	 Carlow] 
+	http://www.grid.ac/institutes/grid.435416.1...... http://risis.eu/orgreg_20170718/resource/IE0015.. 0.964285714286................................... [Institute of Technology Carlow] was compared to [Institute of Technology	 Carlow] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/IE0015.. -6.9341359....................................... 
+	http://risis.eu/orgreg_20170718/resource/IE0015.. 52.8365072....................................... 
+	http://risis.eu/orgreg_20170718/resource/IE0015.. http://www.itcarlow.ie........................... 
+	http://risis.eu/orgreg_20170718/resource/IE0015.. Institute of Technology	 Carlow.................. 
+	http://risis.eu/eter_2014/resource/IE0015........ 52,8365072....................................... 
+	http://risis.eu/eter_2014/resource/IE0015........ -6,9341359....................................... 
+	http://risis.eu/eter_2014/resource/IE0015........ http://www.itcarlow.ie........................... 
+	http://risis.eu/eter_2014/resource/IE0015........ a................................................ 
+	http://risis.eu/eter_2014/resource/IE0015........ Institute of Technology, Carlow.................. 
+	http://risis.eu/orgref_20170703/resource/529285.. http://en.wikipedia.org/wiki?curid=529285........ 
+	http://risis.eu/orgref_20170703/resource/529285.. http://www.wikidata.org/wiki/Q6040911............ 
+	http://risis.eu/orgref_20170703/resource/529285.. http://www.itcarlow.ie........................... 
+	http://risis.eu/orgref_20170703/resource/529285.. Institute of Technology, Carlow.................. 
+	http://www.grid.ac/institutes/grid.435416.1...... -6.936149........................................ 
+	http://www.grid.ac/institutes/grid.435416.1...... 52.827362........................................ 
+	http://www.grid.ac/institutes/grid.435416.1...... http://www.itcarlow.ie/.......................... 
+	http://www.grid.ac/institutes/grid.435416.1...... IT Carlow........................................ 
+	http://www.grid.ac/institutes/grid.435416.1...... Institute of Technology Carlow................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:IE0015', '3:529285'), ('1:IE0015', '4:grid.435416.1'), ('2:IE0015', '1:IE0015'), ('3:529285', '2:IE0015'), ('3:529285', '4:grid.435416.1'), ('4:grid.435416.1', '2:IE0015')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 4281 
+NAME    N1877309018
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/GR0018>
+	<http://risis.eu/leidenRanking_2015/resource/365>
+	<http://risis.eu/orgref_20170703/resource/21466479>
+	<http://www.grid.ac/institutes/grid.9594.1>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/21466479.. http://www.grid.ac/institutes/grid.9594.1.......... 1.................................................. [University of Ioannina] was compared to [University of Ioannina] 
+	http://www.grid.ac/institutes/grid.9594.1.......... http://risis.eu/orgref_20170703/resource/21466479.. 1.................................................. [University of Ioannina] was compared to [University of Ioannina] 
+	http://risis.eu/leidenRanking_2015/resource/365.... http://www.grid.ac/institutes/grid.9594.1.......... 1.................................................. [University of Ioannina] was compared to [University of Ioannina] 
+	http://www.grid.ac/institutes/grid.9594.1.......... http://risis.eu/leidenRanking_2015/resource/365.... 1.................................................. [University of Ioannina] was compared to [University of Ioannina] 
+	http://risis.eu/leidenRanking_2015/resource/365.... http://risis.eu/orgref_20170703/resource/21466479.. 1.................................................. [University of Ioannina] was compared to [University of Ioannina] 
+	http://risis.eu/orgref_20170703/resource/21466479.. http://risis.eu/leidenRanking_2015/resource/365.... 1.................................................. [University of Ioannina] was compared to [University of Ioannina] 
+	http://risis.eu/orgreg_20170718/resource/GR0018.... http://risis.eu/leidenRanking_2015/resource/365.... 1.................................................. [UNIVERSITY OF IOANNINA] was compared to [University of Ioannina] 
+	http://risis.eu/leidenRanking_2015/resource/365.... http://risis.eu/orgreg_20170718/resource/GR0018.... 1.................................................. [UNIVERSITY OF IOANNINA] was compared to [University of Ioannina] 
+	http://risis.eu/orgreg_20170718/resource/GR0018.... http://risis.eu/orgref_20170703/resource/21466479.. 1.................................................. [University of Ioannina] was compared to [UNIVERSITY OF IOANNINA] 
+	http://risis.eu/orgref_20170703/resource/21466479.. http://risis.eu/orgreg_20170718/resource/GR0018.... 1.................................................. [University of Ioannina] was compared to [UNIVERSITY OF IOANNINA] 
+	http://risis.eu/orgreg_20170718/resource/GR0018.... http://www.grid.ac/institutes/grid.9594.1.......... 1.................................................. [University of Ioannina] was compared to [UNIVERSITY OF IOANNINA] 
+	http://www.grid.ac/institutes/grid.9594.1.......... http://risis.eu/orgreg_20170718/resource/GR0018.... 1.................................................. [University of Ioannina] was compared to [UNIVERSITY OF IOANNINA] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgreg_20170718/resource/GR0018.... http://www.uoi.gr/gr/.............................. 
+	http://risis.eu/orgreg_20170718/resource/GR0018.... UNIVERSITY OF IOANNINA............................. 
+	http://risis.eu/leidenRanking_2015/resource/365.... University of Ioannina............................. 
+	http://risis.eu/orgref_20170703/resource/21466479.. http://en.wikipedia.org/wiki?curid=21466479........ 
+	http://risis.eu/orgref_20170703/resource/21466479.. http://www.wikidata.org/wiki/Q1229924.............. 
+	http://risis.eu/orgref_20170703/resource/21466479.. http://www.uoi.gr.................................. 
+	http://risis.eu/orgref_20170703/resource/21466479.. University of Ioannina............................. 
+	http://www.grid.ac/institutes/grid.9594.1.......... 20.840834.......................................... 
+	http://www.grid.ac/institutes/grid.9594.1.......... 39.6175............................................ 
+	http://www.grid.ac/institutes/grid.9594.1.......... http://www.uoi.gr/en/.............................. 
+	http://www.grid.ac/institutes/grid.9594.1.......... Panepistimio Ioanninon............................. 
+	http://www.grid.ac/institutes/grid.9594.1.......... University of Ioannina............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:365', '1:GR0018'), ('2:365', '3:21466479'), ('2:365', '4:grid.9594.1'), ('3:21466479', '1:GR0018'), ('3:21466479', '4:grid.9594.1'), ('4:grid.9594.1', '1:GR0018')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

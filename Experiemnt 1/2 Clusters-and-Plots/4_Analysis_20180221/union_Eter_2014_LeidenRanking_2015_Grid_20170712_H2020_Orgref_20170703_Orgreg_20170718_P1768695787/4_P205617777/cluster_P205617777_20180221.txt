@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 7176 
+NAME    P205617777
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.15276.37>
+	<http://risis.eu/orgref_20170703/resource/60611>
+	<http://risis.eu/cordisH2020/resource/participant_993392036>
+	<http://risis.eu/leidenRanking_2015/resource/1214>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.15276.37................. http://risis.eu/orgref_20170703/resource/60611.............. 1........................................................... [University of Florida] was compared to [University of Florida] 
+	http://risis.eu/orgref_20170703/resource/60611.............. http://www.grid.ac/institutes/grid.15276.37................. 1........................................................... [University of Florida] was compared to [University of Florida] 
+	http://www.grid.ac/institutes/grid.15276.37................. http://risis.eu/leidenRanking_2015/resource/1214............ 1........................................................... [University of Florida] was compared to [University of Florida] 
+	http://risis.eu/leidenRanking_2015/resource/1214............ http://www.grid.ac/institutes/grid.15276.37................. 1........................................................... [University of Florida] was compared to [University of Florida] 
+	http://www.grid.ac/institutes/grid.15276.37................. http://risis.eu/cordisH2020/resource/participant_993392036.. 1........................................................... [University of Florida] was compared to [University of Florida] 
+	http://risis.eu/cordisH2020/resource/participant_993392036.. http://www.grid.ac/institutes/grid.15276.37................. 1........................................................... [University of Florida] was compared to [University of Florida] 
+	http://risis.eu/orgref_20170703/resource/60611.............. http://risis.eu/leidenRanking_2015/resource/1214............ 1........................................................... [University of Florida] was compared to [University of Florida] 
+	http://risis.eu/leidenRanking_2015/resource/1214............ http://risis.eu/orgref_20170703/resource/60611.............. 1........................................................... [University of Florida] was compared to [University of Florida] 
+	http://risis.eu/orgref_20170703/resource/60611.............. http://risis.eu/cordisH2020/resource/participant_993392036.. 1........................................................... [University of Florida] was compared to [University of Florida] 
+	http://risis.eu/cordisH2020/resource/participant_993392036.. http://risis.eu/orgref_20170703/resource/60611.............. 1........................................................... [University of Florida] was compared to [University of Florida] 
+	http://risis.eu/cordisH2020/resource/participant_993392036.. http://risis.eu/leidenRanking_2015/resource/1214............ 1........................................................... [University of Florida] was compared to [University of Florida] 
+	http://risis.eu/leidenRanking_2015/resource/1214............ http://risis.eu/cordisH2020/resource/participant_993392036.. 1........................................................... [University of Florida] was compared to [University of Florida] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.15276.37................. -82.35495................................................... 
+	http://www.grid.ac/institutes/grid.15276.37................. 29.643902................................................... 
+	http://www.grid.ac/institutes/grid.15276.37................. http://www.ufl.edu/......................................... 
+	http://www.grid.ac/institutes/grid.15276.37................. University of the State of Florida.......................... 
+	http://www.grid.ac/institutes/grid.15276.37................. University of Florida....................................... 
+	http://risis.eu/orgref_20170703/resource/60611.............. http://en.wikipedia.org/wiki?curid=60611.................... 
+	http://risis.eu/orgref_20170703/resource/60611.............. http://www.wikidata.org/wiki/Q501758........................ 
+	http://risis.eu/orgref_20170703/resource/60611.............. http://www.ufl.edu.......................................... 
+	http://risis.eu/orgref_20170703/resource/60611.............. University of Florida....................................... 
+	http://risis.eu/cordisH2020/resource/participant_993392036.. http://www.ufl.edu.......................................... 
+	http://risis.eu/cordisH2020/resource/participant_993392036.. University of Florida....................................... 
+	http://risis.eu/leidenRanking_2015/resource/1214............ University of Florida....................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:60611', '1:grid.15276.37'), ('3:participant_993392036', '1:grid.15276.37'), ('3:participant_993392036', '2:60611'), ('4:1214', '1:grid.15276.37'), ('4:1214', '2:60611'), ('4:1214', '3:participant_993392036')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

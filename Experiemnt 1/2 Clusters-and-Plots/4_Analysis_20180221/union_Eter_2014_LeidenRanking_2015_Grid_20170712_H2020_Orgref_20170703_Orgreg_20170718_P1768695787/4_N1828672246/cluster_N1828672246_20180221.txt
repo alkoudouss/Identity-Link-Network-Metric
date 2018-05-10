@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 17188 
+NAME    N1828672246
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.477961.a>
+	<http://risis.eu/orgreg_20170718/resource/IT4027>
+	<http://risis.eu/cordisH2020/resource/participant_999448716>
+	<http://www.grid.ac/institutes/grid.11492.3f>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.477961.a................. http://www.grid.ac/institutes/grid.11492.3f................. 1........................................................... [Telethon Foundation] was compared to [Telethon Foundation]. 
+	http://www.grid.ac/institutes/grid.11492.3f................. http://www.grid.ac/institutes/grid.477961.a................. 1........................................................... [Telethon Foundation] was compared to [Telethon Foundation]. 
+	http://risis.eu/orgreg_20170718/resource/IT4027............. http://risis.eu/cordisH2020/resource/participant_999448716.. 1........................................................... [Fondazione Telethon] was compared to [FONDAZIONE TELETHON]. 
+	http://risis.eu/cordisH2020/resource/participant_999448716.. http://risis.eu/orgreg_20170718/resource/IT4027............. 1........................................................... [Fondazione Telethon] was compared to [FONDAZIONE TELETHON]. 
+	http://risis.eu/cordisH2020/resource/participant_999448716.. http://www.grid.ac/institutes/grid.11492.3f................. 0.842105263158.............................................. [Telethon Foundation] was compared to [FONDAZIONE TELETHON]. 
+	http://www.grid.ac/institutes/grid.11492.3f................. http://risis.eu/cordisH2020/resource/participant_999448716.. 0.842105263158.............................................. [Telethon Foundation] was compared to [FONDAZIONE TELETHON]. 
+	http://www.grid.ac/institutes/grid.477961.a................. http://risis.eu/cordisH2020/resource/participant_999448716.. 0.842105263158.............................................. [Telethon Foundation] was compared to [FONDAZIONE TELETHON]. 
+	http://risis.eu/cordisH2020/resource/participant_999448716.. http://www.grid.ac/institutes/grid.477961.a................. 0.842105263158.............................................. [Telethon Foundation] was compared to [FONDAZIONE TELETHON]. 
+	http://risis.eu/orgreg_20170718/resource/IT4027............. http://www.grid.ac/institutes/grid.11492.3f................. 0.842105263158.............................................. [Telethon Foundation] was compared to [Fondazione Telethon]. 
+	http://www.grid.ac/institutes/grid.11492.3f................. http://risis.eu/orgreg_20170718/resource/IT4027............. 0.842105263158.............................................. [Telethon Foundation] was compared to [Fondazione Telethon]. 
+	http://www.grid.ac/institutes/grid.477961.a................. http://risis.eu/orgreg_20170718/resource/IT4027............. 0.842105263158.............................................. [Telethon Foundation] was compared to [Fondazione Telethon]. 
+	http://risis.eu/orgreg_20170718/resource/IT4027............. http://www.grid.ac/institutes/grid.477961.a................. 0.842105263158.............................................. [Telethon Foundation] was compared to [Fondazione Telethon]. 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.477961.a................. -70.69969................................................... 
+	http://www.grid.ac/institutes/grid.477961.a................. -33.456066.................................................. 
+	http://www.grid.ac/institutes/grid.477961.a................. http://www.teleton.cl/...................................... 
+	http://www.grid.ac/institutes/grid.477961.a................. Telethon Foundation......................................... 
+	http://risis.eu/orgreg_20170718/resource/IT4027............. m........................................................... 
+	http://risis.eu/orgreg_20170718/resource/IT4027............. http://www.telethon.it/..................................... 
+	http://risis.eu/orgreg_20170718/resource/IT4027............. Fondazione Telethon......................................... 
+	http://risis.eu/cordisH2020/resource/participant_999448716.. http://risis.eu/cordisH2020/resource/www.telethon.it........ 
+	http://risis.eu/cordisH2020/resource/participant_999448716.. FONDAZIONE TELETHON......................................... 
+	http://www.grid.ac/institutes/grid.11492.3f................. 12.494911................................................... 
+	http://www.grid.ac/institutes/grid.11492.3f................. 41.862446................................................... 
+	http://www.grid.ac/institutes/grid.11492.3f................. https://www.telethon.it/en.................................. 
+	http://www.grid.ac/institutes/grid.11492.3f................. Telethon Foundation......................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:IT4027', '1:grid.477961.a'), ('2:IT4027', '4:grid.11492.3f'), ('3:participant_999448716', '1:grid.477961.a'), ('3:participant_999448716', '2:IT4027'), ('3:participant_999448716', '4:grid.11492.3f'), ('4:grid.11492.3f', '1:grid.477961.a')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

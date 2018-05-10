@@ -1,0 +1,59 @@
+SIZE    4   
+CLUSTER 17570 
+NAME    N407143043
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.445897.3>
+	<http://risis.eu/orgreg_20170718/resource/LV0031>
+	<http://risis.eu/cordisH2020/resource/participant_995827900>
+	<http://risis.eu/cordisH2020/resource/participant_997334601>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.445897.3................. http://risis.eu/cordisH2020/resource/participant_995827900.. 1........................................................... [Transport and Telecommunication Institute] was compared to [Transport and Telecommunication Institute] 
+	http://risis.eu/cordisH2020/resource/participant_995827900.. http://www.grid.ac/institutes/grid.445897.3................. 1........................................................... [Transport and Telecommunication Institute] was compared to [Transport and Telecommunication Institute] 
+	http://risis.eu/cordisH2020/resource/participant_995827900.. http://risis.eu/cordisH2020/resource/participant_997334601.. 0.864864864865.............................................. [Transport and Telecommunication Institute] was compared to [INSTITUTE OF TRANSPORT AND COMMUNICATIONS] 
+	http://risis.eu/cordisH2020/resource/participant_997334601.. http://risis.eu/cordisH2020/resource/participant_995827900.. 0.864864864865.............................................. [Transport and Telecommunication Institute] was compared to [INSTITUTE OF TRANSPORT AND COMMUNICATIONS] 
+	http://risis.eu/orgreg_20170718/resource/LV0031............. http://risis.eu/cordisH2020/resource/participant_995827900.. 1........................................................... [Transport and Telecommunication Institute] was compared to [Transport and Telecommunication Institute] 
+	http://risis.eu/cordisH2020/resource/participant_995827900.. http://risis.eu/orgreg_20170718/resource/LV0031............. 1........................................................... [Transport and Telecommunication Institute] was compared to [Transport and Telecommunication Institute] 
+	http://risis.eu/orgreg_20170718/resource/LV0031............. http://risis.eu/cordisH2020/resource/participant_997334601.. 0.864864864865.............................................. [Transport and Telecommunication Institute] was compared to [INSTITUTE OF TRANSPORT AND COMMUNICATIONS] 
+	http://risis.eu/cordisH2020/resource/participant_997334601.. http://risis.eu/orgreg_20170718/resource/LV0031............. 0.864864864865.............................................. [Transport and Telecommunication Institute] was compared to [INSTITUTE OF TRANSPORT AND COMMUNICATIONS] 
+	http://www.grid.ac/institutes/grid.445897.3................. http://risis.eu/cordisH2020/resource/participant_997334601.. 0.864864864865.............................................. [Transport and Telecommunication Institute] was compared to [INSTITUTE OF TRANSPORT AND COMMUNICATIONS] 
+	http://risis.eu/cordisH2020/resource/participant_997334601.. http://www.grid.ac/institutes/grid.445897.3................. 0.864864864865.............................................. [Transport and Telecommunication Institute] was compared to [INSTITUTE OF TRANSPORT AND COMMUNICATIONS] 
+	http://www.grid.ac/institutes/grid.445897.3................. http://risis.eu/orgreg_20170718/resource/LV0031............. 1........................................................... [Transport and Telecommunication Institute] was compared to [Transport and Telecommunication Institute] 
+	http://risis.eu/orgreg_20170718/resource/LV0031............. http://www.grid.ac/institutes/grid.445897.3................. 1........................................................... [Transport and Telecommunication Institute] was compared to [Transport and Telecommunication Institute] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.445897.3................. Transport and Telecommunication Institute................... 
+	http://risis.eu/orgreg_20170718/resource/LV0031............. 24.162335................................................... 
+	http://risis.eu/orgreg_20170718/resource/LV0031............. 56.929597................................................... 
+	http://risis.eu/orgreg_20170718/resource/LV0031............. http://www.tsi.lv........................................... 
+	http://risis.eu/orgreg_20170718/resource/LV0031............. Transport and Telecommunication Institute................... 
+	http://risis.eu/cordisH2020/resource/participant_995827900.. http://risis.eu/cordisH2020/resource/www.tsi.lv............. 
+	http://risis.eu/cordisH2020/resource/participant_995827900.. Transport and Telecommunication Institute................... 
+	http://risis.eu/cordisH2020/resource/participant_997334601.. INSTITUTE OF TRANSPORT AND COMMUNICATIONS................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:LV0031', '1:grid.445897.3'), ('3:participant_995827900', '1:grid.445897.3'), ('3:participant_995827900', '2:LV0031'), ('4:participant_997334601', '1:grid.445897.3'), ('4:participant_997334601', '2:LV0031'), ('4:participant_997334601', '3:participant_995827900')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

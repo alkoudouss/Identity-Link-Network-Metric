@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 43 
+NAME    N2102145825
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/HR0031>
+	<http://risis.eu/orgreg_20170718/resource/HR0009>
+	<http://risis.eu/eter_2014/resource/HR0009>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/HR0031.. http://risis.eu/eter_2014/resource/HR0009........ 0.72............................................. [polytechnic school zagreb] was compared to [polytechnic zagreb] 
+	http://risis.eu/orgreg_20170718/resource/HR0009.. http://risis.eu/eter_2014/resource/HR0009........ 1................................................ [polytechnic zagreb] was compared to [polytechnic zagreb] 
+	http://risis.eu/eter_2014/resource/HR0009........ http://risis.eu/orgreg_20170718/resource/HR0009.. 1................................................ [polytechnic zagreb] was compared to [polytechnic zagreb] 
+	http://risis.eu/eter_2014/resource/HR0009........ http://risis.eu/orgreg_20170718/resource/HR0031.. 0.72............................................. [polytechnic school zagreb] was compared to [polytechnic zagreb] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/HR0031.. 15.970761........................................ 
+	http://risis.eu/orgreg_20170718/resource/HR0031.. 45.834846........................................ 
+	http://risis.eu/orgreg_20170718/resource/HR0031.. http://www.politehnika.hr........................ 
+	http://risis.eu/orgreg_20170718/resource/HR0031.. Polytechnic School Zagreb........................ 
+	http://risis.eu/orgreg_20170718/resource/HR0009.. 15.970761........................................ 
+	http://risis.eu/orgreg_20170718/resource/HR0009.. 45.834846........................................ 
+	http://risis.eu/orgreg_20170718/resource/HR0009.. http://www.tvz.hr................................ 
+	http://risis.eu/orgreg_20170718/resource/HR0009.. Polytechnic of Zagreb............................ 
+	http://risis.eu/eter_2014/resource/HR0009........ 45,834846........................................ 
+	http://risis.eu/eter_2014/resource/HR0009........ 15,970761........................................ 
+	http://risis.eu/eter_2014/resource/HR0009........ http://www.tvz.hr................................ 
+	http://risis.eu/eter_2014/resource/HR0009........ a................................................ 
+	http://risis.eu/eter_2014/resource/HR0009........ Polytechnic of Zagreb............................ 
+	http://risis.eu/eter_2014/resource/HR0009........ Tehnicko veleucilište u Zagrebu................. 
+
+NETWORK ANALYSIS
+	NETWORK [('N2102145825-HR0009', 'P546957134-HR0009'), ('N2102145825-HR0009', 'P1290337141-HR0031')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

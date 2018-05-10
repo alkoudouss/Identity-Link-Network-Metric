@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 13856 
+NAME    N908170906
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.468703.e>
+	<http://risis.eu/orgref_20170703/resource/6058463>
+	<http://www.grid.ac/institutes/grid.446388.5>
+	<http://risis.eu/orgref_20170703/resource/27970036>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/6058463... http://www.grid.ac/institutes/grid.446388.5........ 1.................................................. [Alpena Community College] was compared to [Alpena Community College] 
+	http://www.grid.ac/institutes/grid.446388.5........ http://risis.eu/orgref_20170703/resource/6058463... 1.................................................. [Alpena Community College] was compared to [Alpena Community College] 
+	http://www.grid.ac/institutes/grid.468703.e........ http://risis.eu/orgref_20170703/resource/27970036.. 1.................................................. [Allen Community College] was compared to [Allen Community College] 
+	http://risis.eu/orgref_20170703/resource/27970036.. http://www.grid.ac/institutes/grid.468703.e........ 1.................................................. [Allen Community College] was compared to [Allen Community College] 
+	http://risis.eu/orgref_20170703/resource/6058463... http://risis.eu/orgref_20170703/resource/27970036.. 0.916666666667..................................... [Allen Community College] was compared to [Alpena Community College] 
+	http://risis.eu/orgref_20170703/resource/27970036.. http://risis.eu/orgref_20170703/resource/6058463... 0.916666666667..................................... [Allen Community College] was compared to [Alpena Community College] 
+	http://www.grid.ac/institutes/grid.468703.e........ http://www.grid.ac/institutes/grid.446388.5........ 0.916666666667..................................... [Alpena Community College] was compared to [Allen Community College] 
+	http://www.grid.ac/institutes/grid.446388.5........ http://www.grid.ac/institutes/grid.468703.e........ 0.916666666667..................................... [Alpena Community College] was compared to [Allen Community College] 
+	http://www.grid.ac/institutes/grid.446388.5........ http://risis.eu/orgref_20170703/resource/27970036.. 0.916666666667..................................... [Alpena Community College] was compared to [Allen Community College] 
+	http://risis.eu/orgref_20170703/resource/27970036.. http://www.grid.ac/institutes/grid.446388.5........ 0.916666666667..................................... [Alpena Community College] was compared to [Allen Community College] 
+	http://www.grid.ac/institutes/grid.468703.e........ http://risis.eu/orgref_20170703/resource/6058463... 0.916666666667..................................... [Allen Community College] was compared to [Alpena Community College] 
+	http://risis.eu/orgref_20170703/resource/6058463... http://www.grid.ac/institutes/grid.468703.e........ 0.916666666667..................................... [Allen Community College] was compared to [Alpena Community College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.468703.e........ -95.399864......................................... 
+	http://www.grid.ac/institutes/grid.468703.e........ 37.9385............................................ 
+	http://www.grid.ac/institutes/grid.468703.e........ http://www.allencc.edu/............................ 
+	http://www.grid.ac/institutes/grid.468703.e........ Allen County Community College..................... 
+	http://www.grid.ac/institutes/grid.468703.e........ Allen Community College............................ 
+	http://risis.eu/orgref_20170703/resource/6058463... http://en.wikipedia.org/wiki?curid=6058463......... 
+	http://risis.eu/orgref_20170703/resource/6058463... http://www.wikidata.org/wiki/Q4734793.............. 
+	http://risis.eu/orgref_20170703/resource/6058463... http://www.alpenacc.edu............................ 
+	http://risis.eu/orgref_20170703/resource/6058463... Alpena Community College........................... 
+	http://www.grid.ac/institutes/grid.446388.5........ -83.44507.......................................... 
+	http://www.grid.ac/institutes/grid.446388.5........ 45.081646.......................................... 
+	http://www.grid.ac/institutes/grid.446388.5........ http://discover.alpenacc.edu/...................... 
+	http://www.grid.ac/institutes/grid.446388.5........ Alpena Community College........................... 
+	http://risis.eu/orgref_20170703/resource/27970036.. http://en.wikipedia.org/wiki?curid=27970036........ 
+	http://risis.eu/orgref_20170703/resource/27970036.. http://www.wikidata.org/wiki/Q4731591.............. 
+	http://risis.eu/orgref_20170703/resource/27970036.. http://www.allencc.edu............................. 
+	http://risis.eu/orgref_20170703/resource/27970036.. Allen Community College............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.468703.e', '3:grid.446388.5'), ('2:6058463', '1:grid.468703.e'), ('2:6058463', '3:grid.446388.5'), ('2:6058463', '4:27970036'), ('4:27970036', '1:grid.468703.e'), ('4:27970036', '3:grid.446388.5')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

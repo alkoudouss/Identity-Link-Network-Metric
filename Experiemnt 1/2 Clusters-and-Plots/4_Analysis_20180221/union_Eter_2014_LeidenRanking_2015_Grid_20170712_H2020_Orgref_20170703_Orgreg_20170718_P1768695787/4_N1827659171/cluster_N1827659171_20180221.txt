@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 17554 
+NAME    N1827659171
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.420735.7>
+	<http://risis.eu/orgref_20170703/resource/7882704>
+	<http://www.grid.ac/institutes/grid.443278.e>
+	<http://risis.eu/orgref_20170703/resource/4531701>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.420735.7....... http://www.grid.ac/institutes/grid.443278.e....... 0.952380952381.................................... [Holy Names University] was compared to [Holy Name University] 
+	http://www.grid.ac/institutes/grid.443278.e....... http://www.grid.ac/institutes/grid.420735.7....... 0.952380952381.................................... [Holy Names University] was compared to [Holy Name University] 
+	http://www.grid.ac/institutes/grid.420735.7....... http://risis.eu/orgref_20170703/resource/7882704.. 0.952380952381.................................... [Holy Names University] was compared to [Holy Name University] 
+	http://risis.eu/orgref_20170703/resource/7882704.. http://www.grid.ac/institutes/grid.420735.7....... 0.952380952381.................................... [Holy Names University] was compared to [Holy Name University] 
+	http://www.grid.ac/institutes/grid.420735.7....... http://risis.eu/orgref_20170703/resource/4531701.. 1................................................. [Holy Names University] was compared to [Holy Names University] 
+	http://risis.eu/orgref_20170703/resource/4531701.. http://www.grid.ac/institutes/grid.420735.7....... 1................................................. [Holy Names University] was compared to [Holy Names University] 
+	http://risis.eu/orgref_20170703/resource/7882704.. http://www.grid.ac/institutes/grid.443278.e....... 1................................................. [Holy Name University] was compared to [Holy Name University] 
+	http://www.grid.ac/institutes/grid.443278.e....... http://risis.eu/orgref_20170703/resource/7882704.. 1................................................. [Holy Name University] was compared to [Holy Name University] 
+	http://www.grid.ac/institutes/grid.443278.e....... http://risis.eu/orgref_20170703/resource/4531701.. 0.952380952381.................................... [Holy Name University] was compared to [Holy Names University] 
+	http://risis.eu/orgref_20170703/resource/4531701.. http://www.grid.ac/institutes/grid.443278.e....... 0.952380952381.................................... [Holy Name University] was compared to [Holy Names University] 
+	http://risis.eu/orgref_20170703/resource/7882704.. http://risis.eu/orgref_20170703/resource/4531701.. 0.952380952381.................................... [Holy Names University] was compared to [Holy Name University] 
+	http://risis.eu/orgref_20170703/resource/4531701.. http://risis.eu/orgref_20170703/resource/7882704.. 0.952380952381.................................... [Holy Names University] was compared to [Holy Name University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.420735.7....... -122.18715........................................ 
+	http://www.grid.ac/institutes/grid.420735.7....... 37.80202.......................................... 
+	http://www.grid.ac/institutes/grid.420735.7....... https://www.hnu.edu/.............................. 
+	http://www.grid.ac/institutes/grid.420735.7....... Holy Names University............................. 
+	http://risis.eu/orgref_20170703/resource/7882704.. http://en.wikipedia.org/wiki?curid=7882704........ 
+	http://risis.eu/orgref_20170703/resource/7882704.. http://www.wikidata.org/wiki/Q5885817............. 
+	http://risis.eu/orgref_20170703/resource/7882704.. http://www.hnu.edu.ph............................. 
+	http://risis.eu/orgref_20170703/resource/7882704.. Holy Name University.............................. 
+	http://www.grid.ac/institutes/grid.443278.e....... Holy Name University.............................. 
+	http://risis.eu/orgref_20170703/resource/4531701.. http://en.wikipedia.org/wiki?curid=4531701........ 
+	http://risis.eu/orgref_20170703/resource/4531701.. http://www.wikidata.org/wiki/Q5885852............. 
+	http://risis.eu/orgref_20170703/resource/4531701.. http://www.hnu.edu................................ 
+	http://risis.eu/orgref_20170703/resource/4531701.. Holy Names University............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:7882704', '1:grid.420735.7'), ('3:grid.443278.e', '1:grid.420735.7'), ('3:grid.443278.e', '2:7882704'), ('4:4531701', '1:grid.420735.7'), ('4:4531701', '2:7882704'), ('4:4531701', '3:grid.443278.e')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

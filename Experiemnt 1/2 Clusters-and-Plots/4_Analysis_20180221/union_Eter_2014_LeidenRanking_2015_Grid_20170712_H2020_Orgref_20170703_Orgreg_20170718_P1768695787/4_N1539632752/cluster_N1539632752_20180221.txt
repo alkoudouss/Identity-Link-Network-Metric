@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 844 
+NAME    N1539632752
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.445073.1>
+	<http://risis.eu/orgref_20170703/resource/13108776>
+	<http://risis.eu/orgref_20170703/resource/8464689>
+	<http://www.grid.ac/institutes/grid.445067.4>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.445073.1........ http://www.grid.ac/institutes/grid.445067.4........ 0.967741935484..................................... [Tainan National University of the Arts] was compared to [National Taiwan University of Arts] 
+	http://www.grid.ac/institutes/grid.445067.4........ http://www.grid.ac/institutes/grid.445073.1........ 0.967741935484..................................... [Tainan National University of the Arts] was compared to [National Taiwan University of Arts] 
+	http://risis.eu/orgref_20170703/resource/8464689... http://www.grid.ac/institutes/grid.445067.4........ 1.................................................. [Tainan National University of the Arts] was compared to [Tainan National University of the Arts] 
+	http://www.grid.ac/institutes/grid.445067.4........ http://risis.eu/orgref_20170703/resource/8464689... 1.................................................. [Tainan National University of the Arts] was compared to [Tainan National University of the Arts] 
+	http://risis.eu/orgref_20170703/resource/13108776.. http://www.grid.ac/institutes/grid.445067.4........ 0.967741935484..................................... [Tainan National University of the Arts] was compared to [National Taiwan University of Arts] 
+	http://www.grid.ac/institutes/grid.445067.4........ http://risis.eu/orgref_20170703/resource/13108776.. 0.967741935484..................................... [Tainan National University of the Arts] was compared to [National Taiwan University of Arts] 
+	http://www.grid.ac/institutes/grid.445073.1........ http://risis.eu/orgref_20170703/resource/8464689... 0.967741935484..................................... [National Taiwan University of Arts] was compared to [Tainan National University of the Arts] 
+	http://risis.eu/orgref_20170703/resource/8464689... http://www.grid.ac/institutes/grid.445073.1........ 0.967741935484..................................... [National Taiwan University of Arts] was compared to [Tainan National University of the Arts] 
+	http://www.grid.ac/institutes/grid.445073.1........ http://risis.eu/orgref_20170703/resource/13108776.. 1.................................................. [National Taiwan University of Arts] was compared to [National Taiwan University of Arts] 
+	http://risis.eu/orgref_20170703/resource/13108776.. http://www.grid.ac/institutes/grid.445073.1........ 1.................................................. [National Taiwan University of Arts] was compared to [National Taiwan University of Arts] 
+	http://risis.eu/orgref_20170703/resource/13108776.. http://risis.eu/orgref_20170703/resource/8464689... 0.967741935484..................................... [National Taiwan University of Arts] was compared to [Tainan National University of the Arts] 
+	http://risis.eu/orgref_20170703/resource/8464689... http://risis.eu/orgref_20170703/resource/13108776.. 0.967741935484..................................... [National Taiwan University of Arts] was compared to [Tainan National University of the Arts] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.445073.1........ National Taiwan University of Arts................. 
+	http://risis.eu/orgref_20170703/resource/13108776.. http://en.wikipedia.org/wiki?curid=13108776........ 
+	http://risis.eu/orgref_20170703/resource/13108776.. http://www.wikidata.org/wiki/Q6978838.............. 
+	http://risis.eu/orgref_20170703/resource/13108776.. http://m.ntua.edu.tw/ntuaen/index.htm.............. 
+	http://risis.eu/orgref_20170703/resource/13108776.. National Taiwan University of Arts................. 
+	http://risis.eu/orgref_20170703/resource/8464689... http://en.wikipedia.org/wiki?curid=8464689......... 
+	http://risis.eu/orgref_20170703/resource/8464689... http://www.wikidata.org/wiki/Q7676198.............. 
+	http://risis.eu/orgref_20170703/resource/8464689... http://www.tnnua.edu.tw/home.php?lang=en........... 
+	http://risis.eu/orgref_20170703/resource/8464689... Tainan National University of the Arts............. 
+	http://www.grid.ac/institutes/grid.445067.4........ Tainan National University of the Arts............. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:13108776', '1:grid.445073.1'), ('2:13108776', '4:grid.445067.4'), ('3:8464689', '1:grid.445073.1'), ('3:8464689', '2:13108776'), ('3:8464689', '4:grid.445067.4'), ('4:grid.445067.4', '1:grid.445073.1')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

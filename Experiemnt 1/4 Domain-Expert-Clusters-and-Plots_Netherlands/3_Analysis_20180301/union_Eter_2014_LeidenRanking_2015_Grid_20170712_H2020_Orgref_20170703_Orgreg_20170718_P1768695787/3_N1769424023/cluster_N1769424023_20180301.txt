@@ -1,0 +1,57 @@
+SIZE    3   
+CLUSTER 1666 
+NAME    N1769424023
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/10637978>
+	<http://www.grid.ac/institutes/grid.7692.a>
+	<http://risis.eu/orgreg_20170718/resource/NL2008>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/10637978.. http://risis.eu/orgreg_20170718/resource/NL2008.... 1.................................................. [University Medical Center Utrecht] was compared to [University Medical Center Utrecht] 
+	http://risis.eu/orgref_20170703/resource/10637978.. http://www.grid.ac/institutes/grid.7692.a.......... 1.................................................. [University Medical Center Utrecht] was compared to [University Medical Center Utrecht] 
+	http://www.grid.ac/institutes/grid.7692.a.......... http://risis.eu/orgref_20170703/resource/10637978.. 1.................................................. [University Medical Center Utrecht] was compared to [University Medical Center Utrecht] 
+	http://www.grid.ac/institutes/grid.7692.a.......... http://risis.eu/orgreg_20170718/resource/NL2008.... 1.................................................. [University Medical Center Utrecht] was compared to [University Medical Center Utrecht] 
+	http://risis.eu/orgreg_20170718/resource/NL2008.... http://www.grid.ac/institutes/grid.7692.a.......... 1.................................................. [University Medical Center Utrecht] was compared to [University Medical Center Utrecht] 
+	http://risis.eu/orgreg_20170718/resource/NL2008.... http://risis.eu/orgref_20170703/resource/10637978.. 1.................................................. [University Medical Center Utrecht] was compared to [University Medical Center Utrecht] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/10637978.. http://en.wikipedia.org/wiki?curid=10637978........ 
+	http://risis.eu/orgref_20170703/resource/10637978.. http://www.wikidata.org/wiki/Q2456800.............. 
+	http://risis.eu/orgref_20170703/resource/10637978.. http://www.umcutrecht.nl........................... 
+	http://risis.eu/orgref_20170703/resource/10637978.. University Medical Center Utrecht.................. 
+	http://www.grid.ac/institutes/grid.7692.a.......... 5.179722........................................... 
+	http://www.grid.ac/institutes/grid.7692.a.......... 52.08861........................................... 
+	http://www.grid.ac/institutes/grid.7692.a.......... http://www.umcutrecht.nl/nl/....................... 
+	http://www.grid.ac/institutes/grid.7692.a.......... UMC Utrecht........................................ 
+	http://www.grid.ac/institutes/grid.7692.a.......... University Medical Center Utrecht.................. 
+	http://risis.eu/orgreg_20170718/resource/NL2008.... 5.................................................. 
+	http://risis.eu/orgreg_20170718/resource/NL2008.... 52................................................. 
+	http://risis.eu/orgreg_20170718/resource/NL2008.... http://www.umcutrecht.nl/.......................... 
+	http://risis.eu/orgreg_20170718/resource/NL2008.... University Medical Center Utrecht.................. 
+
+NETWORK ANALYSIS
+	NETWORK [('P260185727-NL2008', 'P1451214443-grid.7692.a'), ('N1769424023-10637978', 'P1451214443-grid.7692.a'), ('N1769424023-10637978', 'P260185727-NL2008')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

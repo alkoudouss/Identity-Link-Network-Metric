@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 3669 
+NAME    N1168295042
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.473143.6>
+	<http://www.grid.ac/institutes/grid.476547.3>
+	<http://www.grid.ac/institutes/grid.436671.1>
+	<http://risis.eu/orgref_20170703/resource/7421392>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.473143.6....... http://www.grid.ac/institutes/grid.436671.1....... 1................................................. [Newron Pharmaceuticals (Sweden)] was compared to [Newron Pharmaceuticals (United States)] 
+	http://www.grid.ac/institutes/grid.436671.1....... http://www.grid.ac/institutes/grid.473143.6....... 1................................................. [Newron Pharmaceuticals (Sweden)] was compared to [Newron Pharmaceuticals (United States)] 
+	http://www.grid.ac/institutes/grid.476547.3....... http://www.grid.ac/institutes/grid.436671.1....... 1................................................. [Newron Pharmaceuticals (Sweden)] was compared to [Newron Pharmaceuticals (Italy)] 
+	http://www.grid.ac/institutes/grid.436671.1....... http://www.grid.ac/institutes/grid.476547.3....... 1................................................. [Newron Pharmaceuticals (Sweden)] was compared to [Newron Pharmaceuticals (Italy)] 
+	http://www.grid.ac/institutes/grid.473143.6....... http://www.grid.ac/institutes/grid.476547.3....... 1................................................. [Newron Pharmaceuticals (United States)] was compared to [Newron Pharmaceuticals (Italy)] 
+	http://www.grid.ac/institutes/grid.476547.3....... http://www.grid.ac/institutes/grid.473143.6....... 1................................................. [Newron Pharmaceuticals (United States)] was compared to [Newron Pharmaceuticals (Italy)] 
+	http://www.grid.ac/institutes/grid.436671.1....... http://risis.eu/orgref_20170703/resource/7421392.. 0.909090909091.................................... [Newron Pharmaceuticals (Sweden)] was compared to [Herron Pharmaceuticals] 
+	http://risis.eu/orgref_20170703/resource/7421392.. http://www.grid.ac/institutes/grid.436671.1....... 0.909090909091.................................... [Newron Pharmaceuticals (Sweden)] was compared to [Herron Pharmaceuticals] 
+	http://www.grid.ac/institutes/grid.473143.6....... http://risis.eu/orgref_20170703/resource/7421392.. 0.909090909091.................................... [Newron Pharmaceuticals (United States)] was compared to [Herron Pharmaceuticals] 
+	http://risis.eu/orgref_20170703/resource/7421392.. http://www.grid.ac/institutes/grid.473143.6....... 0.909090909091.................................... [Newron Pharmaceuticals (United States)] was compared to [Herron Pharmaceuticals] 
+	http://www.grid.ac/institutes/grid.476547.3....... http://risis.eu/orgref_20170703/resource/7421392.. 0.909090909091.................................... [Newron Pharmaceuticals (Italy)] was compared to [Herron Pharmaceuticals] 
+	http://risis.eu/orgref_20170703/resource/7421392.. http://www.grid.ac/institutes/grid.476547.3....... 0.909090909091.................................... [Newron Pharmaceuticals (Italy)] was compared to [Herron Pharmaceuticals] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.473143.6....... -74.480354........................................ 
+	http://www.grid.ac/institutes/grid.473143.6....... 40.799637......................................... 
+	http://www.grid.ac/institutes/grid.473143.6....... http://www.newron.com/en.......................... 
+	http://www.grid.ac/institutes/grid.473143.6....... Newron Pharmaceuticals (United States)............ 
+	http://www.grid.ac/institutes/grid.476547.3....... 9.189436.......................................... 
+	http://www.grid.ac/institutes/grid.476547.3....... 45.532646......................................... 
+	http://www.grid.ac/institutes/grid.476547.3....... http://www.newron.com/en.......................... 
+	http://www.grid.ac/institutes/grid.476547.3....... Newron Pharmaceuticals (Italy).................... 
+	http://www.grid.ac/institutes/grid.436671.1....... Newron Pharmaceuticals (Sweden)................... 
+	http://risis.eu/orgref_20170703/resource/7421392.. http://en.wikipedia.org/wiki?curid=7421392........ 
+	http://risis.eu/orgref_20170703/resource/7421392.. http://www.wikidata.org/wiki/Q5744214............. 
+	http://risis.eu/orgref_20170703/resource/7421392.. http://www.herron.com.au.......................... 
+	http://risis.eu/orgref_20170703/resource/7421392.. Herron Pharmaceuticals............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.473143.6', '3:grid.436671.1'), ('2:grid.476547.3', '1:grid.473143.6'), ('3:grid.436671.1', '2:grid.476547.3'), ('4:7421392', '1:grid.473143.6'), ('4:7421392', '2:grid.476547.3'), ('4:7421392', '3:grid.436671.1')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

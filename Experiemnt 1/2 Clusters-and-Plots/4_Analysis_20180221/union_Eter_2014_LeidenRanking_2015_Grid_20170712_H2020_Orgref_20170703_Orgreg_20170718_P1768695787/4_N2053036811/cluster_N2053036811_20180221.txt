@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 14494 
+NAME    N2053036811
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.441644.7>
+	<http://risis.eu/orgref_20170703/resource/18037030>
+	<http://risis.eu/orgref_20170703/resource/9853335>
+	<http://www.grid.ac/institutes/grid.412054.6>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.441644.7........ http://www.grid.ac/institutes/grid.412054.6........ 1.................................................. [National Formosa University] was compared to [National University of Formosa] 
+	http://www.grid.ac/institutes/grid.412054.6........ http://www.grid.ac/institutes/grid.441644.7........ 1.................................................. [National Formosa University] was compared to [National University of Formosa] 
+	http://risis.eu/orgref_20170703/resource/18037030.. http://www.grid.ac/institutes/grid.412054.6........ 1.................................................. [National Formosa University] was compared to [National University of Formosa] 
+	http://www.grid.ac/institutes/grid.412054.6........ http://risis.eu/orgref_20170703/resource/18037030.. 1.................................................. [National Formosa University] was compared to [National University of Formosa] 
+	http://risis.eu/orgref_20170703/resource/9853335... http://www.grid.ac/institutes/grid.412054.6........ 1.................................................. [National Formosa University] was compared to [National Formosa University] 
+	http://www.grid.ac/institutes/grid.412054.6........ http://risis.eu/orgref_20170703/resource/9853335... 1.................................................. [National Formosa University] was compared to [National Formosa University] 
+	http://www.grid.ac/institutes/grid.441644.7........ http://risis.eu/orgref_20170703/resource/18037030.. 1.................................................. [National University of Formosa] was compared to [National University of Formosa] 
+	http://risis.eu/orgref_20170703/resource/18037030.. http://www.grid.ac/institutes/grid.441644.7........ 1.................................................. [National University of Formosa] was compared to [National University of Formosa] 
+	http://www.grid.ac/institutes/grid.441644.7........ http://risis.eu/orgref_20170703/resource/9853335... 1.................................................. [National University of Formosa] was compared to [National Formosa University] 
+	http://risis.eu/orgref_20170703/resource/9853335... http://www.grid.ac/institutes/grid.441644.7........ 1.................................................. [National University of Formosa] was compared to [National Formosa University] 
+	http://risis.eu/orgref_20170703/resource/18037030.. http://risis.eu/orgref_20170703/resource/9853335... 1.................................................. [National University of Formosa] was compared to [National Formosa University] 
+	http://risis.eu/orgref_20170703/resource/9853335... http://risis.eu/orgref_20170703/resource/18037030.. 1.................................................. [National University of Formosa] was compared to [National Formosa University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.441644.7........ National University of Formosa..................... 
+	http://risis.eu/orgref_20170703/resource/18037030.. http://en.wikipedia.org/wiki?curid=18037030........ 
+	http://risis.eu/orgref_20170703/resource/18037030.. http://www.wikidata.org/wiki/Q6979245.............. 
+	http://risis.eu/orgref_20170703/resource/18037030.. http://www.unf.edu.ar.............................. 
+	http://risis.eu/orgref_20170703/resource/18037030.. National University of Formosa..................... 
+	http://risis.eu/orgref_20170703/resource/9853335... http://en.wikipedia.org/wiki?curid=9853335......... 
+	http://risis.eu/orgref_20170703/resource/9853335... http://www.wikidata.org/wiki/Q43402................ 
+	http://risis.eu/orgref_20170703/resource/9853335... http://www.nfu.edu.tw/main.php..................... 
+	http://risis.eu/orgref_20170703/resource/9853335... National Formosa University........................ 
+	http://www.grid.ac/institutes/grid.412054.6........ 120.56313.......................................... 
+	http://www.grid.ac/institutes/grid.412054.6........ 23.710274.......................................... 
+	http://www.grid.ac/institutes/grid.412054.6........ http://www.nfu.edu.tw/main.php..................... 
+	http://www.grid.ac/institutes/grid.412054.6........ National Formosa University........................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.441644.7', '4:grid.412054.6'), ('2:18037030', '1:grid.441644.7'), ('3:9853335', '1:grid.441644.7'), ('3:9853335', '2:18037030'), ('3:9853335', '4:grid.412054.6'), ('4:grid.412054.6', '2:18037030')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

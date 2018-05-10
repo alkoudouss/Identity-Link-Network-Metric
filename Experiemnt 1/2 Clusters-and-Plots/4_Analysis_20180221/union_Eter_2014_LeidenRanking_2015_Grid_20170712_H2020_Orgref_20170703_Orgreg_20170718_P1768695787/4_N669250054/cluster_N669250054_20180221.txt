@@ -1,0 +1,57 @@
+SIZE    4   
+CLUSTER 15823 
+NAME    N669250054
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.439485.7>
+	<http://www.grid.ac/institutes/grid.439487.5>
+	<http://risis.eu/orgref_20170703/resource/12638733>
+	<http://risis.eu/orgreg_20170718/resource/CZ2006>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.439485.7........ http://www.grid.ac/institutes/grid.439487.5........ 1.................................................. [St Ann’s Hospital] was compared to [St Ann's Hospital] 
+	http://www.grid.ac/institutes/grid.439487.5........ http://www.grid.ac/institutes/grid.439485.7........ 1.................................................. [St Ann’s Hospital] was compared to [St Ann's Hospital] 
+	http://risis.eu/orgref_20170703/resource/12638733.. http://risis.eu/orgreg_20170718/resource/CZ2006.... 0.941176470588..................................... [St. Agnes Hospital (Baltimore)] was compared to [St Anne's Hospital] 
+	http://risis.eu/orgreg_20170718/resource/CZ2006.... http://risis.eu/orgref_20170703/resource/12638733.. 0.941176470588..................................... [St. Agnes Hospital (Baltimore)] was compared to [St Anne's Hospital] 
+	http://www.grid.ac/institutes/grid.439485.7........ http://risis.eu/orgreg_20170718/resource/CZ2006.... 0.941176470588..................................... [St Ann’s Hospital] was compared to [St Anne's Hospital] 
+	http://risis.eu/orgreg_20170718/resource/CZ2006.... http://www.grid.ac/institutes/grid.439485.7........ 0.941176470588..................................... [St Ann’s Hospital] was compared to [St Anne's Hospital] 
+	http://www.grid.ac/institutes/grid.439487.5........ http://risis.eu/orgreg_20170718/resource/CZ2006.... 0.941176470588..................................... [St Ann's Hospital] was compared to [St Anne's Hospital] 
+	http://risis.eu/orgreg_20170718/resource/CZ2006.... http://www.grid.ac/institutes/grid.439487.5........ 0.941176470588..................................... [St Ann's Hospital] was compared to [St Anne's Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.439485.7........ St Ann’s Hospital................................ 
+	http://www.grid.ac/institutes/grid.439487.5........ St Ann's Hospital.................................. 
+	http://risis.eu/orgref_20170703/resource/12638733.. http://en.wikipedia.org/wiki?curid=12638733........ 
+	http://risis.eu/orgref_20170703/resource/12638733.. http://www.wikidata.org/wiki/Q7586717.............. 
+	http://risis.eu/orgref_20170703/resource/12638733.. http://www.stagnes.org............................. 
+	http://risis.eu/orgref_20170703/resource/12638733.. St. Agnes Hospital (Baltimore)..................... 
+	http://risis.eu/orgreg_20170718/resource/CZ2006.... 16.606837.......................................... 
+	http://risis.eu/orgreg_20170718/resource/CZ2006.... 49.19506........................................... 
+	http://risis.eu/orgreg_20170718/resource/CZ2006.... http://www.fnusa.cz/............................... 
+	http://risis.eu/orgreg_20170718/resource/CZ2006.... St Anne's Hospital................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.439487.5', '1:grid.439485.7'), ('4:CZ2006', '1:grid.439485.7'), ('4:CZ2006', '2:grid.439487.5'), ('4:CZ2006', '3:12638733')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

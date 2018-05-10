@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 9436 
+NAME    P578423654
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.444122.5>
+	<http://risis.eu/orgref_20170703/resource/6537276>
+	<http://www.grid.ac/institutes/grid.445060.3>
+	<http://risis.eu/orgref_20170703/resource/1900792>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.444122.5....... http://www.grid.ac/institutes/grid.445060.3....... 1................................................. [Far East University] was compared to [Far East University] 
+	http://www.grid.ac/institutes/grid.445060.3....... http://www.grid.ac/institutes/grid.444122.5....... 1................................................. [Far East University] was compared to [Far East University] 
+	http://www.grid.ac/institutes/grid.444122.5....... http://risis.eu/orgref_20170703/resource/1900792.. 1................................................. [Far East University] was compared to [Far East University (Korea)] 
+	http://risis.eu/orgref_20170703/resource/1900792.. http://www.grid.ac/institutes/grid.444122.5....... 1................................................. [Far East University] was compared to [Far East University (Korea)] 
+	http://www.grid.ac/institutes/grid.444122.5....... http://risis.eu/orgref_20170703/resource/6537276.. 1................................................. [Far East University] was compared to [Far East University (Taiwan)] 
+	http://risis.eu/orgref_20170703/resource/6537276.. http://www.grid.ac/institutes/grid.444122.5....... 1................................................. [Far East University] was compared to [Far East University (Taiwan)] 
+	http://www.grid.ac/institutes/grid.445060.3....... http://risis.eu/orgref_20170703/resource/1900792.. 1................................................. [Far East University] was compared to [Far East University (Korea)] 
+	http://risis.eu/orgref_20170703/resource/1900792.. http://www.grid.ac/institutes/grid.445060.3....... 1................................................. [Far East University] was compared to [Far East University (Korea)] 
+	http://risis.eu/orgref_20170703/resource/6537276.. http://www.grid.ac/institutes/grid.445060.3....... 1................................................. [Far East University] was compared to [Far East University (Taiwan)] 
+	http://www.grid.ac/institutes/grid.445060.3....... http://risis.eu/orgref_20170703/resource/6537276.. 1................................................. [Far East University] was compared to [Far East University (Taiwan)] 
+	http://risis.eu/orgref_20170703/resource/6537276.. http://risis.eu/orgref_20170703/resource/1900792.. 1................................................. [Far East University (Korea)] was compared to [Far East University (Taiwan)] 
+	http://risis.eu/orgref_20170703/resource/1900792.. http://risis.eu/orgref_20170703/resource/6537276.. 1................................................. [Far East University (Korea)] was compared to [Far East University (Taiwan)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.444122.5....... 127.64331......................................... 
+	http://www.grid.ac/institutes/grid.444122.5....... 37.12771.......................................... 
+	http://www.grid.ac/institutes/grid.444122.5....... http://www.kdu.ac.kr/index.jsp.................... 
+	http://www.grid.ac/institutes/grid.444122.5....... Far East University............................... 
+	http://risis.eu/orgref_20170703/resource/6537276.. http://en.wikipedia.org/wiki?curid=6537276........ 
+	http://risis.eu/orgref_20170703/resource/6537276.. http://www.wikidata.org/wiki/Q5434553............. 
+	http://risis.eu/orgref_20170703/resource/6537276.. http://www.feu.edu.tw............................. 
+	http://risis.eu/orgref_20170703/resource/6537276.. Far East University (Taiwan)...................... 
+	http://www.grid.ac/institutes/grid.445060.3....... Far East University............................... 
+	http://risis.eu/orgref_20170703/resource/1900792.. http://en.wikipedia.org/wiki?curid=1900792........ 
+	http://risis.eu/orgref_20170703/resource/1900792.. http://www.wikidata.org/wiki/Q5434550............. 
+	http://risis.eu/orgref_20170703/resource/1900792.. http://www.kdu.ac.kr.............................. 
+	http://risis.eu/orgref_20170703/resource/1900792.. Far East University (Korea)....................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:6537276', '1:grid.444122.5'), ('2:6537276', '3:grid.445060.3'), ('2:6537276', '4:1900792'), ('3:grid.445060.3', '1:grid.444122.5'), ('4:1900792', '1:grid.444122.5'), ('4:1900792', '3:grid.445060.3')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

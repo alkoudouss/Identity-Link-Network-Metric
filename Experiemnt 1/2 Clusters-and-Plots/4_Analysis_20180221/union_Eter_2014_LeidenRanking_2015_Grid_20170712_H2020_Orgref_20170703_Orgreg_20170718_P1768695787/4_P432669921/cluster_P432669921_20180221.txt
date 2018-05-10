@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 18212 
+NAME    P432669921
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.6981.6>
+	<http://risis.eu/orgreg_20170718/resource/BG0029>
+	<http://risis.eu/orgref_20170703/resource/4878438>
+	<http://risis.eu/cordisH2020/resource/participant_999868532>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.6981.6................... http://risis.eu/orgref_20170703/resource/4878438............ 1........................................................... [Technical University of Sofia] was compared to [Technical University, Sofia] 
+	http://risis.eu/orgref_20170703/resource/4878438............ http://www.grid.ac/institutes/grid.6981.6................... 1........................................................... [Technical University of Sofia] was compared to [Technical University, Sofia] 
+	http://www.grid.ac/institutes/grid.6981.6................... http://risis.eu/cordisH2020/resource/participant_999868532.. 1........................................................... [Technical University of Sofia] was compared to [TECHNICAL UNIVERSITY OF SOFIA] 
+	http://risis.eu/cordisH2020/resource/participant_999868532.. http://www.grid.ac/institutes/grid.6981.6................... 1........................................................... [Technical University of Sofia] was compared to [TECHNICAL UNIVERSITY OF SOFIA] 
+	http://risis.eu/orgref_20170703/resource/4878438............ http://risis.eu/cordisH2020/resource/participant_999868532.. 1........................................................... [Technical University, Sofia] was compared to [TECHNICAL UNIVERSITY OF SOFIA] 
+	http://risis.eu/cordisH2020/resource/participant_999868532.. http://risis.eu/orgref_20170703/resource/4878438............ 1........................................................... [Technical University, Sofia] was compared to [TECHNICAL UNIVERSITY OF SOFIA] 
+	http://risis.eu/orgreg_20170718/resource/BG0029............. http://risis.eu/cordisH2020/resource/participant_999868532.. 1........................................................... [Technical University of Sofia] was compared to [TECHNICAL UNIVERSITY OF SOFIA] 
+	http://risis.eu/cordisH2020/resource/participant_999868532.. http://risis.eu/orgreg_20170718/resource/BG0029............. 1........................................................... [Technical University of Sofia] was compared to [TECHNICAL UNIVERSITY OF SOFIA] 
+	http://risis.eu/orgreg_20170718/resource/BG0029............. http://risis.eu/orgref_20170703/resource/4878438............ 1........................................................... [Technical University, Sofia] was compared to [Technical University of Sofia] 
+	http://risis.eu/orgref_20170703/resource/4878438............ http://risis.eu/orgreg_20170718/resource/BG0029............. 1........................................................... [Technical University, Sofia] was compared to [Technical University of Sofia] 
+	http://www.grid.ac/institutes/grid.6981.6................... http://risis.eu/orgreg_20170718/resource/BG0029............. 1........................................................... [Technical University of Sofia] was compared to [Technical University of Sofia] 
+	http://risis.eu/orgreg_20170718/resource/BG0029............. http://www.grid.ac/institutes/grid.6981.6................... 1........................................................... [Technical University of Sofia] was compared to [Technical University of Sofia] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.6981.6................... 23.355556................................................... 
+	http://www.grid.ac/institutes/grid.6981.6................... 42.657223................................................... 
+	http://www.grid.ac/institutes/grid.6981.6................... http://www.tu-sofia.bg/..................................... 
+	http://www.grid.ac/institutes/grid.6981.6................... Technical University of Sofia............................... 
+	http://risis.eu/orgreg_20170718/resource/BG0029............. 23.324564................................................... 
+	http://risis.eu/orgreg_20170718/resource/BG0029............. 42.697821................................................... 
+	http://risis.eu/orgreg_20170718/resource/BG0029............. http://www.tu-sofia.bg/..................................... 
+	http://risis.eu/orgreg_20170718/resource/BG0029............. Technical University of Sofia............................... 
+	http://risis.eu/orgref_20170703/resource/4878438............ http://en.wikipedia.org/wiki?curid=4878438.................. 
+	http://risis.eu/orgref_20170703/resource/4878438............ http://www.wikidata.org/wiki/Q2303775....................... 
+	http://risis.eu/orgref_20170703/resource/4878438............ http://www.tu-sofia.bg...................................... 
+	http://risis.eu/orgref_20170703/resource/4878438............ Technical University, Sofia................................. 
+	http://risis.eu/cordisH2020/resource/participant_999868532.. http://www.tu-sofia.bg/index.html........................... 
+	http://risis.eu/cordisH2020/resource/participant_999868532.. TECHNICAL UNIVERSITY OF SOFIA............................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:BG0029', '1:grid.6981.6'), ('2:BG0029', '3:4878438'), ('3:4878438', '1:grid.6981.6'), ('4:participant_999868532', '1:grid.6981.6'), ('4:participant_999868532', '2:BG0029'), ('4:participant_999868532', '3:4878438')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

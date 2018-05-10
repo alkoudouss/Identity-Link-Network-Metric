@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 6261 
+NAME    N1780645836
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.411867.d>
+	<http://risis.eu/orgref_20170703/resource/17416556>
+	<http://www.grid.ac/institutes/grid.444446.2>
+	<http://risis.eu/orgref_20170703/resource/313437>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.411867.d........ http://risis.eu/orgref_20170703/resource/17416556.. 1.................................................. [Musashino University] was compared to [Musashino University] 
+	http://risis.eu/orgref_20170703/resource/17416556.. http://www.grid.ac/institutes/grid.411867.d........ 1.................................................. [Musashino University] was compared to [Musashino University] 
+	http://www.grid.ac/institutes/grid.444446.2........ http://risis.eu/orgref_20170703/resource/313437.... 1.................................................. [Musashi University] was compared to [Musashi University] 
+	http://risis.eu/orgref_20170703/resource/313437.... http://www.grid.ac/institutes/grid.444446.2........ 1.................................................. [Musashi University] was compared to [Musashi University] 
+	http://risis.eu/orgref_20170703/resource/17416556.. http://risis.eu/orgref_20170703/resource/313437.... 0.9................................................ [Musashino University] was compared to [Musashi University] 
+	http://risis.eu/orgref_20170703/resource/313437.... http://risis.eu/orgref_20170703/resource/17416556.. 0.9................................................ [Musashino University] was compared to [Musashi University] 
+	http://www.grid.ac/institutes/grid.411867.d........ http://www.grid.ac/institutes/grid.444446.2........ 0.9................................................ [Musashino University] was compared to [Musashi University] 
+	http://www.grid.ac/institutes/grid.444446.2........ http://www.grid.ac/institutes/grid.411867.d........ 0.9................................................ [Musashino University] was compared to [Musashi University] 
+	http://www.grid.ac/institutes/grid.411867.d........ http://risis.eu/orgref_20170703/resource/313437.... 0.9................................................ [Musashino University] was compared to [Musashi University] 
+	http://risis.eu/orgref_20170703/resource/313437.... http://www.grid.ac/institutes/grid.411867.d........ 0.9................................................ [Musashino University] was compared to [Musashi University] 
+	http://risis.eu/orgref_20170703/resource/17416556.. http://www.grid.ac/institutes/grid.444446.2........ 0.9................................................ [Musashi University] was compared to [Musashino University] 
+	http://www.grid.ac/institutes/grid.444446.2........ http://risis.eu/orgref_20170703/resource/17416556.. 0.9................................................ [Musashi University] was compared to [Musashino University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.411867.d........ 139.54723.......................................... 
+	http://www.grid.ac/institutes/grid.411867.d........ 35.719944.......................................... 
+	http://www.grid.ac/institutes/grid.411867.d........ http://www.musashino-u.ac.jp/english/.............. 
+	http://www.grid.ac/institutes/grid.411867.d........ Musashino Daigaku.................................. 
+	http://www.grid.ac/institutes/grid.411867.d........ Musashino University............................... 
+	http://risis.eu/orgref_20170703/resource/17416556.. http://en.wikipedia.org/wiki?curid=17416556........ 
+	http://risis.eu/orgref_20170703/resource/17416556.. http://www.wikidata.org/wiki/Q6940182.............. 
+	http://risis.eu/orgref_20170703/resource/17416556.. Musashino University............................... 
+	http://www.grid.ac/institutes/grid.444446.2........ Musashi University................................. 
+	http://risis.eu/orgref_20170703/resource/313437.... http://en.wikipedia.org/wiki?curid=313437.......... 
+	http://risis.eu/orgref_20170703/resource/313437.... http://www.wikidata.org/wiki/Q1954006.............. 
+	http://risis.eu/orgref_20170703/resource/313437.... Musashi University................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:17416556', '1:grid.411867.d'), ('2:17416556', '3:grid.444446.2'), ('3:grid.444446.2', '1:grid.411867.d'), ('4:313437', '1:grid.411867.d'), ('4:313437', '2:17416556'), ('4:313437', '3:grid.444446.2')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

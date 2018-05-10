@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 9866 
+NAME    N1096552011
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.473028.a>
+	<http://www.grid.ac/institutes/grid.473030.3>
+	<http://www.grid.ac/institutes/grid.423918.5>
+	<http://www.grid.ac/institutes/grid.473029.b>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.473028.a.. http://www.grid.ac/institutes/grid.423918.5.. 1............................................ [Danfoss (Denmark)] was compared to [Danfoss (China)] 
+	http://www.grid.ac/institutes/grid.423918.5.. http://www.grid.ac/institutes/grid.473028.a.. 1............................................ [Danfoss (Denmark)] was compared to [Danfoss (China)] 
+	http://www.grid.ac/institutes/grid.423918.5.. http://www.grid.ac/institutes/grid.473029.b.. 1............................................ [Danfoss (Denmark)] was compared to [Danfoss (Germany)] 
+	http://www.grid.ac/institutes/grid.473029.b.. http://www.grid.ac/institutes/grid.423918.5.. 1............................................ [Danfoss (Denmark)] was compared to [Danfoss (Germany)] 
+	http://www.grid.ac/institutes/grid.473030.3.. http://www.grid.ac/institutes/grid.423918.5.. 1............................................ [Danfoss (Denmark)] was compared to [Danfoss (United States)] 
+	http://www.grid.ac/institutes/grid.423918.5.. http://www.grid.ac/institutes/grid.473030.3.. 1............................................ [Danfoss (Denmark)] was compared to [Danfoss (United States)] 
+	http://www.grid.ac/institutes/grid.473028.a.. http://www.grid.ac/institutes/grid.473029.b.. 1............................................ [Danfoss (China)] was compared to [Danfoss (Germany)] 
+	http://www.grid.ac/institutes/grid.473029.b.. http://www.grid.ac/institutes/grid.473028.a.. 1............................................ [Danfoss (China)] was compared to [Danfoss (Germany)] 
+	http://www.grid.ac/institutes/grid.473028.a.. http://www.grid.ac/institutes/grid.473030.3.. 1............................................ [Danfoss (China)] was compared to [Danfoss (United States)] 
+	http://www.grid.ac/institutes/grid.473030.3.. http://www.grid.ac/institutes/grid.473028.a.. 1............................................ [Danfoss (China)] was compared to [Danfoss (United States)] 
+	http://www.grid.ac/institutes/grid.473030.3.. http://www.grid.ac/institutes/grid.473029.b.. 1............................................ [Danfoss (Germany)] was compared to [Danfoss (United States)] 
+	http://www.grid.ac/institutes/grid.473029.b.. http://www.grid.ac/institutes/grid.473030.3.. 1............................................ [Danfoss (Germany)] was compared to [Danfoss (United States)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.473028.a.. 117.13335.................................... 
+	http://www.grid.ac/institutes/grid.473028.a.. 39.140736.................................... 
+	http://www.grid.ac/institutes/grid.473028.a.. http://www.danfoss.cn/....................... 
+	http://www.grid.ac/institutes/grid.473028.a.. Danfoss (China).............................. 
+	http://www.grid.ac/institutes/grid.473030.3.. -93.07151.................................... 
+	http://www.grid.ac/institutes/grid.473030.3.. 34.13307..................................... 
+	http://www.grid.ac/institutes/grid.473030.3.. http://www.danfoss.com/home/................. 
+	http://www.grid.ac/institutes/grid.473030.3.. Danfoss (United States)...................... 
+	http://www.grid.ac/institutes/grid.423918.5.. 9.814616..................................... 
+	http://www.grid.ac/institutes/grid.423918.5.. 55.03606..................................... 
+	http://www.grid.ac/institutes/grid.423918.5.. http://www.danfoss.com/home/................. 
+	http://www.grid.ac/institutes/grid.423918.5.. Danfoss (Denmark)............................ 
+	http://www.grid.ac/institutes/grid.473029.b.. 9.990647..................................... 
+	http://www.grid.ac/institutes/grid.473029.b.. 54.080482.................................... 
+	http://www.grid.ac/institutes/grid.473029.b.. http://powersolutions.danfoss.com/home/...... 
+	http://www.grid.ac/institutes/grid.473029.b.. Danfoss (Germany)............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.473028.a', '3:grid.423918.5'), ('2:grid.473030.3', '1:grid.473028.a'), ('2:grid.473030.3', '3:grid.423918.5'), ('2:grid.473030.3', '4:grid.473029.b'), ('4:grid.473029.b', '1:grid.473028.a'), ('4:grid.473029.b', '3:grid.423918.5')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

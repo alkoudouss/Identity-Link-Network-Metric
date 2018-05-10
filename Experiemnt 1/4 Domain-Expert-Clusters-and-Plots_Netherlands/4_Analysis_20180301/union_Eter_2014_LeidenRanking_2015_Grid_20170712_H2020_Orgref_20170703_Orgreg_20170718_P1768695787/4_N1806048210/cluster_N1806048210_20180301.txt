@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 6925 
+NAME    N1806048210
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/8221089>
+	<http://risis.eu/orgref_20170703/resource/26995072>
+	<http://risis.eu/orgref_20170703/resource/13019109>
+	<http://www.grid.ac/institutes/grid.449205.e>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/8221089... http://www.grid.ac/institutes/grid.449205.e........ 1.................................................. [American University of the Caribbean] was compared to [American University of the Caribbean] 
+	http://risis.eu/orgref_20170703/resource/8221089... http://risis.eu/orgref_20170703/resource/26995072.. 1.................................................. [American University of the Caribbean (Haiti)] was compared to [American University of the Caribbean] 
+	http://risis.eu/orgref_20170703/resource/8221089... http://risis.eu/orgref_20170703/resource/13019109.. 0.896551724138..................................... [Caribbean Medical University] was compared to [American University of the Caribbean] 
+	http://risis.eu/orgref_20170703/resource/26995072.. http://risis.eu/orgref_20170703/resource/8221089... 1.................................................. [American University of the Caribbean (Haiti)] was compared to [American University of the Caribbean] 
+	http://risis.eu/orgref_20170703/resource/26995072.. http://www.grid.ac/institutes/grid.449205.e........ 1.................................................. [American University of the Caribbean] was compared to [American University of the Caribbean (Haiti)] 
+	http://risis.eu/orgref_20170703/resource/26995072.. http://risis.eu/orgref_20170703/resource/13019109.. 0.896551724138..................................... [Caribbean Medical University] was compared to [American University of the Caribbean (Haiti)] 
+	http://risis.eu/orgref_20170703/resource/13019109.. http://risis.eu/orgref_20170703/resource/26995072.. 0.896551724138..................................... [Caribbean Medical University] was compared to [American University of the Caribbean (Haiti)] 
+	http://risis.eu/orgref_20170703/resource/13019109.. http://risis.eu/orgref_20170703/resource/8221089... 0.896551724138..................................... [Caribbean Medical University] was compared to [American University of the Caribbean] 
+	http://risis.eu/orgref_20170703/resource/13019109.. http://www.grid.ac/institutes/grid.449205.e........ 0.896551724138..................................... [American University of the Caribbean] was compared to [Caribbean Medical University] 
+	http://www.grid.ac/institutes/grid.449205.e........ http://risis.eu/orgref_20170703/resource/26995072.. 1.................................................. [American University of the Caribbean] was compared to [American University of the Caribbean (Haiti)] 
+	http://www.grid.ac/institutes/grid.449205.e........ http://risis.eu/orgref_20170703/resource/8221089... 1.................................................. [American University of the Caribbean] was compared to [American University of the Caribbean] 
+	http://www.grid.ac/institutes/grid.449205.e........ http://risis.eu/orgref_20170703/resource/13019109.. 0.896551724138..................................... [American University of the Caribbean] was compared to [Caribbean Medical University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/8221089... http://en.wikipedia.org/wiki?curid=8221089......... 
+	http://risis.eu/orgref_20170703/resource/8221089... http://www.wikidata.org/wiki/Q1053925.............. 
+	http://risis.eu/orgref_20170703/resource/8221089... http://www.aucmed.edu.............................. 
+	http://risis.eu/orgref_20170703/resource/8221089... American University of the Caribbean............... 
+	http://risis.eu/orgref_20170703/resource/26995072.. http://en.wikipedia.org/wiki?curid=26995072........ 
+	http://risis.eu/orgref_20170703/resource/26995072.. http://www.wikidata.org/wiki/Q4745323.............. 
+	http://risis.eu/orgref_20170703/resource/26995072.. http://www.auchaiti.org............................ 
+	http://risis.eu/orgref_20170703/resource/26995072.. American University of the Caribbean (Haiti)....... 
+	http://risis.eu/orgref_20170703/resource/13019109.. http://en.wikipedia.org/wiki?curid=13019109........ 
+	http://risis.eu/orgref_20170703/resource/13019109.. http://www.wikidata.org/wiki/Q5039399.............. 
+	http://risis.eu/orgref_20170703/resource/13019109.. http://www.cmumed.org.............................. 
+	http://risis.eu/orgref_20170703/resource/13019109.. Caribbean Medical University....................... 
+	http://www.grid.ac/institutes/grid.449205.e........ American University of the Caribbean............... 
+
+NETWORK ANALYSIS
+	NETWORK [('P1054266942-13019109', 'N1806048210-26995072'), ('P1054266942-13019109', 'P1964902743-grid.449205.e'), ('P1054266942-13019109', 'P807814653-8221089'), ('P807814653-8221089', 'P1964902743-grid.449205.e'), ('N1806048210-26995072', 'P1964902743-grid.449205.e'), ('N1806048210-26995072', 'P807814653-8221089')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

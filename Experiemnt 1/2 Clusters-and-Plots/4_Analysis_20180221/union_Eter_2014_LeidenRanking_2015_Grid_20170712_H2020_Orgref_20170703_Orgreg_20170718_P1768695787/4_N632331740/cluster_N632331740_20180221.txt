@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 5049 
+NAME    N632331740
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.474700.0>
+	<http://www.grid.ac/institutes/grid.9390.3>
+	<http://www.grid.ac/institutes/grid.426145.0>
+	<http://www.grid.ac/institutes/grid.463640.3>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.474700.0.. http://www.grid.ac/institutes/grid.426145.0.. 1............................................ [T-Systems (Spain)] was compared to [T-Systems (Singapore)] 
+	http://www.grid.ac/institutes/grid.426145.0.. http://www.grid.ac/institutes/grid.474700.0.. 1............................................ [T-Systems (Spain)] was compared to [T-Systems (Singapore)] 
+	http://www.grid.ac/institutes/grid.426145.0.. http://www.grid.ac/institutes/grid.463640.3.. 1............................................ [T-Systems (Spain)] was compared to [T-Systems (South Africa)] 
+	http://www.grid.ac/institutes/grid.463640.3.. http://www.grid.ac/institutes/grid.426145.0.. 1............................................ [T-Systems (Spain)] was compared to [T-Systems (South Africa)] 
+	http://www.grid.ac/institutes/grid.9390.3.... http://www.grid.ac/institutes/grid.426145.0.. 1............................................ [T-Systems (Spain)] was compared to [T-Systems (Germany)] 
+	http://www.grid.ac/institutes/grid.426145.0.. http://www.grid.ac/institutes/grid.9390.3.... 1............................................ [T-Systems (Spain)] was compared to [T-Systems (Germany)] 
+	http://www.grid.ac/institutes/grid.474700.0.. http://www.grid.ac/institutes/grid.463640.3.. 1............................................ [T-Systems (South Africa)] was compared to [T-Systems (Singapore)] 
+	http://www.grid.ac/institutes/grid.463640.3.. http://www.grid.ac/institutes/grid.474700.0.. 1............................................ [T-Systems (South Africa)] was compared to [T-Systems (Singapore)] 
+	http://www.grid.ac/institutes/grid.9390.3.... http://www.grid.ac/institutes/grid.463640.3.. 1............................................ [T-Systems (South Africa)] was compared to [T-Systems (Germany)] 
+	http://www.grid.ac/institutes/grid.463640.3.. http://www.grid.ac/institutes/grid.9390.3.... 1............................................ [T-Systems (South Africa)] was compared to [T-Systems (Germany)] 
+	http://www.grid.ac/institutes/grid.474700.0.. http://www.grid.ac/institutes/grid.9390.3.... 1............................................ [T-Systems (Singapore)] was compared to [T-Systems (Germany)] 
+	http://www.grid.ac/institutes/grid.9390.3.... http://www.grid.ac/institutes/grid.474700.0.. 1............................................ [T-Systems (Singapore)] was compared to [T-Systems (Germany)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.474700.0.. 103.81748.................................... 
+	http://www.grid.ac/institutes/grid.474700.0.. 1.355014..................................... 
+	http://www.grid.ac/institutes/grid.474700.0.. http://www.t-systems.com.sg/................. 
+	http://www.grid.ac/institutes/grid.474700.0.. T-Systems (Singapore)........................ 
+	http://www.grid.ac/institutes/grid.9390.3.... 8.637155..................................... 
+	http://www.grid.ac/institutes/grid.9390.3.... 50.084675.................................... 
+	http://www.grid.ac/institutes/grid.9390.3.... https://www.t-systems.com/................... 
+	http://www.grid.ac/institutes/grid.9390.3.... T-Systems (Germany).......................... 
+	http://www.grid.ac/institutes/grid.426145.0.. T-Systems (Spain)............................ 
+	http://www.grid.ac/institutes/grid.463640.3.. 28.122984.................................... 
+	http://www.grid.ac/institutes/grid.463640.3.. -25.977512................................... 
+	http://www.grid.ac/institutes/grid.463640.3.. http://www.t-systems.co.za/.................. 
+	http://www.grid.ac/institutes/grid.463640.3.. T-Systems (South Africa)..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.9390.3', '1:grid.474700.0'), ('2:grid.9390.3', '3:grid.426145.0'), ('2:grid.9390.3', '4:grid.463640.3'), ('3:grid.426145.0', '1:grid.474700.0'), ('4:grid.463640.3', '1:grid.474700.0'), ('4:grid.463640.3', '3:grid.426145.0')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

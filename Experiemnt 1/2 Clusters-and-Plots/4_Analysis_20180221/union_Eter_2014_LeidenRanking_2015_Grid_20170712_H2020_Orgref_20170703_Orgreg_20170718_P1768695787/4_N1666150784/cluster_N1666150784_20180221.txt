@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 12762 
+NAME    N1666150784
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/177826>
+	<http://risis.eu/orgref_20170703/resource/384432>
+	<http://www.grid.ac/institutes/grid.255416.1>
+	<http://www.grid.ac/institutes/grid.281386.6>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/384432.. http://www.grid.ac/institutes/grid.255416.1...... 1................................................ [Eastern Washington University] was compared to [Eastern Washington University] 
+	http://www.grid.ac/institutes/grid.255416.1...... http://risis.eu/orgref_20170703/resource/384432.. 1................................................ [Eastern Washington University] was compared to [Eastern Washington University] 
+	http://risis.eu/orgref_20170703/resource/177826.. http://www.grid.ac/institutes/grid.281386.6...... 1................................................ [Western Washington University] was compared to [Western Washington University] 
+	http://www.grid.ac/institutes/grid.281386.6...... http://risis.eu/orgref_20170703/resource/177826.. 1................................................ [Western Washington University] was compared to [Western Washington University] 
+	http://risis.eu/orgref_20170703/resource/177826.. http://risis.eu/orgref_20170703/resource/384432.. 0.931034482759................................... [Western Washington University] was compared to [Eastern Washington University] 
+	http://risis.eu/orgref_20170703/resource/384432.. http://risis.eu/orgref_20170703/resource/177826.. 0.931034482759................................... [Western Washington University] was compared to [Eastern Washington University] 
+	http://www.grid.ac/institutes/grid.255416.1...... http://www.grid.ac/institutes/grid.281386.6...... 0.931034482759................................... [Eastern Washington University] was compared to [Western Washington University] 
+	http://www.grid.ac/institutes/grid.281386.6...... http://www.grid.ac/institutes/grid.255416.1...... 0.931034482759................................... [Eastern Washington University] was compared to [Western Washington University] 
+	http://risis.eu/orgref_20170703/resource/177826.. http://www.grid.ac/institutes/grid.255416.1...... 0.931034482759................................... [Eastern Washington University] was compared to [Western Washington University] 
+	http://www.grid.ac/institutes/grid.255416.1...... http://risis.eu/orgref_20170703/resource/177826.. 0.931034482759................................... [Eastern Washington University] was compared to [Western Washington University] 
+	http://risis.eu/orgref_20170703/resource/384432.. http://www.grid.ac/institutes/grid.281386.6...... 0.931034482759................................... [Western Washington University] was compared to [Eastern Washington University] 
+	http://www.grid.ac/institutes/grid.281386.6...... http://risis.eu/orgref_20170703/resource/384432.. 0.931034482759................................... [Western Washington University] was compared to [Eastern Washington University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/177826.. http://en.wikipedia.org/wiki?curid=177826........ 
+	http://risis.eu/orgref_20170703/resource/177826.. http://www.wikidata.org/wiki/Q284777............. 
+	http://risis.eu/orgref_20170703/resource/177826.. http://www.wwu.edu............................... 
+	http://risis.eu/orgref_20170703/resource/177826.. Western Washington University.................... 
+	http://risis.eu/orgref_20170703/resource/384432.. http://en.wikipedia.org/wiki?curid=384432........ 
+	http://risis.eu/orgref_20170703/resource/384432.. http://www.wikidata.org/wiki/Q1278253............ 
+	http://risis.eu/orgref_20170703/resource/384432.. http://www.ewu.edu............................... 
+	http://risis.eu/orgref_20170703/resource/384432.. Eastern Washington University.................... 
+	http://www.grid.ac/institutes/grid.255416.1...... -117.57868....................................... 
+	http://www.grid.ac/institutes/grid.255416.1...... 47.48892......................................... 
+	http://www.grid.ac/institutes/grid.255416.1...... http://www.ewu.edu/.............................. 
+	http://www.grid.ac/institutes/grid.255416.1...... Eastern Washington University.................... 
+	http://www.grid.ac/institutes/grid.281386.6...... -122.48452....................................... 
+	http://www.grid.ac/institutes/grid.281386.6...... 48.7401.......................................... 
+	http://www.grid.ac/institutes/grid.281386.6...... http://www.wwu.edu/.............................. 
+	http://www.grid.ac/institutes/grid.281386.6...... Western Washington University.................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:384432', '1:177826'), ('2:384432', '3:grid.255416.1'), ('2:384432', '4:grid.281386.6'), ('3:grid.255416.1', '1:177826'), ('4:grid.281386.6', '1:177826'), ('4:grid.281386.6', '3:grid.255416.1')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

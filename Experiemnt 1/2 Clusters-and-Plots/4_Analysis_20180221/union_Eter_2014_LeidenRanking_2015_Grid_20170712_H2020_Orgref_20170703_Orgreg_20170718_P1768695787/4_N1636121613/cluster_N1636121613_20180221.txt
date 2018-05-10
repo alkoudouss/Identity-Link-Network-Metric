@@ -1,0 +1,60 @@
+SIZE    4   
+CLUSTER 6775 
+NAME    N1636121613
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/47009931>
+	<http://risis.eu/leidenRanking_2015/resource/1902>
+	<http://www.grid.ac/institutes/grid.420004.2>
+	<http://risis.eu/cordisH2020/resource/participant_999600521>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/47009931........... http://www.grid.ac/institutes/grid.420004.2................. 1........................................................... [Newcastle upon Tyne Hospitals NHS Foundation Trust] was compared to [Newcastle upon Tyne Hospitals NHS Foundation Trust] 
+	http://www.grid.ac/institutes/grid.420004.2................. http://risis.eu/orgref_20170703/resource/47009931........... 1........................................................... [Newcastle upon Tyne Hospitals NHS Foundation Trust] was compared to [Newcastle upon Tyne Hospitals NHS Foundation Trust] 
+	http://risis.eu/leidenRanking_2015/resource/1902............ http://www.grid.ac/institutes/grid.420004.2................. 1........................................................... [Newcastle upon Tyne Hospitals NHS Foundation Trust] was compared to [Newcastle upon Tyne Hospitals NHS Foundation Trust] 
+	http://www.grid.ac/institutes/grid.420004.2................. http://risis.eu/leidenRanking_2015/resource/1902............ 1........................................................... [Newcastle upon Tyne Hospitals NHS Foundation Trust] was compared to [Newcastle upon Tyne Hospitals NHS Foundation Trust] 
+	http://www.grid.ac/institutes/grid.420004.2................. http://risis.eu/cordisH2020/resource/participant_999600521.. 1........................................................... [Newcastle upon Tyne Hospitals NHS Foundation Trust] was compared to [THE NEWCASTLE UPON TYNE HOSPITALS NHS FOUNDATION TRUST] 
+	http://risis.eu/cordisH2020/resource/participant_999600521.. http://www.grid.ac/institutes/grid.420004.2................. 1........................................................... [Newcastle upon Tyne Hospitals NHS Foundation Trust] was compared to [THE NEWCASTLE UPON TYNE HOSPITALS NHS FOUNDATION TRUST] 
+	http://risis.eu/orgref_20170703/resource/47009931........... http://risis.eu/leidenRanking_2015/resource/1902............ 1........................................................... [Newcastle upon Tyne Hospitals NHS Foundation Trust] was compared to [Newcastle upon Tyne Hospitals NHS Foundation Trust] 
+	http://risis.eu/leidenRanking_2015/resource/1902............ http://risis.eu/orgref_20170703/resource/47009931........... 1........................................................... [Newcastle upon Tyne Hospitals NHS Foundation Trust] was compared to [Newcastle upon Tyne Hospitals NHS Foundation Trust] 
+	http://risis.eu/orgref_20170703/resource/47009931........... http://risis.eu/cordisH2020/resource/participant_999600521.. 1........................................................... [Newcastle upon Tyne Hospitals NHS Foundation Trust] was compared to [THE NEWCASTLE UPON TYNE HOSPITALS NHS FOUNDATION TRUST] 
+	http://risis.eu/cordisH2020/resource/participant_999600521.. http://risis.eu/orgref_20170703/resource/47009931........... 1........................................................... [Newcastle upon Tyne Hospitals NHS Foundation Trust] was compared to [THE NEWCASTLE UPON TYNE HOSPITALS NHS FOUNDATION TRUST] 
+	http://risis.eu/leidenRanking_2015/resource/1902............ http://risis.eu/cordisH2020/resource/participant_999600521.. 1........................................................... [THE NEWCASTLE UPON TYNE HOSPITALS NHS FOUNDATION TRUST] was compared to [Newcastle upon Tyne Hospitals NHS Foundation Trust] 
+	http://risis.eu/cordisH2020/resource/participant_999600521.. http://risis.eu/leidenRanking_2015/resource/1902............ 1........................................................... [THE NEWCASTLE UPON TYNE HOSPITALS NHS FOUNDATION TRUST] was compared to [Newcastle upon Tyne Hospitals NHS Foundation Trust] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 9 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/47009931........... http://en.wikipedia.org/wiki?curid=40942846................. 
+	http://risis.eu/orgref_20170703/resource/47009931........... http://www.wikidata.org/wiki/Q16998837...................... 
+	http://risis.eu/orgref_20170703/resource/47009931........... Newcastle upon Tyne Hospitals NHS Foundation Trust.......... 
+	http://risis.eu/leidenRanking_2015/resource/1902............ Newcastle upon Tyne Hospitals NHS Foundation Trust.......... 
+	http://www.grid.ac/institutes/grid.420004.2................. -1.6462..................................................... 
+	http://www.grid.ac/institutes/grid.420004.2................. 54.976864................................................... 
+	http://www.grid.ac/institutes/grid.420004.2................. http://www.newcastle-hospitals.org.uk/...................... 
+	http://www.grid.ac/institutes/grid.420004.2................. Newcastle upon Tyne Hospitals NHS Foundation Trust.......... 
+	http://risis.eu/cordisH2020/resource/participant_999600521.. THE NEWCASTLE UPON TYNE HOSPITALS NHS FOUNDATION TRUST...... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1902', '1:47009931'), ('2:1902', '3:grid.420004.2'), ('2:1902', '4:participant_999600521'), ('3:grid.420004.2', '1:47009931'), ('4:participant_999600521', '1:47009931'), ('4:participant_999600521', '3:grid.420004.2')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

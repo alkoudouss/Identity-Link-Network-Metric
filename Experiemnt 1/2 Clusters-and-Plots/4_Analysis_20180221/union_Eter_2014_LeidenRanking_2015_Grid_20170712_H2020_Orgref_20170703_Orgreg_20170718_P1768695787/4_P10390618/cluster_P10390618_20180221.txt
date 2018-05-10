@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 13780 
+NAME    P10390618
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.449786.0>
+	<http://risis.eu/orgref_20170703/resource/25903429>
+	<http://www.grid.ac/institutes/grid.448639.4>
+	<http://risis.eu/orgref_20170703/resource/34308229>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.449786.0........ http://www.grid.ac/institutes/grid.448639.4........ 0.95652173913...................................... [East Africa University] was compared to [East African University] 
+	http://www.grid.ac/institutes/grid.448639.4........ http://www.grid.ac/institutes/grid.449786.0........ 0.95652173913...................................... [East Africa University] was compared to [East African University] 
+	http://risis.eu/orgref_20170703/resource/25903429.. http://www.grid.ac/institutes/grid.448639.4........ 1.................................................. [East Africa University] was compared to [East Africa University] 
+	http://www.grid.ac/institutes/grid.448639.4........ http://risis.eu/orgref_20170703/resource/25903429.. 1.................................................. [East Africa University] was compared to [East Africa University] 
+	http://www.grid.ac/institutes/grid.448639.4........ http://risis.eu/orgref_20170703/resource/34308229.. 0.95652173913...................................... [East Africa University] was compared to [The East African University] 
+	http://risis.eu/orgref_20170703/resource/34308229.. http://www.grid.ac/institutes/grid.448639.4........ 0.95652173913...................................... [East Africa University] was compared to [The East African University] 
+	http://www.grid.ac/institutes/grid.449786.0........ http://risis.eu/orgref_20170703/resource/25903429.. 0.95652173913...................................... [East African University] was compared to [East Africa University] 
+	http://risis.eu/orgref_20170703/resource/25903429.. http://www.grid.ac/institutes/grid.449786.0........ 0.95652173913...................................... [East African University] was compared to [East Africa University] 
+	http://www.grid.ac/institutes/grid.449786.0........ http://risis.eu/orgref_20170703/resource/34308229.. 1.................................................. [East African University] was compared to [The East African University] 
+	http://risis.eu/orgref_20170703/resource/34308229.. http://www.grid.ac/institutes/grid.449786.0........ 1.................................................. [East African University] was compared to [The East African University] 
+	http://risis.eu/orgref_20170703/resource/25903429.. http://risis.eu/orgref_20170703/resource/34308229.. 0.95652173913...................................... [East Africa University] was compared to [The East African University] 
+	http://risis.eu/orgref_20170703/resource/34308229.. http://risis.eu/orgref_20170703/resource/25903429.. 0.95652173913...................................... [East Africa University] was compared to [The East African University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.449786.0........ East African University............................ 
+	http://risis.eu/orgref_20170703/resource/25903429.. http://en.wikipedia.org/wiki?curid=25903429........ 
+	http://risis.eu/orgref_20170703/resource/25903429.. http://www.wikidata.org/wiki/Q5327643.............. 
+	http://risis.eu/orgref_20170703/resource/25903429.. http://www.eastafricauniversity.net................ 
+	http://risis.eu/orgref_20170703/resource/25903429.. East Africa University............................. 
+	http://www.grid.ac/institutes/grid.448639.4........ East Africa University............................. 
+	http://risis.eu/orgref_20170703/resource/34308229.. http://en.wikipedia.org/wiki?curid=34308229........ 
+	http://risis.eu/orgref_20170703/resource/34308229.. http://www.wikidata.org/wiki/Q16890793............. 
+	http://risis.eu/orgref_20170703/resource/34308229.. http://www.teau.ac.ke/homepage..................... 
+	http://risis.eu/orgref_20170703/resource/34308229.. The East African University........................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:25903429', '1:grid.449786.0'), ('2:25903429', '3:grid.448639.4'), ('3:grid.448639.4', '1:grid.449786.0'), ('4:34308229', '1:grid.449786.0'), ('4:34308229', '2:25903429'), ('4:34308229', '3:grid.448639.4')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

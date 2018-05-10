@@ -1,0 +1,64 @@
+SIZE    5   
+CLUSTER 10127 
+NAME    N1003890982
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.439429.1>
+	<http://www.grid.ac/institutes/grid.461300.0>
+	<http://risis.eu/orgref_20170703/resource/5843882>
+	<http://www.grid.ac/institutes/grid.439758.4>
+	<http://www.grid.ac/institutes/grid.439430.9>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.461300.0....... http://risis.eu/orgref_20170703/resource/5843882.. 1................................................. [Peterhead Community Hospital] was compared to [Peterhead Community Hospital] 
+	http://risis.eu/orgref_20170703/resource/5843882.. http://www.grid.ac/institutes/grid.461300.0....... 1................................................. [Peterhead Community Hospital] was compared to [Peterhead Community Hospital] 
+	http://www.grid.ac/institutes/grid.439429.1....... http://www.grid.ac/institutes/grid.461300.0....... 0.892857142857.................................... [Peterlee Community Hospital] was compared to [Peterhead Community Hospital] 
+	http://www.grid.ac/institutes/grid.461300.0....... http://www.grid.ac/institutes/grid.439429.1....... 0.892857142857.................................... [Peterlee Community Hospital] was compared to [Peterhead Community Hospital] 
+	http://www.grid.ac/institutes/grid.461300.0....... http://www.grid.ac/institutes/grid.439430.9....... 0.866666666667.................................... [Petersfield Community Hospital] was compared to [Peterhead Community Hospital] 
+	http://www.grid.ac/institutes/grid.439430.9....... http://www.grid.ac/institutes/grid.461300.0....... 0.866666666667.................................... [Petersfield Community Hospital] was compared to [Peterhead Community Hospital] 
+	http://www.grid.ac/institutes/grid.461300.0....... http://www.grid.ac/institutes/grid.439758.4....... 0.9............................................... [Leatherhead Community Hospital] was compared to [Peterhead Community Hospital] 
+	http://www.grid.ac/institutes/grid.439758.4....... http://www.grid.ac/institutes/grid.461300.0....... 0.9............................................... [Leatherhead Community Hospital] was compared to [Peterhead Community Hospital] 
+	http://www.grid.ac/institutes/grid.439429.1....... http://risis.eu/orgref_20170703/resource/5843882.. 0.892857142857.................................... [Peterlee Community Hospital] was compared to [Peterhead Community Hospital] 
+	http://risis.eu/orgref_20170703/resource/5843882.. http://www.grid.ac/institutes/grid.439429.1....... 0.892857142857.................................... [Peterlee Community Hospital] was compared to [Peterhead Community Hospital] 
+	http://risis.eu/orgref_20170703/resource/5843882.. http://www.grid.ac/institutes/grid.439430.9....... 0.866666666667.................................... [Petersfield Community Hospital] was compared to [Peterhead Community Hospital] 
+	http://www.grid.ac/institutes/grid.439430.9....... http://risis.eu/orgref_20170703/resource/5843882.. 0.866666666667.................................... [Petersfield Community Hospital] was compared to [Peterhead Community Hospital] 
+	http://risis.eu/orgref_20170703/resource/5843882.. http://www.grid.ac/institutes/grid.439758.4....... 0.9............................................... [Leatherhead Community Hospital] was compared to [Peterhead Community Hospital] 
+	http://www.grid.ac/institutes/grid.439758.4....... http://risis.eu/orgref_20170703/resource/5843882.. 0.9............................................... [Leatherhead Community Hospital] was compared to [Peterhead Community Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.439429.1....... Peterlee Community Hospital....................... 
+	http://www.grid.ac/institutes/grid.461300.0....... -1.792543......................................... 
+	http://www.grid.ac/institutes/grid.461300.0....... 57.502834......................................... 
+	http://www.grid.ac/institutes/grid.461300.0....... http://www.nhsgrampian.org/nhsgrampian/gra_display_simple_index.jsp?pContentID=4236&p_applic=CCC& 
+	http://www.grid.ac/institutes/grid.461300.0....... Peterhead Community Hospital...................... 
+	http://risis.eu/orgref_20170703/resource/5843882.. http://en.wikipedia.org/wiki?curid=5843882........ 
+	http://risis.eu/orgref_20170703/resource/5843882.. http://www.wikidata.org/wiki/Q14956755............ 
+	http://risis.eu/orgref_20170703/resource/5843882.. Peterhead Community Hospital...................... 
+	http://www.grid.ac/institutes/grid.439758.4....... Leatherhead Community Hospital.................... 
+	http://www.grid.ac/institutes/grid.439430.9....... Petersfield Community Hospital.................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.461300.0', '1:grid.439429.1'), ('2:grid.461300.0', '4:grid.439758.4'), ('3:5843882', '1:grid.439429.1'), ('3:5843882', '2:grid.461300.0'), ('3:5843882', '5:grid.439430.9'), ('4:grid.439758.4', '3:5843882'), ('5:grid.439430.9', '2:grid.461300.0')]
+	MAX DISTANCE:                   : 0.7
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 2.2
+	AVERAGE NODE CONNECTIVITY RATIO : 0.55
+	BRIDGES                         : 0
+	CLOSURE                         : 0.7
+	DIAMETER                        : 2
+	QUALITY                         : 0.211
+	QUALITY USED                    : 0.228
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.3 DIAMETER 0.333 QUALITY 0.211 QUALITY USED 0.228
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.3 DIAMETER 0.385 QUALITY 0.211 QUALITY USED 0.228

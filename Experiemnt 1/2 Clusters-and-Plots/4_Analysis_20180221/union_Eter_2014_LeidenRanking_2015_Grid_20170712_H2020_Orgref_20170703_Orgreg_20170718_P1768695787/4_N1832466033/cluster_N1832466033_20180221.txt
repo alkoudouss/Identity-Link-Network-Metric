@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 14133 
+NAME    N1832466033
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/5770400>
+	<http://risis.eu/cordisH2020/resource/participant_925453139>
+	<http://risis.eu/eter_2014/resource/UK0091>
+	<http://www.grid.ac/institutes/grid.418024.b>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/5770400............ http://www.grid.ac/institutes/grid.418024.b................. 0.928571428571.............................................. [University of St Mark and St John] was compared to [University of St Mark & St John] 
+	http://www.grid.ac/institutes/grid.418024.b................. http://risis.eu/orgref_20170703/resource/5770400............ 0.928571428571.............................................. [University of St Mark and St John] was compared to [University of St Mark & St John] 
+	http://risis.eu/eter_2014/resource/UK0091................... http://www.grid.ac/institutes/grid.418024.b................. 1........................................................... [University of St Mark and St John] was compared to [University of St Mark and St John] 
+	http://www.grid.ac/institutes/grid.418024.b................. http://risis.eu/eter_2014/resource/UK0091................... 1........................................................... [University of St Mark and St John] was compared to [University of St Mark and St John] 
+	http://risis.eu/cordisH2020/resource/participant_925453139.. http://www.grid.ac/institutes/grid.418024.b................. 0.928571428571.............................................. [University of St Mark and St John] was compared to [UNIVERSITY OF ST MARK & ST JOHN] 
+	http://www.grid.ac/institutes/grid.418024.b................. http://risis.eu/cordisH2020/resource/participant_925453139.. 0.928571428571.............................................. [University of St Mark and St John] was compared to [UNIVERSITY OF ST MARK & ST JOHN] 
+	http://risis.eu/orgref_20170703/resource/5770400............ http://risis.eu/eter_2014/resource/UK0091................... 0.928571428571.............................................. [University of St Mark & St John] was compared to [University of St Mark and St John] 
+	http://risis.eu/eter_2014/resource/UK0091................... http://risis.eu/orgref_20170703/resource/5770400............ 0.928571428571.............................................. [University of St Mark & St John] was compared to [University of St Mark and St John] 
+	http://risis.eu/orgref_20170703/resource/5770400............ http://risis.eu/cordisH2020/resource/participant_925453139.. 1........................................................... [University of St Mark & St John] was compared to [UNIVERSITY OF ST MARK & ST JOHN] 
+	http://risis.eu/cordisH2020/resource/participant_925453139.. http://risis.eu/orgref_20170703/resource/5770400............ 1........................................................... [University of St Mark & St John] was compared to [UNIVERSITY OF ST MARK & ST JOHN] 
+	http://risis.eu/cordisH2020/resource/participant_925453139.. http://risis.eu/eter_2014/resource/UK0091................... 0.928571428571.............................................. [UNIVERSITY OF ST MARK & ST JOHN] was compared to [University of St Mark and St John] 
+	http://risis.eu/eter_2014/resource/UK0091................... http://risis.eu/cordisH2020/resource/participant_925453139.. 0.928571428571.............................................. [UNIVERSITY OF ST MARK & ST JOHN] was compared to [University of St Mark and St John] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/5770400............ http://en.wikipedia.org/wiki?curid=5770400.................. 
+	http://risis.eu/orgref_20170703/resource/5770400............ http://www.wikidata.org/wiki/Q7894637....................... 
+	http://risis.eu/orgref_20170703/resource/5770400............ http://marjon.ac.uk......................................... 
+	http://risis.eu/orgref_20170703/resource/5770400............ University of St Mark & St John............................. 
+	http://risis.eu/cordisH2020/resource/participant_925453139.. UNIVERSITY OF ST MARK & ST JOHN............................. 
+	http://risis.eu/eter_2014/resource/UK0091................... 50,421037................................................... 
+	http://risis.eu/eter_2014/resource/UK0091................... -4,110259................................................... 
+	http://risis.eu/eter_2014/resource/UK0091................... http://www.marjon.ac.uk/.................................... 
+	http://risis.eu/eter_2014/resource/UK0091................... a........................................................... 
+	http://risis.eu/eter_2014/resource/UK0091................... University of St Mark and St John........................... 
+	http://www.grid.ac/institutes/grid.418024.b................. -4.110422................................................... 
+	http://www.grid.ac/institutes/grid.418024.b................. 50.42113.................................................... 
+	http://www.grid.ac/institutes/grid.418024.b................. https://www.marjon.ac.uk/................................... 
+	http://www.grid.ac/institutes/grid.418024.b................. University of St Mark and St John........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:5770400', '4:grid.418024.b'), ('2:participant_925453139', '1:5770400'), ('3:UK0091', '1:5770400'), ('3:UK0091', '2:participant_925453139'), ('3:UK0091', '4:grid.418024.b'), ('4:grid.418024.b', '2:participant_925453139')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

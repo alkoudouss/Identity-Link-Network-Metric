@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 2348 
+NAME    N1565151807
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.466267.7>
+	<http://risis.eu/eter_2014/resource/BE0019>
+	<http://risis.eu/orgref_20170703/resource/15684083>
+	<http://risis.eu/orgreg_20170718/resource/BE0019>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.466267.7........ http://risis.eu/orgref_20170703/resource/15684083.. 1.................................................. [Haute École de la Province de Liège] was compared to [Haute École de la Province de Liège] 
+	http://risis.eu/orgref_20170703/resource/15684083.. http://www.grid.ac/institutes/grid.466267.7........ 1.................................................. [Haute École de la Province de Liège] was compared to [Haute École de la Province de Liège] 
+	http://www.grid.ac/institutes/grid.466267.7........ http://risis.eu/eter_2014/resource/BE0019.......... 1.................................................. [Haute École de la Province de Liège] was compared to [Haute Ecole de la Province de Liège] 
+	http://risis.eu/eter_2014/resource/BE0019.......... http://www.grid.ac/institutes/grid.466267.7........ 1.................................................. [Haute École de la Province de Liège] was compared to [Haute Ecole de la Province de Liège] 
+	http://risis.eu/eter_2014/resource/BE0019.......... http://risis.eu/orgref_20170703/resource/15684083.. 1.................................................. [Haute École de la Province de Liège] was compared to [Haute Ecole de la Province de Liège] 
+	http://risis.eu/orgref_20170703/resource/15684083.. http://risis.eu/eter_2014/resource/BE0019.......... 1.................................................. [Haute École de la Province de Liège] was compared to [Haute Ecole de la Province de Liège] 
+	http://risis.eu/eter_2014/resource/BE0019.......... http://risis.eu/orgreg_20170718/resource/BE0019.... 1.................................................. [Haute Ecole de la Province de Liège] was compared to [Haute Ecole de la Province de Liège] 
+	http://risis.eu/orgreg_20170718/resource/BE0019.... http://risis.eu/eter_2014/resource/BE0019.......... 1.................................................. [Haute Ecole de la Province de Liège] was compared to [Haute Ecole de la Province de Liège] 
+	http://risis.eu/orgref_20170703/resource/15684083.. http://risis.eu/orgreg_20170718/resource/BE0019.... 1.................................................. [Haute École de la Province de Liège] was compared to [Haute Ecole de la Province de Liège] 
+	http://risis.eu/orgreg_20170718/resource/BE0019.... http://risis.eu/orgref_20170703/resource/15684083.. 1.................................................. [Haute École de la Province de Liège] was compared to [Haute Ecole de la Province de Liège] 
+	http://www.grid.ac/institutes/grid.466267.7........ http://risis.eu/orgreg_20170718/resource/BE0019.... 1.................................................. [Haute École de la Province de Liège] was compared to [Haute Ecole de la Province de Liège] 
+	http://risis.eu/orgreg_20170718/resource/BE0019.... http://www.grid.ac/institutes/grid.466267.7........ 1.................................................. [Haute École de la Province de Liège] was compared to [Haute Ecole de la Province de Liège] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.466267.7........ 5.510067........................................... 
+	http://www.grid.ac/institutes/grid.466267.7........ 50.61094........................................... 
+	http://www.grid.ac/institutes/grid.466267.7........ http://www.provincedeliege.be/en/hauteecole........ 
+	http://www.grid.ac/institutes/grid.466267.7........ Haute École de la Province de Liège.............. 
+	http://risis.eu/eter_2014/resource/BE0019.......... 50,580518.......................................... 
+	http://risis.eu/eter_2014/resource/BE0019.......... 5,507682........................................... 
+	http://risis.eu/eter_2014/resource/BE0019.......... http://www.provincedeliege.be/hauteecole........... 
+	http://risis.eu/eter_2014/resource/BE0019.......... a.................................................. 
+	http://risis.eu/eter_2014/resource/BE0019.......... Haute Ecole de la Province de Liège............... 
+	http://risis.eu/orgref_20170703/resource/15684083.. http://en.wikipedia.org/wiki?curid=15684083........ 
+	http://risis.eu/orgref_20170703/resource/15684083.. http://www.wikidata.org/wiki/Q3128589.............. 
+	http://risis.eu/orgref_20170703/resource/15684083.. http://www.hepl.be/?lang=en........................ 
+	http://risis.eu/orgref_20170703/resource/15684083.. Haute École de la Province de Liège.............. 
+	http://risis.eu/orgreg_20170718/resource/BE0019.... 5.507682........................................... 
+	http://risis.eu/orgreg_20170718/resource/BE0019.... 50.580518.......................................... 
+	http://risis.eu/orgreg_20170718/resource/BE0019.... http://www.provincedeliege.be/hauteecole........... 
+	http://risis.eu/orgreg_20170718/resource/BE0019.... Haute Ecole de la Province de Liège............... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:BE0019', '1:grid.466267.7'), ('2:BE0019', '4:BE0019'), ('3:15684083', '1:grid.466267.7'), ('3:15684083', '2:BE0019'), ('4:BE0019', '1:grid.466267.7'), ('4:BE0019', '3:15684083')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

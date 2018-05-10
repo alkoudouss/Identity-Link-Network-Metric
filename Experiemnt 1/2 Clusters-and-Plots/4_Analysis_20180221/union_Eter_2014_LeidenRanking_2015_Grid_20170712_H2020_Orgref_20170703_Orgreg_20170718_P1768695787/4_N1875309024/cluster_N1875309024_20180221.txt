@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 7415 
+NAME    N1875309024
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/1064216>
+	<http://risis.eu/orgreg_20170718/resource/GR0015>
+	<http://risis.eu/leidenRanking_2015/resource/363>
+	<http://www.grid.ac/institutes/grid.4241.3>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/1064216.. http://www.grid.ac/institutes/grid.4241.3......... 1................................................. [National Technical University of Athens] was compared to [National Technical University of Athens] 
+	http://www.grid.ac/institutes/grid.4241.3......... http://risis.eu/orgref_20170703/resource/1064216.. 1................................................. [National Technical University of Athens] was compared to [National Technical University of Athens] 
+	http://risis.eu/leidenRanking_2015/resource/363... http://www.grid.ac/institutes/grid.4241.3......... 1................................................. [National Technical University of Athens] was compared to [National Technical University of Athens] 
+	http://www.grid.ac/institutes/grid.4241.3......... http://risis.eu/leidenRanking_2015/resource/363... 1................................................. [National Technical University of Athens] was compared to [National Technical University of Athens] 
+	http://risis.eu/orgref_20170703/resource/1064216.. http://risis.eu/leidenRanking_2015/resource/363... 1................................................. [National Technical University of Athens] was compared to [National Technical University of Athens] 
+	http://risis.eu/leidenRanking_2015/resource/363... http://risis.eu/orgref_20170703/resource/1064216.. 1................................................. [National Technical University of Athens] was compared to [National Technical University of Athens] 
+	http://risis.eu/orgreg_20170718/resource/GR0015... http://risis.eu/leidenRanking_2015/resource/363... 1................................................. [NATIONAL TECHNICAL UNIVERSITY OF ATHENS] was compared to [National Technical University of Athens] 
+	http://risis.eu/leidenRanking_2015/resource/363... http://risis.eu/orgreg_20170718/resource/GR0015... 1................................................. [NATIONAL TECHNICAL UNIVERSITY OF ATHENS] was compared to [National Technical University of Athens] 
+	http://risis.eu/orgref_20170703/resource/1064216.. http://risis.eu/orgreg_20170718/resource/GR0015... 1................................................. [National Technical University of Athens] was compared to [NATIONAL TECHNICAL UNIVERSITY OF ATHENS] 
+	http://risis.eu/orgreg_20170718/resource/GR0015... http://risis.eu/orgref_20170703/resource/1064216.. 1................................................. [National Technical University of Athens] was compared to [NATIONAL TECHNICAL UNIVERSITY OF ATHENS] 
+	http://risis.eu/orgreg_20170718/resource/GR0015... http://www.grid.ac/institutes/grid.4241.3......... 1................................................. [National Technical University of Athens] was compared to [NATIONAL TECHNICAL UNIVERSITY OF ATHENS] 
+	http://www.grid.ac/institutes/grid.4241.3......... http://risis.eu/orgreg_20170718/resource/GR0015... 1................................................. [National Technical University of Athens] was compared to [NATIONAL TECHNICAL UNIVERSITY OF ATHENS] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/1064216.. http://en.wikipedia.org/wiki?curid=1064216........ 
+	http://risis.eu/orgref_20170703/resource/1064216.. http://www.wikidata.org/wiki/Q1640726............. 
+	http://risis.eu/orgref_20170703/resource/1064216.. http://www.ntua.gr................................ 
+	http://risis.eu/orgref_20170703/resource/1064216.. National Technical University of Athens........... 
+	http://risis.eu/orgreg_20170718/resource/GR0015... http://www.ntua.gr/............................... 
+	http://risis.eu/orgreg_20170718/resource/GR0015... NATIONAL TECHNICAL UNIVERSITY OF ATHENS........... 
+	http://risis.eu/leidenRanking_2015/resource/363... National Technical University of Athens........... 
+	http://www.grid.ac/institutes/grid.4241.3......... 23.782654......................................... 
+	http://www.grid.ac/institutes/grid.4241.3......... 37.978714......................................... 
+	http://www.grid.ac/institutes/grid.4241.3......... http://www.ntua.gr/index_en.html.................. 
+	http://www.grid.ac/institutes/grid.4241.3......... National Metsovian Polytechnic.................... 
+	http://www.grid.ac/institutes/grid.4241.3......... Athens Polytechnic................................ 
+	http://www.grid.ac/institutes/grid.4241.3......... National Technical University of Athens........... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:GR0015', '1:1064216'), ('2:GR0015', '4:grid.4241.3'), ('3:363', '1:1064216'), ('3:363', '2:GR0015'), ('3:363', '4:grid.4241.3'), ('4:grid.4241.3', '1:1064216')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

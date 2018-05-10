@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 515 
+NAME    N685074466
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/1423131>
+	<http://risis.eu/orgreg_20170718/resource/CZ0017>
+	<http://www.grid.ac/institutes/grid.21678.3a>
+	<http://risis.eu/leidenRanking_2015/resource/100>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/1423131.. http://www.grid.ac/institutes/grid.21678.3a....... 1................................................. [Tomas Bata University in Zlín] was compared to [Tomas Bata University in Zlín] 
+	http://www.grid.ac/institutes/grid.21678.3a....... http://risis.eu/orgref_20170703/resource/1423131.. 1................................................. [Tomas Bata University in Zlín] was compared to [Tomas Bata University in Zlín] 
+	http://risis.eu/orgreg_20170718/resource/CZ0017... http://risis.eu/leidenRanking_2015/resource/100... 0.961538461538.................................... [Tomas Bata University in Zlín] was compared to [Tomas Bata University, Zl�n] 
+	http://risis.eu/leidenRanking_2015/resource/100... http://risis.eu/orgreg_20170718/resource/CZ0017... 0.961538461538.................................... [Tomas Bata University in Zlín] was compared to [Tomas Bata University, Zl�n] 
+	http://risis.eu/orgref_20170703/resource/1423131.. http://risis.eu/orgreg_20170718/resource/CZ0017... 1................................................. [Tomas Bata University in Zlín] was compared to [Tomas Bata University in Zlín] 
+	http://risis.eu/orgreg_20170718/resource/CZ0017... http://risis.eu/orgref_20170703/resource/1423131.. 1................................................. [Tomas Bata University in Zlín] was compared to [Tomas Bata University in Zlín] 
+	http://risis.eu/orgref_20170703/resource/1423131.. http://risis.eu/leidenRanking_2015/resource/100... 0.961538461538.................................... [Tomas Bata University in Zlín] was compared to [Tomas Bata University, Zl�n] 
+	http://risis.eu/leidenRanking_2015/resource/100... http://risis.eu/orgref_20170703/resource/1423131.. 0.961538461538.................................... [Tomas Bata University in Zlín] was compared to [Tomas Bata University, Zl�n] 
+	http://risis.eu/orgreg_20170718/resource/CZ0017... http://www.grid.ac/institutes/grid.21678.3a....... 1................................................. [Tomas Bata University in Zlín] was compared to [Tomas Bata University in Zlín] 
+	http://www.grid.ac/institutes/grid.21678.3a....... http://risis.eu/orgreg_20170718/resource/CZ0017... 1................................................. [Tomas Bata University in Zlín] was compared to [Tomas Bata University in Zlín] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/1423131.. http://en.wikipedia.org/wiki?curid=1423131........ 
+	http://risis.eu/orgref_20170703/resource/1423131.. http://www.wikidata.org/wiki/Q1267725............. 
+	http://risis.eu/orgref_20170703/resource/1423131.. http://web.utb.cz/?lang=en........................ 
+	http://risis.eu/orgref_20170703/resource/1423131.. Tomas Bata University in Zlín.................... 
+	http://risis.eu/orgreg_20170718/resource/CZ0017... 17.663056......................................... 
+	http://risis.eu/orgreg_20170718/resource/CZ0017... 49.225833......................................... 
+	http://risis.eu/orgreg_20170718/resource/CZ0017... http://www.utb.cz/................................ 
+	http://risis.eu/orgreg_20170718/resource/CZ0017... Tomas Bata University in Zlín.................... 
+	http://www.grid.ac/institutes/grid.21678.3a....... 17.666872......................................... 
+	http://www.grid.ac/institutes/grid.21678.3a....... 49.223186......................................... 
+	http://www.grid.ac/institutes/grid.21678.3a....... http://www.utb.cz/index.php?lang=2................ 
+	http://www.grid.ac/institutes/grid.21678.3a....... Univerzita Tomáše Bati ve Zlíně............... 
+	http://www.grid.ac/institutes/grid.21678.3a....... Tomas Bata University in Zlín.................... 
+	http://risis.eu/leidenRanking_2015/resource/100... Tomas Bata University, Zl�n..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:1423131', '3:grid.21678.3a'), ('2:CZ0017', '1:1423131'), ('3:grid.21678.3a', '2:CZ0017'), ('4:100', '1:1423131'), ('4:100', '2:CZ0017')]
+	MAX DISTANCE:                   : 0.833
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 2.16666666667
+	AVERAGE NODE CONNECTIVITY RATIO : 0.722222222222
+	BRIDGES                         : 0
+	CLOSURE                         : 0.833
+	DIAMETER                        : 2
+	QUALITY                         : 0.223
+	QUALITY USED                    : 0.223
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223

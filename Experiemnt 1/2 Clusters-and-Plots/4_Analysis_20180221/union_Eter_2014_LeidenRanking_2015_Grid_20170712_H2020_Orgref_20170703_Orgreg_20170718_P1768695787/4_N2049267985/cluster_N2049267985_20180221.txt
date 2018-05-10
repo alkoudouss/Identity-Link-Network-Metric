@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 10480 
+NAME    N2049267985
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.472760.0>
+	<http://www.grid.ac/institutes/grid.481851.1>
+	<http://www.grid.ac/institutes/grid.424097.c>
+	<http://www.grid.ac/institutes/grid.474358.9>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.481851.1.. http://www.grid.ac/institutes/grid.424097.c.. 1............................................ [Coloplast (Denmark)] was compared to [Coloplast (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.424097.c.. http://www.grid.ac/institutes/grid.481851.1.. 1............................................ [Coloplast (Denmark)] was compared to [Coloplast (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.424097.c.. http://www.grid.ac/institutes/grid.474358.9.. 1............................................ [Coloplast (Denmark)] was compared to [Coloplast (United States)] 
+	http://www.grid.ac/institutes/grid.474358.9.. http://www.grid.ac/institutes/grid.424097.c.. 1............................................ [Coloplast (Denmark)] was compared to [Coloplast (United States)] 
+	http://www.grid.ac/institutes/grid.472760.0.. http://www.grid.ac/institutes/grid.424097.c.. 1............................................ [Coloplast (Denmark)] was compared to [Coloplast (Germany)] 
+	http://www.grid.ac/institutes/grid.424097.c.. http://www.grid.ac/institutes/grid.472760.0.. 1............................................ [Coloplast (Denmark)] was compared to [Coloplast (Germany)] 
+	http://www.grid.ac/institutes/grid.472760.0.. http://www.grid.ac/institutes/grid.481851.1.. 1............................................ [Coloplast (Germany)] was compared to [Coloplast (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.481851.1.. http://www.grid.ac/institutes/grid.472760.0.. 1............................................ [Coloplast (Germany)] was compared to [Coloplast (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.472760.0.. http://www.grid.ac/institutes/grid.474358.9.. 1............................................ [Coloplast (Germany)] was compared to [Coloplast (United States)] 
+	http://www.grid.ac/institutes/grid.474358.9.. http://www.grid.ac/institutes/grid.472760.0.. 1............................................ [Coloplast (Germany)] was compared to [Coloplast (United States)] 
+	http://www.grid.ac/institutes/grid.481851.1.. http://www.grid.ac/institutes/grid.474358.9.. 1............................................ [Coloplast (United States)] was compared to [Coloplast (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.474358.9.. http://www.grid.ac/institutes/grid.481851.1.. 1............................................ [Coloplast (United States)] was compared to [Coloplast (United Kingdom)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.472760.0.. 12.101411.................................... 
+	http://www.grid.ac/institutes/grid.472760.0.. 47.783768.................................... 
+	http://www.grid.ac/institutes/grid.472760.0.. http://www.coloplast.de/..................... 
+	http://www.grid.ac/institutes/grid.472760.0.. Coloplast (Germany).......................... 
+	http://www.grid.ac/institutes/grid.481851.1.. -0.32164..................................... 
+	http://www.grid.ac/institutes/grid.481851.1.. 52.555298.................................... 
+	http://www.grid.ac/institutes/grid.481851.1.. https://www.coloplast.co.uk/................. 
+	http://www.grid.ac/institutes/grid.481851.1.. Coloplast (United Kingdom)................... 
+	http://www.grid.ac/institutes/grid.424097.c.. 12.496016.................................... 
+	http://www.grid.ac/institutes/grid.424097.c.. 55.966084.................................... 
+	http://www.grid.ac/institutes/grid.424097.c.. http://www.coloplast.com/.................... 
+	http://www.grid.ac/institutes/grid.424097.c.. Coloplast (Denmark).......................... 
+	http://www.grid.ac/institutes/grid.474358.9.. -93.27735.................................... 
+	http://www.grid.ac/institutes/grid.474358.9.. 44.995506.................................... 
+	http://www.grid.ac/institutes/grid.474358.9.. http://www.coloplast.com/.................... 
+	http://www.grid.ac/institutes/grid.474358.9.. Coloplast (United States).................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.481851.1', '1:grid.472760.0'), ('2:grid.481851.1', '3:grid.424097.c'), ('2:grid.481851.1', '4:grid.474358.9'), ('3:grid.424097.c', '1:grid.472760.0'), ('4:grid.474358.9', '1:grid.472760.0'), ('4:grid.474358.9', '3:grid.424097.c')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

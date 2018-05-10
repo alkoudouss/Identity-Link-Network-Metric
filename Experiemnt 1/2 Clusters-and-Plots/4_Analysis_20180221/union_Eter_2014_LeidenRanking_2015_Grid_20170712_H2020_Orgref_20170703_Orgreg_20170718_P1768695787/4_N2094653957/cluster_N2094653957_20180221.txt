@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 16750 
+NAME    N2094653957
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.59734.3c>
+	<http://risis.eu/leidenRanking_2015/resource/1258>
+	<http://risis.eu/cordisH2020/resource/participant_985934482>
+	<http://risis.eu/orgref_20170703/resource/3688874>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.59734.3c................. http://risis.eu/orgref_20170703/resource/3688874............ 1........................................................... [Icahn School of Medicine at Mount Sinai] was compared to [Icahn School of Medicine at Mount Sinai] 
+	http://risis.eu/orgref_20170703/resource/3688874............ http://www.grid.ac/institutes/grid.59734.3c................. 1........................................................... [Icahn School of Medicine at Mount Sinai] was compared to [Icahn School of Medicine at Mount Sinai] 
+	http://www.grid.ac/institutes/grid.59734.3c................. http://risis.eu/leidenRanking_2015/resource/1258............ 0.916666666667.............................................. [Icahn School of Medicine at Mount Sinai] was compared to [Icahn School of Medicine, Mount Sinai] 
+	http://risis.eu/leidenRanking_2015/resource/1258............ http://www.grid.ac/institutes/grid.59734.3c................. 0.916666666667.............................................. [Icahn School of Medicine at Mount Sinai] was compared to [Icahn School of Medicine, Mount Sinai] 
+	http://www.grid.ac/institutes/grid.59734.3c................. http://risis.eu/cordisH2020/resource/participant_985934482.. 1........................................................... [Icahn School of Medicine at Mount Sinai] was compared to [ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI] 
+	http://risis.eu/cordisH2020/resource/participant_985934482.. http://www.grid.ac/institutes/grid.59734.3c................. 1........................................................... [Icahn School of Medicine at Mount Sinai] was compared to [ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI] 
+	http://risis.eu/leidenRanking_2015/resource/1258............ http://risis.eu/orgref_20170703/resource/3688874............ 0.916666666667.............................................. [Icahn School of Medicine at Mount Sinai] was compared to [Icahn School of Medicine, Mount Sinai] 
+	http://risis.eu/orgref_20170703/resource/3688874............ http://risis.eu/leidenRanking_2015/resource/1258............ 0.916666666667.............................................. [Icahn School of Medicine at Mount Sinai] was compared to [Icahn School of Medicine, Mount Sinai] 
+	http://risis.eu/cordisH2020/resource/participant_985934482.. http://risis.eu/orgref_20170703/resource/3688874............ 1........................................................... [Icahn School of Medicine at Mount Sinai] was compared to [ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI] 
+	http://risis.eu/orgref_20170703/resource/3688874............ http://risis.eu/cordisH2020/resource/participant_985934482.. 1........................................................... [Icahn School of Medicine at Mount Sinai] was compared to [ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI] 
+	http://risis.eu/leidenRanking_2015/resource/1258............ http://risis.eu/cordisH2020/resource/participant_985934482.. 0.916666666667.............................................. [ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI] was compared to [Icahn School of Medicine, Mount Sinai] 
+	http://risis.eu/cordisH2020/resource/participant_985934482.. http://risis.eu/leidenRanking_2015/resource/1258............ 0.916666666667.............................................. [ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI] was compared to [Icahn School of Medicine, Mount Sinai] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.59734.3c................. -73.95311................................................... 
+	http://www.grid.ac/institutes/grid.59734.3c................. 40.789085................................................... 
+	http://www.grid.ac/institutes/grid.59734.3c................. http://icahn.mssm.edu/...................................... 
+	http://www.grid.ac/institutes/grid.59734.3c................. Mount Sinai School of Medicine.............................. 
+	http://www.grid.ac/institutes/grid.59734.3c................. Icahn School of Medicine at Mount Sinai..................... 
+	http://risis.eu/leidenRanking_2015/resource/1258............ Icahn School of Medicine, Mount Sinai....................... 
+	http://risis.eu/cordisH2020/resource/participant_985934482.. ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI..................... 
+	http://risis.eu/orgref_20170703/resource/3688874............ http://en.wikipedia.org/wiki?curid=3688874.................. 
+	http://risis.eu/orgref_20170703/resource/3688874............ http://www.wikidata.org/wiki/Q1950740....................... 
+	http://risis.eu/orgref_20170703/resource/3688874............ http://icahn.mssm.edu....................................... 
+	http://risis.eu/orgref_20170703/resource/3688874............ Icahn School of Medicine at Mount Sinai..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1258', '1:grid.59734.3c'), ('2:1258', '4:3688874'), ('3:participant_985934482', '1:grid.59734.3c'), ('3:participant_985934482', '2:1258'), ('3:participant_985934482', '4:3688874'), ('4:3688874', '1:grid.59734.3c')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

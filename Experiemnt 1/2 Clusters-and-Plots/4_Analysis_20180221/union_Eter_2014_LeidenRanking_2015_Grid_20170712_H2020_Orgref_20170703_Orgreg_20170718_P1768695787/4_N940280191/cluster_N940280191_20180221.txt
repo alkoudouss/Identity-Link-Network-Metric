@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 15339 
+NAME    N940280191
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.431875.c>
+	<http://www.grid.ac/institutes/grid.464755.1>
+	<http://www.grid.ac/institutes/grid.476061.2>
+	<http://risis.eu/orgref_20170703/resource/1899802>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.431875.c....... http://www.grid.ac/institutes/grid.464755.1....... 1................................................. [Biocon (United States)] was compared to [Biocon (India)] 
+	http://www.grid.ac/institutes/grid.464755.1....... http://www.grid.ac/institutes/grid.431875.c....... 1................................................. [Biocon (United States)] was compared to [Biocon (India)] 
+	http://www.grid.ac/institutes/grid.431875.c....... http://www.grid.ac/institutes/grid.476061.2....... 1................................................. [Biocon (United States)] was compared to [Biocon (Switzerland)] 
+	http://www.grid.ac/institutes/grid.476061.2....... http://www.grid.ac/institutes/grid.431875.c....... 1................................................. [Biocon (United States)] was compared to [Biocon (Switzerland)] 
+	http://www.grid.ac/institutes/grid.464755.1....... http://www.grid.ac/institutes/grid.476061.2....... 1................................................. [Biocon (India)] was compared to [Biocon (Switzerland)] 
+	http://www.grid.ac/institutes/grid.476061.2....... http://www.grid.ac/institutes/grid.464755.1....... 1................................................. [Biocon (India)] was compared to [Biocon (Switzerland)] 
+	http://www.grid.ac/institutes/grid.431875.c....... http://risis.eu/orgref_20170703/resource/1899802.. 1................................................. [Biocon (United States)] was compared to [Biocon]. 
+	http://risis.eu/orgref_20170703/resource/1899802.. http://www.grid.ac/institutes/grid.431875.c....... 1................................................. [Biocon (United States)] was compared to [Biocon]. 
+	http://www.grid.ac/institutes/grid.464755.1....... http://risis.eu/orgref_20170703/resource/1899802.. 1................................................. [Biocon (India)] was compared to [Biocon]......... 
+	http://risis.eu/orgref_20170703/resource/1899802.. http://www.grid.ac/institutes/grid.464755.1....... 1................................................. [Biocon (India)] was compared to [Biocon]......... 
+	http://www.grid.ac/institutes/grid.476061.2....... http://risis.eu/orgref_20170703/resource/1899802.. 1................................................. [Biocon (Switzerland)] was compared to [Biocon]... 
+	http://risis.eu/orgref_20170703/resource/1899802.. http://www.grid.ac/institutes/grid.476061.2....... 1................................................. [Biocon (Switzerland)] was compared to [Biocon]... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.431875.c....... Biocon (United States)............................ 
+	http://www.grid.ac/institutes/grid.464755.1....... 77.679............................................ 
+	http://www.grid.ac/institutes/grid.464755.1....... 12.832439......................................... 
+	http://www.grid.ac/institutes/grid.464755.1....... http://www.biocon.com/............................ 
+	http://www.grid.ac/institutes/grid.464755.1....... Biocon (India).................................... 
+	http://www.grid.ac/institutes/grid.476061.2....... 7.347295.......................................... 
+	http://www.grid.ac/institutes/grid.476061.2....... 47.364193......................................... 
+	http://www.grid.ac/institutes/grid.476061.2....... http://www.biocon.com/............................ 
+	http://www.grid.ac/institutes/grid.476061.2....... Biocon (Switzerland).............................. 
+	http://risis.eu/orgref_20170703/resource/1899802.. http://en.wikipedia.org/wiki?curid=1899802........ 
+	http://risis.eu/orgref_20170703/resource/1899802.. http://www.wikidata.org/wiki/Q487694.............. 
+	http://risis.eu/orgref_20170703/resource/1899802.. http://www.biocon.com............................. 
+	http://risis.eu/orgref_20170703/resource/1899802.. Biocon............................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.464755.1', '1:grid.431875.c'), ('3:grid.476061.2', '1:grid.431875.c'), ('3:grid.476061.2', '2:grid.464755.1'), ('4:1899802', '1:grid.431875.c'), ('4:1899802', '2:grid.464755.1'), ('4:1899802', '3:grid.476061.2')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

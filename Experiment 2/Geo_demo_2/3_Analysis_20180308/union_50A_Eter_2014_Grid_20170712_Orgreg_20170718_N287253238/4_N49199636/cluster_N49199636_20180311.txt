@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 851 
+NAME    N49199636
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/IE0004>
+	<http://risis.eu/orgreg_20170718/resource/IE0001>
+	<http://risis.eu/eter_2014/resource/IE0004>
+	<http://risis.eu/eter_2014/resource/IE0001>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/IE0004.. http://risis.eu/eter_2014/resource/IE0001........ 0.76............................................. [trinity college dublin] was compared to [university college dublin] 
+	http://risis.eu/orgreg_20170718/resource/IE0004.. http://risis.eu/eter_2014/resource/IE0004........ 1................................................ [trinity college dublin] was compared to [trinity college dublin] 
+	http://risis.eu/orgreg_20170718/resource/IE0001.. http://risis.eu/eter_2014/resource/IE0001........ 1................................................ [university college dublin] was compared to [university college dublin] 
+	http://risis.eu/eter_2014/resource/IE0004........ http://risis.eu/orgreg_20170718/resource/IE0004.. 1................................................ [trinity college dublin] was compared to [trinity college dublin] 
+	http://risis.eu/eter_2014/resource/IE0001........ http://risis.eu/orgreg_20170718/resource/IE0001.. 1................................................ [university college dublin] was compared to [university college dublin] 
+	http://risis.eu/eter_2014/resource/IE0001........ http://risis.eu/orgreg_20170718/resource/IE0004.. 0.76............................................. [trinity college dublin] was compared to [university college dublin] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/IE0004.. -6.2603097....................................... 
+	http://risis.eu/orgreg_20170718/resource/IE0004.. 53.3498053....................................... 
+	http://risis.eu/orgreg_20170718/resource/IE0004.. http://www.tcd.ie................................ 
+	http://risis.eu/orgreg_20170718/resource/IE0004.. Trinity College Dublin........................... 
+	http://risis.eu/orgreg_20170718/resource/IE0001.. -6.2603097....................................... 
+	http://risis.eu/orgreg_20170718/resource/IE0001.. 53.3498053....................................... 
+	http://risis.eu/orgreg_20170718/resource/IE0001.. http://www.ucd.ie................................ 
+	http://risis.eu/orgreg_20170718/resource/IE0001.. University College Dublin........................ 
+	http://risis.eu/eter_2014/resource/IE0004........ 53,3498053....................................... 
+	http://risis.eu/eter_2014/resource/IE0004........ -6,2603097....................................... 
+	http://risis.eu/eter_2014/resource/IE0004........ http://www.tcd.ie................................ 
+	http://risis.eu/eter_2014/resource/IE0004........ a................................................ 
+	http://risis.eu/eter_2014/resource/IE0004........ Trinity College Dublin........................... 
+	http://risis.eu/eter_2014/resource/IE0001........ 53,3498053....................................... 
+	http://risis.eu/eter_2014/resource/IE0001........ -6,2603097....................................... 
+	http://risis.eu/eter_2014/resource/IE0001........ http://www.ucd.ie................................ 
+	http://risis.eu/eter_2014/resource/IE0001........ a................................................ 
+	http://risis.eu/eter_2014/resource/IE0001........ University College Dublin........................ 
+
+NETWORK ANALYSIS
+	NETWORK [('N49199636-IE0004', 'P160529881-IE0004'), ('N46199593-IE0001', 'P165529898-IE0001'), ('N46199593-IE0001', 'P160529881-IE0004')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

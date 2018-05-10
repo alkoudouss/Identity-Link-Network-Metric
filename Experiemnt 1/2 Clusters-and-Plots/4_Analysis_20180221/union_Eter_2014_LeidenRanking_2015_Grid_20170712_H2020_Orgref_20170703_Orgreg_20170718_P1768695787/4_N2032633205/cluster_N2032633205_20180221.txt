@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 12054 
+NAME    N2032633205
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/1889835>
+	<http://risis.eu/orgref_20170703/resource/516753>
+	<http://www.grid.ac/institutes/grid.431470.5>
+	<http://www.grid.ac/institutes/grid.265172.5>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/516753... http://www.grid.ac/institutes/grid.265172.5....... 1................................................. [Trinity University] was compared to [Trinity University (Texas)] 
+	http://www.grid.ac/institutes/grid.265172.5....... http://risis.eu/orgref_20170703/resource/516753... 1................................................. [Trinity University] was compared to [Trinity University (Texas)] 
+	http://risis.eu/orgref_20170703/resource/1889835.. http://www.grid.ac/institutes/grid.431470.5....... 1................................................. [University of Divinity] was compared to [University of Divinity] 
+	http://www.grid.ac/institutes/grid.431470.5....... http://risis.eu/orgref_20170703/resource/1889835.. 1................................................. [University of Divinity] was compared to [University of Divinity] 
+	http://risis.eu/orgref_20170703/resource/1889835.. http://risis.eu/orgref_20170703/resource/516753... 0.842105263158.................................... [University of Divinity] was compared to [Trinity University (Texas)] 
+	http://risis.eu/orgref_20170703/resource/516753... http://risis.eu/orgref_20170703/resource/1889835.. 0.842105263158.................................... [University of Divinity] was compared to [Trinity University (Texas)] 
+	http://www.grid.ac/institutes/grid.431470.5....... http://www.grid.ac/institutes/grid.265172.5....... 0.842105263158.................................... [Trinity University] was compared to [University of Divinity] 
+	http://www.grid.ac/institutes/grid.265172.5....... http://www.grid.ac/institutes/grid.431470.5....... 0.842105263158.................................... [Trinity University] was compared to [University of Divinity] 
+	http://risis.eu/orgref_20170703/resource/1889835.. http://www.grid.ac/institutes/grid.265172.5....... 0.842105263158.................................... [Trinity University] was compared to [University of Divinity] 
+	http://www.grid.ac/institutes/grid.265172.5....... http://risis.eu/orgref_20170703/resource/1889835.. 0.842105263158.................................... [Trinity University] was compared to [University of Divinity] 
+	http://risis.eu/orgref_20170703/resource/516753... http://www.grid.ac/institutes/grid.431470.5....... 0.842105263158.................................... [University of Divinity] was compared to [Trinity University (Texas)] 
+	http://www.grid.ac/institutes/grid.431470.5....... http://risis.eu/orgref_20170703/resource/516753... 0.842105263158.................................... [University of Divinity] was compared to [Trinity University (Texas)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/1889835.. http://en.wikipedia.org/wiki?curid=1889835........ 
+	http://risis.eu/orgref_20170703/resource/1889835.. http://www.wikidata.org/wiki/Q1467920............. 
+	http://risis.eu/orgref_20170703/resource/1889835.. http://www.divinity.edu.au........................ 
+	http://risis.eu/orgref_20170703/resource/1889835.. University of Divinity............................ 
+	http://risis.eu/orgref_20170703/resource/516753... http://en.wikipedia.org/wiki?curid=516753......... 
+	http://risis.eu/orgref_20170703/resource/516753... http://www.wikidata.org/wiki/Q1311379............. 
+	http://risis.eu/orgref_20170703/resource/516753... http://www.trinity.edu............................ 
+	http://risis.eu/orgref_20170703/resource/516753... Trinity University (Texas)........................ 
+	http://www.grid.ac/institutes/grid.431470.5....... 145.0366.......................................... 
+	http://www.grid.ac/institutes/grid.431470.5....... -37.805637........................................ 
+	http://www.grid.ac/institutes/grid.431470.5....... https://www.divinity.edu.au/...................... 
+	http://www.grid.ac/institutes/grid.431470.5....... Melbourne College of Divinity..................... 
+	http://www.grid.ac/institutes/grid.431470.5....... University of Divinity............................ 
+	http://www.grid.ac/institutes/grid.265172.5....... -98.48204......................................... 
+	http://www.grid.ac/institutes/grid.265172.5....... 29.463795......................................... 
+	http://www.grid.ac/institutes/grid.265172.5....... https://new.trinity.edu/.......................... 
+	http://www.grid.ac/institutes/grid.265172.5....... Trinity University................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:1889835', '4:grid.265172.5'), ('2:516753', '1:1889835'), ('2:516753', '3:grid.431470.5'), ('3:grid.431470.5', '1:1889835'), ('3:grid.431470.5', '4:grid.265172.5'), ('4:grid.265172.5', '2:516753')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

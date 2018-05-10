@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 1230 
+NAME    N1745281688
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.461754.5>
+	<http://www.grid.ac/institutes/grid.461716.3>
+	<http://risis.eu/eter_2014/resource/DE0396>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.461754.5.. http://risis.eu/eter_2014/resource/DE0396.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.461716.3.. http://risis.eu/eter_2014/resource/DE0396.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/DE0396.... http://www.grid.ac/institutes/grid.461716.3.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/DE0396.... http://www.grid.ac/institutes/grid.461754.5.. 1............................................ Near each other by at most 500 meter(s)...... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.461754.5.. 9.740426..................................... 
+	http://www.grid.ac/institutes/grid.461754.5.. 52.365574.................................... 
+	http://www.grid.ac/institutes/grid.461754.5.. http://www.landesmuseum-hannover.niedersachsen.de/portal/live.php?navigation_id=24291&_psmand=183 
+	http://www.grid.ac/institutes/grid.461754.5.. Lower Saxony State Museum.................... 
+	http://www.grid.ac/institutes/grid.461716.3.. 9.730859..................................... 
+	http://www.grid.ac/institutes/grid.461716.3.. 52.365288.................................... 
+	http://www.grid.ac/institutes/grid.461716.3.. http://www.gwlb.de/.......................... 
+	http://www.grid.ac/institutes/grid.461716.3.. Niedersächsische Landesbibliothek........... 
+	http://www.grid.ac/institutes/grid.461716.3.. Gottfried Wilhelm Leibniz Bibliothek......... 
+	http://risis.eu/eter_2014/resource/DE0396.... 52,363094.................................... 
+	http://risis.eu/eter_2014/resource/DE0396.... 9,736405..................................... 
+	http://risis.eu/eter_2014/resource/DE0396.... www.nsi-hannover.de.......................... 
+	http://risis.eu/eter_2014/resource/DE0396.... a............................................ 
+	http://risis.eu/eter_2014/resource/DE0396.... Kommunale Hochschule für Verwaltung in Niedersachsen 
+
+NETWORK ANALYSIS
+	NETWORK [('N368614285-DE0396', 'N1745281688-grid.461754.5'), ('N368614285-DE0396', 'P1069534144-grid.461716.3')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

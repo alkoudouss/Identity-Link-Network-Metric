@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 9380 
+NAME    N68037213
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.1010.0>
+	<http://risis.eu/leidenRanking_2015/resource/1054>
+	<http://www.grid.ac/institutes/grid.472242.5>
+	<http://risis.eu/orgref_20170703/resource/206748>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.1010.0......... http://risis.eu/orgref_20170703/resource/206748... 1................................................. [University of Adelaide] was compared to [University of Adelaide] 
+	http://risis.eu/orgref_20170703/resource/206748... http://www.grid.ac/institutes/grid.1010.0......... 1................................................. [University of Adelaide] was compared to [University of Adelaide] 
+	http://www.grid.ac/institutes/grid.1010.0......... http://risis.eu/leidenRanking_2015/resource/1054.. 1................................................. [University of Adelaide] was compared to [University of Adelaide] 
+	http://risis.eu/leidenRanking_2015/resource/1054.. http://www.grid.ac/institutes/grid.1010.0......... 1................................................. [University of Adelaide] was compared to [University of Adelaide] 
+	http://risis.eu/leidenRanking_2015/resource/1054.. http://risis.eu/orgref_20170703/resource/206748... 1................................................. [University of Adelaide] was compared to [University of Adelaide] 
+	http://risis.eu/orgref_20170703/resource/206748... http://risis.eu/leidenRanking_2015/resource/1054.. 1................................................. [University of Adelaide] was compared to [University of Adelaide] 
+	http://www.grid.ac/institutes/grid.1010.0......... http://www.grid.ac/institutes/grid.472242.5....... 0.842105263158.................................... [University of Adelaide] was compared to [Adeleke University] 
+	http://www.grid.ac/institutes/grid.472242.5....... http://www.grid.ac/institutes/grid.1010.0......... 0.842105263158.................................... [University of Adelaide] was compared to [Adeleke University] 
+	http://www.grid.ac/institutes/grid.472242.5....... http://risis.eu/orgref_20170703/resource/206748... 0.842105263158.................................... [Adeleke University] was compared to [University of Adelaide] 
+	http://risis.eu/orgref_20170703/resource/206748... http://www.grid.ac/institutes/grid.472242.5....... 0.842105263158.................................... [Adeleke University] was compared to [University of Adelaide] 
+	http://risis.eu/leidenRanking_2015/resource/1054.. http://www.grid.ac/institutes/grid.472242.5....... 0.842105263158.................................... [Adeleke University] was compared to [University of Adelaide] 
+	http://www.grid.ac/institutes/grid.472242.5....... http://risis.eu/leidenRanking_2015/resource/1054.. 0.842105263158.................................... [Adeleke University] was compared to [University of Adelaide] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.1010.0......... 138.60576......................................... 
+	http://www.grid.ac/institutes/grid.1010.0......... -34.920654........................................ 
+	http://www.grid.ac/institutes/grid.1010.0......... http://www.adelaide.edu.au/....................... 
+	http://www.grid.ac/institutes/grid.1010.0......... Adelaide Uni...................................... 
+	http://www.grid.ac/institutes/grid.1010.0......... University of Adelaide............................ 
+	http://risis.eu/leidenRanking_2015/resource/1054.. University of Adelaide............................ 
+	http://www.grid.ac/institutes/grid.472242.5....... 4.462316.......................................... 
+	http://www.grid.ac/institutes/grid.472242.5....... 7.759994.......................................... 
+	http://www.grid.ac/institutes/grid.472242.5....... http://adelekeuniversity.edu.ng/.................. 
+	http://www.grid.ac/institutes/grid.472242.5....... Adeleke University................................ 
+	http://risis.eu/orgref_20170703/resource/206748... http://en.wikipedia.org/wiki?curid=206748......... 
+	http://risis.eu/orgref_20170703/resource/206748... http://www.wikidata.org/wiki/Q15574............... 
+	http://risis.eu/orgref_20170703/resource/206748... http://www.adelaide.edu.au........................ 
+	http://risis.eu/orgref_20170703/resource/206748... University of Adelaide............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1054', '1:grid.1010.0'), ('2:1054', '4:206748'), ('3:grid.472242.5', '1:grid.1010.0'), ('3:grid.472242.5', '2:1054'), ('4:206748', '1:grid.1010.0'), ('4:206748', '3:grid.472242.5')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

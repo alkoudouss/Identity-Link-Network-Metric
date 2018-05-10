@@ -1,0 +1,53 @@
+SIZE    3   
+CLUSTER 4551 
+NAME    P522980411
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.448984.d>
+	<http://risis.eu/orgref_20170703/resource/13443558>
+	<http://risis.eu/orgreg_20170718/resource/NL0041>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.448984.d........ http://risis.eu/orgref_20170703/resource/13443558.. 1.................................................. [Inholland University of Applied Sciences] was compared to [Inholland University of Applied Sciences] 
+	http://www.grid.ac/institutes/grid.448984.d........ http://risis.eu/orgreg_20170718/resource/NL0041.... 1.................................................. [Inholland University of Applied Sciences] was compared to [INHOLLAND University of Applied Sciences] 
+	http://risis.eu/orgref_20170703/resource/13443558.. http://risis.eu/orgreg_20170718/resource/NL0041.... 1.................................................. [Inholland University of Applied Sciences] was compared to [INHOLLAND University of Applied Sciences] 
+	http://risis.eu/orgref_20170703/resource/13443558.. http://www.grid.ac/institutes/grid.448984.d........ 1.................................................. [Inholland University of Applied Sciences] was compared to [Inholland University of Applied Sciences] 
+	http://risis.eu/orgreg_20170718/resource/NL0041.... http://www.grid.ac/institutes/grid.448984.d........ 1.................................................. [Inholland University of Applied Sciences] was compared to [INHOLLAND University of Applied Sciences] 
+	http://risis.eu/orgreg_20170718/resource/NL0041.... http://risis.eu/orgref_20170703/resource/13443558.. 1.................................................. [Inholland University of Applied Sciences] was compared to [INHOLLAND University of Applied Sciences] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 9 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.448984.d........ Inholland University of Applied Sciences........... 
+	http://risis.eu/orgref_20170703/resource/13443558.. http://en.wikipedia.org/wiki?curid=13443558........ 
+	http://risis.eu/orgref_20170703/resource/13443558.. http://www.wikidata.org/wiki/Q38881................ 
+	http://risis.eu/orgref_20170703/resource/13443558.. http://www.inholland.nl/inhollandcom............... 
+	http://risis.eu/orgref_20170703/resource/13443558.. Inholland University of Applied Sciences........... 
+	http://risis.eu/orgreg_20170718/resource/NL0041.... 4.329983........................................... 
+	http://risis.eu/orgreg_20170718/resource/NL0041.... 52.08312........................................... 
+	http://risis.eu/orgreg_20170718/resource/NL0041.... http://www.inholland.nl/........................... 
+	http://risis.eu/orgreg_20170718/resource/NL0041.... INHOLLAND University of Applied Sciences........... 
+
+NETWORK ANALYSIS
+	NETWORK [('P1578869301-13443558', 'P2108518206-NL0041'), ('P2108518206-NL0041', 'P522980411-grid.448984.d'), ('P1578869301-13443558', 'P522980411-grid.448984.d')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

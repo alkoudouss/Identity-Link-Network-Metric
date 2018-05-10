@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 17088 
+NAME    N268048778
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/22095688>
+	<http://risis.eu/orgref_20170703/resource/5234925>
+	<http://www.grid.ac/institutes/grid.419508.1>
+	<http://www.grid.ac/institutes/grid.412885.2>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/22095688.. http://www.grid.ac/institutes/grid.412885.2........ 1.................................................. [University of Cartagena] was compared to [University of Cartagena] 
+	http://www.grid.ac/institutes/grid.412885.2........ http://risis.eu/orgref_20170703/resource/22095688.. 1.................................................. [University of Cartagena] was compared to [University of Cartagena] 
+	http://risis.eu/orgref_20170703/resource/5234925... http://www.grid.ac/institutes/grid.419508.1........ 1.................................................. [University of Carthage] was compared to [Carthage University] 
+	http://www.grid.ac/institutes/grid.419508.1........ http://risis.eu/orgref_20170703/resource/5234925... 1.................................................. [University of Carthage] was compared to [Carthage University] 
+	http://risis.eu/orgref_20170703/resource/22095688.. http://risis.eu/orgref_20170703/resource/5234925... 0.85............................................... [University of Cartagena] was compared to [Carthage University] 
+	http://risis.eu/orgref_20170703/resource/5234925... http://risis.eu/orgref_20170703/resource/22095688.. 0.85............................................... [University of Cartagena] was compared to [Carthage University] 
+	http://www.grid.ac/institutes/grid.419508.1........ http://www.grid.ac/institutes/grid.412885.2........ 0.85............................................... [University of Cartagena] was compared to [University of Carthage] 
+	http://www.grid.ac/institutes/grid.412885.2........ http://www.grid.ac/institutes/grid.419508.1........ 0.85............................................... [University of Cartagena] was compared to [University of Carthage] 
+	http://risis.eu/orgref_20170703/resource/5234925... http://www.grid.ac/institutes/grid.412885.2........ 0.85............................................... [University of Cartagena] was compared to [Carthage University] 
+	http://www.grid.ac/institutes/grid.412885.2........ http://risis.eu/orgref_20170703/resource/5234925... 0.85............................................... [University of Cartagena] was compared to [Carthage University] 
+	http://risis.eu/orgref_20170703/resource/22095688.. http://www.grid.ac/institutes/grid.419508.1........ 0.85............................................... [University of Carthage] was compared to [University of Cartagena] 
+	http://www.grid.ac/institutes/grid.419508.1........ http://risis.eu/orgref_20170703/resource/22095688.. 0.85............................................... [University of Carthage] was compared to [University of Cartagena] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/22095688.. http://en.wikipedia.org/wiki?curid=22095688........ 
+	http://risis.eu/orgref_20170703/resource/22095688.. http://www.wikidata.org/wiki/Q7895227.............. 
+	http://risis.eu/orgref_20170703/resource/22095688.. http://www.unicartagena.edu.co..................... 
+	http://risis.eu/orgref_20170703/resource/22095688.. University of Cartagena............................ 
+	http://risis.eu/orgref_20170703/resource/5234925... http://en.wikipedia.org/wiki?curid=5234925......... 
+	http://risis.eu/orgref_20170703/resource/5234925... http://www.wikidata.org/wiki/Q852223............... 
+	http://risis.eu/orgref_20170703/resource/5234925... http://www.ucar.rnu.tn............................. 
+	http://risis.eu/orgref_20170703/resource/5234925... Carthage University................................ 
+	http://www.grid.ac/institutes/grid.419508.1........ 10.334444.......................................... 
+	http://www.grid.ac/institutes/grid.419508.1........ 36.870556.......................................... 
+	http://www.grid.ac/institutes/grid.419508.1........ http://www.ucar.rnu.tn/............................ 
+	http://www.grid.ac/institutes/grid.419508.1........ Carthage University................................ 
+	http://www.grid.ac/institutes/grid.419508.1........ University of Carthage............................. 
+	http://www.grid.ac/institutes/grid.412885.2........ -75.504684......................................... 
+	http://www.grid.ac/institutes/grid.412885.2........ 10.402461.......................................... 
+	http://www.grid.ac/institutes/grid.412885.2........ http://www.unicartagena.edu.co/.................... 
+	http://www.grid.ac/institutes/grid.412885.2........ University of Cartagena............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:22095688', '3:grid.419508.1'), ('1:22095688', '4:grid.412885.2'), ('2:5234925', '1:22095688'), ('2:5234925', '4:grid.412885.2'), ('3:grid.419508.1', '2:5234925'), ('4:grid.412885.2', '3:grid.419508.1')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

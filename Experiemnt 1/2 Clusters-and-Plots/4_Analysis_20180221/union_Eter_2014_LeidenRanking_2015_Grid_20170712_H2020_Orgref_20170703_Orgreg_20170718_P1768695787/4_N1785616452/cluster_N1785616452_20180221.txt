@@ -1,0 +1,60 @@
+SIZE    4   
+CLUSTER 3694 
+NAME    N1785616452
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.439486.4>
+	<http://risis.eu/orgref_20170703/resource/1076877>
+	<http://www.grid.ac/institutes/grid.415553.3>
+	<http://www.grid.ac/institutes/grid.415550.0>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.439486.4....... http://www.grid.ac/institutes/grid.415553.3....... 1................................................. [Queen Mary's Hospital] was compared to [Queen Marys Hospital] 
+	http://www.grid.ac/institutes/grid.415553.3....... http://www.grid.ac/institutes/grid.439486.4....... 1................................................. [Queen Mary's Hospital] was compared to [Queen Marys Hospital] 
+	http://risis.eu/orgref_20170703/resource/1076877.. http://www.grid.ac/institutes/grid.415550.0....... 1................................................. [Queen Mary Hospital] was compared to [Queen Mary Hospital (Hong Kong)] 
+	http://www.grid.ac/institutes/grid.415550.0....... http://risis.eu/orgref_20170703/resource/1076877.. 1................................................. [Queen Mary Hospital] was compared to [Queen Mary Hospital (Hong Kong)] 
+	http://risis.eu/orgref_20170703/resource/1076877.. http://www.grid.ac/institutes/grid.415553.3....... 0.95.............................................. [Queen Mary's Hospital] was compared to [Queen Mary Hospital (Hong Kong)] 
+	http://www.grid.ac/institutes/grid.415553.3....... http://risis.eu/orgref_20170703/resource/1076877.. 0.95.............................................. [Queen Mary's Hospital] was compared to [Queen Mary Hospital (Hong Kong)] 
+	http://www.grid.ac/institutes/grid.439486.4....... http://risis.eu/orgref_20170703/resource/1076877.. 0.95.............................................. [Queen Marys Hospital] was compared to [Queen Mary Hospital (Hong Kong)] 
+	http://risis.eu/orgref_20170703/resource/1076877.. http://www.grid.ac/institutes/grid.439486.4....... 0.95.............................................. [Queen Marys Hospital] was compared to [Queen Mary Hospital (Hong Kong)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.439486.4....... Queen Marys Hospital.............................. 
+	http://risis.eu/orgref_20170703/resource/1076877.. http://en.wikipedia.org/wiki?curid=1076877........ 
+	http://risis.eu/orgref_20170703/resource/1076877.. http://www.wikidata.org/wiki/Q7270465............. 
+	http://risis.eu/orgref_20170703/resource/1076877.. http://www.ha.org.hk/qmh.......................... 
+	http://risis.eu/orgref_20170703/resource/1076877.. Queen Mary Hospital (Hong Kong)................... 
+	http://www.grid.ac/institutes/grid.415553.3....... 0.103269.......................................... 
+	http://www.grid.ac/institutes/grid.415553.3....... 51.41869.......................................... 
+	http://www.grid.ac/institutes/grid.415553.3....... http://qmh.oxleas.nhs.uk/......................... 
+	http://www.grid.ac/institutes/grid.415553.3....... Queen Mary's Hospital............................. 
+	http://www.grid.ac/institutes/grid.415550.0....... 114.13115......................................... 
+	http://www.grid.ac/institutes/grid.415550.0....... 22.27006.......................................... 
+	http://www.grid.ac/institutes/grid.415550.0....... http://www3.ha.org.hk/qmh/Index.htm............... 
+	http://www.grid.ac/institutes/grid.415550.0....... Queen Mary Hospital............................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1076877', '1:grid.439486.4'), ('2:1076877', '3:grid.415553.3'), ('3:grid.415553.3', '1:grid.439486.4'), ('4:grid.415550.0', '2:1076877')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

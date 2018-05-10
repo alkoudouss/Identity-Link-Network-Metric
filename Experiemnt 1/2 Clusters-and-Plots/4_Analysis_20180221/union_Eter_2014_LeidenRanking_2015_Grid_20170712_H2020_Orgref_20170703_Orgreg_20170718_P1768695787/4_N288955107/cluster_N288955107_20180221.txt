@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 12486 
+NAME    N288955107
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.5146.6>
+	<http://risis.eu/leidenRanking_2015/resource/379>
+	<http://risis.eu/orgref_20170703/resource/625965>
+	<http://risis.eu/orgreg_20170718/resource/HU0023>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.5146.6........ http://risis.eu/orgref_20170703/resource/625965.. 1................................................ [Central European University] was compared to [Central European University] 
+	http://risis.eu/orgref_20170703/resource/625965.. http://www.grid.ac/institutes/grid.5146.6........ 1................................................ [Central European University] was compared to [Central European University] 
+	http://www.grid.ac/institutes/grid.5146.6........ http://risis.eu/leidenRanking_2015/resource/379.. 1................................................ [Central European University] was compared to [Central European University] 
+	http://risis.eu/leidenRanking_2015/resource/379.. http://www.grid.ac/institutes/grid.5146.6........ 1................................................ [Central European University] was compared to [Central European University] 
+	http://risis.eu/leidenRanking_2015/resource/379.. http://risis.eu/orgref_20170703/resource/625965.. 1................................................ [Central European University] was compared to [Central European University] 
+	http://risis.eu/orgref_20170703/resource/625965.. http://risis.eu/leidenRanking_2015/resource/379.. 1................................................ [Central European University] was compared to [Central European University] 
+	http://risis.eu/leidenRanking_2015/resource/379.. http://risis.eu/orgreg_20170718/resource/HU0023.. 1................................................ [Central European University (Budapest)] was compared to [Central European University] 
+	http://risis.eu/orgreg_20170718/resource/HU0023.. http://risis.eu/leidenRanking_2015/resource/379.. 1................................................ [Central European University (Budapest)] was compared to [Central European University] 
+	http://risis.eu/orgref_20170703/resource/625965.. http://risis.eu/orgreg_20170718/resource/HU0023.. 1................................................ [Central European University] was compared to [Central European University (Budapest)] 
+	http://risis.eu/orgreg_20170718/resource/HU0023.. http://risis.eu/orgref_20170703/resource/625965.. 1................................................ [Central European University] was compared to [Central European University (Budapest)] 
+	http://www.grid.ac/institutes/grid.5146.6........ http://risis.eu/orgreg_20170718/resource/HU0023.. 1................................................ [Central European University] was compared to [Central European University (Budapest)] 
+	http://risis.eu/orgreg_20170718/resource/HU0023.. http://www.grid.ac/institutes/grid.5146.6........ 1................................................ [Central European University] was compared to [Central European University (Budapest)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.5146.6........ 19.051785........................................ 
+	http://www.grid.ac/institutes/grid.5146.6........ 47.500347........................................ 
+	http://www.grid.ac/institutes/grid.5146.6........ http://www.ceu.edu/.............................. 
+	http://www.grid.ac/institutes/grid.5146.6........ Közép-Európai Egyetem......................... 
+	http://www.grid.ac/institutes/grid.5146.6........ Central European University...................... 
+	http://risis.eu/leidenRanking_2015/resource/379.. Central European University...................... 
+	http://risis.eu/orgref_20170703/resource/625965.. http://en.wikipedia.org/wiki?curid=625965........ 
+	http://risis.eu/orgref_20170703/resource/625965.. http://www.wikidata.org/wiki/Q757391............. 
+	http://risis.eu/orgref_20170703/resource/625965.. http://www.ceu.edu............................... 
+	http://risis.eu/orgref_20170703/resource/625965.. Central European University...................... 
+	http://risis.eu/orgreg_20170718/resource/HU0023.. 19.048945........................................ 
+	http://risis.eu/orgreg_20170718/resource/HU0023.. 47.49822......................................... 
+	http://risis.eu/orgreg_20170718/resource/HU0023.. www.ceu.hu....................................... 
+	http://risis.eu/orgreg_20170718/resource/HU0023.. Central European University (Budapest)........... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:379', '1:grid.5146.6'), ('2:379', '4:HU0023'), ('3:625965', '1:grid.5146.6'), ('3:625965', '2:379'), ('4:HU0023', '1:grid.5146.6'), ('4:HU0023', '3:625965')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

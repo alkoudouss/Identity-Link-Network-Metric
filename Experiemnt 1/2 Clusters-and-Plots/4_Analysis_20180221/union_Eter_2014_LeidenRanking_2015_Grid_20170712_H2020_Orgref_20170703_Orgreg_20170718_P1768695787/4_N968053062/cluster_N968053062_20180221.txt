@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 13087 
+NAME    N968053062
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.423266.7>
+	<http://risis.eu/orgref_20170703/resource/2217583>
+	<http://www.grid.ac/institutes/grid.418295.3>
+	<http://risis.eu/orgref_20170703/resource/844162>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.423266.7....... http://www.grid.ac/institutes/grid.418295.3....... 1................................................. [Bethel College] was compared to [Bethel College]. 
+	http://www.grid.ac/institutes/grid.418295.3....... http://www.grid.ac/institutes/grid.423266.7....... 1................................................. [Bethel College] was compared to [Bethel College]. 
+	http://risis.eu/orgref_20170703/resource/2217583.. http://www.grid.ac/institutes/grid.418295.3....... 1................................................. [Bethel College] was compared to [Bethel College (Indiana)] 
+	http://www.grid.ac/institutes/grid.418295.3....... http://risis.eu/orgref_20170703/resource/2217583.. 1................................................. [Bethel College] was compared to [Bethel College (Indiana)] 
+	http://www.grid.ac/institutes/grid.418295.3....... http://risis.eu/orgref_20170703/resource/844162... 1................................................. [Bethel College] was compared to [Bethel College (Kansas)] 
+	http://risis.eu/orgref_20170703/resource/844162... http://www.grid.ac/institutes/grid.418295.3....... 1................................................. [Bethel College] was compared to [Bethel College (Kansas)] 
+	http://www.grid.ac/institutes/grid.423266.7....... http://risis.eu/orgref_20170703/resource/2217583.. 1................................................. [Bethel College] was compared to [Bethel College (Indiana)] 
+	http://risis.eu/orgref_20170703/resource/2217583.. http://www.grid.ac/institutes/grid.423266.7....... 1................................................. [Bethel College] was compared to [Bethel College (Indiana)] 
+	http://www.grid.ac/institutes/grid.423266.7....... http://risis.eu/orgref_20170703/resource/844162... 1................................................. [Bethel College] was compared to [Bethel College (Kansas)] 
+	http://risis.eu/orgref_20170703/resource/844162... http://www.grid.ac/institutes/grid.423266.7....... 1................................................. [Bethel College] was compared to [Bethel College (Kansas)] 
+	http://risis.eu/orgref_20170703/resource/2217583.. http://risis.eu/orgref_20170703/resource/844162... 1................................................. [Bethel College (Indiana)] was compared to [Bethel College (Kansas)] 
+	http://risis.eu/orgref_20170703/resource/844162... http://risis.eu/orgref_20170703/resource/2217583.. 1................................................. [Bethel College (Indiana)] was compared to [Bethel College (Kansas)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.423266.7....... -97.34259......................................... 
+	http://www.grid.ac/institutes/grid.423266.7....... 38.074768......................................... 
+	http://www.grid.ac/institutes/grid.423266.7....... https://www.bethelks.edu/......................... 
+	http://www.grid.ac/institutes/grid.423266.7....... Bethel College.................................... 
+	http://risis.eu/orgref_20170703/resource/2217583.. http://en.wikipedia.org/wiki?curid=2217583........ 
+	http://risis.eu/orgref_20170703/resource/2217583.. http://www.wikidata.org/wiki/Q4897887............. 
+	http://risis.eu/orgref_20170703/resource/2217583.. http://www.bethelcollege.edu...................... 
+	http://risis.eu/orgref_20170703/resource/2217583.. Bethel College (Indiana).......................... 
+	http://www.grid.ac/institutes/grid.418295.3....... -86.1962.......................................... 
+	http://www.grid.ac/institutes/grid.418295.3....... 41.678295......................................... 
+	http://www.grid.ac/institutes/grid.418295.3....... http://www.bethelcollege.edu/..................... 
+	http://www.grid.ac/institutes/grid.418295.3....... Bethel College.................................... 
+	http://risis.eu/orgref_20170703/resource/844162... http://en.wikipedia.org/wiki?curid=844162......... 
+	http://risis.eu/orgref_20170703/resource/844162... http://www.wikidata.org/wiki/Q4897888............. 
+	http://risis.eu/orgref_20170703/resource/844162... http://www.bethelks.edu........................... 
+	http://risis.eu/orgref_20170703/resource/844162... Bethel College (Kansas)........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.423266.7', '3:grid.418295.3'), ('2:2217583', '1:grid.423266.7'), ('3:grid.418295.3', '2:2217583'), ('4:844162', '1:grid.423266.7'), ('4:844162', '2:2217583'), ('4:844162', '3:grid.418295.3')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

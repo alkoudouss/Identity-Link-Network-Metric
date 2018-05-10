@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 18157 
+NAME    N1926383799
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.8657.c>
+	<http://risis.eu/orgref_20170703/resource/2014760>
+	<http://risis.eu/orgreg_20170718/resource/FI3001>
+	<http://risis.eu/leidenRanking_2015/resource/7513>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.8657.c......... http://risis.eu/orgref_20170703/resource/2014760.. 1................................................. [Finnish Meteorological Institute] was compared to [Finnish Meteorological Institute] 
+	http://risis.eu/orgref_20170703/resource/2014760.. http://www.grid.ac/institutes/grid.8657.c......... 1................................................. [Finnish Meteorological Institute] was compared to [Finnish Meteorological Institute] 
+	http://risis.eu/orgreg_20170718/resource/FI3001... http://risis.eu/leidenRanking_2015/resource/7513.. 0.96875........................................... [Finnish Meteorological Institute] was compared to [Finnish Meterological Institute] 
+	http://risis.eu/leidenRanking_2015/resource/7513.. http://risis.eu/orgreg_20170718/resource/FI3001... 0.96875........................................... [Finnish Meteorological Institute] was compared to [Finnish Meterological Institute] 
+	http://risis.eu/orgref_20170703/resource/2014760.. http://risis.eu/orgreg_20170718/resource/FI3001... 1................................................. [Finnish Meteorological Institute] was compared to [Finnish Meteorological Institute] 
+	http://risis.eu/orgreg_20170718/resource/FI3001... http://risis.eu/orgref_20170703/resource/2014760.. 1................................................. [Finnish Meteorological Institute] was compared to [Finnish Meteorological Institute] 
+	http://www.grid.ac/institutes/grid.8657.c......... http://risis.eu/orgreg_20170718/resource/FI3001... 1................................................. [Finnish Meteorological Institute] was compared to [Finnish Meteorological Institute] 
+	http://risis.eu/orgreg_20170718/resource/FI3001... http://www.grid.ac/institutes/grid.8657.c......... 1................................................. [Finnish Meteorological Institute] was compared to [Finnish Meteorological Institute] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.8657.c......... 24.96099.......................................... 
+	http://www.grid.ac/institutes/grid.8657.c......... 60.203804......................................... 
+	http://www.grid.ac/institutes/grid.8657.c......... http://en.ilmatieteenlaitos.fi/................... 
+	http://www.grid.ac/institutes/grid.8657.c......... Meteorologiska Institutet......................... 
+	http://www.grid.ac/institutes/grid.8657.c......... Ilmatieteen laitos................................ 
+	http://www.grid.ac/institutes/grid.8657.c......... Finnish Meteorological Institute.................. 
+	http://risis.eu/orgref_20170703/resource/2014760.. http://en.wikipedia.org/wiki?curid=2014760........ 
+	http://risis.eu/orgref_20170703/resource/2014760.. http://www.wikidata.org/wiki/Q3266959............. 
+	http://risis.eu/orgref_20170703/resource/2014760.. http://en.ilmatieteenlaitos.fi.................... 
+	http://risis.eu/orgref_20170703/resource/2014760.. Finnish Meteorological Institute.................. 
+	http://risis.eu/orgreg_20170718/resource/FI3001... 24.9342........................................... 
+	http://risis.eu/orgreg_20170718/resource/FI3001... 60.1756........................................... 
+	http://risis.eu/orgreg_20170718/resource/FI3001... http://en.gtk.fi/................................. 
+	http://risis.eu/orgreg_20170718/resource/FI3001... Finnish Meteorological Institute.................. 
+	http://risis.eu/leidenRanking_2015/resource/7513.. Finnish Meterological Institute................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:2014760', '1:grid.8657.c'), ('3:FI3001', '1:grid.8657.c'), ('3:FI3001', '2:2014760'), ('4:7513', '3:FI3001')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 4577 
+NAME    N1142886046
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.415758.a>
+	<http://www.grid.ac/institutes/grid.415766.7>
+	<http://www.grid.ac/institutes/grid.415770.0>
+	<http://www.grid.ac/institutes/grid.415760.1>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.415766.7.. http://www.grid.ac/institutes/grid.415770.0.. 0.9375....................................... [Shinko Hospital] was compared to [Shinkyo Hospital] 
+	http://www.grid.ac/institutes/grid.415770.0.. http://www.grid.ac/institutes/grid.415766.7.. 0.9375....................................... [Shinko Hospital] was compared to [Shinkyo Hospital] 
+	http://www.grid.ac/institutes/grid.415758.a.. http://www.grid.ac/institutes/grid.415760.1.. 0.842105263158............................... [Shinkoga Hospital] was compared to [ShinKokura Hospital] 
+	http://www.grid.ac/institutes/grid.415760.1.. http://www.grid.ac/institutes/grid.415758.a.. 0.842105263158............................... [Shinkoga Hospital] was compared to [ShinKokura Hospital] 
+	http://www.grid.ac/institutes/grid.415758.a.. http://www.grid.ac/institutes/grid.415766.7.. 0.882352941176............................... [Shinkoga Hospital] was compared to [Shinko Hospital] 
+	http://www.grid.ac/institutes/grid.415766.7.. http://www.grid.ac/institutes/grid.415758.a.. 0.882352941176............................... [Shinkoga Hospital] was compared to [Shinko Hospital] 
+	http://www.grid.ac/institutes/grid.415758.a.. http://www.grid.ac/institutes/grid.415770.0.. 0.823529411765............................... [Shinkoga Hospital] was compared to [Shinkyo Hospital] 
+	http://www.grid.ac/institutes/grid.415770.0.. http://www.grid.ac/institutes/grid.415758.a.. 0.823529411765............................... [Shinkoga Hospital] was compared to [Shinkyo Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.415758.a.. 130.52075.................................... 
+	http://www.grid.ac/institutes/grid.415758.a.. 33.310158.................................... 
+	http://www.grid.ac/institutes/grid.415758.a.. http://www.tenjinkai.or.jp/shinkoga.......... 
+	http://www.grid.ac/institutes/grid.415758.a.. Shinkoga Hospital............................ 
+	http://www.grid.ac/institutes/grid.415766.7.. 135.2112..................................... 
+	http://www.grid.ac/institutes/grid.415766.7.. 34.704254.................................... 
+	http://www.grid.ac/institutes/grid.415766.7.. https://www.shinkohosp.jp/shpdir/english/.... 
+	http://www.grid.ac/institutes/grid.415766.7.. Shinko Hospital.............................. 
+	http://www.grid.ac/institutes/grid.415770.0.. 130.54268.................................... 
+	http://www.grid.ac/institutes/grid.415770.0.. 31.62203..................................... 
+	http://www.grid.ac/institutes/grid.415770.0.. Shinkyo Hospital............................. 
+	http://www.grid.ac/institutes/grid.415760.1.. 130.86656.................................... 
+	http://www.grid.ac/institutes/grid.415760.1.. 33.87877..................................... 
+	http://www.grid.ac/institutes/grid.415760.1.. http://www.shin-kokura.gr.jp/................ 
+	http://www.grid.ac/institutes/grid.415760.1.. ShinKokura Hospital.......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.415766.7', '1:grid.415758.a'), ('3:grid.415770.0', '1:grid.415758.a'), ('3:grid.415770.0', '2:grid.415766.7'), ('4:grid.415760.1', '1:grid.415758.a')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

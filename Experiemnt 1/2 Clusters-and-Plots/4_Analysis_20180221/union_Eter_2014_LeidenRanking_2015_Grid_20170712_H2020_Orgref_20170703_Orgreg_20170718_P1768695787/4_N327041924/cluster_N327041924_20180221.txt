@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 17702 
+NAME    N327041924
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/PT0020>
+	<http://risis.eu/cordisH2020/resource/participant_972374658>
+	<http://www.grid.ac/institutes/grid.88832.39>
+	<http://risis.eu/eter_2014/resource/PT0020>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_972374658.. http://risis.eu/eter_2014/resource/PT0020................... 1........................................................... [INSTITUTO POLITECNICO DE COIMBRA] was compared to [Instituto Politécnico de Coimbra] 
+	http://risis.eu/eter_2014/resource/PT0020................... http://risis.eu/cordisH2020/resource/participant_972374658.. 1........................................................... [INSTITUTO POLITECNICO DE COIMBRA] was compared to [Instituto Politécnico de Coimbra] 
+	http://risis.eu/orgreg_20170718/resource/PT0020............. http://risis.eu/cordisH2020/resource/participant_972374658.. 0.862068965517.............................................. [Polytechnic Institute of Coimbra] was compared to [INSTITUTO POLITECNICO DE COIMBRA] 
+	http://risis.eu/cordisH2020/resource/participant_972374658.. http://risis.eu/orgreg_20170718/resource/PT0020............. 0.862068965517.............................................. [Polytechnic Institute of Coimbra] was compared to [INSTITUTO POLITECNICO DE COIMBRA] 
+	http://risis.eu/orgreg_20170718/resource/PT0020............. http://risis.eu/eter_2014/resource/PT0020................... 0.862068965517.............................................. [Polytechnic Institute of Coimbra] was compared to [Instituto Politécnico de Coimbra] 
+	http://risis.eu/eter_2014/resource/PT0020................... http://risis.eu/orgreg_20170718/resource/PT0020............. 0.862068965517.............................................. [Polytechnic Institute of Coimbra] was compared to [Instituto Politécnico de Coimbra] 
+	http://www.grid.ac/institutes/grid.88832.39................. http://risis.eu/eter_2014/resource/PT0020................... 0.862068965517.............................................. [Polytechnic Institute of Coimbra] was compared to [Instituto Politécnico de Coimbra] 
+	http://risis.eu/eter_2014/resource/PT0020................... http://www.grid.ac/institutes/grid.88832.39................. 0.862068965517.............................................. [Polytechnic Institute of Coimbra] was compared to [Instituto Politécnico de Coimbra] 
+	http://risis.eu/cordisH2020/resource/participant_972374658.. http://www.grid.ac/institutes/grid.88832.39................. 0.862068965517.............................................. [Polytechnic Institute of Coimbra] was compared to [INSTITUTO POLITECNICO DE COIMBRA] 
+	http://www.grid.ac/institutes/grid.88832.39................. http://risis.eu/cordisH2020/resource/participant_972374658.. 0.862068965517.............................................. [Polytechnic Institute of Coimbra] was compared to [INSTITUTO POLITECNICO DE COIMBRA] 
+	http://risis.eu/orgreg_20170718/resource/PT0020............. http://www.grid.ac/institutes/grid.88832.39................. 1........................................................... [Polytechnic Institute of Coimbra] was compared to [Polytechnic Institute of Coimbra] 
+	http://www.grid.ac/institutes/grid.88832.39................. http://risis.eu/orgreg_20170718/resource/PT0020............. 1........................................................... [Polytechnic Institute of Coimbra] was compared to [Polytechnic Institute of Coimbra] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgreg_20170718/resource/PT0020............. -8.495223................................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0020............. 40.210958................................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0020............. http://www.ipc.pt........................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0020............. Polytechnic Institute of Coimbra............................ 
+	http://risis.eu/cordisH2020/resource/participant_972374658.. INSTITUTO POLITECNICO DE COIMBRA............................ 
+	http://www.grid.ac/institutes/grid.88832.39................. -8.451979................................................... 
+	http://www.grid.ac/institutes/grid.88832.39................. 40.213505................................................... 
+	http://www.grid.ac/institutes/grid.88832.39................. http://internationalrelations.ipc.pt/EN/index.html.......... 
+	http://www.grid.ac/institutes/grid.88832.39................. Polytechnic Institute of Coimbra............................ 
+	http://risis.eu/eter_2014/resource/PT0020................... 40,210958................................................... 
+	http://risis.eu/eter_2014/resource/PT0020................... -8,495223................................................... 
+	http://risis.eu/eter_2014/resource/PT0020................... http://www.ipc.pt........................................... 
+	http://risis.eu/eter_2014/resource/PT0020................... a........................................................... 
+	http://risis.eu/eter_2014/resource/PT0020................... Polytechnic Institute of Coimbra............................ 
+	http://risis.eu/eter_2014/resource/PT0020................... Instituto Politécnico de Coimbra........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:PT0020', '3:grid.88832.39'), ('2:participant_972374658', '1:PT0020'), ('2:participant_972374658', '3:grid.88832.39'), ('4:PT0020', '1:PT0020'), ('4:PT0020', '2:participant_972374658'), ('4:PT0020', '3:grid.88832.39')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

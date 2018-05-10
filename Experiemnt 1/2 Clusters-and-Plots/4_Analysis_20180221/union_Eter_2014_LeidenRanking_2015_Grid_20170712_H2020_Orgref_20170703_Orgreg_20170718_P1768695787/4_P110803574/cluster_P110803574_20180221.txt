@@ -1,0 +1,60 @@
+SIZE    4   
+CLUSTER 1833 
+NAME    P110803574
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.464514.6>
+	<http://risis.eu/orgref_20170703/resource/5703846>
+	<http://www.grid.ac/institutes/grid.444496.f>
+	<http://risis.eu/orgref_20170703/resource/31557485>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/5703846... http://www.grid.ac/institutes/grid.444496.f........ 1.................................................. [Dubai Medical College] was compared to [Dubai Medical College] 
+	http://www.grid.ac/institutes/grid.444496.f........ http://risis.eu/orgref_20170703/resource/5703846... 1.................................................. [Dubai Medical College] was compared to [Dubai Medical College] 
+	http://www.grid.ac/institutes/grid.464514.6........ http://www.grid.ac/institutes/grid.444496.f........ 0.863636363636..................................... [Dubai Medical College] was compared to [American College of Dubai] 
+	http://www.grid.ac/institutes/grid.444496.f........ http://www.grid.ac/institutes/grid.464514.6........ 0.863636363636..................................... [Dubai Medical College] was compared to [American College of Dubai] 
+	http://www.grid.ac/institutes/grid.464514.6........ http://risis.eu/orgref_20170703/resource/5703846... 0.863636363636..................................... [American College of Dubai] was compared to [Dubai Medical College] 
+	http://risis.eu/orgref_20170703/resource/5703846... http://www.grid.ac/institutes/grid.464514.6........ 0.863636363636..................................... [American College of Dubai] was compared to [Dubai Medical College] 
+	http://www.grid.ac/institutes/grid.464514.6........ http://risis.eu/orgref_20170703/resource/31557485.. 0.913043478261..................................... [American College of Dubai] was compared to [American College Dublin] 
+	http://risis.eu/orgref_20170703/resource/31557485.. http://www.grid.ac/institutes/grid.464514.6........ 0.913043478261..................................... [American College of Dubai] was compared to [American College Dublin] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.464514.6........ 55.349335.......................................... 
+	http://www.grid.ac/institutes/grid.464514.6........ 25.235691.......................................... 
+	http://www.grid.ac/institutes/grid.464514.6........ http://www.acd.ae/................................. 
+	http://www.grid.ac/institutes/grid.464514.6........ American College of Dubai.......................... 
+	http://risis.eu/orgref_20170703/resource/5703846... http://en.wikipedia.org/wiki?curid=5703846......... 
+	http://risis.eu/orgref_20170703/resource/5703846... http://www.wikidata.org/wiki/Q5310583.............. 
+	http://risis.eu/orgref_20170703/resource/5703846... http://www.dmcg.edu................................ 
+	http://risis.eu/orgref_20170703/resource/5703846... Dubai Medical College.............................. 
+	http://www.grid.ac/institutes/grid.444496.f........ Dubai Medical College.............................. 
+	http://risis.eu/orgref_20170703/resource/31557485.. http://en.wikipedia.org/wiki?curid=31557485........ 
+	http://risis.eu/orgref_20170703/resource/31557485.. http://www.wikidata.org/wiki/Q7713453.............. 
+	http://risis.eu/orgref_20170703/resource/31557485.. http://www.iamu.edu................................ 
+	http://risis.eu/orgref_20170703/resource/31557485.. American College Dublin............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.464514.6', '3:grid.444496.f'), ('2:5703846', '1:grid.464514.6'), ('3:grid.444496.f', '2:5703846'), ('4:31557485', '1:grid.464514.6')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

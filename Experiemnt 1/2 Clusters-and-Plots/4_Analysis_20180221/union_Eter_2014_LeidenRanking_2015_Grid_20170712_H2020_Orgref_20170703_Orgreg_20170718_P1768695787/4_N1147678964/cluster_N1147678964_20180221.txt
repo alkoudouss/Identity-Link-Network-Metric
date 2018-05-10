@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 7701 
+NAME    N1147678964
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/30940761>
+	<http://risis.eu/orgref_20170703/resource/5750499>
+	<http://www.grid.ac/institutes/grid.444917.b>
+	<http://risis.eu/leidenRanking_2015/resource/9734>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/5750499... http://www.grid.ac/institutes/grid.444917.b........ 1.................................................. [University of Science and Technology] was compared to [University of Science and Technology (Bannu)] 
+	http://www.grid.ac/institutes/grid.444917.b........ http://risis.eu/orgref_20170703/resource/5750499... 1.................................................. [University of Science and Technology] was compared to [University of Science and Technology (Bannu)] 
+	http://risis.eu/orgref_20170703/resource/30940761.. http://www.grid.ac/institutes/grid.444917.b........ 1.................................................. [University of Science and Technology] was compared to [University of Science and Technology (Sudan)] 
+	http://www.grid.ac/institutes/grid.444917.b........ http://risis.eu/orgref_20170703/resource/30940761.. 1.................................................. [University of Science and Technology] was compared to [University of Science and Technology (Sudan)] 
+	http://www.grid.ac/institutes/grid.444917.b........ http://risis.eu/leidenRanking_2015/resource/9734... 1.................................................. [University of Science and Technology] was compared to [University of Science and Technology] 
+	http://risis.eu/leidenRanking_2015/resource/9734... http://www.grid.ac/institutes/grid.444917.b........ 1.................................................. [University of Science and Technology] was compared to [University of Science and Technology] 
+	http://risis.eu/orgref_20170703/resource/5750499... http://risis.eu/leidenRanking_2015/resource/9734... 1.................................................. [University of Science and Technology (Bannu)] was compared to [University of Science and Technology] 
+	http://risis.eu/leidenRanking_2015/resource/9734... http://risis.eu/orgref_20170703/resource/5750499... 1.................................................. [University of Science and Technology (Bannu)] was compared to [University of Science and Technology] 
+	http://risis.eu/orgref_20170703/resource/30940761.. http://risis.eu/leidenRanking_2015/resource/9734... 1.................................................. [University of Science and Technology (Sudan)] was compared to [University of Science and Technology] 
+	http://risis.eu/leidenRanking_2015/resource/9734... http://risis.eu/orgref_20170703/resource/30940761.. 1.................................................. [University of Science and Technology (Sudan)] was compared to [University of Science and Technology] 
+	http://risis.eu/orgref_20170703/resource/30940761.. http://risis.eu/orgref_20170703/resource/5750499... 1.................................................. [University of Science and Technology (Sudan)] was compared to [University of Science and Technology (Bannu)] 
+	http://risis.eu/orgref_20170703/resource/5750499... http://risis.eu/orgref_20170703/resource/30940761.. 1.................................................. [University of Science and Technology (Sudan)] was compared to [University of Science and Technology (Bannu)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/30940761.. http://en.wikipedia.org/wiki?curid=30940761........ 
+	http://risis.eu/orgref_20170703/resource/30940761.. http://www.wikidata.org/wiki/Q7896286.............. 
+	http://risis.eu/orgref_20170703/resource/30940761.. http://www.ust.edu.sd/eng.......................... 
+	http://risis.eu/orgref_20170703/resource/30940761.. University of Science and Technology (Sudan)....... 
+	http://risis.eu/orgref_20170703/resource/5750499... http://en.wikipedia.org/wiki?curid=5750499......... 
+	http://risis.eu/orgref_20170703/resource/5750499... http://www.wikidata.org/wiki/Q16959531............. 
+	http://risis.eu/orgref_20170703/resource/5750499... http://www.ustb.edu.pk............................. 
+	http://risis.eu/orgref_20170703/resource/5750499... University of Science and Technology (Bannu)....... 
+	http://www.grid.ac/institutes/grid.444917.b........ University of Science and Technology............... 
+	http://risis.eu/leidenRanking_2015/resource/9734... University of Science and Technology............... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:5750499', '1:30940761'), ('2:5750499', '3:grid.444917.b'), ('3:grid.444917.b', '1:30940761'), ('4:9734', '1:30940761'), ('4:9734', '2:5750499'), ('4:9734', '3:grid.444917.b')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

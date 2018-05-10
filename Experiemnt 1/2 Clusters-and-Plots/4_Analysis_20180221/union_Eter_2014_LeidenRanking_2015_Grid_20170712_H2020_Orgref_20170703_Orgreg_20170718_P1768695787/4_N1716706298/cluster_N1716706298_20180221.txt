@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 1121 
+NAME    N1716706298
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/31645083>
+	<http://risis.eu/cordisH2020/resource/participant_995829937>
+	<http://www.grid.ac/institutes/grid.462176.0>
+	<http://risis.eu/eter_2014/resource/FR0163>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/31645083........... http://www.grid.ac/institutes/grid.462176.0................. 1........................................................... [École Nationale des Travaux Publics de l'État] was compared to [École nationale des travaux publics de l'État] 
+	http://www.grid.ac/institutes/grid.462176.0................. http://risis.eu/orgref_20170703/resource/31645083........... 1........................................................... [École Nationale des Travaux Publics de l'État] was compared to [École nationale des travaux publics de l'État] 
+	http://www.grid.ac/institutes/grid.462176.0................. http://risis.eu/eter_2014/resource/FR0163................... 1........................................................... [École Nationale des Travaux Publics de l'État] was compared to [École nationale des travaux publics de l'État] 
+	http://risis.eu/eter_2014/resource/FR0163................... http://www.grid.ac/institutes/grid.462176.0................. 1........................................................... [École Nationale des Travaux Publics de l'État] was compared to [École nationale des travaux publics de l'État] 
+	http://risis.eu/cordisH2020/resource/participant_995829937.. http://www.grid.ac/institutes/grid.462176.0................. 1........................................................... [École Nationale des Travaux Publics de l'État] was compared to [ECOLE NATIONALE DES TRAVAUX PUBLICS DE L'ETAT] 
+	http://www.grid.ac/institutes/grid.462176.0................. http://risis.eu/cordisH2020/resource/participant_995829937.. 1........................................................... [École Nationale des Travaux Publics de l'État] was compared to [ECOLE NATIONALE DES TRAVAUX PUBLICS DE L'ETAT] 
+	http://risis.eu/orgref_20170703/resource/31645083........... http://risis.eu/eter_2014/resource/FR0163................... 1........................................................... [École nationale des travaux publics de l'État] was compared to [École nationale des travaux publics de l'État] 
+	http://risis.eu/eter_2014/resource/FR0163................... http://risis.eu/orgref_20170703/resource/31645083........... 1........................................................... [École nationale des travaux publics de l'État] was compared to [École nationale des travaux publics de l'État] 
+	http://risis.eu/orgref_20170703/resource/31645083........... http://risis.eu/cordisH2020/resource/participant_995829937.. 1........................................................... [École nationale des travaux publics de l'État] was compared to [ECOLE NATIONALE DES TRAVAUX PUBLICS DE L'ETAT] 
+	http://risis.eu/cordisH2020/resource/participant_995829937.. http://risis.eu/orgref_20170703/resource/31645083........... 1........................................................... [École nationale des travaux publics de l'État] was compared to [ECOLE NATIONALE DES TRAVAUX PUBLICS DE L'ETAT] 
+	http://risis.eu/cordisH2020/resource/participant_995829937.. http://risis.eu/eter_2014/resource/FR0163................... 1........................................................... [ECOLE NATIONALE DES TRAVAUX PUBLICS DE L'ETAT] was compared to [École nationale des travaux publics de l'État] 
+	http://risis.eu/eter_2014/resource/FR0163................... http://risis.eu/cordisH2020/resource/participant_995829937.. 1........................................................... [ECOLE NATIONALE DES TRAVAUX PUBLICS DE L'ETAT] was compared to [École nationale des travaux publics de l'État] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/31645083........... http://en.wikipedia.org/wiki?curid=31645083................. 
+	http://risis.eu/orgref_20170703/resource/31645083........... http://www.wikidata.org/wiki/Q3578157....................... 
+	http://risis.eu/orgref_20170703/resource/31645083........... http://www.entpe.fr......................................... 
+	http://risis.eu/orgref_20170703/resource/31645083........... École nationale des travaux publics de l'État............. 
+	http://risis.eu/cordisH2020/resource/participant_995829937.. http://www.entpe.fr......................................... 
+	http://risis.eu/cordisH2020/resource/participant_995829937.. ECOLE NATIONALE DES TRAVAUX PUBLICS DE L'ETAT............... 
+	http://www.grid.ac/institutes/grid.462176.0................. 4.922623.................................................... 
+	http://www.grid.ac/institutes/grid.462176.0................. 45.77961.................................................... 
+	http://www.grid.ac/institutes/grid.462176.0................. http://www.entpe.fr/........................................ 
+	http://www.grid.ac/institutes/grid.462176.0................. École Nationale des Travaux Publics de l'État............. 
+	http://risis.eu/eter_2014/resource/FR0163................... 45,779534................................................... 
+	http://risis.eu/eter_2014/resource/FR0163................... 4,922666.................................................... 
+	http://risis.eu/eter_2014/resource/FR0163................... http://www.entpe.fr/........................................ 
+	http://risis.eu/eter_2014/resource/FR0163................... m........................................................... 
+	http://risis.eu/eter_2014/resource/FR0163................... École nationale des travaux publics de l'État............. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:31645083', '3:grid.462176.0'), ('2:participant_995829937', '1:31645083'), ('3:grid.462176.0', '2:participant_995829937'), ('4:FR0163', '1:31645083'), ('4:FR0163', '2:participant_995829937'), ('4:FR0163', '3:grid.462176.0')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

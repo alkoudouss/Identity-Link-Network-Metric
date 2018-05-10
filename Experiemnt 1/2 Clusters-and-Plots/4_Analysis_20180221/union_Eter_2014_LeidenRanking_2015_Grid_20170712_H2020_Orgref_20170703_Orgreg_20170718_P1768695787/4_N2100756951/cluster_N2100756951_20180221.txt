@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 6169 
+NAME    N2100756951
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.440937.d>
+	<http://risis.eu/cordisH2020/resource/participant_998143193>
+	<http://risis.eu/eter_2014/resource/DE0044>
+	<http://risis.eu/orgreg_20170718/resource/DE0044>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.440937.d................. http://risis.eu/eter_2014/resource/DE0044................... 0.931034482759.............................................. [HafenCity University Hamburg] was compared to [Hafencity Universität Hamburg] 
+	http://risis.eu/eter_2014/resource/DE0044................... http://www.grid.ac/institutes/grid.440937.d................. 0.931034482759.............................................. [HafenCity University Hamburg] was compared to [Hafencity Universität Hamburg] 
+	http://www.grid.ac/institutes/grid.440937.d................. http://risis.eu/cordisH2020/resource/participant_998143193.. 0.931034482759.............................................. [HafenCity University Hamburg] was compared to [HAFENCITY UNIVERSITAT HAMBURG] 
+	http://risis.eu/cordisH2020/resource/participant_998143193.. http://www.grid.ac/institutes/grid.440937.d................. 0.931034482759.............................................. [HafenCity University Hamburg] was compared to [HAFENCITY UNIVERSITAT HAMBURG] 
+	http://risis.eu/cordisH2020/resource/participant_998143193.. http://risis.eu/eter_2014/resource/DE0044................... 1........................................................... [HAFENCITY UNIVERSITAT HAMBURG] was compared to [Hafencity Universität Hamburg] 
+	http://risis.eu/eter_2014/resource/DE0044................... http://risis.eu/cordisH2020/resource/participant_998143193.. 1........................................................... [HAFENCITY UNIVERSITAT HAMBURG] was compared to [Hafencity Universität Hamburg] 
+	http://risis.eu/cordisH2020/resource/participant_998143193.. http://risis.eu/orgreg_20170718/resource/DE0044............. 0.931034482759.............................................. [HafenCity University Hamburg] was compared to [HAFENCITY UNIVERSITAT HAMBURG] 
+	http://risis.eu/orgreg_20170718/resource/DE0044............. http://risis.eu/cordisH2020/resource/participant_998143193.. 0.931034482759.............................................. [HafenCity University Hamburg] was compared to [HAFENCITY UNIVERSITAT HAMBURG] 
+	http://risis.eu/eter_2014/resource/DE0044................... http://risis.eu/orgreg_20170718/resource/DE0044............. 0.931034482759.............................................. [HafenCity University Hamburg] was compared to [Hafencity Universität Hamburg] 
+	http://risis.eu/orgreg_20170718/resource/DE0044............. http://risis.eu/eter_2014/resource/DE0044................... 0.931034482759.............................................. [HafenCity University Hamburg] was compared to [Hafencity Universität Hamburg] 
+	http://www.grid.ac/institutes/grid.440937.d................. http://risis.eu/orgreg_20170718/resource/DE0044............. 1........................................................... [HafenCity University Hamburg] was compared to [HafenCity University Hamburg] 
+	http://risis.eu/orgreg_20170718/resource/DE0044............. http://www.grid.ac/institutes/grid.440937.d................. 1........................................................... [HafenCity University Hamburg] was compared to [HafenCity University Hamburg] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.440937.d................. 10.004934................................................... 
+	http://www.grid.ac/institutes/grid.440937.d................. 53.540367................................................... 
+	http://www.grid.ac/institutes/grid.440937.d................. https://www.hcu-hamburg.de/en/.............................. 
+	http://www.grid.ac/institutes/grid.440937.d................. University Of The Built Environment And Metropolitan Development 
+	http://www.grid.ac/institutes/grid.440937.d................. HafenCity University Hamburg................................ 
+	http://risis.eu/cordisH2020/resource/participant_998143193.. HAFENCITY UNIVERSITAT HAMBURG............................... 
+	http://risis.eu/eter_2014/resource/DE0044................... 53,608827................................................... 
+	http://risis.eu/eter_2014/resource/DE0044................... 10,009959................................................... 
+	http://risis.eu/eter_2014/resource/DE0044................... www.hcu-hamburg.de.......................................... 
+	http://risis.eu/eter_2014/resource/DE0044................... a........................................................... 
+	http://risis.eu/eter_2014/resource/DE0044................... HafenCity University Hamburg................................ 
+	http://risis.eu/eter_2014/resource/DE0044................... Hafencity Universität Hamburg.............................. 
+	http://risis.eu/orgreg_20170718/resource/DE0044............. 53.608827................................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0044............. 10.009959................................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0044............. www.hcu-hamburg.de.......................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0044............. HafenCity University Hamburg................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_998143193', '1:grid.440937.d'), ('3:DE0044', '1:grid.440937.d'), ('3:DE0044', '2:participant_998143193'), ('3:DE0044', '4:DE0044'), ('4:DE0044', '1:grid.440937.d'), ('4:DE0044', '2:participant_998143193')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

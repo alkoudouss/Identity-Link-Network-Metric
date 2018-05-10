@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 9890 
+NAME    N2091005835
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.411495.c>
+	<http://risis.eu/orgref_20170703/resource/1573634>
+	<http://www.grid.ac/institutes/grid.444944.d>
+	<http://risis.eu/orgref_20170703/resource/40378431>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.411495.c........ http://www.grid.ac/institutes/grid.444944.d........ 0.969696969697..................................... [Babol University of Medical Sciences] was compared to [Zabol University of Medical Sciences] 
+	http://www.grid.ac/institutes/grid.444944.d........ http://www.grid.ac/institutes/grid.411495.c........ 0.969696969697..................................... [Babol University of Medical Sciences] was compared to [Zabol University of Medical Sciences] 
+	http://www.grid.ac/institutes/grid.411495.c........ http://risis.eu/orgref_20170703/resource/1573634... 1.................................................. [Babol University of Medical Sciences] was compared to [Babol University of Medical Sciences] 
+	http://risis.eu/orgref_20170703/resource/1573634... http://www.grid.ac/institutes/grid.411495.c........ 1.................................................. [Babol University of Medical Sciences] was compared to [Babol University of Medical Sciences] 
+	http://www.grid.ac/institutes/grid.444944.d........ http://risis.eu/orgref_20170703/resource/40378431.. 0.969696969697..................................... [Zabol University of Medical Sciences] was compared to [Zabol Medical Science University] 
+	http://risis.eu/orgref_20170703/resource/40378431.. http://www.grid.ac/institutes/grid.444944.d........ 0.969696969697..................................... [Zabol University of Medical Sciences] was compared to [Zabol Medical Science University] 
+	http://risis.eu/orgref_20170703/resource/1573634... http://www.grid.ac/institutes/grid.444944.d........ 0.969696969697..................................... [Zabol University of Medical Sciences] was compared to [Babol University of Medical Sciences] 
+	http://www.grid.ac/institutes/grid.444944.d........ http://risis.eu/orgref_20170703/resource/1573634... 0.969696969697..................................... [Zabol University of Medical Sciences] was compared to [Babol University of Medical Sciences] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.411495.c........ 52.67811........................................... 
+	http://www.grid.ac/institutes/grid.411495.c........ 36.5312............................................ 
+	http://www.grid.ac/institutes/grid.411495.c........ http://en.mubabol.ac.ir/........................... 
+	http://www.grid.ac/institutes/grid.411495.c........ Babol University of Medical Sciences............... 
+	http://risis.eu/orgref_20170703/resource/1573634... http://en.wikipedia.org/wiki?curid=1573634......... 
+	http://risis.eu/orgref_20170703/resource/1573634... http://www.wikidata.org/wiki/Q4837979.............. 
+	http://risis.eu/orgref_20170703/resource/1573634... http://www.mubabol.ac.ir........................... 
+	http://risis.eu/orgref_20170703/resource/1573634... Babol University of Medical Sciences............... 
+	http://www.grid.ac/institutes/grid.444944.d........ 61.490025.......................................... 
+	http://www.grid.ac/institutes/grid.444944.d........ 31.03261........................................... 
+	http://www.grid.ac/institutes/grid.444944.d........ http://www.zbmu.ac.ir/index.php?slc_lang=en&sid=1.. 
+	http://www.grid.ac/institutes/grid.444944.d........ Zabol University of Medical Sciences............... 
+	http://risis.eu/orgref_20170703/resource/40378431.. http://en.wikipedia.org/wiki?curid=40378431........ 
+	http://risis.eu/orgref_20170703/resource/40378431.. http://www.wikidata.org/wiki/Q16904255............. 
+	http://risis.eu/orgref_20170703/resource/40378431.. http://zbmu.ac.ir.................................. 
+	http://risis.eu/orgref_20170703/resource/40378431.. Zabol Medical Science University................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1573634', '1:grid.411495.c'), ('2:1573634', '3:grid.444944.d'), ('3:grid.444944.d', '1:grid.411495.c'), ('4:40378431', '3:grid.444944.d')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

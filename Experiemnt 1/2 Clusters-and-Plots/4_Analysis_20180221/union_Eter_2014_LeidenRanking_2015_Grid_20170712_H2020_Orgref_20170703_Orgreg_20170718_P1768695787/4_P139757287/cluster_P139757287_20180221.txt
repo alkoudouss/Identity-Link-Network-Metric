@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 5018 
+NAME    P139757287
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.425396.f>
+	<http://risis.eu/orgref_20170703/resource/47002693>
+	<http://risis.eu/leidenRanking_2015/resource/7214>
+	<http://risis.eu/orgreg_20170718/resource/DE1099>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.425396.f........ http://risis.eu/orgref_20170703/resource/47002693.. 0.954545454545..................................... [Paul Ehrlich Institut] was compared to [Paul Ehrlich Institute] 
+	http://risis.eu/orgref_20170703/resource/47002693.. http://www.grid.ac/institutes/grid.425396.f........ 0.954545454545..................................... [Paul Ehrlich Institut] was compared to [Paul Ehrlich Institute] 
+	http://www.grid.ac/institutes/grid.425396.f........ http://risis.eu/leidenRanking_2015/resource/7214... 0.954545454545..................................... [Paul Ehrlich Institut] was compared to [Paul Ehrlich Institute] 
+	http://risis.eu/leidenRanking_2015/resource/7214... http://www.grid.ac/institutes/grid.425396.f........ 0.954545454545..................................... [Paul Ehrlich Institut] was compared to [Paul Ehrlich Institute] 
+	http://risis.eu/orgref_20170703/resource/47002693.. http://risis.eu/leidenRanking_2015/resource/7214... 1.................................................. [Paul Ehrlich Institute] was compared to [Paul Ehrlich Institute] 
+	http://risis.eu/leidenRanking_2015/resource/7214... http://risis.eu/orgref_20170703/resource/47002693.. 1.................................................. [Paul Ehrlich Institute] was compared to [Paul Ehrlich Institute] 
+	http://risis.eu/leidenRanking_2015/resource/7214... http://risis.eu/orgreg_20170718/resource/DE1099.... 1.................................................. [Paul Ehrlich Institute] was compared to [Paul Ehrlich Institute] 
+	http://risis.eu/orgreg_20170718/resource/DE1099.... http://risis.eu/leidenRanking_2015/resource/7214... 1.................................................. [Paul Ehrlich Institute] was compared to [Paul Ehrlich Institute] 
+	http://risis.eu/orgref_20170703/resource/47002693.. http://risis.eu/orgreg_20170718/resource/DE1099.... 1.................................................. [Paul Ehrlich Institute] was compared to [Paul Ehrlich Institute] 
+	http://risis.eu/orgreg_20170718/resource/DE1099.... http://risis.eu/orgref_20170703/resource/47002693.. 1.................................................. [Paul Ehrlich Institute] was compared to [Paul Ehrlich Institute] 
+	http://www.grid.ac/institutes/grid.425396.f........ http://risis.eu/orgreg_20170718/resource/DE1099.... 0.954545454545..................................... [Paul Ehrlich Institut] was compared to [Paul Ehrlich Institute] 
+	http://risis.eu/orgreg_20170718/resource/DE1099.... http://www.grid.ac/institutes/grid.425396.f........ 0.954545454545..................................... [Paul Ehrlich Institut] was compared to [Paul Ehrlich Institute] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.425396.f........ 8.6488............................................. 
+	http://www.grid.ac/institutes/grid.425396.f........ 50.006306.......................................... 
+	http://www.grid.ac/institutes/grid.425396.f........ http://www.pei.de/EN/home/node.html................ 
+	http://www.grid.ac/institutes/grid.425396.f........ Paul Ehrlich Institut.............................. 
+	http://risis.eu/orgref_20170703/resource/47002693.. http://en.wikipedia.org/wiki?curid=30701605........ 
+	http://risis.eu/orgref_20170703/resource/47002693.. http://www.wikidata.org/wiki/Q1476836.............. 
+	http://risis.eu/orgref_20170703/resource/47002693.. http://www.pei.de.................................. 
+	http://risis.eu/orgref_20170703/resource/47002693.. Paul Ehrlich Institute............................. 
+	http://risis.eu/leidenRanking_2015/resource/7214... Paul Ehrlich Institute............................. 
+	http://risis.eu/orgreg_20170718/resource/DE1099.... 48.700536.......................................... 
+	http://risis.eu/orgreg_20170718/resource/DE1099.... 9.343203........................................... 
+	http://risis.eu/orgreg_20170718/resource/DE1099.... http://www.pei.de/................................. 
+	http://risis.eu/orgreg_20170718/resource/DE1099.... Paul Ehrlich Institute............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:47002693', '1:grid.425396.f'), ('3:7214', '1:grid.425396.f'), ('3:7214', '2:47002693'), ('3:7214', '4:DE1099'), ('4:DE1099', '1:grid.425396.f'), ('4:DE1099', '2:47002693')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

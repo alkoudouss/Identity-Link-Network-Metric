@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 1227 
+NAME    N593524918
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/PL0204>
+	<http://www.grid.ac/institutes/grid.410688.3>
+	<http://risis.eu/eter_2014/resource/PL0196>
+	<http://www.grid.ac/institutes/grid.22254.33>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/PL0204.... http://www.grid.ac/institutes/grid.22254.33.. 0.823529411765............................... [poznan university life sciences] was compared to [poznan university medical sciences] 
+	http://risis.eu/eter_2014/resource/PL0204.... http://www.grid.ac/institutes/grid.410688.3.. 1............................................ [poznan university life sciences] was compared to [university life sciences poznan] 
+	http://www.grid.ac/institutes/grid.410688.3.. http://risis.eu/eter_2014/resource/PL0204.... 1............................................ [poznan university life sciences] was compared to [university life sciences poznan] 
+	http://risis.eu/eter_2014/resource/PL0196.... http://www.grid.ac/institutes/grid.22254.33.. 1............................................ [poznan university medical sciences] was compared to [poznan university medical sciences] 
+	http://www.grid.ac/institutes/grid.22254.33.. http://risis.eu/eter_2014/resource/PL0196.... 1............................................ [poznan university medical sciences] was compared to [poznan university medical sciences] 
+	http://www.grid.ac/institutes/grid.22254.33.. http://risis.eu/eter_2014/resource/PL0204.... 0.823529411765............................... [poznan university life sciences] was compared to [poznan university medical sciences] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 21 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/PL0204.... 52,424118.................................... 
+	http://risis.eu/eter_2014/resource/PL0204.... 16,909445.................................... 
+	http://risis.eu/eter_2014/resource/PL0204.... http://puls.edu.pl/.......................... 
+	http://risis.eu/eter_2014/resource/PL0204.... a............................................ 
+	http://risis.eu/eter_2014/resource/PL0204.... Poznań University of Life Sciences.......... 
+	http://risis.eu/eter_2014/resource/PL0204.... Uniwersytet Przyrodniczy w Poznaniu.......... 
+	http://www.grid.ac/institutes/grid.410688.3.. 16.90639..................................... 
+	http://www.grid.ac/institutes/grid.410688.3.. 52.425556.................................... 
+	http://www.grid.ac/institutes/grid.410688.3.. http://en.puls.edu.pl/....................... 
+	http://www.grid.ac/institutes/grid.410688.3.. University of Life Sciences in Poznań....... 
+	http://risis.eu/eter_2014/resource/PL0196.... 52,409336.................................... 
+	http://risis.eu/eter_2014/resource/PL0196.... 16,919707.................................... 
+	http://risis.eu/eter_2014/resource/PL0196.... http://www.ump.edu.pl........................ 
+	http://risis.eu/eter_2014/resource/PL0196.... a............................................ 
+	http://risis.eu/eter_2014/resource/PL0196.... Poznań University of Medical Sciences....... 
+	http://risis.eu/eter_2014/resource/PL0196.... Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu 
+	http://www.grid.ac/institutes/grid.22254.33.. 16.918888.................................... 
+	http://www.grid.ac/institutes/grid.22254.33.. 52.409443.................................... 
+	http://www.grid.ac/institutes/grid.22254.33.. https://pums.ump.edu.pl/..................... 
+	http://www.grid.ac/institutes/grid.22254.33.. Uniwersytet Medyczny im. Karola Marcinkowskiego w Poznaniu 
+	http://www.grid.ac/institutes/grid.22254.33.. Poznan University of Medical Sciences........ 
+
+NETWORK ANALYSIS
+	NETWORK [('N159527904-PL0204', 'P1344911147-grid.22254.33'), ('N159527904-PL0204', 'P2032148608-grid.410688.3'), ('N593524918-PL0196', 'P1344911147-grid.22254.33')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 3068 
+NAME    N1809278896
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.9563.9>
+	<http://risis.eu/leidenRanking_2015/resource/658>
+	<http://risis.eu/orgreg_20170718/resource/ES0012>
+	<http://risis.eu/orgref_20170703/resource/4724437>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.9563.9......... http://risis.eu/orgref_20170703/resource/4724437.. 1................................................. [University of the Balearic Islands] was compared to [University of the Balearic Islands] 
+	http://risis.eu/orgref_20170703/resource/4724437.. http://www.grid.ac/institutes/grid.9563.9......... 1................................................. [University of the Balearic Islands] was compared to [University of the Balearic Islands] 
+	http://www.grid.ac/institutes/grid.9563.9......... http://risis.eu/leidenRanking_2015/resource/658... 1................................................. [University of the Balearic Islands] was compared to [University of the Balearic Islands] 
+	http://risis.eu/leidenRanking_2015/resource/658... http://www.grid.ac/institutes/grid.9563.9......... 1................................................. [University of the Balearic Islands] was compared to [University of the Balearic Islands] 
+	http://risis.eu/leidenRanking_2015/resource/658... http://risis.eu/orgref_20170703/resource/4724437.. 1................................................. [University of the Balearic Islands] was compared to [University of the Balearic Islands] 
+	http://risis.eu/orgref_20170703/resource/4724437.. http://risis.eu/leidenRanking_2015/resource/658... 1................................................. [University of the Balearic Islands] was compared to [University of the Balearic Islands] 
+	http://risis.eu/leidenRanking_2015/resource/658... http://risis.eu/orgreg_20170718/resource/ES0012... 1................................................. [University of the Balearic Islands] was compared to [University of the Balearic Islands] 
+	http://risis.eu/orgreg_20170718/resource/ES0012... http://risis.eu/leidenRanking_2015/resource/658... 1................................................. [University of the Balearic Islands] was compared to [University of the Balearic Islands] 
+	http://risis.eu/orgreg_20170718/resource/ES0012... http://risis.eu/orgref_20170703/resource/4724437.. 1................................................. [University of the Balearic Islands] was compared to [University of the Balearic Islands] 
+	http://risis.eu/orgref_20170703/resource/4724437.. http://risis.eu/orgreg_20170718/resource/ES0012... 1................................................. [University of the Balearic Islands] was compared to [University of the Balearic Islands] 
+	http://www.grid.ac/institutes/grid.9563.9......... http://risis.eu/orgreg_20170718/resource/ES0012... 1................................................. [University of the Balearic Islands] was compared to [University of the Balearic Islands] 
+	http://risis.eu/orgreg_20170718/resource/ES0012... http://www.grid.ac/institutes/grid.9563.9......... 1................................................. [University of the Balearic Islands] was compared to [University of the Balearic Islands] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.9563.9......... 2.644283.......................................... 
+	http://www.grid.ac/institutes/grid.9563.9......... 39.636883......................................... 
+	http://www.grid.ac/institutes/grid.9563.9......... http://www.uib.cat/............................... 
+	http://www.grid.ac/institutes/grid.9563.9......... Universitat de les Illes Balears.................. 
+	http://www.grid.ac/institutes/grid.9563.9......... University of the Balearic Islands................ 
+	http://risis.eu/leidenRanking_2015/resource/658... University of the Balearic Islands................ 
+	http://risis.eu/orgreg_20170718/resource/ES0012... 39.636662......................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0012... 2.644315.......................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0012... http://www.uib.cat................................ 
+	http://risis.eu/orgreg_20170718/resource/ES0012... University of the Balearic Islands................ 
+	http://risis.eu/orgref_20170703/resource/4724437.. http://en.wikipedia.org/wiki?curid=4724437........ 
+	http://risis.eu/orgref_20170703/resource/4724437.. http://www.wikidata.org/wiki/Q1811146............. 
+	http://risis.eu/orgref_20170703/resource/4724437.. http://www.uib.cat................................ 
+	http://risis.eu/orgref_20170703/resource/4724437.. University of the Balearic Islands................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:658', '1:grid.9563.9'), ('2:658', '3:ES0012'), ('3:ES0012', '1:grid.9563.9'), ('3:ES0012', '4:4724437'), ('4:4724437', '1:grid.9563.9'), ('4:4724437', '2:658')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

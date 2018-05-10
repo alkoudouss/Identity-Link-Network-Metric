@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 7677 
+NAME    N394661294
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/399825>
+	<http://risis.eu/orgref_20170703/resource/991544>
+	<http://www.grid.ac/institutes/grid.467757.0>
+	<http://risis.eu/orgref_20170703/resource/40249029>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/399825.... http://www.grid.ac/institutes/grid.467757.0........ 1.................................................. [National Intelligence Service] was compared to [National Intelligence Service (Greece)] 
+	http://www.grid.ac/institutes/grid.467757.0........ http://risis.eu/orgref_20170703/resource/399825.... 1.................................................. [National Intelligence Service] was compared to [National Intelligence Service (Greece)] 
+	http://www.grid.ac/institutes/grid.467757.0........ http://risis.eu/orgref_20170703/resource/40249029.. 1.................................................. [National Intelligence Service] was compared to [National Intelligence Service (Kenya)] 
+	http://risis.eu/orgref_20170703/resource/40249029.. http://www.grid.ac/institutes/grid.467757.0........ 1.................................................. [National Intelligence Service] was compared to [National Intelligence Service (Kenya)] 
+	http://risis.eu/orgref_20170703/resource/991544.... http://www.grid.ac/institutes/grid.467757.0........ 1.................................................. [National Intelligence Service] was compared to [National Intelligence Service (South Korea)] 
+	http://www.grid.ac/institutes/grid.467757.0........ http://risis.eu/orgref_20170703/resource/991544.... 1.................................................. [National Intelligence Service] was compared to [National Intelligence Service (South Korea)] 
+	http://risis.eu/orgref_20170703/resource/399825.... http://risis.eu/orgref_20170703/resource/40249029.. 1.................................................. [National Intelligence Service (Greece)] was compared to [National Intelligence Service (Kenya)] 
+	http://risis.eu/orgref_20170703/resource/40249029.. http://risis.eu/orgref_20170703/resource/399825.... 1.................................................. [National Intelligence Service (Greece)] was compared to [National Intelligence Service (Kenya)] 
+	http://risis.eu/orgref_20170703/resource/399825.... http://risis.eu/orgref_20170703/resource/991544.... 1.................................................. [National Intelligence Service (Greece)] was compared to [National Intelligence Service (South Korea)] 
+	http://risis.eu/orgref_20170703/resource/991544.... http://risis.eu/orgref_20170703/resource/399825.... 1.................................................. [National Intelligence Service (Greece)] was compared to [National Intelligence Service (South Korea)] 
+	http://risis.eu/orgref_20170703/resource/991544.... http://risis.eu/orgref_20170703/resource/40249029.. 1.................................................. [National Intelligence Service (Kenya)] was compared to [National Intelligence Service (South Korea)] 
+	http://risis.eu/orgref_20170703/resource/40249029.. http://risis.eu/orgref_20170703/resource/991544.... 1.................................................. [National Intelligence Service (Kenya)] was compared to [National Intelligence Service (South Korea)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/399825.... http://en.wikipedia.org/wiki?curid=399825.......... 
+	http://risis.eu/orgref_20170703/resource/399825.... http://www.wikidata.org/wiki/Q303976............... 
+	http://risis.eu/orgref_20170703/resource/399825.... http://www.nis.gr.................................. 
+	http://risis.eu/orgref_20170703/resource/399825.... National Intelligence Service (Greece)............. 
+	http://risis.eu/orgref_20170703/resource/991544.... http://en.wikipedia.org/wiki?curid=991544.......... 
+	http://risis.eu/orgref_20170703/resource/991544.... http://www.wikidata.org/wiki/Q485566............... 
+	http://risis.eu/orgref_20170703/resource/991544.... http://www.nis.go.kr............................... 
+	http://risis.eu/orgref_20170703/resource/991544.... National Intelligence Service (South Korea)........ 
+	http://www.grid.ac/institutes/grid.467757.0........ 126.98646.......................................... 
+	http://www.grid.ac/institutes/grid.467757.0........ 37.54484........................................... 
+	http://www.grid.ac/institutes/grid.467757.0........ http://eng.nis.go.kr/.............................. 
+	http://www.grid.ac/institutes/grid.467757.0........ Korean Central Intelligence Agency................. 
+	http://www.grid.ac/institutes/grid.467757.0........ National Intelligence Service...................... 
+	http://risis.eu/orgref_20170703/resource/40249029.. http://en.wikipedia.org/wiki?curid=40249029........ 
+	http://risis.eu/orgref_20170703/resource/40249029.. http://www.wikidata.org/wiki/Q15911311............. 
+	http://risis.eu/orgref_20170703/resource/40249029.. National Intelligence Service (Kenya).............. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:991544', '1:399825'), ('2:991544', '3:grid.467757.0'), ('3:grid.467757.0', '1:399825'), ('4:40249029', '1:399825'), ('4:40249029', '2:991544'), ('4:40249029', '3:grid.467757.0')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

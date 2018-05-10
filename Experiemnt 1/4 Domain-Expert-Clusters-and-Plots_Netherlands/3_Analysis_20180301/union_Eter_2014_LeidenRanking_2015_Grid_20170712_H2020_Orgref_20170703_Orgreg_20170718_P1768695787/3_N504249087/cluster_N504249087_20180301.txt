@@ -1,0 +1,55 @@
+SIZE    3   
+CLUSTER 11187 
+NAME    N504249087
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.438809.e>
+	<http://www.grid.ac/institutes/grid.471235.6>
+	<http://www.grid.ac/institutes/grid.480107.a>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.438809.e.. http://www.grid.ac/institutes/grid.471235.6.. 1............................................ [Dolby (Canada)] was compared to [Dolby (United States)] 
+	http://www.grid.ac/institutes/grid.438809.e.. http://www.grid.ac/institutes/grid.480107.a.. 1............................................ [Dolby (Canada)] was compared to [Dolby (Netherlands)] 
+	http://www.grid.ac/institutes/grid.471235.6.. http://www.grid.ac/institutes/grid.480107.a.. 1............................................ [Dolby (United States)] was compared to [Dolby (Netherlands)] 
+	http://www.grid.ac/institutes/grid.471235.6.. http://www.grid.ac/institutes/grid.438809.e.. 1............................................ [Dolby (Canada)] was compared to [Dolby (United States)] 
+	http://www.grid.ac/institutes/grid.480107.a.. http://www.grid.ac/institutes/grid.438809.e.. 1............................................ [Dolby (Canada)] was compared to [Dolby (Netherlands)] 
+	http://www.grid.ac/institutes/grid.480107.a.. http://www.grid.ac/institutes/grid.471235.6.. 1............................................ [Dolby (United States)] was compared to [Dolby (Netherlands)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.438809.e.. Dolby (Canada)............................... 
+	http://www.grid.ac/institutes/grid.471235.6.. -122.39728................................... 
+	http://www.grid.ac/institutes/grid.471235.6.. 37.79256..................................... 
+	http://www.grid.ac/institutes/grid.471235.6.. http://www.dolby.com/in/en/index.html........ 
+	http://www.grid.ac/institutes/grid.471235.6.. Dolby Labs................................... 
+	http://www.grid.ac/institutes/grid.471235.6.. Dolby (United States)........................ 
+	http://www.grid.ac/institutes/grid.480107.a.. 4.871142..................................... 
+	http://www.grid.ac/institutes/grid.480107.a.. 52.36279..................................... 
+	http://www.grid.ac/institutes/grid.480107.a.. https://www.dolby.com/us/en/about/contact-us/dolby-offices-worldwide.html 
+	http://www.grid.ac/institutes/grid.480107.a.. Dolby Labs................................... 
+	http://www.grid.ac/institutes/grid.480107.a.. Dolby (Netherlands).......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('P722861492-grid.471235.6', 'P1592260489-grid.480107.a'), ('N504249087-grid.438809.e', 'P1592260489-grid.480107.a'), ('N504249087-grid.438809.e', 'P722861492-grid.471235.6')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

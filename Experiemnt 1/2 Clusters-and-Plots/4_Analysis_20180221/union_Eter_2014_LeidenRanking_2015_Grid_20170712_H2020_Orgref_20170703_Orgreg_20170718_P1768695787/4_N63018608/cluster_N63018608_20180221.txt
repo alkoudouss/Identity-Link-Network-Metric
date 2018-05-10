@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 10305 
+NAME    N63018608
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.424869.5>
+	<http://www.grid.ac/institutes/grid.426544.5>
+	<http://www.grid.ac/institutes/grid.424801.b>
+	<http://www.grid.ac/institutes/grid.467054.4>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.424801.b.. http://www.grid.ac/institutes/grid.467054.4.. 1............................................ [Vodafone (Germany)] was compared to [Vodafone (Portugal)] 
+	http://www.grid.ac/institutes/grid.467054.4.. http://www.grid.ac/institutes/grid.424801.b.. 1............................................ [Vodafone (Germany)] was compared to [Vodafone (Portugal)] 
+	http://www.grid.ac/institutes/grid.424869.5.. http://www.grid.ac/institutes/grid.424801.b.. 1............................................ [Vodafone (Germany)] was compared to [Vodafone (Spain)] 
+	http://www.grid.ac/institutes/grid.424801.b.. http://www.grid.ac/institutes/grid.424869.5.. 1............................................ [Vodafone (Germany)] was compared to [Vodafone (Spain)] 
+	http://www.grid.ac/institutes/grid.426544.5.. http://www.grid.ac/institutes/grid.424801.b.. 1............................................ [Vodafone (Germany)] was compared to [Vodafone (Greece)] 
+	http://www.grid.ac/institutes/grid.424801.b.. http://www.grid.ac/institutes/grid.426544.5.. 1............................................ [Vodafone (Germany)] was compared to [Vodafone (Greece)] 
+	http://www.grid.ac/institutes/grid.424869.5.. http://www.grid.ac/institutes/grid.467054.4.. 1............................................ [Vodafone (Spain)] was compared to [Vodafone (Portugal)] 
+	http://www.grid.ac/institutes/grid.467054.4.. http://www.grid.ac/institutes/grid.424869.5.. 1............................................ [Vodafone (Spain)] was compared to [Vodafone (Portugal)] 
+	http://www.grid.ac/institutes/grid.424869.5.. http://www.grid.ac/institutes/grid.426544.5.. 1............................................ [Vodafone (Spain)] was compared to [Vodafone (Greece)] 
+	http://www.grid.ac/institutes/grid.426544.5.. http://www.grid.ac/institutes/grid.424869.5.. 1............................................ [Vodafone (Spain)] was compared to [Vodafone (Greece)] 
+	http://www.grid.ac/institutes/grid.426544.5.. http://www.grid.ac/institutes/grid.467054.4.. 1............................................ [Vodafone (Greece)] was compared to [Vodafone (Portugal)] 
+	http://www.grid.ac/institutes/grid.467054.4.. http://www.grid.ac/institutes/grid.426544.5.. 1............................................ [Vodafone (Greece)] was compared to [Vodafone (Portugal)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.424869.5.. -3.602012.................................... 
+	http://www.grid.ac/institutes/grid.424869.5.. 40.4507...................................... 
+	http://www.grid.ac/institutes/grid.424869.5.. http://www.vodafone.com/content/index.html... 
+	http://www.grid.ac/institutes/grid.424869.5.. Vodafone (Spain)............................. 
+	http://www.grid.ac/institutes/grid.426544.5.. 23.784163.................................... 
+	http://www.grid.ac/institutes/grid.426544.5.. 38.00956..................................... 
+	http://www.grid.ac/institutes/grid.426544.5.. http://www.vodafone.gr/portal/client/cms/viewCmsPage.action?pageId=1032&request_locale=en&lang=en_EN 
+	http://www.grid.ac/institutes/grid.426544.5.. Vodafone (Greece)............................ 
+	http://www.grid.ac/institutes/grid.424801.b.. 6.859669..................................... 
+	http://www.grid.ac/institutes/grid.424801.b.. 51.23953..................................... 
+	http://www.grid.ac/institutes/grid.424801.b.. http://www.vodafone.de/...................... 
+	http://www.grid.ac/institutes/grid.424801.b.. Vodafone (Germany)........................... 
+	http://www.grid.ac/institutes/grid.467054.4.. -9.146542.................................... 
+	http://www.grid.ac/institutes/grid.467054.4.. 38.72202..................................... 
+	http://www.grid.ac/institutes/grid.467054.4.. http://www.vodafone.pt/main/particulares/.... 
+	http://www.grid.ac/institutes/grid.467054.4.. Telecel...................................... 
+	http://www.grid.ac/institutes/grid.467054.4.. Vodafone (Portugal).......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.424869.5', '3:grid.424801.b'), ('2:grid.426544.5', '1:grid.424869.5'), ('3:grid.424801.b', '2:grid.426544.5'), ('4:grid.467054.4', '1:grid.424869.5'), ('4:grid.467054.4', '2:grid.426544.5'), ('4:grid.467054.4', '3:grid.424801.b')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

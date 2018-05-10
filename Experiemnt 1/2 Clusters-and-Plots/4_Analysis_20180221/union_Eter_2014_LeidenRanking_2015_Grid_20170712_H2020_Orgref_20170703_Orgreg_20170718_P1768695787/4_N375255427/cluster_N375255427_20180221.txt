@@ -1,0 +1,56 @@
+SIZE    4   
+CLUSTER 5962 
+NAME    N375255427
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.7858.2>
+	<http://risis.eu/orgref_20170703/resource/2091869>
+	<http://www.grid.ac/institutes/grid.440793.d>
+	<http://risis.eu/cordisH2020/resource/participant_999588493>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.7858.2................... http://risis.eu/orgref_20170703/resource/2091869............ 0.9......................................................... [Saints Cyril and Methodius University of Skopje] was compared to [Ss. Cyril and Methodius University of Skopje] 
+	http://risis.eu/orgref_20170703/resource/2091869............ http://www.grid.ac/institutes/grid.7858.2................... 0.9......................................................... [Saints Cyril and Methodius University of Skopje] was compared to [Ss. Cyril and Methodius University of Skopje] 
+	http://www.grid.ac/institutes/grid.440793.d................. http://risis.eu/cordisH2020/resource/participant_999588493.. 0.805555555556.............................................. [University of Ss. Cyril and Methodius] was compared to [Ss. CYRIL AND METHODIUS UNIVERSITY IN SKOPJE] 
+	http://risis.eu/cordisH2020/resource/participant_999588493.. http://www.grid.ac/institutes/grid.440793.d................. 0.805555555556.............................................. [University of Ss. Cyril and Methodius] was compared to [Ss. CYRIL AND METHODIUS UNIVERSITY IN SKOPJE] 
+	http://risis.eu/orgref_20170703/resource/2091869............ http://risis.eu/cordisH2020/resource/participant_999588493.. 1........................................................... [Ss. Cyril and Methodius University of Skopje] was compared to [Ss. CYRIL AND METHODIUS UNIVERSITY IN SKOPJE] 
+	http://risis.eu/cordisH2020/resource/participant_999588493.. http://risis.eu/orgref_20170703/resource/2091869............ 1........................................................... [Ss. Cyril and Methodius University of Skopje] was compared to [Ss. CYRIL AND METHODIUS UNIVERSITY IN SKOPJE] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.7858.2................... 21.443884................................................... 
+	http://www.grid.ac/institutes/grid.7858.2................... 41.99947.................................................... 
+	http://www.grid.ac/institutes/grid.7858.2................... http://www.ukim.edu.mk/en_index.php......................... 
+	http://www.grid.ac/institutes/grid.7858.2................... Saints Cyril and Methodius University of Skopje............. 
+	http://risis.eu/orgref_20170703/resource/2091869............ http://en.wikipedia.org/wiki?curid=2091869.................. 
+	http://risis.eu/orgref_20170703/resource/2091869............ http://www.wikidata.org/wiki/Q589636........................ 
+	http://risis.eu/orgref_20170703/resource/2091869............ http://www.ukim.edu.mk...................................... 
+	http://risis.eu/orgref_20170703/resource/2091869............ Ss. Cyril and Methodius University of Skopje................ 
+	http://www.grid.ac/institutes/grid.440793.d................. University of Ss. Cyril and Methodius....................... 
+	http://risis.eu/cordisH2020/resource/participant_999588493.. http://risis.eu/cordisH2020/resource/www.ukim.edu.mk........ 
+	http://risis.eu/cordisH2020/resource/participant_999588493.. Ss. CYRIL AND METHODIUS UNIVERSITY IN SKOPJE................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:2091869', '1:grid.7858.2'), ('4:participant_999588493', '2:2091869'), ('4:participant_999588493', '3:grid.440793.d')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

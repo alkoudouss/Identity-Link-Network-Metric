@@ -1,0 +1,59 @@
+SIZE    4   
+CLUSTER 12055 
+NAME    N2071571983
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.464312.6>
+	<http://risis.eu/leidenRanking_2015/resource/16056>
+	<http://risis.eu/orgref_20170703/resource/47000044>
+	<http://www.grid.ac/institutes/grid.459522.d>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.464312.6........ http://www.grid.ac/institutes/grid.459522.d........ 0.847826086957..................................... [General Research Institute For Nonferrous Metals (China)] was compared to [Guangzhou Research Institute of Non-ferrous Metals] 
+	http://www.grid.ac/institutes/grid.459522.d........ http://www.grid.ac/institutes/grid.464312.6........ 0.847826086957..................................... [General Research Institute For Nonferrous Metals (China)] was compared to [Guangzhou Research Institute of Non-ferrous Metals] 
+	http://risis.eu/orgref_20170703/resource/47000044.. http://www.grid.ac/institutes/grid.459522.d........ 0.846153846154..................................... [General Research Institute For Nonferrous Metals (China)] was compared to [Beijing General Research Institute for Non-ferrous Metals] 
+	http://www.grid.ac/institutes/grid.459522.d........ http://risis.eu/orgref_20170703/resource/47000044.. 0.846153846154..................................... [General Research Institute For Nonferrous Metals (China)] was compared to [Beijing General Research Institute for Non-ferrous Metals] 
+	http://risis.eu/leidenRanking_2015/resource/16056.. http://www.grid.ac/institutes/grid.459522.d........ 1.................................................. [General Research Institute For Nonferrous Metals (China)] was compared to [General Research Institute for Nonferrous Metals] 
+	http://www.grid.ac/institutes/grid.459522.d........ http://risis.eu/leidenRanking_2015/resource/16056.. 1.................................................. [General Research Institute For Nonferrous Metals (China)] was compared to [General Research Institute for Nonferrous Metals] 
+	http://www.grid.ac/institutes/grid.464312.6........ http://risis.eu/leidenRanking_2015/resource/16056.. 0.847826086957..................................... [Guangzhou Research Institute of Non-ferrous Metals] was compared to [General Research Institute for Nonferrous Metals] 
+	http://risis.eu/leidenRanking_2015/resource/16056.. http://www.grid.ac/institutes/grid.464312.6........ 0.847826086957..................................... [Guangzhou Research Institute of Non-ferrous Metals] was compared to [General Research Institute for Nonferrous Metals] 
+	http://risis.eu/leidenRanking_2015/resource/16056.. http://risis.eu/orgref_20170703/resource/47000044.. 0.846153846154..................................... [Beijing General Research Institute for Non-ferrous Metals] was compared to [General Research Institute for Nonferrous Metals] 
+	http://risis.eu/orgref_20170703/resource/47000044.. http://risis.eu/leidenRanking_2015/resource/16056.. 0.846153846154..................................... [Beijing General Research Institute for Non-ferrous Metals] was compared to [General Research Institute for Nonferrous Metals] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.464312.6........ 113.35483.......................................... 
+	http://www.grid.ac/institutes/grid.464312.6........ 23.168364.......................................... 
+	http://www.grid.ac/institutes/grid.464312.6........ http://www.gzrinm.com/............................. 
+	http://www.grid.ac/institutes/grid.464312.6........ Guangzhou Research Institute of Non-ferrous Metals. 
+	http://risis.eu/leidenRanking_2015/resource/16056.. General Research Institute for Nonferrous Metals... 
+	http://risis.eu/orgref_20170703/resource/47000044.. Beijing General Research Institute for Non-ferrous Metals 
+	http://www.grid.ac/institutes/grid.459522.d........ 116.37096.......................................... 
+	http://www.grid.ac/institutes/grid.459522.d........ 39.966537.......................................... 
+	http://www.grid.ac/institutes/grid.459522.d........ http://www.grinm.com/.............................. 
+	http://www.grid.ac/institutes/grid.459522.d........ General Research Institute For Nonferrous Metals (China) 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.464312.6', '4:grid.459522.d'), ('2:16056', '1:grid.464312.6'), ('3:47000044', '2:16056'), ('3:47000044', '4:grid.459522.d'), ('4:grid.459522.d', '2:16056')]
+	MAX DISTANCE:                   : 0.833
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 2.16666666667
+	AVERAGE NODE CONNECTIVITY RATIO : 0.722222222222
+	BRIDGES                         : 0
+	CLOSURE                         : 0.833
+	DIAMETER                        : 2
+	QUALITY                         : 0.223
+	QUALITY USED                    : 0.223
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223

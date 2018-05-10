@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 361 
+NAME    N1601173248
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/DE0069>
+	<http://www.grid.ac/institutes/grid.474401.2>
+	<http://www.grid.ac/institutes/grid.477758.e>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/DE0069.... http://www.grid.ac/institutes/grid.474401.2.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/DE0069.... http://www.grid.ac/institutes/grid.477758.e.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.474401.2.. http://risis.eu/eter_2014/resource/DE0069.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.477758.e.. http://risis.eu/eter_2014/resource/DE0069.... 1............................................ Near each other by at most 500 meter(s)...... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/DE0069.... 50,778048.................................... 
+	http://risis.eu/eter_2014/resource/DE0069.... 6,088768..................................... 
+	http://risis.eu/eter_2014/resource/DE0069.... www.rwth-aachen.de........................... 
+	http://risis.eu/eter_2014/resource/DE0069.... a............................................ 
+	http://risis.eu/eter_2014/resource/DE0069.... Aachen University............................ 
+	http://risis.eu/eter_2014/resource/DE0069.... RWTH Aachen.................................. 
+	http://www.grid.ac/institutes/grid.474401.2.. 6.086292..................................... 
+	http://www.grid.ac/institutes/grid.474401.2.. 50.779297.................................... 
+	http://www.grid.ac/institutes/grid.474401.2.. http://www.paion.com/........................ 
+	http://www.grid.ac/institutes/grid.474401.2.. Paion (Germany).............................. 
+	http://www.grid.ac/institutes/grid.477758.e.. 6.08772...................................... 
+	http://www.grid.ac/institutes/grid.477758.e.. 50.77411..................................... 
+	http://www.grid.ac/institutes/grid.477758.e.. http://www.excellence-in-motion.de/.......... 
+	http://www.grid.ac/institutes/grid.477758.e.. Praxiszentrum Orthopädie Unfallchirurgie Nordrhein 
+
+NETWORK ANALYSIS
+	NETWORK [('N1601173248-DE0069', 'P159191805-grid.477758.e'), ('N1601173248-DE0069', 'P1238148636-grid.474401.2')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

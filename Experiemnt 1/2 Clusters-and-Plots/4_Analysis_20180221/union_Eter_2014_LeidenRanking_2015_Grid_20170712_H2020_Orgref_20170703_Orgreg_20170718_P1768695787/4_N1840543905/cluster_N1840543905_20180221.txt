@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 3568 
+NAME    N1840543905
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.5292.c>
+	<http://risis.eu/orgref_20170703/resource/103244>
+	<http://risis.eu/orgreg_20170718/resource/NL0003>
+	<http://risis.eu/leidenRanking_2015/resource/482>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.5292.c........ http://risis.eu/orgref_20170703/resource/103244.. 1................................................ [Delft University of Technology] was compared to [Delft University of Technology] 
+	http://risis.eu/orgref_20170703/resource/103244.. http://www.grid.ac/institutes/grid.5292.c........ 1................................................ [Delft University of Technology] was compared to [Delft University of Technology] 
+	http://www.grid.ac/institutes/grid.5292.c........ http://risis.eu/leidenRanking_2015/resource/482.. 1................................................ [Delft University of Technology] was compared to [Delft University of Technology] 
+	http://risis.eu/leidenRanking_2015/resource/482.. http://www.grid.ac/institutes/grid.5292.c........ 1................................................ [Delft University of Technology] was compared to [Delft University of Technology] 
+	http://risis.eu/orgref_20170703/resource/103244.. http://risis.eu/leidenRanking_2015/resource/482.. 1................................................ [Delft University of Technology] was compared to [Delft University of Technology] 
+	http://risis.eu/leidenRanking_2015/resource/482.. http://risis.eu/orgref_20170703/resource/103244.. 1................................................ [Delft University of Technology] was compared to [Delft University of Technology] 
+	http://risis.eu/orgreg_20170718/resource/NL0003.. http://risis.eu/leidenRanking_2015/resource/482.. 1................................................ [Delft University of Technology] was compared to [Delft University of Technology] 
+	http://risis.eu/leidenRanking_2015/resource/482.. http://risis.eu/orgreg_20170718/resource/NL0003.. 1................................................ [Delft University of Technology] was compared to [Delft University of Technology] 
+	http://risis.eu/orgref_20170703/resource/103244.. http://risis.eu/orgreg_20170718/resource/NL0003.. 1................................................ [Delft University of Technology] was compared to [Delft University of Technology] 
+	http://risis.eu/orgreg_20170718/resource/NL0003.. http://risis.eu/orgref_20170703/resource/103244.. 1................................................ [Delft University of Technology] was compared to [Delft University of Technology] 
+	http://www.grid.ac/institutes/grid.5292.c........ http://risis.eu/orgreg_20170718/resource/NL0003.. 1................................................ [Delft University of Technology] was compared to [Delft University of Technology] 
+	http://risis.eu/orgreg_20170718/resource/NL0003.. http://www.grid.ac/institutes/grid.5292.c........ 1................................................ [Delft University of Technology] was compared to [Delft University of Technology] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.5292.c........ 4.370898......................................... 
+	http://www.grid.ac/institutes/grid.5292.c........ 52.002792........................................ 
+	http://www.grid.ac/institutes/grid.5292.c........ http://www.tudelft.nl/en/........................ 
+	http://www.grid.ac/institutes/grid.5292.c........ TU Delft......................................... 
+	http://www.grid.ac/institutes/grid.5292.c........ Delft University of Technology................... 
+	http://risis.eu/orgref_20170703/resource/103244.. http://en.wikipedia.org/wiki?curid=103244........ 
+	http://risis.eu/orgref_20170703/resource/103244.. http://www.wikidata.org/wiki/Q752663............. 
+	http://risis.eu/orgref_20170703/resource/103244.. https://www.tudelft.nl/en........................ 
+	http://risis.eu/orgref_20170703/resource/103244.. Delft University of Technology................... 
+	http://risis.eu/orgreg_20170718/resource/NL0003.. 4.375193......................................... 
+	http://risis.eu/orgreg_20170718/resource/NL0003.. 52.002726........................................ 
+	http://risis.eu/orgreg_20170718/resource/NL0003.. http://www.tudelft.nl/........................... 
+	http://risis.eu/orgreg_20170718/resource/NL0003.. Delft University of Technology................... 
+	http://risis.eu/leidenRanking_2015/resource/482.. Delft University of Technology................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:103244', '1:grid.5292.c'), ('3:NL0003', '1:grid.5292.c'), ('3:NL0003', '2:103244'), ('4:482', '1:grid.5292.c'), ('4:482', '2:103244'), ('4:482', '3:NL0003')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

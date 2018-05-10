@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 800 
+NAME    N195425221
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/SK0010>
+	<http://risis.eu/eter_2014/resource/SK0010>
+	<http://risis.eu/eter_2014/resource/SK0016>
+	<http://risis.eu/orgreg_20170718/resource/SK0016>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/SK0010.. http://risis.eu/eter_2014/resource/SK0010........ 1................................................ [slovak medical university bratislava] was compared to [slovak medical university bratislava] 
+	http://risis.eu/orgreg_20170718/resource/SK0010.. http://risis.eu/eter_2014/resource/SK0016........ 0.794871794872................................... [slovak medical university bratislava] was compared to [slovak university technology bratislava] 
+	http://risis.eu/eter_2014/resource/SK0010........ http://risis.eu/orgreg_20170718/resource/SK0010.. 1................................................ [slovak medical university bratislava] was compared to [slovak medical university bratislava] 
+	http://risis.eu/eter_2014/resource/SK0010........ http://risis.eu/orgreg_20170718/resource/SK0016.. 0.794871794872................................... [slovak university technology bratislava] was compared to [slovak medical university bratislava] 
+	http://risis.eu/eter_2014/resource/SK0016........ http://risis.eu/orgreg_20170718/resource/SK0010.. 0.794871794872................................... [slovak medical university bratislava] was compared to [slovak university technology bratislava] 
+	http://risis.eu/eter_2014/resource/SK0016........ http://risis.eu/orgreg_20170718/resource/SK0016.. 1................................................ [slovak university technology bratislava] was compared to [slovak university technology bratislava] 
+	http://risis.eu/orgreg_20170718/resource/SK0016.. http://risis.eu/eter_2014/resource/SK0010........ 0.794871794872................................... [slovak university technology bratislava] was compared to [slovak medical university bratislava] 
+	http://risis.eu/orgreg_20170718/resource/SK0016.. http://risis.eu/eter_2014/resource/SK0016........ 1................................................ [slovak university technology bratislava] was compared to [slovak university technology bratislava] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 20 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/SK0010.. 18.0101517....................................... 
+	http://risis.eu/orgreg_20170718/resource/SK0010.. 48.8962768....................................... 
+	http://risis.eu/orgreg_20170718/resource/SK0010.. www.szu.sk....................................... 
+	http://risis.eu/orgreg_20170718/resource/SK0010.. Slovak Medical University in Bratislava.......... 
+	http://risis.eu/eter_2014/resource/SK0010........ 48,8962768....................................... 
+	http://risis.eu/eter_2014/resource/SK0010........ 18,0101517....................................... 
+	http://risis.eu/eter_2014/resource/SK0010........ www.szu.sk....................................... 
+	http://risis.eu/eter_2014/resource/SK0010........ a................................................ 
+	http://risis.eu/eter_2014/resource/SK0010........ Slovak Medical University in Bratislava.......... 
+	http://risis.eu/eter_2014/resource/SK0010........ Slovenská Zdravotnícka Univerzita V Bratislave. 
+	http://risis.eu/eter_2014/resource/SK0016........ 48,8962768....................................... 
+	http://risis.eu/eter_2014/resource/SK0016........ 18,0101517....................................... 
+	http://risis.eu/eter_2014/resource/SK0016........ www.stuba.sk..................................... 
+	http://risis.eu/eter_2014/resource/SK0016........ a................................................ 
+	http://risis.eu/eter_2014/resource/SK0016........ Slovak University of Technology in Bratislava.... 
+	http://risis.eu/eter_2014/resource/SK0016........ Slovenská Technická Univerzita V Bratislave.... 
+	http://risis.eu/orgreg_20170718/resource/SK0016.. 18.0101517....................................... 
+	http://risis.eu/orgreg_20170718/resource/SK0016.. 48.8962768....................................... 
+	http://risis.eu/orgreg_20170718/resource/SK0016.. www.stuba.sk..................................... 
+	http://risis.eu/orgreg_20170718/resource/SK0016.. Slovak University of Technology in Bratislava.... 
+
+NETWORK ANALYSIS
+	NETWORK [('N195425221-SK0016', 'P2103200648-SK0010'), ('N193425247-SK0010', 'P2103200648-SK0010'), ('N193425247-SK0010', 'P2101200654-SK0016'), ('N195425221-SK0016', 'P2101200654-SK0016')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.666666666667
+	BRIDGES                         : 0
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.277
+	QUALITY USED                    : 0.277
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.277 QUALITY USED 0.277
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.277 QUALITY USED 0.277

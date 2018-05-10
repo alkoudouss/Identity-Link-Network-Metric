@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 13249 
+NAME    N1789823808
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.452178.d>
+	<http://risis.eu/orgref_20170703/resource/2824092>
+	<http://www.grid.ac/institutes/grid.444608.a>
+	<http://risis.eu/cordisH2020/resource/participant_936759556>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.452178.d................. http://www.grid.ac/institutes/grid.444608.a................. 0.806451612903.............................................. [Indian Institute of Foreign Trade] was compared to [Institute for Foreign Affairs and Trade] 
+	http://www.grid.ac/institutes/grid.444608.a................. http://www.grid.ac/institutes/grid.452178.d................. 0.806451612903.............................................. [Indian Institute of Foreign Trade] was compared to [Institute for Foreign Affairs and Trade] 
+	http://risis.eu/orgref_20170703/resource/2824092............ http://www.grid.ac/institutes/grid.444608.a................. 1........................................................... [Indian Institute of Foreign Trade] was compared to [Indian Institute of Foreign Trade] 
+	http://www.grid.ac/institutes/grid.444608.a................. http://risis.eu/orgref_20170703/resource/2824092............ 1........................................................... [Indian Institute of Foreign Trade] was compared to [Indian Institute of Foreign Trade] 
+	http://www.grid.ac/institutes/grid.452178.d................. http://risis.eu/orgref_20170703/resource/2824092............ 0.806451612903.............................................. [Institute for Foreign Affairs and Trade] was compared to [Indian Institute of Foreign Trade] 
+	http://risis.eu/orgref_20170703/resource/2824092............ http://www.grid.ac/institutes/grid.452178.d................. 0.806451612903.............................................. [Institute for Foreign Affairs and Trade] was compared to [Indian Institute of Foreign Trade] 
+	http://www.grid.ac/institutes/grid.444608.a................. http://risis.eu/cordisH2020/resource/participant_936759556.. 0.806451612903.............................................. [Indian Institute of Foreign Trade] was compared to [INSTITUTE FOR FOREIGN AFFAIRS AND TRADE] 
+	http://risis.eu/cordisH2020/resource/participant_936759556.. http://www.grid.ac/institutes/grid.444608.a................. 0.806451612903.............................................. [Indian Institute of Foreign Trade] was compared to [INSTITUTE FOR FOREIGN AFFAIRS AND TRADE] 
+	http://www.grid.ac/institutes/grid.452178.d................. http://risis.eu/cordisH2020/resource/participant_936759556.. 1........................................................... [Institute for Foreign Affairs and Trade] was compared to [INSTITUTE FOR FOREIGN AFFAIRS AND TRADE] 
+	http://risis.eu/cordisH2020/resource/participant_936759556.. http://www.grid.ac/institutes/grid.452178.d................. 1........................................................... [Institute for Foreign Affairs and Trade] was compared to [INSTITUTE FOR FOREIGN AFFAIRS AND TRADE] 
+	http://risis.eu/orgref_20170703/resource/2824092............ http://risis.eu/cordisH2020/resource/participant_936759556.. 0.806451612903.............................................. [Indian Institute of Foreign Trade] was compared to [INSTITUTE FOR FOREIGN AFFAIRS AND TRADE] 
+	http://risis.eu/cordisH2020/resource/participant_936759556.. http://risis.eu/orgref_20170703/resource/2824092............ 0.806451612903.............................................. [Indian Institute of Foreign Trade] was compared to [INSTITUTE FOR FOREIGN AFFAIRS AND TRADE] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.452178.d................. 19.04123.................................................... 
+	http://www.grid.ac/institutes/grid.452178.d................. 47.488434................................................... 
+	http://www.grid.ac/institutes/grid.452178.d................. http://kki.gov.hu/.......................................... 
+	http://www.grid.ac/institutes/grid.452178.d................. Institute for Foreign Affairs and Trade..................... 
+	http://risis.eu/orgref_20170703/resource/2824092............ http://en.wikipedia.org/wiki?curid=2824092.................. 
+	http://risis.eu/orgref_20170703/resource/2824092............ http://www.wikidata.org/wiki/Q6020611....................... 
+	http://risis.eu/orgref_20170703/resource/2824092............ http://edu.iift.ac.in....................................... 
+	http://risis.eu/orgref_20170703/resource/2824092............ Indian Institute of Foreign Trade........................... 
+	http://www.grid.ac/institutes/grid.444608.a................. 77.18348.................................................... 
+	http://www.grid.ac/institutes/grid.444608.a................. 28.537518................................................... 
+	http://www.grid.ac/institutes/grid.444608.a................. http://edu.iift.ac.in/...................................... 
+	http://www.grid.ac/institutes/grid.444608.a................. Indian Institute of Foreign Trade........................... 
+	http://risis.eu/cordisH2020/resource/participant_936759556.. INSTITUTE FOR FOREIGN AFFAIRS AND TRADE..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.452178.d', '3:grid.444608.a'), ('2:2824092', '1:grid.452178.d'), ('2:2824092', '3:grid.444608.a'), ('4:participant_936759556', '1:grid.452178.d'), ('4:participant_936759556', '2:2824092'), ('4:participant_936759556', '3:grid.444608.a')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

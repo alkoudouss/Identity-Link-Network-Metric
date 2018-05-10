@@ -1,0 +1,55 @@
+SIZE    3   
+CLUSTER 751 
+NAME    N1608851893
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.482894.b>
+	<http://www.grid.ac/institutes/grid.482027.b>
+	<http://risis.eu/eter_2014/resource/FR0031>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.482894.b.. http://risis.eu/eter_2014/resource/FR0031.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.482027.b.. http://risis.eu/eter_2014/resource/FR0031.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/FR0031.... http://www.grid.ac/institutes/grid.482027.b.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/FR0031.... http://www.grid.ac/institutes/grid.482894.b.. 1............................................ Near each other by at most 500 meter(s)...... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.482894.b.. 1.438982..................................... 
+	http://www.grid.ac/institutes/grid.482894.b.. 43.60313..................................... 
+	http://www.grid.ac/institutes/grid.482894.b.. http://fermat.entmip.fr/..................... 
+	http://www.grid.ac/institutes/grid.482894.b.. Lycée Pierre-de-Fermat...................... 
+	http://www.grid.ac/institutes/grid.482027.b.. 1.445569..................................... 
+	http://www.grid.ac/institutes/grid.482027.b.. 43.60548..................................... 
+	http://www.grid.ac/institutes/grid.482027.b.. http://www.iff.com/.......................... 
+	http://www.grid.ac/institutes/grid.482027.b.. International Flavors & Fragrances (France).. 
+	http://risis.eu/eter_2014/resource/FR0031.... 43,604626.................................... 
+	http://risis.eu/eter_2014/resource/FR0031.... 1,444205..................................... 
+	http://risis.eu/eter_2014/resource/FR0031.... http://www.isdat.eu/......................... 
+	http://risis.eu/eter_2014/resource/FR0031.... m............................................ 
+	http://risis.eu/eter_2014/resource/FR0031.... Institut supérieur des Arts de Toulouse..... 
+
+NETWORK ANALYSIS
+	NETWORK [('P970642070-FR0031', 'N1608851893-grid.482027.b'), ('P970642070-FR0031', 'N311147559-grid.482894.b')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

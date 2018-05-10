@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 9112 
+NAME    N880509980
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.476103.7>
+	<http://www.grid.ac/institutes/grid.476096.a>
+	<http://www.grid.ac/institutes/grid.476101.5>
+	<http://www.grid.ac/institutes/grid.422932.c>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.476103.7.. http://www.grid.ac/institutes/grid.422932.c.. 1............................................ [BioMarin (United States)] was compared to [BioMarin (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.476103.7.. http://www.grid.ac/institutes/grid.476096.a.. 1............................................ [BioMarin (Ireland)] was compared to [BioMarin (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.476103.7.. http://www.grid.ac/institutes/grid.476101.5.. 1............................................ [BioMarin (Netherlands)] was compared to [BioMarin (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.476096.a.. http://www.grid.ac/institutes/grid.476101.5.. 1............................................ [BioMarin (Ireland)] was compared to [BioMarin (Netherlands)] 
+	http://www.grid.ac/institutes/grid.476096.a.. http://www.grid.ac/institutes/grid.476103.7.. 1............................................ [BioMarin (Ireland)] was compared to [BioMarin (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.476096.a.. http://www.grid.ac/institutes/grid.422932.c.. 1............................................ [BioMarin (United States)] was compared to [BioMarin (Ireland)] 
+	http://www.grid.ac/institutes/grid.476101.5.. http://www.grid.ac/institutes/grid.476103.7.. 1............................................ [BioMarin (Netherlands)] was compared to [BioMarin (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.476101.5.. http://www.grid.ac/institutes/grid.422932.c.. 1............................................ [BioMarin (United States)] was compared to [BioMarin (Netherlands)] 
+	http://www.grid.ac/institutes/grid.476101.5.. http://www.grid.ac/institutes/grid.476096.a.. 1............................................ [BioMarin (Ireland)] was compared to [BioMarin (Netherlands)] 
+	http://www.grid.ac/institutes/grid.422932.c.. http://www.grid.ac/institutes/grid.476096.a.. 1............................................ [BioMarin (United States)] was compared to [BioMarin (Ireland)] 
+	http://www.grid.ac/institutes/grid.422932.c.. http://www.grid.ac/institutes/grid.476101.5.. 1............................................ [BioMarin (United States)] was compared to [BioMarin (Netherlands)] 
+	http://www.grid.ac/institutes/grid.422932.c.. http://www.grid.ac/institutes/grid.476103.7.. 1............................................ [BioMarin (United States)] was compared to [BioMarin (United Kingdom)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.476103.7.. -0.124117.................................... 
+	http://www.grid.ac/institutes/grid.476103.7.. 51.51742..................................... 
+	http://www.grid.ac/institutes/grid.476103.7.. http://www.biomarin.com/..................... 
+	http://www.grid.ac/institutes/grid.476103.7.. BioMarin (United Kingdom).................... 
+	http://www.grid.ac/institutes/grid.476096.a.. -8.36335..................................... 
+	http://www.grid.ac/institutes/grid.476096.a.. 51.830673.................................... 
+	http://www.grid.ac/institutes/grid.476096.a.. http://www.biomarin.com/..................... 
+	http://www.grid.ac/institutes/grid.476096.a.. BioMarin (Ireland)........................... 
+	http://www.grid.ac/institutes/grid.476101.5.. 4.464906..................................... 
+	http://www.grid.ac/institutes/grid.476101.5.. 52.168972.................................... 
+	http://www.grid.ac/institutes/grid.476101.5.. http://www.biomarin.com/..................... 
+	http://www.grid.ac/institutes/grid.476101.5.. BioMarin (Netherlands)....................... 
+	http://www.grid.ac/institutes/grid.422932.c.. -122.52572................................... 
+	http://www.grid.ac/institutes/grid.422932.c.. 37.970127.................................... 
+	http://www.grid.ac/institutes/grid.422932.c.. http://www.biomarin.com/..................... 
+	http://www.grid.ac/institutes/grid.422932.c.. BioMarin (United States)..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('P1382271679-grid.476096.a', 'P2146039764-grid.476103.7'), ('P1382271679-grid.476096.a', 'N880509980-grid.476101.5'), ('N858637073-grid.422932.c', 'P1382271679-grid.476096.a'), ('N858637073-grid.422932.c', 'P2146039764-grid.476103.7'), ('N858637073-grid.422932.c', 'N880509980-grid.476101.5'), ('N880509980-grid.476101.5', 'P2146039764-grid.476103.7')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

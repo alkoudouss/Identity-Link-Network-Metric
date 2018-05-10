@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 5063 
+NAME    N2146094226
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.421114.3>
+	<http://risis.eu/eter_2014/resource/PT0027>
+	<http://risis.eu/orgreg_20170718/resource/PT0027>
+	<http://risis.eu/cordisH2020/resource/participant_995304003>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.421114.3................. http://risis.eu/eter_2014/resource/PT0027................... 1........................................................... [Instituto Politecnico de Setubal] was compared to [Instituto Politécnico de Setúbal] 
+	http://risis.eu/eter_2014/resource/PT0027................... http://www.grid.ac/institutes/grid.421114.3................. 1........................................................... [Instituto Politecnico de Setubal] was compared to [Instituto Politécnico de Setúbal] 
+	http://www.grid.ac/institutes/grid.421114.3................. http://risis.eu/cordisH2020/resource/participant_995304003.. 1........................................................... [Instituto Politecnico de Setubal] was compared to [INSTITUTO POLITECNICO DE SETUBAL] 
+	http://risis.eu/cordisH2020/resource/participant_995304003.. http://www.grid.ac/institutes/grid.421114.3................. 1........................................................... [Instituto Politecnico de Setubal] was compared to [INSTITUTO POLITECNICO DE SETUBAL] 
+	http://risis.eu/eter_2014/resource/PT0027................... http://risis.eu/cordisH2020/resource/participant_995304003.. 1........................................................... [INSTITUTO POLITECNICO DE SETUBAL] was compared to [Instituto Politécnico de Setúbal] 
+	http://risis.eu/cordisH2020/resource/participant_995304003.. http://risis.eu/eter_2014/resource/PT0027................... 1........................................................... [INSTITUTO POLITECNICO DE SETUBAL] was compared to [Instituto Politécnico de Setúbal] 
+	http://risis.eu/orgreg_20170718/resource/PT0027............. http://risis.eu/cordisH2020/resource/participant_995304003.. 0.862068965517.............................................. [Polytechnic Institute of Setúbal] was compared to [INSTITUTO POLITECNICO DE SETUBAL] 
+	http://risis.eu/cordisH2020/resource/participant_995304003.. http://risis.eu/orgreg_20170718/resource/PT0027............. 0.862068965517.............................................. [Polytechnic Institute of Setúbal] was compared to [INSTITUTO POLITECNICO DE SETUBAL] 
+	http://risis.eu/eter_2014/resource/PT0027................... http://risis.eu/orgreg_20170718/resource/PT0027............. 0.862068965517.............................................. [Polytechnic Institute of Setúbal] was compared to [Instituto Politécnico de Setúbal] 
+	http://risis.eu/orgreg_20170718/resource/PT0027............. http://risis.eu/eter_2014/resource/PT0027................... 0.862068965517.............................................. [Polytechnic Institute of Setúbal] was compared to [Instituto Politécnico de Setúbal] 
+	http://www.grid.ac/institutes/grid.421114.3................. http://risis.eu/orgreg_20170718/resource/PT0027............. 0.862068965517.............................................. [Instituto Politecnico de Setubal] was compared to [Polytechnic Institute of Setúbal] 
+	http://risis.eu/orgreg_20170718/resource/PT0027............. http://www.grid.ac/institutes/grid.421114.3................. 0.862068965517.............................................. [Instituto Politecnico de Setubal] was compared to [Polytechnic Institute of Setúbal] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.421114.3................. -8.838827................................................... 
+	http://www.grid.ac/institutes/grid.421114.3................. 38.522133................................................... 
+	http://www.grid.ac/institutes/grid.421114.3................. http://www.ips.pt/.......................................... 
+	http://www.grid.ac/institutes/grid.421114.3................. Instituto Politecnico de Setubal............................ 
+	http://risis.eu/eter_2014/resource/PT0027................... 38,520675................................................... 
+	http://risis.eu/eter_2014/resource/PT0027................... -8,838969................................................... 
+	http://risis.eu/eter_2014/resource/PT0027................... http://www.ips.pt........................................... 
+	http://risis.eu/eter_2014/resource/PT0027................... a........................................................... 
+	http://risis.eu/eter_2014/resource/PT0027................... Polytechnic Institute of Setúbal........................... 
+	http://risis.eu/eter_2014/resource/PT0027................... Instituto Politécnico de Setúbal.......................... 
+	http://risis.eu/orgreg_20170718/resource/PT0027............. -8.838969................................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0027............. 38.520675................................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0027............. http://www.ips.pt........................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0027............. Polytechnic Institute of Setúbal........................... 
+	http://risis.eu/cordisH2020/resource/participant_995304003.. INSTITUTO POLITECNICO DE SETUBAL............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:PT0027', '1:grid.421114.3'), ('3:PT0027', '1:grid.421114.3'), ('3:PT0027', '2:PT0027'), ('4:participant_995304003', '1:grid.421114.3'), ('4:participant_995304003', '2:PT0027'), ('4:participant_995304003', '3:PT0027')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

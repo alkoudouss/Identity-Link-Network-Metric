@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 14288 
+NAME    N1128574849
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.438005.a>
+	<http://risis.eu/orgreg_20170718/resource/DE1029>
+	<http://www.grid.ac/institutes/grid.432959.0>
+	<http://www.grid.ac/institutes/grid.434832.a>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.438005.a...... http://www.grid.ac/institutes/grid.432959.0...... 1................................................ [Center for Technology & Innovation Management] was compared to [Center for Technology & Innovation Management] 
+	http://www.grid.ac/institutes/grid.432959.0...... http://www.grid.ac/institutes/grid.438005.a...... 1................................................ [Center for Technology & Innovation Management] was compared to [Center for Technology & Innovation Management] 
+	http://risis.eu/orgreg_20170718/resource/DE1029.. http://www.grid.ac/institutes/grid.432959.0...... 0.951219512195................................... [Center for Technology & Innovation Management] was compared to [Center for Technology and Innovation Management] 
+	http://www.grid.ac/institutes/grid.432959.0...... http://risis.eu/orgreg_20170718/resource/DE1029.. 0.951219512195................................... [Center for Technology & Innovation Management] was compared to [Center for Technology and Innovation Management] 
+	http://risis.eu/orgreg_20170718/resource/DE1029.. http://www.grid.ac/institutes/grid.434832.a...... 0.809523809524................................... [Institute for Management of Innovation and Technology] was compared to [Center for Technology and Innovation Management] 
+	http://www.grid.ac/institutes/grid.434832.a...... http://risis.eu/orgreg_20170718/resource/DE1029.. 0.809523809524................................... [Institute for Management of Innovation and Technology] was compared to [Center for Technology and Innovation Management] 
+	http://www.grid.ac/institutes/grid.438005.a...... http://risis.eu/orgreg_20170718/resource/DE1029.. 0.951219512195................................... [Center for Technology & Innovation Management] was compared to [Center for Technology and Innovation Management] 
+	http://risis.eu/orgreg_20170718/resource/DE1029.. http://www.grid.ac/institutes/grid.438005.a...... 0.951219512195................................... [Center for Technology & Innovation Management] was compared to [Center for Technology and Innovation Management] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.438005.a...... 4.496504......................................... 
+	http://www.grid.ac/institutes/grid.438005.a...... 52.153915........................................ 
+	http://www.grid.ac/institutes/grid.438005.a...... http://www.cetim.org/............................ 
+	http://www.grid.ac/institutes/grid.438005.a...... Center for Technology & Innovation Management.... 
+	http://risis.eu/orgreg_20170718/resource/DE1029.. 48.078676........................................ 
+	http://risis.eu/orgreg_20170718/resource/DE1029.. 11.650186........................................ 
+	http://risis.eu/orgreg_20170718/resource/DE1029.. http://www.cetim.org/............................ 
+	http://risis.eu/orgreg_20170718/resource/DE1029.. Center for Technology and Innovation Management.. 
+	http://www.grid.ac/institutes/grid.432959.0...... 11.645778........................................ 
+	http://www.grid.ac/institutes/grid.432959.0...... 48.07921......................................... 
+	http://www.grid.ac/institutes/grid.432959.0...... http://www.cetim.org/............................ 
+	http://www.grid.ac/institutes/grid.432959.0...... Center for Technology & Innovation Management.... 
+	http://www.grid.ac/institutes/grid.434832.a...... 11.961783........................................ 
+	http://www.grid.ac/institutes/grid.434832.a...... 57.723972........................................ 
+	http://www.grid.ac/institutes/grid.434832.a...... http://en.imit.se/imit.aspx...................... 
+	http://www.grid.ac/institutes/grid.434832.a...... Institute for Management of Innovation and Technology 
+
+NETWORK ANALYSIS
+	NETWORK [('2:DE1029', '1:grid.438005.a'), ('2:DE1029', '3:grid.432959.0'), ('3:grid.432959.0', '1:grid.438005.a'), ('4:grid.434832.a', '2:DE1029')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

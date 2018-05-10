@@ -1,0 +1,55 @@
+SIZE    3   
+CLUSTER 98 
+NAME    N1158676851
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/DE0332>
+	<http://www.grid.ac/institutes/grid.466378.8>
+	<http://www.grid.ac/institutes/grid.469868.d>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/DE0332.... http://www.grid.ac/institutes/grid.469868.d.. 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/DE0332.... http://www.grid.ac/institutes/grid.466378.8.. 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://www.grid.ac/institutes/grid.466378.8.. http://risis.eu/eter_2014/resource/DE0332.... 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://www.grid.ac/institutes/grid.469868.d.. http://risis.eu/eter_2014/resource/DE0332.... 1............................................ Near each other by at most 2000 meter(s)..... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/DE0332.... 51,733132.................................... 
+	http://risis.eu/eter_2014/resource/DE0332.... 8,747207..................................... 
+	http://risis.eu/eter_2014/resource/DE0332.... www.fhdw.de.................................. 
+	http://risis.eu/eter_2014/resource/DE0332.... a............................................ 
+	http://risis.eu/eter_2014/resource/DE0332.... Private Fachhochschule der Wirtschaft Paderborn 
+	http://www.grid.ac/institutes/grid.466378.8.. 8.736159..................................... 
+	http://www.grid.ac/institutes/grid.466378.8.. 51.730984.................................... 
+	http://www.grid.ac/institutes/grid.466378.8.. http://www.fhdw.de/de/about-fhdw.html........ 
+	http://www.grid.ac/institutes/grid.466378.8.. Fachhochschule der Wirtschaft................ 
+	http://www.grid.ac/institutes/grid.469868.d.. 8.734744..................................... 
+	http://www.grid.ac/institutes/grid.469868.d.. 51.731846.................................... 
+	http://www.grid.ac/institutes/grid.469868.d.. http://www.iem.fraunhofer.de/................ 
+	http://www.grid.ac/institutes/grid.469868.d.. Fraunhofer-Einrichtung für Entwurfstechnik Mechatronik 
+
+NETWORK ANALYSIS
+	NETWORK [('N303301755-DE0332', 'N429943786-grid.466378.8'), ('N303301755-DE0332', 'N1158676851-grid.469868.d')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

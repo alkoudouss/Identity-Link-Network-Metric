@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 12460 
+NAME    N595470786
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/11085502>
+	<http://risis.eu/orgreg_20170718/resource/DE0062>
+	<http://risis.eu/leidenRanking_2015/resource/244>
+	<http://www.grid.ac/institutes/grid.10423.34>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/11085502.. http://www.grid.ac/institutes/grid.10423.34........ 1.................................................. [Hannover Medical School] was compared to [Hannover Medical School] 
+	http://www.grid.ac/institutes/grid.10423.34........ http://risis.eu/orgref_20170703/resource/11085502.. 1.................................................. [Hannover Medical School] was compared to [Hannover Medical School] 
+	http://risis.eu/leidenRanking_2015/resource/244.... http://www.grid.ac/institutes/grid.10423.34........ 1.................................................. [Hannover Medical School] was compared to [Hannover Medical School] 
+	http://www.grid.ac/institutes/grid.10423.34........ http://risis.eu/leidenRanking_2015/resource/244.... 1.................................................. [Hannover Medical School] was compared to [Hannover Medical School] 
+	http://risis.eu/orgref_20170703/resource/11085502.. http://risis.eu/leidenRanking_2015/resource/244.... 1.................................................. [Hannover Medical School] was compared to [Hannover Medical School] 
+	http://risis.eu/leidenRanking_2015/resource/244.... http://risis.eu/orgref_20170703/resource/11085502.. 1.................................................. [Hannover Medical School] was compared to [Hannover Medical School] 
+	http://risis.eu/orgreg_20170718/resource/DE0062.... http://risis.eu/leidenRanking_2015/resource/244.... 1.................................................. [Hannover Medical School] was compared to [Hannover Medical School] 
+	http://risis.eu/leidenRanking_2015/resource/244.... http://risis.eu/orgreg_20170718/resource/DE0062.... 1.................................................. [Hannover Medical School] was compared to [Hannover Medical School] 
+	http://risis.eu/orgref_20170703/resource/11085502.. http://risis.eu/orgreg_20170718/resource/DE0062.... 1.................................................. [Hannover Medical School] was compared to [Hannover Medical School] 
+	http://risis.eu/orgreg_20170718/resource/DE0062.... http://risis.eu/orgref_20170703/resource/11085502.. 1.................................................. [Hannover Medical School] was compared to [Hannover Medical School] 
+	http://risis.eu/orgreg_20170718/resource/DE0062.... http://www.grid.ac/institutes/grid.10423.34........ 1.................................................. [Hannover Medical School] was compared to [Hannover Medical School] 
+	http://www.grid.ac/institutes/grid.10423.34........ http://risis.eu/orgreg_20170718/resource/DE0062.... 1.................................................. [Hannover Medical School] was compared to [Hannover Medical School] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/11085502.. http://en.wikipedia.org/wiki?curid=11085502........ 
+	http://risis.eu/orgref_20170703/resource/11085502.. http://www.wikidata.org/wiki/Q911561............... 
+	http://risis.eu/orgref_20170703/resource/11085502.. http://www.mh-hannover.de/index.php?&l=1........... 
+	http://risis.eu/orgref_20170703/resource/11085502.. Hannover Medical School............................ 
+	http://risis.eu/orgreg_20170718/resource/DE0062.... 52.376383.......................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0062.... 9.802693........................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0062.... www.mhh.de......................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0062.... Hannover Medical School............................ 
+	http://risis.eu/leidenRanking_2015/resource/244.... Hannover Medical School............................ 
+	http://www.grid.ac/institutes/grid.10423.34........ 9.8047............................................. 
+	http://www.grid.ac/institutes/grid.10423.34........ 52.3839............................................ 
+	http://www.grid.ac/institutes/grid.10423.34........ http://www.mh-hannover.de/index.php?&L=1........... 
+	http://www.grid.ac/institutes/grid.10423.34........ Hannover Medical School............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:11085502', '4:grid.10423.34'), ('2:DE0062', '1:11085502'), ('2:DE0062', '4:grid.10423.34'), ('3:244', '1:11085502'), ('3:244', '2:DE0062'), ('4:grid.10423.34', '3:244')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

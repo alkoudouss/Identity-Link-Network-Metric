@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 4176 
+NAME    P132305207
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/48093>
+	<http://risis.eu/leidenRanking_2015/resource/1274>
+	<http://www.grid.ac/institutes/grid.147455.6>
+	<http://www.grid.ac/institutes/grid.448660.8>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.147455.6....... http://www.grid.ac/institutes/grid.448660.8....... 1................................................. [Carnegie Mellon University] was compared to [Carnegie Mellon University] 
+	http://www.grid.ac/institutes/grid.448660.8....... http://www.grid.ac/institutes/grid.147455.6....... 1................................................. [Carnegie Mellon University] was compared to [Carnegie Mellon University] 
+	http://risis.eu/orgref_20170703/resource/48093.... http://www.grid.ac/institutes/grid.147455.6....... 1................................................. [Carnegie Mellon University] was compared to [Carnegie Mellon University] 
+	http://www.grid.ac/institutes/grid.147455.6....... http://risis.eu/orgref_20170703/resource/48093.... 1................................................. [Carnegie Mellon University] was compared to [Carnegie Mellon University] 
+	http://risis.eu/orgref_20170703/resource/48093.... http://www.grid.ac/institutes/grid.448660.8....... 1................................................. [Carnegie Mellon University] was compared to [Carnegie Mellon University] 
+	http://www.grid.ac/institutes/grid.448660.8....... http://risis.eu/orgref_20170703/resource/48093.... 1................................................. [Carnegie Mellon University] was compared to [Carnegie Mellon University] 
+	http://risis.eu/leidenRanking_2015/resource/1274.. http://www.grid.ac/institutes/grid.147455.6....... 1................................................. [Carnegie Mellon University] was compared to [Carnegie Mellon University] 
+	http://www.grid.ac/institutes/grid.147455.6....... http://risis.eu/leidenRanking_2015/resource/1274.. 1................................................. [Carnegie Mellon University] was compared to [Carnegie Mellon University] 
+	http://risis.eu/leidenRanking_2015/resource/1274.. http://www.grid.ac/institutes/grid.448660.8....... 1................................................. [Carnegie Mellon University] was compared to [Carnegie Mellon University] 
+	http://www.grid.ac/institutes/grid.448660.8....... http://risis.eu/leidenRanking_2015/resource/1274.. 1................................................. [Carnegie Mellon University] was compared to [Carnegie Mellon University] 
+	http://risis.eu/orgref_20170703/resource/48093.... http://risis.eu/leidenRanking_2015/resource/1274.. 1................................................. [Carnegie Mellon University] was compared to [Carnegie Mellon University] 
+	http://risis.eu/leidenRanking_2015/resource/1274.. http://risis.eu/orgref_20170703/resource/48093.... 1................................................. [Carnegie Mellon University] was compared to [Carnegie Mellon University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/48093.... http://en.wikipedia.org/wiki?curid=48093.......... 
+	http://risis.eu/orgref_20170703/resource/48093.... http://www.wikidata.org/wiki/Q190080.............. 
+	http://risis.eu/orgref_20170703/resource/48093.... http://www.cmu.edu................................ 
+	http://risis.eu/orgref_20170703/resource/48093.... Carnegie Mellon University........................ 
+	http://risis.eu/leidenRanking_2015/resource/1274.. Carnegie Mellon University........................ 
+	http://www.grid.ac/institutes/grid.147455.6....... -79.94358......................................... 
+	http://www.grid.ac/institutes/grid.147455.6....... 40.44332.......................................... 
+	http://www.grid.ac/institutes/grid.147455.6....... http://www.cmu.edu/index.shtml.................... 
+	http://www.grid.ac/institutes/grid.147455.6....... Carnegie Mellon University........................ 
+	http://www.grid.ac/institutes/grid.448660.8....... Carnegie Mellon University........................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:48093', '3:grid.147455.6'), ('2:1274', '1:48093'), ('2:1274', '4:grid.448660.8'), ('3:grid.147455.6', '2:1274'), ('4:grid.448660.8', '1:48093'), ('4:grid.448660.8', '3:grid.147455.6')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

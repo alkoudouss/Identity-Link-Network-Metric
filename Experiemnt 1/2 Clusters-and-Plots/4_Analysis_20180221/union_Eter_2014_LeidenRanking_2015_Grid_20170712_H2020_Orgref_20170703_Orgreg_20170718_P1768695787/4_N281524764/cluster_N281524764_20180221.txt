@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 10645 
+NAME    N281524764
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/36606737>
+	<http://risis.eu/orgref_20170703/resource/37251459>
+	<http://www.grid.ac/institutes/grid.449433.d>
+	<http://www.grid.ac/institutes/grid.449638.4>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.449433.d........ http://www.grid.ac/institutes/grid.449638.4........ 0.846153846154..................................... [Shaheed Benazir Bhutto University] was compared to [Shaheed Benazir Bhutto Women University] 
+	http://www.grid.ac/institutes/grid.449638.4........ http://www.grid.ac/institutes/grid.449433.d........ 0.846153846154..................................... [Shaheed Benazir Bhutto University] was compared to [Shaheed Benazir Bhutto Women University] 
+	http://risis.eu/orgref_20170703/resource/36606737.. http://www.grid.ac/institutes/grid.449433.d........ 1.................................................. [Shaheed Benazir Bhutto University] was compared to [Benazir Bhutto Shaheed University] 
+	http://www.grid.ac/institutes/grid.449433.d........ http://risis.eu/orgref_20170703/resource/36606737.. 1.................................................. [Shaheed Benazir Bhutto University] was compared to [Benazir Bhutto Shaheed University] 
+	http://risis.eu/orgref_20170703/resource/37251459.. http://www.grid.ac/institutes/grid.449433.d........ 0.846153846154..................................... [Shaheed Benazir Bhutto University] was compared to [Shaheed Benazir Bhutto Women University] 
+	http://www.grid.ac/institutes/grid.449433.d........ http://risis.eu/orgref_20170703/resource/37251459.. 0.846153846154..................................... [Shaheed Benazir Bhutto University] was compared to [Shaheed Benazir Bhutto Women University] 
+	http://risis.eu/orgref_20170703/resource/36606737.. http://www.grid.ac/institutes/grid.449638.4........ 0.846153846154..................................... [Shaheed Benazir Bhutto Women University] was compared to [Benazir Bhutto Shaheed University] 
+	http://www.grid.ac/institutes/grid.449638.4........ http://risis.eu/orgref_20170703/resource/36606737.. 0.846153846154..................................... [Shaheed Benazir Bhutto Women University] was compared to [Benazir Bhutto Shaheed University] 
+	http://risis.eu/orgref_20170703/resource/37251459.. http://www.grid.ac/institutes/grid.449638.4........ 1.................................................. [Shaheed Benazir Bhutto Women University] was compared to [Shaheed Benazir Bhutto Women University] 
+	http://www.grid.ac/institutes/grid.449638.4........ http://risis.eu/orgref_20170703/resource/37251459.. 1.................................................. [Shaheed Benazir Bhutto Women University] was compared to [Shaheed Benazir Bhutto Women University] 
+	http://risis.eu/orgref_20170703/resource/36606737.. http://risis.eu/orgref_20170703/resource/37251459.. 0.846153846154..................................... [Benazir Bhutto Shaheed University] was compared to [Shaheed Benazir Bhutto Women University] 
+	http://risis.eu/orgref_20170703/resource/37251459.. http://risis.eu/orgref_20170703/resource/36606737.. 0.846153846154..................................... [Benazir Bhutto Shaheed University] was compared to [Shaheed Benazir Bhutto Women University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/36606737.. http://en.wikipedia.org/wiki?curid=36606737........ 
+	http://risis.eu/orgref_20170703/resource/36606737.. http://www.wikidata.org/wiki/Q4886877.............. 
+	http://risis.eu/orgref_20170703/resource/36606737.. http://www.bbsul.edu.pk............................ 
+	http://risis.eu/orgref_20170703/resource/36606737.. Benazir Bhutto Shaheed University.................. 
+	http://risis.eu/orgref_20170703/resource/37251459.. http://en.wikipedia.org/wiki?curid=37251459........ 
+	http://risis.eu/orgref_20170703/resource/37251459.. http://www.wikidata.org/wiki/Q7461532.............. 
+	http://risis.eu/orgref_20170703/resource/37251459.. http://www.sbbwu.edu.pk............................ 
+	http://risis.eu/orgref_20170703/resource/37251459.. Shaheed Benazir Bhutto Women University............ 
+	http://www.grid.ac/institutes/grid.449433.d........ Shaheed Benazir Bhutto University.................. 
+	http://www.grid.ac/institutes/grid.449638.4........ Shaheed Benazir Bhutto Women University............ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:36606737', '4:grid.449638.4'), ('2:37251459', '1:36606737'), ('2:37251459', '3:grid.449433.d'), ('2:37251459', '4:grid.449638.4'), ('3:grid.449433.d', '1:36606737'), ('4:grid.449638.4', '3:grid.449433.d')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,60 @@
+SIZE    4   
+CLUSTER 3000 
+NAME    P887338060
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/CH0014>
+	<http://risis.eu/orgreg_20170718/resource/CH0018>
+	<http://risis.eu/leidenRanking_2015/resource/826>
+	<http://risis.eu/orgreg_20170718/resource/CH0017>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/CH0014.. http://risis.eu/orgreg_20170718/resource/CH0018.. 0.913043478261................................... [UAS of Western Switzerland] was compared to [UAS of Eastern Switzerland] 
+	http://risis.eu/orgreg_20170718/resource/CH0018.. http://risis.eu/orgreg_20170718/resource/CH0014.. 0.913043478261................................... [UAS of Western Switzerland] was compared to [UAS of Eastern Switzerland] 
+	http://risis.eu/orgreg_20170718/resource/CH0014.. http://risis.eu/leidenRanking_2015/resource/826.. 1................................................ [UAS of Western Switzerland] was compared to [UAS of Western Switzerland] 
+	http://risis.eu/leidenRanking_2015/resource/826.. http://risis.eu/orgreg_20170718/resource/CH0014.. 1................................................ [UAS of Western Switzerland] was compared to [UAS of Western Switzerland] 
+	http://risis.eu/leidenRanking_2015/resource/826.. http://risis.eu/orgreg_20170718/resource/CH0017.. 0.833333333333................................... [UAS of Southern Switzerland] was compared to [UAS of Western Switzerland] 
+	http://risis.eu/orgreg_20170718/resource/CH0017.. http://risis.eu/leidenRanking_2015/resource/826.. 0.833333333333................................... [UAS of Southern Switzerland] was compared to [UAS of Western Switzerland] 
+	http://risis.eu/orgreg_20170718/resource/CH0018.. http://risis.eu/leidenRanking_2015/resource/826.. 0.913043478261................................... [UAS of Eastern Switzerland] was compared to [UAS of Western Switzerland] 
+	http://risis.eu/leidenRanking_2015/resource/826.. http://risis.eu/orgreg_20170718/resource/CH0018.. 0.913043478261................................... [UAS of Eastern Switzerland] was compared to [UAS of Western Switzerland] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/CH0014.. 7.332472......................................... 
+	http://risis.eu/orgreg_20170718/resource/CH0014.. 47.366892........................................ 
+	http://risis.eu/orgreg_20170718/resource/CH0014.. http://www.hes-so.ch............................. 
+	http://risis.eu/orgreg_20170718/resource/CH0014.. UAS of Western Switzerland....................... 
+	http://risis.eu/orgreg_20170718/resource/CH0018.. 9.374896......................................... 
+	http://risis.eu/orgreg_20170718/resource/CH0018.. 47.424563........................................ 
+	http://risis.eu/orgreg_20170718/resource/CH0018.. http://www.fho.ch................................ 
+	http://risis.eu/orgreg_20170718/resource/CH0018.. UAS of Eastern Switzerland....................... 
+	http://risis.eu/leidenRanking_2015/resource/826.. UAS of Western Switzerland....................... 
+	http://risis.eu/orgreg_20170718/resource/CH0017.. 8.922201......................................... 
+	http://risis.eu/orgreg_20170718/resource/CH0017.. 46.030819........................................ 
+	http://risis.eu/orgreg_20170718/resource/CH0017.. http://www.supsi.ch.............................. 
+	http://risis.eu/orgreg_20170718/resource/CH0017.. UAS of Southern Switzerland...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:CH0018', '1:CH0014'), ('3:826', '1:CH0014'), ('3:826', '2:CH0018'), ('4:CH0017', '3:826')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

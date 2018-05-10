@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 2557 
+NAME    N1424360443
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.10328.38>
+	<http://risis.eu/orgref_20170703/resource/42869705>
+	<http://risis.eu/orgreg_20170718/resource/PT0011>
+	<http://risis.eu/leidenRanking_2015/resource/548>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.10328.38........ http://risis.eu/orgref_20170703/resource/42869705.. 1.................................................. [University of Minho] was compared to [University of Minho] 
+	http://risis.eu/orgref_20170703/resource/42869705.. http://www.grid.ac/institutes/grid.10328.38........ 1.................................................. [University of Minho] was compared to [University of Minho] 
+	http://www.grid.ac/institutes/grid.10328.38........ http://risis.eu/leidenRanking_2015/resource/548.... 1.................................................. [University of Minho] was compared to [University of Minho] 
+	http://risis.eu/leidenRanking_2015/resource/548.... http://www.grid.ac/institutes/grid.10328.38........ 1.................................................. [University of Minho] was compared to [University of Minho] 
+	http://risis.eu/orgref_20170703/resource/42869705.. http://risis.eu/leidenRanking_2015/resource/548.... 1.................................................. [University of Minho] was compared to [University of Minho] 
+	http://risis.eu/leidenRanking_2015/resource/548.... http://risis.eu/orgref_20170703/resource/42869705.. 1.................................................. [University of Minho] was compared to [University of Minho] 
+	http://risis.eu/orgreg_20170718/resource/PT0011.... http://risis.eu/leidenRanking_2015/resource/548.... 1.................................................. [University of Minho] was compared to [University of Minho] 
+	http://risis.eu/leidenRanking_2015/resource/548.... http://risis.eu/orgreg_20170718/resource/PT0011.... 1.................................................. [University of Minho] was compared to [University of Minho] 
+	http://risis.eu/orgref_20170703/resource/42869705.. http://risis.eu/orgreg_20170718/resource/PT0011.... 1.................................................. [University of Minho] was compared to [University of Minho] 
+	http://risis.eu/orgreg_20170718/resource/PT0011.... http://risis.eu/orgref_20170703/resource/42869705.. 1.................................................. [University of Minho] was compared to [University of Minho] 
+	http://www.grid.ac/institutes/grid.10328.38........ http://risis.eu/orgreg_20170718/resource/PT0011.... 1.................................................. [University of Minho] was compared to [University of Minho] 
+	http://risis.eu/orgreg_20170718/resource/PT0011.... http://www.grid.ac/institutes/grid.10328.38........ 1.................................................. [University of Minho] was compared to [University of Minho] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.10328.38........ -8.291009.......................................... 
+	http://www.grid.ac/institutes/grid.10328.38........ 41.4521............................................ 
+	http://www.grid.ac/institutes/grid.10328.38........ http://www.uminho.pt/en............................ 
+	http://www.grid.ac/institutes/grid.10328.38........ University of Minho................................ 
+	http://risis.eu/orgref_20170703/resource/42869705.. http://en.wikipedia.org/wiki?curid=42869705........ 
+	http://risis.eu/orgref_20170703/resource/42869705.. http://www.wikidata.org/wiki/Q29673................ 
+	http://risis.eu/orgref_20170703/resource/42869705.. http://www.uminho.pt............................... 
+	http://risis.eu/orgref_20170703/resource/42869705.. University of Minho................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0011.... -8.4265071......................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0011.... 41.5454714......................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0011.... http://www.uminho.pt............................... 
+	http://risis.eu/orgreg_20170718/resource/PT0011.... University of Minho................................ 
+	http://risis.eu/leidenRanking_2015/resource/548.... University of Minho................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:42869705', '1:grid.10328.38'), ('3:PT0011', '1:grid.10328.38'), ('3:PT0011', '2:42869705'), ('4:548', '1:grid.10328.38'), ('4:548', '2:42869705'), ('4:548', '3:PT0011')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

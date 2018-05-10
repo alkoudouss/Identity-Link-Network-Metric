@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 9529 
+NAME    N1022815646
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/HR0005>
+	<http://risis.eu/leidenRanking_2015/resource/75>
+	<http://www.grid.ac/institutes/grid.38603.3e>
+	<http://risis.eu/orgref_20170703/resource/5118739>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.38603.3e....... http://risis.eu/orgref_20170703/resource/5118739.. 1................................................. [University of Split] was compared to [University of Split] 
+	http://risis.eu/orgref_20170703/resource/5118739.. http://www.grid.ac/institutes/grid.38603.3e....... 1................................................. [University of Split] was compared to [University of Split] 
+	http://risis.eu/leidenRanking_2015/resource/75.... http://www.grid.ac/institutes/grid.38603.3e....... 1................................................. [University of Split] was compared to [University of Split] 
+	http://www.grid.ac/institutes/grid.38603.3e....... http://risis.eu/leidenRanking_2015/resource/75.... 1................................................. [University of Split] was compared to [University of Split] 
+	http://risis.eu/leidenRanking_2015/resource/75.... http://risis.eu/orgref_20170703/resource/5118739.. 1................................................. [University of Split] was compared to [University of Split] 
+	http://risis.eu/orgref_20170703/resource/5118739.. http://risis.eu/leidenRanking_2015/resource/75.... 1................................................. [University of Split] was compared to [University of Split] 
+	http://risis.eu/orgreg_20170718/resource/HR0005... http://risis.eu/leidenRanking_2015/resource/75.... 1................................................. [University of Split] was compared to [University of Split] 
+	http://risis.eu/leidenRanking_2015/resource/75.... http://risis.eu/orgreg_20170718/resource/HR0005... 1................................................. [University of Split] was compared to [University of Split] 
+	http://risis.eu/orgreg_20170718/resource/HR0005... http://risis.eu/orgref_20170703/resource/5118739.. 1................................................. [University of Split] was compared to [University of Split] 
+	http://risis.eu/orgref_20170703/resource/5118739.. http://risis.eu/orgreg_20170718/resource/HR0005... 1................................................. [University of Split] was compared to [University of Split] 
+	http://risis.eu/orgreg_20170718/resource/HR0005... http://www.grid.ac/institutes/grid.38603.3e....... 1................................................. [University of Split] was compared to [University of Split] 
+	http://www.grid.ac/institutes/grid.38603.3e....... http://risis.eu/orgreg_20170718/resource/HR0005... 1................................................. [University of Split] was compared to [University of Split] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgreg_20170718/resource/HR0005... 16.440193......................................... 
+	http://risis.eu/orgreg_20170718/resource/HR0005... 43.508132......................................... 
+	http://risis.eu/orgreg_20170718/resource/HR0005... http://www.unist.hr............................... 
+	http://risis.eu/orgreg_20170718/resource/HR0005... University of Split............................... 
+	http://risis.eu/leidenRanking_2015/resource/75.... University of Split............................... 
+	http://www.grid.ac/institutes/grid.38603.3e....... 16.4681........................................... 
+	http://www.grid.ac/institutes/grid.38603.3e....... 43.510975......................................... 
+	http://www.grid.ac/institutes/grid.38603.3e....... http://www.unist.hr/.............................. 
+	http://www.grid.ac/institutes/grid.38603.3e....... Sveučilište u Splitu............................ 
+	http://www.grid.ac/institutes/grid.38603.3e....... University of Split............................... 
+	http://risis.eu/orgref_20170703/resource/5118739.. http://en.wikipedia.org/wiki?curid=5118739........ 
+	http://risis.eu/orgref_20170703/resource/5118739.. http://www.wikidata.org/wiki/Q609301.............. 
+	http://risis.eu/orgref_20170703/resource/5118739.. http://www.unist.hr............................... 
+	http://risis.eu/orgref_20170703/resource/5118739.. University of Split............................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:75', '1:HR0005'), ('2:75', '3:grid.38603.3e'), ('2:75', '4:5118739'), ('3:grid.38603.3e', '1:HR0005'), ('4:5118739', '1:HR0005'), ('4:5118739', '3:grid.38603.3e')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

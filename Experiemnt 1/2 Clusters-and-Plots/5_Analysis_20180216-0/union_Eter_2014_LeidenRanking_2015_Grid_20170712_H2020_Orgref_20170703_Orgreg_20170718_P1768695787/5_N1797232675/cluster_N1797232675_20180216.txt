@@ -1,0 +1,71 @@
+SIZE    5   
+CLUSTER 9646 
+NAME    N1797232675
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.431394.8>
+	<http://risis.eu/orgref_20170703/resource/21052790>
+	<http://risis.eu/orgref_20170703/resource/1366129>
+	<http://risis.eu/orgref_20170703/resource/30292172>
+	<http://risis.eu/orgref_20170703/resource/238487>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.431394.8........ http://risis.eu/orgref_20170703/resource/238487.... 1.................................................. [Federal Election Commission] was compared to [Federal Election Commission] 
+	http://risis.eu/orgref_20170703/resource/238487.... http://www.grid.ac/institutes/grid.431394.8........ 1.................................................. [Federal Election Commission] was compared to [Federal Election Commission] 
+	http://www.grid.ac/institutes/grid.431394.8........ http://risis.eu/orgref_20170703/resource/30292172.. 0.888888888889..................................... [Federal Election Commission] was compared to [Central Election Commission (Albania)] 
+	http://risis.eu/orgref_20170703/resource/30292172.. http://www.grid.ac/institutes/grid.431394.8........ 0.888888888889..................................... [Federal Election Commission] was compared to [Central Election Commission (Albania)] 
+	http://www.grid.ac/institutes/grid.431394.8........ http://risis.eu/orgref_20170703/resource/21052790.. 0.888888888889..................................... [Federal Election Commission] was compared to [Central Election Commission (Taiwan)] 
+	http://risis.eu/orgref_20170703/resource/21052790.. http://www.grid.ac/institutes/grid.431394.8........ 0.888888888889..................................... [Federal Election Commission] was compared to [Central Election Commission (Taiwan)] 
+	http://www.grid.ac/institutes/grid.431394.8........ http://risis.eu/orgref_20170703/resource/1366129... 0.888888888889..................................... [Federal Election Commission] was compared to [Central Election Commission (Ukraine)] 
+	http://risis.eu/orgref_20170703/resource/1366129... http://www.grid.ac/institutes/grid.431394.8........ 0.888888888889..................................... [Federal Election Commission] was compared to [Central Election Commission (Ukraine)] 
+	http://risis.eu/orgref_20170703/resource/21052790.. http://risis.eu/orgref_20170703/resource/30292172.. 1.................................................. [Central Election Commission (Taiwan)] was compared to [Central Election Commission (Albania)] 
+	http://risis.eu/orgref_20170703/resource/30292172.. http://risis.eu/orgref_20170703/resource/21052790.. 1.................................................. [Central Election Commission (Taiwan)] was compared to [Central Election Commission (Albania)] 
+	http://risis.eu/orgref_20170703/resource/1366129... http://risis.eu/orgref_20170703/resource/30292172.. 1.................................................. [Central Election Commission (Ukraine)] was compared to [Central Election Commission (Albania)] 
+	http://risis.eu/orgref_20170703/resource/30292172.. http://risis.eu/orgref_20170703/resource/1366129... 1.................................................. [Central Election Commission (Ukraine)] was compared to [Central Election Commission (Albania)] 
+	http://risis.eu/orgref_20170703/resource/21052790.. http://risis.eu/orgref_20170703/resource/1366129... 1.................................................. [Central Election Commission (Ukraine)] was compared to [Central Election Commission (Taiwan)] 
+	http://risis.eu/orgref_20170703/resource/1366129... http://risis.eu/orgref_20170703/resource/21052790.. 1.................................................. [Central Election Commission (Ukraine)] was compared to [Central Election Commission (Taiwan)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.431394.8........ Federal Election Commission........................ 
+	http://risis.eu/orgref_20170703/resource/21052790.. http://en.wikipedia.org/wiki?curid=21052790........ 
+	http://risis.eu/orgref_20170703/resource/21052790.. http://www.wikidata.org/wiki/Q701117............... 
+	http://risis.eu/orgref_20170703/resource/21052790.. http://engweb.cec.gov.tw/bin/home.php.............. 
+	http://risis.eu/orgref_20170703/resource/21052790.. Central Election Commission (Taiwan)............... 
+	http://risis.eu/orgref_20170703/resource/1366129... http://en.wikipedia.org/wiki?curid=1366129......... 
+	http://risis.eu/orgref_20170703/resource/1366129... http://www.wikidata.org/wiki/Q913899............... 
+	http://risis.eu/orgref_20170703/resource/1366129... http://www.cvk.gov.ua/vnd_2012_en.................. 
+	http://risis.eu/orgref_20170703/resource/1366129... Central Election Commission (Ukraine).............. 
+	http://risis.eu/orgref_20170703/resource/30292172.. http://en.wikipedia.org/wiki?curid=30292172........ 
+	http://risis.eu/orgref_20170703/resource/30292172.. http://www.wikidata.org/wiki/Q5061019.............. 
+	http://risis.eu/orgref_20170703/resource/30292172.. http://www.cec.org.al.............................. 
+	http://risis.eu/orgref_20170703/resource/30292172.. Central Election Commission (Albania).............. 
+	http://risis.eu/orgref_20170703/resource/238487.... http://en.wikipedia.org/wiki?curid=238487.......... 
+	http://risis.eu/orgref_20170703/resource/238487.... http://www.wikidata.org/wiki/Q2705072.............. 
+	http://risis.eu/orgref_20170703/resource/238487.... http://www.fec.gov................................. 
+	http://risis.eu/orgref_20170703/resource/238487.... Federal Election Commission........................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:21052790', '1:grid.431394.8'), ('2:21052790', '3:1366129'), ('3:1366129', '1:grid.431394.8'), ('4:30292172', '1:grid.431394.8'), ('4:30292172', '2:21052790'), ('4:30292172', '3:1366129'), ('5:238487', '1:grid.431394.8')]
+	MAX DISTANCE:                   : 0.7
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 2.2
+	AVERAGE NODE CONNECTIVITY RATIO : 0.55
+	BRIDGES                         : 1
+	CLOSURE                         : 0.7
+	DIAMETER                        : 2
+	QUALITY                         : 0.294
+	QUALITY USED                    : 0.357
+	SUMMARY 1: BRIDGE 0.25 CLOSURE 0.3 DIAMETER 0.333 QUALITY 0.294 QUALITY USED 0.357
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.3 DIAMETER 0.385 QUALITY 0.294 QUALITY USED 0.357

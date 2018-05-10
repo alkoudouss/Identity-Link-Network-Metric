@@ -1,0 +1,1387 @@
+INSERT DATA 
+{
+	<http://risis.eu/lens/union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787> a <http://vocabularies.bridgedb.org/ops#Lens> ;
+		<http://risis.eu/alignment/predicate/operator> <http://risis.eu/lens/operator/union> ;
+		<http://rdfs.org/ns/void#target> <http://risis.eu/linkset/h2020_leidenRanking_2015_approxStrSim_Organization_name_N247890402> .
+	
+	<http://risis.eu/linkset/h2020_leidenRanking_2015_approxStrSim_Organization_name_N247890402> a <http://rdfs.org/ns/void#Linkset> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "h2020_leidenRanking_2015_approxStrSim_Organization_name_N247890402" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "Linking <http://risis.eu/dataset/h2020> to <http://risis.eu/dataset/leidenRanking_2015> based on their approximate string similarity using the mechanism: approxStrSim" ;
+		<http://rdfs.org/ns/void#triples> 497 ;
+		<http://risis.eu/alignment/predicate/sameAsCount> 22 ;
+		<http://risis.eu/alignment/predicate/alignsMechanism> <http://risis.eu/mechanism/approxStrSim> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/h2020> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/leidenRanking_2015> ;
+		<http://rdfs.org/ns/void#linkPredicate> <http://risis.eu/alignment/predicate/exactStrSim22> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/leidenRanking_2015/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/h2020_leidenRanking_2015_approxStrSim_Organization_name_N247890402> ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/h2020_leidenRanking_2015_approxStrSim_Organization_name_N247890402> ;
+		<http://vocabularies.bridgedb.org/ops#linksetJustification> <http://risis.eu/justification/h2020_leidenRanking_2015_approxStrSim_Organization_name_N247890402> ;
+		<http://risis.eu/alignment/predicate/threshold> 0.8 ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://xmlns.com/foaf/0.1/name> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/leidenRanking_2015/ontology/predicate/actor> .
+	
+	<http://risis.eu/lens/union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787> <http://rdfs.org/ns/void#target> <http://risis.eu/linkset/h2020_h2020_approxStrSim_Organization_name_N529851809> .
+	
+	<http://risis.eu/linkset/h2020_h2020_approxStrSim_Organization_name_N529851809> a <http://rdfs.org/ns/void#Linkset> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "h2020_h2020_approxStrSim_Organization_name_N529851809" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "Linking <http://risis.eu/dataset/h2020> to <http://risis.eu/dataset/h2020> based on their approximate string similarity using the mechanism: approxStrSim" ;
+		<http://rdfs.org/ns/void#triples> 186 ;
+		<http://risis.eu/alignment/predicate/sameAsCount> 23 ;
+		<http://risis.eu/alignment/predicate/alignsMechanism> <http://risis.eu/mechanism/approxStrSim> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/h2020> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/h2020> ;
+		<http://rdfs.org/ns/void#linkPredicate> <http://risis.eu/alignment/predicate/exactStrSim23> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/h2020_h2020_approxStrSim_Organization_name_N529851809> ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/h2020_h2020_approxStrSim_Organization_name_N529851809> ;
+		<http://vocabularies.bridgedb.org/ops#linksetJustification> <http://risis.eu/justification/h2020_h2020_approxStrSim_Organization_name_N529851809> ;
+		<http://risis.eu/alignment/predicate/threshold> 0.8 ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://xmlns.com/foaf/0.1/name> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://xmlns.com/foaf/0.1/name> .
+	
+	<http://risis.eu/lens/union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787> <http://rdfs.org/ns/void#target> <http://risis.eu/linkset/h2020_eter_2014_approxStrSim_Organization_name_P1029719164> .
+	
+	<http://risis.eu/linkset/h2020_eter_2014_approxStrSim_Organization_name_P1029719164> a <http://rdfs.org/ns/void#Linkset> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "h2020_eter_2014_approxStrSim_Organization_name_P1029719164" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "Linking <http://risis.eu/dataset/h2020> to <http://risis.eu/dataset/eter_2014> based on their approximate string similarity using the mechanism: approxStrSim" ;
+		<http://rdfs.org/ns/void#triples> 718 ;
+		<http://risis.eu/alignment/predicate/sameAsCount> 24 ;
+		<http://risis.eu/alignment/predicate/alignsMechanism> <http://risis.eu/mechanism/approxStrSim> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/h2020> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/eter_2014> ;
+		<http://rdfs.org/ns/void#linkPredicate> <http://risis.eu/alignment/predicate/exactStrSim24> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/eter_2014/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/h2020_eter_2014_approxStrSim_Organization_name_P1029719164> ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/h2020_eter_2014_approxStrSim_Organization_name_P1029719164> ;
+		<http://vocabularies.bridgedb.org/ops#linksetJustification> <http://risis.eu/justification/h2020_eter_2014_approxStrSim_Organization_name_P1029719164> ;
+		<http://risis.eu/alignment/predicate/threshold> 0.8 ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://xmlns.com/foaf/0.1/name> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/eter_2014/ontology/predicate/Institution_Name> .
+	
+	<http://risis.eu/lens/union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787> <http://rdfs.org/ns/void#target> <http://risis.eu/linkset/eter_2014_eter_2014_approxStrSim_University_Institution_Name_P98241885> .
+	
+	<http://risis.eu/linkset/eter_2014_eter_2014_approxStrSim_University_Institution_Name_P98241885> a <http://rdfs.org/ns/void#Linkset> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "eter_2014_eter_2014_approxStrSim_University_Institution_Name_P98241885" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "Linking <http://risis.eu/dataset/eter_2014> to <http://risis.eu/dataset/eter_2014> based on their approximate string similarity using the mechanism: approxStrSim" ;
+		<http://rdfs.org/ns/void#triples> 61 ;
+		<http://risis.eu/alignment/predicate/sameAsCount> 25 ;
+		<http://risis.eu/alignment/predicate/alignsMechanism> <http://risis.eu/mechanism/approxStrSim> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/eter_2014> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/eter_2014> ;
+		<http://rdfs.org/ns/void#linkPredicate> <http://risis.eu/alignment/predicate/exactStrSim25> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/eter_2014/ontology/class/University> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/eter_2014/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/eter_2014_eter_2014_approxStrSim_University_Institution_Name_P98241885> ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/eter_2014_eter_2014_approxStrSim_University_Institution_Name_P98241885> ;
+		<http://vocabularies.bridgedb.org/ops#linksetJustification> <http://risis.eu/justification/eter_2014_eter_2014_approxStrSim_University_Institution_Name_P98241885> ;
+		<http://risis.eu/alignment/predicate/threshold> 0.8 ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://risis.eu/eter_2014/ontology/predicate/Institution_Name> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/eter_2014/ontology/predicate/Institution_Name> .
+	
+	<http://risis.eu/lens/union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787> <http://rdfs.org/ns/void#target> <http://risis.eu/linkset/eter_2014_leidenRanking_2015_approxStrSim_University_Institution_Name_P1341700851> .
+	
+	<http://risis.eu/linkset/eter_2014_leidenRanking_2015_approxStrSim_University_Institution_Name_P1341700851> a <http://rdfs.org/ns/void#Linkset> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "eter_2014_leidenRanking_2015_approxStrSim_University_Institution_Name_P1341700851" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "Linking <http://risis.eu/dataset/eter_2014> to <http://risis.eu/dataset/leidenRanking_2015> based on their approximate string similarity using the mechanism: approxStrSim" ;
+		<http://rdfs.org/ns/void#triples> 335 ;
+		<http://risis.eu/alignment/predicate/sameAsCount> 26 ;
+		<http://risis.eu/alignment/predicate/alignsMechanism> <http://risis.eu/mechanism/approxStrSim> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/eter_2014> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/leidenRanking_2015> ;
+		<http://rdfs.org/ns/void#linkPredicate> <http://risis.eu/alignment/predicate/exactStrSim26> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/eter_2014/ontology/class/University> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/leidenRanking_2015/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/eter_2014_leidenRanking_2015_approxStrSim_University_Institution_Name_P1341700851> ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/eter_2014_leidenRanking_2015_approxStrSim_University_Institution_Name_P1341700851> ;
+		<http://vocabularies.bridgedb.org/ops#linksetJustification> <http://risis.eu/justification/eter_2014_leidenRanking_2015_approxStrSim_University_Institution_Name_P1341700851> ;
+		<http://risis.eu/alignment/predicate/threshold> 0.8 ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://risis.eu/eter_2014/ontology/predicate/Institution_Name> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/leidenRanking_2015/ontology/predicate/actor> .
+	
+	<http://risis.eu/lens/union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787> <http://rdfs.org/ns/void#target> <http://risis.eu/linkset/leidenRanking_2015_leidenRanking_2015_approxStrSim_University_actor_P297548047> .
+	
+	<http://risis.eu/linkset/leidenRanking_2015_leidenRanking_2015_approxStrSim_University_actor_P297548047> a <http://rdfs.org/ns/void#Linkset> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "leidenRanking_2015_leidenRanking_2015_approxStrSim_University_actor_P297548047" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "Linking <http://risis.eu/dataset/leidenRanking_2015> to <http://risis.eu/dataset/leidenRanking_2015> based on their approximate string similarity using the mechanism: approxStrSim" ;
+		<http://rdfs.org/ns/void#triples> 226 ;
+		<http://risis.eu/alignment/predicate/sameAsCount> 27 ;
+		<http://risis.eu/alignment/predicate/alignsMechanism> <http://risis.eu/mechanism/approxStrSim> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/leidenRanking_2015> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/leidenRanking_2015> ;
+		<http://rdfs.org/ns/void#linkPredicate> <http://risis.eu/alignment/predicate/exactStrSim27> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/leidenRanking_2015/ontology/class/University> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/leidenRanking_2015/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/leidenRanking_2015_leidenRanking_2015_approxStrSim_University_actor_P297548047> ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/leidenRanking_2015_leidenRanking_2015_approxStrSim_University_actor_P297548047> ;
+		<http://vocabularies.bridgedb.org/ops#linksetJustification> <http://risis.eu/justification/leidenRanking_2015_leidenRanking_2015_approxStrSim_University_actor_P297548047> ;
+		<http://risis.eu/alignment/predicate/threshold> 0.8 ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://risis.eu/leidenRanking_2015/ontology/predicate/actor> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/leidenRanking_2015/ontology/predicate/actor> .
+	
+	<http://risis.eu/lens/union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787> <http://rdfs.org/ns/void#target> <http://risis.eu/linkset/orgreg_20170718_orgreg_20170718_approxStrSim_University_Entity_current_name_English_N2106656183> .
+	
+	<http://risis.eu/linkset/orgreg_20170718_orgreg_20170718_approxStrSim_University_Entity_current_name_English_N2106656183> a <http://rdfs.org/ns/void#Linkset> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "orgreg_20170718_orgreg_20170718_approxStrSim_University_Entity_current_name_English_N2106656183" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "Linking <http://risis.eu/dataset/orgreg_20170718> to <http://risis.eu/dataset/orgreg_20170718> based on their approximate string similarity using the mechanism: approxStrSim" ;
+		<http://rdfs.org/ns/void#triples> 93 ;
+		<http://risis.eu/alignment/predicate/sameAsCount> 28 ;
+		<http://risis.eu/alignment/predicate/alignsMechanism> <http://risis.eu/mechanism/approxStrSim> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/orgreg_20170718> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/orgreg_20170718> ;
+		<http://rdfs.org/ns/void#linkPredicate> <http://risis.eu/alignment/predicate/exactStrSim28> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/orgreg_20170718/ontology/class/University> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/orgreg_20170718/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/orgreg_20170718_orgreg_20170718_approxStrSim_University_Entity_current_name_English_N2106656183> ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/orgreg_20170718_orgreg_20170718_approxStrSim_University_Entity_current_name_English_N2106656183> ;
+		<http://vocabularies.bridgedb.org/ops#linksetJustification> <http://risis.eu/justification/orgreg_20170718_orgreg_20170718_approxStrSim_University_Entity_current_name_English_N2106656183> ;
+		<http://risis.eu/alignment/predicate/threshold> 0.8 ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://risis.eu/orgreg_20170718/ontology/predicate/Entity_current_name_English> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/orgreg_20170718/ontology/predicate/Entity_current_name_English> .
+	
+	<http://risis.eu/lens/union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787> <http://rdfs.org/ns/void#target> <http://risis.eu/linkset/orgreg_20170718_leidenRanking_2015_approxStrSim_University_Entity_current_name_English_P851564778> .
+	
+	<http://risis.eu/linkset/orgreg_20170718_leidenRanking_2015_approxStrSim_University_Entity_current_name_English_P851564778> a <http://rdfs.org/ns/void#Linkset> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "orgreg_20170718_leidenRanking_2015_approxStrSim_University_Entity_current_name_English_P851564778" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "Linking <http://risis.eu/dataset/orgreg_20170718> to <http://risis.eu/dataset/leidenRanking_2015> based on their approximate string similarity using the mechanism: approxStrSim" ;
+		<http://rdfs.org/ns/void#triples> 545 ;
+		<http://risis.eu/alignment/predicate/sameAsCount> 29 ;
+		<http://risis.eu/alignment/predicate/alignsMechanism> <http://risis.eu/mechanism/approxStrSim> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/orgreg_20170718> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/leidenRanking_2015> ;
+		<http://rdfs.org/ns/void#linkPredicate> <http://risis.eu/alignment/predicate/exactStrSim29> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/orgreg_20170718/ontology/class/University> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/leidenRanking_2015/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/orgreg_20170718_leidenRanking_2015_approxStrSim_University_Entity_current_name_English_P851564778> ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/orgreg_20170718_leidenRanking_2015_approxStrSim_University_Entity_current_name_English_P851564778> ;
+		<http://vocabularies.bridgedb.org/ops#linksetJustification> <http://risis.eu/justification/orgreg_20170718_leidenRanking_2015_approxStrSim_University_Entity_current_name_English_P851564778> ;
+		<http://risis.eu/alignment/predicate/threshold> 0.8 ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://risis.eu/orgreg_20170718/ontology/predicate/Entity_current_name_English> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/leidenRanking_2015/ontology/predicate/actor> .
+	
+	<http://risis.eu/lens/union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787> <http://rdfs.org/ns/void#target> <http://risis.eu/linkset/orgreg_20170718_h2020_approxStrSim_University_Entity_current_name_English_N440126701> .
+	
+	<http://risis.eu/linkset/orgreg_20170718_h2020_approxStrSim_University_Entity_current_name_English_N440126701> a <http://rdfs.org/ns/void#Linkset> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "orgreg_20170718_h2020_approxStrSim_University_Entity_current_name_English_N440126701" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "Linking <http://risis.eu/dataset/orgreg_20170718> to <http://risis.eu/dataset/h2020> based on their approximate string similarity using the mechanism: approxStrSim" ;
+		<http://rdfs.org/ns/void#triples> 283 ;
+		<http://risis.eu/alignment/predicate/sameAsCount> 30 ;
+		<http://risis.eu/alignment/predicate/alignsMechanism> <http://risis.eu/mechanism/approxStrSim> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/orgreg_20170718> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/h2020> ;
+		<http://rdfs.org/ns/void#linkPredicate> <http://risis.eu/alignment/predicate/exactStrSim30> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/orgreg_20170718/ontology/class/University> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/orgreg_20170718_h2020_approxStrSim_University_Entity_current_name_English_N440126701> ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/orgreg_20170718_h2020_approxStrSim_University_Entity_current_name_English_N440126701> ;
+		<http://vocabularies.bridgedb.org/ops#linksetJustification> <http://risis.eu/justification/orgreg_20170718_h2020_approxStrSim_University_Entity_current_name_English_N440126701> ;
+		<http://risis.eu/alignment/predicate/threshold> 0.8 ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://risis.eu/orgreg_20170718/ontology/predicate/Entity_current_name_English> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://xmlns.com/foaf/0.1/name> .
+	
+	<http://risis.eu/lens/union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787> <http://rdfs.org/ns/void#target> <http://risis.eu/linkset/orgreg_20170718_eter_2014_approxStrSim_University_Entity_current_name_English_N7470094> .
+	
+	<http://risis.eu/linkset/orgreg_20170718_eter_2014_approxStrSim_University_Entity_current_name_English_N7470094> a <http://rdfs.org/ns/void#Linkset> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "orgreg_20170718_eter_2014_approxStrSim_University_Entity_current_name_English_N7470094" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "Linking <http://risis.eu/dataset/orgreg_20170718> to <http://risis.eu/dataset/eter_2014> based on their approximate string similarity using the mechanism: approxStrSim" ;
+		<http://rdfs.org/ns/void#triples> 425 ;
+		<http://risis.eu/alignment/predicate/sameAsCount> 31 ;
+		<http://risis.eu/alignment/predicate/alignsMechanism> <http://risis.eu/mechanism/approxStrSim> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/orgreg_20170718> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/eter_2014> ;
+		<http://rdfs.org/ns/void#linkPredicate> <http://risis.eu/alignment/predicate/exactStrSim31> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/orgreg_20170718/ontology/class/University> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/eter_2014/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/orgreg_20170718_eter_2014_approxStrSim_University_Entity_current_name_English_N7470094> ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/orgreg_20170718_eter_2014_approxStrSim_University_Entity_current_name_English_N7470094> ;
+		<http://vocabularies.bridgedb.org/ops#linksetJustification> <http://risis.eu/justification/orgreg_20170718_eter_2014_approxStrSim_University_Entity_current_name_English_N7470094> ;
+		<http://risis.eu/alignment/predicate/threshold> 0.8 ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://risis.eu/orgreg_20170718/ontology/predicate/Entity_current_name_English> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/eter_2014/ontology/predicate/Institution_Name> .
+	
+	<http://risis.eu/lens/union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787> <http://rdfs.org/ns/void#target> <http://risis.eu/linkset/orgref_20170703_orgref_20170703_approxStrSim_Organisation_Name_P1648413443> .
+	
+	<http://risis.eu/linkset/orgref_20170703_orgref_20170703_approxStrSim_Organisation_Name_P1648413443> a <http://rdfs.org/ns/void#Linkset> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "orgref_20170703_orgref_20170703_approxStrSim_Organisation_Name_P1648413443" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "Linking <http://risis.eu/dataset/orgref_20170703> to <http://risis.eu/dataset/orgref_20170703> based on their approximate string similarity using the mechanism: approxStrSim" ;
+		<http://rdfs.org/ns/void#triples> 7476 ;
+		<http://risis.eu/alignment/predicate/sameAsCount> 32 ;
+		<http://risis.eu/alignment/predicate/alignsMechanism> <http://risis.eu/mechanism/approxStrSim> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/orgref_20170703> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/orgref_20170703> ;
+		<http://rdfs.org/ns/void#linkPredicate> <http://risis.eu/alignment/predicate/exactStrSim32> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/orgref_20170703/ontology/class/Organisation> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/orgref_20170703/ontology/class/Organisation> ;
+		<http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/orgref_20170703_orgref_20170703_approxStrSim_Organisation_Name_P1648413443> ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/orgref_20170703_orgref_20170703_approxStrSim_Organisation_Name_P1648413443> ;
+		<http://vocabularies.bridgedb.org/ops#linksetJustification> <http://risis.eu/justification/orgref_20170703_orgref_20170703_approxStrSim_Organisation_Name_P1648413443> ;
+		<http://risis.eu/alignment/predicate/threshold> 0.8 ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://risis.eu/orgref_20170703/ontology/predicate/Name> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/orgref_20170703/ontology/predicate/Name> .
+	
+	<http://risis.eu/lens/union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787> <http://rdfs.org/ns/void#target> <http://risis.eu/linkset/orgref_20170703_h2020_approxStrSim_Organisation_Name_N351690465> .
+	
+	<http://risis.eu/linkset/orgref_20170703_h2020_approxStrSim_Organisation_Name_N351690465> a <http://rdfs.org/ns/void#Linkset> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "orgref_20170703_h2020_approxStrSim_Organisation_Name_N351690465" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "Linking <http://risis.eu/dataset/orgref_20170703> to <http://risis.eu/dataset/h2020> based on their approximate string similarity using the mechanism: approxStrSim" ;
+		<http://rdfs.org/ns/void#triples> 1130 ;
+		<http://risis.eu/alignment/predicate/sameAsCount> 33 ;
+		<http://risis.eu/alignment/predicate/alignsMechanism> <http://risis.eu/mechanism/approxStrSim> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/orgref_20170703> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/h2020> ;
+		<http://rdfs.org/ns/void#linkPredicate> <http://risis.eu/alignment/predicate/exactStrSim33> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/orgref_20170703/ontology/class/Organisation> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/orgref_20170703_h2020_approxStrSim_Organisation_Name_N351690465> ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/orgref_20170703_h2020_approxStrSim_Organisation_Name_N351690465> ;
+		<http://vocabularies.bridgedb.org/ops#linksetJustification> <http://risis.eu/justification/orgref_20170703_h2020_approxStrSim_Organisation_Name_N351690465> ;
+		<http://risis.eu/alignment/predicate/threshold> 0.8 ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://risis.eu/orgref_20170703/ontology/predicate/Name> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://xmlns.com/foaf/0.1/name> .
+	
+	<http://risis.eu/lens/union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787> <http://rdfs.org/ns/void#target> <http://risis.eu/linkset/orgref_20170703_eter_2014_approxStrSim_Organisation_Name_N511837006> .
+	
+	<http://risis.eu/linkset/orgref_20170703_eter_2014_approxStrSim_Organisation_Name_N511837006> a <http://rdfs.org/ns/void#Linkset> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "orgref_20170703_eter_2014_approxStrSim_Organisation_Name_N511837006" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "Linking <http://risis.eu/dataset/orgref_20170703> to <http://risis.eu/dataset/eter_2014> based on their approximate string similarity using the mechanism: approxStrSim" ;
+		<http://rdfs.org/ns/void#triples> 712 ;
+		<http://risis.eu/alignment/predicate/sameAsCount> 34 ;
+		<http://risis.eu/alignment/predicate/alignsMechanism> <http://risis.eu/mechanism/approxStrSim> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/orgref_20170703> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/eter_2014> ;
+		<http://rdfs.org/ns/void#linkPredicate> <http://risis.eu/alignment/predicate/exactStrSim34> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/orgref_20170703/ontology/class/Organisation> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/eter_2014/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/orgref_20170703_eter_2014_approxStrSim_Organisation_Name_N511837006> ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/orgref_20170703_eter_2014_approxStrSim_Organisation_Name_N511837006> ;
+		<http://vocabularies.bridgedb.org/ops#linksetJustification> <http://risis.eu/justification/orgref_20170703_eter_2014_approxStrSim_Organisation_Name_N511837006> ;
+		<http://risis.eu/alignment/predicate/threshold> 0.8 ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://risis.eu/orgref_20170703/ontology/predicate/Name> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/eter_2014/ontology/predicate/Institution_Name> .
+	
+	<http://risis.eu/lens/union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787> <http://rdfs.org/ns/void#target> <http://risis.eu/linkset/orgref_20170703_orgreg_20170718_approxStrSim_Organisation_Name_N1174725709> .
+	
+	<http://risis.eu/linkset/orgref_20170703_orgreg_20170718_approxStrSim_Organisation_Name_N1174725709> a <http://rdfs.org/ns/void#Linkset> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "orgref_20170703_orgreg_20170718_approxStrSim_Organisation_Name_N1174725709" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "Linking <http://risis.eu/dataset/orgref_20170703> to <http://risis.eu/dataset/orgreg_20170718> based on their approximate string similarity using the mechanism: approxStrSim" ;
+		<http://rdfs.org/ns/void#triples> 1214 ;
+		<http://risis.eu/alignment/predicate/sameAsCount> 35 ;
+		<http://risis.eu/alignment/predicate/alignsMechanism> <http://risis.eu/mechanism/approxStrSim> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/orgref_20170703> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/orgreg_20170718> ;
+		<http://rdfs.org/ns/void#linkPredicate> <http://risis.eu/alignment/predicate/exactStrSim35> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/orgref_20170703/ontology/class/Organisation> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/orgreg_20170718/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/orgref_20170703_orgreg_20170718_approxStrSim_Organisation_Name_N1174725709> ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/orgref_20170703_orgreg_20170718_approxStrSim_Organisation_Name_N1174725709> ;
+		<http://vocabularies.bridgedb.org/ops#linksetJustification> <http://risis.eu/justification/orgref_20170703_orgreg_20170718_approxStrSim_Organisation_Name_N1174725709> ;
+		<http://risis.eu/alignment/predicate/threshold> 0.8 ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://risis.eu/orgref_20170703/ontology/predicate/Name> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/orgreg_20170718/ontology/predicate/Entity_current_name_English> .
+	
+	<http://risis.eu/lens/union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787> <http://rdfs.org/ns/void#target> <http://risis.eu/linkset/orgref_20170703_leidenRanking_2015_approxStrSim_Organisation_Name_P414492146> .
+	
+	<http://risis.eu/linkset/orgref_20170703_leidenRanking_2015_approxStrSim_Organisation_Name_P414492146> a <http://rdfs.org/ns/void#Linkset> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "orgref_20170703_leidenRanking_2015_approxStrSim_Organisation_Name_P414492146" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "Linking <http://risis.eu/dataset/orgref_20170703> to <http://risis.eu/dataset/leidenRanking_2015> based on their approximate string similarity using the mechanism: approxStrSim" ;
+		<http://rdfs.org/ns/void#triples> 3155 ;
+		<http://risis.eu/alignment/predicate/sameAsCount> 36 ;
+		<http://risis.eu/alignment/predicate/alignsMechanism> <http://risis.eu/mechanism/approxStrSim> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/orgref_20170703> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/leidenRanking_2015> ;
+		<http://rdfs.org/ns/void#linkPredicate> <http://risis.eu/alignment/predicate/exactStrSim36> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/orgref_20170703/ontology/class/Organisation> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/leidenRanking_2015/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/orgref_20170703_leidenRanking_2015_approxStrSim_Organisation_Name_P414492146> ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/orgref_20170703_leidenRanking_2015_approxStrSim_Organisation_Name_P414492146> ;
+		<http://vocabularies.bridgedb.org/ops#linksetJustification> <http://risis.eu/justification/orgref_20170703_leidenRanking_2015_approxStrSim_Organisation_Name_P414492146> ;
+		<http://risis.eu/alignment/predicate/threshold> 0.8 ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://risis.eu/orgref_20170703/ontology/predicate/Name> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/leidenRanking_2015/ontology/predicate/actor> .
+	
+	<http://risis.eu/lens/union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787> <http://rdfs.org/ns/void#target> <http://risis.eu/linkset/grid_20170712_grid_20170712_approxStrSim_Organization_label_N1317369133> .
+	
+	<http://risis.eu/linkset/grid_20170712_grid_20170712_approxStrSim_Organization_label_N1317369133> a <http://rdfs.org/ns/void#Linkset> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "grid_20170712_grid_20170712_approxStrSim_Organization_label_N1317369133" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "Linking <http://risis.eu/dataset/grid_20170712> to <http://risis.eu/dataset/grid_20170712> based on their approximate string similarity using the mechanism: approxStrSim" ;
+		<http://rdfs.org/ns/void#triples> 16399 ;
+		<http://risis.eu/alignment/predicate/sameAsCount> 37 ;
+		<http://risis.eu/alignment/predicate/alignsMechanism> <http://risis.eu/mechanism/approxStrSim> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/grid_20170712> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/grid_20170712> ;
+		<http://rdfs.org/ns/void#linkPredicate> <http://risis.eu/alignment/predicate/exactStrSim37> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/grid_20170712_grid_20170712_approxStrSim_Organization_label_N1317369133> ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/grid_20170712_grid_20170712_approxStrSim_Organization_label_N1317369133> ;
+		<http://vocabularies.bridgedb.org/ops#linksetJustification> <http://risis.eu/justification/grid_20170712_grid_20170712_approxStrSim_Organization_label_N1317369133> ;
+		<http://risis.eu/alignment/predicate/threshold> 0.8 ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://www.w3.org/2000/01/rdf-schema#label> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://www.w3.org/2000/01/rdf-schema#label> .
+	
+	<http://risis.eu/lens/union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787> <http://rdfs.org/ns/void#target> <http://risis.eu/linkset/grid_20170712_orgref_20170703_approxStrSim_Organization_label_N367004354> .
+	
+	<http://risis.eu/linkset/grid_20170712_orgref_20170703_approxStrSim_Organization_label_N367004354> a <http://rdfs.org/ns/void#Linkset> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "grid_20170712_orgref_20170703_approxStrSim_Organization_label_N367004354" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "Linking <http://risis.eu/dataset/grid_20170712> to <http://risis.eu/dataset/orgref_20170703> based on their approximate string similarity using the mechanism: approxStrSim" ;
+		<http://rdfs.org/ns/void#triples> 25712 ;
+		<http://risis.eu/alignment/predicate/sameAsCount> 38 ;
+		<http://risis.eu/alignment/predicate/alignsMechanism> <http://risis.eu/mechanism/approxStrSim> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/grid_20170712> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/orgref_20170703> ;
+		<http://rdfs.org/ns/void#linkPredicate> <http://risis.eu/alignment/predicate/exactStrSim38> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/orgref_20170703/ontology/class/Organisation> ;
+		<http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/grid_20170712_orgref_20170703_approxStrSim_Organization_label_N367004354> ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/grid_20170712_orgref_20170703_approxStrSim_Organization_label_N367004354> ;
+		<http://vocabularies.bridgedb.org/ops#linksetJustification> <http://risis.eu/justification/grid_20170712_orgref_20170703_approxStrSim_Organization_label_N367004354> ;
+		<http://risis.eu/alignment/predicate/threshold> 0.8 ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://www.w3.org/2000/01/rdf-schema#label> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/orgref_20170703/ontology/predicate/Name> .
+	
+	<http://risis.eu/lens/union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787> <http://rdfs.org/ns/void#target> <http://risis.eu/linkset/grid_20170712_eter_2014_approxStrSim_Organization_label_N1891646655> .
+	
+	<http://risis.eu/linkset/grid_20170712_eter_2014_approxStrSim_Organization_label_N1891646655> a <http://rdfs.org/ns/void#Linkset> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "grid_20170712_eter_2014_approxStrSim_Organization_label_N1891646655" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "Linking <http://risis.eu/dataset/grid_20170712> to <http://risis.eu/dataset/eter_2014> based on their approximate string similarity using the mechanism: approxStrSim" ;
+		<http://rdfs.org/ns/void#triples> 1058 ;
+		<http://risis.eu/alignment/predicate/sameAsCount> 39 ;
+		<http://risis.eu/alignment/predicate/alignsMechanism> <http://risis.eu/mechanism/approxStrSim> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/grid_20170712> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/eter_2014> ;
+		<http://rdfs.org/ns/void#linkPredicate> <http://risis.eu/alignment/predicate/exactStrSim39> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/eter_2014/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/grid_20170712_eter_2014_approxStrSim_Organization_label_N1891646655> ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/grid_20170712_eter_2014_approxStrSim_Organization_label_N1891646655> ;
+		<http://vocabularies.bridgedb.org/ops#linksetJustification> <http://risis.eu/justification/grid_20170712_eter_2014_approxStrSim_Organization_label_N1891646655> ;
+		<http://risis.eu/alignment/predicate/threshold> 0.8 ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://www.w3.org/2000/01/rdf-schema#label> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/eter_2014/ontology/predicate/Institution_Name> .
+	
+	<http://risis.eu/lens/union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787> <http://rdfs.org/ns/void#target> <http://risis.eu/linkset/grid_20170712_leidenRanking_2015_approxStrSim_Organization_label_N1072316279> .
+	
+	<http://risis.eu/linkset/grid_20170712_leidenRanking_2015_approxStrSim_Organization_label_N1072316279> a <http://rdfs.org/ns/void#Linkset> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "grid_20170712_leidenRanking_2015_approxStrSim_Organization_label_N1072316279" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "Linking <http://risis.eu/dataset/grid_20170712> to <http://risis.eu/dataset/leidenRanking_2015> based on their approximate string similarity using the mechanism: approxStrSim" ;
+		<http://rdfs.org/ns/void#triples> 3609 ;
+		<http://risis.eu/alignment/predicate/sameAsCount> 40 ;
+		<http://risis.eu/alignment/predicate/alignsMechanism> <http://risis.eu/mechanism/approxStrSim> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/grid_20170712> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/leidenRanking_2015> ;
+		<http://rdfs.org/ns/void#linkPredicate> <http://risis.eu/alignment/predicate/exactStrSim40> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/leidenRanking_2015/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/grid_20170712_leidenRanking_2015_approxStrSim_Organization_label_N1072316279> ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/grid_20170712_leidenRanking_2015_approxStrSim_Organization_label_N1072316279> ;
+		<http://vocabularies.bridgedb.org/ops#linksetJustification> <http://risis.eu/justification/grid_20170712_leidenRanking_2015_approxStrSim_Organization_label_N1072316279> ;
+		<http://risis.eu/alignment/predicate/threshold> 0.8 ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://www.w3.org/2000/01/rdf-schema#label> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/leidenRanking_2015/ontology/predicate/actor> .
+	
+	<http://risis.eu/lens/union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787> <http://rdfs.org/ns/void#target> <http://risis.eu/linkset/grid_20170712_h2020_approxStrSim_Organization_label_N1087999532> .
+	
+	<http://risis.eu/linkset/grid_20170712_h2020_approxStrSim_Organization_label_N1087999532> a <http://rdfs.org/ns/void#Linkset> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "grid_20170712_h2020_approxStrSim_Organization_label_N1087999532" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "Linking <http://risis.eu/dataset/grid_20170712> to <http://risis.eu/dataset/h2020> based on their approximate string similarity using the mechanism: approxStrSim" ;
+		<http://rdfs.org/ns/void#triples> 2358 ;
+		<http://risis.eu/alignment/predicate/sameAsCount> 41 ;
+		<http://risis.eu/alignment/predicate/alignsMechanism> <http://risis.eu/mechanism/approxStrSim> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/grid_20170712> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/h2020> ;
+		<http://rdfs.org/ns/void#linkPredicate> <http://risis.eu/alignment/predicate/exactStrSim41> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/grid_20170712_h2020_approxStrSim_Organization_label_N1087999532> ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/grid_20170712_h2020_approxStrSim_Organization_label_N1087999532> ;
+		<http://vocabularies.bridgedb.org/ops#linksetJustification> <http://risis.eu/justification/grid_20170712_h2020_approxStrSim_Organization_label_N1087999532> ;
+		<http://risis.eu/alignment/predicate/threshold> 0.8 ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://www.w3.org/2000/01/rdf-schema#label> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://xmlns.com/foaf/0.1/name> .
+	
+	<http://risis.eu/lens/union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787> <http://rdfs.org/ns/void#target> <http://risis.eu/linkset/grid_20170712_orgreg_20170718_approxStrSim_Organization_label_P384246094> .
+	
+	<http://risis.eu/linkset/grid_20170712_orgreg_20170718_approxStrSim_Organization_label_P384246094> a <http://rdfs.org/ns/void#Linkset> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "grid_20170712_orgreg_20170718_approxStrSim_Organization_label_P384246094" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "Linking <http://risis.eu/dataset/grid_20170712> to <http://risis.eu/dataset/orgreg_20170718> based on their approximate string similarity using the mechanism: approxStrSim" ;
+		<http://rdfs.org/ns/void#triples> 1984 ;
+		<http://risis.eu/alignment/predicate/sameAsCount> 42 ;
+		<http://risis.eu/alignment/predicate/alignsMechanism> <http://risis.eu/mechanism/approxStrSim> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/grid_20170712> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/orgreg_20170718> ;
+		<http://rdfs.org/ns/void#linkPredicate> <http://risis.eu/alignment/predicate/exactStrSim42> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/orgreg_20170718/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/grid_20170712_orgreg_20170718_approxStrSim_Organization_label_P384246094> ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/grid_20170712_orgreg_20170718_approxStrSim_Organization_label_P384246094> ;
+		<http://vocabularies.bridgedb.org/ops#linksetJustification> <http://risis.eu/justification/grid_20170712_orgreg_20170718_approxStrSim_Organization_label_P384246094> ;
+		<http://risis.eu/alignment/predicate/threshold> 0.8 ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://www.w3.org/2000/01/rdf-schema#label> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/orgreg_20170718/ontology/predicate/Entity_current_name_English> .
+	
+	<http://risis.eu/lens/union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787> <http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787" ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787> .
+	
+	<http://risis.eu/method/union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787> <http://risis.eu/alignment/predicate/sparql> """DROP SILENT GRAPH <http://risis.eu/alignment/temp-match/load00> ;
+
+    ###### MOVE THIS LINKSET TO A NEW UNION LINKSET GRAPH
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject ?predicate	?object .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/linkset/eter_2014_eter_2014_approxStrSim_University_Institution_Name_P98241885>
+        {
+            ?subject ?predicate	?object .
+        }
+    } ; 
+
+    ###### MOVE THE SINGLETON METADATA GRAPH TO A NEW UNION SINGLETON GRAPH
+    PREFIX ll:<http://risis.eu/alignment/predicate/>
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject        ?predicate	                ?object .
+            ?validation     ?vPred                      ?vObj .
+            ?rQuestion      ll:created                  ?validation .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/singletons/eter_2014_eter_2014_approxStrSim_University_Institution_Name_P98241885>
+        {
+            ?subject ?predicate	?object .
+            OPTIONAL
+            {
+               ?subject		    ll:hasValidation 			?validation .
+               ?validation      ?vPred                      ?vObj .
+               ?rQuestion       ll:created                  ?validation .
+            }
+        }
+    } ;
+
+    ###### MOVE THIS LINKSET TO A NEW UNION LINKSET GRAPH
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject ?predicate	?object .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/linkset/eter_2014_leidenRanking_2015_approxStrSim_University_Institution_Name_P1341700851>
+        {
+            ?subject ?predicate	?object .
+        }
+    } ; 
+
+    ###### MOVE THE SINGLETON METADATA GRAPH TO A NEW UNION SINGLETON GRAPH
+    PREFIX ll:<http://risis.eu/alignment/predicate/>
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject        ?predicate	                ?object .
+            ?validation     ?vPred                      ?vObj .
+            ?rQuestion      ll:created                  ?validation .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/singletons/eter_2014_leidenRanking_2015_approxStrSim_University_Institution_Name_P1341700851>
+        {
+            ?subject ?predicate	?object .
+            OPTIONAL
+            {
+               ?subject		    ll:hasValidation 			?validation .
+               ?validation      ?vPred                      ?vObj .
+               ?rQuestion       ll:created                  ?validation .
+            }
+        }
+    } ;
+
+    ###### MOVE THIS LINKSET TO A NEW UNION LINKSET GRAPH
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject ?predicate	?object .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/linkset/grid_20170712_eter_2014_approxStrSim_Organization_label_N1891646655>
+        {
+            ?subject ?predicate	?object .
+        }
+    } ; 
+
+    ###### MOVE THE SINGLETON METADATA GRAPH TO A NEW UNION SINGLETON GRAPH
+    PREFIX ll:<http://risis.eu/alignment/predicate/>
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject        ?predicate	                ?object .
+            ?validation     ?vPred                      ?vObj .
+            ?rQuestion      ll:created                  ?validation .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/singletons/grid_20170712_eter_2014_approxStrSim_Organization_label_N1891646655>
+        {
+            ?subject ?predicate	?object .
+            OPTIONAL
+            {
+               ?subject		    ll:hasValidation 			?validation .
+               ?validation      ?vPred                      ?vObj .
+               ?rQuestion       ll:created                  ?validation .
+            }
+        }
+    } ;
+
+    ###### MOVE THIS LINKSET TO A NEW UNION LINKSET GRAPH
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject ?predicate	?object .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/linkset/grid_20170712_grid_20170712_approxStrSim_Organization_label_N1317369133>
+        {
+            ?subject ?predicate	?object .
+        }
+    } ; 
+
+    ###### MOVE THE SINGLETON METADATA GRAPH TO A NEW UNION SINGLETON GRAPH
+    PREFIX ll:<http://risis.eu/alignment/predicate/>
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject        ?predicate	                ?object .
+            ?validation     ?vPred                      ?vObj .
+            ?rQuestion      ll:created                  ?validation .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/singletons/grid_20170712_grid_20170712_approxStrSim_Organization_label_N1317369133>
+        {
+            ?subject ?predicate	?object .
+            OPTIONAL
+            {
+               ?subject		    ll:hasValidation 			?validation .
+               ?validation      ?vPred                      ?vObj .
+               ?rQuestion       ll:created                  ?validation .
+            }
+        }
+    } ;
+
+    ###### MOVE THIS LINKSET TO A NEW UNION LINKSET GRAPH
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject ?predicate	?object .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/linkset/grid_20170712_h2020_approxStrSim_Organization_label_N1087999532>
+        {
+            ?subject ?predicate	?object .
+        }
+    } ; 
+
+    ###### MOVE THE SINGLETON METADATA GRAPH TO A NEW UNION SINGLETON GRAPH
+    PREFIX ll:<http://risis.eu/alignment/predicate/>
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject        ?predicate	                ?object .
+            ?validation     ?vPred                      ?vObj .
+            ?rQuestion      ll:created                  ?validation .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/singletons/grid_20170712_h2020_approxStrSim_Organization_label_N1087999532>
+        {
+            ?subject ?predicate	?object .
+            OPTIONAL
+            {
+               ?subject		    ll:hasValidation 			?validation .
+               ?validation      ?vPred                      ?vObj .
+               ?rQuestion       ll:created                  ?validation .
+            }
+        }
+    } ;
+
+    ###### MOVE THIS LINKSET TO A NEW UNION LINKSET GRAPH
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject ?predicate	?object .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/linkset/grid_20170712_leidenRanking_2015_approxStrSim_Organization_label_N1072316279>
+        {
+            ?subject ?predicate	?object .
+        }
+    } ; 
+
+    ###### MOVE THE SINGLETON METADATA GRAPH TO A NEW UNION SINGLETON GRAPH
+    PREFIX ll:<http://risis.eu/alignment/predicate/>
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject        ?predicate	                ?object .
+            ?validation     ?vPred                      ?vObj .
+            ?rQuestion      ll:created                  ?validation .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/singletons/grid_20170712_leidenRanking_2015_approxStrSim_Organization_label_N1072316279>
+        {
+            ?subject ?predicate	?object .
+            OPTIONAL
+            {
+               ?subject		    ll:hasValidation 			?validation .
+               ?validation      ?vPred                      ?vObj .
+               ?rQuestion       ll:created                  ?validation .
+            }
+        }
+    } ;
+
+    ###### MOVE THIS LINKSET TO A NEW UNION LINKSET GRAPH
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject ?predicate	?object .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/linkset/grid_20170712_orgref_20170703_approxStrSim_Organization_label_N367004354>
+        {
+            ?subject ?predicate	?object .
+        }
+    } ; 
+
+    ###### MOVE THE SINGLETON METADATA GRAPH TO A NEW UNION SINGLETON GRAPH
+    PREFIX ll:<http://risis.eu/alignment/predicate/>
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject        ?predicate	                ?object .
+            ?validation     ?vPred                      ?vObj .
+            ?rQuestion      ll:created                  ?validation .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/singletons/grid_20170712_orgref_20170703_approxStrSim_Organization_label_N367004354>
+        {
+            ?subject ?predicate	?object .
+            OPTIONAL
+            {
+               ?subject		    ll:hasValidation 			?validation .
+               ?validation      ?vPred                      ?vObj .
+               ?rQuestion       ll:created                  ?validation .
+            }
+        }
+    } ;
+
+    ###### MOVE THIS LINKSET TO A NEW UNION LINKSET GRAPH
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject ?predicate	?object .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/linkset/grid_20170712_orgreg_20170718_approxStrSim_Organization_label_P384246094>
+        {
+            ?subject ?predicate	?object .
+        }
+    } ; 
+
+    ###### MOVE THE SINGLETON METADATA GRAPH TO A NEW UNION SINGLETON GRAPH
+    PREFIX ll:<http://risis.eu/alignment/predicate/>
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject        ?predicate	                ?object .
+            ?validation     ?vPred                      ?vObj .
+            ?rQuestion      ll:created                  ?validation .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/singletons/grid_20170712_orgreg_20170718_approxStrSim_Organization_label_P384246094>
+        {
+            ?subject ?predicate	?object .
+            OPTIONAL
+            {
+               ?subject		    ll:hasValidation 			?validation .
+               ?validation      ?vPred                      ?vObj .
+               ?rQuestion       ll:created                  ?validation .
+            }
+        }
+    } ;
+
+    ###### MOVE THIS LINKSET TO A NEW UNION LINKSET GRAPH
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject ?predicate	?object .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/linkset/h2020_eter_2014_approxStrSim_Organization_name_P1029719164>
+        {
+            ?subject ?predicate	?object .
+        }
+    } ; 
+
+    ###### MOVE THE SINGLETON METADATA GRAPH TO A NEW UNION SINGLETON GRAPH
+    PREFIX ll:<http://risis.eu/alignment/predicate/>
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject        ?predicate	                ?object .
+            ?validation     ?vPred                      ?vObj .
+            ?rQuestion      ll:created                  ?validation .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/singletons/h2020_eter_2014_approxStrSim_Organization_name_P1029719164>
+        {
+            ?subject ?predicate	?object .
+            OPTIONAL
+            {
+               ?subject		    ll:hasValidation 			?validation .
+               ?validation      ?vPred                      ?vObj .
+               ?rQuestion       ll:created                  ?validation .
+            }
+        }
+    } ;
+
+    ###### MOVE THIS LINKSET TO A NEW UNION LINKSET GRAPH
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject ?predicate	?object .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/linkset/h2020_h2020_approxStrSim_Organization_name_N529851809>
+        {
+            ?subject ?predicate	?object .
+        }
+    } ; 
+
+    ###### MOVE THE SINGLETON METADATA GRAPH TO A NEW UNION SINGLETON GRAPH
+    PREFIX ll:<http://risis.eu/alignment/predicate/>
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject        ?predicate	                ?object .
+            ?validation     ?vPred                      ?vObj .
+            ?rQuestion      ll:created                  ?validation .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/singletons/h2020_h2020_approxStrSim_Organization_name_N529851809>
+        {
+            ?subject ?predicate	?object .
+            OPTIONAL
+            {
+               ?subject		    ll:hasValidation 			?validation .
+               ?validation      ?vPred                      ?vObj .
+               ?rQuestion       ll:created                  ?validation .
+            }
+        }
+    } ;
+
+    ###### MOVE THIS LINKSET TO A NEW UNION LINKSET GRAPH
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject ?predicate	?object .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/linkset/h2020_leidenRanking_2015_approxStrSim_Organization_name_N247890402>
+        {
+            ?subject ?predicate	?object .
+        }
+    } ; 
+
+    ###### MOVE THE SINGLETON METADATA GRAPH TO A NEW UNION SINGLETON GRAPH
+    PREFIX ll:<http://risis.eu/alignment/predicate/>
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject        ?predicate	                ?object .
+            ?validation     ?vPred                      ?vObj .
+            ?rQuestion      ll:created                  ?validation .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/singletons/h2020_leidenRanking_2015_approxStrSim_Organization_name_N247890402>
+        {
+            ?subject ?predicate	?object .
+            OPTIONAL
+            {
+               ?subject		    ll:hasValidation 			?validation .
+               ?validation      ?vPred                      ?vObj .
+               ?rQuestion       ll:created                  ?validation .
+            }
+        }
+    } ;
+
+    ###### MOVE THIS LINKSET TO A NEW UNION LINKSET GRAPH
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject ?predicate	?object .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/linkset/leidenRanking_2015_leidenRanking_2015_approxStrSim_University_actor_P297548047>
+        {
+            ?subject ?predicate	?object .
+        }
+    } ; 
+
+    ###### MOVE THE SINGLETON METADATA GRAPH TO A NEW UNION SINGLETON GRAPH
+    PREFIX ll:<http://risis.eu/alignment/predicate/>
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject        ?predicate	                ?object .
+            ?validation     ?vPred                      ?vObj .
+            ?rQuestion      ll:created                  ?validation .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/singletons/leidenRanking_2015_leidenRanking_2015_approxStrSim_University_actor_P297548047>
+        {
+            ?subject ?predicate	?object .
+            OPTIONAL
+            {
+               ?subject		    ll:hasValidation 			?validation .
+               ?validation      ?vPred                      ?vObj .
+               ?rQuestion       ll:created                  ?validation .
+            }
+        }
+    } ;
+
+    ###### MOVE THIS LINKSET TO A NEW UNION LINKSET GRAPH
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject ?predicate	?object .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/linkset/orgref_20170703_eter_2014_approxStrSim_Organisation_Name_N511837006>
+        {
+            ?subject ?predicate	?object .
+        }
+    } ; 
+
+    ###### MOVE THE SINGLETON METADATA GRAPH TO A NEW UNION SINGLETON GRAPH
+    PREFIX ll:<http://risis.eu/alignment/predicate/>
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject        ?predicate	                ?object .
+            ?validation     ?vPred                      ?vObj .
+            ?rQuestion      ll:created                  ?validation .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/singletons/orgref_20170703_eter_2014_approxStrSim_Organisation_Name_N511837006>
+        {
+            ?subject ?predicate	?object .
+            OPTIONAL
+            {
+               ?subject		    ll:hasValidation 			?validation .
+               ?validation      ?vPred                      ?vObj .
+               ?rQuestion       ll:created                  ?validation .
+            }
+        }
+    } ;
+
+    ###### MOVE THIS LINKSET TO A NEW UNION LINKSET GRAPH
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject ?predicate	?object .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/linkset/orgref_20170703_h2020_approxStrSim_Organisation_Name_N351690465>
+        {
+            ?subject ?predicate	?object .
+        }
+    } ; 
+
+    ###### MOVE THE SINGLETON METADATA GRAPH TO A NEW UNION SINGLETON GRAPH
+    PREFIX ll:<http://risis.eu/alignment/predicate/>
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject        ?predicate	                ?object .
+            ?validation     ?vPred                      ?vObj .
+            ?rQuestion      ll:created                  ?validation .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/singletons/orgref_20170703_h2020_approxStrSim_Organisation_Name_N351690465>
+        {
+            ?subject ?predicate	?object .
+            OPTIONAL
+            {
+               ?subject		    ll:hasValidation 			?validation .
+               ?validation      ?vPred                      ?vObj .
+               ?rQuestion       ll:created                  ?validation .
+            }
+        }
+    } ;
+
+    ###### MOVE THIS LINKSET TO A NEW UNION LINKSET GRAPH
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject ?predicate	?object .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/linkset/orgref_20170703_leidenRanking_2015_approxStrSim_Organisation_Name_P414492146>
+        {
+            ?subject ?predicate	?object .
+        }
+    } ; 
+
+    ###### MOVE THE SINGLETON METADATA GRAPH TO A NEW UNION SINGLETON GRAPH
+    PREFIX ll:<http://risis.eu/alignment/predicate/>
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject        ?predicate	                ?object .
+            ?validation     ?vPred                      ?vObj .
+            ?rQuestion      ll:created                  ?validation .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/singletons/orgref_20170703_leidenRanking_2015_approxStrSim_Organisation_Name_P414492146>
+        {
+            ?subject ?predicate	?object .
+            OPTIONAL
+            {
+               ?subject		    ll:hasValidation 			?validation .
+               ?validation      ?vPred                      ?vObj .
+               ?rQuestion       ll:created                  ?validation .
+            }
+        }
+    } ;
+
+    ###### MOVE THIS LINKSET TO A NEW UNION LINKSET GRAPH
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject ?predicate	?object .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/linkset/orgref_20170703_orgref_20170703_approxStrSim_Organisation_Name_P1648413443>
+        {
+            ?subject ?predicate	?object .
+        }
+    } ; 
+
+    ###### MOVE THE SINGLETON METADATA GRAPH TO A NEW UNION SINGLETON GRAPH
+    PREFIX ll:<http://risis.eu/alignment/predicate/>
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject        ?predicate	                ?object .
+            ?validation     ?vPred                      ?vObj .
+            ?rQuestion      ll:created                  ?validation .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/singletons/orgref_20170703_orgref_20170703_approxStrSim_Organisation_Name_P1648413443>
+        {
+            ?subject ?predicate	?object .
+            OPTIONAL
+            {
+               ?subject		    ll:hasValidation 			?validation .
+               ?validation      ?vPred                      ?vObj .
+               ?rQuestion       ll:created                  ?validation .
+            }
+        }
+    } ;
+
+    ###### MOVE THIS LINKSET TO A NEW UNION LINKSET GRAPH
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject ?predicate	?object .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/linkset/orgref_20170703_orgreg_20170718_approxStrSim_Organisation_Name_N1174725709>
+        {
+            ?subject ?predicate	?object .
+        }
+    } ; 
+
+    ###### MOVE THE SINGLETON METADATA GRAPH TO A NEW UNION SINGLETON GRAPH
+    PREFIX ll:<http://risis.eu/alignment/predicate/>
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject        ?predicate	                ?object .
+            ?validation     ?vPred                      ?vObj .
+            ?rQuestion      ll:created                  ?validation .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/singletons/orgref_20170703_orgreg_20170718_approxStrSim_Organisation_Name_N1174725709>
+        {
+            ?subject ?predicate	?object .
+            OPTIONAL
+            {
+               ?subject		    ll:hasValidation 			?validation .
+               ?validation      ?vPred                      ?vObj .
+               ?rQuestion       ll:created                  ?validation .
+            }
+        }
+    } ;
+
+    ###### MOVE THIS LINKSET TO A NEW UNION LINKSET GRAPH
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject ?predicate	?object .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/linkset/orgreg_20170718_eter_2014_approxStrSim_University_Entity_current_name_English_N7470094>
+        {
+            ?subject ?predicate	?object .
+        }
+    } ; 
+
+    ###### MOVE THE SINGLETON METADATA GRAPH TO A NEW UNION SINGLETON GRAPH
+    PREFIX ll:<http://risis.eu/alignment/predicate/>
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject        ?predicate	                ?object .
+            ?validation     ?vPred                      ?vObj .
+            ?rQuestion      ll:created                  ?validation .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/singletons/orgreg_20170718_eter_2014_approxStrSim_University_Entity_current_name_English_N7470094>
+        {
+            ?subject ?predicate	?object .
+            OPTIONAL
+            {
+               ?subject		    ll:hasValidation 			?validation .
+               ?validation      ?vPred                      ?vObj .
+               ?rQuestion       ll:created                  ?validation .
+            }
+        }
+    } ;
+
+    ###### MOVE THIS LINKSET TO A NEW UNION LINKSET GRAPH
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject ?predicate	?object .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/linkset/orgreg_20170718_h2020_approxStrSim_University_Entity_current_name_English_N440126701>
+        {
+            ?subject ?predicate	?object .
+        }
+    } ; 
+
+    ###### MOVE THE SINGLETON METADATA GRAPH TO A NEW UNION SINGLETON GRAPH
+    PREFIX ll:<http://risis.eu/alignment/predicate/>
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject        ?predicate	                ?object .
+            ?validation     ?vPred                      ?vObj .
+            ?rQuestion      ll:created                  ?validation .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/singletons/orgreg_20170718_h2020_approxStrSim_University_Entity_current_name_English_N440126701>
+        {
+            ?subject ?predicate	?object .
+            OPTIONAL
+            {
+               ?subject		    ll:hasValidation 			?validation .
+               ?validation      ?vPred                      ?vObj .
+               ?rQuestion       ll:created                  ?validation .
+            }
+        }
+    } ;
+
+    ###### MOVE THIS LINKSET TO A NEW UNION LINKSET GRAPH
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject ?predicate	?object .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/linkset/orgreg_20170718_leidenRanking_2015_approxStrSim_University_Entity_current_name_English_P851564778>
+        {
+            ?subject ?predicate	?object .
+        }
+    } ; 
+
+    ###### MOVE THE SINGLETON METADATA GRAPH TO A NEW UNION SINGLETON GRAPH
+    PREFIX ll:<http://risis.eu/alignment/predicate/>
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject        ?predicate	                ?object .
+            ?validation     ?vPred                      ?vObj .
+            ?rQuestion      ll:created                  ?validation .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/singletons/orgreg_20170718_leidenRanking_2015_approxStrSim_University_Entity_current_name_English_P851564778>
+        {
+            ?subject ?predicate	?object .
+            OPTIONAL
+            {
+               ?subject		    ll:hasValidation 			?validation .
+               ?validation      ?vPred                      ?vObj .
+               ?rQuestion       ll:created                  ?validation .
+            }
+        }
+    } ;
+
+    ###### MOVE THIS LINKSET TO A NEW UNION LINKSET GRAPH
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject ?predicate	?object .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/linkset/orgreg_20170718_orgreg_20170718_approxStrSim_University_Entity_current_name_English_N2106656183>
+        {
+            ?subject ?predicate	?object .
+        }
+    } ; 
+
+    ###### MOVE THE SINGLETON METADATA GRAPH TO A NEW UNION SINGLETON GRAPH
+    PREFIX ll:<http://risis.eu/alignment/predicate/>
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject        ?predicate	                ?object .
+            ?validation     ?vPred                      ?vObj .
+            ?rQuestion      ll:created                  ?validation .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/singletons/orgreg_20170718_orgreg_20170718_approxStrSim_University_Entity_current_name_English_N2106656183>
+        {
+            ?subject ?predicate	?object .
+            OPTIONAL
+            {
+               ?subject		    ll:hasValidation 			?validation .
+               ?validation      ?vPred                      ?vObj .
+               ?rQuestion       ll:created                  ?validation .
+            }
+        }
+    } ;
+
+    PREFIX prov:<http://www.w3.org/ns/prov#>
+    PREFIX specific:<http://risis.eu/singletons/>
+    PREFIX tmpgraph:<http://risis.eu/alignment/temp-match/>
+    PREFIX tmpvocab:<http://risis.eu//temp-match/temp-match/predicate/>
+    PREFIX ll:<http://risis.eu/alignment/predicate/>
+
+    DROP SILENT GRAPH tmpgraph:load01 ;
+    DROP SILENT GRAPH tmpgraph:load02 ;
+
+    ###### CREATING THE INTERSECTION CORRESPONDENCES WITH A TEMPORARY PREDICATE
+    ###### REMOVE DUPLICATES IN THE SAME DIRECTION
+    INSERT
+    {
+      GRAPH tmpgraph:load01
+      {
+        ?sCorr 		tmpvocab:predicate		?oCorr  .
+      }
+    }
+    WHERE
+    {
+      graph <http://risis.eu/alignment/temp-match/load00>
+      {
+        ?sCorr		?singCorr 				?oCorr  .
+        FILTER NOT EXISTS { ?x ?sCorr ?z }
+        #?singCorr	?singCorrPr 			?singCorrobj .
+      }
+    } ;
+
+    ###### UPDATE tmpgraph:load01 WITH UNIQUE PREDICATES
+    INSERT
+    {
+      GRAPH tmpgraph:load02
+      {
+        ?sCorr ?singPre ?oCorr .
+      }
+    }
+    WHERE
+    {
+      GRAPH tmpgraph:load01
+      {
+        ?sCorr ?y ?oCorr .
+
+        ### Create A SINGLETON URI\"
+        BIND( replace(\"http://risis.eu/alignment/predicate/union_#\", \"#\", STRAFTER(str(UUID()),\"uuid:\")) as ?pre )
+        BIND(iri(?pre) as ?singPre)
+      }
+    } ;
+
+    INSERT
+    {
+        ### union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787
+        GRAPH <http://risis.eu/lens/union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787>
+        {
+            ?sCorr			?singPre 					?oCorr .
+        }
+
+        GRAPH specific:union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787
+        {
+            ?singPre		prov:wasDerivedFrom 	    ?singCorr .
+            ?singCorr		?singCorrPr 				?singCorrobj .
+            ?validation     ?vPred                      ?vObj .
+            ?rQuestion      ll:created                  ?validation .
+        }
+    }
+    WHERE
+    {
+        GRAPH tmpgraph:load02
+        {
+            ?sCorr			?singPre 					?oCorr .
+        }
+
+        graph <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?sCorr			?singCorr 				    ?oCorr  .
+            # THE DIRECT SINGLETONS
+            OPTIONAL { ?singCorr			?singCorrPr 			?singCorrobj .  }
+            # THE VALIDATIONS
+            OPTIONAL
+            {
+               ?singCorr		ll:hasValidation 			?validation .
+               ?validation      ?vPred                      ?vObj .
+               ?rQuestion       ll:created                  ?validation .
+            }
+            FILTER NOT EXISTS { ?x ?sCorr ?z }
+        }
+    } ;
+
+    DROP SILENT GRAPH tmpgraph:load00 ;
+    DROP SILENT GRAPH tmpgraph:load01 ;
+    DROP SILENT GRAPH tmpgraph:load02
+    """ .
+	
+	<http://risis.eu/lens/union_Eter_2014_LeidenRanking_2015_Grid_20170712_H2020_Orgref_20170703_Orgreg_20170718_P1768695787> <http://rdfs.org/ns/void#triples> 68145 ;
+		<http://risis.eu/alignment/predicate/removedDuplicates> 68176 ;
+		<http://risis.eu/alignment/predicate/expectedCorrespondences> 68176 .
+}

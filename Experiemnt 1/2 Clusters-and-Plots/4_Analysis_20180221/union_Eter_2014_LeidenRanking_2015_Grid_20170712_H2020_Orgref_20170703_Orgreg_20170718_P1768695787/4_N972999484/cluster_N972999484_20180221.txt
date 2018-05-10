@@ -1,0 +1,70 @@
+SIZE    4   
+CLUSTER 17550 
+NAME    N972999484
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.423096.a>
+	<http://www.grid.ac/institutes/grid.454332.7>
+	<http://www.grid.ac/institutes/grid.457236.1>
+	<http://www.grid.ac/institutes/grid.460342.7>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.423096.a.. http://www.grid.ac/institutes/grid.454332.7.. 1............................................ [Education and Research Institute] was compared to [Institute of Education and Research] 
+	http://www.grid.ac/institutes/grid.454332.7.. http://www.grid.ac/institutes/grid.423096.a.. 1............................................ [Education and Research Institute] was compared to [Institute of Education and Research] 
+	http://www.grid.ac/institutes/grid.423096.a.. http://www.grid.ac/institutes/grid.457236.1.. 0.933333333333............................... [Education and Research Institute] was compared to [Educational Research Institute] 
+	http://www.grid.ac/institutes/grid.457236.1.. http://www.grid.ac/institutes/grid.423096.a.. 0.933333333333............................... [Education and Research Institute] was compared to [Educational Research Institute] 
+	http://www.grid.ac/institutes/grid.423096.a.. http://www.grid.ac/institutes/grid.460342.7.. 0.933333333333............................... [Education and Research Institute] was compared to [Educational Research Institute] 
+	http://www.grid.ac/institutes/grid.460342.7.. http://www.grid.ac/institutes/grid.423096.a.. 0.933333333333............................... [Education and Research Institute] was compared to [Educational Research Institute] 
+	http://www.grid.ac/institutes/grid.454332.7.. http://www.grid.ac/institutes/grid.457236.1.. 0.933333333333............................... [Institute of Education and Research] was compared to [Educational Research Institute] 
+	http://www.grid.ac/institutes/grid.457236.1.. http://www.grid.ac/institutes/grid.454332.7.. 0.933333333333............................... [Institute of Education and Research] was compared to [Educational Research Institute] 
+	http://www.grid.ac/institutes/grid.454332.7.. http://www.grid.ac/institutes/grid.460342.7.. 0.933333333333............................... [Institute of Education and Research] was compared to [Educational Research Institute] 
+	http://www.grid.ac/institutes/grid.460342.7.. http://www.grid.ac/institutes/grid.454332.7.. 0.933333333333............................... [Institute of Education and Research] was compared to [Educational Research Institute] 
+	http://www.grid.ac/institutes/grid.457236.1.. http://www.grid.ac/institutes/grid.460342.7.. 1............................................ [Educational Research Institute] was compared to [Educational Research Institute] 
+	http://www.grid.ac/institutes/grid.460342.7.. http://www.grid.ac/institutes/grid.457236.1.. 1............................................ [Educational Research Institute] was compared to [Educational Research Institute] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 19 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.423096.a.. -118.4458.................................... 
+	http://www.grid.ac/institutes/grid.423096.a.. 34.325768.................................... 
+	http://www.grid.ac/institutes/grid.423096.a.. http://www.ovuclaeri.com/.................... 
+	http://www.grid.ac/institutes/grid.423096.a.. Education and Research Institute............. 
+	http://www.grid.ac/institutes/grid.454332.7.. -46.6767..................................... 
+	http://www.grid.ac/institutes/grid.454332.7.. -23.597595................................... 
+	http://www.grid.ac/institutes/grid.454332.7.. http://www.insper.edu.br/.................... 
+	http://www.grid.ac/institutes/grid.454332.7.. Insper....................................... 
+	http://www.grid.ac/institutes/grid.454332.7.. Institute of Education and Research.......... 
+	http://www.grid.ac/institutes/grid.457236.1.. 14.48736..................................... 
+	http://www.grid.ac/institutes/grid.457236.1.. 46.039974.................................... 
+	http://www.grid.ac/institutes/grid.457236.1.. http://www.pei.si/pei_english.aspx........... 
+	http://www.grid.ac/institutes/grid.457236.1.. Pedagoški Inštitut......................... 
+	http://www.grid.ac/institutes/grid.457236.1.. Educational Research Institute............... 
+	http://www.grid.ac/institutes/grid.460342.7.. 20.969486.................................... 
+	http://www.grid.ac/institutes/grid.460342.7.. 52.236973.................................... 
+	http://www.grid.ac/institutes/grid.460342.7.. http://www.ibe.edu.pl/en/.................... 
+	http://www.grid.ac/institutes/grid.460342.7.. Instytut Badań Edukacyjnych................. 
+	http://www.grid.ac/institutes/grid.460342.7.. Educational Research Institute............... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.454332.7', '1:grid.423096.a'), ('3:grid.457236.1', '1:grid.423096.a'), ('3:grid.457236.1', '2:grid.454332.7'), ('4:grid.460342.7', '1:grid.423096.a'), ('4:grid.460342.7', '2:grid.454332.7'), ('4:grid.460342.7', '3:grid.457236.1')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

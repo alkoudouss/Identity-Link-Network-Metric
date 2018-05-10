@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 4603 
+NAME    N1298840718
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.437336.6>
+	<http://www.grid.ac/institutes/grid.481729.1>
+	<http://www.grid.ac/institutes/grid.474455.3>
+	<http://www.grid.ac/institutes/grid.481730.9>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.481729.1.. http://www.grid.ac/institutes/grid.474455.3.. 1............................................ [Ball (United Kingdom)] was compared to [Ball (Sweden)] 
+	http://www.grid.ac/institutes/grid.474455.3.. http://www.grid.ac/institutes/grid.481729.1.. 1............................................ [Ball (United Kingdom)] was compared to [Ball (Sweden)] 
+	http://www.grid.ac/institutes/grid.474455.3.. http://www.grid.ac/institutes/grid.481730.9.. 1............................................ [Ball (United Kingdom)] was compared to [Ball (France)] 
+	http://www.grid.ac/institutes/grid.481730.9.. http://www.grid.ac/institutes/grid.474455.3.. 1............................................ [Ball (United Kingdom)] was compared to [Ball (France)] 
+	http://www.grid.ac/institutes/grid.437336.6.. http://www.grid.ac/institutes/grid.481729.1.. 1............................................ [Ball (Germany)] was compared to [Ball (Sweden)] 
+	http://www.grid.ac/institutes/grid.481729.1.. http://www.grid.ac/institutes/grid.437336.6.. 1............................................ [Ball (Germany)] was compared to [Ball (Sweden)] 
+	http://www.grid.ac/institutes/grid.437336.6.. http://www.grid.ac/institutes/grid.474455.3.. 1............................................ [Ball (Germany)] was compared to [Ball (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.474455.3.. http://www.grid.ac/institutes/grid.437336.6.. 1............................................ [Ball (Germany)] was compared to [Ball (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.437336.6.. http://www.grid.ac/institutes/grid.481730.9.. 1............................................ [Ball (Germany)] was compared to [Ball (France)] 
+	http://www.grid.ac/institutes/grid.481730.9.. http://www.grid.ac/institutes/grid.437336.6.. 1............................................ [Ball (Germany)] was compared to [Ball (France)] 
+	http://www.grid.ac/institutes/grid.481729.1.. http://www.grid.ac/institutes/grid.481730.9.. 1............................................ [Ball (Sweden)] was compared to [Ball (France)] 
+	http://www.grid.ac/institutes/grid.481730.9.. http://www.grid.ac/institutes/grid.481729.1.. 1............................................ [Ball (Sweden)] was compared to [Ball (France)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.437336.6.. Ball (Germany)............................... 
+	http://www.grid.ac/institutes/grid.481729.1.. 13.002937.................................... 
+	http://www.grid.ac/institutes/grid.481729.1.. 55.606075.................................... 
+	http://www.grid.ac/institutes/grid.481729.1.. http://www.ball.com/as....................... 
+	http://www.grid.ac/institutes/grid.481729.1.. Ball (Sweden)................................ 
+	http://www.grid.ac/institutes/grid.474455.3.. -0.40853..................................... 
+	http://www.grid.ac/institutes/grid.474455.3.. 51.86572..................................... 
+	http://www.grid.ac/institutes/grid.474455.3.. http://www.ball.com/eu....................... 
+	http://www.grid.ac/institutes/grid.474455.3.. Ball (United Kingdom)........................ 
+	http://www.grid.ac/institutes/grid.481730.9.. 5.061666..................................... 
+	http://www.grid.ac/institutes/grid.481730.9.. 45.331398.................................... 
+	http://www.grid.ac/institutes/grid.481730.9.. http://www.ball.com/eu....................... 
+	http://www.grid.ac/institutes/grid.481730.9.. Ball (France)................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.481729.1', '1:grid.437336.6'), ('3:grid.474455.3', '1:grid.437336.6'), ('3:grid.474455.3', '2:grid.481729.1'), ('4:grid.481730.9', '1:grid.437336.6'), ('4:grid.481730.9', '2:grid.481729.1'), ('4:grid.481730.9', '3:grid.474455.3')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 11752 
+NAME    N1041507863
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.433783.8>
+	<http://www.grid.ac/institutes/grid.467371.0>
+	<http://www.grid.ac/institutes/grid.465083.c>
+	<http://www.grid.ac/institutes/grid.426618.f>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.465083.c.. http://www.grid.ac/institutes/grid.426618.f.. 1............................................ [Volkswagen (Czech Republic)] was compared to [Volkswagen (India)] 
+	http://www.grid.ac/institutes/grid.426618.f.. http://www.grid.ac/institutes/grid.465083.c.. 1............................................ [Volkswagen (Czech Republic)] was compared to [Volkswagen (India)] 
+	http://www.grid.ac/institutes/grid.433783.8.. http://www.grid.ac/institutes/grid.426618.f.. 1............................................ [Volkswagen (Czech Republic)] was compared to [Volkswagen (Italy)] 
+	http://www.grid.ac/institutes/grid.426618.f.. http://www.grid.ac/institutes/grid.433783.8.. 1............................................ [Volkswagen (Czech Republic)] was compared to [Volkswagen (Italy)] 
+	http://www.grid.ac/institutes/grid.467371.0.. http://www.grid.ac/institutes/grid.426618.f.. 1............................................ [Volkswagen (Czech Republic)] was compared to [Volkswagen (United States)] 
+	http://www.grid.ac/institutes/grid.426618.f.. http://www.grid.ac/institutes/grid.467371.0.. 1............................................ [Volkswagen (Czech Republic)] was compared to [Volkswagen (United States)] 
+	http://www.grid.ac/institutes/grid.433783.8.. http://www.grid.ac/institutes/grid.465083.c.. 1............................................ [Volkswagen (Italy)] was compared to [Volkswagen (India)] 
+	http://www.grid.ac/institutes/grid.465083.c.. http://www.grid.ac/institutes/grid.433783.8.. 1............................................ [Volkswagen (Italy)] was compared to [Volkswagen (India)] 
+	http://www.grid.ac/institutes/grid.433783.8.. http://www.grid.ac/institutes/grid.467371.0.. 1............................................ [Volkswagen (Italy)] was compared to [Volkswagen (United States)] 
+	http://www.grid.ac/institutes/grid.467371.0.. http://www.grid.ac/institutes/grid.433783.8.. 1............................................ [Volkswagen (Italy)] was compared to [Volkswagen (United States)] 
+	http://www.grid.ac/institutes/grid.467371.0.. http://www.grid.ac/institutes/grid.465083.c.. 1............................................ [Volkswagen (India)] was compared to [Volkswagen (United States)] 
+	http://www.grid.ac/institutes/grid.465083.c.. http://www.grid.ac/institutes/grid.467371.0.. 1............................................ [Volkswagen (India)] was compared to [Volkswagen (United States)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.433783.8.. Volkswagen (Italy)........................... 
+	http://www.grid.ac/institutes/grid.467371.0.. -77.39464.................................... 
+	http://www.grid.ac/institutes/grid.467371.0.. 38.953285.................................... 
+	http://www.grid.ac/institutes/grid.467371.0.. http://www.volkswagengroupamerica.com/....... 
+	http://www.grid.ac/institutes/grid.467371.0.. Volkswagen (United States)................... 
+	http://www.grid.ac/institutes/grid.465083.c.. 73.715675.................................... 
+	http://www.grid.ac/institutes/grid.465083.c.. 18.605524.................................... 
+	http://www.grid.ac/institutes/grid.465083.c.. http://www.volkswagen.co.in/en.html.......... 
+	http://www.grid.ac/institutes/grid.465083.c.. Volkswagen (India)........................... 
+	http://www.grid.ac/institutes/grid.426618.f.. Volkswagen (Czech Republic).................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.467371.0', '1:grid.433783.8'), ('2:grid.467371.0', '4:grid.426618.f'), ('3:grid.465083.c', '1:grid.433783.8'), ('3:grid.465083.c', '2:grid.467371.0'), ('3:grid.465083.c', '4:grid.426618.f'), ('4:grid.426618.f', '1:grid.433783.8')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

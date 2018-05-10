@@ -1,0 +1,58 @@
+SIZE    3   
+CLUSTER 37 
+NAME    N917328767
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/PL0197>
+	<http://www.grid.ac/institutes/grid.48324.39>
+	<http://www.grid.ac/institutes/grid.25588.32>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/PL0197.... http://www.grid.ac/institutes/grid.25588.32.. 0.714285714286............................... [medical university bialystok] was compared to [university bialystok] 
+	http://risis.eu/eter_2014/resource/PL0197.... http://www.grid.ac/institutes/grid.48324.39.. 1............................................ [medical university bialystok] was compared to [medical university bialystok] 
+	http://www.grid.ac/institutes/grid.48324.39.. http://risis.eu/eter_2014/resource/PL0197.... 1............................................ [medical university bialystok] was compared to [medical university bialystok] 
+	http://www.grid.ac/institutes/grid.25588.32.. http://risis.eu/eter_2014/resource/PL0197.... 0.714285714286............................... [medical university bialystok] was compared to [university bialystok] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/PL0197.... 53,13232..................................... 
+	http://risis.eu/eter_2014/resource/PL0197.... 23,166686.................................... 
+	http://risis.eu/eter_2014/resource/PL0197.... http://www.umb.edu.pl........................ 
+	http://risis.eu/eter_2014/resource/PL0197.... a............................................ 
+	http://risis.eu/eter_2014/resource/PL0197.... Medical University of Białystok............. 
+	http://risis.eu/eter_2014/resource/PL0197.... Uniwersytet Medyczny w Białymstoku.......... 
+	http://www.grid.ac/institutes/grid.48324.39.. 23.165255.................................... 
+	http://www.grid.ac/institutes/grid.48324.39.. 53.130592.................................... 
+	http://www.grid.ac/institutes/grid.48324.39.. http://www.umb.edu.pl/en/.................... 
+	http://www.grid.ac/institutes/grid.48324.39.. Uniwersytet Medyczny w Białymstoku.......... 
+	http://www.grid.ac/institutes/grid.48324.39.. Medical University of Białystok............. 
+	http://www.grid.ac/institutes/grid.25588.32.. 23.161615.................................... 
+	http://www.grid.ac/institutes/grid.25588.32.. 53.127914.................................... 
+	http://www.grid.ac/institutes/grid.25588.32.. http://www.uwb.edu.pl/index.php.............. 
+	http://www.grid.ac/institutes/grid.25588.32.. Uniwersytet w Białymstoku................... 
+	http://www.grid.ac/institutes/grid.25588.32.. University of Białystok..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('N594524919-PL0197', 'N917328767-grid.25588.32'), ('N594524919-PL0197', 'P725770161-grid.48324.39')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

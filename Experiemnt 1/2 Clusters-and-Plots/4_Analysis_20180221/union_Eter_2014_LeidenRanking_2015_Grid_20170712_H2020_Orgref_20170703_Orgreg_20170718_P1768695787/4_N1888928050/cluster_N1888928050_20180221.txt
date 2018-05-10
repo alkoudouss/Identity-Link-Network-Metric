@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 4314 
+NAME    N1888928050
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.426372.6>
+	<http://www.grid.ac/institutes/grid.433664.0>
+	<http://www.grid.ac/institutes/grid.423952.b>
+	<http://www.grid.ac/institutes/grid.439131.d>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.426372.6.. http://www.grid.ac/institutes/grid.423952.b.. 1............................................ [Finmeccanica (Italy)] was compared to [Finmeccanica (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.423952.b.. http://www.grid.ac/institutes/grid.426372.6.. 1............................................ [Finmeccanica (Italy)] was compared to [Finmeccanica (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.423952.b.. http://www.grid.ac/institutes/grid.439131.d.. 1............................................ [Finmeccanica (Italy)] was compared to [Finmeccanica (Poland)] 
+	http://www.grid.ac/institutes/grid.439131.d.. http://www.grid.ac/institutes/grid.423952.b.. 1............................................ [Finmeccanica (Italy)] was compared to [Finmeccanica (Poland)] 
+	http://www.grid.ac/institutes/grid.433664.0.. http://www.grid.ac/institutes/grid.423952.b.. 1............................................ [Finmeccanica (Italy)] was compared to [Finmeccanica (France)] 
+	http://www.grid.ac/institutes/grid.423952.b.. http://www.grid.ac/institutes/grid.433664.0.. 1............................................ [Finmeccanica (Italy)] was compared to [Finmeccanica (France)] 
+	http://www.grid.ac/institutes/grid.426372.6.. http://www.grid.ac/institutes/grid.439131.d.. 1............................................ [Finmeccanica (United Kingdom)] was compared to [Finmeccanica (Poland)] 
+	http://www.grid.ac/institutes/grid.439131.d.. http://www.grid.ac/institutes/grid.426372.6.. 1............................................ [Finmeccanica (United Kingdom)] was compared to [Finmeccanica (Poland)] 
+	http://www.grid.ac/institutes/grid.426372.6.. http://www.grid.ac/institutes/grid.433664.0.. 1............................................ [Finmeccanica (United Kingdom)] was compared to [Finmeccanica (France)] 
+	http://www.grid.ac/institutes/grid.433664.0.. http://www.grid.ac/institutes/grid.426372.6.. 1............................................ [Finmeccanica (United Kingdom)] was compared to [Finmeccanica (France)] 
+	http://www.grid.ac/institutes/grid.433664.0.. http://www.grid.ac/institutes/grid.439131.d.. 1............................................ [Finmeccanica (France)] was compared to [Finmeccanica (Poland)] 
+	http://www.grid.ac/institutes/grid.439131.d.. http://www.grid.ac/institutes/grid.433664.0.. 1............................................ [Finmeccanica (France)] was compared to [Finmeccanica (Poland)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.426372.6.. -0.128516.................................... 
+	http://www.grid.ac/institutes/grid.426372.6.. 51.501297.................................... 
+	http://www.grid.ac/institutes/grid.426372.6.. http://www.finmeccanica.co.uk/............... 
+	http://www.grid.ac/institutes/grid.426372.6.. Finmeccanica (United Kingdom)................ 
+	http://www.grid.ac/institutes/grid.433664.0.. Finmeccanica (France)........................ 
+	http://www.grid.ac/institutes/grid.423952.b.. 12.469245.................................... 
+	http://www.grid.ac/institutes/grid.423952.b.. 41.92051..................................... 
+	http://www.grid.ac/institutes/grid.423952.b.. http://www.finmeccanica.com/en/home.......... 
+	http://www.grid.ac/institutes/grid.423952.b.. Finmeccanica (Italy)......................... 
+	http://www.grid.ac/institutes/grid.439131.d.. Finmeccanica (Poland)........................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.426372.6', '3:grid.423952.b'), ('2:grid.433664.0', '1:grid.426372.6'), ('2:grid.433664.0', '3:grid.423952.b'), ('4:grid.439131.d', '1:grid.426372.6'), ('4:grid.439131.d', '2:grid.433664.0'), ('4:grid.439131.d', '3:grid.423952.b')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

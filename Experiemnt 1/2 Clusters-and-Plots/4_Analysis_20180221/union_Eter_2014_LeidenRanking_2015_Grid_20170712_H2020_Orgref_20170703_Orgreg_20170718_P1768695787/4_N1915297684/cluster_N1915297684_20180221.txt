@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 14800 
+NAME    N1915297684
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.473180.9>
+	<http://risis.eu/cordisH2020/resource/participant_939085616>
+	<http://www.grid.ac/institutes/grid.456200.5>
+	<http://www.grid.ac/institutes/grid.459732.e>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.473180.9................. http://www.grid.ac/institutes/grid.459732.e................. 1........................................................... [Keysight Technologies (United States)] was compared to [Keysight Technologies (Singapore)] 
+	http://www.grid.ac/institutes/grid.459732.e................. http://www.grid.ac/institutes/grid.473180.9................. 1........................................................... [Keysight Technologies (United States)] was compared to [Keysight Technologies (Singapore)] 
+	http://risis.eu/cordisH2020/resource/participant_939085616.. http://www.grid.ac/institutes/grid.459732.e................. 0.807692307692.............................................. [Keysight Technologies (United States)] was compared to [KEYSIGHT TECHNOLOGIES GMBH] 
+	http://www.grid.ac/institutes/grid.459732.e................. http://risis.eu/cordisH2020/resource/participant_939085616.. 0.807692307692.............................................. [Keysight Technologies (United States)] was compared to [KEYSIGHT TECHNOLOGIES GMBH] 
+	http://www.grid.ac/institutes/grid.473180.9................. http://risis.eu/cordisH2020/resource/participant_939085616.. 0.807692307692.............................................. [Keysight Technologies (Singapore)] was compared to [KEYSIGHT TECHNOLOGIES GMBH] 
+	http://risis.eu/cordisH2020/resource/participant_939085616.. http://www.grid.ac/institutes/grid.473180.9................. 0.807692307692.............................................. [Keysight Technologies (Singapore)] was compared to [KEYSIGHT TECHNOLOGIES GMBH] 
+	http://www.grid.ac/institutes/grid.456200.5................. http://www.grid.ac/institutes/grid.459732.e................. 0.904761904762.............................................. [SkySight Technologies (United States)] was compared to [Keysight Technologies (United States)] 
+	http://www.grid.ac/institutes/grid.459732.e................. http://www.grid.ac/institutes/grid.456200.5................. 0.904761904762.............................................. [SkySight Technologies (United States)] was compared to [Keysight Technologies (United States)] 
+	http://www.grid.ac/institutes/grid.473180.9................. http://www.grid.ac/institutes/grid.456200.5................. 0.904761904762.............................................. [SkySight Technologies (United States)] was compared to [Keysight Technologies (Singapore)] 
+	http://www.grid.ac/institutes/grid.456200.5................. http://www.grid.ac/institutes/grid.473180.9................. 0.904761904762.............................................. [SkySight Technologies (United States)] was compared to [Keysight Technologies (Singapore)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.473180.9................. 103.84067................................................... 
+	http://www.grid.ac/institutes/grid.473180.9................. 1.440351.................................................... 
+	http://www.grid.ac/institutes/grid.473180.9................. http://www.keysight.com/main/home.jspx?lc=eng&cc=SG......... 
+	http://www.grid.ac/institutes/grid.473180.9................. Keysight.................................................... 
+	http://www.grid.ac/institutes/grid.473180.9................. Keysight Technologies (Singapore)........................... 
+	http://risis.eu/cordisH2020/resource/participant_939085616.. http://risis.eu/cordisH2020/resource/www.keysight.com....... 
+	http://risis.eu/cordisH2020/resource/participant_939085616.. KEYSIGHT TECHNOLOGIES GMBH.................................. 
+	http://www.grid.ac/institutes/grid.456200.5................. -85.18937................................................... 
+	http://www.grid.ac/institutes/grid.456200.5................. 41.131382................................................... 
+	http://www.grid.ac/institutes/grid.456200.5................. http://skysighttech.com/.................................... 
+	http://www.grid.ac/institutes/grid.456200.5................. SkySight Technologies (United States)....................... 
+	http://www.grid.ac/institutes/grid.459732.e................. -122.710434................................................. 
+	http://www.grid.ac/institutes/grid.459732.e................. 38.481693................................................... 
+	http://www.grid.ac/institutes/grid.459732.e................. http://www.keysight.com/.................................... 
+	http://www.grid.ac/institutes/grid.459732.e................. Keysight Technologies (United States)....................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_939085616', '1:grid.473180.9'), ('2:participant_939085616', '4:grid.459732.e'), ('3:grid.456200.5', '1:grid.473180.9'), ('4:grid.459732.e', '1:grid.473180.9'), ('4:grid.459732.e', '3:grid.456200.5')]
+	MAX DISTANCE:                   : 0.833
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 2.16666666667
+	AVERAGE NODE CONNECTIVITY RATIO : 0.722222222222
+	BRIDGES                         : 0
+	CLOSURE                         : 0.833
+	DIAMETER                        : 2
+	QUALITY                         : 0.223
+	QUALITY USED                    : 0.223
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223

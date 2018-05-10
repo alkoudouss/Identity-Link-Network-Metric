@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 17798 
+NAME    N1453572841
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.433151.1>
+	<http://risis.eu/orgref_20170703/resource/29565484>
+	<http://www.grid.ac/institutes/grid.432679.d>
+	<http://www.grid.ac/institutes/grid.459996.e>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.432679.d........ http://www.grid.ac/institutes/grid.459996.e........ 1.................................................. [Sumitomo Chemical (United States)] was compared to [Sumitomo Chemical (Japan)] 
+	http://www.grid.ac/institutes/grid.459996.e........ http://www.grid.ac/institutes/grid.432679.d........ 1.................................................. [Sumitomo Chemical (United States)] was compared to [Sumitomo Chemical (Japan)] 
+	http://www.grid.ac/institutes/grid.433151.1........ http://www.grid.ac/institutes/grid.432679.d........ 1.................................................. [Sumitomo Chemical (United States)] was compared to [Sumitomo Chemical (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.432679.d........ http://www.grid.ac/institutes/grid.433151.1........ 1.................................................. [Sumitomo Chemical (United States)] was compared to [Sumitomo Chemical (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.433151.1........ http://www.grid.ac/institutes/grid.459996.e........ 1.................................................. [Sumitomo Chemical (United Kingdom)] was compared to [Sumitomo Chemical (Japan)] 
+	http://www.grid.ac/institutes/grid.459996.e........ http://www.grid.ac/institutes/grid.433151.1........ 1.................................................. [Sumitomo Chemical (United Kingdom)] was compared to [Sumitomo Chemical (Japan)] 
+	http://risis.eu/orgref_20170703/resource/29565484.. http://www.grid.ac/institutes/grid.432679.d........ 1.................................................. [Sumitomo Chemical (United States)] was compared to [Sumitomo Chemical] 
+	http://www.grid.ac/institutes/grid.432679.d........ http://risis.eu/orgref_20170703/resource/29565484.. 1.................................................. [Sumitomo Chemical (United States)] was compared to [Sumitomo Chemical] 
+	http://www.grid.ac/institutes/grid.433151.1........ http://risis.eu/orgref_20170703/resource/29565484.. 1.................................................. [Sumitomo Chemical (United Kingdom)] was compared to [Sumitomo Chemical] 
+	http://risis.eu/orgref_20170703/resource/29565484.. http://www.grid.ac/institutes/grid.433151.1........ 1.................................................. [Sumitomo Chemical (United Kingdom)] was compared to [Sumitomo Chemical] 
+	http://risis.eu/orgref_20170703/resource/29565484.. http://www.grid.ac/institutes/grid.459996.e........ 1.................................................. [Sumitomo Chemical (Japan)] was compared to [Sumitomo Chemical] 
+	http://www.grid.ac/institutes/grid.459996.e........ http://risis.eu/orgref_20170703/resource/29565484.. 1.................................................. [Sumitomo Chemical (Japan)] was compared to [Sumitomo Chemical] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.433151.1........ -0.191371.......................................... 
+	http://www.grid.ac/institutes/grid.433151.1........ 51.72339........................................... 
+	http://www.grid.ac/institutes/grid.433151.1........ https://www.sumitomo-chem.co.uk/................... 
+	http://www.grid.ac/institutes/grid.433151.1........ Sumitomo Chemical (United Kingdom)................. 
+	http://risis.eu/orgref_20170703/resource/29565484.. http://en.wikipedia.org/wiki?curid=29565484........ 
+	http://risis.eu/orgref_20170703/resource/29565484.. http://www.wikidata.org/wiki/Q137803............... 
+	http://risis.eu/orgref_20170703/resource/29565484.. http://www.sumitomo-chem.co.jp/english............. 
+	http://risis.eu/orgref_20170703/resource/29565484.. Sumitomo Chemical.................................. 
+	http://www.grid.ac/institutes/grid.432679.d........ Sumitomo Chemical (United States).................. 
+	http://www.grid.ac/institutes/grid.459996.e........ 139.78444.......................................... 
+	http://www.grid.ac/institutes/grid.459996.e........ 35.673866.......................................... 
+	http://www.grid.ac/institutes/grid.459996.e........ http://www.sumitomo-chem.co.jp/english/............ 
+	http://www.grid.ac/institutes/grid.459996.e........ Sumitomo Chemical (Japan).......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.433151.1', '3:grid.432679.d'), ('2:29565484', '1:grid.433151.1'), ('3:grid.432679.d', '2:29565484'), ('4:grid.459996.e', '1:grid.433151.1'), ('4:grid.459996.e', '2:29565484'), ('4:grid.459996.e', '3:grid.432679.d')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

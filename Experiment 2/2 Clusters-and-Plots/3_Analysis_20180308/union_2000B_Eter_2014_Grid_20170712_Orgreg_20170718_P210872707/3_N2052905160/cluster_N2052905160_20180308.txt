@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 627 
+NAME    N2052905160
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.415456.7>
+	<http://risis.eu/eter_2014/resource/ES0048>
+	<http://www.grid.ac/institutes/grid.45343.35>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.415456.7.. http://risis.eu/eter_2014/resource/ES0048.... 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/ES0048.... http://www.grid.ac/institutes/grid.45343.35.. 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/ES0048.... http://www.grid.ac/institutes/grid.415456.7.. 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://www.grid.ac/institutes/grid.45343.35.. http://risis.eu/eter_2014/resource/ES0048.... 1............................................ Near each other by at most 2000 meter(s)..... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.415456.7.. -4.105416.................................... 
+	http://www.grid.ac/institutes/grid.415456.7.. 40.94409..................................... 
+	http://www.grid.ac/institutes/grid.415456.7.. http://www.saludcastillayleon.es/CASegovia/es/complejo-asistencial-segovia/hospital-general 
+	http://www.grid.ac/institutes/grid.415456.7.. Hospital General De Segovia.................. 
+	http://risis.eu/eter_2014/resource/ES0048.... 40,942903.................................... 
+	http://risis.eu/eter_2014/resource/ES0048.... -4,108807.................................... 
+	http://risis.eu/eter_2014/resource/ES0048.... http://www.ie.edu............................ 
+	http://risis.eu/eter_2014/resource/ES0048.... a............................................ 
+	http://risis.eu/eter_2014/resource/ES0048.... IE University................................ 
+	http://risis.eu/eter_2014/resource/ES0048.... IE. Universidad.............................. 
+	http://www.grid.ac/institutes/grid.45343.35.. -4.119134.................................... 
+	http://www.grid.ac/institutes/grid.45343.35.. 40.953236.................................... 
+	http://www.grid.ac/institutes/grid.45343.35.. http://www.ie.edu/university/home/........... 
+	http://www.grid.ac/institutes/grid.45343.35.. IE University................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('P853817454-ES0048', 'P2072521479-grid.45343.35'), ('P853817454-ES0048', 'N2052905160-grid.415456.7')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 7473 
+NAME    N2023802145
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.253641.7>
+	<http://risis.eu/orgreg_20170718/resource/SK0008>
+	<http://risis.eu/orgref_20170703/resource/479192>
+	<http://www.grid.ac/institutes/grid.445192.f>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.253641.7...... http://risis.eu/orgref_20170703/resource/479192.. 1................................................ [Canisius College] was compared to [Canisius College] 
+	http://risis.eu/orgref_20170703/resource/479192.. http://www.grid.ac/institutes/grid.253641.7...... 1................................................ [Canisius College] was compared to [Canisius College] 
+	http://risis.eu/orgreg_20170718/resource/SK0008.. http://risis.eu/orgref_20170703/resource/479192.. 0.8125........................................... [Canisius College] was compared to [College Danubius] 
+	http://risis.eu/orgref_20170703/resource/479192.. http://risis.eu/orgreg_20170718/resource/SK0008.. 0.8125........................................... [Canisius College] was compared to [College Danubius] 
+	http://www.grid.ac/institutes/grid.253641.7...... http://www.grid.ac/institutes/grid.445192.f...... 0.8125........................................... [Canisius College] was compared to [College Danubius] 
+	http://www.grid.ac/institutes/grid.445192.f...... http://www.grid.ac/institutes/grid.253641.7...... 0.8125........................................... [Canisius College] was compared to [College Danubius] 
+	http://risis.eu/orgref_20170703/resource/479192.. http://www.grid.ac/institutes/grid.445192.f...... 0.8125........................................... [College Danubius] was compared to [Canisius College] 
+	http://www.grid.ac/institutes/grid.445192.f...... http://risis.eu/orgref_20170703/resource/479192.. 0.8125........................................... [College Danubius] was compared to [Canisius College] 
+	http://www.grid.ac/institutes/grid.253641.7...... http://risis.eu/orgreg_20170718/resource/SK0008.. 0.8125........................................... [Canisius College] was compared to [College Danubius] 
+	http://risis.eu/orgreg_20170718/resource/SK0008.. http://www.grid.ac/institutes/grid.253641.7...... 0.8125........................................... [Canisius College] was compared to [College Danubius] 
+	http://risis.eu/orgreg_20170718/resource/SK0008.. http://www.grid.ac/institutes/grid.445192.f...... 1................................................ [College Danubius] was compared to [College Danubius] 
+	http://www.grid.ac/institutes/grid.445192.f...... http://risis.eu/orgreg_20170718/resource/SK0008.. 1................................................ [College Danubius] was compared to [College Danubius] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.253641.7...... -78.85147........................................ 
+	http://www.grid.ac/institutes/grid.253641.7...... 42.924824........................................ 
+	http://www.grid.ac/institutes/grid.253641.7...... http://www.canisius.edu/......................... 
+	http://www.grid.ac/institutes/grid.253641.7...... Canisius College................................. 
+	http://risis.eu/orgreg_20170718/resource/SK0008.. 17.6481165....................................... 
+	http://risis.eu/orgreg_20170718/resource/SK0008.. 48.2107784....................................... 
+	http://risis.eu/orgreg_20170718/resource/SK0008.. www.vsdanubius.sk................................ 
+	http://risis.eu/orgreg_20170718/resource/SK0008.. College Danubius................................. 
+	http://risis.eu/orgref_20170703/resource/479192.. http://en.wikipedia.org/wiki?curid=479192........ 
+	http://risis.eu/orgref_20170703/resource/479192.. http://www.wikidata.org/wiki/Q1033335............ 
+	http://risis.eu/orgref_20170703/resource/479192.. http://www.canisius.edu.......................... 
+	http://risis.eu/orgref_20170703/resource/479192.. Canisius College................................. 
+	http://www.grid.ac/institutes/grid.445192.f...... College Danubius................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:SK0008', '1:grid.253641.7'), ('2:SK0008', '4:grid.445192.f'), ('3:479192', '1:grid.253641.7'), ('3:479192', '2:SK0008'), ('3:479192', '4:grid.445192.f'), ('4:grid.445192.f', '1:grid.253641.7')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

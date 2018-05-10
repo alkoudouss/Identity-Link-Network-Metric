@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 10659 
+NAME    N2041246762
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.441345.3>
+	<http://risis.eu/orgref_20170703/resource/14595509>
+	<http://www.grid.ac/institutes/grid.440583.e>
+	<http://risis.eu/orgref_20170703/resource/1942448>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.441345.3........ http://www.grid.ac/institutes/grid.440583.e........ 1.................................................. [National University of Engineering] was compared to [National University of Engineering] 
+	http://www.grid.ac/institutes/grid.440583.e........ http://www.grid.ac/institutes/grid.441345.3........ 1.................................................. [National University of Engineering] was compared to [National University of Engineering] 
+	http://risis.eu/orgref_20170703/resource/14595509.. http://www.grid.ac/institutes/grid.440583.e........ 1.................................................. [National University of Engineering] was compared to [National University of Engineering (Nicaragua)] 
+	http://www.grid.ac/institutes/grid.440583.e........ http://risis.eu/orgref_20170703/resource/14595509.. 1.................................................. [National University of Engineering] was compared to [National University of Engineering (Nicaragua)] 
+	http://www.grid.ac/institutes/grid.440583.e........ http://risis.eu/orgref_20170703/resource/1942448... 1.................................................. [National University of Engineering] was compared to [National University of Engineering] 
+	http://risis.eu/orgref_20170703/resource/1942448... http://www.grid.ac/institutes/grid.440583.e........ 1.................................................. [National University of Engineering] was compared to [National University of Engineering] 
+	http://www.grid.ac/institutes/grid.441345.3........ http://risis.eu/orgref_20170703/resource/14595509.. 1.................................................. [National University of Engineering] was compared to [National University of Engineering (Nicaragua)] 
+	http://risis.eu/orgref_20170703/resource/14595509.. http://www.grid.ac/institutes/grid.441345.3........ 1.................................................. [National University of Engineering] was compared to [National University of Engineering (Nicaragua)] 
+	http://www.grid.ac/institutes/grid.441345.3........ http://risis.eu/orgref_20170703/resource/1942448... 1.................................................. [National University of Engineering] was compared to [National University of Engineering] 
+	http://risis.eu/orgref_20170703/resource/1942448... http://www.grid.ac/institutes/grid.441345.3........ 1.................................................. [National University of Engineering] was compared to [National University of Engineering] 
+	http://risis.eu/orgref_20170703/resource/14595509.. http://risis.eu/orgref_20170703/resource/1942448... 1.................................................. [National University of Engineering (Nicaragua)] was compared to [National University of Engineering] 
+	http://risis.eu/orgref_20170703/resource/1942448... http://risis.eu/orgref_20170703/resource/14595509.. 1.................................................. [National University of Engineering (Nicaragua)] was compared to [National University of Engineering] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.441345.3........ National University of Engineering................. 
+	http://risis.eu/orgref_20170703/resource/14595509.. http://en.wikipedia.org/wiki?curid=14595509........ 
+	http://risis.eu/orgref_20170703/resource/14595509.. http://www.wikidata.org/wiki/Q3847544.............. 
+	http://risis.eu/orgref_20170703/resource/14595509.. http://www.uni.edu.ni.............................. 
+	http://risis.eu/orgref_20170703/resource/14595509.. National University of Engineering (Nicaragua)..... 
+	http://www.grid.ac/institutes/grid.440583.e........ -77.04819.......................................... 
+	http://www.grid.ac/institutes/grid.440583.e........ -12.023833......................................... 
+	http://www.grid.ac/institutes/grid.440583.e........ http://www.uni.edu.pe/............................. 
+	http://www.grid.ac/institutes/grid.440583.e........ National University of Engineering................. 
+	http://risis.eu/orgref_20170703/resource/1942448... http://en.wikipedia.org/wiki?curid=1942448......... 
+	http://risis.eu/orgref_20170703/resource/1942448... http://www.wikidata.org/wiki/Q5202403.............. 
+	http://risis.eu/orgref_20170703/resource/1942448... http://www.uni.edu.pe.............................. 
+	http://risis.eu/orgref_20170703/resource/1942448... National University of Engineering................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.441345.3', '3:grid.440583.e'), ('2:14595509', '1:grid.441345.3'), ('2:14595509', '3:grid.440583.e'), ('4:1942448', '1:grid.441345.3'), ('4:1942448', '2:14595509'), ('4:1942448', '3:grid.440583.e')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,49 @@
+SIZE    4   
+CLUSTER 2038 
+NAME    N1605382773
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.444213.4>
+	<http://www.grid.ac/institutes/grid.444528.b>
+	<http://www.grid.ac/institutes/grid.443408.f>
+	<http://www.grid.ac/institutes/grid.443493.d>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.444213.4.. http://www.grid.ac/institutes/grid.444528.b.. 0.909090909091............................... [Universitas Purwakarta] was compared to [Universitas Surakarta] 
+	http://www.grid.ac/institutes/grid.444528.b.. http://www.grid.ac/institutes/grid.444213.4.. 0.909090909091............................... [Universitas Purwakarta] was compared to [Universitas Surakarta] 
+	http://www.grid.ac/institutes/grid.444528.b.. http://www.grid.ac/institutes/grid.443408.f.. 0.863636363636............................... [Universitas Suryadarma] was compared to [Universitas Surakarta] 
+	http://www.grid.ac/institutes/grid.443408.f.. http://www.grid.ac/institutes/grid.444528.b.. 0.863636363636............................... [Universitas Suryadarma] was compared to [Universitas Surakarta] 
+	http://www.grid.ac/institutes/grid.444528.b.. http://www.grid.ac/institutes/grid.443493.d.. 0.857142857143............................... [Universitas Surapati] was compared to [Universitas Surakarta] 
+	http://www.grid.ac/institutes/grid.443493.d.. http://www.grid.ac/institutes/grid.444528.b.. 0.857142857143............................... [Universitas Surapati] was compared to [Universitas Surakarta] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.444213.4.. Universitas Purwakarta....................... 
+	http://www.grid.ac/institutes/grid.444528.b.. Universitas Surakarta........................ 
+	http://www.grid.ac/institutes/grid.443408.f.. Universitas Suryadarma....................... 
+	http://www.grid.ac/institutes/grid.443493.d.. Universitas Surapati......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.444528.b', '1:grid.444213.4'), ('3:grid.443408.f', '2:grid.444528.b'), ('4:grid.443493.d', '2:grid.444528.b')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 2
+	QUALITY                         : 0.667
+	QUALITY USED                    : 0.667
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 0.5 QUALITY 0.667 QUALITY USED 0.667
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 0.5 QUALITY 0.667 QUALITY USED 0.667

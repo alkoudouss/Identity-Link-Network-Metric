@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 1294 
+NAME    P696712356
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/PT0060>
+	<http://www.grid.ac/institutes/grid.123763.2>
+	<http://risis.eu/orgreg_20170718/resource/PT0060>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/eter_2014/resource/PT0060........ http://www.grid.ac/institutes/grid.123763.2...... 1................................................ [instituto superior gestao] was compared to [instituto superior gestao] 
+	http://risis.eu/eter_2014/resource/PT0060........ http://risis.eu/orgreg_20170718/resource/PT0060.. 1................................................ [business & economics school] was compared to [business & economics school] 
+	http://www.grid.ac/institutes/grid.123763.2...... http://risis.eu/eter_2014/resource/PT0060........ 1................................................ [instituto superior gestao] was compared to [instituto superior gestao] 
+	http://risis.eu/orgreg_20170718/resource/PT0060.. http://risis.eu/eter_2014/resource/PT0060........ 1................................................ [business & economics school] was compared to [business & economics school] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/eter_2014/resource/PT0060........ 38,781277........................................ 
+	http://risis.eu/eter_2014/resource/PT0060........ -9,160156........................................ 
+	http://risis.eu/eter_2014/resource/PT0060........ http://www.isg.pt................................ 
+	http://risis.eu/eter_2014/resource/PT0060........ a................................................ 
+	http://risis.eu/eter_2014/resource/PT0060........ Business & Economics School...................... 
+	http://risis.eu/eter_2014/resource/PT0060........ Instituto Superior de Gestão.................... 
+	http://www.grid.ac/institutes/grid.123763.2...... -9.160833........................................ 
+	http://www.grid.ac/institutes/grid.123763.2...... 38.781506........................................ 
+	http://www.grid.ac/institutes/grid.123763.2...... http://www.isg.pt/en/............................ 
+	http://www.grid.ac/institutes/grid.123763.2...... Instituto Superior de Gestão.................... 
+	http://risis.eu/orgreg_20170718/resource/PT0060.. -9.160156........................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0060.. 38.781277........................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0060.. http://www.isg.pt................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0060.. Business & Economics School...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('P1082405528-PT0060', 'P740779453-PT0060'), ('P1082405528-PT0060', 'P696712356-grid.123763.2')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

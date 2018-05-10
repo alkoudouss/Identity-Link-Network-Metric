@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 6324 
+NAME    N1614983678
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/13955446>
+	<http://risis.eu/eter_2014/resource/FR0002>
+	<http://www.grid.ac/institutes/grid.27729.39>
+	<http://risis.eu/leidenRanking_2015/resource/2719>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/13955446.. http://www.grid.ac/institutes/grid.27729.39........ 1.................................................. [University of Technology of Troyes] was compared to [University of Technology of Troyes] 
+	http://www.grid.ac/institutes/grid.27729.39........ http://risis.eu/orgref_20170703/resource/13955446.. 1.................................................. [University of Technology of Troyes] was compared to [University of Technology of Troyes] 
+	http://www.grid.ac/institutes/grid.27729.39........ http://risis.eu/leidenRanking_2015/resource/2719... 1.................................................. [University of Technology of Troyes] was compared to [University of Technology of Troyes] 
+	http://risis.eu/leidenRanking_2015/resource/2719... http://www.grid.ac/institutes/grid.27729.39........ 1.................................................. [University of Technology of Troyes] was compared to [University of Technology of Troyes] 
+	http://risis.eu/eter_2014/resource/FR0002.......... http://www.grid.ac/institutes/grid.27729.39........ 0.896551724138..................................... [University of Technology of Troyes] was compared to [Université de technologie de Troyes] 
+	http://www.grid.ac/institutes/grid.27729.39........ http://risis.eu/eter_2014/resource/FR0002.......... 0.896551724138..................................... [University of Technology of Troyes] was compared to [Université de technologie de Troyes] 
+	http://risis.eu/orgref_20170703/resource/13955446.. http://risis.eu/eter_2014/resource/FR0002.......... 0.896551724138..................................... [University of Technology of Troyes] was compared to [Université de technologie de Troyes] 
+	http://risis.eu/eter_2014/resource/FR0002.......... http://risis.eu/orgref_20170703/resource/13955446.. 0.896551724138..................................... [University of Technology of Troyes] was compared to [Université de technologie de Troyes] 
+	http://risis.eu/orgref_20170703/resource/13955446.. http://risis.eu/leidenRanking_2015/resource/2719... 1.................................................. [University of Technology of Troyes] was compared to [University of Technology of Troyes] 
+	http://risis.eu/leidenRanking_2015/resource/2719... http://risis.eu/orgref_20170703/resource/13955446.. 1.................................................. [University of Technology of Troyes] was compared to [University of Technology of Troyes] 
+	http://risis.eu/eter_2014/resource/FR0002.......... http://risis.eu/leidenRanking_2015/resource/2719... 0.896551724138..................................... [Université de technologie de Troyes] was compared to [University of Technology of Troyes] 
+	http://risis.eu/leidenRanking_2015/resource/2719... http://risis.eu/eter_2014/resource/FR0002.......... 0.896551724138..................................... [Université de technologie de Troyes] was compared to [University of Technology of Troyes] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/13955446.. http://en.wikipedia.org/wiki?curid=13955446........ 
+	http://risis.eu/orgref_20170703/resource/13955446.. http://www.wikidata.org/wiki/Q1037208.............. 
+	http://risis.eu/orgref_20170703/resource/13955446.. http://www.utt.fr.................................. 
+	http://risis.eu/orgref_20170703/resource/13955446.. University of Technology of Troyes................. 
+	http://risis.eu/eter_2014/resource/FR0002.......... 48,54253........................................... 
+	http://risis.eu/eter_2014/resource/FR0002.......... 4,59846............................................ 
+	http://risis.eu/eter_2014/resource/FR0002.......... http://www.utt.fr/................................. 
+	http://risis.eu/eter_2014/resource/FR0002.......... m.................................................. 
+	http://risis.eu/eter_2014/resource/FR0002.......... University of technology of Troyes................. 
+	http://risis.eu/eter_2014/resource/FR0002.......... Université de technologie de Troyes............... 
+	http://www.grid.ac/institutes/grid.27729.39........ 4.067087........................................... 
+	http://www.grid.ac/institutes/grid.27729.39........ 48.269154.......................................... 
+	http://www.grid.ac/institutes/grid.27729.39........ http://www.utt.fr/en/index.html.................... 
+	http://www.grid.ac/institutes/grid.27729.39........ University of Technology of Troyes................. 
+	http://risis.eu/leidenRanking_2015/resource/2719... University of Technology of Troyes................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:FR0002', '1:13955446'), ('2:FR0002', '3:grid.27729.39'), ('3:grid.27729.39', '1:13955446'), ('4:2719', '1:13955446'), ('4:2719', '2:FR0002'), ('4:2719', '3:grid.27729.39')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

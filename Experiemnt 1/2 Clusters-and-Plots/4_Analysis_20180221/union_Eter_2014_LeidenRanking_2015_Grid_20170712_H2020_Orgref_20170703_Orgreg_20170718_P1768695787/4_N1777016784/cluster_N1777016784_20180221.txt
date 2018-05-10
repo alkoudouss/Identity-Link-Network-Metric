@@ -1,0 +1,58 @@
+SIZE    4   
+CLUSTER 7526 
+NAME    N1777016784
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.472520.6>
+	<http://risis.eu/orgref_20170703/resource/47000095>
+	<http://www.grid.ac/institutes/grid.435685.9>
+	<http://www.grid.ac/institutes/grid.422940.9>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.435685.9........ http://www.grid.ac/institutes/grid.422940.9........ 0.952380952381..................................... [ManTech International (United States)] was compared to [Martech International (Belgium)] 
+	http://www.grid.ac/institutes/grid.422940.9........ http://www.grid.ac/institutes/grid.435685.9........ 0.952380952381..................................... [ManTech International (United States)] was compared to [Martech International (Belgium)] 
+	http://www.grid.ac/institutes/grid.472520.6........ http://risis.eu/orgref_20170703/resource/47000095.. 1.................................................. [EarthTech International (United States)] was compared to [EarthTech International Inc] 
+	http://risis.eu/orgref_20170703/resource/47000095.. http://www.grid.ac/institutes/grid.472520.6........ 1.................................................. [EarthTech International (United States)] was compared to [EarthTech International Inc] 
+	http://www.grid.ac/institutes/grid.472520.6........ http://www.grid.ac/institutes/grid.435685.9........ 0.869565217391..................................... [Martech International (Belgium)] was compared to [EarthTech International (United States)] 
+	http://www.grid.ac/institutes/grid.435685.9........ http://www.grid.ac/institutes/grid.472520.6........ 0.869565217391..................................... [Martech International (Belgium)] was compared to [EarthTech International (United States)] 
+	http://risis.eu/orgref_20170703/resource/47000095.. http://www.grid.ac/institutes/grid.435685.9........ 0.869565217391..................................... [Martech International (Belgium)] was compared to [EarthTech International Inc] 
+	http://www.grid.ac/institutes/grid.435685.9........ http://risis.eu/orgref_20170703/resource/47000095.. 0.869565217391..................................... [Martech International (Belgium)] was compared to [EarthTech International Inc] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.472520.6........ -97.74795.......................................... 
+	http://www.grid.ac/institutes/grid.472520.6........ 30.423811.......................................... 
+	http://www.grid.ac/institutes/grid.472520.6........ http://earthtech.org/.............................. 
+	http://www.grid.ac/institutes/grid.472520.6........ Institute for Advanced Studies..................... 
+	http://www.grid.ac/institutes/grid.472520.6........ EarthTech International (United States)............ 
+	http://risis.eu/orgref_20170703/resource/47000095.. EarthTech International Inc........................ 
+	http://www.grid.ac/institutes/grid.435685.9........ Martech International (Belgium).................... 
+	http://www.grid.ac/institutes/grid.422940.9........ -77.36798.......................................... 
+	http://www.grid.ac/institutes/grid.422940.9........ 38.86031........................................... 
+	http://www.grid.ac/institutes/grid.422940.9........ http://www.mantech.com/Pages/Home.aspx............. 
+	http://www.grid.ac/institutes/grid.422940.9........ ManTech International (United States).............. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.472520.6', '3:grid.435685.9'), ('2:47000095', '1:grid.472520.6'), ('3:grid.435685.9', '2:47000095'), ('4:grid.422940.9', '3:grid.435685.9')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

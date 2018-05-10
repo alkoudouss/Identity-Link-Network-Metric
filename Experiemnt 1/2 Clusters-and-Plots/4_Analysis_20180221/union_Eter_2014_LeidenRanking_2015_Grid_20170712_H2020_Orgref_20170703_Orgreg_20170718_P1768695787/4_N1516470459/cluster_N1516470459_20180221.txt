@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 8451 
+NAME    N1516470459
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.465315.0>
+	<http://www.grid.ac/institutes/grid.466841.9>
+	<http://risis.eu/orgref_20170703/resource/12709075>
+	<http://risis.eu/orgref_20170703/resource/9253009>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.466841.9........ http://risis.eu/orgref_20170703/resource/9253009... 1.................................................. [Institute of Marine Science] was compared to [Marine Science Institute] 
+	http://risis.eu/orgref_20170703/resource/9253009... http://www.grid.ac/institutes/grid.466841.9........ 1.................................................. [Institute of Marine Science] was compared to [Marine Science Institute] 
+	http://www.grid.ac/institutes/grid.466841.9........ http://risis.eu/orgref_20170703/resource/12709075.. 0.96............................................... [Institute of Marine Science] was compared to [Institute of Marine Sciences] 
+	http://risis.eu/orgref_20170703/resource/12709075.. http://www.grid.ac/institutes/grid.466841.9........ 0.96............................................... [Institute of Marine Science] was compared to [Institute of Marine Sciences] 
+	http://risis.eu/orgref_20170703/resource/12709075.. http://risis.eu/orgref_20170703/resource/9253009... 0.96............................................... [Institute of Marine Sciences] was compared to [Marine Science Institute] 
+	http://risis.eu/orgref_20170703/resource/9253009... http://risis.eu/orgref_20170703/resource/12709075.. 0.96............................................... [Institute of Marine Sciences] was compared to [Marine Science Institute] 
+	http://www.grid.ac/institutes/grid.465315.0........ http://www.grid.ac/institutes/grid.466841.9........ 0.884615384615..................................... [Institute of Machines Science] was compared to [Institute of Marine Science] 
+	http://www.grid.ac/institutes/grid.466841.9........ http://www.grid.ac/institutes/grid.465315.0........ 0.884615384615..................................... [Institute of Machines Science] was compared to [Institute of Marine Science] 
+	http://www.grid.ac/institutes/grid.465315.0........ http://risis.eu/orgref_20170703/resource/9253009... 0.884615384615..................................... [Institute of Machines Science] was compared to [Marine Science Institute] 
+	http://risis.eu/orgref_20170703/resource/9253009... http://www.grid.ac/institutes/grid.465315.0........ 0.884615384615..................................... [Institute of Machines Science] was compared to [Marine Science Institute] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 19 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.465315.0........ 37.58919........................................... 
+	http://www.grid.ac/institutes/grid.465315.0........ 55.74788........................................... 
+	http://www.grid.ac/institutes/grid.465315.0........ http://eng.imash.ru/............................... 
+	http://www.grid.ac/institutes/grid.465315.0........ Federal State Institution of Science Institute of Mechanical Engineering. AA Blagonravova Russian Academy of Sciences 
+	http://www.grid.ac/institutes/grid.465315.0........ A.Blagonravov Institute of Machines Science........ 
+	http://www.grid.ac/institutes/grid.465315.0........ Federal Budget-Funded Research Institute for Machine Science named after A.A.Blagonravov 
+	http://www.grid.ac/institutes/grid.465315.0........ Institute of Machines Science...................... 
+	http://www.grid.ac/institutes/grid.466841.9........ 12.355234.......................................... 
+	http://www.grid.ac/institutes/grid.466841.9........ 45.437622.......................................... 
+	http://www.grid.ac/institutes/grid.466841.9........ http://www.ismar.cnr.it/index_html-1?set_language=en&cl=en 
+	http://www.grid.ac/institutes/grid.466841.9........ Institute of Marine Science........................ 
+	http://risis.eu/orgref_20170703/resource/12709075.. http://en.wikipedia.org/wiki?curid=12709075........ 
+	http://risis.eu/orgref_20170703/resource/12709075.. http://www.wikidata.org/wiki/Q6086295.............. 
+	http://risis.eu/orgref_20170703/resource/12709075.. http://www.ims.metu.edu.tr......................... 
+	http://risis.eu/orgref_20170703/resource/12709075.. Institute of Marine Sciences....................... 
+	http://risis.eu/orgref_20170703/resource/9253009... http://en.wikipedia.org/wiki?curid=9253009......... 
+	http://risis.eu/orgref_20170703/resource/9253009... http://www.wikidata.org/wiki/Q6764215.............. 
+	http://risis.eu/orgref_20170703/resource/9253009... http://www.msi.upd.edu.ph.......................... 
+	http://risis.eu/orgref_20170703/resource/9253009... Marine Science Institute........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.466841.9', '1:grid.465315.0'), ('3:12709075', '2:grid.466841.9'), ('4:9253009', '1:grid.465315.0'), ('4:9253009', '2:grid.466841.9'), ('4:9253009', '3:12709075')]
+	MAX DISTANCE:                   : 0.833
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 2.16666666667
+	AVERAGE NODE CONNECTIVITY RATIO : 0.722222222222
+	BRIDGES                         : 0
+	CLOSURE                         : 0.833
+	DIAMETER                        : 2
+	QUALITY                         : 0.223
+	QUALITY USED                    : 0.223
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223

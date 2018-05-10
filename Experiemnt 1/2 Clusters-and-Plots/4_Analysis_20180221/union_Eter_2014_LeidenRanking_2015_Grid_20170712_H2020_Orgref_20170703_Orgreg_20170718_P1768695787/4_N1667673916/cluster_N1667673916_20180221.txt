@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 2316 
+NAME    N1667673916
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.446518.a>
+	<http://risis.eu/orgref_20170703/resource/3314378>
+	<http://www.grid.ac/institutes/grid.431690.9>
+	<http://risis.eu/orgref_20170703/resource/1199346>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/3314378.. http://www.grid.ac/institutes/grid.431690.9....... 1................................................. [Columbus State Community College] was compared to [Columbus State Community College] 
+	http://www.grid.ac/institutes/grid.431690.9....... http://risis.eu/orgref_20170703/resource/3314378.. 1................................................. [Columbus State Community College] was compared to [Columbus State Community College] 
+	http://www.grid.ac/institutes/grid.446518.a....... http://risis.eu/orgref_20170703/resource/1199346.. 1................................................. [Columbia State Community College] was compared to [Columbia State Community College] 
+	http://risis.eu/orgref_20170703/resource/1199346.. http://www.grid.ac/institutes/grid.446518.a....... 1................................................. [Columbia State Community College] was compared to [Columbia State Community College] 
+	http://risis.eu/orgref_20170703/resource/3314378.. http://risis.eu/orgref_20170703/resource/1199346.. 0.9375............................................ [Columbia State Community College] was compared to [Columbus State Community College] 
+	http://risis.eu/orgref_20170703/resource/1199346.. http://risis.eu/orgref_20170703/resource/3314378.. 0.9375............................................ [Columbia State Community College] was compared to [Columbus State Community College] 
+	http://www.grid.ac/institutes/grid.446518.a....... http://www.grid.ac/institutes/grid.431690.9....... 0.9375............................................ [Columbus State Community College] was compared to [Columbia State Community College] 
+	http://www.grid.ac/institutes/grid.431690.9....... http://www.grid.ac/institutes/grid.446518.a....... 0.9375............................................ [Columbus State Community College] was compared to [Columbia State Community College] 
+	http://www.grid.ac/institutes/grid.431690.9....... http://risis.eu/orgref_20170703/resource/1199346.. 0.9375............................................ [Columbus State Community College] was compared to [Columbia State Community College] 
+	http://risis.eu/orgref_20170703/resource/1199346.. http://www.grid.ac/institutes/grid.431690.9....... 0.9375............................................ [Columbus State Community College] was compared to [Columbia State Community College] 
+	http://www.grid.ac/institutes/grid.446518.a....... http://risis.eu/orgref_20170703/resource/3314378.. 0.9375............................................ [Columbia State Community College] was compared to [Columbus State Community College] 
+	http://risis.eu/orgref_20170703/resource/3314378.. http://www.grid.ac/institutes/grid.446518.a....... 0.9375............................................ [Columbia State Community College] was compared to [Columbus State Community College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.446518.a....... -87.10191......................................... 
+	http://www.grid.ac/institutes/grid.446518.a....... 35.616756......................................... 
+	http://www.grid.ac/institutes/grid.446518.a....... http://www.columbiastate.edu/..................... 
+	http://www.grid.ac/institutes/grid.446518.a....... Columbia State Community College.................. 
+	http://risis.eu/orgref_20170703/resource/3314378.. http://en.wikipedia.org/wiki?curid=3314378........ 
+	http://risis.eu/orgref_20170703/resource/3314378.. http://www.wikidata.org/wiki/Q5150126............. 
+	http://risis.eu/orgref_20170703/resource/3314378.. http://www.cscc.edu............................... 
+	http://risis.eu/orgref_20170703/resource/3314378.. Columbus State Community College.................. 
+	http://www.grid.ac/institutes/grid.431690.9....... -82.987656........................................ 
+	http://www.grid.ac/institutes/grid.431690.9....... 39.969975......................................... 
+	http://www.grid.ac/institutes/grid.431690.9....... http://www.cscc.edu/.............................. 
+	http://www.grid.ac/institutes/grid.431690.9....... Columbus State.................................... 
+	http://www.grid.ac/institutes/grid.431690.9....... Columbus State Community College.................. 
+	http://risis.eu/orgref_20170703/resource/1199346.. http://en.wikipedia.org/wiki?curid=1199346........ 
+	http://risis.eu/orgref_20170703/resource/1199346.. http://www.wikidata.org/wiki/Q5149848............. 
+	http://risis.eu/orgref_20170703/resource/1199346.. http://www.columbiastate.edu...................... 
+	http://risis.eu/orgref_20170703/resource/1199346.. Columbia State Community College.................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.446518.a', '3:grid.431690.9'), ('2:3314378', '1:grid.446518.a'), ('2:3314378', '3:grid.431690.9'), ('2:3314378', '4:1199346'), ('4:1199346', '1:grid.446518.a'), ('4:1199346', '3:grid.431690.9')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

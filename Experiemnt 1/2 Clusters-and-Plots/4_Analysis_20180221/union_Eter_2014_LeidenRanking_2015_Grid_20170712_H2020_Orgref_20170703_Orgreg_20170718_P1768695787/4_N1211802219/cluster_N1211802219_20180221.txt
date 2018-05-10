@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 1111 
+NAME    N1211802219
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.16821.3c>
+	<http://risis.eu/cordisH2020/resource/participant_998501123>
+	<http://risis.eu/orgref_20170703/resource/33708475>
+	<http://risis.eu/leidenRanking_2015/resource/1138>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.16821.3c................. http://risis.eu/orgref_20170703/resource/33708475........... 1........................................................... [Shanghai Jiao Tong University] was compared to [Shanghai Jiao Tong University] 
+	http://risis.eu/orgref_20170703/resource/33708475........... http://www.grid.ac/institutes/grid.16821.3c................. 1........................................................... [Shanghai Jiao Tong University] was compared to [Shanghai Jiao Tong University] 
+	http://www.grid.ac/institutes/grid.16821.3c................. http://risis.eu/leidenRanking_2015/resource/1138............ 1........................................................... [Shanghai Jiao Tong University] was compared to [Shanghai Jiao Tong University] 
+	http://risis.eu/leidenRanking_2015/resource/1138............ http://www.grid.ac/institutes/grid.16821.3c................. 1........................................................... [Shanghai Jiao Tong University] was compared to [Shanghai Jiao Tong University] 
+	http://www.grid.ac/institutes/grid.16821.3c................. http://risis.eu/cordisH2020/resource/participant_998501123.. 1........................................................... [Shanghai Jiao Tong University] was compared to [SHANGHAI JIAO TONG UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_998501123.. http://www.grid.ac/institutes/grid.16821.3c................. 1........................................................... [Shanghai Jiao Tong University] was compared to [SHANGHAI JIAO TONG UNIVERSITY] 
+	http://risis.eu/orgref_20170703/resource/33708475........... http://risis.eu/leidenRanking_2015/resource/1138............ 1........................................................... [Shanghai Jiao Tong University] was compared to [Shanghai Jiao Tong University] 
+	http://risis.eu/leidenRanking_2015/resource/1138............ http://risis.eu/orgref_20170703/resource/33708475........... 1........................................................... [Shanghai Jiao Tong University] was compared to [Shanghai Jiao Tong University] 
+	http://risis.eu/cordisH2020/resource/participant_998501123.. http://risis.eu/orgref_20170703/resource/33708475........... 1........................................................... [Shanghai Jiao Tong University] was compared to [SHANGHAI JIAO TONG UNIVERSITY] 
+	http://risis.eu/orgref_20170703/resource/33708475........... http://risis.eu/cordisH2020/resource/participant_998501123.. 1........................................................... [Shanghai Jiao Tong University] was compared to [SHANGHAI JIAO TONG UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_998501123.. http://risis.eu/leidenRanking_2015/resource/1138............ 1........................................................... [SHANGHAI JIAO TONG UNIVERSITY] was compared to [Shanghai Jiao Tong University] 
+	http://risis.eu/leidenRanking_2015/resource/1138............ http://risis.eu/cordisH2020/resource/participant_998501123.. 1........................................................... [SHANGHAI JIAO TONG UNIVERSITY] was compared to [Shanghai Jiao Tong University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.16821.3c................. 121.43278................................................... 
+	http://www.grid.ac/institutes/grid.16821.3c................. 31.201267................................................... 
+	http://www.grid.ac/institutes/grid.16821.3c................. http://en.sjtu.edu.cn/...................................... 
+	http://www.grid.ac/institutes/grid.16821.3c................. Shanghai Communications University.......................... 
+	http://www.grid.ac/institutes/grid.16821.3c................. Shanghai Jiao Tong University............................... 
+	http://risis.eu/cordisH2020/resource/participant_998501123.. http://risis.eu/cordisH2020/resource/www.sjtu.edu.cn........ 
+	http://risis.eu/cordisH2020/resource/participant_998501123.. SHANGHAI JIAO TONG UNIVERSITY............................... 
+	http://risis.eu/orgref_20170703/resource/33708475........... http://en.wikipedia.org/wiki?curid=33708475................. 
+	http://risis.eu/orgref_20170703/resource/33708475........... http://www.wikidata.org/wiki/Q525169........................ 
+	http://risis.eu/orgref_20170703/resource/33708475........... http://www.sjtu.edu.cn...................................... 
+	http://risis.eu/orgref_20170703/resource/33708475........... Shanghai Jiao Tong University............................... 
+	http://risis.eu/leidenRanking_2015/resource/1138............ Shanghai Jiao Tong University............................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_998501123', '1:grid.16821.3c'), ('3:33708475', '1:grid.16821.3c'), ('3:33708475', '2:participant_998501123'), ('4:1138', '1:grid.16821.3c'), ('4:1138', '2:participant_998501123'), ('4:1138', '3:33708475')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

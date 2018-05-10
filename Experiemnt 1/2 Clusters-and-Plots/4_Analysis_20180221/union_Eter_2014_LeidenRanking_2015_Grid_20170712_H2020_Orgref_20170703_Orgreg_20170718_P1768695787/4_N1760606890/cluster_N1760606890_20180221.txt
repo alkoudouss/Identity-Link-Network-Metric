@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 14421 
+NAME    N1760606890
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.478414.a>
+	<http://www.grid.ac/institutes/grid.478423.e>
+	<http://www.grid.ac/institutes/grid.469729.7>
+	<http://www.grid.ac/institutes/grid.432399.6>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.469729.7.. http://www.grid.ac/institutes/grid.432399.6.. 0.875........................................ [American Society of Parasitologists] was compared to [American Society of Primatologists] 
+	http://www.grid.ac/institutes/grid.432399.6.. http://www.grid.ac/institutes/grid.469729.7.. 0.875........................................ [American Society of Parasitologists] was compared to [American Society of Primatologists] 
+	http://www.grid.ac/institutes/grid.478423.e.. http://www.grid.ac/institutes/grid.469729.7.. 0.838709677419............................... [American Society of Primatologists] was compared to [American Society of Mammalogists] 
+	http://www.grid.ac/institutes/grid.469729.7.. http://www.grid.ac/institutes/grid.478423.e.. 0.838709677419............................... [American Society of Primatologists] was compared to [American Society of Mammalogists] 
+	http://www.grid.ac/institutes/grid.478414.a.. http://www.grid.ac/institutes/grid.478423.e.. 0.862068965517............................... [American Society of Genealogists] was compared to [American Society of Mammalogists] 
+	http://www.grid.ac/institutes/grid.478423.e.. http://www.grid.ac/institutes/grid.478414.a.. 0.862068965517............................... [American Society of Genealogists] was compared to [American Society of Mammalogists] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.478414.a.. -71.183044................................... 
+	http://www.grid.ac/institutes/grid.478414.a.. 42.11596..................................... 
+	http://www.grid.ac/institutes/grid.478414.a.. http://fasg.org/............................. 
+	http://www.grid.ac/institutes/grid.478414.a.. American Society of Genealogists............. 
+	http://www.grid.ac/institutes/grid.478423.e.. -96.5897..................................... 
+	http://www.grid.ac/institutes/grid.478423.e.. 39.19934..................................... 
+	http://www.grid.ac/institutes/grid.478423.e.. http://www.mammalsociety.org/................ 
+	http://www.grid.ac/institutes/grid.478423.e.. American Society of Mammalogists............. 
+	http://www.grid.ac/institutes/grid.469729.7.. -76.92923.................................... 
+	http://www.grid.ac/institutes/grid.469729.7.. 38.970276.................................... 
+	http://www.grid.ac/institutes/grid.469729.7.. https://www.asp.org/index.cfm................ 
+	http://www.grid.ac/institutes/grid.469729.7.. American Society of Primatologists........... 
+	http://www.grid.ac/institutes/grid.432399.6.. -95.24132.................................... 
+	http://www.grid.ac/institutes/grid.432399.6.. 38.972134.................................... 
+	http://www.grid.ac/institutes/grid.432399.6.. http://amsocparasit.org/..................... 
+	http://www.grid.ac/institutes/grid.432399.6.. American Society of Parasitologists.......... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.478423.e', '1:grid.478414.a'), ('3:grid.469729.7', '2:grid.478423.e'), ('4:grid.432399.6', '3:grid.469729.7')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

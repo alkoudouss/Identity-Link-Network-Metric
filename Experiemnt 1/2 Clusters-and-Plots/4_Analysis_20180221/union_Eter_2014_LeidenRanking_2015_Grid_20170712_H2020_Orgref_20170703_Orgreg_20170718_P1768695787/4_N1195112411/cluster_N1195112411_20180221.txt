@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 10691 
+NAME    N1195112411
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.4691.a>
+	<http://risis.eu/leidenRanking_2015/resource/435>
+	<http://risis.eu/orgreg_20170718/resource/IT0045>
+	<http://risis.eu/orgref_20170703/resource/4932663>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.4691.a......... http://risis.eu/orgref_20170703/resource/4932663.. 1................................................. [University of Naples Federico II] was compared to [University of Naples Federico II] 
+	http://risis.eu/orgref_20170703/resource/4932663.. http://www.grid.ac/institutes/grid.4691.a......... 1................................................. [University of Naples Federico II] was compared to [University of Naples Federico II] 
+	http://www.grid.ac/institutes/grid.4691.a......... http://risis.eu/leidenRanking_2015/resource/435... 1................................................. [University of Naples Federico II] was compared to [University of Naples Federico II] 
+	http://risis.eu/leidenRanking_2015/resource/435... http://www.grid.ac/institutes/grid.4691.a......... 1................................................. [University of Naples Federico II] was compared to [University of Naples Federico II] 
+	http://risis.eu/leidenRanking_2015/resource/435... http://risis.eu/orgref_20170703/resource/4932663.. 1................................................. [University of Naples Federico II] was compared to [University of Naples Federico II] 
+	http://risis.eu/orgref_20170703/resource/4932663.. http://risis.eu/leidenRanking_2015/resource/435... 1................................................. [University of Naples Federico II] was compared to [University of Naples Federico II] 
+	http://risis.eu/leidenRanking_2015/resource/435... http://risis.eu/orgreg_20170718/resource/IT0045... 1................................................. [University of Naples Federico II] was compared to [University of Naples Federico II] 
+	http://risis.eu/orgreg_20170718/resource/IT0045... http://risis.eu/leidenRanking_2015/resource/435... 1................................................. [University of Naples Federico II] was compared to [University of Naples Federico II] 
+	http://risis.eu/orgreg_20170718/resource/IT0045... http://risis.eu/orgref_20170703/resource/4932663.. 1................................................. [University of Naples Federico II] was compared to [University of Naples Federico II] 
+	http://risis.eu/orgref_20170703/resource/4932663.. http://risis.eu/orgreg_20170718/resource/IT0045... 1................................................. [University of Naples Federico II] was compared to [University of Naples Federico II] 
+	http://www.grid.ac/institutes/grid.4691.a......... http://risis.eu/orgreg_20170718/resource/IT0045... 1................................................. [University of Naples Federico II] was compared to [University of Naples Federico II] 
+	http://risis.eu/orgreg_20170718/resource/IT0045... http://www.grid.ac/institutes/grid.4691.a......... 1................................................. [University of Naples Federico II] was compared to [University of Naples Federico II] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.4691.a......... 14.256944......................................... 
+	http://www.grid.ac/institutes/grid.4691.a......... 40.84722.......................................... 
+	http://www.grid.ac/institutes/grid.4691.a......... http://www.unina.it/index.jsp..................... 
+	http://www.grid.ac/institutes/grid.4691.a......... University of Naples Federico II.................. 
+	http://risis.eu/leidenRanking_2015/resource/435... University of Naples Federico II.................. 
+	http://risis.eu/orgreg_20170718/resource/IT0045... 40.850624......................................... 
+	http://risis.eu/orgreg_20170718/resource/IT0045... 14.25849.......................................... 
+	http://risis.eu/orgreg_20170718/resource/IT0045... http://www.unina.it............................... 
+	http://risis.eu/orgreg_20170718/resource/IT0045... University of Naples Federico II.................. 
+	http://risis.eu/orgref_20170703/resource/4932663.. http://en.wikipedia.org/wiki?curid=4932663........ 
+	http://risis.eu/orgref_20170703/resource/4932663.. http://www.wikidata.org/wiki/Q691851.............. 
+	http://risis.eu/orgref_20170703/resource/4932663.. http://www.unina.it............................... 
+	http://risis.eu/orgref_20170703/resource/4932663.. University of Naples Federico II.................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:435', '1:grid.4691.a'), ('2:435', '3:IT0045'), ('2:435', '4:4932663'), ('3:IT0045', '1:grid.4691.a'), ('3:IT0045', '4:4932663'), ('4:4932663', '1:grid.4691.a')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

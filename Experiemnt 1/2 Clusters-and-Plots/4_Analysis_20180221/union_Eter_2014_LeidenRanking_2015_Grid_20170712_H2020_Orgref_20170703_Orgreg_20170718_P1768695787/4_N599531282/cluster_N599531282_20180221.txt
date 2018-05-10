@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 3632 
+NAME    N599531282
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/18920152>
+	<http://risis.eu/orgref_20170703/resource/31940571>
+	<http://risis.eu/orgref_20170703/resource/26285568>
+	<http://risis.eu/cordisH2020/resource/participant_949868524>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/26285568........... http://risis.eu/cordisH2020/resource/participant_949868524.. 1........................................................... [Ministry of Tourism (Croatia)] was compared to [Ministry of Tourism] 
+	http://risis.eu/cordisH2020/resource/participant_949868524.. http://risis.eu/orgref_20170703/resource/26285568........... 1........................................................... [Ministry of Tourism (Croatia)] was compared to [Ministry of Tourism] 
+	http://risis.eu/orgref_20170703/resource/31940571........... http://risis.eu/cordisH2020/resource/participant_949868524.. 1........................................................... [Ministry of Tourism (Ghana)] was compared to [Ministry of Tourism] 
+	http://risis.eu/cordisH2020/resource/participant_949868524.. http://risis.eu/orgref_20170703/resource/31940571........... 1........................................................... [Ministry of Tourism (Ghana)] was compared to [Ministry of Tourism] 
+	http://risis.eu/orgref_20170703/resource/18920152........... http://risis.eu/cordisH2020/resource/participant_949868524.. 1........................................................... [Ministry of Tourism (Lebanon)] was compared to [Ministry of Tourism] 
+	http://risis.eu/cordisH2020/resource/participant_949868524.. http://risis.eu/orgref_20170703/resource/18920152........... 1........................................................... [Ministry of Tourism (Lebanon)] was compared to [Ministry of Tourism] 
+	http://risis.eu/orgref_20170703/resource/31940571........... http://risis.eu/orgref_20170703/resource/26285568........... 1........................................................... [Ministry of Tourism (Croatia)] was compared to [Ministry of Tourism (Ghana)] 
+	http://risis.eu/orgref_20170703/resource/26285568........... http://risis.eu/orgref_20170703/resource/31940571........... 1........................................................... [Ministry of Tourism (Croatia)] was compared to [Ministry of Tourism (Ghana)] 
+	http://risis.eu/orgref_20170703/resource/18920152........... http://risis.eu/orgref_20170703/resource/26285568........... 1........................................................... [Ministry of Tourism (Lebanon)] was compared to [Ministry of Tourism (Croatia)] 
+	http://risis.eu/orgref_20170703/resource/26285568........... http://risis.eu/orgref_20170703/resource/18920152........... 1........................................................... [Ministry of Tourism (Lebanon)] was compared to [Ministry of Tourism (Croatia)] 
+	http://risis.eu/orgref_20170703/resource/18920152........... http://risis.eu/orgref_20170703/resource/31940571........... 1........................................................... [Ministry of Tourism (Lebanon)] was compared to [Ministry of Tourism (Ghana)] 
+	http://risis.eu/orgref_20170703/resource/31940571........... http://risis.eu/orgref_20170703/resource/18920152........... 1........................................................... [Ministry of Tourism (Lebanon)] was compared to [Ministry of Tourism (Ghana)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/18920152........... http://en.wikipedia.org/wiki?curid=18920152................. 
+	http://risis.eu/orgref_20170703/resource/18920152........... http://www.wikidata.org/wiki/Q6867577....................... 
+	http://risis.eu/orgref_20170703/resource/18920152........... http://www.mot.gov.lb....................................... 
+	http://risis.eu/orgref_20170703/resource/18920152........... Ministry of Tourism (Lebanon)............................... 
+	http://risis.eu/orgref_20170703/resource/31940571........... http://en.wikipedia.org/wiki?curid=31940571................. 
+	http://risis.eu/orgref_20170703/resource/31940571........... http://www.wikidata.org/wiki/Q4294771....................... 
+	http://risis.eu/orgref_20170703/resource/31940571........... http://www.ghana.travel..................................... 
+	http://risis.eu/orgref_20170703/resource/31940571........... Ministry of Tourism (Ghana)................................. 
+	http://risis.eu/orgref_20170703/resource/26285568........... http://en.wikipedia.org/wiki?curid=26285568................. 
+	http://risis.eu/orgref_20170703/resource/26285568........... http://www.wikidata.org/wiki/Q3443844....................... 
+	http://risis.eu/orgref_20170703/resource/26285568........... http://www.mint.hr.......................................... 
+	http://risis.eu/orgref_20170703/resource/26285568........... Ministry of Tourism (Croatia)............................... 
+	http://risis.eu/cordisH2020/resource/participant_949868524.. Ministry of Tourism......................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:31940571', '1:18920152'), ('3:26285568', '1:18920152'), ('3:26285568', '2:31940571'), ('4:participant_949868524', '1:18920152'), ('4:participant_949868524', '2:31940571'), ('4:participant_949868524', '3:26285568')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,57 @@
+SIZE    3   
+CLUSTER 1298 
+NAME    N1313784746
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/UK0069>
+	<http://www.grid.ac/institutes/grid.146189.3>
+	<http://www.grid.ac/institutes/grid.10025.36>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/UK0069.... http://www.grid.ac/institutes/grid.10025.36.. 1............................................ [university liverpool] was compared to [university liverpool] 
+	http://risis.eu/eter_2014/resource/UK0069.... http://www.grid.ac/institutes/grid.10025.36.. 1............................................ [slovenian academy sciences arts] was compared to [slovenian academy sciences arts] 
+	http://risis.eu/eter_2014/resource/UK0069.... http://www.grid.ac/institutes/grid.146189.3.. 0.8.......................................... [university liverpool] was compared to [liverpool hope university] 
+	http://www.grid.ac/institutes/grid.146189.3.. http://risis.eu/eter_2014/resource/UK0069.... 0.8.......................................... [university liverpool] was compared to [liverpool hope university] 
+	http://www.grid.ac/institutes/grid.10025.36.. http://risis.eu/eter_2014/resource/UK0069.... 1............................................ [university liverpool] was compared to [university liverpool] 
+	http://www.grid.ac/institutes/grid.10025.36.. http://risis.eu/eter_2014/resource/UK0069.... 1............................................ [slovenian academy sciences arts] was compared to [slovenian academy sciences arts] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/UK0069.... 53,40577..................................... 
+	http://risis.eu/eter_2014/resource/UK0069.... -2,966589.................................... 
+	http://risis.eu/eter_2014/resource/UK0069.... http://www.liv.ac.uk/........................ 
+	http://risis.eu/eter_2014/resource/UK0069.... a............................................ 
+	http://risis.eu/eter_2014/resource/UK0069.... The University of Liverpool.................. 
+	http://www.grid.ac/institutes/grid.146189.3.. -2.967894.................................... 
+	http://www.grid.ac/institutes/grid.146189.3.. 53.413033.................................... 
+	http://www.grid.ac/institutes/grid.146189.3.. http://www.hope.ac.uk/....................... 
+	http://www.grid.ac/institutes/grid.146189.3.. Liverpool Hope University.................... 
+	http://www.grid.ac/institutes/grid.10025.36.. -2.965604.................................... 
+	http://www.grid.ac/institutes/grid.10025.36.. 53.406116.................................... 
+	http://www.grid.ac/institutes/grid.10025.36.. http://www.liv.ac.uk/........................ 
+	http://www.grid.ac/institutes/grid.10025.36.. University of Liverpool...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('P842133051-UK0069', 'N758014129-grid.10025.36'), ('P842133051-UK0069', 'N1313784746-grid.146189.3')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

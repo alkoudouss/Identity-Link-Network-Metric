@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 13188 
+NAME    N1239195645
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.461221.2>
+	<http://risis.eu/orgref_20170703/resource/22717837>
+	<http://www.grid.ac/institutes/grid.461355.0>
+	<http://risis.eu/orgref_20170703/resource/25618117>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.461221.2........ http://risis.eu/orgref_20170703/resource/22717837.. 1.................................................. [Mbale Hospital] was compared to [Mbale Hospital].. 
+	http://risis.eu/orgref_20170703/resource/22717837.. http://www.grid.ac/institutes/grid.461221.2........ 1.................................................. [Mbale Hospital] was compared to [Mbale Hospital].. 
+	http://www.grid.ac/institutes/grid.461355.0........ http://risis.eu/orgref_20170703/resource/25618117.. 1.................................................. [Kabale Hospital] was compared to [Kabale Hospital] 
+	http://risis.eu/orgref_20170703/resource/25618117.. http://www.grid.ac/institutes/grid.461355.0........ 1.................................................. [Kabale Hospital] was compared to [Kabale Hospital] 
+	http://risis.eu/orgref_20170703/resource/22717837.. http://risis.eu/orgref_20170703/resource/25618117.. 0.866666666667..................................... [Mbale Hospital] was compared to [Kabale Hospital]. 
+	http://risis.eu/orgref_20170703/resource/25618117.. http://risis.eu/orgref_20170703/resource/22717837.. 0.866666666667..................................... [Mbale Hospital] was compared to [Kabale Hospital]. 
+	http://www.grid.ac/institutes/grid.461221.2........ http://www.grid.ac/institutes/grid.461355.0........ 0.866666666667..................................... [Mbale Hospital] was compared to [Kabale Hospital]. 
+	http://www.grid.ac/institutes/grid.461355.0........ http://www.grid.ac/institutes/grid.461221.2........ 0.866666666667..................................... [Mbale Hospital] was compared to [Kabale Hospital]. 
+	http://www.grid.ac/institutes/grid.461221.2........ http://risis.eu/orgref_20170703/resource/25618117.. 0.866666666667..................................... [Mbale Hospital] was compared to [Kabale Hospital]. 
+	http://risis.eu/orgref_20170703/resource/25618117.. http://www.grid.ac/institutes/grid.461221.2........ 0.866666666667..................................... [Mbale Hospital] was compared to [Kabale Hospital]. 
+	http://risis.eu/orgref_20170703/resource/22717837.. http://www.grid.ac/institutes/grid.461355.0........ 0.866666666667..................................... [Kabale Hospital] was compared to [Mbale Hospital]. 
+	http://www.grid.ac/institutes/grid.461355.0........ http://risis.eu/orgref_20170703/resource/22717837.. 0.866666666667..................................... [Kabale Hospital] was compared to [Mbale Hospital]. 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.461221.2........ 34.176212.......................................... 
+	http://www.grid.ac/institutes/grid.461221.2........ 1.076656........................................... 
+	http://www.grid.ac/institutes/grid.461221.2........ Mbale Regional Referral Hospital................... 
+	http://www.grid.ac/institutes/grid.461221.2........ Mbale Hospital..................................... 
+	http://risis.eu/orgref_20170703/resource/22717837.. http://en.wikipedia.org/wiki?curid=22717837........ 
+	http://risis.eu/orgref_20170703/resource/22717837.. http://www.wikidata.org/wiki/Q6799592.............. 
+	http://risis.eu/orgref_20170703/resource/22717837.. Mbale Hospital..................................... 
+	http://www.grid.ac/institutes/grid.461355.0........ 29.989166.......................................... 
+	http://www.grid.ac/institutes/grid.461355.0........ -1.251111.......................................... 
+	http://www.grid.ac/institutes/grid.461355.0........ Kabale Regional Referral Hospital.................. 
+	http://www.grid.ac/institutes/grid.461355.0........ Kabale Hospital.................................... 
+	http://risis.eu/orgref_20170703/resource/25618117.. http://en.wikipedia.org/wiki?curid=25618117........ 
+	http://risis.eu/orgref_20170703/resource/25618117.. http://www.wikidata.org/wiki/Q6343815.............. 
+	http://risis.eu/orgref_20170703/resource/25618117.. Kabale Hospital.................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:22717837', '1:grid.461221.2'), ('2:22717837', '3:grid.461355.0'), ('3:grid.461355.0', '1:grid.461221.2'), ('4:25618117', '1:grid.461221.2'), ('4:25618117', '2:22717837'), ('4:25618117', '3:grid.461355.0')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 4243 
+NAME    N1748594902
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/15287343>
+	<http://risis.eu/cordisH2020/resource/participant_999653871>
+	<http://risis.eu/leidenRanking_2015/resource/16183>
+	<http://www.grid.ac/institutes/grid.36303.35>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/15287343........... http://www.grid.ac/institutes/grid.36303.35................. 1........................................................... [Electronics and Telecommunications Research Institute] was compared to [Electronics and Telecommunications Research Institute] 
+	http://www.grid.ac/institutes/grid.36303.35................. http://risis.eu/orgref_20170703/resource/15287343........... 1........................................................... [Electronics and Telecommunications Research Institute] was compared to [Electronics and Telecommunications Research Institute] 
+	http://risis.eu/leidenRanking_2015/resource/16183........... http://www.grid.ac/institutes/grid.36303.35................. 1........................................................... [Electronics and Telecommunications Research Institute] was compared to [Electronics and Telecommunications Research Institute] 
+	http://www.grid.ac/institutes/grid.36303.35................. http://risis.eu/leidenRanking_2015/resource/16183........... 1........................................................... [Electronics and Telecommunications Research Institute] was compared to [Electronics and Telecommunications Research Institute] 
+	http://risis.eu/cordisH2020/resource/participant_999653871.. http://www.grid.ac/institutes/grid.36303.35................. 1........................................................... [Electronics and Telecommunications Research Institute] was compared to [ELECTRONICS AND TELECOMMUNICATIONS RESEARCH INSTITUTE] 
+	http://www.grid.ac/institutes/grid.36303.35................. http://risis.eu/cordisH2020/resource/participant_999653871.. 1........................................................... [Electronics and Telecommunications Research Institute] was compared to [ELECTRONICS AND TELECOMMUNICATIONS RESEARCH INSTITUTE] 
+	http://risis.eu/orgref_20170703/resource/15287343........... http://risis.eu/leidenRanking_2015/resource/16183........... 1........................................................... [Electronics and Telecommunications Research Institute] was compared to [Electronics and Telecommunications Research Institute] 
+	http://risis.eu/leidenRanking_2015/resource/16183........... http://risis.eu/orgref_20170703/resource/15287343........... 1........................................................... [Electronics and Telecommunications Research Institute] was compared to [Electronics and Telecommunications Research Institute] 
+	http://risis.eu/orgref_20170703/resource/15287343........... http://risis.eu/cordisH2020/resource/participant_999653871.. 1........................................................... [Electronics and Telecommunications Research Institute] was compared to [ELECTRONICS AND TELECOMMUNICATIONS RESEARCH INSTITUTE] 
+	http://risis.eu/cordisH2020/resource/participant_999653871.. http://risis.eu/orgref_20170703/resource/15287343........... 1........................................................... [Electronics and Telecommunications Research Institute] was compared to [ELECTRONICS AND TELECOMMUNICATIONS RESEARCH INSTITUTE] 
+	http://risis.eu/cordisH2020/resource/participant_999653871.. http://risis.eu/leidenRanking_2015/resource/16183........... 1........................................................... [ELECTRONICS AND TELECOMMUNICATIONS RESEARCH INSTITUTE] was compared to [Electronics and Telecommunications Research Institute] 
+	http://risis.eu/leidenRanking_2015/resource/16183........... http://risis.eu/cordisH2020/resource/participant_999653871.. 1........................................................... [ELECTRONICS AND TELECOMMUNICATIONS RESEARCH INSTITUTE] was compared to [Electronics and Telecommunications Research Institute] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/15287343........... http://en.wikipedia.org/wiki?curid=15287343................. 
+	http://risis.eu/orgref_20170703/resource/15287343........... http://www.wikidata.org/wiki/Q623863........................ 
+	http://risis.eu/orgref_20170703/resource/15287343........... https://www.etri.re.kr/eng/main/main.etri................... 
+	http://risis.eu/orgref_20170703/resource/15287343........... Electronics and Telecommunications Research Institute....... 
+	http://risis.eu/cordisH2020/resource/participant_999653871.. ELECTRONICS AND TELECOMMUNICATIONS RESEARCH INSTITUTE....... 
+	http://risis.eu/leidenRanking_2015/resource/16183........... Electronics and Telecommunications Research Institute....... 
+	http://www.grid.ac/institutes/grid.36303.35................. 127.33386................................................... 
+	http://www.grid.ac/institutes/grid.36303.35................. 36.37946.................................................... 
+	http://www.grid.ac/institutes/grid.36303.35................. https://www.etri.re.kr/eng/main/main.etri................... 
+	http://www.grid.ac/institutes/grid.36303.35................. Electronics and Telecommunications Research Institute....... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_999653871', '1:15287343'), ('2:participant_999653871', '4:grid.36303.35'), ('3:16183', '1:15287343'), ('3:16183', '2:participant_999653871'), ('3:16183', '4:grid.36303.35'), ('4:grid.36303.35', '1:15287343')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

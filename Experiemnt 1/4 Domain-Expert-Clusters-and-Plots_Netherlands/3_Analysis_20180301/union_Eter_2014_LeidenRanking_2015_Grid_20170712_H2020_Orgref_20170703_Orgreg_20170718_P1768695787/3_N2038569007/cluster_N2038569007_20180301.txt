@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 11175 
+NAME    N2038569007
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.457470.5>
+	<http://www.grid.ac/institutes/grid.482410.b>
+	<http://www.grid.ac/institutes/grid.423948.0>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.457470.5.. http://www.grid.ac/institutes/grid.482410.b.. 1............................................ [Barco (Norway)] was compared to [Barco (Netherlands)] 
+	http://www.grid.ac/institutes/grid.457470.5.. http://www.grid.ac/institutes/grid.423948.0.. 1............................................ [Barco (Belgium)] was compared to [Barco (Norway)] 
+	http://www.grid.ac/institutes/grid.482410.b.. http://www.grid.ac/institutes/grid.423948.0.. 1............................................ [Barco (Belgium)] was compared to [Barco (Netherlands)] 
+	http://www.grid.ac/institutes/grid.482410.b.. http://www.grid.ac/institutes/grid.457470.5.. 1............................................ [Barco (Norway)] was compared to [Barco (Netherlands)] 
+	http://www.grid.ac/institutes/grid.423948.0.. http://www.grid.ac/institutes/grid.457470.5.. 1............................................ [Barco (Belgium)] was compared to [Barco (Norway)] 
+	http://www.grid.ac/institutes/grid.423948.0.. http://www.grid.ac/institutes/grid.482410.b.. 1............................................ [Barco (Belgium)] was compared to [Barco (Netherlands)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.457470.5.. 10.721063.................................... 
+	http://www.grid.ac/institutes/grid.457470.5.. 59.92617..................................... 
+	http://www.grid.ac/institutes/grid.457470.5.. http://www.barco.com/en...................... 
+	http://www.grid.ac/institutes/grid.457470.5.. Barco (Norway)............................... 
+	http://www.grid.ac/institutes/grid.482410.b.. 5.622362..................................... 
+	http://www.grid.ac/institutes/grid.482410.b.. 51.477688.................................... 
+	http://www.grid.ac/institutes/grid.482410.b.. https://www.barco.com/en/.................... 
+	http://www.grid.ac/institutes/grid.482410.b.. Barco (Netherlands).......................... 
+	http://www.grid.ac/institutes/grid.423948.0.. 3.27635...................................... 
+	http://www.grid.ac/institutes/grid.423948.0.. 50.79721..................................... 
+	http://www.grid.ac/institutes/grid.423948.0.. https://www.barco.com/en/.................... 
+	http://www.grid.ac/institutes/grid.423948.0.. Barco (Belgium).............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('P502852392-grid.457470.5', 'N2038569007-grid.482410.b'), ('P1144882814-grid.423948.0', 'N2038569007-grid.482410.b'), ('P1144882814-grid.423948.0', 'P502852392-grid.457470.5')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

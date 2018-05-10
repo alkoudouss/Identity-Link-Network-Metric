@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 17039 
+NAME    N2091033082
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.469531.c>
+	<http://www.grid.ac/institutes/grid.469580.6>
+	<http://www.grid.ac/institutes/grid.469603.e>
+	<http://www.grid.ac/institutes/grid.469608.5>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.469531.c.. http://www.grid.ac/institutes/grid.469580.6.. 0.918918918919............................... [Huzhou Vocational and Technical College] was compared to [Hangzhou Vocational and Technical College] 
+	http://www.grid.ac/institutes/grid.469580.6.. http://www.grid.ac/institutes/grid.469531.c.. 0.918918918919............................... [Huzhou Vocational and Technical College] was compared to [Hangzhou Vocational and Technical College] 
+	http://www.grid.ac/institutes/grid.469580.6.. http://www.grid.ac/institutes/grid.469603.e.. 0.918918918919............................... [Hangzhou Vocational and Technical College] was compared to [Taizhou Vocational and Technical College] 
+	http://www.grid.ac/institutes/grid.469603.e.. http://www.grid.ac/institutes/grid.469580.6.. 0.918918918919............................... [Hangzhou Vocational and Technical College] was compared to [Taizhou Vocational and Technical College] 
+	http://www.grid.ac/institutes/grid.469580.6.. http://www.grid.ac/institutes/grid.469608.5.. 0.918918918919............................... [Hangzhou Vocational and Technical College] was compared to [Wenzhou Vocational and Technical College] 
+	http://www.grid.ac/institutes/grid.469608.5.. http://www.grid.ac/institutes/grid.469580.6.. 0.918918918919............................... [Hangzhou Vocational and Technical College] was compared to [Wenzhou Vocational and Technical College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.469531.c.. 120.128426................................... 
+	http://www.grid.ac/institutes/grid.469531.c.. 30.875534.................................... 
+	http://www.grid.ac/institutes/grid.469531.c.. http://english.hzvtc.net.cn/................. 
+	http://www.grid.ac/institutes/grid.469531.c.. Huzhou Vocational and Technical College...... 
+	http://www.grid.ac/institutes/grid.469580.6.. 120.35395.................................... 
+	http://www.grid.ac/institutes/grid.469580.6.. 30.320642.................................... 
+	http://www.grid.ac/institutes/grid.469580.6.. http://www.hzvtc.edu.cn/..................... 
+	http://www.grid.ac/institutes/grid.469580.6.. Hangzhou Vocational and Technical College.... 
+	http://www.grid.ac/institutes/grid.469603.e.. 121.40168.................................... 
+	http://www.grid.ac/institutes/grid.469603.e.. 28.652351.................................... 
+	http://www.grid.ac/institutes/grid.469603.e.. http://www.tzvtc.com/........................ 
+	http://www.grid.ac/institutes/grid.469603.e.. Taizhou Vocational and Technical College..... 
+	http://www.grid.ac/institutes/grid.469608.5.. 120.70011.................................... 
+	http://www.grid.ac/institutes/grid.469608.5.. 27.920689.................................... 
+	http://www.grid.ac/institutes/grid.469608.5.. http://www.wzvtc.cn/......................... 
+	http://www.grid.ac/institutes/grid.469608.5.. Wenzhou Vocational and Technical College..... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.469580.6', '1:grid.469531.c'), ('3:grid.469603.e', '2:grid.469580.6'), ('4:grid.469608.5', '2:grid.469580.6')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 2
+	QUALITY                         : 0.667
+	QUALITY USED                    : 0.667
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 0.5 QUALITY 0.667 QUALITY USED 0.667
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 0.5 QUALITY 0.667 QUALITY USED 0.667

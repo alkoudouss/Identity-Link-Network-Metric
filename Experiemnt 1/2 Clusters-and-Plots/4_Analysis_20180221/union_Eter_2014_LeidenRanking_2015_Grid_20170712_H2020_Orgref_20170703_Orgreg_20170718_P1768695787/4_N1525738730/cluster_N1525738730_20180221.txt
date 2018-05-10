@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 8199 
+NAME    N1525738730
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.6142.1>
+	<http://risis.eu/cordisH2020/resource/participant_999978045>
+	<http://risis.eu/eter_2014/resource/IE0003>
+	<http://risis.eu/leidenRanking_2015/resource/402>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.6142.1................... http://risis.eu/leidenRanking_2015/resource/402............. 1........................................................... [National University of Ireland, Galway] was compared to [National University of Ireland, Galway] 
+	http://risis.eu/leidenRanking_2015/resource/402............. http://www.grid.ac/institutes/grid.6142.1................... 1........................................................... [National University of Ireland, Galway] was compared to [National University of Ireland, Galway] 
+	http://www.grid.ac/institutes/grid.6142.1................... http://risis.eu/eter_2014/resource/IE0003................... 1........................................................... [National University of Ireland, Galway] was compared to [National University of Ireland, Galway] 
+	http://risis.eu/eter_2014/resource/IE0003................... http://www.grid.ac/institutes/grid.6142.1................... 1........................................................... [National University of Ireland, Galway] was compared to [National University of Ireland, Galway] 
+	http://www.grid.ac/institutes/grid.6142.1................... http://risis.eu/cordisH2020/resource/participant_999978045.. 1........................................................... [National University of Ireland, Galway] was compared to [NATIONAL UNIVERSITY OF IRELAND, GALWAY] 
+	http://risis.eu/cordisH2020/resource/participant_999978045.. http://www.grid.ac/institutes/grid.6142.1................... 1........................................................... [National University of Ireland, Galway] was compared to [NATIONAL UNIVERSITY OF IRELAND, GALWAY] 
+	http://risis.eu/cordisH2020/resource/participant_999978045.. http://risis.eu/leidenRanking_2015/resource/402............. 1........................................................... [NATIONAL UNIVERSITY OF IRELAND, GALWAY] was compared to [National University of Ireland, Galway] 
+	http://risis.eu/leidenRanking_2015/resource/402............. http://risis.eu/cordisH2020/resource/participant_999978045.. 1........................................................... [NATIONAL UNIVERSITY OF IRELAND, GALWAY] was compared to [National University of Ireland, Galway] 
+	http://risis.eu/cordisH2020/resource/participant_999978045.. http://risis.eu/eter_2014/resource/IE0003................... 1........................................................... [NATIONAL UNIVERSITY OF IRELAND, GALWAY] was compared to [National University of Ireland, Galway] 
+	http://risis.eu/eter_2014/resource/IE0003................... http://risis.eu/cordisH2020/resource/participant_999978045.. 1........................................................... [NATIONAL UNIVERSITY OF IRELAND, GALWAY] was compared to [National University of Ireland, Galway] 
+	http://risis.eu/eter_2014/resource/IE0003................... http://risis.eu/leidenRanking_2015/resource/402............. 1........................................................... [National University of Ireland, Galway] was compared to [National University of Ireland, Galway] 
+	http://risis.eu/leidenRanking_2015/resource/402............. http://risis.eu/eter_2014/resource/IE0003................... 1........................................................... [National University of Ireland, Galway] was compared to [National University of Ireland, Galway] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.6142.1................... -9.06186.................................................... 
+	http://www.grid.ac/institutes/grid.6142.1................... 53.277782................................................... 
+	http://www.grid.ac/institutes/grid.6142.1................... http://www.nuigalway.ie/.................................... 
+	http://www.grid.ac/institutes/grid.6142.1................... Queen’s College, Galway................................... 
+	http://www.grid.ac/institutes/grid.6142.1................... University College, Galway.................................. 
+	http://www.grid.ac/institutes/grid.6142.1................... NUI Galway.................................................. 
+	http://www.grid.ac/institutes/grid.6142.1................... Ollscoil na hÉireann, Gaillimh............................. 
+	http://www.grid.ac/institutes/grid.6142.1................... National University of Ireland, Galway...................... 
+	http://risis.eu/cordisH2020/resource/participant_999978045.. http://risis.eu/cordisH2020/resource/www.nuigalway.ie....... 
+	http://risis.eu/cordisH2020/resource/participant_999978045.. NATIONAL UNIVERSITY OF IRELAND, GALWAY...................... 
+	http://risis.eu/eter_2014/resource/IE0003................... 53,2705588.................................................. 
+	http://risis.eu/eter_2014/resource/IE0003................... -9,0566677.................................................. 
+	http://risis.eu/eter_2014/resource/IE0003................... http://www.nuigalway.ie..................................... 
+	http://risis.eu/eter_2014/resource/IE0003................... a........................................................... 
+	http://risis.eu/eter_2014/resource/IE0003................... National University of Ireland, Galway...................... 
+	http://risis.eu/leidenRanking_2015/resource/402............. National University of Ireland, Galway...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_999978045', '1:grid.6142.1'), ('3:IE0003', '1:grid.6142.1'), ('3:IE0003', '2:participant_999978045'), ('4:402', '1:grid.6142.1'), ('4:402', '2:participant_999978045'), ('4:402', '3:IE0003')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

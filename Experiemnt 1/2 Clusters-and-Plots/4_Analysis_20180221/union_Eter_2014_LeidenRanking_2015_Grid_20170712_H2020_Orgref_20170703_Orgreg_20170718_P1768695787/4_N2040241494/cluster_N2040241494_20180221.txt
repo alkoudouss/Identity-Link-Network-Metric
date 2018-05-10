@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 7004 
+NAME    N2040241494
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.430797.e>
+	<http://risis.eu/orgref_20170703/resource/2520885>
+	<http://www.grid.ac/institutes/grid.467196.b>
+	<http://www.grid.ac/institutes/grid.461908.2>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.467196.b....... http://www.grid.ac/institutes/grid.461908.2....... 0.964285714286.................................... [Institute of Molecular Sciences] was compared to [Institute for Molecular Science] 
+	http://www.grid.ac/institutes/grid.461908.2....... http://www.grid.ac/institutes/grid.467196.b....... 0.964285714286.................................... [Institute of Molecular Sciences] was compared to [Institute for Molecular Science] 
+	http://www.grid.ac/institutes/grid.430797.e....... http://www.grid.ac/institutes/grid.461908.2....... 1................................................. [Molecular Sciences Institute] was compared to [Institute of Molecular Sciences] 
+	http://www.grid.ac/institutes/grid.461908.2....... http://www.grid.ac/institutes/grid.430797.e....... 1................................................. [Molecular Sciences Institute] was compared to [Institute of Molecular Sciences] 
+	http://www.grid.ac/institutes/grid.430797.e....... http://www.grid.ac/institutes/grid.467196.b....... 0.964285714286.................................... [Molecular Sciences Institute] was compared to [Institute for Molecular Science] 
+	http://www.grid.ac/institutes/grid.467196.b....... http://www.grid.ac/institutes/grid.430797.e....... 0.964285714286.................................... [Molecular Sciences Institute] was compared to [Institute for Molecular Science] 
+	http://risis.eu/orgref_20170703/resource/2520885.. http://www.grid.ac/institutes/grid.467196.b....... 0.964285714286.................................... [Institute for Molecular Science] was compared to [Molecular Sciences Institute] 
+	http://www.grid.ac/institutes/grid.467196.b....... http://risis.eu/orgref_20170703/resource/2520885.. 0.964285714286.................................... [Institute for Molecular Science] was compared to [Molecular Sciences Institute] 
+	http://risis.eu/orgref_20170703/resource/2520885.. http://www.grid.ac/institutes/grid.461908.2....... 1................................................. [Institute of Molecular Sciences] was compared to [Molecular Sciences Institute] 
+	http://www.grid.ac/institutes/grid.461908.2....... http://risis.eu/orgref_20170703/resource/2520885.. 1................................................. [Institute of Molecular Sciences] was compared to [Molecular Sciences Institute] 
+	http://www.grid.ac/institutes/grid.430797.e....... http://risis.eu/orgref_20170703/resource/2520885.. 1................................................. [Molecular Sciences Institute] was compared to [Molecular Sciences Institute] 
+	http://risis.eu/orgref_20170703/resource/2520885.. http://www.grid.ac/institutes/grid.430797.e....... 1................................................. [Molecular Sciences Institute] was compared to [Molecular Sciences Institute] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.430797.e....... -122.268585....................................... 
+	http://www.grid.ac/institutes/grid.430797.e....... 37.87092.......................................... 
+	http://www.grid.ac/institutes/grid.430797.e....... http://www.molsci.org/............................ 
+	http://www.grid.ac/institutes/grid.430797.e....... Molecular Sciences Institute...................... 
+	http://risis.eu/orgref_20170703/resource/2520885.. http://en.wikipedia.org/wiki?curid=2520885........ 
+	http://risis.eu/orgref_20170703/resource/2520885.. http://www.wikidata.org/wiki/Q6895980............. 
+	http://risis.eu/orgref_20170703/resource/2520885.. http://www.molsci.org............................. 
+	http://risis.eu/orgref_20170703/resource/2520885.. Molecular Sciences Institute...................... 
+	http://www.grid.ac/institutes/grid.467196.b....... 137.16525......................................... 
+	http://www.grid.ac/institutes/grid.467196.b....... 34.949734......................................... 
+	http://www.grid.ac/institutes/grid.467196.b....... https://www.ims.ac.jp/en/......................... 
+	http://www.grid.ac/institutes/grid.467196.b....... Institute for Molecular Science................... 
+	http://www.grid.ac/institutes/grid.461908.2....... -0.591468......................................... 
+	http://www.grid.ac/institutes/grid.461908.2....... 44.80885.......................................... 
+	http://www.grid.ac/institutes/grid.461908.2....... http://www.ism.u-bordeaux1.fr/?lang=en............ 
+	http://www.grid.ac/institutes/grid.461908.2....... Institute of Molecular Sciences................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:2520885', '1:grid.430797.e'), ('2:2520885', '4:grid.461908.2'), ('3:grid.467196.b', '1:grid.430797.e'), ('3:grid.467196.b', '2:2520885'), ('4:grid.461908.2', '1:grid.430797.e'), ('4:grid.461908.2', '3:grid.467196.b')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

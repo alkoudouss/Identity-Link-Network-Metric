@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 8982 
+NAME    N1948919983
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.416298.0>
+	<http://www.grid.ac/institutes/grid.461873.f>
+	<http://www.grid.ac/institutes/grid.416823.a>
+	<http://www.grid.ac/institutes/grid.416299.1>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.416298.0.. http://www.grid.ac/institutes/grid.416299.1.. 0.823529411765............................... [Nishida Hospital] was compared to [Nishijin Hospital] 
+	http://www.grid.ac/institutes/grid.416299.1.. http://www.grid.ac/institutes/grid.416298.0.. 0.823529411765............................... [Nishida Hospital] was compared to [Nishijin Hospital] 
+	http://www.grid.ac/institutes/grid.416298.0.. http://www.grid.ac/institutes/grid.461873.f.. 0.833333333333............................... [Nishida Hospital] was compared to [Nishikawa Hospital] 
+	http://www.grid.ac/institutes/grid.461873.f.. http://www.grid.ac/institutes/grid.416298.0.. 0.833333333333............................... [Nishida Hospital] was compared to [Nishikawa Hospital] 
+	http://www.grid.ac/institutes/grid.461873.f.. http://www.grid.ac/institutes/grid.416823.a.. 0.833333333333............................... [Tachikawa Hospital] was compared to [Nishikawa Hospital] 
+	http://www.grid.ac/institutes/grid.416823.a.. http://www.grid.ac/institutes/grid.461873.f.. 0.833333333333............................... [Tachikawa Hospital] was compared to [Nishikawa Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.416298.0.. 131.86404.................................... 
+	http://www.grid.ac/institutes/grid.416298.0.. 32.958794.................................... 
+	http://www.grid.ac/institutes/grid.416298.0.. http://www.nisida-med.jp/.................... 
+	http://www.grid.ac/institutes/grid.416298.0.. Nishida Hospital............................. 
+	http://www.grid.ac/institutes/grid.461873.f.. 132.06836.................................... 
+	http://www.grid.ac/institutes/grid.461873.f.. 34.90444..................................... 
+	http://www.grid.ac/institutes/grid.461873.f.. http://www.nishikawa-hospital.jp/............ 
+	http://www.grid.ac/institutes/grid.461873.f.. Nishikawa Hospital........................... 
+	http://www.grid.ac/institutes/grid.416823.a.. 139.42218.................................... 
+	http://www.grid.ac/institutes/grid.416823.a.. 35.693043.................................... 
+	http://www.grid.ac/institutes/grid.416823.a.. http://www.tachikawa-hosp.gr.jp/index.html... 
+	http://www.grid.ac/institutes/grid.416823.a.. Tachikawa Hospital........................... 
+	http://www.grid.ac/institutes/grid.416299.1.. 135.73909.................................... 
+	http://www.grid.ac/institutes/grid.416299.1.. 35.032787.................................... 
+	http://www.grid.ac/institutes/grid.416299.1.. http://www.nisijin.net/...................... 
+	http://www.grid.ac/institutes/grid.416299.1.. Nishijin Hospital............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.461873.f', '1:grid.416298.0'), ('3:grid.416823.a', '2:grid.461873.f'), ('4:grid.416299.1', '1:grid.416298.0')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

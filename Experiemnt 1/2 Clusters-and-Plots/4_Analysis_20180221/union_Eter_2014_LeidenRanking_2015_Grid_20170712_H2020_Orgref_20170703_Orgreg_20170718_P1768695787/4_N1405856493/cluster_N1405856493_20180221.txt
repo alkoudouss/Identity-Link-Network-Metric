@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 1110 
+NAME    N1405856493
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.421513.0>
+	<http://www.grid.ac/institutes/grid.476730.1>
+	<http://risis.eu/orgref_20170703/resource/12062883>
+	<http://www.grid.ac/institutes/grid.482334.a>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.421513.0........ http://www.grid.ac/institutes/grid.482334.a........ 1.................................................. [Mallinckrodt (United States)] was compared to [Mallinckrodt (Ireland)] 
+	http://www.grid.ac/institutes/grid.482334.a........ http://www.grid.ac/institutes/grid.421513.0........ 1.................................................. [Mallinckrodt (United States)] was compared to [Mallinckrodt (Ireland)] 
+	http://www.grid.ac/institutes/grid.421513.0........ http://www.grid.ac/institutes/grid.476730.1........ 1.................................................. [Mallinckrodt (United States)] was compared to [Mallinckrodt (Czech Republic)] 
+	http://www.grid.ac/institutes/grid.476730.1........ http://www.grid.ac/institutes/grid.421513.0........ 1.................................................. [Mallinckrodt (United States)] was compared to [Mallinckrodt (Czech Republic)] 
+	http://www.grid.ac/institutes/grid.476730.1........ http://www.grid.ac/institutes/grid.482334.a........ 1.................................................. [Mallinckrodt (Czech Republic)] was compared to [Mallinckrodt (Ireland)] 
+	http://www.grid.ac/institutes/grid.482334.a........ http://www.grid.ac/institutes/grid.476730.1........ 1.................................................. [Mallinckrodt (Czech Republic)] was compared to [Mallinckrodt (Ireland)] 
+	http://www.grid.ac/institutes/grid.421513.0........ http://risis.eu/orgref_20170703/resource/12062883.. 1.................................................. [Mallinckrodt (United States)] was compared to [Mallinckrodt] 
+	http://risis.eu/orgref_20170703/resource/12062883.. http://www.grid.ac/institutes/grid.421513.0........ 1.................................................. [Mallinckrodt (United States)] was compared to [Mallinckrodt] 
+	http://www.grid.ac/institutes/grid.476730.1........ http://risis.eu/orgref_20170703/resource/12062883.. 1.................................................. [Mallinckrodt (Czech Republic)] was compared to [Mallinckrodt] 
+	http://risis.eu/orgref_20170703/resource/12062883.. http://www.grid.ac/institutes/grid.476730.1........ 1.................................................. [Mallinckrodt (Czech Republic)] was compared to [Mallinckrodt] 
+	http://risis.eu/orgref_20170703/resource/12062883.. http://www.grid.ac/institutes/grid.482334.a........ 1.................................................. [Mallinckrodt (Ireland)] was compared to [Mallinckrodt] 
+	http://www.grid.ac/institutes/grid.482334.a........ http://risis.eu/orgref_20170703/resource/12062883.. 1.................................................. [Mallinckrodt (Ireland)] was compared to [Mallinckrodt] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.421513.0........ -90.38622.......................................... 
+	http://www.grid.ac/institutes/grid.421513.0........ 38.77503........................................... 
+	http://www.grid.ac/institutes/grid.421513.0........ http://www.mallinckrodt.com/....................... 
+	http://www.grid.ac/institutes/grid.421513.0........ Mallinckrodt (United States)....................... 
+	http://www.grid.ac/institutes/grid.476730.1........ 14.500381.......................................... 
+	http://www.grid.ac/institutes/grid.476730.1........ 50.1186............................................ 
+	http://www.grid.ac/institutes/grid.476730.1........ http://www.mallinckrodt.com/....................... 
+	http://www.grid.ac/institutes/grid.476730.1........ Mallinckrodt (Czech Republic)...................... 
+	http://risis.eu/orgref_20170703/resource/12062883.. http://en.wikipedia.org/wiki?curid=12062883........ 
+	http://risis.eu/orgref_20170703/resource/12062883.. http://www.wikidata.org/wiki/Q6744211.............. 
+	http://risis.eu/orgref_20170703/resource/12062883.. http://www.mallinckrodt.com........................ 
+	http://risis.eu/orgref_20170703/resource/12062883.. Mallinckrodt....................................... 
+	http://www.grid.ac/institutes/grid.482334.a........ -6.207148.......................................... 
+	http://www.grid.ac/institutes/grid.482334.a........ 53.277126.......................................... 
+	http://www.grid.ac/institutes/grid.482334.a........ http://www.mallinckrodt.com/....................... 
+	http://www.grid.ac/institutes/grid.482334.a........ Mallinckrodt (Ireland)............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.476730.1', '1:grid.421513.0'), ('3:12062883', '1:grid.421513.0'), ('3:12062883', '2:grid.476730.1'), ('3:12062883', '4:grid.482334.a'), ('4:grid.482334.a', '1:grid.421513.0'), ('4:grid.482334.a', '2:grid.476730.1')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

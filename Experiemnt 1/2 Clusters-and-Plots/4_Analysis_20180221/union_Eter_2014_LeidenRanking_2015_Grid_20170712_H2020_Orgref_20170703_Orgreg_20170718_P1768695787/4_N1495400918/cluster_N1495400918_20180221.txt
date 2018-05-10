@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 183 
+NAME    N1495400918
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.434191.a>
+	<http://risis.eu/orgref_20170703/resource/26245555>
+	<http://risis.eu/cordisH2020/resource/participant_968338488>
+	<http://risis.eu/eter_2014/resource/FR0080>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.434191.a................. http://risis.eu/orgref_20170703/resource/26245555........... 1........................................................... [École Nationale d'Ingénieurs de Saint-Etienne] was compared to [École nationale d'ingénieurs de Saint-Etienne] 
+	http://risis.eu/orgref_20170703/resource/26245555........... http://www.grid.ac/institutes/grid.434191.a................. 1........................................................... [École Nationale d'Ingénieurs de Saint-Etienne] was compared to [École nationale d'ingénieurs de Saint-Etienne] 
+	http://www.grid.ac/institutes/grid.434191.a................. http://risis.eu/eter_2014/resource/FR0080................... 1........................................................... [École Nationale d'Ingénieurs de Saint-Etienne] was compared to [École nationale d'ingénieurs de Saint-Étienne] 
+	http://risis.eu/eter_2014/resource/FR0080................... http://www.grid.ac/institutes/grid.434191.a................. 1........................................................... [École Nationale d'Ingénieurs de Saint-Etienne] was compared to [École nationale d'ingénieurs de Saint-Étienne] 
+	http://www.grid.ac/institutes/grid.434191.a................. http://risis.eu/cordisH2020/resource/participant_968338488.. 1........................................................... [École Nationale d'Ingénieurs de Saint-Etienne] was compared to [ECOLE NATIONALE D'INGENIEURS DE SAINT-ETIENNE] 
+	http://risis.eu/cordisH2020/resource/participant_968338488.. http://www.grid.ac/institutes/grid.434191.a................. 1........................................................... [École Nationale d'Ingénieurs de Saint-Etienne] was compared to [ECOLE NATIONALE D'INGENIEURS DE SAINT-ETIENNE] 
+	http://risis.eu/orgref_20170703/resource/26245555........... http://risis.eu/eter_2014/resource/FR0080................... 1........................................................... [École nationale d'ingénieurs de Saint-Etienne] was compared to [École nationale d'ingénieurs de Saint-Étienne] 
+	http://risis.eu/eter_2014/resource/FR0080................... http://risis.eu/orgref_20170703/resource/26245555........... 1........................................................... [École nationale d'ingénieurs de Saint-Etienne] was compared to [École nationale d'ingénieurs de Saint-Étienne] 
+	http://risis.eu/orgref_20170703/resource/26245555........... http://risis.eu/cordisH2020/resource/participant_968338488.. 1........................................................... [École nationale d'ingénieurs de Saint-Etienne] was compared to [ECOLE NATIONALE D'INGENIEURS DE SAINT-ETIENNE] 
+	http://risis.eu/cordisH2020/resource/participant_968338488.. http://risis.eu/orgref_20170703/resource/26245555........... 1........................................................... [École nationale d'ingénieurs de Saint-Etienne] was compared to [ECOLE NATIONALE D'INGENIEURS DE SAINT-ETIENNE] 
+	http://risis.eu/cordisH2020/resource/participant_968338488.. http://risis.eu/eter_2014/resource/FR0080................... 1........................................................... [ECOLE NATIONALE D'INGENIEURS DE SAINT-ETIENNE] was compared to [École nationale d'ingénieurs de Saint-Étienne] 
+	http://risis.eu/eter_2014/resource/FR0080................... http://risis.eu/cordisH2020/resource/participant_968338488.. 1........................................................... [ECOLE NATIONALE D'INGENIEURS DE SAINT-ETIENNE] was compared to [École nationale d'ingénieurs de Saint-Étienne] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.434191.a................. 4.421667.................................................... 
+	http://www.grid.ac/institutes/grid.434191.a................. 45.43....................................................... 
+	http://www.grid.ac/institutes/grid.434191.a................. http://www.enise.fr/........................................ 
+	http://www.grid.ac/institutes/grid.434191.a................. École Nationale d'Ingénieurs de Saint-Etienne............. 
+	http://risis.eu/orgref_20170703/resource/26245555........... http://en.wikipedia.org/wiki?curid=26245555................. 
+	http://risis.eu/orgref_20170703/resource/26245555........... http://www.wikidata.org/wiki/Q3578093....................... 
+	http://risis.eu/orgref_20170703/resource/26245555........... http://www.enise.fr......................................... 
+	http://risis.eu/orgref_20170703/resource/26245555........... École nationale d'ingénieurs de Saint-Etienne............. 
+	http://risis.eu/cordisH2020/resource/participant_968338488.. ECOLE NATIONALE D'INGENIEURS DE SAINT-ETIENNE............... 
+	http://risis.eu/eter_2014/resource/FR0080................... 45,296398................................................... 
+	http://risis.eu/eter_2014/resource/FR0080................... 4,559968.................................................... 
+	http://risis.eu/eter_2014/resource/FR0080................... http://www.enise.fr/........................................ 
+	http://risis.eu/eter_2014/resource/FR0080................... m........................................................... 
+	http://risis.eu/eter_2014/resource/FR0080................... École nationale d'ingénieurs de Saint-Étienne............ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:26245555', '1:grid.434191.a'), ('3:participant_968338488', '1:grid.434191.a'), ('3:participant_968338488', '2:26245555'), ('4:FR0080', '1:grid.434191.a'), ('4:FR0080', '2:26245555'), ('4:FR0080', '3:participant_968338488')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

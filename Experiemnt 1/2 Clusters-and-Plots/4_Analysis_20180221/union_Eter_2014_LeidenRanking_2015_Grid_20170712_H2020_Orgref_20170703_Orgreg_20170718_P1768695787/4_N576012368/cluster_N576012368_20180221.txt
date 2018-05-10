@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 4166 
+NAME    N576012368
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.421641.4>
+	<http://risis.eu/orgref_20170703/resource/9553203>
+	<http://risis.eu/orgref_20170703/resource/4983573>
+	<http://www.grid.ac/institutes/grid.468924.5>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.421641.4....... http://www.grid.ac/institutes/grid.468924.5....... 1................................................. [GateWay Community College] was compared to [Gateway Community College] 
+	http://www.grid.ac/institutes/grid.468924.5....... http://www.grid.ac/institutes/grid.421641.4....... 1................................................. [GateWay Community College] was compared to [Gateway Community College] 
+	http://www.grid.ac/institutes/grid.421641.4....... http://risis.eu/orgref_20170703/resource/4983573.. 1................................................. [GateWay Community College] was compared to [GateWay Community College] 
+	http://risis.eu/orgref_20170703/resource/4983573.. http://www.grid.ac/institutes/grid.421641.4....... 1................................................. [GateWay Community College] was compared to [GateWay Community College] 
+	http://www.grid.ac/institutes/grid.421641.4....... http://risis.eu/orgref_20170703/resource/9553203.. 1................................................. [GateWay Community College] was compared to [Gateway Community College] 
+	http://risis.eu/orgref_20170703/resource/9553203.. http://www.grid.ac/institutes/grid.421641.4....... 1................................................. [GateWay Community College] was compared to [Gateway Community College] 
+	http://risis.eu/orgref_20170703/resource/4983573.. http://www.grid.ac/institutes/grid.468924.5....... 1................................................. [Gateway Community College] was compared to [GateWay Community College] 
+	http://www.grid.ac/institutes/grid.468924.5....... http://risis.eu/orgref_20170703/resource/4983573.. 1................................................. [Gateway Community College] was compared to [GateWay Community College] 
+	http://risis.eu/orgref_20170703/resource/9553203.. http://www.grid.ac/institutes/grid.468924.5....... 1................................................. [Gateway Community College] was compared to [Gateway Community College] 
+	http://www.grid.ac/institutes/grid.468924.5....... http://risis.eu/orgref_20170703/resource/9553203.. 1................................................. [Gateway Community College] was compared to [Gateway Community College] 
+	http://risis.eu/orgref_20170703/resource/9553203.. http://risis.eu/orgref_20170703/resource/4983573.. 1................................................. [GateWay Community College] was compared to [Gateway Community College] 
+	http://risis.eu/orgref_20170703/resource/4983573.. http://risis.eu/orgref_20170703/resource/9553203.. 1................................................. [GateWay Community College] was compared to [Gateway Community College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.421641.4....... -111.99558........................................ 
+	http://www.grid.ac/institutes/grid.421641.4....... 33.449703......................................... 
+	http://www.grid.ac/institutes/grid.421641.4....... http://www.gatewaycc.edu/......................... 
+	http://www.grid.ac/institutes/grid.421641.4....... GateWay Community College......................... 
+	http://risis.eu/orgref_20170703/resource/9553203.. http://en.wikipedia.org/wiki?curid=9553203........ 
+	http://risis.eu/orgref_20170703/resource/9553203.. http://www.wikidata.org/wiki/Q5527225............. 
+	http://risis.eu/orgref_20170703/resource/9553203.. http://www.gwcc.commnet.edu....................... 
+	http://risis.eu/orgref_20170703/resource/9553203.. Gateway Community College......................... 
+	http://risis.eu/orgref_20170703/resource/4983573.. http://en.wikipedia.org/wiki?curid=4983573........ 
+	http://risis.eu/orgref_20170703/resource/4983573.. http://www.wikidata.org/wiki/Q5526971............. 
+	http://risis.eu/orgref_20170703/resource/4983573.. http://www.gatewaycc.edu.......................... 
+	http://risis.eu/orgref_20170703/resource/4983573.. GateWay Community College......................... 
+	http://www.grid.ac/institutes/grid.468924.5....... -72.92798......................................... 
+	http://www.grid.ac/institutes/grid.468924.5....... 41.30387.......................................... 
+	http://www.grid.ac/institutes/grid.468924.5....... http://www.gatewayct.edu/......................... 
+	http://www.grid.ac/institutes/grid.468924.5....... South Central Community College................... 
+	http://www.grid.ac/institutes/grid.468924.5....... Gateway Community College......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:9553203', '1:grid.421641.4'), ('3:4983573', '1:grid.421641.4'), ('3:4983573', '2:9553203'), ('3:4983573', '4:grid.468924.5'), ('4:grid.468924.5', '1:grid.421641.4'), ('4:grid.468924.5', '2:9553203')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

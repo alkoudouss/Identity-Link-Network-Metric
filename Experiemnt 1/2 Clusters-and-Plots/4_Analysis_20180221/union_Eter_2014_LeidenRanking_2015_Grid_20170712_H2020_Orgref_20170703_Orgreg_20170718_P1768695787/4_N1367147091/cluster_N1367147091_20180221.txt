@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 6928 
+NAME    N1367147091
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/787614>
+	<http://risis.eu/leidenRanking_2015/resource/115>
+	<http://www.grid.ac/institutes/grid.6988.f>
+	<http://risis.eu/orgreg_20170718/resource/EE0002>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/787614.. http://www.grid.ac/institutes/grid.6988.f........ 1................................................ [Tallinn University of Technology] was compared to [Tallinn University of Technology] 
+	http://www.grid.ac/institutes/grid.6988.f........ http://risis.eu/orgref_20170703/resource/787614.. 1................................................ [Tallinn University of Technology] was compared to [Tallinn University of Technology] 
+	http://risis.eu/leidenRanking_2015/resource/115.. http://www.grid.ac/institutes/grid.6988.f........ 1................................................ [Tallinn University of Technology] was compared to [Tallinn University of Technology] 
+	http://www.grid.ac/institutes/grid.6988.f........ http://risis.eu/leidenRanking_2015/resource/115.. 1................................................ [Tallinn University of Technology] was compared to [Tallinn University of Technology] 
+	http://risis.eu/orgref_20170703/resource/787614.. http://risis.eu/leidenRanking_2015/resource/115.. 1................................................ [Tallinn University of Technology] was compared to [Tallinn University of Technology] 
+	http://risis.eu/leidenRanking_2015/resource/115.. http://risis.eu/orgref_20170703/resource/787614.. 1................................................ [Tallinn University of Technology] was compared to [Tallinn University of Technology] 
+	http://risis.eu/leidenRanking_2015/resource/115.. http://risis.eu/orgreg_20170718/resource/EE0002.. 1................................................ [Tallinn University of Technology] was compared to [Tallinn University of Technology] 
+	http://risis.eu/orgreg_20170718/resource/EE0002.. http://risis.eu/leidenRanking_2015/resource/115.. 1................................................ [Tallinn University of Technology] was compared to [Tallinn University of Technology] 
+	http://risis.eu/orgref_20170703/resource/787614.. http://risis.eu/orgreg_20170718/resource/EE0002.. 1................................................ [Tallinn University of Technology] was compared to [Tallinn University of Technology] 
+	http://risis.eu/orgreg_20170718/resource/EE0002.. http://risis.eu/orgref_20170703/resource/787614.. 1................................................ [Tallinn University of Technology] was compared to [Tallinn University of Technology] 
+	http://www.grid.ac/institutes/grid.6988.f........ http://risis.eu/orgreg_20170718/resource/EE0002.. 1................................................ [Tallinn University of Technology] was compared to [Tallinn University of Technology] 
+	http://risis.eu/orgreg_20170718/resource/EE0002.. http://www.grid.ac/institutes/grid.6988.f........ 1................................................ [Tallinn University of Technology] was compared to [Tallinn University of Technology] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/787614.. http://en.wikipedia.org/wiki?curid=787614........ 
+	http://risis.eu/orgref_20170703/resource/787614.. http://www.wikidata.org/wiki/Q604487............. 
+	http://risis.eu/orgref_20170703/resource/787614.. http://www.ttu.ee................................ 
+	http://risis.eu/orgref_20170703/resource/787614.. Tallinn University of Technology................. 
+	http://risis.eu/leidenRanking_2015/resource/115.. Tallinn University of Technology................. 
+	http://www.grid.ac/institutes/grid.6988.f........ 24.6719.......................................... 
+	http://www.grid.ac/institutes/grid.6988.f........ 59.395........................................... 
+	http://www.grid.ac/institutes/grid.6988.f........ http://www.ttu.ee/en............................. 
+	http://www.grid.ac/institutes/grid.6988.f........ Tallinna Tehnikaülikool......................... 
+	http://www.grid.ac/institutes/grid.6988.f........ Tallinn University of Technology................. 
+	http://risis.eu/orgreg_20170718/resource/EE0002.. 24.73722......................................... 
+	http://risis.eu/orgreg_20170718/resource/EE0002.. 59.440219........................................ 
+	http://risis.eu/orgreg_20170718/resource/EE0002.. http://www.ttu.ee................................ 
+	http://risis.eu/orgreg_20170718/resource/EE0002.. Tallinn University of Technology................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:787614', '3:grid.6988.f'), ('2:115', '1:787614'), ('2:115', '4:EE0002'), ('3:grid.6988.f', '2:115'), ('4:EE0002', '1:787614'), ('4:EE0002', '3:grid.6988.f')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 14143 
+NAME    N1872857115
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/377195>
+	<http://risis.eu/cordisH2020/resource/participant_998083247>
+	<http://risis.eu/leidenRanking_2015/resource/1438>
+	<http://www.grid.ac/institutes/grid.86715.3d>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/377195............. http://www.grid.ac/institutes/grid.86715.3d................. 1........................................................... [Université de Sherbrooke] was compared to [Université de Sherbrooke] 
+	http://www.grid.ac/institutes/grid.86715.3d................. http://risis.eu/orgref_20170703/resource/377195............. 1........................................................... [Université de Sherbrooke] was compared to [Université de Sherbrooke] 
+	http://risis.eu/leidenRanking_2015/resource/1438............ http://www.grid.ac/institutes/grid.86715.3d................. 0.952380952381.............................................. [Université de Sherbrooke] was compared to [Universit� de Sherbrooke] 
+	http://www.grid.ac/institutes/grid.86715.3d................. http://risis.eu/leidenRanking_2015/resource/1438............ 0.952380952381.............................................. [Université de Sherbrooke] was compared to [Universit� de Sherbrooke] 
+	http://risis.eu/cordisH2020/resource/participant_998083247.. http://www.grid.ac/institutes/grid.86715.3d................. 1........................................................... [Université de Sherbrooke] was compared to [UNIVERSITE DE SHERBROOKE] 
+	http://www.grid.ac/institutes/grid.86715.3d................. http://risis.eu/cordisH2020/resource/participant_998083247.. 1........................................................... [Université de Sherbrooke] was compared to [UNIVERSITE DE SHERBROOKE] 
+	http://risis.eu/orgref_20170703/resource/377195............. http://risis.eu/leidenRanking_2015/resource/1438............ 0.952380952381.............................................. [Université de Sherbrooke] was compared to [Universit� de Sherbrooke] 
+	http://risis.eu/leidenRanking_2015/resource/1438............ http://risis.eu/orgref_20170703/resource/377195............. 0.952380952381.............................................. [Université de Sherbrooke] was compared to [Universit� de Sherbrooke] 
+	http://risis.eu/orgref_20170703/resource/377195............. http://risis.eu/cordisH2020/resource/participant_998083247.. 1........................................................... [Université de Sherbrooke] was compared to [UNIVERSITE DE SHERBROOKE] 
+	http://risis.eu/cordisH2020/resource/participant_998083247.. http://risis.eu/orgref_20170703/resource/377195............. 1........................................................... [Université de Sherbrooke] was compared to [UNIVERSITE DE SHERBROOKE] 
+	http://risis.eu/cordisH2020/resource/participant_998083247.. http://risis.eu/leidenRanking_2015/resource/1438............ 0.952380952381.............................................. [UNIVERSITE DE SHERBROOKE] was compared to [Universit� de Sherbrooke] 
+	http://risis.eu/leidenRanking_2015/resource/1438............ http://risis.eu/cordisH2020/resource/participant_998083247.. 0.952380952381.............................................. [UNIVERSITE DE SHERBROOKE] was compared to [Universit� de Sherbrooke] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/377195............. http://en.wikipedia.org/wiki?curid=377195................... 
+	http://risis.eu/orgref_20170703/resource/377195............. http://www.wikidata.org/wiki/Q2579532....................... 
+	http://risis.eu/orgref_20170703/resource/377195............. http://www.usherbrooke.ca................................... 
+	http://risis.eu/orgref_20170703/resource/377195............. Université de Sherbrooke................................... 
+	http://risis.eu/cordisH2020/resource/participant_998083247.. http://www.usherbrooke.ca/cartel/........................... 
+	http://risis.eu/cordisH2020/resource/participant_998083247.. UNIVERSITE DE SHERBROOKE.................................... 
+	http://risis.eu/leidenRanking_2015/resource/1438............ Universit� de Sherbrooke.................................. 
+	http://www.grid.ac/institutes/grid.86715.3d................. -71.92978................................................... 
+	http://www.grid.ac/institutes/grid.86715.3d................. 45.37896.................................................... 
+	http://www.grid.ac/institutes/grid.86715.3d................. http://www.usherbrooke.ca/.................................. 
+	http://www.grid.ac/institutes/grid.86715.3d................. Université de Sherbrooke................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_998083247', '1:377195'), ('2:participant_998083247', '4:grid.86715.3d'), ('3:1438', '1:377195'), ('3:1438', '2:participant_998083247'), ('3:1438', '4:grid.86715.3d'), ('4:grid.86715.3d', '1:377195')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

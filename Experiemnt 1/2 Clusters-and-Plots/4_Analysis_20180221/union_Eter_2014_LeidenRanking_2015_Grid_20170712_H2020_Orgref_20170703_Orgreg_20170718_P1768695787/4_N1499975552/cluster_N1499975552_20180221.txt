@@ -1,0 +1,55 @@
+SIZE    4   
+CLUSTER 11921 
+NAME    N1499975552
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.428068.0>
+	<http://risis.eu/cordisH2020/resource/participant_996942042>
+	<http://risis.eu/orgref_20170703/resource/28333802>
+	<http://risis.eu/orgreg_20170718/resource/IL0020>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.428068.0................. http://risis.eu/orgref_20170703/resource/28333802........... 1........................................................... [College of Management Academic Studies] was compared to [College of Management Academic Studies] 
+	http://risis.eu/orgref_20170703/resource/28333802........... http://www.grid.ac/institutes/grid.428068.0................. 1........................................................... [College of Management Academic Studies] was compared to [College of Management Academic Studies] 
+	http://www.grid.ac/institutes/grid.428068.0................. http://risis.eu/cordisH2020/resource/participant_996942042.. 1........................................................... [College of Management Academic Studies] was compared to [THE COLLEGE OF MANAGEMENT ACADEMIC STUDIES] 
+	http://risis.eu/cordisH2020/resource/participant_996942042.. http://www.grid.ac/institutes/grid.428068.0................. 1........................................................... [College of Management Academic Studies] was compared to [THE COLLEGE OF MANAGEMENT ACADEMIC STUDIES] 
+	http://risis.eu/cordisH2020/resource/participant_996942042.. http://risis.eu/orgref_20170703/resource/28333802........... 1........................................................... [College of Management Academic Studies] was compared to [THE COLLEGE OF MANAGEMENT ACADEMIC STUDIES] 
+	http://risis.eu/orgref_20170703/resource/28333802........... http://risis.eu/cordisH2020/resource/participant_996942042.. 1........................................................... [College of Management Academic Studies] was compared to [THE COLLEGE OF MANAGEMENT ACADEMIC STUDIES] 
+	http://risis.eu/cordisH2020/resource/participant_996942042.. http://risis.eu/orgreg_20170718/resource/IL0020............. 0.972222222222.............................................. [College of Management – Academic Studies] was compared to [THE COLLEGE OF MANAGEMENT ACADEMIC STUDIES] 
+	http://risis.eu/orgreg_20170718/resource/IL0020............. http://risis.eu/cordisH2020/resource/participant_996942042.. 0.972222222222.............................................. [College of Management – Academic Studies] was compared to [THE COLLEGE OF MANAGEMENT ACADEMIC STUDIES] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.428068.0................. College of Management Academic Studies...................... 
+	http://risis.eu/cordisH2020/resource/participant_996942042.. THE COLLEGE OF MANAGEMENT ACADEMIC STUDIES.................. 
+	http://risis.eu/orgref_20170703/resource/28333802........... http://en.wikipedia.org/wiki?curid=28333802................. 
+	http://risis.eu/orgref_20170703/resource/28333802........... http://www.wikidata.org/wiki/Q2904541....................... 
+	http://risis.eu/orgref_20170703/resource/28333802........... College of Management Academic Studies...................... 
+	http://risis.eu/orgreg_20170718/resource/IL0020............. m........................................................... 
+	http://risis.eu/orgreg_20170718/resource/IL0020............. http://www.colman.ac.il/english/Pages/default.aspx.......... 
+	http://risis.eu/orgreg_20170718/resource/IL0020............. College of Management – Academic Studies.................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_996942042', '1:grid.428068.0'), ('3:28333802', '1:grid.428068.0'), ('3:28333802', '2:participant_996942042'), ('4:IL0020', '2:participant_996942042')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

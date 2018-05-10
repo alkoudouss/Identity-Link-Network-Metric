@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 14971 
+NAME    N1338063050
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.476647.0>
+	<http://risis.eu/cordisH2020/resource/participant_999790544>
+	<http://www.grid.ac/institutes/grid.419951.1>
+	<http://risis.eu/orgref_20170703/resource/7788131>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.476647.0................. http://www.grid.ac/institutes/grid.419951.1................. 1........................................................... [Orion Corporation (Finland)] was compared to [Orion Corporation (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.419951.1................. http://www.grid.ac/institutes/grid.476647.0................. 1........................................................... [Orion Corporation (Finland)] was compared to [Orion Corporation (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.419951.1................. http://risis.eu/orgref_20170703/resource/7788131............ 1........................................................... [Orion Corporation (Finland)] was compared to [Orion Corporation] 
+	http://risis.eu/orgref_20170703/resource/7788131............ http://www.grid.ac/institutes/grid.419951.1................. 1........................................................... [Orion Corporation (Finland)] was compared to [Orion Corporation] 
+	http://www.grid.ac/institutes/grid.476647.0................. http://risis.eu/orgref_20170703/resource/7788131............ 1........................................................... [Orion Corporation (United Kingdom)] was compared to [Orion Corporation] 
+	http://risis.eu/orgref_20170703/resource/7788131............ http://www.grid.ac/institutes/grid.476647.0................. 1........................................................... [Orion Corporation (United Kingdom)] was compared to [Orion Corporation] 
+	http://risis.eu/cordisH2020/resource/participant_999790544.. http://www.grid.ac/institutes/grid.419951.1................. 1........................................................... [Orion Corporation (Finland)] was compared to [Orion Corporation] 
+	http://www.grid.ac/institutes/grid.419951.1................. http://risis.eu/cordisH2020/resource/participant_999790544.. 1........................................................... [Orion Corporation (Finland)] was compared to [Orion Corporation] 
+	http://www.grid.ac/institutes/grid.476647.0................. http://risis.eu/cordisH2020/resource/participant_999790544.. 1........................................................... [Orion Corporation (United Kingdom)] was compared to [Orion Corporation] 
+	http://risis.eu/cordisH2020/resource/participant_999790544.. http://www.grid.ac/institutes/grid.476647.0................. 1........................................................... [Orion Corporation (United Kingdom)] was compared to [Orion Corporation] 
+	http://risis.eu/cordisH2020/resource/participant_999790544.. http://risis.eu/orgref_20170703/resource/7788131............ 1........................................................... [Orion Corporation] was compared to [Orion Corporation]..... 
+	http://risis.eu/orgref_20170703/resource/7788131............ http://risis.eu/cordisH2020/resource/participant_999790544.. 1........................................................... [Orion Corporation] was compared to [Orion Corporation]..... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.476647.0................. -0.67235.................................................... 
+	http://www.grid.ac/institutes/grid.476647.0................. 51.490147................................................... 
+	http://www.grid.ac/institutes/grid.476647.0................. http://www.orionpharma.co.uk/............................... 
+	http://www.grid.ac/institutes/grid.476647.0................. Orion Corporation (United Kingdom).......................... 
+	http://risis.eu/cordisH2020/resource/participant_999790544.. http://www.orion.fi/en/..................................... 
+	http://risis.eu/cordisH2020/resource/participant_999790544.. Orion Corporation........................................... 
+	http://www.grid.ac/institutes/grid.419951.1................. 24.777742................................................... 
+	http://www.grid.ac/institutes/grid.419951.1................. 60.177536................................................... 
+	http://www.grid.ac/institutes/grid.419951.1................. http://www.orion.fi/en...................................... 
+	http://www.grid.ac/institutes/grid.419951.1................. Orion Oyj................................................... 
+	http://www.grid.ac/institutes/grid.419951.1................. Orion Corporation (Finland)................................. 
+	http://risis.eu/orgref_20170703/resource/7788131............ http://en.wikipedia.org/wiki?curid=7788131.................. 
+	http://risis.eu/orgref_20170703/resource/7788131............ http://www.wikidata.org/wiki/Q903328........................ 
+	http://risis.eu/orgref_20170703/resource/7788131............ http://www.orion.fi/en...................................... 
+	http://risis.eu/orgref_20170703/resource/7788131............ Orion Corporation........................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_999790544', '1:grid.476647.0'), ('2:participant_999790544', '3:grid.419951.1'), ('2:participant_999790544', '4:7788131'), ('3:grid.419951.1', '1:grid.476647.0'), ('4:7788131', '1:grid.476647.0'), ('4:7788131', '3:grid.419951.1')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

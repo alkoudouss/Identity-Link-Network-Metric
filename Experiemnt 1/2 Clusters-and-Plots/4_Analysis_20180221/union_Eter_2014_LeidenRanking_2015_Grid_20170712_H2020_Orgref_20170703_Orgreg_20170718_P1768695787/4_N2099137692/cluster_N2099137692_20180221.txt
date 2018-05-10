@@ -1,0 +1,70 @@
+SIZE    4   
+CLUSTER 14499 
+NAME    N2099137692
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/15200808>
+	<http://risis.eu/orgref_20170703/resource/15346588>
+	<http://www.grid.ac/institutes/grid.266453.0>
+	<http://www.grid.ac/institutes/grid.462295.e>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.266453.0........ http://www.grid.ac/institutes/grid.462295.e........ 1.................................................. [University of Hyogo] was compared to [Hyogo University] 
+	http://www.grid.ac/institutes/grid.462295.e........ http://www.grid.ac/institutes/grid.266453.0........ 1.................................................. [University of Hyogo] was compared to [Hyogo University] 
+	http://risis.eu/orgref_20170703/resource/15346588.. http://www.grid.ac/institutes/grid.266453.0........ 1.................................................. [University of Hyogo] was compared to [Hyogo University] 
+	http://www.grid.ac/institutes/grid.266453.0........ http://risis.eu/orgref_20170703/resource/15346588.. 1.................................................. [University of Hyogo] was compared to [Hyogo University] 
+	http://risis.eu/orgref_20170703/resource/15200808.. http://www.grid.ac/institutes/grid.266453.0........ 1.................................................. [University of Hyogo] was compared to [University of Hyogo] 
+	http://www.grid.ac/institutes/grid.266453.0........ http://risis.eu/orgref_20170703/resource/15200808.. 1.................................................. [University of Hyogo] was compared to [University of Hyogo] 
+	http://risis.eu/orgref_20170703/resource/15346588.. http://www.grid.ac/institutes/grid.462295.e........ 1.................................................. [Hyogo University] was compared to [Hyogo University] 
+	http://www.grid.ac/institutes/grid.462295.e........ http://risis.eu/orgref_20170703/resource/15346588.. 1.................................................. [Hyogo University] was compared to [Hyogo University] 
+	http://risis.eu/orgref_20170703/resource/15200808.. http://www.grid.ac/institutes/grid.462295.e........ 1.................................................. [Hyogo University] was compared to [University of Hyogo] 
+	http://www.grid.ac/institutes/grid.462295.e........ http://risis.eu/orgref_20170703/resource/15200808.. 1.................................................. [Hyogo University] was compared to [University of Hyogo] 
+	http://risis.eu/orgref_20170703/resource/15200808.. http://risis.eu/orgref_20170703/resource/15346588.. 1.................................................. [University of Hyogo] was compared to [Hyogo University] 
+	http://risis.eu/orgref_20170703/resource/15346588.. http://risis.eu/orgref_20170703/resource/15200808.. 1.................................................. [University of Hyogo] was compared to [Hyogo University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 19 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/15200808.. http://en.wikipedia.org/wiki?curid=15200808........ 
+	http://risis.eu/orgref_20170703/resource/15200808.. http://www.wikidata.org/wiki/Q830901............... 
+	http://risis.eu/orgref_20170703/resource/15200808.. http://www.u-hyogo.ac.jp/english/index.html........ 
+	http://risis.eu/orgref_20170703/resource/15200808.. University of Hyogo................................ 
+	http://risis.eu/orgref_20170703/resource/15346588.. http://en.wikipedia.org/wiki?curid=15346588........ 
+	http://risis.eu/orgref_20170703/resource/15346588.. http://www.wikidata.org/wiki/Q1641740.............. 
+	http://risis.eu/orgref_20170703/resource/15346588.. http://www.hyogo-dai.ac.jp......................... 
+	http://risis.eu/orgref_20170703/resource/15346588.. Hyogo University................................... 
+	http://www.grid.ac/institutes/grid.266453.0........ 135.05211.......................................... 
+	http://www.grid.ac/institutes/grid.266453.0........ 34.67825........................................... 
+	http://www.grid.ac/institutes/grid.266453.0........ http://www.u-hyogo.ac.jp/.......................... 
+	http://www.grid.ac/institutes/grid.266453.0........ Hyogo Prefectural University....................... 
+	http://www.grid.ac/institutes/grid.266453.0........ Hyōgo Kenritsu Daigaku............................ 
+	http://www.grid.ac/institutes/grid.266453.0........ University of Hyogo................................ 
+	http://www.grid.ac/institutes/grid.462295.e........ 134.88112.......................................... 
+	http://www.grid.ac/institutes/grid.462295.e........ 34.74708........................................... 
+	http://www.grid.ac/institutes/grid.462295.e........ http://www.hyogo-dai.ac.jp/........................ 
+	http://www.grid.ac/institutes/grid.462295.e........ Hyōgo daigaku..................................... 
+	http://www.grid.ac/institutes/grid.462295.e........ Hyogo University................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:15346588', '1:15200808'), ('2:15346588', '3:grid.266453.0'), ('2:15346588', '4:grid.462295.e'), ('3:grid.266453.0', '1:15200808'), ('4:grid.462295.e', '1:15200808'), ('4:grid.462295.e', '3:grid.266453.0')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

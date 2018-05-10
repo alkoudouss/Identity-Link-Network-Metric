@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 4039 
+NAME    N1217721838
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/SE1013>
+	<http://risis.eu/leidenRanking_2015/resource/7503>
+	<http://www.grid.ac/institutes/grid.417839.0>
+	<http://risis.eu/orgref_20170703/resource/21377090>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.417839.0........ http://risis.eu/orgref_20170703/resource/21377090.. 1.................................................. [Swedish Defence Research Agency] was compared to [Swedish Defence Research Agency] 
+	http://risis.eu/orgref_20170703/resource/21377090.. http://www.grid.ac/institutes/grid.417839.0........ 1.................................................. [Swedish Defence Research Agency] was compared to [Swedish Defence Research Agency] 
+	http://risis.eu/leidenRanking_2015/resource/7503... http://www.grid.ac/institutes/grid.417839.0........ 0.967741935484..................................... [Swedish Defence Research Agency] was compared to [Swedish Defense Research Agency] 
+	http://www.grid.ac/institutes/grid.417839.0........ http://risis.eu/leidenRanking_2015/resource/7503... 0.967741935484..................................... [Swedish Defence Research Agency] was compared to [Swedish Defense Research Agency] 
+	http://risis.eu/leidenRanking_2015/resource/7503... http://risis.eu/orgref_20170703/resource/21377090.. 0.967741935484..................................... [Swedish Defence Research Agency] was compared to [Swedish Defense Research Agency] 
+	http://risis.eu/orgref_20170703/resource/21377090.. http://risis.eu/leidenRanking_2015/resource/7503... 0.967741935484..................................... [Swedish Defence Research Agency] was compared to [Swedish Defense Research Agency] 
+	http://risis.eu/orgreg_20170718/resource/SE1013.... http://risis.eu/leidenRanking_2015/resource/7503... 0.967741935484..................................... [Swedish Defence Research Agency] was compared to [Swedish Defense Research Agency] 
+	http://risis.eu/leidenRanking_2015/resource/7503... http://risis.eu/orgreg_20170718/resource/SE1013.... 0.967741935484..................................... [Swedish Defence Research Agency] was compared to [Swedish Defense Research Agency] 
+	http://risis.eu/orgreg_20170718/resource/SE1013.... http://risis.eu/orgref_20170703/resource/21377090.. 1.................................................. [Swedish Defence Research Agency] was compared to [Swedish Defence Research Agency] 
+	http://risis.eu/orgref_20170703/resource/21377090.. http://risis.eu/orgreg_20170718/resource/SE1013.... 1.................................................. [Swedish Defence Research Agency] was compared to [Swedish Defence Research Agency] 
+	http://risis.eu/orgreg_20170718/resource/SE1013.... http://www.grid.ac/institutes/grid.417839.0........ 1.................................................. [Swedish Defence Research Agency] was compared to [Swedish Defence Research Agency] 
+	http://www.grid.ac/institutes/grid.417839.0........ http://risis.eu/orgreg_20170718/resource/SE1013.... 1.................................................. [Swedish Defence Research Agency] was compared to [Swedish Defence Research Agency] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgreg_20170718/resource/SE1013.... m.................................................. 
+	http://risis.eu/orgreg_20170718/resource/SE1013.... http://www.foi.se/................................. 
+	http://risis.eu/orgreg_20170718/resource/SE1013.... Swedish Defence Research Agency.................... 
+	http://risis.eu/leidenRanking_2015/resource/7503... Swedish Defense Research Agency.................... 
+	http://www.grid.ac/institutes/grid.417839.0........ 17.945724.......................................... 
+	http://www.grid.ac/institutes/grid.417839.0........ 59.404526.......................................... 
+	http://www.grid.ac/institutes/grid.417839.0........ http://www.foi.se/en/.............................. 
+	http://www.grid.ac/institutes/grid.417839.0........ Totalförsvarets forskningsinstitut................ 
+	http://www.grid.ac/institutes/grid.417839.0........ Swedish Defence Research Agency.................... 
+	http://risis.eu/orgref_20170703/resource/21377090.. http://en.wikipedia.org/wiki?curid=21377090........ 
+	http://risis.eu/orgref_20170703/resource/21377090.. http://www.wikidata.org/wiki/Q2445509.............. 
+	http://risis.eu/orgref_20170703/resource/21377090.. http://www.foi.se.................................. 
+	http://risis.eu/orgref_20170703/resource/21377090.. Swedish Defence Research Agency.................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:SE1013', '3:grid.417839.0'), ('1:SE1013', '4:21377090'), ('2:7503', '1:SE1013'), ('2:7503', '4:21377090'), ('3:grid.417839.0', '2:7503'), ('4:21377090', '3:grid.417839.0')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

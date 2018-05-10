@@ -1,0 +1,55 @@
+SIZE    3   
+CLUSTER 16162 
+NAME    P20136731
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/EE0014>
+	<http://risis.eu/orgref_20170703/resource/699061>
+	<http://www.grid.ac/institutes/grid.445655.3>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/EE0014.. http://www.grid.ac/institutes/grid.445655.3...... 1................................................ [Institute of Economics and Management] was compared to [Institute of Economics and Management] 
+	http://risis.eu/orgreg_20170718/resource/EE0014.. http://risis.eu/orgref_20170703/resource/699061.. 1................................................ [Institute of Management and Economics] was compared to [Institute of Economics and Management] 
+	http://risis.eu/orgref_20170703/resource/699061.. http://risis.eu/orgreg_20170718/resource/EE0014.. 1................................................ [Institute of Management and Economics] was compared to [Institute of Economics and Management] 
+	http://risis.eu/orgref_20170703/resource/699061.. http://www.grid.ac/institutes/grid.445655.3...... 1................................................ [Institute of Economics and Management] was compared to [Institute of Management and Economics] 
+	http://www.grid.ac/institutes/grid.445655.3...... http://risis.eu/orgref_20170703/resource/699061.. 1................................................ [Institute of Economics and Management] was compared to [Institute of Management and Economics] 
+	http://www.grid.ac/institutes/grid.445655.3...... http://risis.eu/orgreg_20170718/resource/EE0014.. 1................................................ [Institute of Economics and Management] was compared to [Institute of Economics and Management] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/EE0014.. 24.71035......................................... 
+	http://risis.eu/orgreg_20170718/resource/EE0014.. 59.453685........................................ 
+	http://risis.eu/orgreg_20170718/resource/EE0014.. a................................................ 
+	http://risis.eu/orgreg_20170718/resource/EE0014.. Institute of Economics and Management............ 
+	http://risis.eu/orgref_20170703/resource/699061.. http://en.wikipedia.org/wiki?curid=699061........ 
+	http://risis.eu/orgref_20170703/resource/699061.. http://www.wikidata.org/wiki/Q6040533............ 
+	http://risis.eu/orgref_20170703/resource/699061.. Institute of Management and Economics............ 
+	http://www.grid.ac/institutes/grid.445655.3...... 43.05644......................................... 
+	http://www.grid.ac/institutes/grid.445655.3...... 44.05057......................................... 
+	http://www.grid.ac/institutes/grid.445655.3...... http://www.ineu.ru/.............................. 
+	http://www.grid.ac/institutes/grid.445655.3...... Institute of Economics and Management............ 
+
+NETWORK ANALYSIS
+	NETWORK [('P20136731-699061', 'P960799676-EE0014'), ('P960799676-EE0014', 'P1189166108-grid.445655.3'), ('P20136731-699061', 'P1189166108-grid.445655.3')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

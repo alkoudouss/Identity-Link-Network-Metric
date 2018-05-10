@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 8093 
+NAME    N1777647017
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.466845.d>
+	<http://www.grid.ac/institutes/grid.472912.b>
+	<http://www.grid.ac/institutes/grid.472917.e>
+	<http://risis.eu/orgref_20170703/resource/38845559>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.472912.b........ http://risis.eu/orgref_20170703/resource/38845559.. 1.................................................. [Federal Institute Baiano] was compared to [Federal Institute Baiano] 
+	http://risis.eu/orgref_20170703/resource/38845559.. http://www.grid.ac/institutes/grid.472912.b........ 1.................................................. [Federal Institute Baiano] was compared to [Federal Institute Baiano] 
+	http://www.grid.ac/institutes/grid.466845.d........ http://www.grid.ac/institutes/grid.472912.b........ 0.875.............................................. [Instituto Federal Goiano] was compared to [Federal Institute Baiano] 
+	http://www.grid.ac/institutes/grid.472912.b........ http://www.grid.ac/institutes/grid.466845.d........ 0.875.............................................. [Instituto Federal Goiano] was compared to [Federal Institute Baiano] 
+	http://www.grid.ac/institutes/grid.466845.d........ http://www.grid.ac/institutes/grid.472917.e........ 0.916666666667..................................... [Instituto Federal Goiano] was compared to [Instituto Federal de Goiás] 
+	http://www.grid.ac/institutes/grid.472917.e........ http://www.grid.ac/institutes/grid.466845.d........ 0.916666666667..................................... [Instituto Federal Goiano] was compared to [Instituto Federal de Goiás] 
+	http://www.grid.ac/institutes/grid.466845.d........ http://risis.eu/orgref_20170703/resource/38845559.. 0.875.............................................. [Instituto Federal Goiano] was compared to [Federal Institute Baiano] 
+	http://risis.eu/orgref_20170703/resource/38845559.. http://www.grid.ac/institutes/grid.466845.d........ 0.875.............................................. [Instituto Federal Goiano] was compared to [Federal Institute Baiano] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.466845.d........ -49.250202......................................... 
+	http://www.grid.ac/institutes/grid.466845.d........ -16.69205.......................................... 
+	http://www.grid.ac/institutes/grid.466845.d........ https://www.ifgoiano.edu.br/home/.................. 
+	http://www.grid.ac/institutes/grid.466845.d........ IF Goiano.......................................... 
+	http://www.grid.ac/institutes/grid.466845.d........ Instituto Federal de Educação Ciência e Tecnologia Goiano 
+	http://www.grid.ac/institutes/grid.466845.d........ Instituto Federal Goiano........................... 
+	http://www.grid.ac/institutes/grid.472912.b........ -38.52282.......................................... 
+	http://www.grid.ac/institutes/grid.472912.b........ -12.993158......................................... 
+	http://www.grid.ac/institutes/grid.472912.b........ http://www.ifbaiano.edu.br/........................ 
+	http://www.grid.ac/institutes/grid.472912.b........ Federal Institute Baiano........................... 
+	http://www.grid.ac/institutes/grid.472917.e........ -49.27403.......................................... 
+	http://www.grid.ac/institutes/grid.472917.e........ -16.686726......................................... 
+	http://www.grid.ac/institutes/grid.472917.e........ http://www.ifg.edu.br/............................. 
+	http://www.grid.ac/institutes/grid.472917.e........ Instituto Federal de Goiás........................ 
+	http://risis.eu/orgref_20170703/resource/38845559.. http://en.wikipedia.org/wiki?curid=38845559........ 
+	http://risis.eu/orgref_20170703/resource/38845559.. http://www.wikidata.org/wiki/Q7665078.............. 
+	http://risis.eu/orgref_20170703/resource/38845559.. http://www.ifbaiano.edu.br......................... 
+	http://risis.eu/orgref_20170703/resource/38845559.. Federal Institute Baiano........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.472912.b', '1:grid.466845.d'), ('3:grid.472917.e', '1:grid.466845.d'), ('4:38845559', '1:grid.466845.d'), ('4:38845559', '2:grid.472912.b')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

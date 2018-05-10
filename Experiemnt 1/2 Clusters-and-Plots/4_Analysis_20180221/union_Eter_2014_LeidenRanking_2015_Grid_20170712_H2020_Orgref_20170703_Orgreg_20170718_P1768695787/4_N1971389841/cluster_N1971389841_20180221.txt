@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 8394 
+NAME    N1971389841
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.449034.e>
+	<http://risis.eu/eter_2014/resource/ES0065>
+	<http://risis.eu/orgref_20170703/resource/29649116>
+	<http://risis.eu/orgreg_20170718/resource/ES0065>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.449034.e........ http://risis.eu/orgref_20170703/resource/29649116.. 1.................................................. [Menéndez Pelayo International University] was compared to [Menéndez Pelayo International University] 
+	http://risis.eu/orgref_20170703/resource/29649116.. http://www.grid.ac/institutes/grid.449034.e........ 1.................................................. [Menéndez Pelayo International University] was compared to [Menéndez Pelayo International University] 
+	http://www.grid.ac/institutes/grid.449034.e........ http://risis.eu/eter_2014/resource/ES0065.......... 0.90243902439...................................... [Menéndez Pelayo International University] was compared to [Universidad Internacional Menéndez Pelayo] 
+	http://risis.eu/eter_2014/resource/ES0065.......... http://www.grid.ac/institutes/grid.449034.e........ 0.90243902439...................................... [Menéndez Pelayo International University] was compared to [Universidad Internacional Menéndez Pelayo] 
+	http://risis.eu/eter_2014/resource/ES0065.......... http://risis.eu/orgref_20170703/resource/29649116.. 0.90243902439...................................... [Menéndez Pelayo International University] was compared to [Universidad Internacional Menéndez Pelayo] 
+	http://risis.eu/orgref_20170703/resource/29649116.. http://risis.eu/eter_2014/resource/ES0065.......... 0.90243902439...................................... [Menéndez Pelayo International University] was compared to [Universidad Internacional Menéndez Pelayo] 
+	http://risis.eu/eter_2014/resource/ES0065.......... http://risis.eu/orgreg_20170718/resource/ES0065.... 0.90243902439...................................... [Menéndez Pelayo International University] was compared to [Universidad Internacional Menéndez Pelayo] 
+	http://risis.eu/orgreg_20170718/resource/ES0065.... http://risis.eu/eter_2014/resource/ES0065.......... 0.90243902439...................................... [Menéndez Pelayo International University] was compared to [Universidad Internacional Menéndez Pelayo] 
+	http://risis.eu/orgref_20170703/resource/29649116.. http://risis.eu/orgreg_20170718/resource/ES0065.... 1.................................................. [Menéndez Pelayo International University] was compared to [Menéndez Pelayo International University] 
+	http://risis.eu/orgreg_20170718/resource/ES0065.... http://risis.eu/orgref_20170703/resource/29649116.. 1.................................................. [Menéndez Pelayo International University] was compared to [Menéndez Pelayo International University] 
+	http://www.grid.ac/institutes/grid.449034.e........ http://risis.eu/orgreg_20170718/resource/ES0065.... 1.................................................. [Menéndez Pelayo International University] was compared to [Menéndez Pelayo International University] 
+	http://risis.eu/orgreg_20170718/resource/ES0065.... http://www.grid.ac/institutes/grid.449034.e........ 1.................................................. [Menéndez Pelayo International University] was compared to [Menéndez Pelayo International University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.449034.e........ Menéndez Pelayo International University.......... 
+	http://risis.eu/eter_2014/resource/ES0065.......... 40,447361.......................................... 
+	http://risis.eu/eter_2014/resource/ES0065.......... -3,738431.......................................... 
+	http://risis.eu/eter_2014/resource/ES0065.......... http://www.uimp.es................................. 
+	http://risis.eu/eter_2014/resource/ES0065.......... a.................................................. 
+	http://risis.eu/eter_2014/resource/ES0065.......... Menéndez Pelayo International University.......... 
+	http://risis.eu/eter_2014/resource/ES0065.......... Universidad Internacional Menéndez Pelayo......... 
+	http://risis.eu/orgref_20170703/resource/29649116.. http://en.wikipedia.org/wiki?curid=29649116........ 
+	http://risis.eu/orgref_20170703/resource/29649116.. http://www.wikidata.org/wiki/Q1442385.............. 
+	http://risis.eu/orgref_20170703/resource/29649116.. http://www.uimp.es................................. 
+	http://risis.eu/orgref_20170703/resource/29649116.. Menéndez Pelayo International University.......... 
+	http://risis.eu/orgreg_20170718/resource/ES0065.... 40.447361.......................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0065.... -3.738431.......................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0065.... http://www.uimp.es................................. 
+	http://risis.eu/orgreg_20170718/resource/ES0065.... Menéndez Pelayo International University.......... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:ES0065', '1:grid.449034.e'), ('2:ES0065', '3:29649116'), ('2:ES0065', '4:ES0065'), ('3:29649116', '1:grid.449034.e'), ('4:ES0065', '1:grid.449034.e'), ('4:ES0065', '3:29649116')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

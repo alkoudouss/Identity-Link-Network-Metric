@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 9078 
+NAME    N904651826
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.472165.3>
+	<http://risis.eu/orgref_20170703/resource/18297620>
+	<http://www.grid.ac/institutes/grid.471703.6>
+	<http://risis.eu/orgref_20170703/resource/18469822>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.471703.6........ http://risis.eu/orgref_20170703/resource/18469822.. 1.................................................. [Kawaguchi Junior College] was compared to [Kawaguchi Junior College] 
+	http://risis.eu/orgref_20170703/resource/18469822.. http://www.grid.ac/institutes/grid.471703.6........ 1.................................................. [Kawaguchi Junior College] was compared to [Kawaguchi Junior College] 
+	http://www.grid.ac/institutes/grid.472165.3........ http://risis.eu/orgref_20170703/resource/18297620.. 1.................................................. [Yamaguchi Junior College] was compared to [Yamaguchi Junior College] 
+	http://risis.eu/orgref_20170703/resource/18297620.. http://www.grid.ac/institutes/grid.472165.3........ 1.................................................. [Yamaguchi Junior College] was compared to [Yamaguchi Junior College] 
+	http://risis.eu/orgref_20170703/resource/18297620.. http://risis.eu/orgref_20170703/resource/18469822.. 0.916666666667..................................... [Yamaguchi Junior College] was compared to [Kawaguchi Junior College] 
+	http://risis.eu/orgref_20170703/resource/18469822.. http://risis.eu/orgref_20170703/resource/18297620.. 0.916666666667..................................... [Yamaguchi Junior College] was compared to [Kawaguchi Junior College] 
+	http://www.grid.ac/institutes/grid.472165.3........ http://www.grid.ac/institutes/grid.471703.6........ 0.916666666667..................................... [Kawaguchi Junior College] was compared to [Yamaguchi Junior College] 
+	http://www.grid.ac/institutes/grid.471703.6........ http://www.grid.ac/institutes/grid.472165.3........ 0.916666666667..................................... [Kawaguchi Junior College] was compared to [Yamaguchi Junior College] 
+	http://risis.eu/orgref_20170703/resource/18297620.. http://www.grid.ac/institutes/grid.471703.6........ 0.916666666667..................................... [Kawaguchi Junior College] was compared to [Yamaguchi Junior College] 
+	http://www.grid.ac/institutes/grid.471703.6........ http://risis.eu/orgref_20170703/resource/18297620.. 0.916666666667..................................... [Kawaguchi Junior College] was compared to [Yamaguchi Junior College] 
+	http://www.grid.ac/institutes/grid.472165.3........ http://risis.eu/orgref_20170703/resource/18469822.. 0.916666666667..................................... [Yamaguchi Junior College] was compared to [Kawaguchi Junior College] 
+	http://risis.eu/orgref_20170703/resource/18469822.. http://www.grid.ac/institutes/grid.472165.3........ 0.916666666667..................................... [Yamaguchi Junior College] was compared to [Kawaguchi Junior College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.472165.3........ 131.49403.......................................... 
+	http://www.grid.ac/institutes/grid.472165.3........ 34.051033.......................................... 
+	http://www.grid.ac/institutes/grid.472165.3........ http://www.yamaguchi-jc.ac.jp/..................... 
+	http://www.grid.ac/institutes/grid.472165.3........ Yamaguchi Tanki Daigaku............................ 
+	http://www.grid.ac/institutes/grid.472165.3........ Yamaguchi Junior College........................... 
+	http://risis.eu/orgref_20170703/resource/18297620.. http://en.wikipedia.org/wiki?curid=18297620........ 
+	http://risis.eu/orgref_20170703/resource/18297620.. http://www.wikidata.org/wiki/Q11467392............. 
+	http://risis.eu/orgref_20170703/resource/18297620.. http://www.yamaguchi-jc.ac.jp...................... 
+	http://risis.eu/orgref_20170703/resource/18297620.. Yamaguchi Junior College........................... 
+	http://www.grid.ac/institutes/grid.471703.6........ 139.7134........................................... 
+	http://www.grid.ac/institutes/grid.471703.6........ 35.857685.......................................... 
+	http://www.grid.ac/institutes/grid.471703.6........ http://www.kawaguchi.ac.jp/........................ 
+	http://www.grid.ac/institutes/grid.471703.6........ Kawaguchi Junior College........................... 
+	http://risis.eu/orgref_20170703/resource/18469822.. http://en.wikipedia.org/wiki?curid=18469822........ 
+	http://risis.eu/orgref_20170703/resource/18469822.. http://www.wikidata.org/wiki/Q6379500.............. 
+	http://risis.eu/orgref_20170703/resource/18469822.. Kawaguchi Junior College........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.472165.3', '3:grid.471703.6'), ('2:18297620', '1:grid.472165.3'), ('3:grid.471703.6', '2:18297620'), ('4:18469822', '1:grid.472165.3'), ('4:18469822', '2:18297620'), ('4:18469822', '3:grid.471703.6')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

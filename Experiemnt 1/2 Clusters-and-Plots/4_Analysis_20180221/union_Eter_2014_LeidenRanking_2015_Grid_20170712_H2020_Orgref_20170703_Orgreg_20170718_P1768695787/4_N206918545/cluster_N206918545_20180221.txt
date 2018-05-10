@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 4699 
+NAME    N206918545
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.6078.9>
+	<http://risis.eu/orgreg_20170718/resource/NL1016>
+	<http://www.grid.ac/institutes/grid.462641.3>
+	<http://risis.eu/orgref_20170703/resource/1088844>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.462641.3....... http://risis.eu/orgref_20170703/resource/1088844.. 1................................................. [National Aerospace Laboratories] was compared to [National Aerospace Laboratories] 
+	http://risis.eu/orgref_20170703/resource/1088844.. http://www.grid.ac/institutes/grid.462641.3....... 1................................................. [National Aerospace Laboratories] was compared to [National Aerospace Laboratories] 
+	http://risis.eu/orgreg_20170718/resource/NL1016... http://risis.eu/orgref_20170703/resource/1088844.. 0.903225806452.................................... [National Aerospace Laboratories] was compared to [National Aerospace Laboratory] 
+	http://risis.eu/orgref_20170703/resource/1088844.. http://risis.eu/orgreg_20170718/resource/NL1016... 0.903225806452.................................... [National Aerospace Laboratories] was compared to [National Aerospace Laboratory] 
+	http://www.grid.ac/institutes/grid.6078.9......... http://www.grid.ac/institutes/grid.462641.3....... 0.903225806452.................................... [National Aerospace Laboratories] was compared to [National Aerospace Laboratory] 
+	http://www.grid.ac/institutes/grid.462641.3....... http://www.grid.ac/institutes/grid.6078.9......... 0.903225806452.................................... [National Aerospace Laboratories] was compared to [National Aerospace Laboratory] 
+	http://www.grid.ac/institutes/grid.6078.9......... http://risis.eu/orgref_20170703/resource/1088844.. 0.903225806452.................................... [National Aerospace Laboratory] was compared to [National Aerospace Laboratories] 
+	http://risis.eu/orgref_20170703/resource/1088844.. http://www.grid.ac/institutes/grid.6078.9......... 0.903225806452.................................... [National Aerospace Laboratory] was compared to [National Aerospace Laboratories] 
+	http://www.grid.ac/institutes/grid.6078.9......... http://risis.eu/orgreg_20170718/resource/NL1016... 1................................................. [National Aerospace Laboratory] was compared to [National Aerospace Laboratory] 
+	http://risis.eu/orgreg_20170718/resource/NL1016... http://www.grid.ac/institutes/grid.6078.9......... 1................................................. [National Aerospace Laboratory] was compared to [National Aerospace Laboratory] 
+	http://risis.eu/orgreg_20170718/resource/NL1016... http://www.grid.ac/institutes/grid.462641.3....... 0.903225806452.................................... [National Aerospace Laboratories] was compared to [National Aerospace Laboratory] 
+	http://www.grid.ac/institutes/grid.462641.3....... http://risis.eu/orgreg_20170718/resource/NL1016... 0.903225806452.................................... [National Aerospace Laboratories] was compared to [National Aerospace Laboratory] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.6078.9......... 4.844009.......................................... 
+	http://www.grid.ac/institutes/grid.6078.9......... 52.345264......................................... 
+	http://www.grid.ac/institutes/grid.6078.9......... http://www.nlr.nl/................................ 
+	http://www.grid.ac/institutes/grid.6078.9......... National Aerospace Laboratory..................... 
+	http://risis.eu/orgreg_20170718/resource/NL1016... 4................................................. 
+	http://risis.eu/orgreg_20170718/resource/NL1016... 52................................................ 
+	http://risis.eu/orgreg_20170718/resource/NL1016... http://www.nlr.org/............................... 
+	http://risis.eu/orgreg_20170718/resource/NL1016... National Aerospace Laboratory..................... 
+	http://www.grid.ac/institutes/grid.462641.3....... 77.65256.......................................... 
+	http://www.grid.ac/institutes/grid.462641.3....... 12.962444......................................... 
+	http://www.grid.ac/institutes/grid.462641.3....... http://www.nal.res.in/............................ 
+	http://www.grid.ac/institutes/grid.462641.3....... National Aerospace Laboratories................... 
+	http://risis.eu/orgref_20170703/resource/1088844.. http://en.wikipedia.org/wiki?curid=1088844........ 
+	http://risis.eu/orgref_20170703/resource/1088844.. http://www.wikidata.org/wiki/Q3595204............. 
+	http://risis.eu/orgref_20170703/resource/1088844.. http://www.nal.res.in............................. 
+	http://risis.eu/orgref_20170703/resource/1088844.. National Aerospace Laboratories................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.6078.9', '3:grid.462641.3'), ('2:NL1016', '1:grid.6078.9'), ('2:NL1016', '4:1088844'), ('3:grid.462641.3', '2:NL1016'), ('4:1088844', '1:grid.6078.9'), ('4:1088844', '3:grid.462641.3')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

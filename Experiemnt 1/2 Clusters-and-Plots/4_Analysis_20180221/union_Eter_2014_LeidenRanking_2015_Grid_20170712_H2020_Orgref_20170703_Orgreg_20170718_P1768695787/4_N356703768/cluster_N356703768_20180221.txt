@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 12424 
+NAME    N356703768
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/CH0010>
+	<http://risis.eu/eter_2014/resource/CH0010>
+	<http://www.grid.ac/institutes/grid.29078.34>
+	<http://risis.eu/cordisH2020/resource/participant_999585874>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/eter_2014/resource/CH0010................... http://www.grid.ac/institutes/grid.29078.34................. 1........................................................... [Universita della Svizzera Italiana] was compared to [Università della Svizzera italiana] 
+	http://www.grid.ac/institutes/grid.29078.34................. http://risis.eu/eter_2014/resource/CH0010................... 1........................................................... [Universita della Svizzera Italiana] was compared to [Università della Svizzera italiana] 
+	http://www.grid.ac/institutes/grid.29078.34................. http://risis.eu/cordisH2020/resource/participant_999585874.. 1........................................................... [Universita della Svizzera Italiana] was compared to [UNIVERSITA DELLA SVIZZERA ITALIANA] 
+	http://risis.eu/cordisH2020/resource/participant_999585874.. http://www.grid.ac/institutes/grid.29078.34................. 1........................................................... [Universita della Svizzera Italiana] was compared to [UNIVERSITA DELLA SVIZZERA ITALIANA] 
+	http://risis.eu/eter_2014/resource/CH0010................... http://risis.eu/cordisH2020/resource/participant_999585874.. 1........................................................... [UNIVERSITA DELLA SVIZZERA ITALIANA] was compared to [Università della Svizzera italiana] 
+	http://risis.eu/cordisH2020/resource/participant_999585874.. http://risis.eu/eter_2014/resource/CH0010................... 1........................................................... [UNIVERSITA DELLA SVIZZERA ITALIANA] was compared to [Università della Svizzera italiana] 
+	http://risis.eu/orgreg_20170718/resource/CH0010............. http://risis.eu/cordisH2020/resource/participant_999585874.. 1........................................................... [Università della Svizzera italiana] was compared to [UNIVERSITA DELLA SVIZZERA ITALIANA] 
+	http://risis.eu/cordisH2020/resource/participant_999585874.. http://risis.eu/orgreg_20170718/resource/CH0010............. 1........................................................... [Università della Svizzera italiana] was compared to [UNIVERSITA DELLA SVIZZERA ITALIANA] 
+	http://risis.eu/orgreg_20170718/resource/CH0010............. http://risis.eu/eter_2014/resource/CH0010................... 1........................................................... [Università della Svizzera italiana] was compared to [Università della Svizzera italiana] 
+	http://risis.eu/eter_2014/resource/CH0010................... http://risis.eu/orgreg_20170718/resource/CH0010............. 1........................................................... [Università della Svizzera italiana] was compared to [Università della Svizzera italiana] 
+	http://risis.eu/orgreg_20170718/resource/CH0010............. http://www.grid.ac/institutes/grid.29078.34................. 1........................................................... [Universita della Svizzera Italiana] was compared to [Università della Svizzera italiana] 
+	http://www.grid.ac/institutes/grid.29078.34................. http://risis.eu/orgreg_20170718/resource/CH0010............. 1........................................................... [Universita della Svizzera Italiana] was compared to [Università della Svizzera italiana] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgreg_20170718/resource/CH0010............. 8.950785.................................................... 
+	http://risis.eu/orgreg_20170718/resource/CH0010............. 46.009366................................................... 
+	http://risis.eu/orgreg_20170718/resource/CH0010............. http://www.usi.ch........................................... 
+	http://risis.eu/orgreg_20170718/resource/CH0010............. Università della Svizzera italiana......................... 
+	http://risis.eu/eter_2014/resource/CH0010................... 46,009366................................................... 
+	http://risis.eu/eter_2014/resource/CH0010................... 8,950785.................................................... 
+	http://risis.eu/eter_2014/resource/CH0010................... http://www.usi.ch........................................... 
+	http://risis.eu/eter_2014/resource/CH0010................... a........................................................... 
+	http://risis.eu/eter_2014/resource/CH0010................... Università della Svizzera italiana......................... 
+	http://www.grid.ac/institutes/grid.29078.34................. 8.958....................................................... 
+	http://www.grid.ac/institutes/grid.29078.34................. 46.011...................................................... 
+	http://www.grid.ac/institutes/grid.29078.34................. http://www.usi.ch/en/index.htm.............................. 
+	http://www.grid.ac/institutes/grid.29078.34................. Universita della Svizzera Italiana.......................... 
+	http://risis.eu/cordisH2020/resource/participant_999585874.. http://risis.eu/cordisH2020/resource/www.usi.ch............. 
+	http://risis.eu/cordisH2020/resource/participant_999585874.. UNIVERSITA DELLA SVIZZERA ITALIANA.......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:CH0010', '3:grid.29078.34'), ('2:CH0010', '1:CH0010'), ('2:CH0010', '4:participant_999585874'), ('3:grid.29078.34', '2:CH0010'), ('4:participant_999585874', '1:CH0010'), ('4:participant_999585874', '3:grid.29078.34')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

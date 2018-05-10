@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 16257 
+NAME    N524275306
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/1639277>
+	<http://risis.eu/orgref_20170703/resource/27293634>
+	<http://www.grid.ac/institutes/grid.414752.1>
+	<http://risis.eu/orgref_20170703/resource/36654371>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/27293634.. http://www.grid.ac/institutes/grid.414752.1........ 1.................................................. [Institute of Mental Health] was compared to [Institute of Mental Health (Belgrade)] 
+	http://www.grid.ac/institutes/grid.414752.1........ http://risis.eu/orgref_20170703/resource/27293634.. 1.................................................. [Institute of Mental Health] was compared to [Institute of Mental Health (Belgrade)] 
+	http://www.grid.ac/institutes/grid.414752.1........ http://risis.eu/orgref_20170703/resource/36654371.. 1.................................................. [Institute of Mental Health] was compared to [Institute of Mental Health (Erragadda)] 
+	http://risis.eu/orgref_20170703/resource/36654371.. http://www.grid.ac/institutes/grid.414752.1........ 1.................................................. [Institute of Mental Health] was compared to [Institute of Mental Health (Erragadda)] 
+	http://risis.eu/orgref_20170703/resource/1639277... http://www.grid.ac/institutes/grid.414752.1........ 1.................................................. [Institute of Mental Health] was compared to [Institute of Mental Health (Singapore)] 
+	http://www.grid.ac/institutes/grid.414752.1........ http://risis.eu/orgref_20170703/resource/1639277... 1.................................................. [Institute of Mental Health] was compared to [Institute of Mental Health (Singapore)] 
+	http://risis.eu/orgref_20170703/resource/27293634.. http://risis.eu/orgref_20170703/resource/36654371.. 1.................................................. [Institute of Mental Health (Belgrade)] was compared to [Institute of Mental Health (Erragadda)] 
+	http://risis.eu/orgref_20170703/resource/36654371.. http://risis.eu/orgref_20170703/resource/27293634.. 1.................................................. [Institute of Mental Health (Belgrade)] was compared to [Institute of Mental Health (Erragadda)] 
+	http://risis.eu/orgref_20170703/resource/1639277... http://risis.eu/orgref_20170703/resource/27293634.. 1.................................................. [Institute of Mental Health (Singapore)] was compared to [Institute of Mental Health (Belgrade)] 
+	http://risis.eu/orgref_20170703/resource/27293634.. http://risis.eu/orgref_20170703/resource/1639277... 1.................................................. [Institute of Mental Health (Singapore)] was compared to [Institute of Mental Health (Belgrade)] 
+	http://risis.eu/orgref_20170703/resource/1639277... http://risis.eu/orgref_20170703/resource/36654371.. 1.................................................. [Institute of Mental Health (Singapore)] was compared to [Institute of Mental Health (Erragadda)] 
+	http://risis.eu/orgref_20170703/resource/36654371.. http://risis.eu/orgref_20170703/resource/1639277... 1.................................................. [Institute of Mental Health (Singapore)] was compared to [Institute of Mental Health (Erragadda)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/1639277... http://en.wikipedia.org/wiki?curid=1639277......... 
+	http://risis.eu/orgref_20170703/resource/1639277... http://www.wikidata.org/wiki/Q986149............... 
+	http://risis.eu/orgref_20170703/resource/1639277... http://www.imh.com.sg.............................. 
+	http://risis.eu/orgref_20170703/resource/1639277... Institute of Mental Health (Singapore)............. 
+	http://risis.eu/orgref_20170703/resource/27293634.. http://en.wikipedia.org/wiki?curid=27293634........ 
+	http://risis.eu/orgref_20170703/resource/27293634.. http://www.wikidata.org/wiki/Q14333577............. 
+	http://risis.eu/orgref_20170703/resource/27293634.. http://www.imh.org.rs.............................. 
+	http://risis.eu/orgref_20170703/resource/27293634.. Institute of Mental Health (Belgrade).............. 
+	http://www.grid.ac/institutes/grid.414752.1........ 103.885............................................ 
+	http://www.grid.ac/institutes/grid.414752.1........ 1.383077........................................... 
+	http://www.grid.ac/institutes/grid.414752.1........ https://www.imh.com.sg/............................ 
+	http://www.grid.ac/institutes/grid.414752.1........ Institute of Mental Health......................... 
+	http://risis.eu/orgref_20170703/resource/36654371.. http://en.wikipedia.org/wiki?curid=36654371........ 
+	http://risis.eu/orgref_20170703/resource/36654371.. http://www.wikidata.org/wiki/Q6040609.............. 
+	http://risis.eu/orgref_20170703/resource/36654371.. Institute of Mental Health (Erragadda)............. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:1639277', '3:grid.414752.1'), ('2:27293634', '1:1639277'), ('2:27293634', '3:grid.414752.1'), ('4:36654371', '1:1639277'), ('4:36654371', '2:27293634'), ('4:36654371', '3:grid.414752.1')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

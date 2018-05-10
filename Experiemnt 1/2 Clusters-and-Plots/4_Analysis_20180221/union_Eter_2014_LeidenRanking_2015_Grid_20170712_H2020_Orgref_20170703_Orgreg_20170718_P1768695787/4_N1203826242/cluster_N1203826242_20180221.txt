@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 5451 
+NAME    N1203826242
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.421352.3>
+	<http://www.grid.ac/institutes/grid.438451.f>
+	<http://risis.eu/orgref_20170703/resource/888223>
+	<http://www.grid.ac/institutes/grid.474711.0>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.438451.f...... http://www.grid.ac/institutes/grid.474711.0...... 1................................................ [Teledyne Technologies (Canada)] was compared to [Teledyne Technologies (Australia)] 
+	http://www.grid.ac/institutes/grid.474711.0...... http://www.grid.ac/institutes/grid.438451.f...... 1................................................ [Teledyne Technologies (Canada)] was compared to [Teledyne Technologies (Australia)] 
+	http://www.grid.ac/institutes/grid.421352.3...... http://www.grid.ac/institutes/grid.438451.f...... 1................................................ [Teledyne Technologies (United States)] was compared to [Teledyne Technologies (Canada)] 
+	http://www.grid.ac/institutes/grid.438451.f...... http://www.grid.ac/institutes/grid.421352.3...... 1................................................ [Teledyne Technologies (United States)] was compared to [Teledyne Technologies (Canada)] 
+	http://www.grid.ac/institutes/grid.421352.3...... http://www.grid.ac/institutes/grid.474711.0...... 1................................................ [Teledyne Technologies (United States)] was compared to [Teledyne Technologies (Australia)] 
+	http://www.grid.ac/institutes/grid.474711.0...... http://www.grid.ac/institutes/grid.421352.3...... 1................................................ [Teledyne Technologies (United States)] was compared to [Teledyne Technologies (Australia)] 
+	http://www.grid.ac/institutes/grid.438451.f...... http://risis.eu/orgref_20170703/resource/888223.. 1................................................ [Teledyne Technologies (Canada)] was compared to [Teledyne Technologies] 
+	http://risis.eu/orgref_20170703/resource/888223.. http://www.grid.ac/institutes/grid.438451.f...... 1................................................ [Teledyne Technologies (Canada)] was compared to [Teledyne Technologies] 
+	http://www.grid.ac/institutes/grid.421352.3...... http://risis.eu/orgref_20170703/resource/888223.. 1................................................ [Teledyne Technologies (United States)] was compared to [Teledyne Technologies] 
+	http://risis.eu/orgref_20170703/resource/888223.. http://www.grid.ac/institutes/grid.421352.3...... 1................................................ [Teledyne Technologies (United States)] was compared to [Teledyne Technologies] 
+	http://risis.eu/orgref_20170703/resource/888223.. http://www.grid.ac/institutes/grid.474711.0...... 1................................................ [Teledyne Technologies (Australia)] was compared to [Teledyne Technologies] 
+	http://www.grid.ac/institutes/grid.474711.0...... http://risis.eu/orgref_20170703/resource/888223.. 1................................................ [Teledyne Technologies (Australia)] was compared to [Teledyne Technologies] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.421352.3...... -118.90548....................................... 
+	http://www.grid.ac/institutes/grid.421352.3...... 34.197506........................................ 
+	http://www.grid.ac/institutes/grid.421352.3...... http://www.teledyne.com/......................... 
+	http://www.grid.ac/institutes/grid.421352.3...... Teledyne Benthos................................. 
+	http://www.grid.ac/institutes/grid.421352.3...... Teledyne Technologies (United States)............ 
+	http://www.grid.ac/institutes/grid.438451.f...... -80.70703........................................ 
+	http://www.grid.ac/institutes/grid.438451.f...... 43.80491......................................... 
+	http://www.grid.ac/institutes/grid.438451.f...... http://www.teledyne.com/......................... 
+	http://www.grid.ac/institutes/grid.438451.f...... Teledyne Technologies (Canada)................... 
+	http://risis.eu/orgref_20170703/resource/888223.. http://en.wikipedia.org/wiki?curid=888223........ 
+	http://risis.eu/orgref_20170703/resource/888223.. http://www.wikidata.org/wiki/Q7696127............ 
+	http://risis.eu/orgref_20170703/resource/888223.. http://www.teledyne.com.......................... 
+	http://risis.eu/orgref_20170703/resource/888223.. Teledyne Technologies............................ 
+	http://www.grid.ac/institutes/grid.474711.0...... 153.09912........................................ 
+	http://www.grid.ac/institutes/grid.474711.0...... -27.578527....................................... 
+	http://www.grid.ac/institutes/grid.474711.0...... http://teledyne.com/............................. 
+	http://www.grid.ac/institutes/grid.474711.0...... Teledyne Technologies (Australia)................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.438451.f', '1:grid.421352.3'), ('3:888223', '1:grid.421352.3'), ('3:888223', '2:grid.438451.f'), ('3:888223', '4:grid.474711.0'), ('4:grid.474711.0', '1:grid.421352.3'), ('4:grid.474711.0', '2:grid.438451.f')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

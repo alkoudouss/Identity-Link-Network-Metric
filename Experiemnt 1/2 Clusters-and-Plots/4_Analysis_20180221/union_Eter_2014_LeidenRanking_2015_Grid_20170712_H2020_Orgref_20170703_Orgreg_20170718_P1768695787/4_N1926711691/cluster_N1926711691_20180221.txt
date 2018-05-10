@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 17109 
+NAME    N1926711691
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.464425.5>
+	<http://risis.eu/orgref_20170703/resource/919369>
+	<http://risis.eu/orgref_20170703/resource/919250>
+	<http://www.grid.ac/institutes/grid.443531.4>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/919369.. http://www.grid.ac/institutes/grid.443531.4...... 1................................................ [Shanghai University of Finance and Economics] was compared to [Shanghai University of Finance and Economics] 
+	http://www.grid.ac/institutes/grid.443531.4...... http://risis.eu/orgref_20170703/resource/919369.. 1................................................ [Shanghai University of Finance and Economics] was compared to [Shanghai University of Finance and Economics] 
+	http://www.grid.ac/institutes/grid.464425.5...... http://risis.eu/orgref_20170703/resource/919250.. 1................................................ [Shanxi University of Finance and Economics] was compared to [Shanxi University of Finance and Economics] 
+	http://risis.eu/orgref_20170703/resource/919250.. http://www.grid.ac/institutes/grid.464425.5...... 1................................................ [Shanxi University of Finance and Economics] was compared to [Shanxi University of Finance and Economics] 
+	http://risis.eu/orgref_20170703/resource/919369.. http://risis.eu/orgref_20170703/resource/919250.. 0.918918918919................................... [Shanxi University of Finance and Economics] was compared to [Shanghai University of Finance and Economics] 
+	http://risis.eu/orgref_20170703/resource/919250.. http://risis.eu/orgref_20170703/resource/919369.. 0.918918918919................................... [Shanxi University of Finance and Economics] was compared to [Shanghai University of Finance and Economics] 
+	http://risis.eu/orgref_20170703/resource/919250.. http://www.grid.ac/institutes/grid.443531.4...... 0.918918918919................................... [Shanghai University of Finance and Economics] was compared to [Shanxi University of Finance and Economics] 
+	http://www.grid.ac/institutes/grid.443531.4...... http://risis.eu/orgref_20170703/resource/919250.. 0.918918918919................................... [Shanghai University of Finance and Economics] was compared to [Shanxi University of Finance and Economics] 
+	http://www.grid.ac/institutes/grid.464425.5...... http://risis.eu/orgref_20170703/resource/919369.. 0.918918918919................................... [Shanxi University of Finance and Economics] was compared to [Shanghai University of Finance and Economics] 
+	http://risis.eu/orgref_20170703/resource/919369.. http://www.grid.ac/institutes/grid.464425.5...... 0.918918918919................................... [Shanxi University of Finance and Economics] was compared to [Shanghai University of Finance and Economics] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.464425.5...... 112.5294......................................... 
+	http://www.grid.ac/institutes/grid.464425.5...... 37.954876........................................ 
+	http://www.grid.ac/institutes/grid.464425.5...... http://www.sxufe.edu.cn/english/................. 
+	http://www.grid.ac/institutes/grid.464425.5...... Shanxi University of Finance and Economics....... 
+	http://risis.eu/orgref_20170703/resource/919369.. http://en.wikipedia.org/wiki?curid=919369........ 
+	http://risis.eu/orgref_20170703/resource/919369.. http://www.wikidata.org/wiki/Q6129947............ 
+	http://risis.eu/orgref_20170703/resource/919369.. http://www.sufe.edu.cn........................... 
+	http://risis.eu/orgref_20170703/resource/919369.. Shanghai University of Finance and Economics..... 
+	http://risis.eu/orgref_20170703/resource/919250.. http://en.wikipedia.org/wiki?curid=919250........ 
+	http://risis.eu/orgref_20170703/resource/919250.. http://www.wikidata.org/wiki/Q11047231........... 
+	http://risis.eu/orgref_20170703/resource/919250.. http://www.sxufe.edu.cn.......................... 
+	http://risis.eu/orgref_20170703/resource/919250.. Shanxi University of Finance and Economics....... 
+	http://www.grid.ac/institutes/grid.443531.4...... Shanghai University of Finance and Economics..... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:919369', '1:grid.464425.5'), ('2:919369', '3:919250'), ('2:919369', '4:grid.443531.4'), ('3:919250', '1:grid.464425.5'), ('4:grid.443531.4', '3:919250')]
+	MAX DISTANCE:                   : 0.833
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 2.16666666667
+	AVERAGE NODE CONNECTIVITY RATIO : 0.722222222222
+	BRIDGES                         : 0
+	CLOSURE                         : 0.833
+	DIAMETER                        : 2
+	QUALITY                         : 0.223
+	QUALITY USED                    : 0.223
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223

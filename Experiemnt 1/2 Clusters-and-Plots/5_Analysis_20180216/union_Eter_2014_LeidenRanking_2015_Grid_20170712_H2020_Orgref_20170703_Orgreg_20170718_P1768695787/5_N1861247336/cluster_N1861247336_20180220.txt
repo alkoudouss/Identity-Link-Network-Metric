@@ -1,0 +1,68 @@
+SIZE    5   
+CLUSTER 14462 
+NAME    N1861247336
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.6203.7>
+	<http://risis.eu/orgref_20170703/resource/47002720>
+	<http://risis.eu/orgreg_20170718/resource/DK1010>
+	<http://risis.eu/cordisH2020/resource/participant_999937402>
+	<http://risis.eu/leidenRanking_2015/resource/7478>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.6203.7................... http://risis.eu/orgref_20170703/resource/47002720........... 1........................................................... [Statens Serum Institut] was compared to [Statens Serum Institut] 
+	http://risis.eu/orgref_20170703/resource/47002720........... http://www.grid.ac/institutes/grid.6203.7................... 1........................................................... [Statens Serum Institut] was compared to [Statens Serum Institut] 
+	http://www.grid.ac/institutes/grid.6203.7................... http://risis.eu/cordisH2020/resource/participant_999937402.. 1........................................................... [Statens Serum Institut] was compared to [STATENS SERUM INSTITUT] 
+	http://risis.eu/cordisH2020/resource/participant_999937402.. http://www.grid.ac/institutes/grid.6203.7................... 1........................................................... [Statens Serum Institut] was compared to [STATENS SERUM INSTITUT] 
+	http://risis.eu/orgref_20170703/resource/47002720........... http://risis.eu/cordisH2020/resource/participant_999937402.. 1........................................................... [Statens Serum Institut] was compared to [STATENS SERUM INSTITUT] 
+	http://risis.eu/cordisH2020/resource/participant_999937402.. http://risis.eu/orgref_20170703/resource/47002720........... 1........................................................... [Statens Serum Institut] was compared to [STATENS SERUM INSTITUT] 
+	http://risis.eu/cordisH2020/resource/participant_999937402.. http://risis.eu/leidenRanking_2015/resource/7478............ 0.863636363636.............................................. [STATENS SERUM INSTITUT] was compared to [State Serum Institute] 
+	http://risis.eu/leidenRanking_2015/resource/7478............ http://risis.eu/cordisH2020/resource/participant_999937402.. 0.863636363636.............................................. [STATENS SERUM INSTITUT] was compared to [State Serum Institute] 
+	http://risis.eu/orgreg_20170718/resource/DK1010............. http://risis.eu/cordisH2020/resource/participant_999937402.. 1........................................................... [Statens Serum Institut] was compared to [STATENS SERUM INSTITUT] 
+	http://risis.eu/cordisH2020/resource/participant_999937402.. http://risis.eu/orgreg_20170718/resource/DK1010............. 1........................................................... [Statens Serum Institut] was compared to [STATENS SERUM INSTITUT] 
+	http://risis.eu/orgref_20170703/resource/47002720........... http://risis.eu/orgreg_20170718/resource/DK1010............. 1........................................................... [Statens Serum Institut] was compared to [Statens Serum Institut] 
+	http://risis.eu/orgreg_20170718/resource/DK1010............. http://risis.eu/orgref_20170703/resource/47002720........... 1........................................................... [Statens Serum Institut] was compared to [Statens Serum Institut] 
+	http://www.grid.ac/institutes/grid.6203.7................... http://risis.eu/orgreg_20170718/resource/DK1010............. 1........................................................... [Statens Serum Institut] was compared to [Statens Serum Institut] 
+	http://risis.eu/orgreg_20170718/resource/DK1010............. http://www.grid.ac/institutes/grid.6203.7................... 1........................................................... [Statens Serum Institut] was compared to [Statens Serum Institut] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.6203.7................... 12.591...................................................... 
+	http://www.grid.ac/institutes/grid.6203.7................... 55.666...................................................... 
+	http://www.grid.ac/institutes/grid.6203.7................... http://www.ssi.dk/English.aspx.............................. 
+	http://www.grid.ac/institutes/grid.6203.7................... Statens Serum Institut...................................... 
+	http://risis.eu/orgref_20170703/resource/47002720........... http://en.wikipedia.org/wiki?curid=10774581................. 
+	http://risis.eu/orgref_20170703/resource/47002720........... http://www.wikidata.org/wiki/Q3378353....................... 
+	http://risis.eu/orgref_20170703/resource/47002720........... Statens Serum Institut...................................... 
+	http://risis.eu/orgreg_20170718/resource/DK1010............. 12.5709..................................................... 
+	http://risis.eu/orgreg_20170718/resource/DK1010............. 55.6777..................................................... 
+	http://risis.eu/orgreg_20170718/resource/DK1010............. http://www.ssi.dk/english.aspx.............................. 
+	http://risis.eu/orgreg_20170718/resource/DK1010............. Statens Serum Institut...................................... 
+	http://risis.eu/cordisH2020/resource/participant_999937402.. http://risis.eu/cordisH2020/resource/www.ssi.dk............. 
+	http://risis.eu/cordisH2020/resource/participant_999937402.. STATENS SERUM INSTITUT...................................... 
+	http://risis.eu/leidenRanking_2015/resource/7478............ State Serum Institute....................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:47002720', '1:grid.6203.7'), ('3:DK1010', '1:grid.6203.7'), ('3:DK1010', '2:47002720'), ('4:participant_999937402', '1:grid.6203.7'), ('4:participant_999937402', '2:47002720'), ('4:participant_999937402', '3:DK1010'), ('5:7478', '4:participant_999937402')]
+	MAX DISTANCE:                   : 0.7
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 2.2
+	AVERAGE NODE CONNECTIVITY RATIO : 0.55
+	BRIDGES                         : 1
+	CLOSURE                         : 0.7
+	DIAMETER                        : 2
+	QUALITY                         : 0.294
+	QUALITY USED                    : 0.357
+	SUMMARY 1: BRIDGE 0.25 CLOSURE 0.3 DIAMETER 0.333 QUALITY 0.294 QUALITY USED 0.357
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.3 DIAMETER 0.385 QUALITY 0.294 QUALITY USED 0.357

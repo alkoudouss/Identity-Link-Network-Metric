@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 6695 
+NAME    N2144957660
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/453158>
+	<http://risis.eu/leidenRanking_2015/resource/441>
+	<http://risis.eu/orgreg_20170718/resource/IT0059>
+	<http://www.grid.ac/institutes/grid.5395.a>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/453158.. http://www.grid.ac/institutes/grid.5395.a........ 1................................................ [University of Pisa] was compared to [University of Pisa] 
+	http://www.grid.ac/institutes/grid.5395.a........ http://risis.eu/orgref_20170703/resource/453158.. 1................................................ [University of Pisa] was compared to [University of Pisa] 
+	http://risis.eu/leidenRanking_2015/resource/441.. http://www.grid.ac/institutes/grid.5395.a........ 1................................................ [University of Pisa] was compared to [University of Pisa] 
+	http://www.grid.ac/institutes/grid.5395.a........ http://risis.eu/leidenRanking_2015/resource/441.. 1................................................ [University of Pisa] was compared to [University of Pisa] 
+	http://risis.eu/orgref_20170703/resource/453158.. http://risis.eu/leidenRanking_2015/resource/441.. 1................................................ [University of Pisa] was compared to [University of Pisa] 
+	http://risis.eu/leidenRanking_2015/resource/441.. http://risis.eu/orgref_20170703/resource/453158.. 1................................................ [University of Pisa] was compared to [University of Pisa] 
+	http://risis.eu/leidenRanking_2015/resource/441.. http://risis.eu/orgreg_20170718/resource/IT0059.. 1................................................ [University of Pisa] was compared to [University of Pisa] 
+	http://risis.eu/orgreg_20170718/resource/IT0059.. http://risis.eu/leidenRanking_2015/resource/441.. 1................................................ [University of Pisa] was compared to [University of Pisa] 
+	http://risis.eu/orgref_20170703/resource/453158.. http://risis.eu/orgreg_20170718/resource/IT0059.. 1................................................ [University of Pisa] was compared to [University of Pisa] 
+	http://risis.eu/orgreg_20170718/resource/IT0059.. http://risis.eu/orgref_20170703/resource/453158.. 1................................................ [University of Pisa] was compared to [University of Pisa] 
+	http://risis.eu/orgreg_20170718/resource/IT0059.. http://www.grid.ac/institutes/grid.5395.a........ 1................................................ [University of Pisa] was compared to [University of Pisa] 
+	http://www.grid.ac/institutes/grid.5395.a........ http://risis.eu/orgreg_20170718/resource/IT0059.. 1................................................ [University of Pisa] was compared to [University of Pisa] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/453158.. http://en.wikipedia.org/wiki?curid=453158........ 
+	http://risis.eu/orgref_20170703/resource/453158.. http://www.wikidata.org/wiki/Q645663............. 
+	http://risis.eu/orgref_20170703/resource/453158.. http://www.unipi.it.............................. 
+	http://risis.eu/orgref_20170703/resource/453158.. University of Pisa............................... 
+	http://risis.eu/leidenRanking_2015/resource/441.. University of Pisa............................... 
+	http://risis.eu/orgreg_20170718/resource/IT0059.. 43.719375........................................ 
+	http://risis.eu/orgreg_20170718/resource/IT0059.. 10.39752......................................... 
+	http://risis.eu/orgreg_20170718/resource/IT0059.. http://www.unipi.it.............................. 
+	http://risis.eu/orgreg_20170718/resource/IT0059.. University of Pisa............................... 
+	http://www.grid.ac/institutes/grid.5395.a........ 10.398687........................................ 
+	http://www.grid.ac/institutes/grid.5395.a........ 43.71643......................................... 
+	http://www.grid.ac/institutes/grid.5395.a........ http://www.unipi.it/............................. 
+	http://www.grid.ac/institutes/grid.5395.a........ University of Pisa............................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:453158', '4:grid.5395.a'), ('2:441', '1:453158'), ('2:441', '3:IT0059'), ('3:IT0059', '1:453158'), ('3:IT0059', '4:grid.5395.a'), ('4:grid.5395.a', '2:441')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

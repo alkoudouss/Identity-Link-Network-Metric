@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 14050 
+NAME    N875183676
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.36738.39>
+	<http://risis.eu/orgreg_20170718/resource/GR0006>
+	<http://risis.eu/orgref_20170703/resource/11090689>
+	<http://risis.eu/cordisH2020/resource/participant_999548238>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.36738.39................. http://risis.eu/orgref_20170703/resource/11090689........... 1........................................................... [University of Peloponnese] was compared to [University of Peloponnese] 
+	http://risis.eu/orgref_20170703/resource/11090689........... http://www.grid.ac/institutes/grid.36738.39................. 1........................................................... [University of Peloponnese] was compared to [University of Peloponnese] 
+	http://www.grid.ac/institutes/grid.36738.39................. http://risis.eu/cordisH2020/resource/participant_999548238.. 1........................................................... [University of Peloponnese] was compared to [UNIVERSITY OF PELOPONNESE] 
+	http://risis.eu/cordisH2020/resource/participant_999548238.. http://www.grid.ac/institutes/grid.36738.39................. 1........................................................... [University of Peloponnese] was compared to [UNIVERSITY OF PELOPONNESE] 
+	http://risis.eu/orgref_20170703/resource/11090689........... http://risis.eu/cordisH2020/resource/participant_999548238.. 1........................................................... [University of Peloponnese] was compared to [UNIVERSITY OF PELOPONNESE] 
+	http://risis.eu/cordisH2020/resource/participant_999548238.. http://risis.eu/orgref_20170703/resource/11090689........... 1........................................................... [University of Peloponnese] was compared to [UNIVERSITY OF PELOPONNESE] 
+	http://risis.eu/orgreg_20170718/resource/GR0006............. http://risis.eu/cordisH2020/resource/participant_999548238.. 1........................................................... [UNIVERSITY OF PELOPONNESE] was compared to [UNIVERSITY OF PELOPONNESE] 
+	http://risis.eu/cordisH2020/resource/participant_999548238.. http://risis.eu/orgreg_20170718/resource/GR0006............. 1........................................................... [UNIVERSITY OF PELOPONNESE] was compared to [UNIVERSITY OF PELOPONNESE] 
+	http://risis.eu/orgreg_20170718/resource/GR0006............. http://risis.eu/orgref_20170703/resource/11090689........... 1........................................................... [University of Peloponnese] was compared to [UNIVERSITY OF PELOPONNESE] 
+	http://risis.eu/orgref_20170703/resource/11090689........... http://risis.eu/orgreg_20170718/resource/GR0006............. 1........................................................... [University of Peloponnese] was compared to [UNIVERSITY OF PELOPONNESE] 
+	http://www.grid.ac/institutes/grid.36738.39................. http://risis.eu/orgreg_20170718/resource/GR0006............. 1........................................................... [University of Peloponnese] was compared to [UNIVERSITY OF PELOPONNESE] 
+	http://risis.eu/orgreg_20170718/resource/GR0006............. http://www.grid.ac/institutes/grid.36738.39................. 1........................................................... [University of Peloponnese] was compared to [UNIVERSITY OF PELOPONNESE] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.36738.39................. 22.371572................................................... 
+	http://www.grid.ac/institutes/grid.36738.39................. 37.52702.................................................... 
+	http://www.grid.ac/institutes/grid.36738.39................. http://www.uop.gr/index.php?lang=en......................... 
+	http://www.grid.ac/institutes/grid.36738.39................. University of Peloponnese................................... 
+	http://risis.eu/orgreg_20170718/resource/GR0006............. http://www.uop.gr/.......................................... 
+	http://risis.eu/orgreg_20170718/resource/GR0006............. UNIVERSITY OF PELOPONNESE................................... 
+	http://risis.eu/orgref_20170703/resource/11090689........... http://en.wikipedia.org/wiki?curid=11090689................. 
+	http://risis.eu/orgref_20170703/resource/11090689........... http://www.wikidata.org/wiki/Q3551766....................... 
+	http://risis.eu/orgref_20170703/resource/11090689........... http://www.uop.gr........................................... 
+	http://risis.eu/orgref_20170703/resource/11090689........... University of Peloponnese................................... 
+	http://risis.eu/cordisH2020/resource/participant_999548238.. http://risis.eu/cordisH2020/resource/www.uop.gr............. 
+	http://risis.eu/cordisH2020/resource/participant_999548238.. UNIVERSITY OF PELOPONNESE................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:GR0006', '1:grid.36738.39'), ('2:GR0006', '3:11090689'), ('3:11090689', '1:grid.36738.39'), ('4:participant_999548238', '1:grid.36738.39'), ('4:participant_999548238', '2:GR0006'), ('4:participant_999548238', '3:11090689')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

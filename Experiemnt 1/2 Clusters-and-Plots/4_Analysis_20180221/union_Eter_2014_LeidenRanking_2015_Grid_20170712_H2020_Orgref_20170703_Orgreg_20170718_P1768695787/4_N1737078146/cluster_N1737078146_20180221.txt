@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 7393 
+NAME    N1737078146
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.471156.0>
+	<http://www.grid.ac/institutes/grid.472801.8>
+	<http://www.grid.ac/institutes/grid.474759.c>
+	<http://www.grid.ac/institutes/grid.451525.2>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.472801.8.. http://www.grid.ac/institutes/grid.451525.2.. 1............................................ [BorgWarner (Sweden)] was compared to [BorgWarner (Germany)] 
+	http://www.grid.ac/institutes/grid.451525.2.. http://www.grid.ac/institutes/grid.472801.8.. 1............................................ [BorgWarner (Sweden)] was compared to [BorgWarner (Germany)] 
+	http://www.grid.ac/institutes/grid.474759.c.. http://www.grid.ac/institutes/grid.451525.2.. 1............................................ [BorgWarner (Sweden)] was compared to [BorgWarner (Brazil)] 
+	http://www.grid.ac/institutes/grid.451525.2.. http://www.grid.ac/institutes/grid.474759.c.. 1............................................ [BorgWarner (Sweden)] was compared to [BorgWarner (Brazil)] 
+	http://www.grid.ac/institutes/grid.471156.0.. http://www.grid.ac/institutes/grid.451525.2.. 1............................................ [BorgWarner (Sweden)] was compared to [BorgWarner (United States)] 
+	http://www.grid.ac/institutes/grid.451525.2.. http://www.grid.ac/institutes/grid.471156.0.. 1............................................ [BorgWarner (Sweden)] was compared to [BorgWarner (United States)] 
+	http://www.grid.ac/institutes/grid.471156.0.. http://www.grid.ac/institutes/grid.472801.8.. 1............................................ [BorgWarner (United States)] was compared to [BorgWarner (Germany)] 
+	http://www.grid.ac/institutes/grid.472801.8.. http://www.grid.ac/institutes/grid.471156.0.. 1............................................ [BorgWarner (United States)] was compared to [BorgWarner (Germany)] 
+	http://www.grid.ac/institutes/grid.471156.0.. http://www.grid.ac/institutes/grid.474759.c.. 1............................................ [BorgWarner (United States)] was compared to [BorgWarner (Brazil)] 
+	http://www.grid.ac/institutes/grid.474759.c.. http://www.grid.ac/institutes/grid.471156.0.. 1............................................ [BorgWarner (United States)] was compared to [BorgWarner (Brazil)] 
+	http://www.grid.ac/institutes/grid.472801.8.. http://www.grid.ac/institutes/grid.474759.c.. 1............................................ [BorgWarner (Germany)] was compared to [BorgWarner (Brazil)] 
+	http://www.grid.ac/institutes/grid.474759.c.. http://www.grid.ac/institutes/grid.472801.8.. 1............................................ [BorgWarner (Germany)] was compared to [BorgWarner (Brazil)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.471156.0.. -83.21077.................................... 
+	http://www.grid.ac/institutes/grid.471156.0.. 42.64576..................................... 
+	http://www.grid.ac/institutes/grid.471156.0.. https://www.borgwarner.com/en/default.aspx... 
+	http://www.grid.ac/institutes/grid.471156.0.. BorgWarner (United States)................... 
+	http://www.grid.ac/institutes/grid.472801.8.. 9.399362..................................... 
+	http://www.grid.ac/institutes/grid.472801.8.. 47.71584..................................... 
+	http://www.grid.ac/institutes/grid.472801.8.. https://www.borgwarner.com/.................. 
+	http://www.grid.ac/institutes/grid.472801.8.. BorgWarner (Germany)......................... 
+	http://www.grid.ac/institutes/grid.474759.c.. -47.091255................................... 
+	http://www.grid.ac/institutes/grid.474759.c.. -22.750854................................... 
+	http://www.grid.ac/institutes/grid.474759.c.. https://www.borgwarner.com/en/home........... 
+	http://www.grid.ac/institutes/grid.474759.c.. BorgWarner (Brazil).......................... 
+	http://www.grid.ac/institutes/grid.451525.2.. 12.863663.................................... 
+	http://www.grid.ac/institutes/grid.451525.2.. 55.8719...................................... 
+	http://www.grid.ac/institutes/grid.451525.2.. http://www.borgwarner.com/en/default.aspx.... 
+	http://www.grid.ac/institutes/grid.451525.2.. BorgWarner (Sweden).......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.471156.0', '4:grid.451525.2'), ('2:grid.472801.8', '1:grid.471156.0'), ('2:grid.472801.8', '4:grid.451525.2'), ('3:grid.474759.c', '1:grid.471156.0'), ('3:grid.474759.c', '2:grid.472801.8'), ('4:grid.451525.2', '3:grid.474759.c')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

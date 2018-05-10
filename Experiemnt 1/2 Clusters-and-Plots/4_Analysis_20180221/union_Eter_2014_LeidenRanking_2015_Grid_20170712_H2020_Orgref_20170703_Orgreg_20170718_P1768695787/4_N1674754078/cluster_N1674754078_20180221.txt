@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 16412 
+NAME    N1674754078
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/75751>
+	<http://risis.eu/cordisH2020/resource/participant_996482068>
+	<http://www.grid.ac/institutes/grid.1011.1>
+	<http://risis.eu/leidenRanking_2015/resource/1577>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/75751.............. http://www.grid.ac/institutes/grid.1011.1................... 1........................................................... [James Cook University] was compared to [James Cook University] 
+	http://www.grid.ac/institutes/grid.1011.1................... http://risis.eu/orgref_20170703/resource/75751.............. 1........................................................... [James Cook University] was compared to [James Cook University] 
+	http://www.grid.ac/institutes/grid.1011.1................... http://risis.eu/leidenRanking_2015/resource/1577............ 1........................................................... [James Cook University] was compared to [James Cook University] 
+	http://risis.eu/leidenRanking_2015/resource/1577............ http://www.grid.ac/institutes/grid.1011.1................... 1........................................................... [James Cook University] was compared to [James Cook University] 
+	http://risis.eu/cordisH2020/resource/participant_996482068.. http://www.grid.ac/institutes/grid.1011.1................... 1........................................................... [James Cook University] was compared to [JAMES COOK UNIVERSITY] 
+	http://www.grid.ac/institutes/grid.1011.1................... http://risis.eu/cordisH2020/resource/participant_996482068.. 1........................................................... [James Cook University] was compared to [JAMES COOK UNIVERSITY] 
+	http://risis.eu/orgref_20170703/resource/75751.............. http://risis.eu/leidenRanking_2015/resource/1577............ 1........................................................... [James Cook University] was compared to [James Cook University] 
+	http://risis.eu/leidenRanking_2015/resource/1577............ http://risis.eu/orgref_20170703/resource/75751.............. 1........................................................... [James Cook University] was compared to [James Cook University] 
+	http://risis.eu/orgref_20170703/resource/75751.............. http://risis.eu/cordisH2020/resource/participant_996482068.. 1........................................................... [James Cook University] was compared to [JAMES COOK UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_996482068.. http://risis.eu/orgref_20170703/resource/75751.............. 1........................................................... [James Cook University] was compared to [JAMES COOK UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_996482068.. http://risis.eu/leidenRanking_2015/resource/1577............ 1........................................................... [JAMES COOK UNIVERSITY] was compared to [James Cook University] 
+	http://risis.eu/leidenRanking_2015/resource/1577............ http://risis.eu/cordisH2020/resource/participant_996482068.. 1........................................................... [JAMES COOK UNIVERSITY] was compared to [James Cook University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/75751.............. http://en.wikipedia.org/wiki?curid=75751.................... 
+	http://risis.eu/orgref_20170703/resource/75751.............. http://www.wikidata.org/wiki/Q536512........................ 
+	http://risis.eu/orgref_20170703/resource/75751.............. http://www.jcu.edu.au....................................... 
+	http://risis.eu/orgref_20170703/resource/75751.............. James Cook University....................................... 
+	http://risis.eu/cordisH2020/resource/participant_996482068.. JAMES COOK UNIVERSITY....................................... 
+	http://www.grid.ac/institutes/grid.1011.1................... 146.75833................................................... 
+	http://www.grid.ac/institutes/grid.1011.1................... -19.327778.................................................. 
+	http://www.grid.ac/institutes/grid.1011.1................... http://www.jcu.edu.au/...................................... 
+	http://www.grid.ac/institutes/grid.1011.1................... James Cook University....................................... 
+	http://risis.eu/leidenRanking_2015/resource/1577............ James Cook University....................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_996482068', '1:75751'), ('2:participant_996482068', '3:grid.1011.1'), ('3:grid.1011.1', '1:75751'), ('4:1577', '1:75751'), ('4:1577', '2:participant_996482068'), ('4:1577', '3:grid.1011.1')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

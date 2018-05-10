@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 16057 
+NAME    N1768093617
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.438607.e>
+	<http://www.grid.ac/institutes/grid.9273.f>
+	<http://www.grid.ac/institutes/grid.425036.6>
+	<http://www.grid.ac/institutes/grid.423685.e>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.438607.e.. http://www.grid.ac/institutes/grid.9273.f.... 1............................................ [DNV GL (Netherlands)] was compared to [DNV GL (Norway)] 
+	http://www.grid.ac/institutes/grid.438607.e.. http://www.grid.ac/institutes/grid.423685.e.. 1............................................ [DNV GL (United Kingdom)] was compared to [DNV GL (Netherlands)] 
+	http://www.grid.ac/institutes/grid.438607.e.. http://www.grid.ac/institutes/grid.425036.6.. 1............................................ [DNV GL (Germany)] was compared to [DNV GL (Netherlands)] 
+	http://www.grid.ac/institutes/grid.9273.f.... http://www.grid.ac/institutes/grid.423685.e.. 1............................................ [DNV GL (United Kingdom)] was compared to [DNV GL (Norway)] 
+	http://www.grid.ac/institutes/grid.9273.f.... http://www.grid.ac/institutes/grid.425036.6.. 1............................................ [DNV GL (Germany)] was compared to [DNV GL (Norway)] 
+	http://www.grid.ac/institutes/grid.9273.f.... http://www.grid.ac/institutes/grid.438607.e.. 1............................................ [DNV GL (Netherlands)] was compared to [DNV GL (Norway)] 
+	http://www.grid.ac/institutes/grid.425036.6.. http://www.grid.ac/institutes/grid.9273.f.... 1............................................ [DNV GL (Germany)] was compared to [DNV GL (Norway)] 
+	http://www.grid.ac/institutes/grid.425036.6.. http://www.grid.ac/institutes/grid.438607.e.. 1............................................ [DNV GL (Germany)] was compared to [DNV GL (Netherlands)] 
+	http://www.grid.ac/institutes/grid.425036.6.. http://www.grid.ac/institutes/grid.423685.e.. 1............................................ [DNV GL (United Kingdom)] was compared to [DNV GL (Germany)] 
+	http://www.grid.ac/institutes/grid.423685.e.. http://www.grid.ac/institutes/grid.9273.f.... 1............................................ [DNV GL (United Kingdom)] was compared to [DNV GL (Norway)] 
+	http://www.grid.ac/institutes/grid.423685.e.. http://www.grid.ac/institutes/grid.425036.6.. 1............................................ [DNV GL (United Kingdom)] was compared to [DNV GL (Germany)] 
+	http://www.grid.ac/institutes/grid.423685.e.. http://www.grid.ac/institutes/grid.438607.e.. 1............................................ [DNV GL (United Kingdom)] was compared to [DNV GL (Netherlands)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.438607.e.. 4.51012...................................... 
+	http://www.grid.ac/institutes/grid.438607.e.. 51.86161..................................... 
+	http://www.grid.ac/institutes/grid.438607.e.. https://www.dnvgl.nl/........................ 
+	http://www.grid.ac/institutes/grid.438607.e.. DNV GL (Netherlands)......................... 
+	http://www.grid.ac/institutes/grid.9273.f.... 10.564145.................................... 
+	http://www.grid.ac/institutes/grid.9273.f.... 59.88851..................................... 
+	http://www.grid.ac/institutes/grid.9273.f.... https://www.dnvgl.com/....................... 
+	http://www.grid.ac/institutes/grid.9273.f.... Det Norske Veritas Germanischer Lloyd........ 
+	http://www.grid.ac/institutes/grid.9273.f.... DNV GL (Norway).............................. 
+	http://www.grid.ac/institutes/grid.425036.6.. 9.948748..................................... 
+	http://www.grid.ac/institutes/grid.425036.6.. 53.929764.................................... 
+	http://www.grid.ac/institutes/grid.425036.6.. http://www.dnv.de/........................... 
+	http://www.grid.ac/institutes/grid.425036.6.. DNV GL (Germany)............................. 
+	http://www.grid.ac/institutes/grid.423685.e.. -4.255908.................................... 
+	http://www.grid.ac/institutes/grid.423685.e.. 55.860806.................................... 
+	http://www.grid.ac/institutes/grid.423685.e.. https://www.dnvgl.com/....................... 
+	http://www.grid.ac/institutes/grid.423685.e.. DNV GL (United Kingdom)...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('P1208957564-grid.425036.6', 'P463377041-grid.438607.e'), ('P463377041-grid.438607.e', 'P1504678057-grid.9273.f'), ('P1208957564-grid.425036.6', 'P1504678057-grid.9273.f'), ('N1768093617-grid.423685.e', 'P1208957564-grid.425036.6'), ('N1768093617-grid.423685.e', 'P1504678057-grid.9273.f'), ('N1768093617-grid.423685.e', 'P463377041-grid.438607.e')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

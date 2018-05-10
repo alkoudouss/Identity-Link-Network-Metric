@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 472 
+NAME    N479200066
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.415346.1>
+	<http://risis.eu/orgref_20170703/resource/14586523>
+	<http://www.grid.ac/institutes/grid.239559.1>
+	<http://risis.eu/leidenRanking_2015/resource/3556>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.415346.1........ http://www.grid.ac/institutes/grid.239559.1........ 1.................................................. [Children's Mercy Hospital] was compared to [Mercy Children's Hospital] 
+	http://www.grid.ac/institutes/grid.239559.1........ http://www.grid.ac/institutes/grid.415346.1........ 1.................................................. [Children's Mercy Hospital] was compared to [Mercy Children's Hospital] 
+	http://risis.eu/orgref_20170703/resource/14586523.. http://www.grid.ac/institutes/grid.239559.1........ 1.................................................. [Children's Mercy Hospital] was compared to [Children's Mercy Hospital] 
+	http://www.grid.ac/institutes/grid.239559.1........ http://risis.eu/orgref_20170703/resource/14586523.. 1.................................................. [Children's Mercy Hospital] was compared to [Children's Mercy Hospital] 
+	http://www.grid.ac/institutes/grid.415346.1........ http://risis.eu/orgref_20170703/resource/14586523.. 1.................................................. [Mercy Children's Hospital] was compared to [Children's Mercy Hospital] 
+	http://risis.eu/orgref_20170703/resource/14586523.. http://www.grid.ac/institutes/grid.415346.1........ 1.................................................. [Mercy Children's Hospital] was compared to [Children's Mercy Hospital] 
+	http://www.grid.ac/institutes/grid.239559.1........ http://risis.eu/leidenRanking_2015/resource/3556... 1.................................................. [Children's Mercy Hospital] was compared to [Children's Mercy Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/3556... http://www.grid.ac/institutes/grid.239559.1........ 1.................................................. [Children's Mercy Hospital] was compared to [Children's Mercy Hospital] 
+	http://www.grid.ac/institutes/grid.415346.1........ http://risis.eu/leidenRanking_2015/resource/3556... 1.................................................. [Mercy Children's Hospital] was compared to [Children's Mercy Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/3556... http://www.grid.ac/institutes/grid.415346.1........ 1.................................................. [Mercy Children's Hospital] was compared to [Children's Mercy Hospital] 
+	http://risis.eu/orgref_20170703/resource/14586523.. http://risis.eu/leidenRanking_2015/resource/3556... 1.................................................. [Children's Mercy Hospital] was compared to [Children's Mercy Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/3556... http://risis.eu/orgref_20170703/resource/14586523.. 1.................................................. [Children's Mercy Hospital] was compared to [Children's Mercy Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.415346.1........ -83.542786......................................... 
+	http://www.grid.ac/institutes/grid.415346.1........ 41.668175.......................................... 
+	http://www.grid.ac/institutes/grid.415346.1........ https://www.mercy.com/toledo....................... 
+	http://www.grid.ac/institutes/grid.415346.1........ St. Vincent Mercy Children's Hospital.............. 
+	http://www.grid.ac/institutes/grid.415346.1........ Mercy Children's Hospital.......................... 
+	http://risis.eu/orgref_20170703/resource/14586523.. http://en.wikipedia.org/wiki?curid=14586523........ 
+	http://risis.eu/orgref_20170703/resource/14586523.. http://www.wikidata.org/wiki/Q5098162.............. 
+	http://risis.eu/orgref_20170703/resource/14586523.. http://www.childrensmercy.org...................... 
+	http://risis.eu/orgref_20170703/resource/14586523.. Children's Mercy Hospital.......................... 
+	http://www.grid.ac/institutes/grid.239559.1........ -94.57718.......................................... 
+	http://www.grid.ac/institutes/grid.239559.1........ 39.08405........................................... 
+	http://www.grid.ac/institutes/grid.239559.1........ http://www.childrensmercy.org/..................... 
+	http://www.grid.ac/institutes/grid.239559.1........ Children's Mercy Hospital.......................... 
+	http://risis.eu/leidenRanking_2015/resource/3556... Children's Mercy Hospital.......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:14586523', '1:grid.415346.1'), ('2:14586523', '3:grid.239559.1'), ('3:grid.239559.1', '1:grid.415346.1'), ('4:3556', '1:grid.415346.1'), ('4:3556', '2:14586523'), ('4:3556', '3:grid.239559.1')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

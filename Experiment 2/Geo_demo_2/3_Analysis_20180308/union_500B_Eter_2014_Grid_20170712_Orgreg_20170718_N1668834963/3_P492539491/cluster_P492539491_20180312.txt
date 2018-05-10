@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 42 
+NAME    P492539491
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.475974.c>
+	<http://risis.eu/eter_2014/resource/PL0270>
+	<http://www.grid.ac/institutes/grid.475866.e>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.475974.c.. http://risis.eu/eter_2014/resource/PL0270.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/PL0270.... http://www.grid.ac/institutes/grid.475866.e.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/PL0270.... http://www.grid.ac/institutes/grid.475974.c.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.475866.e.. http://risis.eu/eter_2014/resource/PL0270.... 1............................................ Near each other by at most 500 meter(s)...... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.475974.c.. 20.991226.................................... 
+	http://www.grid.ac/institutes/grid.475974.c.. 52.216995.................................... 
+	http://www.grid.ac/institutes/grid.475974.c.. http://www.gios.gov.pl/en/................... 
+	http://www.grid.ac/institutes/grid.475974.c.. Chief Inspectorate of Environmental Protection 
+	http://risis.eu/eter_2014/resource/PL0270.... 52,215992.................................... 
+	http://risis.eu/eter_2014/resource/PL0270.... 20,994715.................................... 
+	http://risis.eu/eter_2014/resource/PL0270.... http://www.wseiz.pl.......................... 
+	http://risis.eu/eter_2014/resource/PL0270.... a............................................ 
+	http://risis.eu/eter_2014/resource/PL0270.... University of Ecology and Management in Warsaw 
+	http://risis.eu/eter_2014/resource/PL0270.... Wyższa Szkoła Ekologii i Zarządzania w Warszawie 
+	http://www.grid.ac/institutes/grid.475866.e.. 20.991407.................................... 
+	http://www.grid.ac/institutes/grid.475866.e.. 52.216824.................................... 
+	http://www.grid.ac/institutes/grid.475866.e.. http://www.gdos.gov.pl/eng................... 
+	http://www.grid.ac/institutes/grid.475866.e.. General Directorate for Environmental Protection 
+
+NETWORK ANALYSIS
+	NETWORK [('P492539491-PL0270', 'P1147609119-grid.475866.e'), ('P492539491-PL0270', 'P1750639297-grid.475974.c')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

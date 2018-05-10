@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 221 
+NAME    N1024681716
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/DE0326>
+	<http://www.grid.ac/institutes/grid.469901.3>
+	<http://risis.eu/eter_2014/resource/DE0420>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/DE0326.... http://www.grid.ac/institutes/grid.469901.3.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.469901.3.. http://risis.eu/eter_2014/resource/DE0326.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.469901.3.. http://risis.eu/eter_2014/resource/DE0420.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/DE0420.... http://www.grid.ac/institutes/grid.469901.3.. 1............................................ Near each other by at most 500 meter(s)...... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/DE0326.... 50,921785.................................... 
+	http://risis.eu/eter_2014/resource/DE0326.... 6,951329..................................... 
+	http://risis.eu/eter_2014/resource/DE0326.... www.ism.de................................... 
+	http://risis.eu/eter_2014/resource/DE0326.... a............................................ 
+	http://risis.eu/eter_2014/resource/DE0326.... Private Fachhochschule International School of Management, Dortmund 
+	http://www.grid.ac/institutes/grid.469901.3.. 6.949011..................................... 
+	http://www.grid.ac/institutes/grid.469901.3.. 50.924458.................................... 
+	http://www.grid.ac/institutes/grid.469901.3.. http://www.cbs.de/en/........................ 
+	http://www.grid.ac/institutes/grid.469901.3.. Cologne Business School...................... 
+	http://risis.eu/eter_2014/resource/DE0420.... 50,921785.................................... 
+	http://risis.eu/eter_2014/resource/DE0420.... 6,951329..................................... 
+	http://risis.eu/eter_2014/resource/DE0420.... http://www.cbs.de/de/........................ 
+	http://risis.eu/eter_2014/resource/DE0420.... a............................................ 
+	http://risis.eu/eter_2014/resource/DE0420.... Cologne Business School (CBS) - European University of Applied Sciences (Priv. FH) 
+
+NETWORK ANALYSIS
+	NETWORK [('P1806656535-DE0420', 'P255369270-grid.469901.3'), ('N1024681716-DE0326', 'P255369270-grid.469901.3')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

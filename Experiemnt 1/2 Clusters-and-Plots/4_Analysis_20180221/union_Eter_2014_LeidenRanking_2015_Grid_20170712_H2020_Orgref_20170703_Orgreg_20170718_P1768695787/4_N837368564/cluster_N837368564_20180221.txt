@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 7509 
+NAME    N837368564
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/20828192>
+	<http://risis.eu/orgref_20170703/resource/301434>
+	<http://risis.eu/orgref_20170703/resource/1327910>
+	<http://www.grid.ac/institutes/grid.453073.6>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/1327910... http://www.grid.ac/institutes/grid.453073.6........ 1.................................................. [Cabinet Office] was compared to [Cabinet Office (Japan)] 
+	http://www.grid.ac/institutes/grid.453073.6........ http://risis.eu/orgref_20170703/resource/1327910... 1.................................................. [Cabinet Office] was compared to [Cabinet Office (Japan)] 
+	http://risis.eu/orgref_20170703/resource/20828192.. http://www.grid.ac/institutes/grid.453073.6........ 1.................................................. [Cabinet Office] was compared to [Cabinet Office (Sri Lanka)] 
+	http://www.grid.ac/institutes/grid.453073.6........ http://risis.eu/orgref_20170703/resource/20828192.. 1.................................................. [Cabinet Office] was compared to [Cabinet Office (Sri Lanka)] 
+	http://risis.eu/orgref_20170703/resource/301434.... http://www.grid.ac/institutes/grid.453073.6........ 1.................................................. [Cabinet Office] was compared to [Cabinet Office].. 
+	http://www.grid.ac/institutes/grid.453073.6........ http://risis.eu/orgref_20170703/resource/301434.... 1.................................................. [Cabinet Office] was compared to [Cabinet Office].. 
+	http://risis.eu/orgref_20170703/resource/20828192.. http://risis.eu/orgref_20170703/resource/1327910... 1.................................................. [Cabinet Office (Japan)] was compared to [Cabinet Office (Sri Lanka)] 
+	http://risis.eu/orgref_20170703/resource/1327910... http://risis.eu/orgref_20170703/resource/20828192.. 1.................................................. [Cabinet Office (Japan)] was compared to [Cabinet Office (Sri Lanka)] 
+	http://risis.eu/orgref_20170703/resource/301434.... http://risis.eu/orgref_20170703/resource/1327910... 1.................................................. [Cabinet Office (Japan)] was compared to [Cabinet Office] 
+	http://risis.eu/orgref_20170703/resource/1327910... http://risis.eu/orgref_20170703/resource/301434.... 1.................................................. [Cabinet Office (Japan)] was compared to [Cabinet Office] 
+	http://risis.eu/orgref_20170703/resource/20828192.. http://risis.eu/orgref_20170703/resource/301434.... 1.................................................. [Cabinet Office (Sri Lanka)] was compared to [Cabinet Office] 
+	http://risis.eu/orgref_20170703/resource/301434.... http://risis.eu/orgref_20170703/resource/20828192.. 1.................................................. [Cabinet Office (Sri Lanka)] was compared to [Cabinet Office] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/20828192.. http://en.wikipedia.org/wiki?curid=20828192........ 
+	http://risis.eu/orgref_20170703/resource/20828192.. http://www.wikidata.org/wiki/Q5015468.............. 
+	http://risis.eu/orgref_20170703/resource/20828192.. http://www.cabinetoffice.gov.lk.................... 
+	http://risis.eu/orgref_20170703/resource/20828192.. Cabinet Office (Sri Lanka)......................... 
+	http://risis.eu/orgref_20170703/resource/301434.... http://en.wikipedia.org/wiki?curid=301434.......... 
+	http://risis.eu/orgref_20170703/resource/301434.... http://www.wikidata.org/wiki/Q5995................. 
+	http://risis.eu/orgref_20170703/resource/301434.... https://www.gov.uk/government/organisations/cabinet-office 
+	http://risis.eu/orgref_20170703/resource/301434.... Cabinet Office..................................... 
+	http://risis.eu/orgref_20170703/resource/1327910... http://en.wikipedia.org/wiki?curid=1327910......... 
+	http://risis.eu/orgref_20170703/resource/1327910... http://www.wikidata.org/wiki/Q6005................. 
+	http://risis.eu/orgref_20170703/resource/1327910... http://www.cao.go.jp............................... 
+	http://risis.eu/orgref_20170703/resource/1327910... Cabinet Office (Japan)............................. 
+	http://www.grid.ac/institutes/grid.453073.6........ 139.745............................................ 
+	http://www.grid.ac/institutes/grid.453073.6........ 35.673............................................. 
+	http://www.grid.ac/institutes/grid.453073.6........ http://www.cao.go.jp/index-e.html.................. 
+	http://www.grid.ac/institutes/grid.453073.6........ Cabinet Office..................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:20828192', '3:1327910'), ('2:301434', '1:20828192'), ('2:301434', '4:grid.453073.6'), ('3:1327910', '2:301434'), ('3:1327910', '4:grid.453073.6'), ('4:grid.453073.6', '1:20828192')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

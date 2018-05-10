@@ -1,0 +1,58 @@
+SIZE    4   
+CLUSTER 18201 
+NAME    N1244604158
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.434060.5>
+	<http://www.grid.ac/institutes/grid.438767.9>
+	<http://www.grid.ac/institutes/grid.471106.5>
+	<http://www.grid.ac/institutes/grid.438386.2>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.434060.5.. http://www.grid.ac/institutes/grid.471106.5.. 1............................................ [Finisar (Israel)] was compared to [Finisar (United States)] 
+	http://www.grid.ac/institutes/grid.471106.5.. http://www.grid.ac/institutes/grid.434060.5.. 1............................................ [Finisar (Israel)] was compared to [Finisar (United States)] 
+	http://www.grid.ac/institutes/grid.434060.5.. http://www.grid.ac/institutes/grid.438386.2.. 1............................................ [Finisar (Israel)] was compared to [Finisar (Sweden)] 
+	http://www.grid.ac/institutes/grid.438386.2.. http://www.grid.ac/institutes/grid.434060.5.. 1............................................ [Finisar (Israel)] was compared to [Finisar (Sweden)] 
+	http://www.grid.ac/institutes/grid.434060.5.. http://www.grid.ac/institutes/grid.438767.9.. 1............................................ [Finisar (Israel)] was compared to [Finisar (Germany)] 
+	http://www.grid.ac/institutes/grid.438767.9.. http://www.grid.ac/institutes/grid.434060.5.. 1............................................ [Finisar (Israel)] was compared to [Finisar (Germany)] 
+	http://www.grid.ac/institutes/grid.471106.5.. http://www.grid.ac/institutes/grid.438386.2.. 1............................................ [Finisar (Sweden)] was compared to [Finisar (United States)] 
+	http://www.grid.ac/institutes/grid.438386.2.. http://www.grid.ac/institutes/grid.471106.5.. 1............................................ [Finisar (Sweden)] was compared to [Finisar (United States)] 
+	http://www.grid.ac/institutes/grid.438767.9.. http://www.grid.ac/institutes/grid.438386.2.. 1............................................ [Finisar (Sweden)] was compared to [Finisar (Germany)] 
+	http://www.grid.ac/institutes/grid.438386.2.. http://www.grid.ac/institutes/grid.438767.9.. 1............................................ [Finisar (Sweden)] was compared to [Finisar (Germany)] 
+	http://www.grid.ac/institutes/grid.438767.9.. http://www.grid.ac/institutes/grid.471106.5.. 1............................................ [Finisar (Germany)] was compared to [Finisar (United States)] 
+	http://www.grid.ac/institutes/grid.471106.5.. http://www.grid.ac/institutes/grid.438767.9.. 1............................................ [Finisar (Germany)] was compared to [Finisar (United States)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 7 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.434060.5.. Finisar (Israel)............................. 
+	http://www.grid.ac/institutes/grid.438767.9.. Finisar (Germany)............................ 
+	http://www.grid.ac/institutes/grid.471106.5.. -122.00168................................... 
+	http://www.grid.ac/institutes/grid.471106.5.. 37.41213..................................... 
+	http://www.grid.ac/institutes/grid.471106.5.. https://www.finisar.com/..................... 
+	http://www.grid.ac/institutes/grid.471106.5.. Finisar (United States)...................... 
+	http://www.grid.ac/institutes/grid.438386.2.. Finisar (Sweden)............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.438767.9', '1:grid.434060.5'), ('3:grid.471106.5', '1:grid.434060.5'), ('3:grid.471106.5', '2:grid.438767.9'), ('3:grid.471106.5', '4:grid.438386.2'), ('4:grid.438386.2', '1:grid.434060.5'), ('4:grid.438386.2', '2:grid.438767.9')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

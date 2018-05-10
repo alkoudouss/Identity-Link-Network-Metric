@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 7302 
+NAME    N142212367
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.40368.39>
+	<http://risis.eu/orgreg_20170718/resource/SK1001>
+	<http://risis.eu/cordisH2020/resource/participant_999456185>
+	<http://www.grid.ac/institutes/grid.419136.8>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.40368.39................. http://www.grid.ac/institutes/grid.419136.8................. 1........................................................... [Institute of Food Research] was compared to [Food Research Institute] 
+	http://www.grid.ac/institutes/grid.419136.8................. http://www.grid.ac/institutes/grid.40368.39................. 1........................................................... [Institute of Food Research] was compared to [Food Research Institute] 
+	http://www.grid.ac/institutes/grid.40368.39................. http://risis.eu/cordisH2020/resource/participant_999456185.. 1........................................................... [Institute of Food Research] was compared to [INSTITUTE OF FOOD RESEARCH] 
+	http://risis.eu/cordisH2020/resource/participant_999456185.. http://www.grid.ac/institutes/grid.40368.39................. 1........................................................... [Institute of Food Research] was compared to [INSTITUTE OF FOOD RESEARCH] 
+	http://risis.eu/cordisH2020/resource/participant_999456185.. http://www.grid.ac/institutes/grid.419136.8................. 1........................................................... [Food Research Institute] was compared to [INSTITUTE OF FOOD RESEARCH] 
+	http://www.grid.ac/institutes/grid.419136.8................. http://risis.eu/cordisH2020/resource/participant_999456185.. 1........................................................... [Food Research Institute] was compared to [INSTITUTE OF FOOD RESEARCH] 
+	http://risis.eu/orgreg_20170718/resource/SK1001............. http://risis.eu/cordisH2020/resource/participant_999456185.. 1........................................................... [Food Research Institute] was compared to [INSTITUTE OF FOOD RESEARCH] 
+	http://risis.eu/cordisH2020/resource/participant_999456185.. http://risis.eu/orgreg_20170718/resource/SK1001............. 1........................................................... [Food Research Institute] was compared to [INSTITUTE OF FOOD RESEARCH] 
+	http://www.grid.ac/institutes/grid.40368.39................. http://risis.eu/orgreg_20170718/resource/SK1001............. 1........................................................... [Institute of Food Research] was compared to [Food Research Institute] 
+	http://risis.eu/orgreg_20170718/resource/SK1001............. http://www.grid.ac/institutes/grid.40368.39................. 1........................................................... [Institute of Food Research] was compared to [Food Research Institute] 
+	http://risis.eu/orgreg_20170718/resource/SK1001............. http://www.grid.ac/institutes/grid.419136.8................. 1........................................................... [Food Research Institute] was compared to [Food Research Institute] 
+	http://www.grid.ac/institutes/grid.419136.8................. http://risis.eu/orgreg_20170718/resource/SK1001............. 1........................................................... [Food Research Institute] was compared to [Food Research Institute] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.40368.39................. 1.224523.................................................... 
+	http://www.grid.ac/institutes/grid.40368.39................. 52.62382.................................................... 
+	http://www.grid.ac/institutes/grid.40368.39................. http://www.ifr.ac.uk/....................................... 
+	http://www.grid.ac/institutes/grid.40368.39................. Institute of Food Research.................................. 
+	http://risis.eu/orgreg_20170718/resource/SK1001............. 17.143186................................................... 
+	http://risis.eu/orgreg_20170718/resource/SK1001............. 48.154323................................................... 
+	http://risis.eu/orgreg_20170718/resource/SK1001............. www.vup.sk.................................................. 
+	http://risis.eu/orgreg_20170718/resource/SK1001............. Food Research Institute..................................... 
+	http://risis.eu/cordisH2020/resource/participant_999456185.. http://risis.eu/cordisH2020/resource/www.ifr.ac.uk.......... 
+	http://risis.eu/cordisH2020/resource/participant_999456185.. INSTITUTE OF FOOD RESEARCH.................................. 
+	http://www.grid.ac/institutes/grid.419136.8................. 17.143192................................................... 
+	http://www.grid.ac/institutes/grid.419136.8................. 48.154198................................................... 
+	http://www.grid.ac/institutes/grid.419136.8................. http://www.vup.sk/en/....................................... 
+	http://www.grid.ac/institutes/grid.419136.8................. Výskumný Ústav Potravinársky............................ 
+	http://www.grid.ac/institutes/grid.419136.8................. Food Research Institute..................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:SK1001', '1:grid.40368.39'), ('2:SK1001', '4:grid.419136.8'), ('3:participant_999456185', '1:grid.40368.39'), ('3:participant_999456185', '2:SK1001'), ('3:participant_999456185', '4:grid.419136.8'), ('4:grid.419136.8', '1:grid.40368.39')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

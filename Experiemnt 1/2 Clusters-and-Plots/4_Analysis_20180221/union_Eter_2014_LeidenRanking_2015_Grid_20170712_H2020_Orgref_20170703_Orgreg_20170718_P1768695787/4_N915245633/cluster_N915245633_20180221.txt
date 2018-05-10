@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 3278 
+NAME    N915245633
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.11162.35>
+	<http://risis.eu/orgref_20170703/resource/5291239>
+	<http://risis.eu/leidenRanking_2015/resource/2649>
+	<http://risis.eu/cordisH2020/resource/participant_998207116>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.11162.35................. http://risis.eu/orgref_20170703/resource/5291239............ 1........................................................... [University of Picardie Jules Verne] was compared to [University of Picardie Jules Verne] 
+	http://risis.eu/orgref_20170703/resource/5291239............ http://www.grid.ac/institutes/grid.11162.35................. 1........................................................... [University of Picardie Jules Verne] was compared to [University of Picardie Jules Verne] 
+	http://www.grid.ac/institutes/grid.11162.35................. http://risis.eu/leidenRanking_2015/resource/2649............ 1........................................................... [University of Picardie Jules Verne] was compared to [University of Picardie Jules Verne] 
+	http://risis.eu/leidenRanking_2015/resource/2649............ http://www.grid.ac/institutes/grid.11162.35................. 1........................................................... [University of Picardie Jules Verne] was compared to [University of Picardie Jules Verne] 
+	http://www.grid.ac/institutes/grid.11162.35................. http://risis.eu/cordisH2020/resource/participant_998207116.. 0.967741935484.............................................. [University of Picardie Jules Verne] was compared to [UNIVERSITE DE PICARDIE JULES VERNE] 
+	http://risis.eu/cordisH2020/resource/participant_998207116.. http://www.grid.ac/institutes/grid.11162.35................. 0.967741935484.............................................. [University of Picardie Jules Verne] was compared to [UNIVERSITE DE PICARDIE JULES VERNE] 
+	http://risis.eu/orgref_20170703/resource/5291239............ http://risis.eu/leidenRanking_2015/resource/2649............ 1........................................................... [University of Picardie Jules Verne] was compared to [University of Picardie Jules Verne] 
+	http://risis.eu/leidenRanking_2015/resource/2649............ http://risis.eu/orgref_20170703/resource/5291239............ 1........................................................... [University of Picardie Jules Verne] was compared to [University of Picardie Jules Verne] 
+	http://risis.eu/orgref_20170703/resource/5291239............ http://risis.eu/cordisH2020/resource/participant_998207116.. 0.967741935484.............................................. [University of Picardie Jules Verne] was compared to [UNIVERSITE DE PICARDIE JULES VERNE] 
+	http://risis.eu/cordisH2020/resource/participant_998207116.. http://risis.eu/orgref_20170703/resource/5291239............ 0.967741935484.............................................. [University of Picardie Jules Verne] was compared to [UNIVERSITE DE PICARDIE JULES VERNE] 
+	http://risis.eu/leidenRanking_2015/resource/2649............ http://risis.eu/cordisH2020/resource/participant_998207116.. 0.967741935484.............................................. [UNIVERSITE DE PICARDIE JULES VERNE] was compared to [University of Picardie Jules Verne] 
+	http://risis.eu/cordisH2020/resource/participant_998207116.. http://risis.eu/leidenRanking_2015/resource/2649............ 0.967741935484.............................................. [UNIVERSITE DE PICARDIE JULES VERNE] was compared to [University of Picardie Jules Verne] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.11162.35................. 2.2646...................................................... 
+	http://www.grid.ac/institutes/grid.11162.35................. 49.8768..................................................... 
+	http://www.grid.ac/institutes/grid.11162.35................. https://www.u-picardie.fr/.................................. 
+	http://www.grid.ac/institutes/grid.11162.35................. University of Picardie Jules Verne.......................... 
+	http://risis.eu/orgref_20170703/resource/5291239............ http://en.wikipedia.org/wiki?curid=5291239.................. 
+	http://risis.eu/orgref_20170703/resource/5291239............ http://www.wikidata.org/wiki/Q947747........................ 
+	http://risis.eu/orgref_20170703/resource/5291239............ http://www.u-picardie.fr/jsp/fiche_pagelibre_accueil.jsp?code=95546447&langue=1 
+	http://risis.eu/orgref_20170703/resource/5291239............ University of Picardie Jules Verne.......................... 
+	http://risis.eu/leidenRanking_2015/resource/2649............ University of Picardie Jules Verne.......................... 
+	http://risis.eu/cordisH2020/resource/participant_998207116.. http://risis.eu/cordisH2020/resource/www.u-picardie.fr...... 
+	http://risis.eu/cordisH2020/resource/participant_998207116.. UNIVERSITE DE PICARDIE JULES VERNE.......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:5291239', '1:grid.11162.35'), ('3:2649', '1:grid.11162.35'), ('3:2649', '2:5291239'), ('4:participant_998207116', '1:grid.11162.35'), ('4:participant_998207116', '2:5291239'), ('4:participant_998207116', '3:2649')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

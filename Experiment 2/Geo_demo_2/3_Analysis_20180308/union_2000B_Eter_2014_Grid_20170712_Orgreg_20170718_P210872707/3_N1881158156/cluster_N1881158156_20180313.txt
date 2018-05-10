@@ -1,0 +1,57 @@
+SIZE    3   
+CLUSTER 592 
+NAME    N1881158156
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/DE0461>
+	<http://www.grid.ac/institutes/grid.473452.3>
+	<http://risis.eu/eter_2014/resource/DE0461>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/DE0461.. http://www.grid.ac/institutes/grid.473452.3...... 1................................................ Near each other by at most 2000 meter(s)......... 
+	http://risis.eu/orgreg_20170718/resource/DE0461.. http://risis.eu/eter_2014/resource/DE0461........ 1................................................ Near each other by at most 2000 meter(s)......... 
+	http://www.grid.ac/institutes/grid.473452.3...... http://risis.eu/eter_2014/resource/DE0461........ 1................................................ Near each other by at most 2000 meter(s)......... 
+	http://www.grid.ac/institutes/grid.473452.3...... http://risis.eu/orgreg_20170718/resource/DE0461.. 1................................................ Near each other by at most 2000 meter(s)......... 
+	http://risis.eu/eter_2014/resource/DE0461........ http://www.grid.ac/institutes/grid.473452.3...... 1................................................ Near each other by at most 2000 meter(s)......... 
+	http://risis.eu/eter_2014/resource/DE0461........ http://risis.eu/orgreg_20170718/resource/DE0461.. 1................................................ Near each other by at most 2000 meter(s)......... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/DE0461.. 12.772491........................................ 
+	http://risis.eu/orgreg_20170718/resource/DE0461.. 52.907837........................................ 
+	http://risis.eu/orgreg_20170718/resource/DE0461.. m................................................ 
+	http://risis.eu/orgreg_20170718/resource/DE0461.. Medizinische Hochschule Brandenburg in Neuruppin (Priv. U) 
+	http://www.grid.ac/institutes/grid.473452.3...... 12.797349........................................ 
+	http://www.grid.ac/institutes/grid.473452.3...... 52.906353........................................ 
+	http://www.grid.ac/institutes/grid.473452.3...... http://www.mhb-fontane.de/....................... 
+	http://www.grid.ac/institutes/grid.473452.3...... Medizinische Hochschule Brandenburg Theodor Fontane 
+	http://risis.eu/eter_2014/resource/DE0461........ 52,907837........................................ 
+	http://risis.eu/eter_2014/resource/DE0461........ 12,772491........................................ 
+	http://risis.eu/eter_2014/resource/DE0461........ m................................................ 
+	http://risis.eu/eter_2014/resource/DE0461........ a................................................ 
+	http://risis.eu/eter_2014/resource/DE0461........ Medizinische Hochschule Brandenburg in Neuruppin (Priv. U) 
+
+NETWORK ANALYSIS
+	NETWORK [('N1109863396-DE0461', 'N1881158156-grid.473452.3'), ('N1109863396-DE0461', 'P913390841-DE0461'), ('P913390841-DE0461', 'N1881158156-grid.473452.3')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 13080 
+NAME    N459198966
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/21276009>
+	<http://risis.eu/leidenRanking_2015/resource/10338>
+	<http://risis.eu/orgref_20170703/resource/31520649>
+	<http://www.grid.ac/institutes/grid.412508.a>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/21276009.. http://www.grid.ac/institutes/grid.412508.a........ 1.................................................. [Shandong University of Science and Technology] was compared to [Shandong University of Science and Technology] 
+	http://www.grid.ac/institutes/grid.412508.a........ http://risis.eu/orgref_20170703/resource/21276009.. 1.................................................. [Shandong University of Science and Technology] was compared to [Shandong University of Science and Technology] 
+	http://risis.eu/leidenRanking_2015/resource/10338.. http://www.grid.ac/institutes/grid.412508.a........ 1.................................................. [Shandong University of Science and Technology] was compared to [Shandong University of Science and Technology] 
+	http://www.grid.ac/institutes/grid.412508.a........ http://risis.eu/leidenRanking_2015/resource/10338.. 1.................................................. [Shandong University of Science and Technology] was compared to [Shandong University of Science and Technology] 
+	http://risis.eu/orgref_20170703/resource/21276009.. http://risis.eu/leidenRanking_2015/resource/10338.. 1.................................................. [Shandong University of Science and Technology] was compared to [Shandong University of Science and Technology] 
+	http://risis.eu/leidenRanking_2015/resource/10338.. http://risis.eu/orgref_20170703/resource/21276009.. 1.................................................. [Shandong University of Science and Technology] was compared to [Shandong University of Science and Technology] 
+	http://risis.eu/orgref_20170703/resource/21276009.. http://risis.eu/orgref_20170703/resource/31520649.. 0.923076923077..................................... [Shandong University of Science and Technology] was compared to [Guangdong University of Science and Technology] 
+	http://risis.eu/orgref_20170703/resource/31520649.. http://risis.eu/orgref_20170703/resource/21276009.. 0.923076923077..................................... [Shandong University of Science and Technology] was compared to [Guangdong University of Science and Technology] 
+	http://risis.eu/leidenRanking_2015/resource/10338.. http://risis.eu/orgref_20170703/resource/31520649.. 0.923076923077..................................... [Guangdong University of Science and Technology] was compared to [Shandong University of Science and Technology] 
+	http://risis.eu/orgref_20170703/resource/31520649.. http://risis.eu/leidenRanking_2015/resource/10338.. 0.923076923077..................................... [Guangdong University of Science and Technology] was compared to [Shandong University of Science and Technology] 
+	http://risis.eu/orgref_20170703/resource/31520649.. http://www.grid.ac/institutes/grid.412508.a........ 0.923076923077..................................... [Shandong University of Science and Technology] was compared to [Guangdong University of Science and Technology] 
+	http://www.grid.ac/institutes/grid.412508.a........ http://risis.eu/orgref_20170703/resource/31520649.. 0.923076923077..................................... [Shandong University of Science and Technology] was compared to [Guangdong University of Science and Technology] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/21276009.. http://en.wikipedia.org/wiki?curid=21276009........ 
+	http://risis.eu/orgref_20170703/resource/21276009.. http://www.wikidata.org/wiki/Q7487936.............. 
+	http://risis.eu/orgref_20170703/resource/21276009.. http://www.sdust.edu.cn............................ 
+	http://risis.eu/orgref_20170703/resource/21276009.. Shandong University of Science and Technology...... 
+	http://risis.eu/leidenRanking_2015/resource/10338.. Shandong University of Science and Technology...... 
+	http://risis.eu/orgref_20170703/resource/31520649.. http://en.wikipedia.org/wiki?curid=31520649........ 
+	http://risis.eu/orgref_20170703/resource/31520649.. http://www.wikidata.org/wiki/Q5613647.............. 
+	http://risis.eu/orgref_20170703/resource/31520649.. http://gdst.cc..................................... 
+	http://risis.eu/orgref_20170703/resource/31520649.. Guangdong University of Science and Technology..... 
+	http://www.grid.ac/institutes/grid.412508.a........ 120.12485.......................................... 
+	http://www.grid.ac/institutes/grid.412508.a........ 36.00012........................................... 
+	http://www.grid.ac/institutes/grid.412508.a........ http://en.sdust.edu.cn/............................ 
+	http://www.grid.ac/institutes/grid.412508.a........ Shāndōng Kējì Dàxué.......................... 
+	http://www.grid.ac/institutes/grid.412508.a........ Shandong University of Science and Technology...... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:21276009', '4:grid.412508.a'), ('2:10338', '1:21276009'), ('3:31520649', '1:21276009'), ('3:31520649', '2:10338'), ('3:31520649', '4:grid.412508.a'), ('4:grid.412508.a', '2:10338')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

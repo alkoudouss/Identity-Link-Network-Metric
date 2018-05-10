@@ -1,0 +1,58 @@
+SIZE    3   
+CLUSTER 817 
+NAME    N292793184
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/AT0046>
+	<http://risis.eu/eter_2014/resource/AT0046>
+	<http://www.grid.ac/institutes/grid.466238.d>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/AT0046.. http://risis.eu/eter_2014/resource/AT0046........ 1................................................ [university education vienna] was compared to [university education vienna] 
+	http://risis.eu/eter_2014/resource/AT0046........ http://www.grid.ac/institutes/grid.466238.d...... 1................................................ [new bulgarian university] was compared to [new bulgarian university] 
+	http://risis.eu/eter_2014/resource/AT0046........ http://www.grid.ac/institutes/grid.466238.d...... 1................................................ [padagogische hochschule wien] was compared to [padagogische hochschule wien] 
+	http://risis.eu/eter_2014/resource/AT0046........ http://risis.eu/orgreg_20170718/resource/AT0046.. 1................................................ [university education vienna] was compared to [university education vienna] 
+	http://www.grid.ac/institutes/grid.466238.d...... http://risis.eu/eter_2014/resource/AT0046........ 1................................................ [new bulgarian university] was compared to [new bulgarian university] 
+	http://www.grid.ac/institutes/grid.466238.d...... http://risis.eu/eter_2014/resource/AT0046........ 1................................................ [padagogische hochschule wien] was compared to [padagogische hochschule wien] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/AT0046.. 16.39............................................ 
+	http://risis.eu/orgreg_20170718/resource/AT0046.. 48.16............................................ 
+	http://risis.eu/orgreg_20170718/resource/AT0046.. http://www.phwien.ac.at/......................... 
+	http://risis.eu/orgreg_20170718/resource/AT0046.. University of Education in Vienna................ 
+	http://risis.eu/eter_2014/resource/AT0046........ 48,156464........................................ 
+	http://risis.eu/eter_2014/resource/AT0046........ 16,391068........................................ 
+	http://risis.eu/eter_2014/resource/AT0046........ http://www.phwien.ac.at/......................... 
+	http://risis.eu/eter_2014/resource/AT0046........ a................................................ 
+	http://risis.eu/eter_2014/resource/AT0046........ University of Education in Vienna................ 
+	http://risis.eu/eter_2014/resource/AT0046........ Pädagogische Hochschule Wien.................... 
+	http://www.grid.ac/institutes/grid.466238.d...... 16.374226........................................ 
+	http://www.grid.ac/institutes/grid.466238.d...... 48.164562........................................ 
+	http://www.grid.ac/institutes/grid.466238.d...... http://www.phwien.ac.at/......................... 
+	http://www.grid.ac/institutes/grid.466238.d...... Pädagogische Hochschule Wien.................... 
+
+NETWORK ANALYSIS
+	NETWORK [('P837266337-AT0046', 'P241128461-grid.466238.d'), ('P837266337-AT0046', 'N292793184-AT0046')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

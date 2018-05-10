@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 12670 
+NAME    N1812663913
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.435243.7>
+	<http://www.grid.ac/institutes/grid.472705.3>
+	<http://www.grid.ac/institutes/grid.465309.d>
+	<http://www.grid.ac/institutes/grid.458476.c>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.472705.3.. http://www.grid.ac/institutes/grid.458476.c.. 0.8.......................................... [Institute of Geology and Geophysics] was compared to [Institute of Marine Geology and Geophysics] 
+	http://www.grid.ac/institutes/grid.458476.c.. http://www.grid.ac/institutes/grid.472705.3.. 0.8.......................................... [Institute of Geology and Geophysics] was compared to [Institute of Marine Geology and Geophysics] 
+	http://www.grid.ac/institutes/grid.435243.7.. http://www.grid.ac/institutes/grid.472705.3.. 0.8.......................................... [Institute of Geology and Geophysics] was compared to [Institute of Marine Geology and Geophysics] 
+	http://www.grid.ac/institutes/grid.472705.3.. http://www.grid.ac/institutes/grid.435243.7.. 0.8.......................................... [Institute of Geology and Geophysics] was compared to [Institute of Marine Geology and Geophysics] 
+	http://www.grid.ac/institutes/grid.435243.7.. http://www.grid.ac/institutes/grid.458476.c.. 1............................................ [Institute of Geology and Geophysics] was compared to [Institute of Geology and Geophysics] 
+	http://www.grid.ac/institutes/grid.458476.c.. http://www.grid.ac/institutes/grid.435243.7.. 1............................................ [Institute of Geology and Geophysics] was compared to [Institute of Geology and Geophysics] 
+	http://www.grid.ac/institutes/grid.472705.3.. http://www.grid.ac/institutes/grid.465309.d.. 0.815789473684............................... [Institute of Petroleum Geology and Geophysics] was compared to [Institute of Marine Geology and Geophysics] 
+	http://www.grid.ac/institutes/grid.465309.d.. http://www.grid.ac/institutes/grid.472705.3.. 0.815789473684............................... [Institute of Petroleum Geology and Geophysics] was compared to [Institute of Marine Geology and Geophysics] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.435243.7.. 49.86145..................................... 
+	http://www.grid.ac/institutes/grid.435243.7.. 40.40409..................................... 
+	http://www.grid.ac/institutes/grid.435243.7.. http://gia.az/view.php?lang=en&menu=0........ 
+	http://www.grid.ac/institutes/grid.435243.7.. Institute of Geology and Geophysics.......... 
+	http://www.grid.ac/institutes/grid.472705.3.. 105.7936..................................... 
+	http://www.grid.ac/institutes/grid.472705.3.. 21.046064.................................... 
+	http://www.grid.ac/institutes/grid.472705.3.. http://imgg.vast.vn/......................... 
+	http://www.grid.ac/institutes/grid.472705.3.. Hanoi Institute of Oceanography.............. 
+	http://www.grid.ac/institutes/grid.472705.3.. Institute of Marine Geology and Geophysics... 
+	http://www.grid.ac/institutes/grid.465309.d.. 83.10472..................................... 
+	http://www.grid.ac/institutes/grid.465309.d.. 54.844902.................................... 
+	http://www.grid.ac/institutes/grid.465309.d.. http://www.ipgg.sbras.ru/en.................. 
+	http://www.grid.ac/institutes/grid.465309.d.. Federal State Institution of Science Institute of Petroleum Geology and Geophysics. AA Trofimuk Siberian Branch of the Russian Academy of Sciences 
+	http://www.grid.ac/institutes/grid.465309.d.. Institute of Petroleum Geology and Geophysics 
+	http://www.grid.ac/institutes/grid.458476.c.. 116.384...................................... 
+	http://www.grid.ac/institutes/grid.458476.c.. 39.97738..................................... 
+	http://www.grid.ac/institutes/grid.458476.c.. http://english.igg.cas.cn/................... 
+	http://www.grid.ac/institutes/grid.458476.c.. Institute of Geology and Geophysics.......... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.472705.3', '1:grid.435243.7'), ('3:grid.465309.d', '2:grid.472705.3'), ('4:grid.458476.c', '1:grid.435243.7'), ('4:grid.458476.c', '2:grid.472705.3')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 15148 
+NAME    N1877379615
+
+RESOURCES INVOLVED
+	<http://risis.eu/cordisH2020/resource/participant_999886283>
+	<http://risis.eu/leidenRanking_2015/resource/655>
+	<http://risis.eu/eter_2014/resource/ES0042>
+	<http://risis.eu/orgreg_20170718/resource/ES0042>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_999886283.. http://risis.eu/leidenRanking_2015/resource/655............. 0.888888888889.............................................. [UNIVERSIDAD REY JUAN CARLOS] was compared to [Rey Juan Carlos University] 
+	http://risis.eu/leidenRanking_2015/resource/655............. http://risis.eu/cordisH2020/resource/participant_999886283.. 0.888888888889.............................................. [UNIVERSIDAD REY JUAN CARLOS] was compared to [Rey Juan Carlos University] 
+	http://risis.eu/cordisH2020/resource/participant_999886283.. http://risis.eu/eter_2014/resource/ES0042................... 1........................................................... [UNIVERSIDAD REY JUAN CARLOS] was compared to [Universidad Rey Juan Carlos] 
+	http://risis.eu/eter_2014/resource/ES0042................... http://risis.eu/cordisH2020/resource/participant_999886283.. 1........................................................... [UNIVERSIDAD REY JUAN CARLOS] was compared to [Universidad Rey Juan Carlos] 
+	http://risis.eu/leidenRanking_2015/resource/655............. http://risis.eu/eter_2014/resource/ES0042................... 0.888888888889.............................................. [Universidad Rey Juan Carlos] was compared to [Rey Juan Carlos University] 
+	http://risis.eu/eter_2014/resource/ES0042................... http://risis.eu/leidenRanking_2015/resource/655............. 0.888888888889.............................................. [Universidad Rey Juan Carlos] was compared to [Rey Juan Carlos University] 
+	http://risis.eu/leidenRanking_2015/resource/655............. http://risis.eu/orgreg_20170718/resource/ES0042............. 1........................................................... [Rey Juan Carlos University] was compared to [Rey Juan Carlos University] 
+	http://risis.eu/orgreg_20170718/resource/ES0042............. http://risis.eu/leidenRanking_2015/resource/655............. 1........................................................... [Rey Juan Carlos University] was compared to [Rey Juan Carlos University] 
+	http://risis.eu/cordisH2020/resource/participant_999886283.. http://risis.eu/orgreg_20170718/resource/ES0042............. 0.888888888889.............................................. [Rey Juan Carlos University] was compared to [UNIVERSIDAD REY JUAN CARLOS] 
+	http://risis.eu/orgreg_20170718/resource/ES0042............. http://risis.eu/cordisH2020/resource/participant_999886283.. 0.888888888889.............................................. [Rey Juan Carlos University] was compared to [UNIVERSIDAD REY JUAN CARLOS] 
+	http://risis.eu/eter_2014/resource/ES0042................... http://risis.eu/orgreg_20170718/resource/ES0042............. 0.888888888889.............................................. [Rey Juan Carlos University] was compared to [Universidad Rey Juan Carlos] 
+	http://risis.eu/orgreg_20170718/resource/ES0042............. http://risis.eu/eter_2014/resource/ES0042................... 0.888888888889.............................................. [Rey Juan Carlos University] was compared to [Universidad Rey Juan Carlos] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_999886283.. http://www.ibvf.cartija.csic.es............................. 
+	http://risis.eu/cordisH2020/resource/participant_999886283.. UNIVERSIDAD REY JUAN CARLOS................................. 
+	http://risis.eu/leidenRanking_2015/resource/655............. Rey Juan Carlos University.................................. 
+	http://risis.eu/eter_2014/resource/ES0042................... 40,284697................................................... 
+	http://risis.eu/eter_2014/resource/ES0042................... -3,807025................................................... 
+	http://risis.eu/eter_2014/resource/ES0042................... http://www.urjc.es.......................................... 
+	http://risis.eu/eter_2014/resource/ES0042................... a........................................................... 
+	http://risis.eu/eter_2014/resource/ES0042................... Rey Juan Carlos University.................................. 
+	http://risis.eu/eter_2014/resource/ES0042................... Universidad Rey Juan Carlos................................. 
+	http://risis.eu/orgreg_20170718/resource/ES0042............. 40.284697................................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0042............. -3.807025................................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0042............. http://www.urjc.es.......................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0042............. Rey Juan Carlos University.................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:participant_999886283', '4:ES0042'), ('2:655', '1:participant_999886283'), ('2:655', '3:ES0042'), ('2:655', '4:ES0042'), ('3:ES0042', '1:participant_999886283'), ('4:ES0042', '3:ES0042')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

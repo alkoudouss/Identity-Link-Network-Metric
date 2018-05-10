@@ -1,0 +1,69 @@
+SIZE    4   
+CLUSTER 5595 
+NAME    N783187525
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.415445.5>
+	<http://www.grid.ac/institutes/grid.63368.38>
+	<http://www.grid.ac/institutes/grid.415433.4>
+	<http://www.grid.ac/institutes/grid.461396.f>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.63368.38.. http://www.grid.ac/institutes/grid.415433.4.. 1............................................ [Methodist Hospital] was compared to [Methodist Hospital] 
+	http://www.grid.ac/institutes/grid.415433.4.. http://www.grid.ac/institutes/grid.63368.38.. 1............................................ [Methodist Hospital] was compared to [Methodist Hospital] 
+	http://www.grid.ac/institutes/grid.415433.4.. http://www.grid.ac/institutes/grid.461396.f.. 1............................................ [Methodist Hospital] was compared to [Methodist Hospital] 
+	http://www.grid.ac/institutes/grid.461396.f.. http://www.grid.ac/institutes/grid.415433.4.. 1............................................ [Methodist Hospital] was compared to [Methodist Hospital] 
+	http://www.grid.ac/institutes/grid.415445.5.. http://www.grid.ac/institutes/grid.415433.4.. 1............................................ [Methodist Hospital] was compared to [Methodist Hospital] 
+	http://www.grid.ac/institutes/grid.415433.4.. http://www.grid.ac/institutes/grid.415445.5.. 1............................................ [Methodist Hospital] was compared to [Methodist Hospital] 
+	http://www.grid.ac/institutes/grid.415445.5.. http://www.grid.ac/institutes/grid.63368.38.. 1............................................ [Methodist Hospital] was compared to [Methodist Hospital] 
+	http://www.grid.ac/institutes/grid.63368.38.. http://www.grid.ac/institutes/grid.415445.5.. 1............................................ [Methodist Hospital] was compared to [Methodist Hospital] 
+	http://www.grid.ac/institutes/grid.415445.5.. http://www.grid.ac/institutes/grid.461396.f.. 1............................................ [Methodist Hospital] was compared to [Methodist Hospital] 
+	http://www.grid.ac/institutes/grid.461396.f.. http://www.grid.ac/institutes/grid.415445.5.. 1............................................ [Methodist Hospital] was compared to [Methodist Hospital] 
+	http://www.grid.ac/institutes/grid.63368.38.. http://www.grid.ac/institutes/grid.461396.f.. 1............................................ [Methodist Hospital] was compared to [Methodist Hospital] 
+	http://www.grid.ac/institutes/grid.461396.f.. http://www.grid.ac/institutes/grid.63368.38.. 1............................................ [Methodist Hospital] was compared to [Methodist Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.415445.5.. -96.04169.................................... 
+	http://www.grid.ac/institutes/grid.415445.5.. 41.257954.................................... 
+	http://www.grid.ac/institutes/grid.415445.5.. https://www.bestcare.org/methodist-hospital/. 
+	http://www.grid.ac/institutes/grid.415445.5.. Methodist Hospital........................... 
+	http://www.grid.ac/institutes/grid.63368.38.. -95.55079.................................... 
+	http://www.grid.ac/institutes/grid.63368.38.. 29.966967.................................... 
+	http://www.grid.ac/institutes/grid.63368.38.. http://www.houstonmethodist.org/?sl=general&gclid=COK5taLm4cYCFUvItAodWqcNSQ 
+	http://www.grid.ac/institutes/grid.63368.38.. Methodist Hospital........................... 
+	http://www.grid.ac/institutes/grid.415433.4.. -86.1625..................................... 
+	http://www.grid.ac/institutes/grid.415433.4.. 39.79028..................................... 
+	http://www.grid.ac/institutes/grid.415433.4.. http://iuhealth.org/methodist/............... 
+	http://www.grid.ac/institutes/grid.415433.4.. IU Health Methodist Hospital................. 
+	http://www.grid.ac/institutes/grid.415433.4.. Indiana University Health Methodist Hospital. 
+	http://www.grid.ac/institutes/grid.415433.4.. Methodist Hospital........................... 
+	http://www.grid.ac/institutes/grid.461396.f.. -121.41738................................... 
+	http://www.grid.ac/institutes/grid.461396.f.. 38.464127.................................... 
+	http://www.grid.ac/institutes/grid.461396.f.. http://www.dignityhealth.org/sacramento/hospitals/methodist-hospital-of-sacramento/ 
+	http://www.grid.ac/institutes/grid.461396.f.. Methodist Hospital........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.63368.38', '1:grid.415445.5'), ('2:grid.63368.38', '3:grid.415433.4'), ('3:grid.415433.4', '1:grid.415445.5'), ('4:grid.461396.f', '1:grid.415445.5'), ('4:grid.461396.f', '2:grid.63368.38'), ('4:grid.461396.f', '3:grid.415433.4')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

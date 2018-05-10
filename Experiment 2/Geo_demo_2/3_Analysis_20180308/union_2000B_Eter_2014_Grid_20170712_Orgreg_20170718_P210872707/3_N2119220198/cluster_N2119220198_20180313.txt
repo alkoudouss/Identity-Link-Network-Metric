@@ -1,0 +1,57 @@
+SIZE    3   
+CLUSTER 868 
+NAME    N2119220198
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/FR0295>
+	<http://risis.eu/eter_2014/resource/FR0093>
+	<http://www.grid.ac/institutes/grid.466398.6>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/FR0295.... http://www.grid.ac/institutes/grid.466398.6.. 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/FR0093.... http://www.grid.ac/institutes/grid.466398.6.. 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://www.grid.ac/institutes/grid.466398.6.. http://risis.eu/eter_2014/resource/FR0093.... 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://www.grid.ac/institutes/grid.466398.6.. http://risis.eu/eter_2014/resource/FR0295.... 1............................................ Near each other by at most 2000 meter(s)..... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/FR0295.... 47,902314.................................... 
+	http://risis.eu/eter_2014/resource/FR0295.... 1,927295..................................... 
+	http://risis.eu/eter_2014/resource/FR0295.... http://www.univ-orleans.fr/espe.............. 
+	http://risis.eu/eter_2014/resource/FR0295.... m............................................ 
+	http://risis.eu/eter_2014/resource/FR0295.... ESPE Centre Val de Loire..................... 
+	http://risis.eu/eter_2014/resource/FR0093.... 47,910833.................................... 
+	http://risis.eu/eter_2014/resource/FR0093.... 1,915798..................................... 
+	http://risis.eu/eter_2014/resource/FR0093.... http://www.esad-orleans.com/................. 
+	http://risis.eu/eter_2014/resource/FR0093.... m............................................ 
+	http://risis.eu/eter_2014/resource/FR0093.... École supérieure d'art et de design d'Orléans 
+	http://www.grid.ac/institutes/grid.466398.6.. 1.910365..................................... 
+	http://www.grid.ac/institutes/grid.466398.6.. 47.90277..................................... 
+	http://www.grid.ac/institutes/grid.466398.6.. http://www.esad-orleans.fr/.................. 
+	http://www.grid.ac/institutes/grid.466398.6.. ÉSAD Orléans............................... 
+	http://www.grid.ac/institutes/grid.466398.6.. École Supérieure d'Art et de Design d'Orléans 
+
+NETWORK ANALYSIS
+	NETWORK [('N1854189982-FR0093', 'P133671190-grid.466398.6'), ('N2119220198-FR0295', 'P133671190-grid.466398.6')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

@@ -1,0 +1,58 @@
+SIZE    4   
+CLUSTER 11049 
+NAME    N1883898905
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/12626653>
+	<http://risis.eu/leidenRanking_2015/resource/7153>
+	<http://risis.eu/cordisH2020/resource/participant_998692601>
+	<http://www.grid.ac/institutes/grid.423694.e>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/12626653........... http://www.grid.ac/institutes/grid.423694.e................. 1........................................................... [Leibniz Institute for Astrophysics Potsdam] was compared to [Leibniz Institute for Astrophysics Potsdam] 
+	http://www.grid.ac/institutes/grid.423694.e................. http://risis.eu/orgref_20170703/resource/12626653........... 1........................................................... [Leibniz Institute for Astrophysics Potsdam] was compared to [Leibniz Institute for Astrophysics Potsdam] 
+	http://risis.eu/leidenRanking_2015/resource/7153............ http://www.grid.ac/institutes/grid.423694.e................. 1........................................................... [Leibniz Institute for Astrophysics Potsdam] was compared to [Leibniz Institute for Astrophysics Potsdam (AIP)] 
+	http://www.grid.ac/institutes/grid.423694.e................. http://risis.eu/leidenRanking_2015/resource/7153............ 1........................................................... [Leibniz Institute for Astrophysics Potsdam] was compared to [Leibniz Institute for Astrophysics Potsdam (AIP)] 
+	http://risis.eu/orgref_20170703/resource/12626653........... http://risis.eu/leidenRanking_2015/resource/7153............ 1........................................................... [Leibniz Institute for Astrophysics Potsdam] was compared to [Leibniz Institute for Astrophysics Potsdam (AIP)] 
+	http://risis.eu/leidenRanking_2015/resource/7153............ http://risis.eu/orgref_20170703/resource/12626653........... 1........................................................... [Leibniz Institute for Astrophysics Potsdam] was compared to [Leibniz Institute for Astrophysics Potsdam (AIP)] 
+	http://risis.eu/leidenRanking_2015/resource/7153............ http://risis.eu/cordisH2020/resource/participant_998692601.. 0.820512820513.............................................. [LEIBNIZ-INSTITUT FUR ASTROPHYSIK POTSDAM (AIP)] was compared to [Leibniz Institute for Astrophysics Potsdam (AIP)] 
+	http://risis.eu/cordisH2020/resource/participant_998692601.. http://risis.eu/leidenRanking_2015/resource/7153............ 0.820512820513.............................................. [LEIBNIZ-INSTITUT FUR ASTROPHYSIK POTSDAM (AIP)] was compared to [Leibniz Institute for Astrophysics Potsdam (AIP)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/12626653........... http://en.wikipedia.org/wiki?curid=12626653................. 
+	http://risis.eu/orgref_20170703/resource/12626653........... http://www.wikidata.org/wiki/Q662864........................ 
+	http://risis.eu/orgref_20170703/resource/12626653........... http://www.aip.de........................................... 
+	http://risis.eu/orgref_20170703/resource/12626653........... Leibniz Institute for Astrophysics Potsdam.................. 
+	http://risis.eu/leidenRanking_2015/resource/7153............ Leibniz Institute for Astrophysics Potsdam (AIP)............ 
+	http://risis.eu/cordisH2020/resource/participant_998692601.. http://risis.eu/cordisH2020/resource/www.aip.de............. 
+	http://risis.eu/cordisH2020/resource/participant_998692601.. LEIBNIZ-INSTITUT FUR ASTROPHYSIK POTSDAM (AIP).............. 
+	http://www.grid.ac/institutes/grid.423694.e................. 13.104167................................................... 
+	http://www.grid.ac/institutes/grid.423694.e................. 52.405...................................................... 
+	http://www.grid.ac/institutes/grid.423694.e................. http://www.aip.de/en/institute.............................. 
+	http://www.grid.ac/institutes/grid.423694.e................. Leibniz Institute for Astrophysics Potsdam.................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:7153', '1:12626653'), ('2:7153', '4:grid.423694.e'), ('3:participant_998692601', '2:7153'), ('4:grid.423694.e', '1:12626653')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

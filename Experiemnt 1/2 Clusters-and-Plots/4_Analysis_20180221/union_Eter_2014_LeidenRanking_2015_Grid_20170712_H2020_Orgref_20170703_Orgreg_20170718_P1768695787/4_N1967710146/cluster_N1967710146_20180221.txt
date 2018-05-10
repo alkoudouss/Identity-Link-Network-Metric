@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 5961 
+NAME    N1967710146
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/21939>
+	<http://risis.eu/orgref_20170703/resource/32903058>
+	<http://www.grid.ac/institutes/grid.482831.4>
+	<http://risis.eu/orgref_20170703/resource/22719622>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/32903058.. http://www.grid.ac/institutes/grid.482831.4........ 1.................................................. [National Security Agency] was compared to [National Security Agency (Bahrain)] 
+	http://www.grid.ac/institutes/grid.482831.4........ http://risis.eu/orgref_20170703/resource/32903058.. 1.................................................. [National Security Agency] was compared to [National Security Agency (Bahrain)] 
+	http://www.grid.ac/institutes/grid.482831.4........ http://risis.eu/orgref_20170703/resource/22719622.. 1.................................................. [National Security Agency] was compared to [National Security Agency (Montenegro)] 
+	http://risis.eu/orgref_20170703/resource/22719622.. http://www.grid.ac/institutes/grid.482831.4........ 1.................................................. [National Security Agency] was compared to [National Security Agency (Montenegro)] 
+	http://risis.eu/orgref_20170703/resource/21939..... http://www.grid.ac/institutes/grid.482831.4........ 1.................................................. [National Security Agency] was compared to [National Security Agency] 
+	http://www.grid.ac/institutes/grid.482831.4........ http://risis.eu/orgref_20170703/resource/21939..... 1.................................................. [National Security Agency] was compared to [National Security Agency] 
+	http://risis.eu/orgref_20170703/resource/32903058.. http://risis.eu/orgref_20170703/resource/22719622.. 1.................................................. [National Security Agency (Montenegro)] was compared to [National Security Agency (Bahrain)] 
+	http://risis.eu/orgref_20170703/resource/22719622.. http://risis.eu/orgref_20170703/resource/32903058.. 1.................................................. [National Security Agency (Montenegro)] was compared to [National Security Agency (Bahrain)] 
+	http://risis.eu/orgref_20170703/resource/21939..... http://risis.eu/orgref_20170703/resource/32903058.. 1.................................................. [National Security Agency] was compared to [National Security Agency (Bahrain)] 
+	http://risis.eu/orgref_20170703/resource/32903058.. http://risis.eu/orgref_20170703/resource/21939..... 1.................................................. [National Security Agency] was compared to [National Security Agency (Bahrain)] 
+	http://risis.eu/orgref_20170703/resource/21939..... http://risis.eu/orgref_20170703/resource/22719622.. 1.................................................. [National Security Agency] was compared to [National Security Agency (Montenegro)] 
+	http://risis.eu/orgref_20170703/resource/22719622.. http://risis.eu/orgref_20170703/resource/21939..... 1.................................................. [National Security Agency] was compared to [National Security Agency (Montenegro)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/21939..... http://en.wikipedia.org/wiki?curid=21939........... 
+	http://risis.eu/orgref_20170703/resource/21939..... http://www.wikidata.org/wiki/Q121194............... 
+	http://risis.eu/orgref_20170703/resource/21939..... https://www.nsa.gov................................ 
+	http://risis.eu/orgref_20170703/resource/21939..... National Security Agency........................... 
+	http://risis.eu/orgref_20170703/resource/32903058.. http://en.wikipedia.org/wiki?curid=32903058........ 
+	http://risis.eu/orgref_20170703/resource/32903058.. http://www.wikidata.org/wiki/Q6978325.............. 
+	http://risis.eu/orgref_20170703/resource/32903058.. National Security Agency (Bahrain)................. 
+	http://www.grid.ac/institutes/grid.482831.4........ -76.770905......................................... 
+	http://www.grid.ac/institutes/grid.482831.4........ 39.1088............................................ 
+	http://www.grid.ac/institutes/grid.482831.4........ https://www.nsa.gov/............................... 
+	http://www.grid.ac/institutes/grid.482831.4........ National Security Agency........................... 
+	http://risis.eu/orgref_20170703/resource/22719622.. http://en.wikipedia.org/wiki?curid=22719622........ 
+	http://risis.eu/orgref_20170703/resource/22719622.. http://www.wikidata.org/wiki/Q2826630.............. 
+	http://risis.eu/orgref_20170703/resource/22719622.. http://www.anb.me.................................. 
+	http://risis.eu/orgref_20170703/resource/22719622.. National Security Agency (Montenegro).............. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:32903058', '1:21939'), ('2:32903058', '3:grid.482831.4'), ('3:grid.482831.4', '1:21939'), ('4:22719622', '1:21939'), ('4:22719622', '2:32903058'), ('4:22719622', '3:grid.482831.4')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

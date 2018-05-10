@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 6271 
+NAME    N1411462340
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.418301.f>
+	<http://www.grid.ac/institutes/grid.476432.0>
+	<http://www.grid.ac/institutes/grid.476736.7>
+	<http://www.grid.ac/institutes/grid.451292.9>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.418301.f.. http://www.grid.ac/institutes/grid.476432.0.. 1............................................ [Servier (France)] was compared to [Servier (Spain)] 
+	http://www.grid.ac/institutes/grid.476432.0.. http://www.grid.ac/institutes/grid.418301.f.. 1............................................ [Servier (France)] was compared to [Servier (Spain)] 
+	http://www.grid.ac/institutes/grid.418301.f.. http://www.grid.ac/institutes/grid.476736.7.. 1............................................ [Servier (France)] was compared to [Servier (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.476736.7.. http://www.grid.ac/institutes/grid.418301.f.. 1............................................ [Servier (France)] was compared to [Servier (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.418301.f.. http://www.grid.ac/institutes/grid.451292.9.. 1............................................ [Servier (France)] was compared to [Servier (Canada)] 
+	http://www.grid.ac/institutes/grid.451292.9.. http://www.grid.ac/institutes/grid.418301.f.. 1............................................ [Servier (France)] was compared to [Servier (Canada)] 
+	http://www.grid.ac/institutes/grid.476432.0.. http://www.grid.ac/institutes/grid.451292.9.. 1............................................ [Servier (Canada)] was compared to [Servier (Spain)] 
+	http://www.grid.ac/institutes/grid.451292.9.. http://www.grid.ac/institutes/grid.476432.0.. 1............................................ [Servier (Canada)] was compared to [Servier (Spain)] 
+	http://www.grid.ac/institutes/grid.476736.7.. http://www.grid.ac/institutes/grid.451292.9.. 1............................................ [Servier (Canada)] was compared to [Servier (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.451292.9.. http://www.grid.ac/institutes/grid.476736.7.. 1............................................ [Servier (Canada)] was compared to [Servier (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.476432.0.. http://www.grid.ac/institutes/grid.476736.7.. 1............................................ [Servier (Spain)] was compared to [Servier (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.476736.7.. http://www.grid.ac/institutes/grid.476432.0.. 1............................................ [Servier (Spain)] was compared to [Servier (United Kingdom)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.418301.f.. 2.258186..................................... 
+	http://www.grid.ac/institutes/grid.418301.f.. 48.88705..................................... 
+	http://www.grid.ac/institutes/grid.418301.f.. http://www.servier.fr/....................... 
+	http://www.grid.ac/institutes/grid.418301.f.. Servier (France)............................. 
+	http://www.grid.ac/institutes/grid.476432.0.. -3.642984.................................... 
+	http://www.grid.ac/institutes/grid.476432.0.. 40.45633..................................... 
+	http://www.grid.ac/institutes/grid.476432.0.. http://www.servier.com/...................... 
+	http://www.grid.ac/institutes/grid.476432.0.. Servier (Spain).............................. 
+	http://www.grid.ac/institutes/grid.476736.7.. -0.567491.................................... 
+	http://www.grid.ac/institutes/grid.476736.7.. 51.549618.................................... 
+	http://www.grid.ac/institutes/grid.476736.7.. http://www.servier.com/...................... 
+	http://www.grid.ac/institutes/grid.476736.7.. Servier (United Kingdom)..................... 
+	http://www.grid.ac/institutes/grid.451292.9.. -73.72434.................................... 
+	http://www.grid.ac/institutes/grid.451292.9.. 45.54756..................................... 
+	http://www.grid.ac/institutes/grid.451292.9.. http://www.servier.ca/....................... 
+	http://www.grid.ac/institutes/grid.451292.9.. Servier (Canada)............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.476432.0', '1:grid.418301.f'), ('2:grid.476432.0', '4:grid.451292.9'), ('3:grid.476736.7', '1:grid.418301.f'), ('3:grid.476736.7', '2:grid.476432.0'), ('4:grid.451292.9', '1:grid.418301.f'), ('4:grid.451292.9', '3:grid.476736.7')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

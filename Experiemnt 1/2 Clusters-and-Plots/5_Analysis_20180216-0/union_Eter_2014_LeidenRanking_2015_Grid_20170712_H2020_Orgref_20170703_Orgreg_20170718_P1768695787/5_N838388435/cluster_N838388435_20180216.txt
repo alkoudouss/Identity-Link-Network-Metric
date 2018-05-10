@@ -1,0 +1,70 @@
+SIZE    5   
+CLUSTER 4275 
+NAME    N838388435
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.467839.7>
+	<http://www.grid.ac/institutes/grid.468127.e>
+	<http://www.grid.ac/institutes/grid.468087.5>
+	<http://www.grid.ac/institutes/grid.472974.b>
+	<http://www.grid.ac/institutes/grid.468090.3>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.467839.7.. http://www.grid.ac/institutes/grid.468127.e.. 0.823529411765............................... [Secretaría Nacional de Ciencia, Tecnología e Innovación] was compared to [Secretaría de Ciencia Tecnología e Innovación] 
+	http://www.grid.ac/institutes/grid.468127.e.. http://www.grid.ac/institutes/grid.467839.7.. 0.823529411765............................... [Secretaría Nacional de Ciencia, Tecnología e Innovación] was compared to [Secretaría de Ciencia Tecnología e Innovación] 
+	http://www.grid.ac/institutes/grid.468087.5.. http://www.grid.ac/institutes/grid.468090.3.. 0.94......................................... [Secretaria de Estado da Ciência, Tecnologia e Inovação] was compared to [Secretaria de Estado de Ciência Tecnologia e Inovação] 
+	http://www.grid.ac/institutes/grid.468090.3.. http://www.grid.ac/institutes/grid.468087.5.. 0.94......................................... [Secretaria de Estado da Ciência, Tecnologia e Inovação] was compared to [Secretaria de Estado de Ciência Tecnologia e Inovação] 
+	http://www.grid.ac/institutes/grid.468087.5.. http://www.grid.ac/institutes/grid.472974.b.. 0.8.......................................... [Secretaria de Estado da Ciência, Tecnologia e Inovação] was compared to [Secretaria de Ciência, Tecnologia e Inovação] 
+	http://www.grid.ac/institutes/grid.472974.b.. http://www.grid.ac/institutes/grid.468087.5.. 0.8.......................................... [Secretaria de Estado da Ciência, Tecnologia e Inovação] was compared to [Secretaria de Ciência, Tecnologia e Inovação] 
+	http://www.grid.ac/institutes/grid.472974.b.. http://www.grid.ac/institutes/grid.468090.3.. 0.851063829787............................... [Secretaria de Estado de Ciência Tecnologia e Inovação] was compared to [Secretaria de Ciência, Tecnologia e Inovação] 
+	http://www.grid.ac/institutes/grid.468090.3.. http://www.grid.ac/institutes/grid.472974.b.. 0.851063829787............................... [Secretaria de Estado de Ciência Tecnologia e Inovação] was compared to [Secretaria de Ciência, Tecnologia e Inovação] 
+	http://www.grid.ac/institutes/grid.468127.e.. http://www.grid.ac/institutes/grid.472974.b.. 0.928571428571............................... [Secretaría de Ciencia Tecnología e Innovación] was compared to [Secretaria de Ciência, Tecnologia e Inovação] 
+	http://www.grid.ac/institutes/grid.472974.b.. http://www.grid.ac/institutes/grid.468127.e.. 0.928571428571............................... [Secretaría de Ciencia Tecnología e Innovación] was compared to [Secretaria de Ciência, Tecnologia e Inovação] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 20 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.467839.7.. -79.58569.................................... 
+	http://www.grid.ac/institutes/grid.467839.7.. 9.001231..................................... 
+	http://www.grid.ac/institutes/grid.467839.7.. http://www.senacyt.gob.pa/................... 
+	http://www.grid.ac/institutes/grid.467839.7.. Secretaría Nacional de Ciencia, Tecnología e Innovación 
+	http://www.grid.ac/institutes/grid.468127.e.. -99.18384.................................... 
+	http://www.grid.ac/institutes/grid.468127.e.. 19.354746.................................... 
+	http://www.grid.ac/institutes/grid.468127.e.. http://www.seciti.cdmx.gob.mx/............... 
+	http://www.grid.ac/institutes/grid.468127.e.. Secretaría de Ciencia Tecnología e Innovación 
+	http://www.grid.ac/institutes/grid.468087.5.. -44.302086................................... 
+	http://www.grid.ac/institutes/grid.468087.5.. -2.490297.................................... 
+	http://www.grid.ac/institutes/grid.468087.5.. http://www.secti.ma.gov.br/.................. 
+	http://www.grid.ac/institutes/grid.468087.5.. Secretaria de Estado da Ciência, Tecnologia e Inovação 
+	http://www.grid.ac/institutes/grid.472974.b.. -38.43223.................................... 
+	http://www.grid.ac/institutes/grid.472974.b.. -12.949827................................... 
+	http://www.grid.ac/institutes/grid.472974.b.. http://www.secti.ba.gov.br/.................. 
+	http://www.grid.ac/institutes/grid.472974.b.. Secretaria de Ciência, Tecnologia e Inovação 
+	http://www.grid.ac/institutes/grid.468090.3.. -47.88675.................................... 
+	http://www.grid.ac/institutes/grid.468090.3.. -15.79507.................................... 
+	http://www.grid.ac/institutes/grid.468090.3.. http://www.sect.df.gov.br/................... 
+	http://www.grid.ac/institutes/grid.468090.3.. Secretaria de Estado de Ciência Tecnologia e Inovação 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.468127.e', '1:grid.467839.7'), ('4:grid.472974.b', '2:grid.468127.e'), ('4:grid.472974.b', '3:grid.468087.5'), ('5:grid.468090.3', '3:grid.468087.5'), ('5:grid.468090.3', '4:grid.472974.b')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 1.3
+	AVERAGE NODE CONNECTIVITY RATIO : 0.325
+	BRIDGES                         : 2
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.556
+	QUALITY USED                    : 0.574
+	SUMMARY 1: BRIDGE 0.5 CLOSURE 0.5 DIAMETER 0.667 QUALITY 0.556 QUALITY USED 0.574
+	SUMMARY 2: BRIDGE 0.556 CLOSURE 0.5 DIAMETER 0.667 QUALITY 0.556 QUALITY USED 0.574

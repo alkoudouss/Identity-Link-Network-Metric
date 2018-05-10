@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 481 
+NAME    P463561626
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.466709.a>
+	<http://risis.eu/eter_2014/resource/DE0236>
+	<http://www.grid.ac/institutes/grid.433727.6>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.466709.a.. http://risis.eu/eter_2014/resource/DE0236.... 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/DE0236.... http://www.grid.ac/institutes/grid.466709.a.. 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/DE0236.... http://www.grid.ac/institutes/grid.433727.6.. 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://www.grid.ac/institutes/grid.433727.6.. http://risis.eu/eter_2014/resource/DE0236.... 1............................................ Near each other by at most 2000 meter(s)..... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.466709.a.. 11.709237.................................... 
+	http://www.grid.ac/institutes/grid.466709.a.. 48.394325.................................... 
+	http://www.grid.ac/institutes/grid.466709.a.. http://www.ivv.fraunhofer.de/en.html......... 
+	http://www.grid.ac/institutes/grid.466709.a.. Fraunhofer Institute for Process Engineering and Packaging 
+	http://risis.eu/eter_2014/resource/DE0236.... 48,394874.................................... 
+	http://risis.eu/eter_2014/resource/DE0236.... 11,694999.................................... 
+	http://risis.eu/eter_2014/resource/DE0236.... www.hswt.de.................................. 
+	http://risis.eu/eter_2014/resource/DE0236.... a............................................ 
+	http://risis.eu/eter_2014/resource/DE0236.... Weihenstephan-Triesdorf University of Applied Sciences 
+	http://risis.eu/eter_2014/resource/DE0236.... Hochschule für angewandte Wissenschafte Weihenstephan-Triesdorf 
+	http://www.grid.ac/institutes/grid.433727.6.. 11.711281.................................... 
+	http://www.grid.ac/institutes/grid.433727.6.. 48.398006.................................... 
+	http://www.grid.ac/institutes/grid.433727.6.. http://www.dfal.de/2/home/hedonic-value.html. 
+	http://www.grid.ac/institutes/grid.433727.6.. German Research Centre for Food Chemistry.... 
+
+NETWORK ANALYSIS
+	NETWORK [('P463561626-DE0236', 'P1028010905-grid.466709.a'), ('P463561626-DE0236', 'P1391886802-grid.433727.6')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

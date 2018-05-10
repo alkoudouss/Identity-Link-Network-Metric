@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 9284 
+NAME    N1892962727
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/47000942>
+	<http://risis.eu/orgreg_20170718/resource/ES2008>
+	<http://risis.eu/leidenRanking_2015/resource/2952>
+	<http://www.grid.ac/institutes/grid.81821.32>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/47000942.. http://www.grid.ac/institutes/grid.81821.32........ 1.................................................. [Hospital Universitario La Paz] was compared to [Hospital Universitario La Paz] 
+	http://www.grid.ac/institutes/grid.81821.32........ http://risis.eu/orgref_20170703/resource/47000942.. 1.................................................. [Hospital Universitario La Paz] was compared to [Hospital Universitario La Paz] 
+	http://risis.eu/leidenRanking_2015/resource/2952... http://www.grid.ac/institutes/grid.81821.32........ 1.................................................. [Hospital Universitario La Paz] was compared to [Hospital Universitario La Paz] 
+	http://www.grid.ac/institutes/grid.81821.32........ http://risis.eu/leidenRanking_2015/resource/2952... 1.................................................. [Hospital Universitario La Paz] was compared to [Hospital Universitario La Paz] 
+	http://risis.eu/orgref_20170703/resource/47000942.. http://risis.eu/leidenRanking_2015/resource/2952... 1.................................................. [Hospital Universitario La Paz] was compared to [Hospital Universitario La Paz] 
+	http://risis.eu/leidenRanking_2015/resource/2952... http://risis.eu/orgref_20170703/resource/47000942.. 1.................................................. [Hospital Universitario La Paz] was compared to [Hospital Universitario La Paz] 
+	http://risis.eu/orgreg_20170718/resource/ES2008.... http://risis.eu/leidenRanking_2015/resource/2952... 1.................................................. [Hospital Universitario La Paz] was compared to [Hospital Universitario La Paz] 
+	http://risis.eu/leidenRanking_2015/resource/2952... http://risis.eu/orgreg_20170718/resource/ES2008.... 1.................................................. [Hospital Universitario La Paz] was compared to [Hospital Universitario La Paz] 
+	http://risis.eu/orgref_20170703/resource/47000942.. http://risis.eu/orgreg_20170718/resource/ES2008.... 1.................................................. [Hospital Universitario La Paz] was compared to [Hospital Universitario La Paz] 
+	http://risis.eu/orgreg_20170718/resource/ES2008.... http://risis.eu/orgref_20170703/resource/47000942.. 1.................................................. [Hospital Universitario La Paz] was compared to [Hospital Universitario La Paz] 
+	http://risis.eu/orgreg_20170718/resource/ES2008.... http://www.grid.ac/institutes/grid.81821.32........ 1.................................................. [Hospital Universitario La Paz] was compared to [Hospital Universitario La Paz] 
+	http://www.grid.ac/institutes/grid.81821.32........ http://risis.eu/orgreg_20170718/resource/ES2008.... 1.................................................. [Hospital Universitario La Paz] was compared to [Hospital Universitario La Paz] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/47000942.. Hospital Universitario La Paz...................... 
+	http://risis.eu/orgreg_20170718/resource/ES2008.... 40.480927.......................................... 
+	http://risis.eu/orgreg_20170718/resource/ES2008.... -3.686375.......................................... 
+	http://risis.eu/orgreg_20170718/resource/ES2008.... http://www.madrid.org/cs/Satellite?language=es&pagename=HospitalLaPaz/Page/HPAZ_home 
+	http://risis.eu/orgreg_20170718/resource/ES2008.... Hospital Universitario La Paz...................... 
+	http://risis.eu/leidenRanking_2015/resource/2952... Hospital Universitario La Paz...................... 
+	http://www.grid.ac/institutes/grid.81821.32........ -3.6874............................................ 
+	http://www.grid.ac/institutes/grid.81821.32........ 40.4809............................................ 
+	http://www.grid.ac/institutes/grid.81821.32........ http://hulp.es/.................................... 
+	http://www.grid.ac/institutes/grid.81821.32........ Hospital Universitario La Paz...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:ES2008', '1:47000942'), ('2:ES2008', '4:grid.81821.32'), ('3:2952', '1:47000942'), ('3:2952', '2:ES2008'), ('3:2952', '4:grid.81821.32'), ('4:grid.81821.32', '1:47000942')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

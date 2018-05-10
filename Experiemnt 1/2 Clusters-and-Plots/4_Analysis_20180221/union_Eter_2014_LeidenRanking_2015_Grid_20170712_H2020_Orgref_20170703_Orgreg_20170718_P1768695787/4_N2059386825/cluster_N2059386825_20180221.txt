@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 15906 
+NAME    N2059386825
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.424182.9>
+	<http://risis.eu/orgref_20170703/resource/533442>
+	<http://www.grid.ac/institutes/grid.417788.5>
+	<http://risis.eu/eter_2014/resource/UK0029>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.424182.9...... http://www.grid.ac/institutes/grid.417788.5...... 0.95652173913.................................... [The Courtald Institute of Art] was compared to [Courtauld Institute of Art] 
+	http://www.grid.ac/institutes/grid.417788.5...... http://www.grid.ac/institutes/grid.424182.9...... 0.95652173913.................................... [The Courtald Institute of Art] was compared to [Courtauld Institute of Art] 
+	http://www.grid.ac/institutes/grid.424182.9...... http://risis.eu/orgref_20170703/resource/533442.. 1................................................ [Courtauld Institute of Art] was compared to [Courtauld Institute of Art] 
+	http://risis.eu/orgref_20170703/resource/533442.. http://www.grid.ac/institutes/grid.424182.9...... 1................................................ [Courtauld Institute of Art] was compared to [Courtauld Institute of Art] 
+	http://risis.eu/orgref_20170703/resource/533442.. http://www.grid.ac/institutes/grid.417788.5...... 0.95652173913.................................... [The Courtald Institute of Art] was compared to [Courtauld Institute of Art] 
+	http://www.grid.ac/institutes/grid.417788.5...... http://risis.eu/orgref_20170703/resource/533442.. 0.95652173913.................................... [The Courtald Institute of Art] was compared to [Courtauld Institute of Art] 
+	http://www.grid.ac/institutes/grid.424182.9...... http://risis.eu/eter_2014/resource/UK0029........ 1................................................ [Courtauld Institute of Art] was compared to [Courtauld Institute of Art] 
+	http://risis.eu/eter_2014/resource/UK0029........ http://www.grid.ac/institutes/grid.424182.9...... 1................................................ [Courtauld Institute of Art] was compared to [Courtauld Institute of Art] 
+	http://www.grid.ac/institutes/grid.417788.5...... http://risis.eu/eter_2014/resource/UK0029........ 0.95652173913.................................... [The Courtald Institute of Art] was compared to [Courtauld Institute of Art] 
+	http://risis.eu/eter_2014/resource/UK0029........ http://www.grid.ac/institutes/grid.417788.5...... 0.95652173913.................................... [The Courtald Institute of Art] was compared to [Courtauld Institute of Art] 
+	http://risis.eu/orgref_20170703/resource/533442.. http://risis.eu/eter_2014/resource/UK0029........ 1................................................ [Courtauld Institute of Art] was compared to [Courtauld Institute of Art] 
+	http://risis.eu/eter_2014/resource/UK0029........ http://risis.eu/orgref_20170703/resource/533442.. 1................................................ [Courtauld Institute of Art] was compared to [Courtauld Institute of Art] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.424182.9...... -0.117222........................................ 
+	http://www.grid.ac/institutes/grid.424182.9...... 51.510834........................................ 
+	http://www.grid.ac/institutes/grid.424182.9...... http://courtauld.ac.uk/.......................... 
+	http://www.grid.ac/institutes/grid.424182.9...... The Courtauld.................................... 
+	http://www.grid.ac/institutes/grid.424182.9...... Courtauld Institute of Art....................... 
+	http://risis.eu/orgref_20170703/resource/533442.. http://en.wikipedia.org/wiki?curid=533442........ 
+	http://risis.eu/orgref_20170703/resource/533442.. http://www.wikidata.org/wiki/Q734266............. 
+	http://risis.eu/orgref_20170703/resource/533442.. http://courtauld.ac.uk........................... 
+	http://risis.eu/orgref_20170703/resource/533442.. Courtauld Institute of Art....................... 
+	http://www.grid.ac/institutes/grid.417788.5...... The Courtald Institute of Art.................... 
+	http://risis.eu/eter_2014/resource/UK0029........ 51,510732........................................ 
+	http://risis.eu/eter_2014/resource/UK0029........ -0,116938........................................ 
+	http://risis.eu/eter_2014/resource/UK0029........ http://www.courtauld.ac.uk....................... 
+	http://risis.eu/eter_2014/resource/UK0029........ a................................................ 
+	http://risis.eu/eter_2014/resource/UK0029........ Courtauld Institute of Art....................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.424182.9', '3:grid.417788.5'), ('2:533442', '1:grid.424182.9'), ('2:533442', '3:grid.417788.5'), ('4:UK0029', '1:grid.424182.9'), ('4:UK0029', '2:533442'), ('4:UK0029', '3:grid.417788.5')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 9548 
+NAME    N1712530071
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/CZ0011>
+	<http://risis.eu/leidenRanking_2015/resource/88>
+	<http://risis.eu/orgref_20170703/resource/5087542>
+	<http://www.grid.ac/institutes/grid.6912.c>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/5087542.. http://www.grid.ac/institutes/grid.6912.c......... 1................................................. [Technical University of Liberec] was compared to [Technical University of Liberec] 
+	http://www.grid.ac/institutes/grid.6912.c......... http://risis.eu/orgref_20170703/resource/5087542.. 1................................................. [Technical University of Liberec] was compared to [Technical University of Liberec] 
+	http://risis.eu/leidenRanking_2015/resource/88.... http://www.grid.ac/institutes/grid.6912.c......... 1................................................. [Technical University of Liberec] was compared to [Technical University of Liberec] 
+	http://www.grid.ac/institutes/grid.6912.c......... http://risis.eu/leidenRanking_2015/resource/88.... 1................................................. [Technical University of Liberec] was compared to [Technical University of Liberec] 
+	http://risis.eu/leidenRanking_2015/resource/88.... http://risis.eu/orgref_20170703/resource/5087542.. 1................................................. [Technical University of Liberec] was compared to [Technical University of Liberec] 
+	http://risis.eu/orgref_20170703/resource/5087542.. http://risis.eu/leidenRanking_2015/resource/88.... 1................................................. [Technical University of Liberec] was compared to [Technical University of Liberec] 
+	http://risis.eu/orgreg_20170718/resource/CZ0011... http://risis.eu/leidenRanking_2015/resource/88.... 1................................................. [Technical University in Liberec] was compared to [Technical University of Liberec] 
+	http://risis.eu/leidenRanking_2015/resource/88.... http://risis.eu/orgreg_20170718/resource/CZ0011... 1................................................. [Technical University in Liberec] was compared to [Technical University of Liberec] 
+	http://risis.eu/orgreg_20170718/resource/CZ0011... http://risis.eu/orgref_20170703/resource/5087542.. 1................................................. [Technical University of Liberec] was compared to [Technical University in Liberec] 
+	http://risis.eu/orgref_20170703/resource/5087542.. http://risis.eu/orgreg_20170718/resource/CZ0011... 1................................................. [Technical University of Liberec] was compared to [Technical University in Liberec] 
+	http://risis.eu/orgreg_20170718/resource/CZ0011... http://www.grid.ac/institutes/grid.6912.c......... 1................................................. [Technical University of Liberec] was compared to [Technical University in Liberec] 
+	http://www.grid.ac/institutes/grid.6912.c......... http://risis.eu/orgreg_20170718/resource/CZ0011... 1................................................. [Technical University of Liberec] was compared to [Technical University in Liberec] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgreg_20170718/resource/CZ0011... 15.054339......................................... 
+	http://risis.eu/orgreg_20170718/resource/CZ0011... 50.76628.......................................... 
+	http://risis.eu/orgreg_20170718/resource/CZ0011... http://www.vslib.cz/.............................. 
+	http://risis.eu/orgreg_20170718/resource/CZ0011... Technical University in Liberec................... 
+	http://risis.eu/leidenRanking_2015/resource/88.... Technical University of Liberec................... 
+	http://risis.eu/orgref_20170703/resource/5087542.. http://en.wikipedia.org/wiki?curid=5087542........ 
+	http://risis.eu/orgref_20170703/resource/5087542.. http://www.wikidata.org/wiki/Q1291752............. 
+	http://risis.eu/orgref_20170703/resource/5087542.. http://www.tul.cz/en.............................. 
+	http://risis.eu/orgref_20170703/resource/5087542.. Technical University of Liberec................... 
+	http://www.grid.ac/institutes/grid.6912.c......... 15.074422......................................... 
+	http://www.grid.ac/institutes/grid.6912.c......... 50.773216......................................... 
+	http://www.grid.ac/institutes/grid.6912.c......... http://www.tul.cz/en/............................. 
+	http://www.grid.ac/institutes/grid.6912.c......... Technical University of Liberec................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:88', '1:CZ0011'), ('2:88', '3:5087542'), ('2:88', '4:grid.6912.c'), ('3:5087542', '1:CZ0011'), ('3:5087542', '4:grid.6912.c'), ('4:grid.6912.c', '1:CZ0011')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

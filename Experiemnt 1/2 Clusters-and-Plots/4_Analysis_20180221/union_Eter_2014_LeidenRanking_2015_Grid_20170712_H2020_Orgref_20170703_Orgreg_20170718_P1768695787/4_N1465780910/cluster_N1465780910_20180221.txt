@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 8723 
+NAME    N1465780910
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.411320.5>
+	<http://risis.eu/leidenRanking_2015/resource/722>
+	<http://risis.eu/eter_2014/resource/TR0042>
+	<http://risis.eu/orgref_20170703/resource/15586142>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.411320.5........ http://risis.eu/orgref_20170703/resource/15586142.. 1.................................................. [Fırat University] was compared to [Fırat University] 
+	http://risis.eu/orgref_20170703/resource/15586142.. http://www.grid.ac/institutes/grid.411320.5........ 1.................................................. [Fırat University] was compared to [Fırat University] 
+	http://www.grid.ac/institutes/grid.411320.5........ http://risis.eu/leidenRanking_2015/resource/722.... 1.................................................. [Fırat University] was compared to [Firat University] 
+	http://risis.eu/leidenRanking_2015/resource/722.... http://www.grid.ac/institutes/grid.411320.5........ 1.................................................. [Fırat University] was compared to [Firat University] 
+	http://risis.eu/leidenRanking_2015/resource/722.... http://risis.eu/orgref_20170703/resource/15586142.. 1.................................................. [Fırat University] was compared to [Firat University] 
+	http://risis.eu/orgref_20170703/resource/15586142.. http://risis.eu/leidenRanking_2015/resource/722.... 1.................................................. [Fırat University] was compared to [Firat University] 
+	http://risis.eu/leidenRanking_2015/resource/722.... http://risis.eu/eter_2014/resource/TR0042.......... 0.833333333333..................................... [FIRAT ÜNIVERSITESI] was compared to [Firat University] 
+	http://risis.eu/eter_2014/resource/TR0042.......... http://risis.eu/leidenRanking_2015/resource/722.... 0.833333333333..................................... [FIRAT ÜNIVERSITESI] was compared to [Firat University] 
+	http://risis.eu/eter_2014/resource/TR0042.......... http://risis.eu/orgref_20170703/resource/15586142.. 0.833333333333..................................... [Fırat University] was compared to [FIRAT ÜNIVERSITESI] 
+	http://risis.eu/orgref_20170703/resource/15586142.. http://risis.eu/eter_2014/resource/TR0042.......... 0.833333333333..................................... [Fırat University] was compared to [FIRAT ÜNIVERSITESI] 
+	http://www.grid.ac/institutes/grid.411320.5........ http://risis.eu/eter_2014/resource/TR0042.......... 0.833333333333..................................... [Fırat University] was compared to [FIRAT ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0042.......... http://www.grid.ac/institutes/grid.411320.5........ 0.833333333333..................................... [Fırat University] was compared to [FIRAT ÜNIVERSITESI] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.411320.5........ 39.202843.......................................... 
+	http://www.grid.ac/institutes/grid.411320.5........ 38.6799............................................ 
+	http://www.grid.ac/institutes/grid.411320.5........ https://yeni.firat.edu.tr/......................... 
+	http://www.grid.ac/institutes/grid.411320.5........ Elazığ State Academy of Engineering and Architecture 
+	http://www.grid.ac/institutes/grid.411320.5........ Elazığ Technical College......................... 
+	http://www.grid.ac/institutes/grid.411320.5........ Fırat University.................................. 
+	http://risis.eu/leidenRanking_2015/resource/722.... Firat University................................... 
+	http://risis.eu/eter_2014/resource/TR0042.......... 38,673484.......................................... 
+	http://risis.eu/eter_2014/resource/TR0042.......... 39,219093.......................................... 
+	http://risis.eu/eter_2014/resource/TR0042.......... http://www.firat.edu.tr/........................... 
+	http://risis.eu/eter_2014/resource/TR0042.......... a.................................................. 
+	http://risis.eu/eter_2014/resource/TR0042.......... Firat Euphrates University......................... 
+	http://risis.eu/eter_2014/resource/TR0042.......... FIRAT ÜNIVERSITESI................................ 
+	http://risis.eu/orgref_20170703/resource/15586142.. http://en.wikipedia.org/wiki?curid=15586142........ 
+	http://risis.eu/orgref_20170703/resource/15586142.. http://www.wikidata.org/wiki/Q1142874.............. 
+	http://risis.eu/orgref_20170703/resource/15586142.. http://www.firat.edu.tr............................ 
+	http://risis.eu/orgref_20170703/resource/15586142.. Fırat University.................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:722', '1:grid.411320.5'), ('2:722', '4:15586142'), ('3:TR0042', '1:grid.411320.5'), ('3:TR0042', '2:722'), ('4:15586142', '1:grid.411320.5'), ('4:15586142', '3:TR0042')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

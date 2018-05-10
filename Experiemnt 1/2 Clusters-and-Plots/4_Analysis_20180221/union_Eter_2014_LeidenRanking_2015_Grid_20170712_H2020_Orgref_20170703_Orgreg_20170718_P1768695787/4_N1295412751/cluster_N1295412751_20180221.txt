@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 4045 
+NAME    N1295412751
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.5164.6>
+	<http://risis.eu/orgref_20170703/resource/5304921>
+	<http://risis.eu/orgreg_20170718/resource/DE0059>
+	<http://risis.eu/leidenRanking_2015/resource/225>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.5164.6......... http://risis.eu/orgref_20170703/resource/5304921.. 1................................................. [Clausthal University of Technology] was compared to [Clausthal University of Technology] 
+	http://risis.eu/orgref_20170703/resource/5304921.. http://www.grid.ac/institutes/grid.5164.6......... 1................................................. [Clausthal University of Technology] was compared to [Clausthal University of Technology] 
+	http://www.grid.ac/institutes/grid.5164.6......... http://risis.eu/leidenRanking_2015/resource/225... 1................................................. [Clausthal University of Technology] was compared to [Clausthal University of Technology] 
+	http://risis.eu/leidenRanking_2015/resource/225... http://www.grid.ac/institutes/grid.5164.6......... 1................................................. [Clausthal University of Technology] was compared to [Clausthal University of Technology] 
+	http://risis.eu/orgref_20170703/resource/5304921.. http://risis.eu/leidenRanking_2015/resource/225... 1................................................. [Clausthal University of Technology] was compared to [Clausthal University of Technology] 
+	http://risis.eu/leidenRanking_2015/resource/225... http://risis.eu/orgref_20170703/resource/5304921.. 1................................................. [Clausthal University of Technology] was compared to [Clausthal University of Technology] 
+	http://risis.eu/orgreg_20170718/resource/DE0059... http://risis.eu/leidenRanking_2015/resource/225... 1................................................. [Clausthal University of Technology] was compared to [Clausthal University of Technology] 
+	http://risis.eu/leidenRanking_2015/resource/225... http://risis.eu/orgreg_20170718/resource/DE0059... 1................................................. [Clausthal University of Technology] was compared to [Clausthal University of Technology] 
+	http://risis.eu/orgref_20170703/resource/5304921.. http://risis.eu/orgreg_20170718/resource/DE0059... 1................................................. [Clausthal University of Technology] was compared to [Clausthal University of Technology] 
+	http://risis.eu/orgreg_20170718/resource/DE0059... http://risis.eu/orgref_20170703/resource/5304921.. 1................................................. [Clausthal University of Technology] was compared to [Clausthal University of Technology] 
+	http://www.grid.ac/institutes/grid.5164.6......... http://risis.eu/orgreg_20170718/resource/DE0059... 1................................................. [Clausthal University of Technology] was compared to [Clausthal University of Technology] 
+	http://risis.eu/orgreg_20170718/resource/DE0059... http://www.grid.ac/institutes/grid.5164.6......... 1................................................. [Clausthal University of Technology] was compared to [Clausthal University of Technology] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.5164.6......... 10.341708......................................... 
+	http://www.grid.ac/institutes/grid.5164.6......... 51.806465......................................... 
+	http://www.grid.ac/institutes/grid.5164.6......... https://www.tu-clausthal.de/Welcome.php.en........ 
+	http://www.grid.ac/institutes/grid.5164.6......... TU Clausthal...................................... 
+	http://www.grid.ac/institutes/grid.5164.6......... Clausthal University of Technology................ 
+	http://risis.eu/orgref_20170703/resource/5304921.. http://en.wikipedia.org/wiki?curid=5304921........ 
+	http://risis.eu/orgref_20170703/resource/5304921.. http://www.wikidata.org/wiki/Q447354.............. 
+	http://risis.eu/orgref_20170703/resource/5304921.. http://www.tu-clausthal.de/welcome.php.en......... 
+	http://risis.eu/orgref_20170703/resource/5304921.. Clausthal University of Technology................ 
+	http://risis.eu/orgreg_20170718/resource/DE0059... 51.810727......................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0059... 10.338897......................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0059... www.tu-clausthal.de............................... 
+	http://risis.eu/orgreg_20170718/resource/DE0059... Clausthal University of Technology................ 
+	http://risis.eu/leidenRanking_2015/resource/225... Clausthal University of Technology................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:5304921', '1:grid.5164.6'), ('3:DE0059', '1:grid.5164.6'), ('3:DE0059', '2:5304921'), ('4:225', '1:grid.5164.6'), ('4:225', '2:5304921'), ('4:225', '3:DE0059')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

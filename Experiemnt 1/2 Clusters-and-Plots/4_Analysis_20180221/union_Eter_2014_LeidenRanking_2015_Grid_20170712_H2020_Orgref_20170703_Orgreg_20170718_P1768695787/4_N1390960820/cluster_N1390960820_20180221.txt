@@ -1,0 +1,59 @@
+SIZE    4   
+CLUSTER 11039 
+NAME    N1390960820
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/23361870>
+	<http://risis.eu/orgref_20170703/resource/34196787>
+	<http://risis.eu/orgref_20170703/resource/25358032>
+	<http://risis.eu/orgref_20170703/resource/8968733>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/25358032.. http://risis.eu/orgref_20170703/resource/8968733... 0.958333333333..................................... [K.C.T. Engineering College] was compared to [KMCT College of Engineering] 
+	http://risis.eu/orgref_20170703/resource/8968733... http://risis.eu/orgref_20170703/resource/25358032.. 0.958333333333..................................... [K.C.T. Engineering College] was compared to [KMCT College of Engineering] 
+	http://risis.eu/orgref_20170703/resource/23361870.. http://risis.eu/orgref_20170703/resource/25358032.. 0.95652173913...................................... [KIT College of Engineering] was compared to [K.C.T. Engineering College] 
+	http://risis.eu/orgref_20170703/resource/25358032.. http://risis.eu/orgref_20170703/resource/23361870.. 0.95652173913...................................... [KIT College of Engineering] was compared to [K.C.T. Engineering College] 
+	http://risis.eu/orgref_20170703/resource/23361870.. http://risis.eu/orgref_20170703/resource/34196787.. 0.95652173913...................................... [KIT College of Engineering] was compared to [MIT College of Engineering] 
+	http://risis.eu/orgref_20170703/resource/34196787.. http://risis.eu/orgref_20170703/resource/23361870.. 0.95652173913...................................... [KIT College of Engineering] was compared to [MIT College of Engineering] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/23361870.. http://en.wikipedia.org/wiki?curid=23361870........ 
+	http://risis.eu/orgref_20170703/resource/23361870.. http://www.wikidata.org/wiki/Q6331183.............. 
+	http://risis.eu/orgref_20170703/resource/23361870.. KIT College of Engineering......................... 
+	http://risis.eu/orgref_20170703/resource/34196787.. http://en.wikipedia.org/wiki?curid=34196787........ 
+	http://risis.eu/orgref_20170703/resource/34196787.. http://www.wikidata.org/wiki/Q15243264............. 
+	http://risis.eu/orgref_20170703/resource/34196787.. http://www.mitcoe.ac.in............................ 
+	http://risis.eu/orgref_20170703/resource/34196787.. MIT College of Engineering......................... 
+	http://risis.eu/orgref_20170703/resource/25358032.. http://en.wikipedia.org/wiki?curid=25358032........ 
+	http://risis.eu/orgref_20170703/resource/25358032.. http://www.wikidata.org/wiki/Q6322916.............. 
+	http://risis.eu/orgref_20170703/resource/25358032.. K.C.T. Engineering College......................... 
+	http://risis.eu/orgref_20170703/resource/8968733... http://en.wikipedia.org/wiki?curid=8968733......... 
+	http://risis.eu/orgref_20170703/resource/8968733... http://www.wikidata.org/wiki/Q6333424.............. 
+	http://risis.eu/orgref_20170703/resource/8968733... http://www.kmctcollegeofengineering.org............ 
+	http://risis.eu/orgref_20170703/resource/8968733... KMCT College of Engineering........................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:34196787', '1:23361870'), ('3:25358032', '1:23361870'), ('4:8968733', '3:25358032')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

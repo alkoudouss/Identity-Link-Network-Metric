@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 810 
+NAME    N2018004293
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.440080.8>
+	<http://risis.eu/orgref_20170703/resource/14527967>
+	<http://risis.eu/orgref_20170703/resource/35836369>
+	<http://www.grid.ac/institutes/grid.468972.6>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.440080.8........ http://risis.eu/orgref_20170703/resource/35836369.. 1.................................................. [Collège de Valleyfield] was compared to [Collège de Valleyfield] 
+	http://risis.eu/orgref_20170703/resource/35836369.. http://www.grid.ac/institutes/grid.440080.8........ 1.................................................. [Collège de Valleyfield] was compared to [Collège de Valleyfield] 
+	http://risis.eu/orgref_20170703/resource/14527967.. http://www.grid.ac/institutes/grid.468972.6........ 1.................................................. [Macclesfield College] was compared to [Macclesfield College] 
+	http://www.grid.ac/institutes/grid.468972.6........ http://risis.eu/orgref_20170703/resource/14527967.. 1.................................................. [Macclesfield College] was compared to [Macclesfield College] 
+	http://risis.eu/orgref_20170703/resource/14527967.. http://risis.eu/orgref_20170703/resource/35836369.. 0.8................................................ [Macclesfield College] was compared to [Collège de Valleyfield] 
+	http://risis.eu/orgref_20170703/resource/35836369.. http://risis.eu/orgref_20170703/resource/14527967.. 0.8................................................ [Macclesfield College] was compared to [Collège de Valleyfield] 
+	http://www.grid.ac/institutes/grid.440080.8........ http://www.grid.ac/institutes/grid.468972.6........ 0.8................................................ [Collège de Valleyfield] was compared to [Macclesfield College] 
+	http://www.grid.ac/institutes/grid.468972.6........ http://www.grid.ac/institutes/grid.440080.8........ 0.8................................................ [Collège de Valleyfield] was compared to [Macclesfield College] 
+	http://www.grid.ac/institutes/grid.440080.8........ http://risis.eu/orgref_20170703/resource/14527967.. 0.8................................................ [Collège de Valleyfield] was compared to [Macclesfield College] 
+	http://risis.eu/orgref_20170703/resource/14527967.. http://www.grid.ac/institutes/grid.440080.8........ 0.8................................................ [Collège de Valleyfield] was compared to [Macclesfield College] 
+	http://risis.eu/orgref_20170703/resource/35836369.. http://www.grid.ac/institutes/grid.468972.6........ 0.8................................................ [Macclesfield College] was compared to [Collège de Valleyfield] 
+	http://www.grid.ac/institutes/grid.468972.6........ http://risis.eu/orgref_20170703/resource/35836369.. 0.8................................................ [Macclesfield College] was compared to [Collège de Valleyfield] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.440080.8........ -74.13318.......................................... 
+	http://www.grid.ac/institutes/grid.440080.8........ 45.25286........................................... 
+	http://www.grid.ac/institutes/grid.440080.8........ https://www.colval.qc.ca/.......................... 
+	http://www.grid.ac/institutes/grid.440080.8........ Collège de Valleyfield............................ 
+	http://risis.eu/orgref_20170703/resource/14527967.. http://en.wikipedia.org/wiki?curid=14527967........ 
+	http://risis.eu/orgref_20170703/resource/14527967.. http://www.wikidata.org/wiki/Q6722921.............. 
+	http://risis.eu/orgref_20170703/resource/14527967.. http://www.macclesfield.ac.uk...................... 
+	http://risis.eu/orgref_20170703/resource/14527967.. Macclesfield College............................... 
+	http://risis.eu/orgref_20170703/resource/35836369.. http://en.wikipedia.org/wiki?curid=35836369........ 
+	http://risis.eu/orgref_20170703/resource/35836369.. http://www.wikidata.org/wiki/Q5147640.............. 
+	http://risis.eu/orgref_20170703/resource/35836369.. http://www.colval.qc.ca............................ 
+	http://risis.eu/orgref_20170703/resource/35836369.. Collège de Valleyfield............................ 
+	http://www.grid.ac/institutes/grid.468972.6........ -2.138222.......................................... 
+	http://www.grid.ac/institutes/grid.468972.6........ 53.251537.......................................... 
+	http://www.grid.ac/institutes/grid.468972.6........ http://www.macclesfield.ac.uk/..................... 
+	http://www.grid.ac/institutes/grid.468972.6........ Macclesfield College............................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:14527967', '1:grid.440080.8'), ('3:35836369', '1:grid.440080.8'), ('3:35836369', '2:14527967'), ('3:35836369', '4:grid.468972.6'), ('4:grid.468972.6', '1:grid.440080.8'), ('4:grid.468972.6', '2:14527967')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

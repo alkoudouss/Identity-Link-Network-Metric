@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 13766 
+NAME    N1318643504
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.422621.1>
+	<http://risis.eu/orgref_20170703/resource/364014>
+	<http://risis.eu/orgref_20170703/resource/1225887>
+	<http://www.grid.ac/institutes/grid.263934.9>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/364014... http://www.grid.ac/institutes/grid.263934.9....... 1................................................. [Spelman College] was compared to [Spelman College] 
+	http://www.grid.ac/institutes/grid.263934.9....... http://risis.eu/orgref_20170703/resource/364014... 1................................................. [Spelman College] was compared to [Spelman College] 
+	http://www.grid.ac/institutes/grid.422621.1....... http://risis.eu/orgref_20170703/resource/1225887.. 1................................................. [Stillman College] was compared to [Stillman College] 
+	http://risis.eu/orgref_20170703/resource/1225887.. http://www.grid.ac/institutes/grid.422621.1....... 1................................................. [Stillman College] was compared to [Stillman College] 
+	http://risis.eu/orgref_20170703/resource/364014... http://risis.eu/orgref_20170703/resource/1225887.. 0.8125............................................ [Stillman College] was compared to [Spelman College] 
+	http://risis.eu/orgref_20170703/resource/1225887.. http://risis.eu/orgref_20170703/resource/364014... 0.8125............................................ [Stillman College] was compared to [Spelman College] 
+	http://www.grid.ac/institutes/grid.422621.1....... http://www.grid.ac/institutes/grid.263934.9....... 0.8125............................................ [Spelman College] was compared to [Stillman College] 
+	http://www.grid.ac/institutes/grid.263934.9....... http://www.grid.ac/institutes/grid.422621.1....... 0.8125............................................ [Spelman College] was compared to [Stillman College] 
+	http://risis.eu/orgref_20170703/resource/1225887.. http://www.grid.ac/institutes/grid.263934.9....... 0.8125............................................ [Spelman College] was compared to [Stillman College] 
+	http://www.grid.ac/institutes/grid.263934.9....... http://risis.eu/orgref_20170703/resource/1225887.. 0.8125............................................ [Spelman College] was compared to [Stillman College] 
+	http://www.grid.ac/institutes/grid.422621.1....... http://risis.eu/orgref_20170703/resource/364014... 0.8125............................................ [Stillman College] was compared to [Spelman College] 
+	http://risis.eu/orgref_20170703/resource/364014... http://www.grid.ac/institutes/grid.422621.1....... 0.8125............................................ [Stillman College] was compared to [Spelman College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.422621.1....... -87.586006........................................ 
+	http://www.grid.ac/institutes/grid.422621.1....... 33.19934.......................................... 
+	http://www.grid.ac/institutes/grid.422621.1....... http://www.stillman.edu/.......................... 
+	http://www.grid.ac/institutes/grid.422621.1....... Stillman College.................................. 
+	http://risis.eu/orgref_20170703/resource/364014... http://en.wikipedia.org/wiki?curid=364014......... 
+	http://risis.eu/orgref_20170703/resource/364014... http://www.wikidata.org/wiki/Q7575916............. 
+	http://risis.eu/orgref_20170703/resource/364014... http://www.spelman.edu............................ 
+	http://risis.eu/orgref_20170703/resource/364014... Spelman College................................... 
+	http://risis.eu/orgref_20170703/resource/1225887.. http://en.wikipedia.org/wiki?curid=1225887........ 
+	http://risis.eu/orgref_20170703/resource/1225887.. http://www.wikidata.org/wiki/Q7617251............. 
+	http://risis.eu/orgref_20170703/resource/1225887.. http://www.stillman.edu........................... 
+	http://risis.eu/orgref_20170703/resource/1225887.. Stillman College.................................. 
+	http://www.grid.ac/institutes/grid.263934.9....... -84.411........................................... 
+	http://www.grid.ac/institutes/grid.263934.9....... 33.746............................................ 
+	http://www.grid.ac/institutes/grid.263934.9....... http://www.spelman.edu/........................... 
+	http://www.grid.ac/institutes/grid.263934.9....... Spelman College................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.422621.1', '4:grid.263934.9'), ('2:364014', '1:grid.422621.1'), ('2:364014', '3:1225887'), ('3:1225887', '1:grid.422621.1'), ('3:1225887', '4:grid.263934.9'), ('4:grid.263934.9', '2:364014')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 16400 
+NAME    N1838392586
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.416530.5>
+	<http://www.grid.ac/institutes/grid.422356.4>
+	<http://risis.eu/orgref_20170703/resource/8050334>
+	<http://www.grid.ac/institutes/grid.416593.c>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.422356.4....... http://risis.eu/orgref_20170703/resource/8050334.. 1................................................. [McMaster Children's Hospital] was compared to [McMaster Children's Hospital] 
+	http://risis.eu/orgref_20170703/resource/8050334.. http://www.grid.ac/institutes/grid.422356.4....... 1................................................. [McMaster Children's Hospital] was compared to [McMaster Children's Hospital] 
+	http://www.grid.ac/institutes/grid.416530.5....... http://www.grid.ac/institutes/grid.416593.c....... 0.92.............................................. [Mater Children's Hospital] was compared to [Mattel Children's Hospital] 
+	http://www.grid.ac/institutes/grid.416593.c....... http://www.grid.ac/institutes/grid.416530.5....... 0.92.............................................. [Mater Children's Hospital] was compared to [Mattel Children's Hospital] 
+	http://www.grid.ac/institutes/grid.416530.5....... http://www.grid.ac/institutes/grid.422356.4....... 0.888888888889.................................... [Mater Children's Hospital] was compared to [McMaster Children's Hospital] 
+	http://www.grid.ac/institutes/grid.422356.4....... http://www.grid.ac/institutes/grid.416530.5....... 0.888888888889.................................... [Mater Children's Hospital] was compared to [McMaster Children's Hospital] 
+	http://www.grid.ac/institutes/grid.416530.5....... http://risis.eu/orgref_20170703/resource/8050334.. 0.888888888889.................................... [Mater Children's Hospital] was compared to [McMaster Children's Hospital] 
+	http://risis.eu/orgref_20170703/resource/8050334.. http://www.grid.ac/institutes/grid.416530.5....... 0.888888888889.................................... [Mater Children's Hospital] was compared to [McMaster Children's Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.416530.5....... 153.02649......................................... 
+	http://www.grid.ac/institutes/grid.416530.5....... -27.48362......................................... 
+	http://www.grid.ac/institutes/grid.416530.5....... http://www.mater.org.au/Home/Hospitals/Mater-Children-s-Hospital-closure 
+	http://www.grid.ac/institutes/grid.416530.5....... Mater Children's Hospital......................... 
+	http://www.grid.ac/institutes/grid.422356.4....... -79.918335........................................ 
+	http://www.grid.ac/institutes/grid.422356.4....... 43.25889.......................................... 
+	http://www.grid.ac/institutes/grid.422356.4....... http://www.mcmasterchildrenshospital.ca/.......... 
+	http://www.grid.ac/institutes/grid.422356.4....... McMaster Children's Hospital...................... 
+	http://risis.eu/orgref_20170703/resource/8050334.. http://en.wikipedia.org/wiki?curid=8050334........ 
+	http://risis.eu/orgref_20170703/resource/8050334.. http://www.wikidata.org/wiki/Q6802304............. 
+	http://risis.eu/orgref_20170703/resource/8050334.. http://www.mcmasterchildrenshospital.ca........... 
+	http://risis.eu/orgref_20170703/resource/8050334.. McMaster Children's Hospital...................... 
+	http://www.grid.ac/institutes/grid.416593.c....... -118.44633........................................ 
+	http://www.grid.ac/institutes/grid.416593.c....... 34.066612......................................... 
+	http://www.grid.ac/institutes/grid.416593.c....... https://www.uclahealth.org/mattel/Pages/default.aspx 
+	http://www.grid.ac/institutes/grid.416593.c....... Mattel Children's Hospital........................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.422356.4', '1:grid.416530.5'), ('3:8050334', '1:grid.416530.5'), ('3:8050334', '2:grid.422356.4'), ('4:grid.416593.c', '1:grid.416530.5')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

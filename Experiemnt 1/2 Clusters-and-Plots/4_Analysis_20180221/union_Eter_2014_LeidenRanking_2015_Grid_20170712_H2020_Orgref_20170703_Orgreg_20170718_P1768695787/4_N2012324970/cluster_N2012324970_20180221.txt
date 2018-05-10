@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 5825 
+NAME    N2012324970
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.467549.d>
+	<http://www.grid.ac/institutes/grid.474410.2>
+	<http://www.grid.ac/institutes/grid.481742.c>
+	<http://www.grid.ac/institutes/grid.474411.3>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.467549.d.. http://www.grid.ac/institutes/grid.474410.2.. 1............................................ [Pitney Bowes (United States)] was compared to [Pitney Bowes (Germany)] 
+	http://www.grid.ac/institutes/grid.474410.2.. http://www.grid.ac/institutes/grid.467549.d.. 1............................................ [Pitney Bowes (United States)] was compared to [Pitney Bowes (Germany)] 
+	http://www.grid.ac/institutes/grid.467549.d.. http://www.grid.ac/institutes/grid.474411.3.. 1............................................ [Pitney Bowes (United States)] was compared to [Pitney Bowes (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.474411.3.. http://www.grid.ac/institutes/grid.467549.d.. 1............................................ [Pitney Bowes (United States)] was compared to [Pitney Bowes (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.467549.d.. http://www.grid.ac/institutes/grid.481742.c.. 1............................................ [Pitney Bowes (United States)] was compared to [Pitney Bowes (France)] 
+	http://www.grid.ac/institutes/grid.481742.c.. http://www.grid.ac/institutes/grid.467549.d.. 1............................................ [Pitney Bowes (United States)] was compared to [Pitney Bowes (France)] 
+	http://www.grid.ac/institutes/grid.474410.2.. http://www.grid.ac/institutes/grid.474411.3.. 1............................................ [Pitney Bowes (Germany)] was compared to [Pitney Bowes (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.474411.3.. http://www.grid.ac/institutes/grid.474410.2.. 1............................................ [Pitney Bowes (Germany)] was compared to [Pitney Bowes (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.474410.2.. http://www.grid.ac/institutes/grid.481742.c.. 1............................................ [Pitney Bowes (Germany)] was compared to [Pitney Bowes (France)] 
+	http://www.grid.ac/institutes/grid.481742.c.. http://www.grid.ac/institutes/grid.474410.2.. 1............................................ [Pitney Bowes (Germany)] was compared to [Pitney Bowes (France)] 
+	http://www.grid.ac/institutes/grid.481742.c.. http://www.grid.ac/institutes/grid.474411.3.. 1............................................ [Pitney Bowes (United Kingdom)] was compared to [Pitney Bowes (France)] 
+	http://www.grid.ac/institutes/grid.474411.3.. http://www.grid.ac/institutes/grid.481742.c.. 1............................................ [Pitney Bowes (United Kingdom)] was compared to [Pitney Bowes (France)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.467549.d.. -73.544716................................... 
+	http://www.grid.ac/institutes/grid.467549.d.. 41.056175.................................... 
+	http://www.grid.ac/institutes/grid.467549.d.. http://www.pitneybowes.com/us................ 
+	http://www.grid.ac/institutes/grid.467549.d.. Pitney Bowes (United States)................. 
+	http://www.grid.ac/institutes/grid.474410.2.. 8.63096...................................... 
+	http://www.grid.ac/institutes/grid.474410.2.. 49.87456..................................... 
+	http://www.grid.ac/institutes/grid.474410.2.. https://www.pitneybowes.com/de............... 
+	http://www.grid.ac/institutes/grid.474410.2.. Pitney Bowes (Germany)....................... 
+	http://www.grid.ac/institutes/grid.481742.c.. 2.346466..................................... 
+	http://www.grid.ac/institutes/grid.481742.c.. 48.963795.................................... 
+	http://www.grid.ac/institutes/grid.481742.c.. http://www.pitneybowes.com/fr................ 
+	http://www.grid.ac/institutes/grid.481742.c.. Pitney Bowes (France)........................ 
+	http://www.grid.ac/institutes/grid.474411.3.. -0.237292.................................... 
+	http://www.grid.ac/institutes/grid.474411.3.. 51.76752..................................... 
+	http://www.grid.ac/institutes/grid.474411.3.. http://www.pitneybowes.com/uk................ 
+	http://www.grid.ac/institutes/grid.474411.3.. Pitney Bowes (United Kingdom)................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.474410.2', '1:grid.467549.d'), ('3:grid.481742.c', '1:grid.467549.d'), ('3:grid.481742.c', '2:grid.474410.2'), ('3:grid.481742.c', '4:grid.474411.3'), ('4:grid.474411.3', '1:grid.467549.d'), ('4:grid.474411.3', '2:grid.474410.2')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

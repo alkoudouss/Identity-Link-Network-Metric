@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 10607 
+NAME    N965410520
+
+RESOURCES INVOLVED
+	<http://risis.eu/cordisH2020/resource/participant_999612937>
+	<http://risis.eu/leidenRanking_2015/resource/9902>
+	<http://www.grid.ac/institutes/grid.428923.6>
+	<http://risis.eu/orgref_20170703/resource/39643966>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.428923.6................. http://risis.eu/orgref_20170703/resource/39643966........... 1........................................................... [Ilia State University] was compared to [Ilia State University] 
+	http://risis.eu/orgref_20170703/resource/39643966........... http://www.grid.ac/institutes/grid.428923.6................. 1........................................................... [Ilia State University] was compared to [Ilia State University] 
+	http://risis.eu/leidenRanking_2015/resource/9902............ http://www.grid.ac/institutes/grid.428923.6................. 1........................................................... [Ilia State University] was compared to [Ilia State University] 
+	http://www.grid.ac/institutes/grid.428923.6................. http://risis.eu/leidenRanking_2015/resource/9902............ 1........................................................... [Ilia State University] was compared to [Ilia State University] 
+	http://risis.eu/cordisH2020/resource/participant_999612937.. http://www.grid.ac/institutes/grid.428923.6................. 1........................................................... [Ilia State University] was compared to [ILIA STATE UNIVERSITY] 
+	http://www.grid.ac/institutes/grid.428923.6................. http://risis.eu/cordisH2020/resource/participant_999612937.. 1........................................................... [Ilia State University] was compared to [ILIA STATE UNIVERSITY] 
+	http://risis.eu/leidenRanking_2015/resource/9902............ http://risis.eu/orgref_20170703/resource/39643966........... 1........................................................... [Ilia State University] was compared to [Ilia State University] 
+	http://risis.eu/orgref_20170703/resource/39643966........... http://risis.eu/leidenRanking_2015/resource/9902............ 1........................................................... [Ilia State University] was compared to [Ilia State University] 
+	http://risis.eu/cordisH2020/resource/participant_999612937.. http://risis.eu/orgref_20170703/resource/39643966........... 1........................................................... [Ilia State University] was compared to [ILIA STATE UNIVERSITY] 
+	http://risis.eu/orgref_20170703/resource/39643966........... http://risis.eu/cordisH2020/resource/participant_999612937.. 1........................................................... [Ilia State University] was compared to [ILIA STATE UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_999612937.. http://risis.eu/leidenRanking_2015/resource/9902............ 1........................................................... [ILIA STATE UNIVERSITY] was compared to [Ilia State University] 
+	http://risis.eu/leidenRanking_2015/resource/9902............ http://risis.eu/cordisH2020/resource/participant_999612937.. 1........................................................... [ILIA STATE UNIVERSITY] was compared to [Ilia State University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_999612937.. http://risis.eu/cordisH2020/resource/www.iliauni.edu.ge..... 
+	http://risis.eu/cordisH2020/resource/participant_999612937.. ILIA STATE UNIVERSITY....................................... 
+	http://risis.eu/leidenRanking_2015/resource/9902............ Ilia State University....................................... 
+	http://www.grid.ac/institutes/grid.428923.6................. 44.77219.................................................... 
+	http://www.grid.ac/institutes/grid.428923.6................. 41.70886.................................................... 
+	http://www.grid.ac/institutes/grid.428923.6................. http://iliauni.edu.ge/en/................................... 
+	http://www.grid.ac/institutes/grid.428923.6................. Ilia State University....................................... 
+	http://risis.eu/orgref_20170703/resource/39643966........... http://en.wikipedia.org/wiki?curid=39643966................. 
+	http://risis.eu/orgref_20170703/resource/39643966........... http://www.wikidata.org/wiki/Q2324420....................... 
+	http://risis.eu/orgref_20170703/resource/39643966........... http://www.iliauni.edu.ge/index.php?sec_id=1&lang_id=eng.... 
+	http://risis.eu/orgref_20170703/resource/39643966........... Ilia State University....................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:participant_999612937', '4:39643966'), ('2:9902', '1:participant_999612937'), ('2:9902', '3:grid.428923.6'), ('2:9902', '4:39643966'), ('3:grid.428923.6', '1:participant_999612937'), ('4:39643966', '3:grid.428923.6')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

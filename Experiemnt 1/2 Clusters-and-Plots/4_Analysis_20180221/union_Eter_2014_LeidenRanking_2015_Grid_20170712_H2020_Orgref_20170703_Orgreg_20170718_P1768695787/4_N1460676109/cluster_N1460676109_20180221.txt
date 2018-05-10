@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 18192 
+NAME    N1460676109
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.7123.7>
+	<http://risis.eu/cordisH2020/resource/participant_992842046>
+	<http://risis.eu/orgref_20170703/resource/434092>
+	<http://risis.eu/leidenRanking_2015/resource/16446>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.7123.7................... http://risis.eu/orgref_20170703/resource/434092............. 1........................................................... [Addis Ababa University] was compared to [Addis Ababa University] 
+	http://risis.eu/orgref_20170703/resource/434092............. http://www.grid.ac/institutes/grid.7123.7................... 1........................................................... [Addis Ababa University] was compared to [Addis Ababa University] 
+	http://www.grid.ac/institutes/grid.7123.7................... http://risis.eu/leidenRanking_2015/resource/16446........... 1........................................................... [Addis Ababa University] was compared to [Addis Ababa University] 
+	http://risis.eu/leidenRanking_2015/resource/16446........... http://www.grid.ac/institutes/grid.7123.7................... 1........................................................... [Addis Ababa University] was compared to [Addis Ababa University] 
+	http://www.grid.ac/institutes/grid.7123.7................... http://risis.eu/cordisH2020/resource/participant_992842046.. 1........................................................... [Addis Ababa University] was compared to [ADDIS ABABA UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_992842046.. http://www.grid.ac/institutes/grid.7123.7................... 1........................................................... [Addis Ababa University] was compared to [ADDIS ABABA UNIVERSITY] 
+	http://risis.eu/orgref_20170703/resource/434092............. http://risis.eu/leidenRanking_2015/resource/16446........... 1........................................................... [Addis Ababa University] was compared to [Addis Ababa University] 
+	http://risis.eu/leidenRanking_2015/resource/16446........... http://risis.eu/orgref_20170703/resource/434092............. 1........................................................... [Addis Ababa University] was compared to [Addis Ababa University] 
+	http://risis.eu/cordisH2020/resource/participant_992842046.. http://risis.eu/orgref_20170703/resource/434092............. 1........................................................... [Addis Ababa University] was compared to [ADDIS ABABA UNIVERSITY] 
+	http://risis.eu/orgref_20170703/resource/434092............. http://risis.eu/cordisH2020/resource/participant_992842046.. 1........................................................... [Addis Ababa University] was compared to [ADDIS ABABA UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_992842046.. http://risis.eu/leidenRanking_2015/resource/16446........... 1........................................................... [ADDIS ABABA UNIVERSITY] was compared to [Addis Ababa University] 
+	http://risis.eu/leidenRanking_2015/resource/16446........... http://risis.eu/cordisH2020/resource/participant_992842046.. 1........................................................... [ADDIS ABABA UNIVERSITY] was compared to [Addis Ababa University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.7123.7................... 38.759167................................................... 
+	http://www.grid.ac/institutes/grid.7123.7................... 9.046667.................................................... 
+	http://www.grid.ac/institutes/grid.7123.7................... http://www.aau.edu.et/...................................... 
+	http://www.grid.ac/institutes/grid.7123.7................... Haile Selassie I University................................. 
+	http://www.grid.ac/institutes/grid.7123.7................... University College of Addis Ababa........................... 
+	http://www.grid.ac/institutes/grid.7123.7................... Addis Ababa University...................................... 
+	http://risis.eu/cordisH2020/resource/participant_992842046.. http://risis.eu/cordisH2020/resource/www.aau.edu.et......... 
+	http://risis.eu/cordisH2020/resource/participant_992842046.. ADDIS ABABA UNIVERSITY...................................... 
+	http://risis.eu/orgref_20170703/resource/434092............. http://en.wikipedia.org/wiki?curid=434092................... 
+	http://risis.eu/orgref_20170703/resource/434092............. http://www.wikidata.org/wiki/Q1238770....................... 
+	http://risis.eu/orgref_20170703/resource/434092............. http://aau.edu.et........................................... 
+	http://risis.eu/orgref_20170703/resource/434092............. Addis Ababa University...................................... 
+	http://risis.eu/leidenRanking_2015/resource/16446........... Addis Ababa University...................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_992842046', '1:grid.7123.7'), ('2:participant_992842046', '3:434092'), ('3:434092', '1:grid.7123.7'), ('4:16446', '1:grid.7123.7'), ('4:16446', '2:participant_992842046'), ('4:16446', '3:434092')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

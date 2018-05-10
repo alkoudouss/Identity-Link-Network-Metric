@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 7729 
+NAME    P652242072
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/552556>
+	<http://risis.eu/orgreg_20170718/resource/DE0105>
+	<http://www.grid.ac/institutes/grid.9764.c>
+	<http://risis.eu/leidenRanking_2015/resource/251>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/552556.. http://www.grid.ac/institutes/grid.9764.c........ 1................................................ [Kiel University] was compared to [University of Kiel] 
+	http://www.grid.ac/institutes/grid.9764.c........ http://risis.eu/orgref_20170703/resource/552556.. 1................................................ [Kiel University] was compared to [University of Kiel] 
+	http://www.grid.ac/institutes/grid.9764.c........ http://risis.eu/leidenRanking_2015/resource/251.. 1................................................ [Kiel University] was compared to [Kiel University] 
+	http://risis.eu/leidenRanking_2015/resource/251.. http://www.grid.ac/institutes/grid.9764.c........ 1................................................ [Kiel University] was compared to [Kiel University] 
+	http://risis.eu/orgref_20170703/resource/552556.. http://risis.eu/leidenRanking_2015/resource/251.. 1................................................ [University of Kiel] was compared to [Kiel University] 
+	http://risis.eu/leidenRanking_2015/resource/251.. http://risis.eu/orgref_20170703/resource/552556.. 1................................................ [University of Kiel] was compared to [Kiel University] 
+	http://risis.eu/orgreg_20170718/resource/DE0105.. http://risis.eu/leidenRanking_2015/resource/251.. 1................................................ [University of Kiel] was compared to [Kiel University] 
+	http://risis.eu/leidenRanking_2015/resource/251.. http://risis.eu/orgreg_20170718/resource/DE0105.. 1................................................ [University of Kiel] was compared to [Kiel University] 
+	http://risis.eu/orgref_20170703/resource/552556.. http://risis.eu/orgreg_20170718/resource/DE0105.. 1................................................ [University of Kiel] was compared to [University of Kiel] 
+	http://risis.eu/orgreg_20170718/resource/DE0105.. http://risis.eu/orgref_20170703/resource/552556.. 1................................................ [University of Kiel] was compared to [University of Kiel] 
+	http://risis.eu/orgreg_20170718/resource/DE0105.. http://www.grid.ac/institutes/grid.9764.c........ 1................................................ [Kiel University] was compared to [University of Kiel] 
+	http://www.grid.ac/institutes/grid.9764.c........ http://risis.eu/orgreg_20170718/resource/DE0105.. 1................................................ [Kiel University] was compared to [University of Kiel] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/552556.. http://en.wikipedia.org/wiki?curid=552556........ 
+	http://risis.eu/orgref_20170703/resource/552556.. http://www.wikidata.org/wiki/Q156737............. 
+	http://risis.eu/orgref_20170703/resource/552556.. https://www.uni-kiel.de/index-e.shtml............ 
+	http://risis.eu/orgref_20170703/resource/552556.. University of Kiel............................... 
+	http://risis.eu/orgreg_20170718/resource/DE0105.. 54.341882........................................ 
+	http://risis.eu/orgreg_20170718/resource/DE0105.. 10.115068........................................ 
+	http://risis.eu/orgreg_20170718/resource/DE0105.. www.uni-kiel.de.................................. 
+	http://risis.eu/orgreg_20170718/resource/DE0105.. University of Kiel............................... 
+	http://www.grid.ac/institutes/grid.9764.c........ 10.112299........................................ 
+	http://www.grid.ac/institutes/grid.9764.c........ 54.345806........................................ 
+	http://www.grid.ac/institutes/grid.9764.c........ http://www.uni-kiel.de/index-e.shtml............. 
+	http://www.grid.ac/institutes/grid.9764.c........ Kiel University.................................. 
+	http://risis.eu/leidenRanking_2015/resource/251.. Kiel University.................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:552556', '3:grid.9764.c'), ('2:DE0105', '1:552556'), ('2:DE0105', '3:grid.9764.c'), ('4:251', '1:552556'), ('4:251', '2:DE0105'), ('4:251', '3:grid.9764.c')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 4520 
+NAME    N574501427
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/83158>
+	<http://risis.eu/cordisH2020/resource/participant_999509050>
+	<http://www.grid.ac/institutes/grid.16068.39>
+	<http://risis.eu/eter_2014/resource/FR0084>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/83158.............. http://www.grid.ac/institutes/grid.16068.39................. 1........................................................... [Ecole Centrale de Nantes] was compared to [École centrale de Nantes] 
+	http://www.grid.ac/institutes/grid.16068.39................. http://risis.eu/orgref_20170703/resource/83158.............. 1........................................................... [Ecole Centrale de Nantes] was compared to [École centrale de Nantes] 
+	http://www.grid.ac/institutes/grid.16068.39................. http://risis.eu/eter_2014/resource/FR0084................... 1........................................................... [Ecole Centrale de Nantes] was compared to [Ecole centrale de Nantes] 
+	http://risis.eu/eter_2014/resource/FR0084................... http://www.grid.ac/institutes/grid.16068.39................. 1........................................................... [Ecole Centrale de Nantes] was compared to [Ecole centrale de Nantes] 
+	http://risis.eu/cordisH2020/resource/participant_999509050.. http://www.grid.ac/institutes/grid.16068.39................. 1........................................................... [Ecole Centrale de Nantes] was compared to [ECOLE CENTRALE DE NANTES] 
+	http://www.grid.ac/institutes/grid.16068.39................. http://risis.eu/cordisH2020/resource/participant_999509050.. 1........................................................... [Ecole Centrale de Nantes] was compared to [ECOLE CENTRALE DE NANTES] 
+	http://risis.eu/orgref_20170703/resource/83158.............. http://risis.eu/eter_2014/resource/FR0084................... 1........................................................... [École centrale de Nantes] was compared to [Ecole centrale de Nantes] 
+	http://risis.eu/eter_2014/resource/FR0084................... http://risis.eu/orgref_20170703/resource/83158.............. 1........................................................... [École centrale de Nantes] was compared to [Ecole centrale de Nantes] 
+	http://risis.eu/orgref_20170703/resource/83158.............. http://risis.eu/cordisH2020/resource/participant_999509050.. 1........................................................... [École centrale de Nantes] was compared to [ECOLE CENTRALE DE NANTES] 
+	http://risis.eu/cordisH2020/resource/participant_999509050.. http://risis.eu/orgref_20170703/resource/83158.............. 1........................................................... [École centrale de Nantes] was compared to [ECOLE CENTRALE DE NANTES] 
+	http://risis.eu/cordisH2020/resource/participant_999509050.. http://risis.eu/eter_2014/resource/FR0084................... 1........................................................... [ECOLE CENTRALE DE NANTES] was compared to [Ecole centrale de Nantes] 
+	http://risis.eu/eter_2014/resource/FR0084................... http://risis.eu/cordisH2020/resource/participant_999509050.. 1........................................................... [ECOLE CENTRALE DE NANTES] was compared to [Ecole centrale de Nantes] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/83158.............. http://en.wikipedia.org/wiki?curid=83158.................... 
+	http://risis.eu/orgref_20170703/resource/83158.............. http://www.wikidata.org/wiki/Q273458........................ 
+	http://risis.eu/orgref_20170703/resource/83158.............. http://www.ec-nantes.fr/version-anglaise.................... 
+	http://risis.eu/orgref_20170703/resource/83158.............. École centrale de Nantes................................... 
+	http://risis.eu/cordisH2020/resource/participant_999509050.. http://www.ec-nantes.fr..................................... 
+	http://risis.eu/cordisH2020/resource/participant_999509050.. ECOLE CENTRALE DE NANTES.................................... 
+	http://www.grid.ac/institutes/grid.16068.39................. -1.548391................................................... 
+	http://www.grid.ac/institutes/grid.16068.39................. 47.24916.................................................... 
+	http://www.grid.ac/institutes/grid.16068.39................. http://www.ec-nantes.fr/version-anglaise/................... 
+	http://www.grid.ac/institutes/grid.16068.39................. Ecole Centrale de Nantes.................................... 
+	http://risis.eu/eter_2014/resource/FR0084................... 47,249425................................................... 
+	http://risis.eu/eter_2014/resource/FR0084................... -1,548123................................................... 
+	http://risis.eu/eter_2014/resource/FR0084................... http://www.ec-nantes.fr/.................................... 
+	http://risis.eu/eter_2014/resource/FR0084................... m........................................................... 
+	http://risis.eu/eter_2014/resource/FR0084................... Ecole centrale de Nantes.................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:83158', '3:grid.16068.39'), ('2:participant_999509050', '1:83158'), ('3:grid.16068.39', '2:participant_999509050'), ('4:FR0084', '1:83158'), ('4:FR0084', '2:participant_999509050'), ('4:FR0084', '3:grid.16068.39')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

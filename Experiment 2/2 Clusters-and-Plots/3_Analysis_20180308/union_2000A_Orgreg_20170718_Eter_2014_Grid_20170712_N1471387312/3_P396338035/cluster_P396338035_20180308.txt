@@ -1,0 +1,58 @@
+SIZE    3   
+CLUSTER 1148 
+NAME    P396338035
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/PT0032>
+	<http://risis.eu/eter_2014/resource/PT0032>
+	<http://www.grid.ac/institutes/grid.421143.1>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/PT0032.. http://risis.eu/eter_2014/resource/PT0032........ 1................................................ [nursing school coimbra] was compared to [nursing school coimbra] 
+	http://risis.eu/eter_2014/resource/PT0032........ http://www.grid.ac/institutes/grid.421143.1...... 1................................................ [london business school] was compared to [london business school] 
+	http://risis.eu/eter_2014/resource/PT0032........ http://www.grid.ac/institutes/grid.421143.1...... 1................................................ [escola superior enfermagem coimbra] was compared to [escola superior enfermagem coimbra] 
+	http://risis.eu/eter_2014/resource/PT0032........ http://risis.eu/orgreg_20170718/resource/PT0032.. 1................................................ [nursing school coimbra] was compared to [nursing school coimbra] 
+	http://www.grid.ac/institutes/grid.421143.1...... http://risis.eu/eter_2014/resource/PT0032........ 1................................................ [london business school] was compared to [london business school] 
+	http://www.grid.ac/institutes/grid.421143.1...... http://risis.eu/eter_2014/resource/PT0032........ 1................................................ [escola superior enfermagem coimbra] was compared to [escola superior enfermagem coimbra] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/PT0032.. -8.4403573....................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0032.. 40.2048286....................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0032.. http://www.esenfc.pt/............................ 
+	http://risis.eu/orgreg_20170718/resource/PT0032.. Nursing School of Coimbra........................ 
+	http://risis.eu/eter_2014/resource/PT0032........ 40,2048286....................................... 
+	http://risis.eu/eter_2014/resource/PT0032........ -8,4403573....................................... 
+	http://risis.eu/eter_2014/resource/PT0032........ http://www.esenfc.pt/............................ 
+	http://risis.eu/eter_2014/resource/PT0032........ a................................................ 
+	http://risis.eu/eter_2014/resource/PT0032........ Nursing School of Coimbra........................ 
+	http://risis.eu/eter_2014/resource/PT0032........ Escola Superior de Enfermagem de Coimbra......... 
+	http://www.grid.ac/institutes/grid.421143.1...... -8.460964........................................ 
+	http://www.grid.ac/institutes/grid.421143.1...... 40.197826........................................ 
+	http://www.grid.ac/institutes/grid.421143.1...... http://www.esenfc.pt/............................ 
+	http://www.grid.ac/institutes/grid.421143.1...... Escola Superior de Enfermagem de Coimbra......... 
+
+NETWORK ANALYSIS
+	NETWORK [('P396338035-PT0032', 'P1398846858-PT0032'), ('P396338035-PT0032', 'P408935430-grid.421143.1')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

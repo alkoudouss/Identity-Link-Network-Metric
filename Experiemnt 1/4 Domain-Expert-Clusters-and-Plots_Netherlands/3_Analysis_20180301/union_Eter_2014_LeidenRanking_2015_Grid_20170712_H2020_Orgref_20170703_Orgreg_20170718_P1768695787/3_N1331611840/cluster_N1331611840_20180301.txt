@@ -1,0 +1,53 @@
+SIZE    3   
+CLUSTER 6186 
+NAME    N1331611840
+
+RESOURCES INVOLVED
+	<http://risis.eu/leidenRanking_2015/resource/7307>
+	<http://www.grid.ac/institutes/grid.6385.8>
+	<http://risis.eu/orgreg_20170718/resource/NL1010>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/leidenRanking_2015/resource/7307.. http://www.grid.ac/institutes/grid.6385.8......... 1................................................. [Deltares] was compared to [Deltares]............. 
+	http://risis.eu/leidenRanking_2015/resource/7307.. http://risis.eu/orgreg_20170718/resource/NL1010... 1................................................. [Deltares] was compared to [Deltares]............. 
+	http://www.grid.ac/institutes/grid.6385.8......... http://risis.eu/leidenRanking_2015/resource/7307.. 1................................................. [Deltares] was compared to [Deltares]............. 
+	http://www.grid.ac/institutes/grid.6385.8......... http://risis.eu/orgreg_20170718/resource/NL1010... 1................................................. [Deltares] was compared to [Deltares]............. 
+	http://risis.eu/orgreg_20170718/resource/NL1010... http://risis.eu/leidenRanking_2015/resource/7307.. 1................................................. [Deltares] was compared to [Deltares]............. 
+	http://risis.eu/orgreg_20170718/resource/NL1010... http://www.grid.ac/institutes/grid.6385.8......... 1................................................. [Deltares] was compared to [Deltares]............. 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 9 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/leidenRanking_2015/resource/7307.. Deltares.......................................... 
+	http://www.grid.ac/institutes/grid.6385.8......... 4.379089.......................................... 
+	http://www.grid.ac/institutes/grid.6385.8......... 51.986073......................................... 
+	http://www.grid.ac/institutes/grid.6385.8......... https://www.deltares.nl/en........................ 
+	http://www.grid.ac/institutes/grid.6385.8......... Deltares.......................................... 
+	http://risis.eu/orgreg_20170718/resource/NL1010... 4................................................. 
+	http://risis.eu/orgreg_20170718/resource/NL1010... 51................................................ 
+	http://risis.eu/orgreg_20170718/resource/NL1010... https://www.deltares.nl/en/....................... 
+	http://risis.eu/orgreg_20170718/resource/NL1010... Deltares.......................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('N200918531-NL1010', 'P1402832602-grid.6385.8'), ('N1331611840-7307', 'N200918531-NL1010'), ('N1331611840-7307', 'P1402832602-grid.6385.8')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

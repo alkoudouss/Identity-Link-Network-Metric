@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 4770 
+NAME    N1514797127
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/TR0067>
+	<http://risis.eu/leidenRanking_2015/resource/1030>
+	<http://risis.eu/orgref_20170703/resource/38650069>
+	<http://www.grid.ac/institutes/grid.411047.7>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/38650069.. http://www.grid.ac/institutes/grid.411047.7........ 1.................................................. [Kırıkkale University] was compared to [Kırıkkale University] 
+	http://www.grid.ac/institutes/grid.411047.7........ http://risis.eu/orgref_20170703/resource/38650069.. 1.................................................. [Kırıkkale University] was compared to [Kırıkkale University] 
+	http://risis.eu/leidenRanking_2015/resource/1030... http://www.grid.ac/institutes/grid.411047.7........ 1.................................................. [Kırıkkale University] was compared to [Kirikkale University] 
+	http://www.grid.ac/institutes/grid.411047.7........ http://risis.eu/leidenRanking_2015/resource/1030... 1.................................................. [Kırıkkale University] was compared to [Kirikkale University] 
+	http://risis.eu/leidenRanking_2015/resource/1030... http://risis.eu/orgref_20170703/resource/38650069.. 1.................................................. [Kırıkkale University] was compared to [Kirikkale University] 
+	http://risis.eu/orgref_20170703/resource/38650069.. http://risis.eu/leidenRanking_2015/resource/1030... 1.................................................. [Kırıkkale University] was compared to [Kirikkale University] 
+	http://risis.eu/eter_2014/resource/TR0067.......... http://risis.eu/leidenRanking_2015/resource/1030... 0.863636363636..................................... [KIRIKKALE ÜNIVERSITESI] was compared to [Kirikkale University] 
+	http://risis.eu/leidenRanking_2015/resource/1030... http://risis.eu/eter_2014/resource/TR0067.......... 0.863636363636..................................... [KIRIKKALE ÜNIVERSITESI] was compared to [Kirikkale University] 
+	http://risis.eu/eter_2014/resource/TR0067.......... http://risis.eu/orgref_20170703/resource/38650069.. 0.863636363636..................................... [Kırıkkale University] was compared to [KIRIKKALE ÜNIVERSITESI] 
+	http://risis.eu/orgref_20170703/resource/38650069.. http://risis.eu/eter_2014/resource/TR0067.......... 0.863636363636..................................... [Kırıkkale University] was compared to [KIRIKKALE ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0067.......... http://www.grid.ac/institutes/grid.411047.7........ 0.863636363636..................................... [Kırıkkale University] was compared to [KIRIKKALE ÜNIVERSITESI] 
+	http://www.grid.ac/institutes/grid.411047.7........ http://risis.eu/eter_2014/resource/TR0067.......... 0.863636363636..................................... [Kırıkkale University] was compared to [KIRIKKALE ÜNIVERSITESI] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/eter_2014/resource/TR0067.......... 39,884442.......................................... 
+	http://risis.eu/eter_2014/resource/TR0067.......... 33,427799.......................................... 
+	http://risis.eu/eter_2014/resource/TR0067.......... http://www.kku.edu.tr.............................. 
+	http://risis.eu/eter_2014/resource/TR0067.......... a.................................................. 
+	http://risis.eu/eter_2014/resource/TR0067.......... Kirikkale University............................... 
+	http://risis.eu/eter_2014/resource/TR0067.......... KIRIKKALE ÜNIVERSITESI............................ 
+	http://risis.eu/leidenRanking_2015/resource/1030... Kirikkale University............................... 
+	http://risis.eu/orgref_20170703/resource/38650069.. http://en.wikipedia.org/wiki?curid=38650069........ 
+	http://risis.eu/orgref_20170703/resource/38650069.. http://www.wikidata.org/wiki/Q6454746.............. 
+	http://risis.eu/orgref_20170703/resource/38650069.. http://www.kku.edu.tr.............................. 
+	http://risis.eu/orgref_20170703/resource/38650069.. Kırıkkale University............................. 
+	http://www.grid.ac/institutes/grid.411047.7........ 33.4461............................................ 
+	http://www.grid.ac/institutes/grid.411047.7........ 39.874............................................. 
+	http://www.grid.ac/institutes/grid.411047.7........ http://www.kku.edu.tr/english/..................... 
+	http://www.grid.ac/institutes/grid.411047.7........ Kırıkkale Üniversitesi.......................... 
+	http://www.grid.ac/institutes/grid.411047.7........ Kırıkkale University............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:TR0067', '4:grid.411047.7'), ('2:1030', '1:TR0067'), ('2:1030', '3:38650069'), ('3:38650069', '1:TR0067'), ('3:38650069', '4:grid.411047.7'), ('4:grid.411047.7', '2:1030')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

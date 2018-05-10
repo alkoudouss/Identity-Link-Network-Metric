@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 17618 
+NAME    N1340104118
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/7947982>
+	<http://risis.eu/eter_2014/resource/TR0070>
+	<http://www.grid.ac/institutes/grid.411105.0>
+	<http://risis.eu/leidenRanking_2015/resource/741>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/7947982.. http://www.grid.ac/institutes/grid.411105.0....... 1................................................. [University of Kocaeli] was compared to [Kocaeli University] 
+	http://www.grid.ac/institutes/grid.411105.0....... http://risis.eu/orgref_20170703/resource/7947982.. 1................................................. [University of Kocaeli] was compared to [Kocaeli University] 
+	http://www.grid.ac/institutes/grid.411105.0....... http://risis.eu/leidenRanking_2015/resource/741... 1................................................. [University of Kocaeli] was compared to [Kocaeli University] 
+	http://risis.eu/leidenRanking_2015/resource/741... http://www.grid.ac/institutes/grid.411105.0....... 1................................................. [University of Kocaeli] was compared to [Kocaeli University] 
+	http://risis.eu/eter_2014/resource/TR0070......... http://www.grid.ac/institutes/grid.411105.0....... 1................................................. [University of Kocaeli] was compared to [KOCAELI UNIVERSITY] 
+	http://www.grid.ac/institutes/grid.411105.0....... http://risis.eu/eter_2014/resource/TR0070......... 1................................................. [University of Kocaeli] was compared to [KOCAELI UNIVERSITY] 
+	http://risis.eu/orgref_20170703/resource/7947982.. http://risis.eu/eter_2014/resource/TR0070......... 1................................................. [Kocaeli University] was compared to [KOCAELI UNIVERSITY] 
+	http://risis.eu/eter_2014/resource/TR0070......... http://risis.eu/orgref_20170703/resource/7947982.. 1................................................. [Kocaeli University] was compared to [KOCAELI UNIVERSITY] 
+	http://risis.eu/orgref_20170703/resource/7947982.. http://risis.eu/leidenRanking_2015/resource/741... 1................................................. [Kocaeli University] was compared to [Kocaeli University] 
+	http://risis.eu/leidenRanking_2015/resource/741... http://risis.eu/orgref_20170703/resource/7947982.. 1................................................. [Kocaeli University] was compared to [Kocaeli University] 
+	http://risis.eu/eter_2014/resource/TR0070......... http://risis.eu/leidenRanking_2015/resource/741... 1................................................. [KOCAELI UNIVERSITY] was compared to [Kocaeli University] 
+	http://risis.eu/leidenRanking_2015/resource/741... http://risis.eu/eter_2014/resource/TR0070......... 1................................................. [KOCAELI UNIVERSITY] was compared to [Kocaeli University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/7947982.. http://en.wikipedia.org/wiki?curid=7947982........ 
+	http://risis.eu/orgref_20170703/resource/7947982.. http://www.wikidata.org/wiki/Q1550686............. 
+	http://risis.eu/orgref_20170703/resource/7947982.. http://www.kocaeli.edu.tr......................... 
+	http://risis.eu/orgref_20170703/resource/7947982.. Kocaeli University................................ 
+	http://risis.eu/eter_2014/resource/TR0070......... 40,85261.......................................... 
+	http://risis.eu/eter_2014/resource/TR0070......... 29,803716......................................... 
+	http://risis.eu/eter_2014/resource/TR0070......... http://www.kocaeli.edu.tr/........................ 
+	http://risis.eu/eter_2014/resource/TR0070......... a................................................. 
+	http://risis.eu/eter_2014/resource/TR0070......... Kocaeli University................................ 
+	http://risis.eu/eter_2014/resource/TR0070......... KOCAELI UNIVERSITY................................ 
+	http://www.grid.ac/institutes/grid.411105.0....... 29.9394........................................... 
+	http://www.grid.ac/institutes/grid.411105.0....... 40.7661........................................... 
+	http://www.grid.ac/institutes/grid.411105.0....... http://www.kocaeli.edu.tr/........................ 
+	http://www.grid.ac/institutes/grid.411105.0....... Kocaeli Üniversitesi............................. 
+	http://www.grid.ac/institutes/grid.411105.0....... University of Kocaeli............................. 
+	http://risis.eu/leidenRanking_2015/resource/741... Kocaeli University................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:7947982', '3:grid.411105.0'), ('2:TR0070', '1:7947982'), ('3:grid.411105.0', '2:TR0070'), ('4:741', '1:7947982'), ('4:741', '2:TR0070'), ('4:741', '3:grid.411105.0')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

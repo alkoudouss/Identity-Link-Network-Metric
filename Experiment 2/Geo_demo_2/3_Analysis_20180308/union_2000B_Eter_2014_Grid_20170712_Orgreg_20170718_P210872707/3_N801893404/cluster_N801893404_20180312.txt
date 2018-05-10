@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 90 
+NAME    N801893404
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/LV0048>
+	<http://risis.eu/orgreg_20170718/resource/LV0048>
+	<http://risis.eu/orgreg_20170718/resource/LV0024>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/eter_2014/resource/LV0048........ http://risis.eu/orgreg_20170718/resource/LV0024.. 1................................................ Near each other by at most 2000 meter(s)......... 
+	http://risis.eu/eter_2014/resource/LV0048........ http://risis.eu/orgreg_20170718/resource/LV0048.. 1................................................ Near each other by at most 2000 meter(s)......... 
+	http://risis.eu/orgreg_20170718/resource/LV0048.. http://risis.eu/eter_2014/resource/LV0048........ 1................................................ Near each other by at most 2000 meter(s)......... 
+	http://risis.eu/orgreg_20170718/resource/LV0024.. http://risis.eu/eter_2014/resource/LV0048........ 1................................................ Near each other by at most 2000 meter(s)......... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/eter_2014/resource/LV0048........ 56,981608........................................ 
+	http://risis.eu/eter_2014/resource/LV0048........ 23,892409........................................ 
+	http://risis.eu/eter_2014/resource/LV0048........ http://www.psk.lu.lv............................. 
+	http://risis.eu/eter_2014/resource/LV0048........ a................................................ 
+	http://risis.eu/eter_2014/resource/LV0048........ P.Stradins Medical College of the University of Latvia College 
+	http://risis.eu/eter_2014/resource/LV0048........ LU P.Stradina medicinas koledža................. 
+	http://risis.eu/orgreg_20170718/resource/LV0048.. 23.892409........................................ 
+	http://risis.eu/orgreg_20170718/resource/LV0048.. 56.981608........................................ 
+	http://risis.eu/orgreg_20170718/resource/LV0048.. http://www.psk.lu.lv............................. 
+	http://risis.eu/orgreg_20170718/resource/LV0048.. P.Stradins Medical College of the University of Latvia College 
+	http://risis.eu/orgreg_20170718/resource/LV0024.. 23.892409........................................ 
+	http://risis.eu/orgreg_20170718/resource/LV0024.. 56.981608........................................ 
+	http://risis.eu/orgreg_20170718/resource/LV0024.. http://www.kra.lv................................ 
+	http://risis.eu/orgreg_20170718/resource/LV0024.. Latvian Christian Academy........................ 
+
+NETWORK ANALYSIS
+	NETWORK [('N801893404-LV0048', 'P1781996909-LV0048'), ('N801893404-LV0048', 'P311236911-LV0024')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

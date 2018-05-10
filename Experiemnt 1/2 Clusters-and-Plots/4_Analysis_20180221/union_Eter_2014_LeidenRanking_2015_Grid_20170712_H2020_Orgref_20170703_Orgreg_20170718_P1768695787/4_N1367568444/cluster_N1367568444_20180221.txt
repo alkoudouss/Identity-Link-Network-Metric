@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 5196 
+NAME    N1367568444
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.444783.8>
+	<http://risis.eu/orgref_20170703/resource/4015693>
+	<http://risis.eu/orgref_20170703/resource/3554264>
+	<http://www.grid.ac/institutes/grid.465246.7>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.444783.8....... http://www.grid.ac/institutes/grid.465246.7....... 1................................................. [Air University] was compared to [Air University]. 
+	http://www.grid.ac/institutes/grid.465246.7....... http://www.grid.ac/institutes/grid.444783.8....... 1................................................. [Air University] was compared to [Air University]. 
+	http://www.grid.ac/institutes/grid.444783.8....... http://risis.eu/orgref_20170703/resource/3554264.. 1................................................. [Air University] was compared to [Air University (Islamabad)] 
+	http://risis.eu/orgref_20170703/resource/3554264.. http://www.grid.ac/institutes/grid.444783.8....... 1................................................. [Air University] was compared to [Air University (Islamabad)] 
+	http://www.grid.ac/institutes/grid.444783.8....... http://risis.eu/orgref_20170703/resource/4015693.. 1................................................. [Air University] was compared to [Air University (United States Air Force)] 
+	http://risis.eu/orgref_20170703/resource/4015693.. http://www.grid.ac/institutes/grid.444783.8....... 1................................................. [Air University] was compared to [Air University (United States Air Force)] 
+	http://risis.eu/orgref_20170703/resource/3554264.. http://www.grid.ac/institutes/grid.465246.7....... 1................................................. [Air University] was compared to [Air University (Islamabad)] 
+	http://www.grid.ac/institutes/grid.465246.7....... http://risis.eu/orgref_20170703/resource/3554264.. 1................................................. [Air University] was compared to [Air University (Islamabad)] 
+	http://risis.eu/orgref_20170703/resource/4015693.. http://www.grid.ac/institutes/grid.465246.7....... 1................................................. [Air University] was compared to [Air University (United States Air Force)] 
+	http://www.grid.ac/institutes/grid.465246.7....... http://risis.eu/orgref_20170703/resource/4015693.. 1................................................. [Air University] was compared to [Air University (United States Air Force)] 
+	http://risis.eu/orgref_20170703/resource/4015693.. http://risis.eu/orgref_20170703/resource/3554264.. 1................................................. [Air University (Islamabad)] was compared to [Air University (United States Air Force)] 
+	http://risis.eu/orgref_20170703/resource/3554264.. http://risis.eu/orgref_20170703/resource/4015693.. 1................................................. [Air University (Islamabad)] was compared to [Air University (United States Air Force)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.444783.8....... Air University.................................... 
+	http://risis.eu/orgref_20170703/resource/4015693.. http://en.wikipedia.org/wiki?curid=4015693........ 
+	http://risis.eu/orgref_20170703/resource/4015693.. http://www.wikidata.org/wiki/Q407875.............. 
+	http://risis.eu/orgref_20170703/resource/4015693.. Air University (United States Air Force).......... 
+	http://risis.eu/orgref_20170703/resource/3554264.. http://en.wikipedia.org/wiki?curid=3554264........ 
+	http://risis.eu/orgref_20170703/resource/3554264.. http://www.wikidata.org/wiki/Q4698242............. 
+	http://risis.eu/orgref_20170703/resource/3554264.. http://www.au.edu.pk.............................. 
+	http://risis.eu/orgref_20170703/resource/3554264.. Air University (Islamabad)........................ 
+	http://www.grid.ac/institutes/grid.465246.7....... -86.345566........................................ 
+	http://www.grid.ac/institutes/grid.465246.7....... 32.384834......................................... 
+	http://www.grid.ac/institutes/grid.465246.7....... http://www.au.af.mil/............................. 
+	http://www.grid.ac/institutes/grid.465246.7....... Air University.................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:4015693', '1:grid.444783.8'), ('3:3554264', '1:grid.444783.8'), ('3:3554264', '2:4015693'), ('3:3554264', '4:grid.465246.7'), ('4:grid.465246.7', '1:grid.444783.8'), ('4:grid.465246.7', '2:4015693')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

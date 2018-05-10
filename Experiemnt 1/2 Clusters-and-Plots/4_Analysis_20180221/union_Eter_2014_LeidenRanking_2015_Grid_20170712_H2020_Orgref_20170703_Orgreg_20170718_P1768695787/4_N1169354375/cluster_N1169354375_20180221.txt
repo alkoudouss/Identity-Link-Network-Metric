@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 16158 
+NAME    N1169354375
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/13384963>
+	<http://risis.eu/leidenRanking_2015/resource/3832>
+	<http://risis.eu/orgreg_20170718/resource/DE2012>
+	<http://risis.eu/orgreg_20170718/resource/DE0050>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/13384963.. http://risis.eu/leidenRanking_2015/resource/3832... 1.................................................. [University Hospital of Giessen and Marburg] was compared to [University Hospital of Giessen and Marburg] 
+	http://risis.eu/leidenRanking_2015/resource/3832... http://risis.eu/orgref_20170703/resource/13384963.. 1.................................................. [University Hospital of Giessen and Marburg] was compared to [University Hospital of Giessen and Marburg] 
+	http://risis.eu/orgreg_20170718/resource/DE2012.... http://risis.eu/orgreg_20170718/resource/DE0050.... 1.................................................. [University Hospital of Giessen and Marburg] was compared to [University Hospital of Giessen and Marburg] 
+	http://risis.eu/orgreg_20170718/resource/DE0050.... http://risis.eu/orgreg_20170718/resource/DE2012.... 1.................................................. [University Hospital of Giessen and Marburg] was compared to [University Hospital of Giessen and Marburg] 
+	http://risis.eu/leidenRanking_2015/resource/3832... http://risis.eu/orgreg_20170718/resource/DE0050.... 1.................................................. [University Hospital of Giessen and Marburg] was compared to [University Hospital of Giessen and Marburg] 
+	http://risis.eu/orgreg_20170718/resource/DE0050.... http://risis.eu/leidenRanking_2015/resource/3832... 1.................................................. [University Hospital of Giessen and Marburg] was compared to [University Hospital of Giessen and Marburg] 
+	http://risis.eu/leidenRanking_2015/resource/3832... http://risis.eu/orgreg_20170718/resource/DE2012.... 1.................................................. [University Hospital of Giessen and Marburg] was compared to [University Hospital of Giessen and Marburg] 
+	http://risis.eu/orgreg_20170718/resource/DE2012.... http://risis.eu/leidenRanking_2015/resource/3832... 1.................................................. [University Hospital of Giessen and Marburg] was compared to [University Hospital of Giessen and Marburg] 
+	http://risis.eu/orgref_20170703/resource/13384963.. http://risis.eu/orgreg_20170718/resource/DE2012.... 1.................................................. [University Hospital of Giessen and Marburg] was compared to [University Hospital of Giessen and Marburg] 
+	http://risis.eu/orgreg_20170718/resource/DE2012.... http://risis.eu/orgref_20170703/resource/13384963.. 1.................................................. [University Hospital of Giessen and Marburg] was compared to [University Hospital of Giessen and Marburg] 
+	http://risis.eu/orgref_20170703/resource/13384963.. http://risis.eu/orgreg_20170718/resource/DE0050.... 1.................................................. [University Hospital of Giessen and Marburg] was compared to [University Hospital of Giessen and Marburg] 
+	http://risis.eu/orgreg_20170718/resource/DE0050.... http://risis.eu/orgref_20170703/resource/13384963.. 1.................................................. [University Hospital of Giessen and Marburg] was compared to [University Hospital of Giessen and Marburg] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/13384963.. http://en.wikipedia.org/wiki?curid=13384963........ 
+	http://risis.eu/orgref_20170703/resource/13384963.. http://www.wikidata.org/wiki/Q2496396.............. 
+	http://risis.eu/orgref_20170703/resource/13384963.. University Hospital of Giessen and Marburg......... 
+	http://risis.eu/leidenRanking_2015/resource/3832... University Hospital of Giessen and Marburg......... 
+	http://risis.eu/orgreg_20170718/resource/DE2012.... 50.577169.......................................... 
+	http://risis.eu/orgreg_20170718/resource/DE2012.... 50.814575.......................................... 
+	http://risis.eu/orgreg_20170718/resource/DE2012.... 8.665387........................................... 
+	http://risis.eu/orgreg_20170718/resource/DE2012.... 8.805886........................................... 
+	http://risis.eu/orgreg_20170718/resource/DE2012.... http://www.ukgm.de/................................ 
+	http://risis.eu/orgreg_20170718/resource/DE2012.... University Hospital of Giessen and Marburg......... 
+	http://risis.eu/orgreg_20170718/resource/DE0050.... 50.569801.......................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0050.... 8.669903........................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0050.... http://www.ukgm.de/................................ 
+	http://risis.eu/orgreg_20170718/resource/DE0050.... University Hospital of Giessen and Marburg......... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:3832', '1:13384963'), ('2:3832', '3:DE2012'), ('2:3832', '4:DE0050'), ('3:DE2012', '1:13384963'), ('4:DE0050', '1:13384963'), ('4:DE0050', '3:DE2012')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 5081 
+NAME    N809498731
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.436394.f>
+	<http://www.grid.ac/institutes/grid.451059.c>
+	<http://www.grid.ac/institutes/grid.471123.2>
+	<http://www.grid.ac/institutes/grid.481778.5>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.436394.f.. http://www.grid.ac/institutes/grid.451059.c.. 1............................................ [Michelin (France)] was compared to [Michelin (Canada)] 
+	http://www.grid.ac/institutes/grid.451059.c.. http://www.grid.ac/institutes/grid.436394.f.. 1............................................ [Michelin (France)] was compared to [Michelin (Canada)] 
+	http://www.grid.ac/institutes/grid.436394.f.. http://www.grid.ac/institutes/grid.481778.5.. 1............................................ [Michelin (France)] was compared to [Michelin (United States)] 
+	http://www.grid.ac/institutes/grid.481778.5.. http://www.grid.ac/institutes/grid.436394.f.. 1............................................ [Michelin (France)] was compared to [Michelin (United States)] 
+	http://www.grid.ac/institutes/grid.436394.f.. http://www.grid.ac/institutes/grid.471123.2.. 1............................................ [Michelin (France)] was compared to [Michelin (Switzerland)] 
+	http://www.grid.ac/institutes/grid.471123.2.. http://www.grid.ac/institutes/grid.436394.f.. 1............................................ [Michelin (France)] was compared to [Michelin (Switzerland)] 
+	http://www.grid.ac/institutes/grid.451059.c.. http://www.grid.ac/institutes/grid.481778.5.. 1............................................ [Michelin (Canada)] was compared to [Michelin (United States)] 
+	http://www.grid.ac/institutes/grid.481778.5.. http://www.grid.ac/institutes/grid.451059.c.. 1............................................ [Michelin (Canada)] was compared to [Michelin (United States)] 
+	http://www.grid.ac/institutes/grid.451059.c.. http://www.grid.ac/institutes/grid.471123.2.. 1............................................ [Michelin (Canada)] was compared to [Michelin (Switzerland)] 
+	http://www.grid.ac/institutes/grid.471123.2.. http://www.grid.ac/institutes/grid.451059.c.. 1............................................ [Michelin (Canada)] was compared to [Michelin (Switzerland)] 
+	http://www.grid.ac/institutes/grid.471123.2.. http://www.grid.ac/institutes/grid.481778.5.. 1............................................ [Michelin (Switzerland)] was compared to [Michelin (United States)] 
+	http://www.grid.ac/institutes/grid.481778.5.. http://www.grid.ac/institutes/grid.471123.2.. 1............................................ [Michelin (Switzerland)] was compared to [Michelin (United States)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.436394.f.. Michelin (France)............................ 
+	http://www.grid.ac/institutes/grid.451059.c.. -73.75954.................................... 
+	http://www.grid.ac/institutes/grid.451059.c.. 45.572803.................................... 
+	http://www.grid.ac/institutes/grid.451059.c.. http://www.michelin.ca/...................... 
+	http://www.grid.ac/institutes/grid.451059.c.. Michelin (Canada)............................ 
+	http://www.grid.ac/institutes/grid.471123.2.. 7.118348..................................... 
+	http://www.grid.ac/institutes/grid.471123.2.. 46.814144.................................... 
+	http://www.grid.ac/institutes/grid.471123.2.. http://www.michelin.ch/de.................... 
+	http://www.grid.ac/institutes/grid.471123.2.. Michelin (Switzerland)....................... 
+	http://www.grid.ac/institutes/grid.481778.5.. -82.25823.................................... 
+	http://www.grid.ac/institutes/grid.481778.5.. 34.86106..................................... 
+	http://www.grid.ac/institutes/grid.481778.5.. http://www.michelinman.com/US/en/homepage.html 
+	http://www.grid.ac/institutes/grid.481778.5.. Michelin (United States)..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.451059.c', '1:grid.436394.f'), ('3:grid.471123.2', '1:grid.436394.f'), ('3:grid.471123.2', '2:grid.451059.c'), ('4:grid.481778.5', '1:grid.436394.f'), ('4:grid.481778.5', '2:grid.451059.c'), ('4:grid.481778.5', '3:grid.471123.2')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

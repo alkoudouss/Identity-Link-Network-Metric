@@ -1,0 +1,58 @@
+SIZE    3   
+CLUSTER 48 
+NAME    P506509279
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/PT0128>
+	<http://www.grid.ac/institutes/grid.410959.0>
+	<http://risis.eu/eter_2014/resource/PT0128>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/PT0128.. http://risis.eu/eter_2014/resource/PT0128........ 1................................................ [hotelschool hague] was compared to [hotelschool hague] 
+	http://risis.eu/orgreg_20170718/resource/PT0128.. http://risis.eu/eter_2014/resource/PT0128........ 1................................................ [higher institute education science] was compared to [higher institute education science] 
+	http://www.grid.ac/institutes/grid.410959.0...... http://risis.eu/eter_2014/resource/PT0128........ 1................................................ [instituto superior educacao e ciencias] was compared to [instituto superior educacao e ciencias] 
+	http://risis.eu/eter_2014/resource/PT0128........ http://www.grid.ac/institutes/grid.410959.0...... 1................................................ [instituto superior educacao e ciencias] was compared to [instituto superior educacao e ciencias] 
+	http://risis.eu/eter_2014/resource/PT0128........ http://risis.eu/orgreg_20170718/resource/PT0128.. 1................................................ [hotelschool hague] was compared to [hotelschool hague] 
+	http://risis.eu/eter_2014/resource/PT0128........ http://risis.eu/orgreg_20170718/resource/PT0128.. 1................................................ [higher institute education science] was compared to [higher institute education science] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/PT0128.. -9.158226........................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0128.. 38.767653........................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0128.. http://www.isec.universitas.pt................... 
+	http://risis.eu/orgreg_20170718/resource/PT0128.. Higher Institute of Education and Science........ 
+	http://www.grid.ac/institutes/grid.410959.0...... -9.158903........................................ 
+	http://www.grid.ac/institutes/grid.410959.0...... 38.769802........................................ 
+	http://www.grid.ac/institutes/grid.410959.0...... http://www.isec.universitas.pt/index.php/en/..... 
+	http://www.grid.ac/institutes/grid.410959.0...... Instituto Superior de Educação e Ciências..... 
+	http://risis.eu/eter_2014/resource/PT0128........ 38,767653........................................ 
+	http://risis.eu/eter_2014/resource/PT0128........ -9,158226........................................ 
+	http://risis.eu/eter_2014/resource/PT0128........ http://www.isec.universitas.pt................... 
+	http://risis.eu/eter_2014/resource/PT0128........ a................................................ 
+	http://risis.eu/eter_2014/resource/PT0128........ Higher Institute of Education and Science........ 
+	http://risis.eu/eter_2014/resource/PT0128........ Instituto Superior de Educação e Ciências..... 
+
+NETWORK ANALYSIS
+	NETWORK [('P506509279-PT0128', 'P1823664702-grid.410959.0'), ('P506509279-PT0128', 'P1316675706-PT0128')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

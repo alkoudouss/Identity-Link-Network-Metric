@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 3958 
+NAME    N1590094040
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.416366.0>
+	<http://risis.eu/orgref_20170703/resource/22902379>
+	<http://www.grid.ac/institutes/grid.461523.7>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.416366.0........ http://www.grid.ac/institutes/grid.461523.7........ 0.941176470588..................................... [St Clara Hospital] was compared to [St. Clare Hospital] 
+	http://www.grid.ac/institutes/grid.416366.0........ http://risis.eu/orgref_20170703/resource/22902379.. 0.941176470588..................................... [St Clara Hospital] was compared to [St. Clare Hospital] 
+	http://risis.eu/orgref_20170703/resource/22902379.. http://www.grid.ac/institutes/grid.416366.0........ 0.941176470588..................................... [St Clara Hospital] was compared to [St. Clare Hospital] 
+	http://risis.eu/orgref_20170703/resource/22902379.. http://www.grid.ac/institutes/grid.461523.7........ 1.................................................. [St. Clare Hospital] was compared to [St. Clare Hospital] 
+	http://www.grid.ac/institutes/grid.461523.7........ http://risis.eu/orgref_20170703/resource/22902379.. 1.................................................. [St. Clare Hospital] was compared to [St. Clare Hospital] 
+	http://www.grid.ac/institutes/grid.461523.7........ http://www.grid.ac/institutes/grid.416366.0........ 0.941176470588..................................... [St Clara Hospital] was compared to [St. Clare Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.416366.0........ 4.5352............................................. 
+	http://www.grid.ac/institutes/grid.416366.0........ 51.880013.......................................... 
+	http://www.grid.ac/institutes/grid.416366.0........ St Clara Hospital.................................. 
+	http://risis.eu/orgref_20170703/resource/22902379.. http://en.wikipedia.org/wiki?curid=22902379........ 
+	http://risis.eu/orgref_20170703/resource/22902379.. http://www.wikidata.org/wiki/Q7587611.............. 
+	http://risis.eu/orgref_20170703/resource/22902379.. https://www.fhshealth.org/location/sch.asp......... 
+	http://risis.eu/orgref_20170703/resource/22902379.. St. Clare Hospital................................. 
+	http://www.grid.ac/institutes/grid.461523.7........ -122.50225......................................... 
+	http://www.grid.ac/institutes/grid.461523.7........ 47.15462........................................... 
+	http://www.grid.ac/institutes/grid.461523.7........ https://www.chifranciscan.org/st-clare-hospital/... 
+	http://www.grid.ac/institutes/grid.461523.7........ Lakewood General................................... 
+	http://www.grid.ac/institutes/grid.461523.7........ St. Clare Hospital................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('P76261938-22902379', 'N1590094040-grid.416366.0'), ('P76261938-22902379', 'P707859718-grid.461523.7'), ('N1590094040-grid.416366.0', 'P707859718-grid.461523.7')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

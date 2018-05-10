@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 16016 
+NAME    N2010049821
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/1797189>
+	<http://risis.eu/cordisH2020/resource/participant_931201650>
+	<http://www.grid.ac/institutes/grid.239546.f>
+	<http://risis.eu/leidenRanking_2015/resource/2310>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/1797189............ http://www.grid.ac/institutes/grid.239546.f................. 1........................................................... [Children's Hospital of Los Angeles] was compared to [Children's Hospital Los Angeles] 
+	http://www.grid.ac/institutes/grid.239546.f................. http://risis.eu/orgref_20170703/resource/1797189............ 1........................................................... [Children's Hospital of Los Angeles] was compared to [Children's Hospital Los Angeles] 
+	http://www.grid.ac/institutes/grid.239546.f................. http://risis.eu/leidenRanking_2015/resource/2310............ 1........................................................... [Children's Hospital of Los Angeles] was compared to [Children's Hospital Los Angeles] 
+	http://risis.eu/leidenRanking_2015/resource/2310............ http://www.grid.ac/institutes/grid.239546.f................. 1........................................................... [Children's Hospital of Los Angeles] was compared to [Children's Hospital Los Angeles] 
+	http://risis.eu/cordisH2020/resource/participant_931201650.. http://www.grid.ac/institutes/grid.239546.f................. 1........................................................... [Children's Hospital of Los Angeles] was compared to [CHILDREN'S HOSPITAL LOS ANGELES] 
+	http://www.grid.ac/institutes/grid.239546.f................. http://risis.eu/cordisH2020/resource/participant_931201650.. 1........................................................... [Children's Hospital of Los Angeles] was compared to [CHILDREN'S HOSPITAL LOS ANGELES] 
+	http://risis.eu/orgref_20170703/resource/1797189............ http://risis.eu/leidenRanking_2015/resource/2310............ 1........................................................... [Children's Hospital Los Angeles] was compared to [Children's Hospital Los Angeles] 
+	http://risis.eu/leidenRanking_2015/resource/2310............ http://risis.eu/orgref_20170703/resource/1797189............ 1........................................................... [Children's Hospital Los Angeles] was compared to [Children's Hospital Los Angeles] 
+	http://risis.eu/orgref_20170703/resource/1797189............ http://risis.eu/cordisH2020/resource/participant_931201650.. 1........................................................... [Children's Hospital Los Angeles] was compared to [CHILDREN'S HOSPITAL LOS ANGELES] 
+	http://risis.eu/cordisH2020/resource/participant_931201650.. http://risis.eu/orgref_20170703/resource/1797189............ 1........................................................... [Children's Hospital Los Angeles] was compared to [CHILDREN'S HOSPITAL LOS ANGELES] 
+	http://risis.eu/cordisH2020/resource/participant_931201650.. http://risis.eu/leidenRanking_2015/resource/2310............ 1........................................................... [CHILDREN'S HOSPITAL LOS ANGELES] was compared to [Children's Hospital Los Angeles] 
+	http://risis.eu/leidenRanking_2015/resource/2310............ http://risis.eu/cordisH2020/resource/participant_931201650.. 1........................................................... [CHILDREN'S HOSPITAL LOS ANGELES] was compared to [Children's Hospital Los Angeles] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/1797189............ http://en.wikipedia.org/wiki?curid=1797189.................. 
+	http://risis.eu/orgref_20170703/resource/1797189............ http://www.wikidata.org/wiki/Q1072787....................... 
+	http://risis.eu/orgref_20170703/resource/1797189............ http://www.chla.org......................................... 
+	http://risis.eu/orgref_20170703/resource/1797189............ Children's Hospital Los Angeles............................. 
+	http://risis.eu/cordisH2020/resource/participant_931201650.. CHILDREN'S HOSPITAL LOS ANGELES............................. 
+	http://www.grid.ac/institutes/grid.239546.f................. -118.290085................................................. 
+	http://www.grid.ac/institutes/grid.239546.f................. 34.097477................................................... 
+	http://www.grid.ac/institutes/grid.239546.f................. http://www.chla.org/........................................ 
+	http://www.grid.ac/institutes/grid.239546.f................. Children's Hospital Society................................. 
+	http://www.grid.ac/institutes/grid.239546.f................. Children's Hospital of Los Angeles.......................... 
+	http://risis.eu/leidenRanking_2015/resource/2310............ Children's Hospital Los Angeles............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:1797189', '3:grid.239546.f'), ('2:participant_931201650', '1:1797189'), ('2:participant_931201650', '3:grid.239546.f'), ('4:2310', '1:1797189'), ('4:2310', '2:participant_931201650'), ('4:2310', '3:grid.239546.f')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

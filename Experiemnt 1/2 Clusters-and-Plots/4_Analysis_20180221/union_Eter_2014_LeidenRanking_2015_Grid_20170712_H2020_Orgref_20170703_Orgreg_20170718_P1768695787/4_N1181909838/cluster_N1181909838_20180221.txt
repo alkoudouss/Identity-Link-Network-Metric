@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 13723 
+NAME    N1181909838
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.443055.3>
+	<http://risis.eu/orgref_20170703/resource/12080601>
+	<http://risis.eu/orgref_20170703/resource/24595416>
+	<http://www.grid.ac/institutes/grid.412103.5>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/24595416.. http://www.grid.ac/institutes/grid.412103.5........ 1.................................................. [National United University] was compared to [National United University] 
+	http://www.grid.ac/institutes/grid.412103.5........ http://risis.eu/orgref_20170703/resource/24595416.. 1.................................................. [National United University] was compared to [National United University] 
+	http://www.grid.ac/institutes/grid.443055.3........ http://risis.eu/orgref_20170703/resource/12080601.. 1.................................................. [United International University] was compared to [United International University] 
+	http://risis.eu/orgref_20170703/resource/12080601.. http://www.grid.ac/institutes/grid.443055.3........ 1.................................................. [United International University] was compared to [United International University] 
+	http://risis.eu/orgref_20170703/resource/12080601.. http://risis.eu/orgref_20170703/resource/24595416.. 0.838709677419..................................... [United International University] was compared to [National United University] 
+	http://risis.eu/orgref_20170703/resource/24595416.. http://risis.eu/orgref_20170703/resource/12080601.. 0.838709677419..................................... [United International University] was compared to [National United University] 
+	http://www.grid.ac/institutes/grid.443055.3........ http://www.grid.ac/institutes/grid.412103.5........ 0.838709677419..................................... [National United University] was compared to [United International University] 
+	http://www.grid.ac/institutes/grid.412103.5........ http://www.grid.ac/institutes/grid.443055.3........ 0.838709677419..................................... [National United University] was compared to [United International University] 
+	http://risis.eu/orgref_20170703/resource/12080601.. http://www.grid.ac/institutes/grid.412103.5........ 0.838709677419..................................... [National United University] was compared to [United International University] 
+	http://www.grid.ac/institutes/grid.412103.5........ http://risis.eu/orgref_20170703/resource/12080601.. 0.838709677419..................................... [National United University] was compared to [United International University] 
+	http://www.grid.ac/institutes/grid.443055.3........ http://risis.eu/orgref_20170703/resource/24595416.. 0.838709677419..................................... [United International University] was compared to [National United University] 
+	http://risis.eu/orgref_20170703/resource/24595416.. http://www.grid.ac/institutes/grid.443055.3........ 0.838709677419..................................... [United International University] was compared to [National United University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.443055.3........ United International University.................... 
+	http://risis.eu/orgref_20170703/resource/12080601.. http://en.wikipedia.org/wiki?curid=12080601........ 
+	http://risis.eu/orgref_20170703/resource/12080601.. http://www.wikidata.org/wiki/Q7887878.............. 
+	http://risis.eu/orgref_20170703/resource/12080601.. http://uiu.ac.bd................................... 
+	http://risis.eu/orgref_20170703/resource/12080601.. United International University.................... 
+	http://risis.eu/orgref_20170703/resource/24595416.. http://en.wikipedia.org/wiki?curid=24595416........ 
+	http://risis.eu/orgref_20170703/resource/24595416.. http://www.wikidata.org/wiki/Q6145842.............. 
+	http://risis.eu/orgref_20170703/resource/24595416.. http://www.nuu.edu.tw/uipweb/wsite/mp?mp=50........ 
+	http://risis.eu/orgref_20170703/resource/24595416.. National United University......................... 
+	http://www.grid.ac/institutes/grid.412103.5........ 120.78958.......................................... 
+	http://www.grid.ac/institutes/grid.412103.5........ 24.53839........................................... 
+	http://www.grid.ac/institutes/grid.412103.5........ http://www.nuu.edu.tw/UIPWeb/wSite/mp?mp=50........ 
+	http://www.grid.ac/institutes/grid.412103.5........ Guólì Liánhé Dàxué........................... 
+	http://www.grid.ac/institutes/grid.412103.5........ National United University......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.443055.3', '4:grid.412103.5'), ('2:12080601', '1:grid.443055.3'), ('3:24595416', '1:grid.443055.3'), ('3:24595416', '2:12080601'), ('3:24595416', '4:grid.412103.5'), ('4:grid.412103.5', '2:12080601')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 5833 
+NAME    N195049400
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.460830.9>
+	<http://risis.eu/orgref_20170703/resource/13326670>
+	<http://www.grid.ac/institutes/grid.460833.a>
+	<http://risis.eu/orgref_20170703/resource/13263218>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.460830.9........ http://www.grid.ac/institutes/grid.460833.a........ 0.821428571429..................................... [Hong Kong Adventist Hospital] was compared to [Hong Kong Baptist Hospital] 
+	http://www.grid.ac/institutes/grid.460833.a........ http://www.grid.ac/institutes/grid.460830.9........ 0.821428571429..................................... [Hong Kong Adventist Hospital] was compared to [Hong Kong Baptist Hospital] 
+	http://www.grid.ac/institutes/grid.460833.a........ http://risis.eu/orgref_20170703/resource/13263218.. 0.821428571429..................................... [Hong Kong Baptist Hospital] was compared to [Hong Kong Adventist Hospital] 
+	http://risis.eu/orgref_20170703/resource/13263218.. http://www.grid.ac/institutes/grid.460833.a........ 0.821428571429..................................... [Hong Kong Baptist Hospital] was compared to [Hong Kong Adventist Hospital] 
+	http://risis.eu/orgref_20170703/resource/13326670.. http://www.grid.ac/institutes/grid.460833.a........ 1.................................................. [Hong Kong Baptist Hospital] was compared to [Hong Kong Baptist Hospital] 
+	http://www.grid.ac/institutes/grid.460833.a........ http://risis.eu/orgref_20170703/resource/13326670.. 1.................................................. [Hong Kong Baptist Hospital] was compared to [Hong Kong Baptist Hospital] 
+	http://www.grid.ac/institutes/grid.460830.9........ http://risis.eu/orgref_20170703/resource/13263218.. 1.................................................. [Hong Kong Adventist Hospital] was compared to [Hong Kong Adventist Hospital] 
+	http://risis.eu/orgref_20170703/resource/13263218.. http://www.grid.ac/institutes/grid.460830.9........ 1.................................................. [Hong Kong Adventist Hospital] was compared to [Hong Kong Adventist Hospital] 
+	http://www.grid.ac/institutes/grid.460830.9........ http://risis.eu/orgref_20170703/resource/13326670.. 0.821428571429..................................... [Hong Kong Adventist Hospital] was compared to [Hong Kong Baptist Hospital] 
+	http://risis.eu/orgref_20170703/resource/13326670.. http://www.grid.ac/institutes/grid.460830.9........ 0.821428571429..................................... [Hong Kong Adventist Hospital] was compared to [Hong Kong Baptist Hospital] 
+	http://risis.eu/orgref_20170703/resource/13326670.. http://risis.eu/orgref_20170703/resource/13263218.. 0.821428571429..................................... [Hong Kong Adventist Hospital] was compared to [Hong Kong Baptist Hospital] 
+	http://risis.eu/orgref_20170703/resource/13263218.. http://risis.eu/orgref_20170703/resource/13326670.. 0.821428571429..................................... [Hong Kong Adventist Hospital] was compared to [Hong Kong Baptist Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.460830.9........ 114.18425.......................................... 
+	http://www.grid.ac/institutes/grid.460830.9........ 22.26372........................................... 
+	http://www.grid.ac/institutes/grid.460830.9........ https://www.hkah.org.hk/en/main.................... 
+	http://www.grid.ac/institutes/grid.460830.9........ Hong Kong Adventist Hospital....................... 
+	http://risis.eu/orgref_20170703/resource/13326670.. http://en.wikipedia.org/wiki?curid=13326670........ 
+	http://risis.eu/orgref_20170703/resource/13326670.. http://www.wikidata.org/wiki/Q8422749.............. 
+	http://risis.eu/orgref_20170703/resource/13326670.. http://www.hkbh.org.hk............................. 
+	http://risis.eu/orgref_20170703/resource/13326670.. Hong Kong Baptist Hospital......................... 
+	http://www.grid.ac/institutes/grid.460833.a........ 114.18015.......................................... 
+	http://www.grid.ac/institutes/grid.460833.a........ 22.339624.......................................... 
+	http://www.grid.ac/institutes/grid.460833.a........ http://www.hkbh.org.hk/eng/home.php................ 
+	http://www.grid.ac/institutes/grid.460833.a........ Hong Kong Baptist Hospital......................... 
+	http://risis.eu/orgref_20170703/resource/13263218.. http://en.wikipedia.org/wiki?curid=13263218........ 
+	http://risis.eu/orgref_20170703/resource/13263218.. http://www.wikidata.org/wiki/Q3145252.............. 
+	http://risis.eu/orgref_20170703/resource/13263218.. http://www.hkah.org.hk............................. 
+	http://risis.eu/orgref_20170703/resource/13263218.. Hong Kong Adventist Hospital....................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:13326670', '1:grid.460830.9'), ('2:13326670', '3:grid.460833.a'), ('2:13326670', '4:13263218'), ('3:grid.460833.a', '1:grid.460830.9'), ('4:13263218', '1:grid.460830.9'), ('4:13263218', '3:grid.460833.a')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

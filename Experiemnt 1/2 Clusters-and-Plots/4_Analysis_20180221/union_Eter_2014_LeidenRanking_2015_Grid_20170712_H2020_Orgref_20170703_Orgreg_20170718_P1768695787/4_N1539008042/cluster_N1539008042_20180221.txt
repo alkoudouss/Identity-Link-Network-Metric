@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 5458 
+NAME    N1539008042
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.466789.2>
+	<http://risis.eu/orgref_20170703/resource/47000302>
+	<http://www.grid.ac/institutes/grid.450314.7>
+	<http://risis.eu/orgreg_20170718/resource/LT1004>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.466789.2........ http://www.grid.ac/institutes/grid.450314.7........ 1.................................................. [Institute of Semiconductor Physics] was compared to [Institute of Semiconductor Physics] 
+	http://www.grid.ac/institutes/grid.450314.7........ http://www.grid.ac/institutes/grid.466789.2........ 1.................................................. [Institute of Semiconductor Physics] was compared to [Institute of Semiconductor Physics] 
+	http://www.grid.ac/institutes/grid.466789.2........ http://risis.eu/orgref_20170703/resource/47000302.. 1.................................................. [Institute of Semiconductor Physics] was compared to [Semiconductor Physics Institute] 
+	http://risis.eu/orgref_20170703/resource/47000302.. http://www.grid.ac/institutes/grid.466789.2........ 1.................................................. [Institute of Semiconductor Physics] was compared to [Semiconductor Physics Institute] 
+	http://risis.eu/orgref_20170703/resource/47000302.. http://www.grid.ac/institutes/grid.450314.7........ 1.................................................. [Institute of Semiconductor Physics] was compared to [Semiconductor Physics Institute] 
+	http://www.grid.ac/institutes/grid.450314.7........ http://risis.eu/orgref_20170703/resource/47000302.. 1.................................................. [Institute of Semiconductor Physics] was compared to [Semiconductor Physics Institute] 
+	http://risis.eu/orgref_20170703/resource/47000302.. http://risis.eu/orgreg_20170718/resource/LT1004.... 1.................................................. [Semiconductor Physics Institute] was compared to [Semiconductor Physics Institute] 
+	http://risis.eu/orgreg_20170718/resource/LT1004.... http://risis.eu/orgref_20170703/resource/47000302.. 1.................................................. [Semiconductor Physics Institute] was compared to [Semiconductor Physics Institute] 
+	http://www.grid.ac/institutes/grid.466789.2........ http://risis.eu/orgreg_20170718/resource/LT1004.... 1.................................................. [Institute of Semiconductor Physics] was compared to [Semiconductor Physics Institute] 
+	http://risis.eu/orgreg_20170718/resource/LT1004.... http://www.grid.ac/institutes/grid.466789.2........ 1.................................................. [Institute of Semiconductor Physics] was compared to [Semiconductor Physics Institute] 
+	http://www.grid.ac/institutes/grid.450314.7........ http://risis.eu/orgreg_20170718/resource/LT1004.... 1.................................................. [Institute of Semiconductor Physics] was compared to [Semiconductor Physics Institute] 
+	http://risis.eu/orgreg_20170718/resource/LT1004.... http://www.grid.ac/institutes/grid.450314.7........ 1.................................................. [Institute of Semiconductor Physics] was compared to [Semiconductor Physics Institute] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.466789.2........ 30.530457.......................................... 
+	http://www.grid.ac/institutes/grid.466789.2........ 50.388206.......................................... 
+	http://www.grid.ac/institutes/grid.466789.2........ https://www.isp.kiev.ua/........................... 
+	http://www.grid.ac/institutes/grid.466789.2........ V.Ye. Lashkaryov Institute of Semiconductor Physics 
+	http://www.grid.ac/institutes/grid.466789.2........ Institute of Semiconductor Physics................. 
+	http://risis.eu/orgref_20170703/resource/47000302.. Semiconductor Physics Institute.................... 
+	http://www.grid.ac/institutes/grid.450314.7........ 83.11254........................................... 
+	http://www.grid.ac/institutes/grid.450314.7........ 54.846867.......................................... 
+	http://www.grid.ac/institutes/grid.450314.7........ http://www.isp.nsc.ru/index.php?lang=eng........... 
+	http://www.grid.ac/institutes/grid.450314.7........ Institute of Semiconductor Physics................. 
+	http://risis.eu/orgreg_20170718/resource/LT1004.... m.................................................. 
+	http://risis.eu/orgreg_20170718/resource/LT1004.... http://www.ftmc.lt/en/about-us/history/semiconductor-physics-institute 
+	http://risis.eu/orgreg_20170718/resource/LT1004.... Semiconductor Physics Institute.................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:47000302', '1:grid.466789.2'), ('2:47000302', '3:grid.450314.7'), ('3:grid.450314.7', '1:grid.466789.2'), ('4:LT1004', '1:grid.466789.2'), ('4:LT1004', '2:47000302'), ('4:LT1004', '3:grid.450314.7')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

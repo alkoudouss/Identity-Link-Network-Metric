@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 13926 
+NAME    N1528107916
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.423403.2>
+	<http://risis.eu/orgref_20170703/resource/34607339>
+	<http://www.grid.ac/institutes/grid.463613.5>
+	<http://risis.eu/orgref_20170703/resource/21922291>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.423403.2........ http://www.grid.ac/institutes/grid.463613.5........ 1.................................................. [Department of Agriculture, Fisheries and Forestry] was compared to [Department of Agriculture, Forestry and Fisheries] 
+	http://www.grid.ac/institutes/grid.463613.5........ http://www.grid.ac/institutes/grid.423403.2........ 1.................................................. [Department of Agriculture, Fisheries and Forestry] was compared to [Department of Agriculture, Forestry and Fisheries] 
+	http://www.grid.ac/institutes/grid.423403.2........ http://risis.eu/orgref_20170703/resource/34607339.. 1.................................................. [Department of Agriculture, Fisheries and Forestry] was compared to [Department of Agriculture, Fisheries and Forestry (Queensland)] 
+	http://risis.eu/orgref_20170703/resource/34607339.. http://www.grid.ac/institutes/grid.423403.2........ 1.................................................. [Department of Agriculture, Fisheries and Forestry] was compared to [Department of Agriculture, Fisheries and Forestry (Queensland)] 
+	http://www.grid.ac/institutes/grid.423403.2........ http://risis.eu/orgref_20170703/resource/21922291.. 1.................................................. [Department of Agriculture, Fisheries and Forestry] was compared to [Department of Agriculture, Forestry and Fisheries (South Africa)] 
+	http://risis.eu/orgref_20170703/resource/21922291.. http://www.grid.ac/institutes/grid.423403.2........ 1.................................................. [Department of Agriculture, Fisheries and Forestry] was compared to [Department of Agriculture, Forestry and Fisheries (South Africa)] 
+	http://risis.eu/orgref_20170703/resource/34607339.. http://www.grid.ac/institutes/grid.463613.5........ 1.................................................. [Department of Agriculture, Forestry and Fisheries] was compared to [Department of Agriculture, Fisheries and Forestry (Queensland)] 
+	http://www.grid.ac/institutes/grid.463613.5........ http://risis.eu/orgref_20170703/resource/34607339.. 1.................................................. [Department of Agriculture, Forestry and Fisheries] was compared to [Department of Agriculture, Fisheries and Forestry (Queensland)] 
+	http://www.grid.ac/institutes/grid.463613.5........ http://risis.eu/orgref_20170703/resource/21922291.. 1.................................................. [Department of Agriculture, Forestry and Fisheries] was compared to [Department of Agriculture, Forestry and Fisheries (South Africa)] 
+	http://risis.eu/orgref_20170703/resource/21922291.. http://www.grid.ac/institutes/grid.463613.5........ 1.................................................. [Department of Agriculture, Forestry and Fisheries] was compared to [Department of Agriculture, Forestry and Fisheries (South Africa)] 
+	http://risis.eu/orgref_20170703/resource/34607339.. http://risis.eu/orgref_20170703/resource/21922291.. 1.................................................. [Department of Agriculture, Forestry and Fisheries (South Africa)] was compared to [Department of Agriculture, Fisheries and Forestry (Queensland)] 
+	http://risis.eu/orgref_20170703/resource/21922291.. http://risis.eu/orgref_20170703/resource/34607339.. 1.................................................. [Department of Agriculture, Forestry and Fisheries (South Africa)] was compared to [Department of Agriculture, Fisheries and Forestry (Queensland)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.423403.2........ 153.02177.......................................... 
+	http://www.grid.ac/institutes/grid.423403.2........ -27.468601......................................... 
+	http://www.grid.ac/institutes/grid.423403.2........ http://www.daff.gov.au/............................ 
+	http://www.grid.ac/institutes/grid.423403.2........ Department of Agriculture.......................... 
+	http://www.grid.ac/institutes/grid.423403.2........ Department of Agriculture, Fisheries and Forestry.. 
+	http://risis.eu/orgref_20170703/resource/34607339.. http://en.wikipedia.org/wiki?curid=34607339........ 
+	http://risis.eu/orgref_20170703/resource/34607339.. http://www.wikidata.org/wiki/Q5260137.............. 
+	http://risis.eu/orgref_20170703/resource/34607339.. http://www.daf.qld.gov.au.......................... 
+	http://risis.eu/orgref_20170703/resource/34607339.. Department of Agriculture, Fisheries and Forestry (Queensland) 
+	http://www.grid.ac/institutes/grid.463613.5........ 28.208277.......................................... 
+	http://www.grid.ac/institutes/grid.463613.5........ -25.733027......................................... 
+	http://www.grid.ac/institutes/grid.463613.5........ http://www.daff.gov.za/............................ 
+	http://www.grid.ac/institutes/grid.463613.5........ Department of Agriculture, Forestry and Fisheries.. 
+	http://risis.eu/orgref_20170703/resource/21922291.. http://en.wikipedia.org/wiki?curid=21922291........ 
+	http://risis.eu/orgref_20170703/resource/21922291.. http://www.wikidata.org/wiki/Q4294670.............. 
+	http://risis.eu/orgref_20170703/resource/21922291.. http://www.daff.gov.za............................. 
+	http://risis.eu/orgref_20170703/resource/21922291.. Department of Agriculture, Forestry and Fisheries (South Africa) 
+
+NETWORK ANALYSIS
+	NETWORK [('2:34607339', '1:grid.423403.2'), ('2:34607339', '3:grid.463613.5'), ('2:34607339', '4:21922291'), ('3:grid.463613.5', '1:grid.423403.2'), ('4:21922291', '1:grid.423403.2'), ('4:21922291', '3:grid.463613.5')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

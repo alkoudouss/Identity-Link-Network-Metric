@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 15348 
+NAME    N1137629828
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/1616554>
+	<http://risis.eu/leidenRanking_2015/resource/15209>
+	<http://www.grid.ac/institutes/grid.22319.3b>
+	<http://risis.eu/cordisH2020/resource/participant_999484024>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/1616554............ http://www.grid.ac/institutes/grid.22319.3b................. 1........................................................... [Plymouth Marine Laboratory] was compared to [Plymouth Marine Laboratory] 
+	http://www.grid.ac/institutes/grid.22319.3b................. http://risis.eu/orgref_20170703/resource/1616554............ 1........................................................... [Plymouth Marine Laboratory] was compared to [Plymouth Marine Laboratory] 
+	http://risis.eu/leidenRanking_2015/resource/15209........... http://www.grid.ac/institutes/grid.22319.3b................. 1........................................................... [Plymouth Marine Laboratory] was compared to [Plymouth Marine Laboratory] 
+	http://www.grid.ac/institutes/grid.22319.3b................. http://risis.eu/leidenRanking_2015/resource/15209........... 1........................................................... [Plymouth Marine Laboratory] was compared to [Plymouth Marine Laboratory] 
+	http://www.grid.ac/institutes/grid.22319.3b................. http://risis.eu/cordisH2020/resource/participant_999484024.. 1........................................................... [Plymouth Marine Laboratory] was compared to [PLYMOUTH MARINE LABORATORY] 
+	http://risis.eu/cordisH2020/resource/participant_999484024.. http://www.grid.ac/institutes/grid.22319.3b................. 1........................................................... [Plymouth Marine Laboratory] was compared to [PLYMOUTH MARINE LABORATORY] 
+	http://risis.eu/orgref_20170703/resource/1616554............ http://risis.eu/leidenRanking_2015/resource/15209........... 1........................................................... [Plymouth Marine Laboratory] was compared to [Plymouth Marine Laboratory] 
+	http://risis.eu/leidenRanking_2015/resource/15209........... http://risis.eu/orgref_20170703/resource/1616554............ 1........................................................... [Plymouth Marine Laboratory] was compared to [Plymouth Marine Laboratory] 
+	http://risis.eu/orgref_20170703/resource/1616554............ http://risis.eu/cordisH2020/resource/participant_999484024.. 1........................................................... [Plymouth Marine Laboratory] was compared to [PLYMOUTH MARINE LABORATORY] 
+	http://risis.eu/cordisH2020/resource/participant_999484024.. http://risis.eu/orgref_20170703/resource/1616554............ 1........................................................... [Plymouth Marine Laboratory] was compared to [PLYMOUTH MARINE LABORATORY] 
+	http://risis.eu/leidenRanking_2015/resource/15209........... http://risis.eu/cordisH2020/resource/participant_999484024.. 1........................................................... [PLYMOUTH MARINE LABORATORY] was compared to [Plymouth Marine Laboratory] 
+	http://risis.eu/cordisH2020/resource/participant_999484024.. http://risis.eu/leidenRanking_2015/resource/15209........... 1........................................................... [PLYMOUTH MARINE LABORATORY] was compared to [Plymouth Marine Laboratory] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/1616554............ http://en.wikipedia.org/wiki?curid=1616554.................. 
+	http://risis.eu/orgref_20170703/resource/1616554............ http://www.wikidata.org/wiki/Q7205824....................... 
+	http://risis.eu/orgref_20170703/resource/1616554............ http://www.pml.ac.uk........................................ 
+	http://risis.eu/orgref_20170703/resource/1616554............ Plymouth Marine Laboratory.................................. 
+	http://risis.eu/leidenRanking_2015/resource/15209........... Plymouth Marine Laboratory.................................. 
+	http://www.grid.ac/institutes/grid.22319.3b................. -4.148667................................................... 
+	http://www.grid.ac/institutes/grid.22319.3b................. 50.36593.................................................... 
+	http://www.grid.ac/institutes/grid.22319.3b................. http://www.pml.ac.uk/....................................... 
+	http://www.grid.ac/institutes/grid.22319.3b................. Plymouth Marine Laboratory.................................. 
+	http://risis.eu/cordisH2020/resource/participant_999484024.. http://www.pml.ac.uk/....................................... 
+	http://risis.eu/cordisH2020/resource/participant_999484024.. PLYMOUTH MARINE LABORATORY.................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:1616554', '3:grid.22319.3b'), ('2:15209', '1:1616554'), ('2:15209', '4:participant_999484024'), ('3:grid.22319.3b', '2:15209'), ('4:participant_999484024', '1:1616554'), ('4:participant_999484024', '3:grid.22319.3b')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

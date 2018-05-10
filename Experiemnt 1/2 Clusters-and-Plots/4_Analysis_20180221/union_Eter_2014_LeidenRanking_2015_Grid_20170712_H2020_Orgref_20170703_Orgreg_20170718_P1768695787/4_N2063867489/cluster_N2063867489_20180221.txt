@@ -1,0 +1,69 @@
+SIZE    4   
+CLUSTER 776 
+NAME    N2063867489
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.447708.8>
+	<http://www.grid.ac/institutes/grid.465747.3>
+	<http://www.grid.ac/institutes/grid.421772.5>
+	<http://risis.eu/orgref_20170703/resource/429415>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.447708.8...... http://www.grid.ac/institutes/grid.421772.5...... 1................................................ [St. John's College] was compared to [St. John's College] 
+	http://www.grid.ac/institutes/grid.421772.5...... http://www.grid.ac/institutes/grid.447708.8...... 1................................................ [St. John's College] was compared to [St. John's College] 
+	http://www.grid.ac/institutes/grid.465747.3...... http://www.grid.ac/institutes/grid.421772.5...... 1................................................ [St. John's College] was compared to [St. John's College] 
+	http://www.grid.ac/institutes/grid.421772.5...... http://www.grid.ac/institutes/grid.465747.3...... 1................................................ [St. John's College] was compared to [St. John's College] 
+	http://www.grid.ac/institutes/grid.447708.8...... http://www.grid.ac/institutes/grid.465747.3...... 1................................................ [St. John's College] was compared to [St. John's College] 
+	http://www.grid.ac/institutes/grid.465747.3...... http://www.grid.ac/institutes/grid.447708.8...... 1................................................ [St. John's College] was compared to [St. John's College] 
+	http://www.grid.ac/institutes/grid.421772.5...... http://risis.eu/orgref_20170703/resource/429415.. 1................................................ [St. John's College] was compared to [St. John's College (Annapolis/Santa Fe)] 
+	http://risis.eu/orgref_20170703/resource/429415.. http://www.grid.ac/institutes/grid.421772.5...... 1................................................ [St. John's College] was compared to [St. John's College (Annapolis/Santa Fe)] 
+	http://www.grid.ac/institutes/grid.447708.8...... http://risis.eu/orgref_20170703/resource/429415.. 1................................................ [St. John's College] was compared to [St. John's College (Annapolis/Santa Fe)] 
+	http://risis.eu/orgref_20170703/resource/429415.. http://www.grid.ac/institutes/grid.447708.8...... 1................................................ [St. John's College] was compared to [St. John's College (Annapolis/Santa Fe)] 
+	http://www.grid.ac/institutes/grid.465747.3...... http://risis.eu/orgref_20170703/resource/429415.. 1................................................ [St. John's College] was compared to [St. John's College (Annapolis/Santa Fe)] 
+	http://risis.eu/orgref_20170703/resource/429415.. http://www.grid.ac/institutes/grid.465747.3...... 1................................................ [St. John's College] was compared to [St. John's College (Annapolis/Santa Fe)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.447708.8...... -105.912224...................................... 
+	http://www.grid.ac/institutes/grid.447708.8...... 35.6668.......................................... 
+	http://www.grid.ac/institutes/grid.447708.8...... http://www.sjc.edu/about/campus-information/santa-fe-campus-information/ 
+	http://www.grid.ac/institutes/grid.447708.8...... King William's School............................ 
+	http://www.grid.ac/institutes/grid.447708.8...... St. John's College............................... 
+	http://www.grid.ac/institutes/grid.465747.3...... -89.645386....................................... 
+	http://www.grid.ac/institutes/grid.465747.3...... 39.80781......................................... 
+	http://www.grid.ac/institutes/grid.465747.3...... http://www.stjohnscollegespringfield.edu/college/Home.aspx 
+	http://www.grid.ac/institutes/grid.465747.3...... St. John's College............................... 
+	http://www.grid.ac/institutes/grid.421772.5...... -76.49153........................................ 
+	http://www.grid.ac/institutes/grid.421772.5...... 38.981964........................................ 
+	http://www.grid.ac/institutes/grid.421772.5...... http://www.sjc.edu/.............................. 
+	http://www.grid.ac/institutes/grid.421772.5...... King William's School............................ 
+	http://www.grid.ac/institutes/grid.421772.5...... St. John's College............................... 
+	http://risis.eu/orgref_20170703/resource/429415.. http://en.wikipedia.org/wiki?curid=429415........ 
+	http://risis.eu/orgref_20170703/resource/429415.. http://www.wikidata.org/wiki/Q663625............. 
+	http://risis.eu/orgref_20170703/resource/429415.. http://www.sjc.edu............................... 
+	http://risis.eu/orgref_20170703/resource/429415.. St. John's College (Annapolis/Santa Fe).......... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.447708.8', '3:grid.421772.5'), ('2:grid.465747.3', '1:grid.447708.8'), ('3:grid.421772.5', '2:grid.465747.3'), ('4:429415', '1:grid.447708.8'), ('4:429415', '2:grid.465747.3'), ('4:429415', '3:grid.421772.5')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

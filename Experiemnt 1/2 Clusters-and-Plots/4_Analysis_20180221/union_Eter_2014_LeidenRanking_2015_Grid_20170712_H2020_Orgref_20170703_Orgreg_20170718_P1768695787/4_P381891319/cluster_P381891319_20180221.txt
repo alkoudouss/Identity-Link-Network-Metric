@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 513 
+NAME    P381891319
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.443379.e>
+	<http://risis.eu/orgref_20170703/resource/3345279>
+	<http://risis.eu/orgref_20170703/resource/17003422>
+	<http://www.grid.ac/institutes/grid.444266.6>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.443379.e........ http://risis.eu/orgref_20170703/resource/3345279... 1.................................................. [Kanda University of International Studies] was compared to [Kanda University of International Studies] 
+	http://risis.eu/orgref_20170703/resource/3345279... http://www.grid.ac/institutes/grid.443379.e........ 1.................................................. [Kanda University of International Studies] was compared to [Kanda University of International Studies] 
+	http://risis.eu/orgref_20170703/resource/17003422.. http://www.grid.ac/institutes/grid.444266.6........ 1.................................................. [Kansai University of International Studies] was compared to [Kansai University of International Studies] 
+	http://www.grid.ac/institutes/grid.444266.6........ http://risis.eu/orgref_20170703/resource/17003422.. 1.................................................. [Kansai University of International Studies] was compared to [Kansai University of International Studies] 
+	http://risis.eu/orgref_20170703/resource/3345279... http://risis.eu/orgref_20170703/resource/17003422.. 0.948717948718..................................... [Kansai University of International Studies] was compared to [Kanda University of International Studies] 
+	http://risis.eu/orgref_20170703/resource/17003422.. http://risis.eu/orgref_20170703/resource/3345279... 0.948717948718..................................... [Kansai University of International Studies] was compared to [Kanda University of International Studies] 
+	http://www.grid.ac/institutes/grid.443379.e........ http://www.grid.ac/institutes/grid.444266.6........ 0.948717948718..................................... [Kanda University of International Studies] was compared to [Kansai University of International Studies] 
+	http://www.grid.ac/institutes/grid.444266.6........ http://www.grid.ac/institutes/grid.443379.e........ 0.948717948718..................................... [Kanda University of International Studies] was compared to [Kansai University of International Studies] 
+	http://www.grid.ac/institutes/grid.443379.e........ http://risis.eu/orgref_20170703/resource/17003422.. 0.948717948718..................................... [Kanda University of International Studies] was compared to [Kansai University of International Studies] 
+	http://risis.eu/orgref_20170703/resource/17003422.. http://www.grid.ac/institutes/grid.443379.e........ 0.948717948718..................................... [Kanda University of International Studies] was compared to [Kansai University of International Studies] 
+	http://risis.eu/orgref_20170703/resource/3345279... http://www.grid.ac/institutes/grid.444266.6........ 0.948717948718..................................... [Kansai University of International Studies] was compared to [Kanda University of International Studies] 
+	http://www.grid.ac/institutes/grid.444266.6........ http://risis.eu/orgref_20170703/resource/3345279... 0.948717948718..................................... [Kansai University of International Studies] was compared to [Kanda University of International Studies] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.443379.e........ Kanda University of International Studies.......... 
+	http://risis.eu/orgref_20170703/resource/3345279... http://en.wikipedia.org/wiki?curid=3345279......... 
+	http://risis.eu/orgref_20170703/resource/3345279... http://www.wikidata.org/wiki/Q3299255.............. 
+	http://risis.eu/orgref_20170703/resource/3345279... http://www.kuis.ac.jp.............................. 
+	http://risis.eu/orgref_20170703/resource/3345279... Kanda University of International Studies.......... 
+	http://risis.eu/orgref_20170703/resource/17003422.. http://en.wikipedia.org/wiki?curid=17003422........ 
+	http://risis.eu/orgref_20170703/resource/17003422.. http://www.wikidata.org/wiki/Q6364482.............. 
+	http://risis.eu/orgref_20170703/resource/17003422.. http://www.kuins.ac.jp............................. 
+	http://risis.eu/orgref_20170703/resource/17003422.. Kansai University of International Studies......... 
+	http://www.grid.ac/institutes/grid.444266.6........ Kansai University of International Studies......... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:3345279', '1:grid.443379.e'), ('2:3345279', '3:17003422'), ('2:3345279', '4:grid.444266.6'), ('3:17003422', '1:grid.443379.e'), ('4:grid.444266.6', '1:grid.443379.e'), ('4:grid.444266.6', '3:17003422')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

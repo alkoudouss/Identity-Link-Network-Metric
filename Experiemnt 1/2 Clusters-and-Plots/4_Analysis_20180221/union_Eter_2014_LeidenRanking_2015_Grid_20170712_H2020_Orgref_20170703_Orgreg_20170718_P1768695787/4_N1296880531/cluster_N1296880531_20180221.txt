@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 12544 
+NAME    N1296880531
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.425729.f>
+	<http://risis.eu/orgref_20170703/resource/18967579>
+	<http://risis.eu/orgref_20170703/resource/31700316>
+	<http://www.grid.ac/institutes/grid.425823.a>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.425729.f........ http://www.grid.ac/institutes/grid.425823.a........ 0.823529411765..................................... [Ministry of Higher Education and Research] was compared to [Ministry of Science and Higher Education] 
+	http://www.grid.ac/institutes/grid.425823.a........ http://www.grid.ac/institutes/grid.425729.f........ 0.823529411765..................................... [Ministry of Higher Education and Research] was compared to [Ministry of Science and Higher Education] 
+	http://risis.eu/orgref_20170703/resource/31700316.. http://www.grid.ac/institutes/grid.425823.a........ 0.823529411765..................................... [Ministry of Science and Higher Education] was compared to [Ministry of Higher Education and Research] 
+	http://www.grid.ac/institutes/grid.425823.a........ http://risis.eu/orgref_20170703/resource/31700316.. 0.823529411765..................................... [Ministry of Science and Higher Education] was compared to [Ministry of Higher Education and Research] 
+	http://risis.eu/orgref_20170703/resource/18967579.. http://www.grid.ac/institutes/grid.425823.a........ 1.................................................. [Ministry of Science and Higher Education] was compared to [Ministry of Science and Higher Education (Poland)] 
+	http://www.grid.ac/institutes/grid.425823.a........ http://risis.eu/orgref_20170703/resource/18967579.. 1.................................................. [Ministry of Science and Higher Education] was compared to [Ministry of Science and Higher Education (Poland)] 
+	http://www.grid.ac/institutes/grid.425729.f........ http://risis.eu/orgref_20170703/resource/31700316.. 1.................................................. [Ministry of Higher Education and Research] was compared to [Ministry of Higher Education and Research] 
+	http://risis.eu/orgref_20170703/resource/31700316.. http://www.grid.ac/institutes/grid.425729.f........ 1.................................................. [Ministry of Higher Education and Research] was compared to [Ministry of Higher Education and Research] 
+	http://www.grid.ac/institutes/grid.425729.f........ http://risis.eu/orgref_20170703/resource/18967579.. 0.823529411765..................................... [Ministry of Higher Education and Research] was compared to [Ministry of Science and Higher Education (Poland)] 
+	http://risis.eu/orgref_20170703/resource/18967579.. http://www.grid.ac/institutes/grid.425729.f........ 0.823529411765..................................... [Ministry of Higher Education and Research] was compared to [Ministry of Science and Higher Education (Poland)] 
+	http://risis.eu/orgref_20170703/resource/18967579.. http://risis.eu/orgref_20170703/resource/31700316.. 0.823529411765..................................... [Ministry of Science and Higher Education (Poland)] was compared to [Ministry of Higher Education and Research] 
+	http://risis.eu/orgref_20170703/resource/31700316.. http://risis.eu/orgref_20170703/resource/18967579.. 0.823529411765..................................... [Ministry of Science and Higher Education (Poland)] was compared to [Ministry of Higher Education and Research] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.425729.f........ 2.343256........................................... 
+	http://www.grid.ac/institutes/grid.425729.f........ 48.953964.......................................... 
+	http://www.grid.ac/institutes/grid.425729.f........ http://www.enseignementsup-recherche.gouv.fr/...... 
+	http://www.grid.ac/institutes/grid.425729.f........ Ministry of Higher Education and Research.......... 
+	http://risis.eu/orgref_20170703/resource/18967579.. http://en.wikipedia.org/wiki?curid=18967579........ 
+	http://risis.eu/orgref_20170703/resource/18967579.. http://www.wikidata.org/wiki/Q4294468.............. 
+	http://risis.eu/orgref_20170703/resource/18967579.. http://www.mnisw.gov.pl............................ 
+	http://risis.eu/orgref_20170703/resource/18967579.. Ministry of Science and Higher Education (Poland).. 
+	http://risis.eu/orgref_20170703/resource/31700316.. http://en.wikipedia.org/wiki?curid=31700316........ 
+	http://risis.eu/orgref_20170703/resource/31700316.. http://www.wikidata.org/wiki/Q2726949.............. 
+	http://risis.eu/orgref_20170703/resource/31700316.. http://www.recherche.gouv.fr....................... 
+	http://risis.eu/orgref_20170703/resource/31700316.. Ministry of Higher Education and Research.......... 
+	http://www.grid.ac/institutes/grid.425823.a........ 21.020226.......................................... 
+	http://www.grid.ac/institutes/grid.425823.a........ 52.228077.......................................... 
+	http://www.grid.ac/institutes/grid.425823.a........ http://www.nauka.gov.pl/en/........................ 
+	http://www.grid.ac/institutes/grid.425823.a........ Ministerstwo Nauki i Szkolnictwa Wyższego......... 
+	http://www.grid.ac/institutes/grid.425823.a........ Ministry of Science and Higher Education........... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:18967579', '1:grid.425729.f'), ('2:18967579', '4:grid.425823.a'), ('3:31700316', '1:grid.425729.f'), ('3:31700316', '2:18967579'), ('4:grid.425823.a', '1:grid.425729.f'), ('4:grid.425823.a', '3:31700316')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

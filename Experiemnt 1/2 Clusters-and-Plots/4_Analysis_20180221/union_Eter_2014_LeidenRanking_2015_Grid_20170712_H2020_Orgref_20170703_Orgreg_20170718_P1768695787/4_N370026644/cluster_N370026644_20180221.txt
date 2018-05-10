@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 10229 
+NAME    N370026644
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.421324.2>
+	<http://www.grid.ac/institutes/grid.469118.3>
+	<http://risis.eu/orgref_20170703/resource/5675176>
+	<http://risis.eu/orgref_20170703/resource/410411>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.421324.2....... http://risis.eu/orgref_20170703/resource/410411... 1................................................. [Fanshawe College] was compared to [Fanshawe College] 
+	http://risis.eu/orgref_20170703/resource/410411... http://www.grid.ac/institutes/grid.421324.2....... 1................................................. [Fanshawe College] was compared to [Fanshawe College] 
+	http://www.grid.ac/institutes/grid.469118.3....... http://risis.eu/orgref_20170703/resource/5675176.. 1................................................. [Runshaw College] was compared to [Runshaw College] 
+	http://risis.eu/orgref_20170703/resource/5675176.. http://www.grid.ac/institutes/grid.469118.3....... 1................................................. [Runshaw College] was compared to [Runshaw College] 
+	http://risis.eu/orgref_20170703/resource/5675176.. http://risis.eu/orgref_20170703/resource/410411... 0.8125............................................ [Fanshawe College] was compared to [Runshaw College] 
+	http://risis.eu/orgref_20170703/resource/410411... http://risis.eu/orgref_20170703/resource/5675176.. 0.8125............................................ [Fanshawe College] was compared to [Runshaw College] 
+	http://www.grid.ac/institutes/grid.421324.2....... http://www.grid.ac/institutes/grid.469118.3....... 0.8125............................................ [Fanshawe College] was compared to [Runshaw College] 
+	http://www.grid.ac/institutes/grid.469118.3....... http://www.grid.ac/institutes/grid.421324.2....... 0.8125............................................ [Fanshawe College] was compared to [Runshaw College] 
+	http://www.grid.ac/institutes/grid.421324.2....... http://risis.eu/orgref_20170703/resource/5675176.. 0.8125............................................ [Fanshawe College] was compared to [Runshaw College] 
+	http://risis.eu/orgref_20170703/resource/5675176.. http://www.grid.ac/institutes/grid.421324.2....... 0.8125............................................ [Fanshawe College] was compared to [Runshaw College] 
+	http://www.grid.ac/institutes/grid.469118.3....... http://risis.eu/orgref_20170703/resource/410411... 0.8125............................................ [Runshaw College] was compared to [Fanshawe College] 
+	http://risis.eu/orgref_20170703/resource/410411... http://www.grid.ac/institutes/grid.469118.3....... 0.8125............................................ [Runshaw College] was compared to [Fanshawe College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.421324.2....... -81.20018......................................... 
+	http://www.grid.ac/institutes/grid.421324.2....... 43.01244.......................................... 
+	http://www.grid.ac/institutes/grid.421324.2....... https://www.fanshawec.ca/......................... 
+	http://www.grid.ac/institutes/grid.421324.2....... Fanshawe College.................................. 
+	http://www.grid.ac/institutes/grid.469118.3....... -2.689704......................................... 
+	http://www.grid.ac/institutes/grid.469118.3....... 53.68108.......................................... 
+	http://www.grid.ac/institutes/grid.469118.3....... https://www.runshaw.ac.uk/........................ 
+	http://www.grid.ac/institutes/grid.469118.3....... Runshaw College................................... 
+	http://risis.eu/orgref_20170703/resource/5675176.. http://en.wikipedia.org/wiki?curid=5675176........ 
+	http://risis.eu/orgref_20170703/resource/5675176.. http://www.wikidata.org/wiki/Q7380113............. 
+	http://risis.eu/orgref_20170703/resource/5675176.. http://www.runshaw.ac.uk.......................... 
+	http://risis.eu/orgref_20170703/resource/5675176.. Runshaw College................................... 
+	http://risis.eu/orgref_20170703/resource/410411... http://en.wikipedia.org/wiki?curid=410411......... 
+	http://risis.eu/orgref_20170703/resource/410411... http://www.wikidata.org/wiki/Q5434097............. 
+	http://risis.eu/orgref_20170703/resource/410411... https://www.fanshawec.ca.......................... 
+	http://risis.eu/orgref_20170703/resource/410411... Fanshawe College.................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.469118.3', '1:grid.421324.2'), ('3:5675176', '1:grid.421324.2'), ('3:5675176', '2:grid.469118.3'), ('4:410411', '1:grid.421324.2'), ('4:410411', '2:grid.469118.3'), ('4:410411', '3:5675176')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

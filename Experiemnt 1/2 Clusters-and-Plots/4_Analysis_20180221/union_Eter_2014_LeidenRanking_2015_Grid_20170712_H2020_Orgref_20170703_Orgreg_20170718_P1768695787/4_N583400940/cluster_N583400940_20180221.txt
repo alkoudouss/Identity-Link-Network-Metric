@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 12681 
+NAME    N583400940
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.424580.f>
+	<http://risis.eu/orgref_20170703/resource/778956>
+	<http://www.grid.ac/institutes/grid.419796.4>
+	<http://www.grid.ac/institutes/grid.476299.7>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.424580.f...... http://www.grid.ac/institutes/grid.419796.4...... 1................................................ [Lundbeck (United States)] was compared to [Lundbeck (Denmark)] 
+	http://www.grid.ac/institutes/grid.419796.4...... http://www.grid.ac/institutes/grid.424580.f...... 1................................................ [Lundbeck (United States)] was compared to [Lundbeck (Denmark)] 
+	http://www.grid.ac/institutes/grid.419796.4...... http://www.grid.ac/institutes/grid.476299.7...... 1................................................ [Lundbeck (United States)] was compared to [Lundbeck (Spain)] 
+	http://www.grid.ac/institutes/grid.476299.7...... http://www.grid.ac/institutes/grid.419796.4...... 1................................................ [Lundbeck (United States)] was compared to [Lundbeck (Spain)] 
+	http://www.grid.ac/institutes/grid.424580.f...... http://www.grid.ac/institutes/grid.476299.7...... 1................................................ [Lundbeck (Denmark)] was compared to [Lundbeck (Spain)] 
+	http://www.grid.ac/institutes/grid.476299.7...... http://www.grid.ac/institutes/grid.424580.f...... 1................................................ [Lundbeck (Denmark)] was compared to [Lundbeck (Spain)] 
+	http://risis.eu/orgref_20170703/resource/778956.. http://www.grid.ac/institutes/grid.419796.4...... 1................................................ [Lundbeck (United States)] was compared to [Lundbeck] 
+	http://www.grid.ac/institutes/grid.419796.4...... http://risis.eu/orgref_20170703/resource/778956.. 1................................................ [Lundbeck (United States)] was compared to [Lundbeck] 
+	http://www.grid.ac/institutes/grid.424580.f...... http://risis.eu/orgref_20170703/resource/778956.. 1................................................ [Lundbeck (Denmark)] was compared to [Lundbeck].. 
+	http://risis.eu/orgref_20170703/resource/778956.. http://www.grid.ac/institutes/grid.424580.f...... 1................................................ [Lundbeck (Denmark)] was compared to [Lundbeck].. 
+	http://risis.eu/orgref_20170703/resource/778956.. http://www.grid.ac/institutes/grid.476299.7...... 1................................................ [Lundbeck (Spain)] was compared to [Lundbeck].... 
+	http://www.grid.ac/institutes/grid.476299.7...... http://risis.eu/orgref_20170703/resource/778956.. 1................................................ [Lundbeck (Spain)] was compared to [Lundbeck].... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.424580.f...... 12.51639......................................... 
+	http://www.grid.ac/institutes/grid.424580.f...... 55.65862......................................... 
+	http://www.grid.ac/institutes/grid.424580.f...... http://lundbeck.com/dk........................... 
+	http://www.grid.ac/institutes/grid.424580.f...... Lundbeck (Denmark)............................... 
+	http://risis.eu/orgref_20170703/resource/778956.. http://en.wikipedia.org/wiki?curid=778956........ 
+	http://risis.eu/orgref_20170703/resource/778956.. http://www.wikidata.org/wiki/Q902171............. 
+	http://risis.eu/orgref_20170703/resource/778956.. http://lundbeck.com.............................. 
+	http://risis.eu/orgref_20170703/resource/778956.. Lundbeck......................................... 
+	http://www.grid.ac/institutes/grid.419796.4...... -87.880486....................................... 
+	http://www.grid.ac/institutes/grid.419796.4...... 42.162334........................................ 
+	http://www.grid.ac/institutes/grid.419796.4...... http://www.lundbeck.com/us....................... 
+	http://www.grid.ac/institutes/grid.419796.4...... Lundbeck (United States)......................... 
+	http://www.grid.ac/institutes/grid.476299.7...... 2.109656......................................... 
+	http://www.grid.ac/institutes/grid.476299.7...... 41.38294......................................... 
+	http://www.grid.ac/institutes/grid.476299.7...... https://www.lundbeck.com/es...................... 
+	http://www.grid.ac/institutes/grid.476299.7...... Lundbeck (Spain)................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:778956', '1:grid.424580.f'), ('2:778956', '3:grid.419796.4'), ('2:778956', '4:grid.476299.7'), ('3:grid.419796.4', '1:grid.424580.f'), ('4:grid.476299.7', '1:grid.424580.f'), ('4:grid.476299.7', '3:grid.419796.4')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 16132 
+NAME    N1659842287
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/1267435>
+	<http://risis.eu/leidenRanking_2015/resource/22>
+	<http://www.grid.ac/institutes/grid.6583.8>
+	<http://risis.eu/orgreg_20170718/resource/AT0009>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/1267435.. http://www.grid.ac/institutes/grid.6583.8......... 1................................................. [University of Veterinary Medicine Vienna] was compared to [University of Veterinary Medicine Vienna] 
+	http://www.grid.ac/institutes/grid.6583.8......... http://risis.eu/orgref_20170703/resource/1267435.. 1................................................. [University of Veterinary Medicine Vienna] was compared to [University of Veterinary Medicine Vienna] 
+	http://risis.eu/leidenRanking_2015/resource/22.... http://www.grid.ac/institutes/grid.6583.8......... 1................................................. [University of Veterinary Medicine Vienna] was compared to [Vienna University of Veterinary Medicine] 
+	http://www.grid.ac/institutes/grid.6583.8......... http://risis.eu/leidenRanking_2015/resource/22.... 1................................................. [University of Veterinary Medicine Vienna] was compared to [Vienna University of Veterinary Medicine] 
+	http://risis.eu/orgref_20170703/resource/1267435.. http://risis.eu/leidenRanking_2015/resource/22.... 1................................................. [University of Veterinary Medicine Vienna] was compared to [Vienna University of Veterinary Medicine] 
+	http://risis.eu/leidenRanking_2015/resource/22.... http://risis.eu/orgref_20170703/resource/1267435.. 1................................................. [University of Veterinary Medicine Vienna] was compared to [Vienna University of Veterinary Medicine] 
+	http://risis.eu/leidenRanking_2015/resource/22.... http://risis.eu/orgreg_20170718/resource/AT0009... 1................................................. [University of Veterinary Medicine Vienna] was compared to [Vienna University of Veterinary Medicine] 
+	http://risis.eu/orgreg_20170718/resource/AT0009... http://risis.eu/leidenRanking_2015/resource/22.... 1................................................. [University of Veterinary Medicine Vienna] was compared to [Vienna University of Veterinary Medicine] 
+	http://risis.eu/orgref_20170703/resource/1267435.. http://risis.eu/orgreg_20170718/resource/AT0009... 1................................................. [University of Veterinary Medicine Vienna] was compared to [University of Veterinary Medicine Vienna] 
+	http://risis.eu/orgreg_20170718/resource/AT0009... http://risis.eu/orgref_20170703/resource/1267435.. 1................................................. [University of Veterinary Medicine Vienna] was compared to [University of Veterinary Medicine Vienna] 
+	http://www.grid.ac/institutes/grid.6583.8......... http://risis.eu/orgreg_20170718/resource/AT0009... 1................................................. [University of Veterinary Medicine Vienna] was compared to [University of Veterinary Medicine Vienna] 
+	http://risis.eu/orgreg_20170718/resource/AT0009... http://www.grid.ac/institutes/grid.6583.8......... 1................................................. [University of Veterinary Medicine Vienna] was compared to [University of Veterinary Medicine Vienna] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/1267435.. http://en.wikipedia.org/wiki?curid=1267435........ 
+	http://risis.eu/orgref_20170703/resource/1267435.. http://www.wikidata.org/wiki/Q877421.............. 
+	http://risis.eu/orgref_20170703/resource/1267435.. http://www.vetmeduni.ac.at/en..................... 
+	http://risis.eu/orgref_20170703/resource/1267435.. University of Veterinary Medicine Vienna.......... 
+	http://risis.eu/leidenRanking_2015/resource/22.... Vienna University of Veterinary Medicine.......... 
+	http://www.grid.ac/institutes/grid.6583.8......... 16.431389......................................... 
+	http://www.grid.ac/institutes/grid.6583.8......... 48.25528.......................................... 
+	http://www.grid.ac/institutes/grid.6583.8......... http://www.vetmeduni.ac.at/....................... 
+	http://www.grid.ac/institutes/grid.6583.8......... University of Veterinary Medicine Vienna.......... 
+	http://risis.eu/orgreg_20170718/resource/AT0009... 16.4.............................................. 
+	http://risis.eu/orgreg_20170718/resource/AT0009... 48.28............................................. 
+	http://risis.eu/orgreg_20170718/resource/AT0009... http://www.vetmeduni.ac.at/....................... 
+	http://risis.eu/orgreg_20170718/resource/AT0009... University of Veterinary Medicine Vienna.......... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:1267435', '3:grid.6583.8'), ('2:22', '1:1267435'), ('2:22', '3:grid.6583.8'), ('2:22', '4:AT0009'), ('4:AT0009', '1:1267435'), ('4:AT0009', '3:grid.6583.8')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 2819 
+NAME    N1981316418
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.481782.0>
+	<http://risis.eu/orgref_20170703/resource/30984>
+	<http://www.grid.ac/institutes/grid.450487.a>
+	<http://www.grid.ac/institutes/grid.467593.a>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                           object                                           Strength                                         Evidence                                         
+	################################################ ################################################ ################################################ ################################################ 
+	http://www.grid.ac/institutes/grid.450487.a..... http://www.grid.ac/institutes/grid.467593.a..... 1............................................... [Toyota (Canada)] was compared to [Toyota (United States)] 
+	http://www.grid.ac/institutes/grid.467593.a..... http://www.grid.ac/institutes/grid.450487.a..... 1............................................... [Toyota (Canada)] was compared to [Toyota (United States)] 
+	http://www.grid.ac/institutes/grid.481782.0..... http://www.grid.ac/institutes/grid.450487.a..... 1............................................... [Toyota (Canada)] was compared to [Toyota (Switzerland)] 
+	http://www.grid.ac/institutes/grid.450487.a..... http://www.grid.ac/institutes/grid.481782.0..... 1............................................... [Toyota (Canada)] was compared to [Toyota (Switzerland)] 
+	http://www.grid.ac/institutes/grid.481782.0..... http://www.grid.ac/institutes/grid.467593.a..... 1............................................... [Toyota (United States)] was compared to [Toyota (Switzerland)] 
+	http://www.grid.ac/institutes/grid.467593.a..... http://www.grid.ac/institutes/grid.481782.0..... 1............................................... [Toyota (United States)] was compared to [Toyota (Switzerland)] 
+	http://risis.eu/orgref_20170703/resource/30984.. http://www.grid.ac/institutes/grid.450487.a..... 1............................................... [Toyota (Canada)] was compared to [Toyota]...... 
+	http://www.grid.ac/institutes/grid.450487.a..... http://risis.eu/orgref_20170703/resource/30984.. 1............................................... [Toyota (Canada)] was compared to [Toyota]...... 
+	http://risis.eu/orgref_20170703/resource/30984.. http://www.grid.ac/institutes/grid.467593.a..... 1............................................... [Toyota (United States)] was compared to [Toyota] 
+	http://www.grid.ac/institutes/grid.467593.a..... http://risis.eu/orgref_20170703/resource/30984.. 1............................................... [Toyota (United States)] was compared to [Toyota] 
+	http://www.grid.ac/institutes/grid.481782.0..... http://risis.eu/orgref_20170703/resource/30984.. 1............................................... [Toyota (Switzerland)] was compared to [Toyota]. 
+	http://risis.eu/orgref_20170703/resource/30984.. http://www.grid.ac/institutes/grid.481782.0..... 1............................................... [Toyota (Switzerland)] was compared to [Toyota]. 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                          object                                           
+	################################################ ################################################ 
+	http://www.grid.ac/institutes/grid.481782.0..... 7.981741........................................ 
+	http://www.grid.ac/institutes/grid.481782.0..... 47.323.......................................... 
+	http://www.grid.ac/institutes/grid.481782.0..... https://de.toyota.ch/........................... 
+	http://www.grid.ac/institutes/grid.481782.0..... Toyota (Switzerland)............................ 
+	http://risis.eu/orgref_20170703/resource/30984.. http://en.wikipedia.org/wiki?curid=30984........ 
+	http://risis.eu/orgref_20170703/resource/30984.. http://www.wikidata.org/wiki/Q53268............. 
+	http://risis.eu/orgref_20170703/resource/30984.. http://toyota-global.com........................ 
+	http://risis.eu/orgref_20170703/resource/30984.. Toyota.......................................... 
+	http://www.grid.ac/institutes/grid.450487.a..... -79.24246....................................... 
+	http://www.grid.ac/institutes/grid.450487.a..... 43.78244........................................ 
+	http://www.grid.ac/institutes/grid.450487.a..... http://www.toyota.ca/toyota/en/language......... 
+	http://www.grid.ac/institutes/grid.450487.a..... Toyota (Canada)................................. 
+	http://www.grid.ac/institutes/grid.467593.a..... -118.31673...................................... 
+	http://www.grid.ac/institutes/grid.467593.a..... 33.851273....................................... 
+	http://www.grid.ac/institutes/grid.467593.a..... http://www.toyota.com/usa/...................... 
+	http://www.grid.ac/institutes/grid.467593.a..... Toyota (United States).......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.481782.0', '4:grid.467593.a'), ('2:30984', '1:grid.481782.0'), ('2:30984', '3:grid.450487.a'), ('2:30984', '4:grid.467593.a'), ('3:grid.450487.a', '1:grid.481782.0'), ('4:grid.467593.a', '3:grid.450487.a')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

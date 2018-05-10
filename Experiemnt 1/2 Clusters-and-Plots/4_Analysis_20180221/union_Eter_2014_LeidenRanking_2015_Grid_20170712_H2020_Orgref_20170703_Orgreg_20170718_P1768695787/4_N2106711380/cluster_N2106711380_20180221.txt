@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 6556 
+NAME    N2106711380
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.416264.3>
+	<http://risis.eu/leidenRanking_2015/resource/1918>
+	<http://www.grid.ac/institutes/grid.415719.f>
+	<http://risis.eu/orgref_20170703/resource/20212883>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.415719.f........ http://risis.eu/orgref_20170703/resource/20212883.. 1.................................................. [Churchill Hospital] was compared to [Churchill Hospital] 
+	http://risis.eu/orgref_20170703/resource/20212883.. http://www.grid.ac/institutes/grid.415719.f........ 1.................................................. [Churchill Hospital] was compared to [Churchill Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1918... http://www.grid.ac/institutes/grid.415719.f........ 1.................................................. [Churchill Hospital] was compared to [Churchill Hospital] 
+	http://www.grid.ac/institutes/grid.415719.f........ http://risis.eu/leidenRanking_2015/resource/1918... 1.................................................. [Churchill Hospital] was compared to [Churchill Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1918... http://risis.eu/orgref_20170703/resource/20212883.. 1.................................................. [Churchill Hospital] was compared to [Churchill Hospital] 
+	http://risis.eu/orgref_20170703/resource/20212883.. http://risis.eu/leidenRanking_2015/resource/1918... 1.................................................. [Churchill Hospital] was compared to [Churchill Hospital] 
+	http://www.grid.ac/institutes/grid.416264.3........ http://www.grid.ac/institutes/grid.415719.f........ 0.833333333333..................................... [Churchill Hospital] was compared to [Ruchill Hospital] 
+	http://www.grid.ac/institutes/grid.415719.f........ http://www.grid.ac/institutes/grid.416264.3........ 0.833333333333..................................... [Churchill Hospital] was compared to [Ruchill Hospital] 
+	http://www.grid.ac/institutes/grid.416264.3........ http://risis.eu/orgref_20170703/resource/20212883.. 0.833333333333..................................... [Ruchill Hospital] was compared to [Churchill Hospital] 
+	http://risis.eu/orgref_20170703/resource/20212883.. http://www.grid.ac/institutes/grid.416264.3........ 0.833333333333..................................... [Ruchill Hospital] was compared to [Churchill Hospital] 
+	http://www.grid.ac/institutes/grid.416264.3........ http://risis.eu/leidenRanking_2015/resource/1918... 0.833333333333..................................... [Ruchill Hospital] was compared to [Churchill Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1918... http://www.grid.ac/institutes/grid.416264.3........ 0.833333333333..................................... [Ruchill Hospital] was compared to [Churchill Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.416264.3........ -4.285599.......................................... 
+	http://www.grid.ac/institutes/grid.416264.3........ 55.887646.......................................... 
+	http://www.grid.ac/institutes/grid.416264.3........ Ruchill Hospital................................... 
+	http://risis.eu/leidenRanking_2015/resource/1918... Churchill Hospital................................. 
+	http://www.grid.ac/institutes/grid.415719.f........ -1.21875........................................... 
+	http://www.grid.ac/institutes/grid.415719.f........ 51.763805.......................................... 
+	http://www.grid.ac/institutes/grid.415719.f........ http://www.ouh.nhs.uk/............................. 
+	http://www.grid.ac/institutes/grid.415719.f........ Churchill Hospital................................. 
+	http://risis.eu/orgref_20170703/resource/20212883.. http://en.wikipedia.org/wiki?curid=20212883........ 
+	http://risis.eu/orgref_20170703/resource/20212883.. http://www.wikidata.org/wiki/Q5118186.............. 
+	http://risis.eu/orgref_20170703/resource/20212883.. http://www.oxfordradcliffe.nhs.uk.................. 
+	http://risis.eu/orgref_20170703/resource/20212883.. Churchill Hospital................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.416264.3', '3:grid.415719.f'), ('2:1918', '1:grid.416264.3'), ('3:grid.415719.f', '2:1918'), ('4:20212883', '1:grid.416264.3'), ('4:20212883', '2:1918'), ('4:20212883', '3:grid.415719.f')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

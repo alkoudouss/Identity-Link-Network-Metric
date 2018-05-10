@@ -1,0 +1,60 @@
+SIZE    4   
+CLUSTER 398 
+NAME    N1795610697
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/30318716>
+	<http://risis.eu/orgref_20170703/resource/8493523>
+	<http://risis.eu/orgref_20170703/resource/21607501>
+	<http://risis.eu/orgref_20170703/resource/34896529>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/30318716.. http://risis.eu/orgref_20170703/resource/21607501.. 0.892857142857..................................... [Jabalpur Engineering College] was compared to [Jaipur Engineering College] 
+	http://risis.eu/orgref_20170703/resource/21607501.. http://risis.eu/orgref_20170703/resource/30318716.. 0.892857142857..................................... [Jabalpur Engineering College] was compared to [Jaipur Engineering College] 
+	http://risis.eu/orgref_20170703/resource/21607501.. http://risis.eu/orgref_20170703/resource/34896529.. 0.896551724138..................................... [Jabalpur Engineering College] was compared to [Bhagalpur College of Engineering] 
+	http://risis.eu/orgref_20170703/resource/34896529.. http://risis.eu/orgref_20170703/resource/21607501.. 0.896551724138..................................... [Jabalpur Engineering College] was compared to [Bhagalpur College of Engineering] 
+	http://risis.eu/orgref_20170703/resource/30318716.. http://risis.eu/orgref_20170703/resource/8493523... 0.892857142857..................................... [Jaipur Engineering College] was compared to [Kantipur Engineering College] 
+	http://risis.eu/orgref_20170703/resource/8493523... http://risis.eu/orgref_20170703/resource/30318716.. 0.892857142857..................................... [Jaipur Engineering College] was compared to [Kantipur Engineering College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/30318716.. http://en.wikipedia.org/wiki?curid=30318716........ 
+	http://risis.eu/orgref_20170703/resource/30318716.. http://www.wikidata.org/wiki/Q6124125.............. 
+	http://risis.eu/orgref_20170703/resource/30318716.. Jaipur Engineering College......................... 
+	http://risis.eu/orgref_20170703/resource/8493523... http://en.wikipedia.org/wiki?curid=8493523......... 
+	http://risis.eu/orgref_20170703/resource/8493523... http://www.wikidata.org/wiki/Q6365497.............. 
+	http://risis.eu/orgref_20170703/resource/8493523... http://www.kec.edu.np.............................. 
+	http://risis.eu/orgref_20170703/resource/8493523... Kantipur Engineering College....................... 
+	http://risis.eu/orgref_20170703/resource/21607501.. http://en.wikipedia.org/wiki?curid=21607501........ 
+	http://risis.eu/orgref_20170703/resource/21607501.. http://www.wikidata.org/wiki/Q6109954.............. 
+	http://risis.eu/orgref_20170703/resource/21607501.. http://www.jecjabalpur.ac.in....................... 
+	http://risis.eu/orgref_20170703/resource/21607501.. Jabalpur Engineering College....................... 
+	http://risis.eu/orgref_20170703/resource/34896529.. http://en.wikipedia.org/wiki?curid=34896529........ 
+	http://risis.eu/orgref_20170703/resource/34896529.. http://www.wikidata.org/wiki/Q4900586.............. 
+	http://risis.eu/orgref_20170703/resource/34896529.. http://www.bcebhagalpur.ac.in...................... 
+	http://risis.eu/orgref_20170703/resource/34896529.. Bhagalpur College of Engineering................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:8493523', '1:30318716'), ('3:21607501', '1:30318716'), ('4:34896529', '3:21607501')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

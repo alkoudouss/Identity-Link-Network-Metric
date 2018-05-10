@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 11059 
+NAME    N369725606
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.422853.a>
+	<http://www.grid.ac/institutes/grid.436096.e>
+	<http://www.grid.ac/institutes/grid.37372.32>
+	<http://www.grid.ac/institutes/grid.424193.9>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.422853.a.. http://www.grid.ac/institutes/grid.37372.32.. 1............................................ [Areva (France)] was compared to [Areva (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.37372.32.. http://www.grid.ac/institutes/grid.422853.a.. 1............................................ [Areva (France)] was compared to [Areva (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.37372.32.. http://www.grid.ac/institutes/grid.424193.9.. 1............................................ [Areva (France)] was compared to [Areva (Germany)] 
+	http://www.grid.ac/institutes/grid.424193.9.. http://www.grid.ac/institutes/grid.37372.32.. 1............................................ [Areva (France)] was compared to [Areva (Germany)] 
+	http://www.grid.ac/institutes/grid.436096.e.. http://www.grid.ac/institutes/grid.37372.32.. 1............................................ [Areva (France)] was compared to [Areva (United States)] 
+	http://www.grid.ac/institutes/grid.37372.32.. http://www.grid.ac/institutes/grid.436096.e.. 1............................................ [Areva (France)] was compared to [Areva (United States)] 
+	http://www.grid.ac/institutes/grid.422853.a.. http://www.grid.ac/institutes/grid.424193.9.. 1............................................ [Areva (United Kingdom)] was compared to [Areva (Germany)] 
+	http://www.grid.ac/institutes/grid.424193.9.. http://www.grid.ac/institutes/grid.422853.a.. 1............................................ [Areva (United Kingdom)] was compared to [Areva (Germany)] 
+	http://www.grid.ac/institutes/grid.422853.a.. http://www.grid.ac/institutes/grid.436096.e.. 1............................................ [Areva (United Kingdom)] was compared to [Areva (United States)] 
+	http://www.grid.ac/institutes/grid.436096.e.. http://www.grid.ac/institutes/grid.422853.a.. 1............................................ [Areva (United Kingdom)] was compared to [Areva (United States)] 
+	http://www.grid.ac/institutes/grid.436096.e.. http://www.grid.ac/institutes/grid.424193.9.. 1............................................ [Areva (Germany)] was compared to [Areva (United States)] 
+	http://www.grid.ac/institutes/grid.424193.9.. http://www.grid.ac/institutes/grid.436096.e.. 1............................................ [Areva (Germany)] was compared to [Areva (United States)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.422853.a.. Areva (United Kingdom)....................... 
+	http://www.grid.ac/institutes/grid.436096.e.. -80.76855.................................... 
+	http://www.grid.ac/institutes/grid.436096.e.. 35.3076...................................... 
+	http://www.grid.ac/institutes/grid.436096.e.. http://us.areva.com/......................... 
+	http://www.grid.ac/institutes/grid.436096.e.. Areva (United States)........................ 
+	http://www.grid.ac/institutes/grid.37372.32.. 2.241536..................................... 
+	http://www.grid.ac/institutes/grid.37372.32.. 48.892494.................................... 
+	http://www.grid.ac/institutes/grid.37372.32.. http://www.areva.com/........................ 
+	http://www.grid.ac/institutes/grid.37372.32.. Areva (France)............................... 
+	http://www.grid.ac/institutes/grid.424193.9.. 11.009677.................................... 
+	http://www.grid.ac/institutes/grid.424193.9.. 49.576225.................................... 
+	http://www.grid.ac/institutes/grid.424193.9.. http://de.areva.com/EN/areva-germany-502/areva-gmbh.html 
+	http://www.grid.ac/institutes/grid.424193.9.. Areva (Germany).............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.436096.e', '1:grid.422853.a'), ('2:grid.436096.e', '3:grid.37372.32'), ('3:grid.37372.32', '1:grid.422853.a'), ('4:grid.424193.9', '1:grid.422853.a'), ('4:grid.424193.9', '2:grid.436096.e'), ('4:grid.424193.9', '3:grid.37372.32')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

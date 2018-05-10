@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 1295 
+NAME    N1909119076
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.436440.1>
+	<http://www.grid.ac/institutes/grid.450033.1>
+	<http://www.grid.ac/institutes/grid.436438.e>
+	<http://www.grid.ac/institutes/grid.466950.8>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.436438.e.. http://www.grid.ac/institutes/grid.466950.8.. 1............................................ [Nissan (Switzerland)] was compared to [Nissan (Japan)] 
+	http://www.grid.ac/institutes/grid.466950.8.. http://www.grid.ac/institutes/grid.436438.e.. 1............................................ [Nissan (Switzerland)] was compared to [Nissan (Japan)] 
+	http://www.grid.ac/institutes/grid.436440.1.. http://www.grid.ac/institutes/grid.436438.e.. 1............................................ [Nissan (Switzerland)] was compared to [Nissan (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.436438.e.. http://www.grid.ac/institutes/grid.436440.1.. 1............................................ [Nissan (Switzerland)] was compared to [Nissan (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.450033.1.. http://www.grid.ac/institutes/grid.436438.e.. 1............................................ [Nissan (Switzerland)] was compared to [Nissan (United States)] 
+	http://www.grid.ac/institutes/grid.436438.e.. http://www.grid.ac/institutes/grid.450033.1.. 1............................................ [Nissan (Switzerland)] was compared to [Nissan (United States)] 
+	http://www.grid.ac/institutes/grid.436440.1.. http://www.grid.ac/institutes/grid.466950.8.. 1............................................ [Nissan (United Kingdom)] was compared to [Nissan (Japan)] 
+	http://www.grid.ac/institutes/grid.466950.8.. http://www.grid.ac/institutes/grid.436440.1.. 1............................................ [Nissan (United Kingdom)] was compared to [Nissan (Japan)] 
+	http://www.grid.ac/institutes/grid.436440.1.. http://www.grid.ac/institutes/grid.450033.1.. 1............................................ [Nissan (United Kingdom)] was compared to [Nissan (United States)] 
+	http://www.grid.ac/institutes/grid.450033.1.. http://www.grid.ac/institutes/grid.436440.1.. 1............................................ [Nissan (United Kingdom)] was compared to [Nissan (United States)] 
+	http://www.grid.ac/institutes/grid.450033.1.. http://www.grid.ac/institutes/grid.466950.8.. 1............................................ [Nissan (United States)] was compared to [Nissan (Japan)] 
+	http://www.grid.ac/institutes/grid.466950.8.. http://www.grid.ac/institutes/grid.450033.1.. 1............................................ [Nissan (United States)] was compared to [Nissan (Japan)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.436440.1.. -1.470015.................................... 
+	http://www.grid.ac/institutes/grid.436440.1.. 54.916527.................................... 
+	http://www.grid.ac/institutes/grid.436440.1.. http://www.nissan.co.uk/..................... 
+	http://www.grid.ac/institutes/grid.436440.1.. Nissan (United Kingdom)...................... 
+	http://www.grid.ac/institutes/grid.450033.1.. -83.42639.................................... 
+	http://www.grid.ac/institutes/grid.450033.1.. 42.494102.................................... 
+	http://www.grid.ac/institutes/grid.450033.1.. http://www.nissanusa.com/.................... 
+	http://www.grid.ac/institutes/grid.450033.1.. Nissan Technical Center North America........ 
+	http://www.grid.ac/institutes/grid.450033.1.. Nissan (United States)....................... 
+	http://www.grid.ac/institutes/grid.436438.e.. Nissan (Switzerland)......................... 
+	http://www.grid.ac/institutes/grid.466950.8.. 139.61876.................................... 
+	http://www.grid.ac/institutes/grid.466950.8.. 35.45979..................................... 
+	http://www.grid.ac/institutes/grid.466950.8.. http://www.nissan-global.com/EN/index.html... 
+	http://www.grid.ac/institutes/grid.466950.8.. Nissan Jidōsha Kabushiki-gaisha............. 
+	http://www.grid.ac/institutes/grid.466950.8.. Nissan Motor Company......................... 
+	http://www.grid.ac/institutes/grid.466950.8.. Nissan (Japan)............................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.450033.1', '1:grid.436440.1'), ('2:grid.450033.1', '3:grid.436438.e'), ('3:grid.436438.e', '1:grid.436440.1'), ('4:grid.466950.8', '1:grid.436440.1'), ('4:grid.466950.8', '2:grid.450033.1'), ('4:grid.466950.8', '3:grid.436438.e')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

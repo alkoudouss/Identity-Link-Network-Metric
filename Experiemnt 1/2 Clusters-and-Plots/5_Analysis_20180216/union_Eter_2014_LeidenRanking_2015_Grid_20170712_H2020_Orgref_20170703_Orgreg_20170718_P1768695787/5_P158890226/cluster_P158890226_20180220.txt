@@ -1,0 +1,75 @@
+SIZE    5   
+CLUSTER 3018 
+NAME    P158890226
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.413642.6>
+	<http://www.grid.ac/institutes/grid.469601.c>
+	<http://www.grid.ac/institutes/grid.413432.3>
+	<http://www.grid.ac/institutes/grid.459429.7>
+	<http://www.grid.ac/institutes/grid.459509.4>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.413642.6.. http://www.grid.ac/institutes/grid.413432.3.. 0.9375....................................... [Guangzhou First People's Hospital] was compared to [Hangzhou First People's Hospital] 
+	http://www.grid.ac/institutes/grid.413432.3.. http://www.grid.ac/institutes/grid.413642.6.. 0.9375....................................... [Guangzhou First People's Hospital] was compared to [Hangzhou First People's Hospital] 
+	http://www.grid.ac/institutes/grid.413432.3.. http://www.grid.ac/institutes/grid.459509.4.. 0.90625...................................... [Guangzhou First People's Hospital] was compared to [First People's Hospital of Jingzhou] 
+	http://www.grid.ac/institutes/grid.459509.4.. http://www.grid.ac/institutes/grid.413432.3.. 0.90625...................................... [Guangzhou First People's Hospital] was compared to [First People's Hospital of Jingzhou] 
+	http://www.grid.ac/institutes/grid.413642.6.. http://www.grid.ac/institutes/grid.469601.c.. 0.903225806452............................... [Hangzhou First People's Hospital] was compared to [Taizhou First People's Hospital] 
+	http://www.grid.ac/institutes/grid.469601.c.. http://www.grid.ac/institutes/grid.413642.6.. 0.903225806452............................... [Hangzhou First People's Hospital] was compared to [Taizhou First People's Hospital] 
+	http://www.grid.ac/institutes/grid.413642.6.. http://www.grid.ac/institutes/grid.459429.7.. 0.903225806452............................... [Hangzhou First People's Hospital] was compared to [Chenzhou First People's Hospital] 
+	http://www.grid.ac/institutes/grid.459429.7.. http://www.grid.ac/institutes/grid.413642.6.. 0.903225806452............................... [Hangzhou First People's Hospital] was compared to [Chenzhou First People's Hospital] 
+	http://www.grid.ac/institutes/grid.413642.6.. http://www.grid.ac/institutes/grid.459509.4.. 0.935483870968............................... [Hangzhou First People's Hospital] was compared to [First People's Hospital of Jingzhou] 
+	http://www.grid.ac/institutes/grid.459509.4.. http://www.grid.ac/institutes/grid.413642.6.. 0.935483870968............................... [Hangzhou First People's Hospital] was compared to [First People's Hospital of Jingzhou] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 25 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.413642.6.. 120.1666..................................... 
+	http://www.grid.ac/institutes/grid.413642.6.. 30.254768.................................... 
+	http://www.grid.ac/institutes/grid.413642.6.. http://www.hz-hospital.com/.................. 
+	http://www.grid.ac/institutes/grid.413642.6.. Zhejiang Academy of Medical Sciences......... 
+	http://www.grid.ac/institutes/grid.413642.6.. Nanjing Medical University affiliated Hangzhou hospital 
+	http://www.grid.ac/institutes/grid.413642.6.. Hangzhou First People's Hospital............. 
+	http://www.grid.ac/institutes/grid.469601.c.. 121.26482.................................... 
+	http://www.grid.ac/institutes/grid.469601.c.. 28.64392..................................... 
+	http://www.grid.ac/institutes/grid.469601.c.. http://www.tzrmyy.cn/........................ 
+	http://www.grid.ac/institutes/grid.469601.c.. Hospital of Wenzhou Medical College Huangyan. 
+	http://www.grid.ac/institutes/grid.469601.c.. First People's Hospital Taizhou.............. 
+	http://www.grid.ac/institutes/grid.469601.c.. Taizhou First People's Hospital.............. 
+	http://www.grid.ac/institutes/grid.413432.3.. 113.25703.................................... 
+	http://www.grid.ac/institutes/grid.413432.3.. 23.131346.................................... 
+	http://www.grid.ac/institutes/grid.413432.3.. http://en.gzhosp.cn/......................... 
+	http://www.grid.ac/institutes/grid.413432.3.. Guangzhou First Municipal People's Hospital.. 
+	http://www.grid.ac/institutes/grid.413432.3.. Guangzhou First People's Hospital............ 
+	http://www.grid.ac/institutes/grid.459429.7.. 113.04233.................................... 
+	http://www.grid.ac/institutes/grid.459429.7.. 25.806282.................................... 
+	http://www.grid.ac/institutes/grid.459429.7.. http://www.czhospital.com/Index.html......... 
+	http://www.grid.ac/institutes/grid.459429.7.. Chenzhou First People's Hospital............. 
+	http://www.grid.ac/institutes/grid.459509.4.. 112.197655................................... 
+	http://www.grid.ac/institutes/grid.459509.4.. 30.349443.................................... 
+	http://www.grid.ac/institutes/grid.459509.4.. http://www.jzyy1949.com/user_index.action.... 
+	http://www.grid.ac/institutes/grid.459509.4.. First People's Hospital of Jingzhou.......... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.469601.c', '1:grid.413642.6'), ('3:grid.413432.3', '1:grid.413642.6'), ('4:grid.459429.7', '1:grid.413642.6'), ('5:grid.459509.4', '1:grid.413642.6'), ('5:grid.459509.4', '3:grid.413432.3')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 1.3
+	AVERAGE NODE CONNECTIVITY RATIO : 0.325
+	BRIDGES                         : 2
+	CLOSURE                         : 0.5
+	DIAMETER                        : 2
+	QUALITY                         : 0.444
+	QUALITY USED                    : 0.48
+	SUMMARY 1: BRIDGE 0.5 CLOSURE 0.5 DIAMETER 0.333 QUALITY 0.444 QUALITY USED 0.48
+	SUMMARY 2: BRIDGE 0.556 CLOSURE 0.5 DIAMETER 0.385 QUALITY 0.444 QUALITY USED 0.48

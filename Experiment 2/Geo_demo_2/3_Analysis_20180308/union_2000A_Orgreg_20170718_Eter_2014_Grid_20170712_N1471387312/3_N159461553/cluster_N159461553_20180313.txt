@@ -1,0 +1,62 @@
+SIZE    3   
+CLUSTER 896 
+NAME    N159461553
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/BE0092>
+	<http://risis.eu/orgreg_20170718/resource/BE0092>
+	<http://risis.eu/orgreg_20170718/resource/BE0083>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/eter_2014/resource/BE0092........ http://risis.eu/orgreg_20170718/resource/BE0083.. 0.954545454545................................... [phl university college] was compared to [pxl university college] 
+	http://risis.eu/eter_2014/resource/BE0092........ http://risis.eu/orgreg_20170718/resource/BE0083.. 1................................................ [haute ecole province liege] was compared to [haute ecole province liege] 
+	http://risis.eu/eter_2014/resource/BE0092........ http://risis.eu/orgreg_20170718/resource/BE0083.. 1................................................ [phl university college] was compared to [pxl university college] 
+	http://risis.eu/eter_2014/resource/BE0092........ http://risis.eu/orgreg_20170718/resource/BE0083.. 0.954545454545................................... [haute ecole province liege] was compared to [haute ecole province liege] 
+	http://risis.eu/eter_2014/resource/BE0092........ http://risis.eu/orgreg_20170718/resource/BE0092.. 1................................................ [pxl university college] was compared to [pxl university college] 
+	http://risis.eu/orgreg_20170718/resource/BE0092.. http://risis.eu/eter_2014/resource/BE0092........ 1................................................ [pxl university college] was compared to [pxl university college] 
+	http://risis.eu/orgreg_20170718/resource/BE0083.. http://risis.eu/eter_2014/resource/BE0092........ 0.954545454545................................... [phl university college] was compared to [pxl university college] 
+	http://risis.eu/orgreg_20170718/resource/BE0083.. http://risis.eu/eter_2014/resource/BE0092........ 1................................................ [haute ecole province liege] was compared to [haute ecole province liege] 
+	http://risis.eu/orgreg_20170718/resource/BE0083.. http://risis.eu/eter_2014/resource/BE0092........ 1................................................ [phl university college] was compared to [pxl university college] 
+	http://risis.eu/orgreg_20170718/resource/BE0083.. http://risis.eu/eter_2014/resource/BE0092........ 0.954545454545................................... [haute ecole province liege] was compared to [haute ecole province liege] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/eter_2014/resource/BE0092........ 50,9371849....................................... 
+	http://risis.eu/eter_2014/resource/BE0092........ 5,3486665........................................ 
+	http://risis.eu/eter_2014/resource/BE0092........ https://www.pxl.be/.............................. 
+	http://risis.eu/eter_2014/resource/BE0092........ a................................................ 
+	http://risis.eu/eter_2014/resource/BE0092........ PXL University College........................... 
+	http://risis.eu/eter_2014/resource/BE0092........ Hogeschool PXL................................... 
+	http://risis.eu/orgreg_20170718/resource/BE0092.. 5.3486665........................................ 
+	http://risis.eu/orgreg_20170718/resource/BE0092.. 50.9371849....................................... 
+	http://risis.eu/orgreg_20170718/resource/BE0092.. https://www.pxl.be/.............................. 
+	http://risis.eu/orgreg_20170718/resource/BE0092.. PXL University College........................... 
+	http://risis.eu/orgreg_20170718/resource/BE0083.. 5.34474.......................................... 
+	http://risis.eu/orgreg_20170718/resource/BE0083.. 50.921517........................................ 
+	http://risis.eu/orgreg_20170718/resource/BE0083.. http://www.phl.be................................ 
+	http://risis.eu/orgreg_20170718/resource/BE0083.. PHL University College........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('P1216743032-BE0092', 'P566918409-BE0092'), ('P1216743032-BE0092', 'N159461553-BE0083')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

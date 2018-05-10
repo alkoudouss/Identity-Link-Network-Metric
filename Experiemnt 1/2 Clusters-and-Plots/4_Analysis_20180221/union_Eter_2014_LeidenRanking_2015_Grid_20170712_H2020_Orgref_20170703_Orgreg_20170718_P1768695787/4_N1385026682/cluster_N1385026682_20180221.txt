@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 1419 
+NAME    N1385026682
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/IE0014>
+	<http://risis.eu/eter_2014/resource/IE0014>
+	<http://risis.eu/orgref_20170703/resource/542670>
+	<http://www.grid.ac/institutes/grid.482291.4>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/542670.. http://www.grid.ac/institutes/grid.482291.4...... 1................................................ [Institute of Technology, Blanchardstown] was compared to [Institute of Technology, Blanchardstown] 
+	http://www.grid.ac/institutes/grid.482291.4...... http://risis.eu/orgref_20170703/resource/542670.. 1................................................ [Institute of Technology, Blanchardstown] was compared to [Institute of Technology, Blanchardstown] 
+	http://risis.eu/eter_2014/resource/IE0014........ http://www.grid.ac/institutes/grid.482291.4...... 1................................................ [Institute of Technology, Blanchardstown] was compared to [Institute of Technology, Blanchardstown] 
+	http://www.grid.ac/institutes/grid.482291.4...... http://risis.eu/eter_2014/resource/IE0014........ 1................................................ [Institute of Technology, Blanchardstown] was compared to [Institute of Technology, Blanchardstown] 
+	http://risis.eu/eter_2014/resource/IE0014........ http://risis.eu/orgref_20170703/resource/542670.. 1................................................ [Institute of Technology, Blanchardstown] was compared to [Institute of Technology, Blanchardstown] 
+	http://risis.eu/orgref_20170703/resource/542670.. http://risis.eu/eter_2014/resource/IE0014........ 1................................................ [Institute of Technology, Blanchardstown] was compared to [Institute of Technology, Blanchardstown] 
+	http://risis.eu/orgreg_20170718/resource/IE0014.. http://risis.eu/eter_2014/resource/IE0014........ 0.972222222222................................... [Institute of Technology	 Blanchardstown] was compared to [Institute of Technology, Blanchardstown] 
+	http://risis.eu/eter_2014/resource/IE0014........ http://risis.eu/orgreg_20170718/resource/IE0014.. 0.972222222222................................... [Institute of Technology	 Blanchardstown] was compared to [Institute of Technology, Blanchardstown] 
+	http://risis.eu/orgreg_20170718/resource/IE0014.. http://risis.eu/orgref_20170703/resource/542670.. 0.972222222222................................... [Institute of Technology, Blanchardstown] was compared to [Institute of Technology	 Blanchardstown] 
+	http://risis.eu/orgref_20170703/resource/542670.. http://risis.eu/orgreg_20170718/resource/IE0014.. 0.972222222222................................... [Institute of Technology, Blanchardstown] was compared to [Institute of Technology	 Blanchardstown] 
+	http://risis.eu/orgreg_20170718/resource/IE0014.. http://www.grid.ac/institutes/grid.482291.4...... 0.972222222222................................... [Institute of Technology, Blanchardstown] was compared to [Institute of Technology	 Blanchardstown] 
+	http://www.grid.ac/institutes/grid.482291.4...... http://risis.eu/orgreg_20170718/resource/IE0014.. 0.972222222222................................... [Institute of Technology, Blanchardstown] was compared to [Institute of Technology	 Blanchardstown] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/IE0014.. -6.2603097....................................... 
+	http://risis.eu/orgreg_20170718/resource/IE0014.. 53.3498053....................................... 
+	http://risis.eu/orgreg_20170718/resource/IE0014.. http://www.itb.ie................................ 
+	http://risis.eu/orgreg_20170718/resource/IE0014.. Institute of Technology	 Blanchardstown.......... 
+	http://risis.eu/eter_2014/resource/IE0014........ 53,3498053....................................... 
+	http://risis.eu/eter_2014/resource/IE0014........ -6,2603097....................................... 
+	http://risis.eu/eter_2014/resource/IE0014........ http://www.itb.ie................................ 
+	http://risis.eu/eter_2014/resource/IE0014........ a................................................ 
+	http://risis.eu/eter_2014/resource/IE0014........ Institute of Technology, Blanchardstown.......... 
+	http://risis.eu/orgref_20170703/resource/542670.. http://en.wikipedia.org/wiki?curid=542670........ 
+	http://risis.eu/orgref_20170703/resource/542670.. http://www.wikidata.org/wiki/Q6040908............ 
+	http://risis.eu/orgref_20170703/resource/542670.. http://www.itb.ie................................ 
+	http://risis.eu/orgref_20170703/resource/542670.. Institute of Technology, Blanchardstown.......... 
+	http://www.grid.ac/institutes/grid.482291.4...... -6.378074........................................ 
+	http://www.grid.ac/institutes/grid.482291.4...... 53.4057.......................................... 
+	http://www.grid.ac/institutes/grid.482291.4...... http://www.itb.ie/............................... 
+	http://www.grid.ac/institutes/grid.482291.4...... Institute of Technology, Blanchardstown.......... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:IE0014', '3:542670'), ('1:IE0014', '4:grid.482291.4'), ('2:IE0014', '1:IE0014'), ('2:IE0014', '4:grid.482291.4'), ('3:542670', '2:IE0014'), ('4:grid.482291.4', '3:542670')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

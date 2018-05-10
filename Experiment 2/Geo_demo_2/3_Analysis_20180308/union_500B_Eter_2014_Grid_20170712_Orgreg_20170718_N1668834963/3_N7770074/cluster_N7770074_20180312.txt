@@ -1,0 +1,59 @@
+SIZE    3   
+CLUSTER 390 
+NAME    N7770074
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/PL0060>
+	<http://www.grid.ac/institutes/grid.418165.f>
+	<http://risis.eu/eter_2014/resource/PL0145>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/PL0060.... http://www.grid.ac/institutes/grid.418165.f.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.418165.f.. http://risis.eu/eter_2014/resource/PL0060.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.418165.f.. http://risis.eu/eter_2014/resource/PL0145.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/PL0145.... http://www.grid.ac/institutes/grid.418165.f.. 1............................................ Near each other by at most 500 meter(s)...... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/PL0060.... 50,304234.................................... 
+	http://risis.eu/eter_2014/resource/PL0060.... 18,659315.................................... 
+	http://risis.eu/eter_2014/resource/PL0060.... http://gwsp.gliwice.pl/www/.................. 
+	http://risis.eu/eter_2014/resource/PL0060.... a............................................ 
+	http://risis.eu/eter_2014/resource/PL0060.... Gliwice Higher School of Enterprise.......... 
+	http://risis.eu/eter_2014/resource/PL0060.... Gliwicka Wyższa Szkoła Przedsiębiorczości 
+	http://www.grid.ac/institutes/grid.418165.f.. 18.66439..................................... 
+	http://www.grid.ac/institutes/grid.418165.f.. 50.302513.................................... 
+	http://www.grid.ac/institutes/grid.418165.f.. http://www.coi.pl/?go=content&contentID=4.... 
+	http://www.grid.ac/institutes/grid.418165.f.. Centrum Onkologii – Instytut im. Marii Skłodowskiej-Curie 
+	http://www.grid.ac/institutes/grid.418165.f.. Centrum Onkologii Instytut................... 
+	http://risis.eu/eter_2014/resource/PL0145.... 50,304234.................................... 
+	http://risis.eu/eter_2014/resource/PL0145.... 18,659315.................................... 
+	http://risis.eu/eter_2014/resource/PL0145.... http://www.polsl.pl/......................... 
+	http://risis.eu/eter_2014/resource/PL0145.... a............................................ 
+	http://risis.eu/eter_2014/resource/PL0145.... Silesian University of Technology in Gliwic.. 
+	http://risis.eu/eter_2014/resource/PL0145.... Politechnika Śląska w Gliwicach............ 
+
+NETWORK ANALYSIS
+	NETWORK [('N7770074-PL0145', 'P1839365035-grid.418165.f'), ('P2021886160-PL0060', 'P1839365035-grid.418165.f')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

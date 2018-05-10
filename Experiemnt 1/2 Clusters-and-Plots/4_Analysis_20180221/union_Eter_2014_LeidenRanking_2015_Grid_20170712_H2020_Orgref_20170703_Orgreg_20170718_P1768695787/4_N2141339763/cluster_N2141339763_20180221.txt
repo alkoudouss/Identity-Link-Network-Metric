@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 9321 
+NAME    N2141339763
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/11202554>
+	<http://risis.eu/orgref_20170703/resource/9114320>
+	<http://risis.eu/orgreg_20170718/resource/NO0032>
+	<http://risis.eu/orgreg_20170718/resource/NO0028>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/11202554.. http://risis.eu/orgref_20170703/resource/9114320... 0.9375............................................. [Nord-Trøndelag University College] was compared to [Sør-Trøndelag University College] 
+	http://risis.eu/orgref_20170703/resource/9114320... http://risis.eu/orgref_20170703/resource/11202554.. 0.9375............................................. [Nord-Trøndelag University College] was compared to [Sør-Trøndelag University College] 
+	http://risis.eu/orgreg_20170718/resource/NO0032.... http://risis.eu/orgreg_20170718/resource/NO0028.... 0.9375............................................. [Nord-Trøndelag University College] was compared to [Sør-Trøndelag University College] 
+	http://risis.eu/orgreg_20170718/resource/NO0028.... http://risis.eu/orgreg_20170718/resource/NO0032.... 0.9375............................................. [Nord-Trøndelag University College] was compared to [Sør-Trøndelag University College] 
+	http://risis.eu/orgref_20170703/resource/11202554.. http://risis.eu/orgreg_20170718/resource/NO0028.... 1.................................................. [Nord-Trøndelag University College] was compared to [Nord-Trøndelag University College] 
+	http://risis.eu/orgreg_20170718/resource/NO0028.... http://risis.eu/orgref_20170703/resource/11202554.. 1.................................................. [Nord-Trøndelag University College] was compared to [Nord-Trøndelag University College] 
+	http://risis.eu/orgref_20170703/resource/11202554.. http://risis.eu/orgreg_20170718/resource/NO0032.... 0.9375............................................. [Nord-Trøndelag University College] was compared to [Sør-Trøndelag University College] 
+	http://risis.eu/orgreg_20170718/resource/NO0032.... http://risis.eu/orgref_20170703/resource/11202554.. 0.9375............................................. [Nord-Trøndelag University College] was compared to [Sør-Trøndelag University College] 
+	http://risis.eu/orgref_20170703/resource/9114320... http://risis.eu/orgreg_20170718/resource/NO0028.... 0.9375............................................. [Sør-Trøndelag University College] was compared to [Nord-Trøndelag University College] 
+	http://risis.eu/orgreg_20170718/resource/NO0028.... http://risis.eu/orgref_20170703/resource/9114320... 0.9375............................................. [Sør-Trøndelag University College] was compared to [Nord-Trøndelag University College] 
+	http://risis.eu/orgref_20170703/resource/9114320... http://risis.eu/orgreg_20170718/resource/NO0032.... 1.................................................. [Sør-Trøndelag University College] was compared to [Sør-Trøndelag University College] 
+	http://risis.eu/orgreg_20170718/resource/NO0032.... http://risis.eu/orgref_20170703/resource/9114320... 1.................................................. [Sør-Trøndelag University College] was compared to [Sør-Trøndelag University College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/11202554.. http://en.wikipedia.org/wiki?curid=11202554........ 
+	http://risis.eu/orgref_20170703/resource/11202554.. http://www.wikidata.org/wiki/Q6513467.............. 
+	http://risis.eu/orgref_20170703/resource/11202554.. http://www.hint.no................................. 
+	http://risis.eu/orgref_20170703/resource/11202554.. Nord-Trøndelag University College................. 
+	http://risis.eu/orgref_20170703/resource/9114320... http://en.wikipedia.org/wiki?curid=9114320......... 
+	http://risis.eu/orgref_20170703/resource/9114320... http://www.wikidata.org/wiki/Q6515624.............. 
+	http://risis.eu/orgref_20170703/resource/9114320... http://hist.no..................................... 
+	http://risis.eu/orgref_20170703/resource/9114320... Sør-Trøndelag University College................. 
+	http://risis.eu/orgreg_20170718/resource/NO0032.... 10.3950528......................................... 
+	http://risis.eu/orgreg_20170718/resource/NO0032.... 63.4305149......................................... 
+	http://risis.eu/orgreg_20170718/resource/NO0032.... https://www.hist.no/english/....................... 
+	http://risis.eu/orgreg_20170718/resource/NO0032.... Sør-Trøndelag University College................. 
+	http://risis.eu/orgreg_20170718/resource/NO0028.... 11.495234.......................................... 
+	http://risis.eu/orgreg_20170718/resource/NO0028.... 64.0150494......................................... 
+	http://risis.eu/orgreg_20170718/resource/NO0028.... http://www.hint.no/................................ 
+	http://risis.eu/orgreg_20170718/resource/NO0028.... Nord-Trøndelag University College................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:9114320', '1:11202554'), ('3:NO0032', '1:11202554'), ('3:NO0032', '2:9114320'), ('4:NO0028', '1:11202554'), ('4:NO0028', '2:9114320'), ('4:NO0028', '3:NO0032')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

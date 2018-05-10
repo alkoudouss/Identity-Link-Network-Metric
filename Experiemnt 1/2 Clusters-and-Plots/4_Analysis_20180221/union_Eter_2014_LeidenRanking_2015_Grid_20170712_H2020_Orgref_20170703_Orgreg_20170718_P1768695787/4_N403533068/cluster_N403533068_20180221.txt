@@ -1,0 +1,59 @@
+SIZE    4   
+CLUSTER 10452 
+NAME    N403533068
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.442903.8>
+	<http://risis.eu/orgref_20170703/resource/20633701>
+	<http://www.grid.ac/institutes/grid.442978.4>
+	<http://risis.eu/orgref_20170703/resource/18724056>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.442903.8........ http://risis.eu/orgref_20170703/resource/18724056.. 1.................................................. [Western Philippines University] was compared to [Western Philippines University] 
+	http://risis.eu/orgref_20170703/resource/18724056.. http://www.grid.ac/institutes/grid.442903.8........ 1.................................................. [Western Philippines University] was compared to [Western Philippines University] 
+	http://risis.eu/orgref_20170703/resource/20633701.. http://www.grid.ac/institutes/grid.442978.4........ 1.................................................. [University of Eastern Philippines] was compared to [University of Eastern Philippines] 
+	http://www.grid.ac/institutes/grid.442978.4........ http://risis.eu/orgref_20170703/resource/20633701.. 1.................................................. [University of Eastern Philippines] was compared to [University of Eastern Philippines] 
+	http://www.grid.ac/institutes/grid.442903.8........ http://www.grid.ac/institutes/grid.442978.4........ 0.933333333333..................................... [Western Philippines University] was compared to [University of Eastern Philippines] 
+	http://www.grid.ac/institutes/grid.442978.4........ http://www.grid.ac/institutes/grid.442903.8........ 0.933333333333..................................... [Western Philippines University] was compared to [University of Eastern Philippines] 
+	http://www.grid.ac/institutes/grid.442903.8........ http://risis.eu/orgref_20170703/resource/20633701.. 0.933333333333..................................... [Western Philippines University] was compared to [University of Eastern Philippines] 
+	http://risis.eu/orgref_20170703/resource/20633701.. http://www.grid.ac/institutes/grid.442903.8........ 0.933333333333..................................... [Western Philippines University] was compared to [University of Eastern Philippines] 
+	http://www.grid.ac/institutes/grid.442978.4........ http://risis.eu/orgref_20170703/resource/18724056.. 0.933333333333..................................... [University of Eastern Philippines] was compared to [Western Philippines University] 
+	http://risis.eu/orgref_20170703/resource/18724056.. http://www.grid.ac/institutes/grid.442978.4........ 0.933333333333..................................... [University of Eastern Philippines] was compared to [Western Philippines University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.442903.8........ Western Philippines University..................... 
+	http://risis.eu/orgref_20170703/resource/20633701.. http://en.wikipedia.org/wiki?curid=20633701........ 
+	http://risis.eu/orgref_20170703/resource/20633701.. http://www.wikidata.org/wiki/Q3551552.............. 
+	http://risis.eu/orgref_20170703/resource/20633701.. http://www.uep.edu.ph.............................. 
+	http://risis.eu/orgref_20170703/resource/20633701.. University of Eastern Philippines.................. 
+	http://www.grid.ac/institutes/grid.442978.4........ University of Eastern Philippines.................. 
+	http://risis.eu/orgref_20170703/resource/18724056.. http://en.wikipedia.org/wiki?curid=18724056........ 
+	http://risis.eu/orgref_20170703/resource/18724056.. http://www.wikidata.org/wiki/Q1562787.............. 
+	http://risis.eu/orgref_20170703/resource/18724056.. http://www.wpu.edu.ph.............................. 
+	http://risis.eu/orgref_20170703/resource/18724056.. Western Philippines University..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:20633701', '1:grid.442903.8'), ('2:20633701', '3:grid.442978.4'), ('3:grid.442978.4', '1:grid.442903.8'), ('4:18724056', '1:grid.442903.8'), ('4:18724056', '3:grid.442978.4')]
+	MAX DISTANCE:                   : 0.833
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 2.16666666667
+	AVERAGE NODE CONNECTIVITY RATIO : 0.722222222222
+	BRIDGES                         : 0
+	CLOSURE                         : 0.833
+	DIAMETER                        : 2
+	QUALITY                         : 0.223
+	QUALITY USED                    : 0.223
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223

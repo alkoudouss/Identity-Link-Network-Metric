@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 15590 
+NAME    N1746897144
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/18445220>
+	<http://risis.eu/orgref_20170703/resource/18455889>
+	<http://www.grid.ac/institutes/grid.472011.1>
+	<http://www.grid.ac/institutes/grid.471515.3>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/18445220.. http://www.grid.ac/institutes/grid.471515.3........ 1.................................................. [Ashikaga Junior College] was compared to [Ashikaga Junior College] 
+	http://www.grid.ac/institutes/grid.471515.3........ http://risis.eu/orgref_20170703/resource/18445220.. 1.................................................. [Ashikaga Junior College] was compared to [Ashikaga Junior College] 
+	http://risis.eu/orgref_20170703/resource/18455889.. http://www.grid.ac/institutes/grid.472011.1........ 1.................................................. [Shiga Junior College] was compared to [Shiga Junior College] 
+	http://www.grid.ac/institutes/grid.472011.1........ http://risis.eu/orgref_20170703/resource/18455889.. 1.................................................. [Shiga Junior College] was compared to [Shiga Junior College] 
+	http://risis.eu/orgref_20170703/resource/18445220.. http://risis.eu/orgref_20170703/resource/18455889.. 0.869565217391..................................... [Ashikaga Junior College] was compared to [Shiga Junior College] 
+	http://risis.eu/orgref_20170703/resource/18455889.. http://risis.eu/orgref_20170703/resource/18445220.. 0.869565217391..................................... [Ashikaga Junior College] was compared to [Shiga Junior College] 
+	http://www.grid.ac/institutes/grid.472011.1........ http://www.grid.ac/institutes/grid.471515.3........ 0.869565217391..................................... [Ashikaga Junior College] was compared to [Shiga Junior College] 
+	http://www.grid.ac/institutes/grid.471515.3........ http://www.grid.ac/institutes/grid.472011.1........ 0.869565217391..................................... [Ashikaga Junior College] was compared to [Shiga Junior College] 
+	http://risis.eu/orgref_20170703/resource/18455889.. http://www.grid.ac/institutes/grid.471515.3........ 0.869565217391..................................... [Ashikaga Junior College] was compared to [Shiga Junior College] 
+	http://www.grid.ac/institutes/grid.471515.3........ http://risis.eu/orgref_20170703/resource/18455889.. 0.869565217391..................................... [Ashikaga Junior College] was compared to [Shiga Junior College] 
+	http://risis.eu/orgref_20170703/resource/18445220.. http://www.grid.ac/institutes/grid.472011.1........ 0.869565217391..................................... [Shiga Junior College] was compared to [Ashikaga Junior College] 
+	http://www.grid.ac/institutes/grid.472011.1........ http://risis.eu/orgref_20170703/resource/18445220.. 0.869565217391..................................... [Shiga Junior College] was compared to [Ashikaga Junior College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/18445220.. http://en.wikipedia.org/wiki?curid=18445220........ 
+	http://risis.eu/orgref_20170703/resource/18445220.. http://www.wikidata.org/wiki/Q11636797............. 
+	http://risis.eu/orgref_20170703/resource/18445220.. http://www.ashikaga.ac.jp.......................... 
+	http://risis.eu/orgref_20170703/resource/18445220.. Ashikaga Junior College............................ 
+	http://risis.eu/orgref_20170703/resource/18455889.. http://en.wikipedia.org/wiki?curid=18455889........ 
+	http://risis.eu/orgref_20170703/resource/18455889.. http://www.wikidata.org/wiki/Q7496296.............. 
+	http://risis.eu/orgref_20170703/resource/18455889.. http://www.sumire.ac.jp/tandai..................... 
+	http://risis.eu/orgref_20170703/resource/18455889.. Shiga Junior College............................... 
+	http://www.grid.ac/institutes/grid.472011.1........ 135.87411.......................................... 
+	http://www.grid.ac/institutes/grid.472011.1........ 34.995453.......................................... 
+	http://www.grid.ac/institutes/grid.472011.1........ http://www.sumire.ac.jp/tandai/.................... 
+	http://www.grid.ac/institutes/grid.472011.1........ Shiga Tanki Daigaku................................ 
+	http://www.grid.ac/institutes/grid.472011.1........ Shiga Junior College............................... 
+	http://www.grid.ac/institutes/grid.471515.3........ 139.44737.......................................... 
+	http://www.grid.ac/institutes/grid.471515.3........ 36.340584.......................................... 
+	http://www.grid.ac/institutes/grid.471515.3........ http://ashikaga.ac.jp/............................. 
+	http://www.grid.ac/institutes/grid.471515.3........ Ashikaga Junior College............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:18445220', '3:grid.472011.1'), ('1:18445220', '4:grid.471515.3'), ('2:18455889', '1:18445220'), ('3:grid.472011.1', '2:18455889'), ('3:grid.472011.1', '4:grid.471515.3'), ('4:grid.471515.3', '2:18455889')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

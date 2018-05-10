@@ -1,0 +1,67 @@
+SIZE    5   
+CLUSTER 2043 
+NAME    N1492206351
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/34610001>
+	<http://risis.eu/orgref_20170703/resource/34869851>
+	<http://www.grid.ac/institutes/grid.444243.1>
+	<http://risis.eu/orgref_20170703/resource/34634937>
+	<http://risis.eu/orgref_20170703/resource/23822685>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/34869851.. http://risis.eu/orgref_20170703/resource/34634937.. 0.8125............................................. [Jangipur College] was compared to [Baruipur College] 
+	http://risis.eu/orgref_20170703/resource/34634937.. http://risis.eu/orgref_20170703/resource/34869851.. 0.8125............................................. [Jangipur College] was compared to [Baruipur College] 
+	http://risis.eu/orgref_20170703/resource/34610001.. http://risis.eu/orgref_20170703/resource/34634937.. 0.875.............................................. [Santipur College] was compared to [Jangipur College] 
+	http://risis.eu/orgref_20170703/resource/34634937.. http://risis.eu/orgref_20170703/resource/34610001.. 0.875.............................................. [Santipur College] was compared to [Jangipur College] 
+	http://risis.eu/orgref_20170703/resource/34610001.. http://risis.eu/orgref_20170703/resource/34869851.. 0.8125............................................. [Santipur College] was compared to [Baruipur College] 
+	http://risis.eu/orgref_20170703/resource/34869851.. http://risis.eu/orgref_20170703/resource/34610001.. 0.8125............................................. [Santipur College] was compared to [Baruipur College] 
+	http://risis.eu/orgref_20170703/resource/34610001.. http://risis.eu/orgref_20170703/resource/23822685.. 0.8125............................................. [Sonepur College] was compared to [Santipur College] 
+	http://risis.eu/orgref_20170703/resource/23822685.. http://risis.eu/orgref_20170703/resource/34610001.. 0.8125............................................. [Sonepur College] was compared to [Santipur College] 
+	http://risis.eu/orgref_20170703/resource/34610001.. http://www.grid.ac/institutes/grid.444243.1........ 0.8125............................................. [Santapol College] was compared to [Santipur College] 
+	http://www.grid.ac/institutes/grid.444243.1........ http://risis.eu/orgref_20170703/resource/34610001.. 0.8125............................................. [Santapol College] was compared to [Santipur College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/34610001.. http://en.wikipedia.org/wiki?curid=34610001........ 
+	http://risis.eu/orgref_20170703/resource/34610001.. http://www.wikidata.org/wiki/Q7420443.............. 
+	http://risis.eu/orgref_20170703/resource/34610001.. http://www.santipurcollege.org..................... 
+	http://risis.eu/orgref_20170703/resource/34610001.. Santipur College................................... 
+	http://risis.eu/orgref_20170703/resource/34869851.. http://en.wikipedia.org/wiki?curid=34869851........ 
+	http://risis.eu/orgref_20170703/resource/34869851.. http://www.wikidata.org/wiki/Q4865890.............. 
+	http://risis.eu/orgref_20170703/resource/34869851.. http://www.baruipurcollege.ac.in................... 
+	http://risis.eu/orgref_20170703/resource/34869851.. Baruipur College................................... 
+	http://www.grid.ac/institutes/grid.444243.1........ Santapol College................................... 
+	http://risis.eu/orgref_20170703/resource/34634937.. http://en.wikipedia.org/wiki?curid=34634937........ 
+	http://risis.eu/orgref_20170703/resource/34634937.. http://www.wikidata.org/wiki/Q6154050.............. 
+	http://risis.eu/orgref_20170703/resource/34634937.. http://www.jangipurcollege.net..................... 
+	http://risis.eu/orgref_20170703/resource/34634937.. Jangipur College................................... 
+	http://risis.eu/orgref_20170703/resource/23822685.. http://en.wikipedia.org/wiki?curid=23822685........ 
+	http://risis.eu/orgref_20170703/resource/23822685.. http://www.wikidata.org/wiki/Q7560932.............. 
+	http://risis.eu/orgref_20170703/resource/23822685.. http://www.sonepurcollege.org.in................... 
+	http://risis.eu/orgref_20170703/resource/23822685.. Sonepur College.................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:34869851', '1:34610001'), ('3:grid.444243.1', '1:34610001'), ('4:34634937', '1:34610001'), ('4:34634937', '2:34869851'), ('5:23822685', '1:34610001')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 1.3
+	AVERAGE NODE CONNECTIVITY RATIO : 0.325
+	BRIDGES                         : 2
+	CLOSURE                         : 0.5
+	DIAMETER                        : 2
+	QUALITY                         : 0.444
+	QUALITY USED                    : 0.48
+	SUMMARY 1: BRIDGE 0.5 CLOSURE 0.5 DIAMETER 0.333 QUALITY 0.444 QUALITY USED 0.48
+	SUMMARY 2: BRIDGE 0.556 CLOSURE 0.5 DIAMETER 0.385 QUALITY 0.444 QUALITY USED 0.48

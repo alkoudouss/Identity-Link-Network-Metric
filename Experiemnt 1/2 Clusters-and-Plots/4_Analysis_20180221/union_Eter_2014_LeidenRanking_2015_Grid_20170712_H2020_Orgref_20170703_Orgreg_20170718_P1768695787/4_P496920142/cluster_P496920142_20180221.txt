@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 4908 
+NAME    P496920142
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/1369976>
+	<http://risis.eu/orgref_20170703/resource/4792747>
+	<http://www.grid.ac/institutes/grid.412298.4>
+	<http://www.grid.ac/institutes/grid.469208.1>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.412298.4....... http://www.grid.ac/institutes/grid.469208.1....... 1................................................. [University of Agriculture] was compared to [University of Agriculture] 
+	http://www.grid.ac/institutes/grid.469208.1....... http://www.grid.ac/institutes/grid.412298.4....... 1................................................. [University of Agriculture] was compared to [University of Agriculture] 
+	http://risis.eu/orgref_20170703/resource/4792747.. http://www.grid.ac/institutes/grid.412298.4....... 1................................................. [University of Agriculture] was compared to [University of Agriculture (Faisalabad)] 
+	http://www.grid.ac/institutes/grid.412298.4....... http://risis.eu/orgref_20170703/resource/4792747.. 1................................................. [University of Agriculture] was compared to [University of Agriculture (Faisalabad)] 
+	http://risis.eu/orgref_20170703/resource/1369976.. http://www.grid.ac/institutes/grid.412298.4....... 1................................................. [University of Agriculture] was compared to [University of Agriculture (Peshawar)] 
+	http://www.grid.ac/institutes/grid.412298.4....... http://risis.eu/orgref_20170703/resource/1369976.. 1................................................. [University of Agriculture] was compared to [University of Agriculture (Peshawar)] 
+	http://risis.eu/orgref_20170703/resource/4792747.. http://www.grid.ac/institutes/grid.469208.1....... 1................................................. [University of Agriculture] was compared to [University of Agriculture (Faisalabad)] 
+	http://www.grid.ac/institutes/grid.469208.1....... http://risis.eu/orgref_20170703/resource/4792747.. 1................................................. [University of Agriculture] was compared to [University of Agriculture (Faisalabad)] 
+	http://risis.eu/orgref_20170703/resource/1369976.. http://www.grid.ac/institutes/grid.469208.1....... 1................................................. [University of Agriculture] was compared to [University of Agriculture (Peshawar)] 
+	http://www.grid.ac/institutes/grid.469208.1....... http://risis.eu/orgref_20170703/resource/1369976.. 1................................................. [University of Agriculture] was compared to [University of Agriculture (Peshawar)] 
+	http://risis.eu/orgref_20170703/resource/1369976.. http://risis.eu/orgref_20170703/resource/4792747.. 1................................................. [University of Agriculture (Peshawar)] was compared to [University of Agriculture (Faisalabad)] 
+	http://risis.eu/orgref_20170703/resource/4792747.. http://risis.eu/orgref_20170703/resource/1369976.. 1................................................. [University of Agriculture (Peshawar)] was compared to [University of Agriculture (Faisalabad)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/1369976.. http://en.wikipedia.org/wiki?curid=1369976........ 
+	http://risis.eu/orgref_20170703/resource/1369976.. http://www.wikidata.org/wiki/Q4693940............. 
+	http://risis.eu/orgref_20170703/resource/1369976.. http://www.aup.edu.pk............................. 
+	http://risis.eu/orgref_20170703/resource/1369976.. University of Agriculture (Peshawar).............. 
+	http://risis.eu/orgref_20170703/resource/4792747.. http://en.wikipedia.org/wiki?curid=4792747........ 
+	http://risis.eu/orgref_20170703/resource/4792747.. http://www.wikidata.org/wiki/Q7895024............. 
+	http://risis.eu/orgref_20170703/resource/4792747.. http://www.uaf.edu.pk............................. 
+	http://risis.eu/orgref_20170703/resource/4792747.. University of Agriculture (Faisalabad)............ 
+	http://www.grid.ac/institutes/grid.412298.4....... 71.48217.......................................... 
+	http://www.grid.ac/institutes/grid.412298.4....... 34.020226......................................... 
+	http://www.grid.ac/institutes/grid.412298.4....... http://www.aup.edu.pk/............................ 
+	http://www.grid.ac/institutes/grid.412298.4....... Khyber Pakhtunkhwa Agricultural University........ 
+	http://www.grid.ac/institutes/grid.412298.4....... University of Agriculture......................... 
+	http://www.grid.ac/institutes/grid.469208.1....... 8.541569.......................................... 
+	http://www.grid.ac/institutes/grid.469208.1....... 7.718002.......................................... 
+	http://www.grid.ac/institutes/grid.469208.1....... http://uam.edu.ng/................................ 
+	http://www.grid.ac/institutes/grid.469208.1....... University of Agriculture......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:1369976', '3:grid.412298.4'), ('1:1369976', '4:grid.469208.1'), ('2:4792747', '1:1369976'), ('3:grid.412298.4', '2:4792747'), ('4:grid.469208.1', '2:4792747'), ('4:grid.469208.1', '3:grid.412298.4')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

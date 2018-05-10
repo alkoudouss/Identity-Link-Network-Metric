@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 1147 
+NAME    N827246068
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/DE0310>
+	<http://www.grid.ac/institutes/grid.459392.0>
+	<http://www.grid.ac/institutes/grid.466372.2>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/DE0310.... http://www.grid.ac/institutes/grid.459392.0.. 1............................................ [bochum university applied sciences] was compared to [bochum university applied sciences] 
+	http://risis.eu/eter_2014/resource/DE0310.... http://www.grid.ac/institutes/grid.466372.2.. 0.794117647059............................... [bochum university applied sciences] was compared to [university applied sciences] 
+	http://www.grid.ac/institutes/grid.459392.0.. http://risis.eu/eter_2014/resource/DE0310.... 1............................................ [bochum university applied sciences] was compared to [bochum university applied sciences] 
+	http://www.grid.ac/institutes/grid.466372.2.. http://risis.eu/eter_2014/resource/DE0310.... 0.794117647059............................... [bochum university applied sciences] was compared to [university applied sciences] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/DE0310.... 51,453068.................................... 
+	http://risis.eu/eter_2014/resource/DE0310.... 7,26841...................................... 
+	http://risis.eu/eter_2014/resource/DE0310.... www.hochschule-bochum.de..................... 
+	http://risis.eu/eter_2014/resource/DE0310.... a............................................ 
+	http://risis.eu/eter_2014/resource/DE0310.... Bochum University of Applied Sciences........ 
+	http://risis.eu/eter_2014/resource/DE0310.... Hochschule Bochum............................ 
+	http://www.grid.ac/institutes/grid.459392.0.. 7.270749..................................... 
+	http://www.grid.ac/institutes/grid.459392.0.. 51.447628.................................... 
+	http://www.grid.ac/institutes/grid.459392.0.. http://www.hochschule-bochum.de/............. 
+	http://www.grid.ac/institutes/grid.459392.0.. Bochum University of Applied Sciences........ 
+	http://www.grid.ac/institutes/grid.466372.2.. 7.245998..................................... 
+	http://www.grid.ac/institutes/grid.466372.2.. 51.446987.................................... 
+	http://www.grid.ac/institutes/grid.466372.2.. http://www.hochschule-bochum.de/en/.......... 
+	http://www.grid.ac/institutes/grid.466372.2.. University of Applied Sciences............... 
+
+NETWORK ANALYSIS
+	NETWORK [('P1045457905-DE0310', 'P768770614-grid.466372.2'), ('P1045457905-DE0310', 'N827246068-grid.459392.0')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

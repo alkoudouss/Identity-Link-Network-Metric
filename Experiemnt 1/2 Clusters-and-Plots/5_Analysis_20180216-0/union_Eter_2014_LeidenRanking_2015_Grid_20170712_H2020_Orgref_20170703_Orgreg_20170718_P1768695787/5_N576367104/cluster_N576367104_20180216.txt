@@ -1,0 +1,71 @@
+SIZE    5   
+CLUSTER 15003 
+NAME    N576367104
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.425152.5>
+	<http://www.grid.ac/institutes/grid.438482.1>
+	<http://www.grid.ac/institutes/grid.447844.f>
+	<http://www.grid.ac/institutes/grid.457848.2>
+	<http://www.grid.ac/institutes/grid.459494.1>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 20 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.425152.5.. http://www.grid.ac/institutes/grid.457848.2.. 1............................................ [FEI (Netherlands)] was compared to [FEI (Norway)] 
+	http://www.grid.ac/institutes/grid.457848.2.. http://www.grid.ac/institutes/grid.425152.5.. 1............................................ [FEI (Netherlands)] was compared to [FEI (Norway)] 
+	http://www.grid.ac/institutes/grid.425152.5.. http://www.grid.ac/institutes/grid.438482.1.. 1............................................ [FEI (Netherlands)] was compared to [FEI (Germany)] 
+	http://www.grid.ac/institutes/grid.438482.1.. http://www.grid.ac/institutes/grid.425152.5.. 1............................................ [FEI (Netherlands)] was compared to [FEI (Germany)] 
+	http://www.grid.ac/institutes/grid.425152.5.. http://www.grid.ac/institutes/grid.447844.f.. 1............................................ [FEI (Netherlands)] was compared to [FEI (Czech Republic)] 
+	http://www.grid.ac/institutes/grid.447844.f.. http://www.grid.ac/institutes/grid.425152.5.. 1............................................ [FEI (Netherlands)] was compared to [FEI (Czech Republic)] 
+	http://www.grid.ac/institutes/grid.425152.5.. http://www.grid.ac/institutes/grid.459494.1.. 1............................................ [FEI (Netherlands)] was compared to [FEI (Japan)] 
+	http://www.grid.ac/institutes/grid.459494.1.. http://www.grid.ac/institutes/grid.425152.5.. 1............................................ [FEI (Netherlands)] was compared to [FEI (Japan)] 
+	http://www.grid.ac/institutes/grid.438482.1.. http://www.grid.ac/institutes/grid.457848.2.. 1............................................ [FEI (Germany)] was compared to [FEI (Norway)] 
+	http://www.grid.ac/institutes/grid.457848.2.. http://www.grid.ac/institutes/grid.438482.1.. 1............................................ [FEI (Germany)] was compared to [FEI (Norway)] 
+	http://www.grid.ac/institutes/grid.438482.1.. http://www.grid.ac/institutes/grid.447844.f.. 1............................................ [FEI (Germany)] was compared to [FEI (Czech Republic)] 
+	http://www.grid.ac/institutes/grid.447844.f.. http://www.grid.ac/institutes/grid.438482.1.. 1............................................ [FEI (Germany)] was compared to [FEI (Czech Republic)] 
+	http://www.grid.ac/institutes/grid.438482.1.. http://www.grid.ac/institutes/grid.459494.1.. 1............................................ [FEI (Germany)] was compared to [FEI (Japan)] 
+	http://www.grid.ac/institutes/grid.459494.1.. http://www.grid.ac/institutes/grid.438482.1.. 1............................................ [FEI (Germany)] was compared to [FEI (Japan)] 
+	http://www.grid.ac/institutes/grid.447844.f.. http://www.grid.ac/institutes/grid.457848.2.. 1............................................ [FEI (Czech Republic)] was compared to [FEI (Norway)] 
+	http://www.grid.ac/institutes/grid.457848.2.. http://www.grid.ac/institutes/grid.447844.f.. 1............................................ [FEI (Czech Republic)] was compared to [FEI (Norway)] 
+	http://www.grid.ac/institutes/grid.447844.f.. http://www.grid.ac/institutes/grid.459494.1.. 1............................................ [FEI (Czech Republic)] was compared to [FEI (Japan)] 
+	http://www.grid.ac/institutes/grid.459494.1.. http://www.grid.ac/institutes/grid.447844.f.. 1............................................ [FEI (Czech Republic)] was compared to [FEI (Japan)] 
+	http://www.grid.ac/institutes/grid.457848.2.. http://www.grid.ac/institutes/grid.459494.1.. 1............................................ [FEI (Norway)] was compared to [FEI (Japan)]. 
+	http://www.grid.ac/institutes/grid.459494.1.. http://www.grid.ac/institutes/grid.457848.2.. 1............................................ [FEI (Norway)] was compared to [FEI (Japan)]. 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.425152.5.. FEI (Netherlands)............................ 
+	http://www.grid.ac/institutes/grid.438482.1.. FEI (Germany)................................ 
+	http://www.grid.ac/institutes/grid.447844.f.. FEI (Czech Republic)......................... 
+	http://www.grid.ac/institutes/grid.457848.2.. 10.428474.................................... 
+	http://www.grid.ac/institutes/grid.457848.2.. 63.4428...................................... 
+	http://www.grid.ac/institutes/grid.457848.2.. http://www.fei.com/.......................... 
+	http://www.grid.ac/institutes/grid.457848.2.. FEI (Norway)................................. 
+	http://www.grid.ac/institutes/grid.459494.1.. 139.74524.................................... 
+	http://www.grid.ac/institutes/grid.459494.1.. 35.627895.................................... 
+	http://www.grid.ac/institutes/grid.459494.1.. http://www.fei.com/locations/fei-japan/...... 
+	http://www.grid.ac/institutes/grid.459494.1.. FEI (Japan).................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.438482.1', '1:grid.425152.5'), ('3:grid.447844.f', '1:grid.425152.5'), ('3:grid.447844.f', '2:grid.438482.1'), ('4:grid.457848.2', '1:grid.425152.5'), ('4:grid.457848.2', '2:grid.438482.1'), ('4:grid.457848.2', '3:grid.447844.f'), ('5:grid.459494.1', '1:grid.425152.5'), ('5:grid.459494.1', '2:grid.438482.1'), ('5:grid.459494.1', '3:grid.447844.f'), ('5:grid.459494.1', '4:grid.457848.2')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 4.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

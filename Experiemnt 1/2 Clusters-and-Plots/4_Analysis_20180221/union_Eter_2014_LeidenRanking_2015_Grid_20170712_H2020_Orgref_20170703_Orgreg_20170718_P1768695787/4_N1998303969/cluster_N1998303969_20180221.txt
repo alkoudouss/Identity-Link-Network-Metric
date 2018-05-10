@@ -1,0 +1,57 @@
+SIZE    4   
+CLUSTER 8381 
+NAME    N1998303969
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.417778.a>
+	<http://risis.eu/cordisH2020/resource/participant_999583449>
+	<http://risis.eu/orgreg_20170718/resource/IT2037>
+	<http://risis.eu/leidenRanking_2015/resource/7399>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.417778.a................. http://risis.eu/cordisH2020/resource/participant_999583449.. 1........................................................... [Fondazione Santa Lucia] was compared to [FONDAZIONE SANTA LUCIA] 
+	http://risis.eu/cordisH2020/resource/participant_999583449.. http://www.grid.ac/institutes/grid.417778.a................. 1........................................................... [Fondazione Santa Lucia] was compared to [FONDAZIONE SANTA LUCIA] 
+	http://risis.eu/cordisH2020/resource/participant_999583449.. http://risis.eu/leidenRanking_2015/resource/7399............ 0.863636363636.............................................. [FONDAZIONE SANTA LUCIA] was compared to [Santa Lucia Foundation] 
+	http://risis.eu/leidenRanking_2015/resource/7399............ http://risis.eu/cordisH2020/resource/participant_999583449.. 0.863636363636.............................................. [FONDAZIONE SANTA LUCIA] was compared to [Santa Lucia Foundation] 
+	http://risis.eu/cordisH2020/resource/participant_999583449.. http://risis.eu/orgreg_20170718/resource/IT2037............. 1........................................................... [Fondazione Santa Lucia] was compared to [FONDAZIONE SANTA LUCIA] 
+	http://risis.eu/orgreg_20170718/resource/IT2037............. http://risis.eu/cordisH2020/resource/participant_999583449.. 1........................................................... [Fondazione Santa Lucia] was compared to [FONDAZIONE SANTA LUCIA] 
+	http://www.grid.ac/institutes/grid.417778.a................. http://risis.eu/orgreg_20170718/resource/IT2037............. 1........................................................... [Fondazione Santa Lucia] was compared to [Fondazione Santa Lucia] 
+	http://risis.eu/orgreg_20170718/resource/IT2037............. http://www.grid.ac/institutes/grid.417778.a................. 1........................................................... [Fondazione Santa Lucia] was compared to [Fondazione Santa Lucia] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.417778.a................. 12.514198................................................... 
+	http://www.grid.ac/institutes/grid.417778.a................. 41.841274................................................... 
+	http://www.grid.ac/institutes/grid.417778.a................. http://www.hsantalucia.it/modules.php?name=News............. 
+	http://www.grid.ac/institutes/grid.417778.a................. Fondazione Santa Lucia...................................... 
+	http://risis.eu/cordisH2020/resource/participant_999583449.. http://www.hsantalucia.it................................... 
+	http://risis.eu/cordisH2020/resource/participant_999583449.. FONDAZIONE SANTA LUCIA...................................... 
+	http://risis.eu/orgreg_20170718/resource/IT2037............. m........................................................... 
+	http://risis.eu/orgreg_20170718/resource/IT2037............. http://www.hsantalucia.it/en................................ 
+	http://risis.eu/orgreg_20170718/resource/IT2037............. Fondazione Santa Lucia...................................... 
+	http://risis.eu/leidenRanking_2015/resource/7399............ Santa Lucia Foundation...................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_999583449', '1:grid.417778.a'), ('2:participant_999583449', '3:IT2037'), ('3:IT2037', '1:grid.417778.a'), ('4:7399', '2:participant_999583449')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

@@ -1,0 +1,58 @@
+SIZE    4   
+CLUSTER 4852 
+NAME    N1586478514
+
+RESOURCES INVOLVED
+	<http://risis.eu/cordisH2020/resource/participant_999589851>
+	<http://risis.eu/leidenRanking_2015/resource/15070>
+	<http://www.grid.ac/institutes/grid.5942.a>
+	<http://risis.eu/orgreg_20170718/resource/IT4025>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/leidenRanking_2015/resource/15070........... http://www.grid.ac/institutes/grid.5942.a................... 1........................................................... [Elettra Sincrotrone Trieste] was compared to [Elettra Sincrotrone Trieste] 
+	http://www.grid.ac/institutes/grid.5942.a................... http://risis.eu/leidenRanking_2015/resource/15070........... 1........................................................... [Elettra Sincrotrone Trieste] was compared to [Elettra Sincrotrone Trieste] 
+	http://risis.eu/cordisH2020/resource/participant_999589851.. http://www.grid.ac/institutes/grid.5942.a................... 0.818181818182.............................................. [Elettra Sincrotrone Trieste] was compared to [ELETTRA - SINCROTRONE TRIESTE SCPA] 
+	http://www.grid.ac/institutes/grid.5942.a................... http://risis.eu/cordisH2020/resource/participant_999589851.. 0.818181818182.............................................. [Elettra Sincrotrone Trieste] was compared to [ELETTRA - SINCROTRONE TRIESTE SCPA] 
+	http://risis.eu/cordisH2020/resource/participant_999589851.. http://risis.eu/leidenRanking_2015/resource/15070........... 0.818181818182.............................................. [ELETTRA - SINCROTRONE TRIESTE SCPA] was compared to [Elettra Sincrotrone Trieste] 
+	http://risis.eu/leidenRanking_2015/resource/15070........... http://risis.eu/cordisH2020/resource/participant_999589851.. 0.818181818182.............................................. [ELETTRA - SINCROTRONE TRIESTE SCPA] was compared to [Elettra Sincrotrone Trieste] 
+	http://risis.eu/cordisH2020/resource/participant_999589851.. http://risis.eu/orgreg_20170718/resource/IT4025............. 1........................................................... [Elettra - Sincrotrone Trieste S.C.p.A] was compared to [ELETTRA - SINCROTRONE TRIESTE SCPA] 
+	http://risis.eu/orgreg_20170718/resource/IT4025............. http://risis.eu/cordisH2020/resource/participant_999589851.. 1........................................................... [Elettra - Sincrotrone Trieste S.C.p.A] was compared to [ELETTRA - SINCROTRONE TRIESTE SCPA] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_999589851.. http://risis.eu/cordisH2020/resource/www.elettra.trieste.it. 
+	http://risis.eu/cordisH2020/resource/participant_999589851.. ELETTRA - SINCROTRONE TRIESTE SCPA.......................... 
+	http://risis.eu/leidenRanking_2015/resource/15070........... Elettra Sincrotrone Trieste................................. 
+	http://www.grid.ac/institutes/grid.5942.a................... 13.847782................................................... 
+	http://www.grid.ac/institutes/grid.5942.a................... 45.64548.................................................... 
+	http://www.grid.ac/institutes/grid.5942.a................... https://www.elettra.trieste.it/............................. 
+	http://www.grid.ac/institutes/grid.5942.a................... Elettra..................................................... 
+	http://www.grid.ac/institutes/grid.5942.a................... Elettra Sincrotrone Trieste................................. 
+	http://risis.eu/orgreg_20170718/resource/IT4025............. m........................................................... 
+	http://risis.eu/orgreg_20170718/resource/IT4025............. https://www.elettra.trieste.it/index.html................... 
+	http://risis.eu/orgreg_20170718/resource/IT4025............. Elettra - Sincrotrone Trieste S.C.p.A....................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:participant_999589851', '3:grid.5942.a'), ('2:15070', '1:participant_999589851'), ('3:grid.5942.a', '2:15070'), ('4:IT4025', '1:participant_999589851')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

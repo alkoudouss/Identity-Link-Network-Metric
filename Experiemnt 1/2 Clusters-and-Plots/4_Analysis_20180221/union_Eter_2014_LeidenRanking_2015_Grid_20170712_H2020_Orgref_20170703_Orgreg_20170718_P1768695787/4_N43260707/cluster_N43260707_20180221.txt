@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 9020 
+NAME    N43260707
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.108137.c>
+	<http://risis.eu/orgref_20170703/resource/18605854>
+	<http://www.grid.ac/institutes/grid.82747.3e>
+	<http://risis.eu/orgref_20170703/resource/3240831>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/18605854.. http://www.grid.ac/institutes/grid.82747.3e........ 1.................................................. [University of El Salvador] was compared to [University of El Salvador] 
+	http://www.grid.ac/institutes/grid.82747.3e........ http://risis.eu/orgref_20170703/resource/18605854.. 1.................................................. [University of El Salvador] was compared to [University of El Salvador] 
+	http://www.grid.ac/institutes/grid.108137.c........ http://risis.eu/orgref_20170703/resource/3240831... 1.................................................. [Universidad del Salvador] was compared to [Universidad del Salvador] 
+	http://risis.eu/orgref_20170703/resource/3240831... http://www.grid.ac/institutes/grid.108137.c........ 1.................................................. [Universidad del Salvador] was compared to [Universidad del Salvador] 
+	http://risis.eu/orgref_20170703/resource/18605854.. http://risis.eu/orgref_20170703/resource/3240831... 0.833333333333..................................... [University of El Salvador] was compared to [Universidad del Salvador] 
+	http://risis.eu/orgref_20170703/resource/3240831... http://risis.eu/orgref_20170703/resource/18605854.. 0.833333333333..................................... [University of El Salvador] was compared to [Universidad del Salvador] 
+	http://www.grid.ac/institutes/grid.108137.c........ http://www.grid.ac/institutes/grid.82747.3e........ 0.833333333333..................................... [Universidad del Salvador] was compared to [University of El Salvador] 
+	http://www.grid.ac/institutes/grid.82747.3e........ http://www.grid.ac/institutes/grid.108137.c........ 0.833333333333..................................... [Universidad del Salvador] was compared to [University of El Salvador] 
+	http://www.grid.ac/institutes/grid.82747.3e........ http://risis.eu/orgref_20170703/resource/3240831... 0.833333333333..................................... [University of El Salvador] was compared to [Universidad del Salvador] 
+	http://risis.eu/orgref_20170703/resource/3240831... http://www.grid.ac/institutes/grid.82747.3e........ 0.833333333333..................................... [University of El Salvador] was compared to [Universidad del Salvador] 
+	http://www.grid.ac/institutes/grid.108137.c........ http://risis.eu/orgref_20170703/resource/18605854.. 0.833333333333..................................... [Universidad del Salvador] was compared to [University of El Salvador] 
+	http://risis.eu/orgref_20170703/resource/18605854.. http://www.grid.ac/institutes/grid.108137.c........ 0.833333333333..................................... [Universidad del Salvador] was compared to [University of El Salvador] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.108137.c........ Universidad del Salvador........................... 
+	http://risis.eu/orgref_20170703/resource/18605854.. http://en.wikipedia.org/wiki?curid=18605854........ 
+	http://risis.eu/orgref_20170703/resource/18605854.. http://www.wikidata.org/wiki/Q3179505.............. 
+	http://risis.eu/orgref_20170703/resource/18605854.. http://www.ues.edu.sv.............................. 
+	http://risis.eu/orgref_20170703/resource/18605854.. University of El Salvador.......................... 
+	http://www.grid.ac/institutes/grid.82747.3e........ -89.2031........................................... 
+	http://www.grid.ac/institutes/grid.82747.3e........ 13.7183............................................ 
+	http://www.grid.ac/institutes/grid.82747.3e........ https://www.ues.edu.sv/............................ 
+	http://www.grid.ac/institutes/grid.82747.3e........ University of El Salvador.......................... 
+	http://risis.eu/orgref_20170703/resource/3240831... http://en.wikipedia.org/wiki?curid=3240831......... 
+	http://risis.eu/orgref_20170703/resource/3240831... http://www.wikidata.org/wiki/Q3115667.............. 
+	http://risis.eu/orgref_20170703/resource/3240831... http://www.salvador.edu.ar......................... 
+	http://risis.eu/orgref_20170703/resource/3240831... Universidad del Salvador........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:18605854', '1:grid.108137.c'), ('2:18605854', '3:grid.82747.3e'), ('3:grid.82747.3e', '1:grid.108137.c'), ('4:3240831', '1:grid.108137.c'), ('4:3240831', '2:18605854'), ('4:3240831', '3:grid.82747.3e')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

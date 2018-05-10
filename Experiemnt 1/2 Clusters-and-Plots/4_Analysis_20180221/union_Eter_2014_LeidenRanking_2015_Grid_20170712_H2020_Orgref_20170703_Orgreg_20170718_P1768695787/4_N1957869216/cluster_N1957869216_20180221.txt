@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 12692 
+NAME    N1957869216
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.462953.f>
+	<http://www.grid.ac/institutes/grid.472609.e>
+	<http://www.grid.ac/institutes/grid.446525.4>
+	<http://www.grid.ac/institutes/grid.478680.5>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.472609.e.. http://www.grid.ac/institutes/grid.446525.4.. 0.80487804878................................ [Center for Strategic and International Studies] was compared to [International Institute for Strategic Studies] 
+	http://www.grid.ac/institutes/grid.446525.4.. http://www.grid.ac/institutes/grid.472609.e.. 0.80487804878................................ [Center for Strategic and International Studies] was compared to [International Institute for Strategic Studies] 
+	http://www.grid.ac/institutes/grid.462953.f.. http://www.grid.ac/institutes/grid.446525.4.. 0.80487804878................................ [Center for Strategic and International Studies] was compared to [International Institute for Strategic Studies] 
+	http://www.grid.ac/institutes/grid.446525.4.. http://www.grid.ac/institutes/grid.462953.f.. 0.80487804878................................ [Center for Strategic and International Studies] was compared to [International Institute for Strategic Studies] 
+	http://www.grid.ac/institutes/grid.462953.f.. http://www.grid.ac/institutes/grid.472609.e.. 1............................................ [International Institute for Strategic Studies] was compared to [International Institute for Strategic Studies] 
+	http://www.grid.ac/institutes/grid.472609.e.. http://www.grid.ac/institutes/grid.462953.f.. 1............................................ [International Institute for Strategic Studies] was compared to [International Institute for Strategic Studies] 
+	http://www.grid.ac/institutes/grid.462953.f.. http://www.grid.ac/institutes/grid.478680.5.. 0.878048780488............................... [International Institute for Strategic Studies] was compared to [Institute for National Strategic Studies] 
+	http://www.grid.ac/institutes/grid.478680.5.. http://www.grid.ac/institutes/grid.462953.f.. 0.878048780488............................... [International Institute for Strategic Studies] was compared to [Institute for National Strategic Studies] 
+	http://www.grid.ac/institutes/grid.472609.e.. http://www.grid.ac/institutes/grid.478680.5.. 0.878048780488............................... [International Institute for Strategic Studies] was compared to [Institute for National Strategic Studies] 
+	http://www.grid.ac/institutes/grid.478680.5.. http://www.grid.ac/institutes/grid.472609.e.. 0.878048780488............................... [International Institute for Strategic Studies] was compared to [Institute for National Strategic Studies] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.462953.f.. -0.113635.................................... 
+	http://www.grid.ac/institutes/grid.462953.f.. 51.512264.................................... 
+	http://www.grid.ac/institutes/grid.462953.f.. https://www.iiss.org/........................ 
+	http://www.grid.ac/institutes/grid.462953.f.. International Institute for Strategic Studies 
+	http://www.grid.ac/institutes/grid.472609.e.. -77.047226................................... 
+	http://www.grid.ac/institutes/grid.472609.e.. 38.902985.................................... 
+	http://www.grid.ac/institutes/grid.472609.e.. https://www.iiss.org/........................ 
+	http://www.grid.ac/institutes/grid.472609.e.. International Institute for Strategic Studies 
+	http://www.grid.ac/institutes/grid.446525.4.. -77.03778.................................... 
+	http://www.grid.ac/institutes/grid.446525.4.. 38.907337.................................... 
+	http://www.grid.ac/institutes/grid.446525.4.. http://csis.org/............................. 
+	http://www.grid.ac/institutes/grid.446525.4.. Center for Strategic and International Studies 
+	http://www.grid.ac/institutes/grid.478680.5.. -77.03792.................................... 
+	http://www.grid.ac/institutes/grid.478680.5.. 38.92224..................................... 
+	http://www.grid.ac/institutes/grid.478680.5.. http://inss.ndu.edu/......................... 
+	http://www.grid.ac/institutes/grid.478680.5.. Institute for National Strategic Studies..... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.462953.f', '3:grid.446525.4'), ('2:grid.472609.e', '1:grid.462953.f'), ('3:grid.446525.4', '2:grid.472609.e'), ('4:grid.478680.5', '1:grid.462953.f'), ('4:grid.478680.5', '2:grid.472609.e')]
+	MAX DISTANCE:                   : 0.833
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 2.16666666667
+	AVERAGE NODE CONNECTIVITY RATIO : 0.722222222222
+	BRIDGES                         : 0
+	CLOSURE                         : 0.833
+	DIAMETER                        : 2
+	QUALITY                         : 0.223
+	QUALITY USED                    : 0.223
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223

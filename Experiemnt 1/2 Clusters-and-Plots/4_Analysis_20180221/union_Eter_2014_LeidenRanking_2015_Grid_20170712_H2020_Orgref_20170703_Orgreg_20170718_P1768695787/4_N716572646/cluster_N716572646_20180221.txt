@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 12878 
+NAME    N716572646
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/26377543>
+	<http://risis.eu/orgref_20170703/resource/26392298>
+	<http://www.grid.ac/institutes/grid.461982.0>
+	<http://www.grid.ac/institutes/grid.469167.b>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/26392298.. http://www.grid.ac/institutes/grid.461982.0........ 1.................................................. [City of Wolverhampton College] was compared to [City of Wolverhampton College] 
+	http://www.grid.ac/institutes/grid.461982.0........ http://risis.eu/orgref_20170703/resource/26392298.. 1.................................................. [City of Wolverhampton College] was compared to [City of Wolverhampton College] 
+	http://risis.eu/orgref_20170703/resource/26377543.. http://www.grid.ac/institutes/grid.469167.b........ 1.................................................. [Southampton City College] was compared to [Southampton City College] 
+	http://www.grid.ac/institutes/grid.469167.b........ http://risis.eu/orgref_20170703/resource/26377543.. 1.................................................. [Southampton City College] was compared to [Southampton City College] 
+	http://risis.eu/orgref_20170703/resource/26377543.. http://risis.eu/orgref_20170703/resource/26392298.. 0.807692307692..................................... [Southampton City College] was compared to [City of Wolverhampton College] 
+	http://risis.eu/orgref_20170703/resource/26392298.. http://risis.eu/orgref_20170703/resource/26377543.. 0.807692307692..................................... [Southampton City College] was compared to [City of Wolverhampton College] 
+	http://www.grid.ac/institutes/grid.461982.0........ http://www.grid.ac/institutes/grid.469167.b........ 0.807692307692..................................... [City of Wolverhampton College] was compared to [Southampton City College] 
+	http://www.grid.ac/institutes/grid.469167.b........ http://www.grid.ac/institutes/grid.461982.0........ 0.807692307692..................................... [City of Wolverhampton College] was compared to [Southampton City College] 
+	http://risis.eu/orgref_20170703/resource/26377543.. http://www.grid.ac/institutes/grid.461982.0........ 0.807692307692..................................... [City of Wolverhampton College] was compared to [Southampton City College] 
+	http://www.grid.ac/institutes/grid.461982.0........ http://risis.eu/orgref_20170703/resource/26377543.. 0.807692307692..................................... [City of Wolverhampton College] was compared to [Southampton City College] 
+	http://risis.eu/orgref_20170703/resource/26392298.. http://www.grid.ac/institutes/grid.469167.b........ 0.807692307692..................................... [Southampton City College] was compared to [City of Wolverhampton College] 
+	http://www.grid.ac/institutes/grid.469167.b........ http://risis.eu/orgref_20170703/resource/26392298.. 0.807692307692..................................... [Southampton City College] was compared to [City of Wolverhampton College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/26377543.. http://en.wikipedia.org/wiki?curid=26377543........ 
+	http://risis.eu/orgref_20170703/resource/26377543.. http://www.wikidata.org/wiki/Q7569110.............. 
+	http://risis.eu/orgref_20170703/resource/26377543.. https://www.southampton-city.ac.uk................. 
+	http://risis.eu/orgref_20170703/resource/26377543.. Southampton City College........................... 
+	http://risis.eu/orgref_20170703/resource/26392298.. http://en.wikipedia.org/wiki?curid=26392298........ 
+	http://risis.eu/orgref_20170703/resource/26392298.. http://www.wikidata.org/wiki/Q5123991.............. 
+	http://risis.eu/orgref_20170703/resource/26392298.. http://www.wolvcoll.ac.uk.......................... 
+	http://risis.eu/orgref_20170703/resource/26392298.. City of Wolverhampton College...................... 
+	http://www.grid.ac/institutes/grid.461982.0........ -2.156506.......................................... 
+	http://www.grid.ac/institutes/grid.461982.0........ 52.588898.......................................... 
+	http://www.grid.ac/institutes/grid.461982.0........ http://www.wolvcoll.ac.uk/......................... 
+	http://www.grid.ac/institutes/grid.461982.0........ Wolverhampton College.............................. 
+	http://www.grid.ac/institutes/grid.461982.0........ City of Wolverhampton College...................... 
+	http://www.grid.ac/institutes/grid.469167.b........ -1.395016.......................................... 
+	http://www.grid.ac/institutes/grid.469167.b........ 50.903008.......................................... 
+	http://www.grid.ac/institutes/grid.469167.b........ https://www.southampton-city.ac.uk/................ 
+	http://www.grid.ac/institutes/grid.469167.b........ Southampton City College........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:26377543', '4:grid.469167.b'), ('2:26392298', '1:26377543'), ('2:26392298', '3:grid.461982.0'), ('3:grid.461982.0', '1:26377543'), ('4:grid.469167.b', '2:26392298'), ('4:grid.469167.b', '3:grid.461982.0')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

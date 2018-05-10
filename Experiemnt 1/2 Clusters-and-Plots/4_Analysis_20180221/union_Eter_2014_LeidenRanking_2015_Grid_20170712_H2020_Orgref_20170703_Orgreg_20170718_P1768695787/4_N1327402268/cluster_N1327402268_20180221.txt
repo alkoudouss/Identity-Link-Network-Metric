@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 12109 
+NAME    N1327402268
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/79480>
+	<http://risis.eu/cordisH2020/resource/participant_999878038>
+	<http://www.grid.ac/institutes/grid.462145.0>
+	<http://risis.eu/eter_2014/resource/FR0121>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/79480.............. http://www.grid.ac/institutes/grid.462145.0................. 1........................................................... [École centrale de Lille] was compared to [École centrale de Lille] 
+	http://www.grid.ac/institutes/grid.462145.0................. http://risis.eu/orgref_20170703/resource/79480.............. 1........................................................... [École centrale de Lille] was compared to [École centrale de Lille] 
+	http://www.grid.ac/institutes/grid.462145.0................. http://risis.eu/eter_2014/resource/FR0121................... 1........................................................... [École centrale de Lille] was compared to [École centrale de Lille] 
+	http://risis.eu/eter_2014/resource/FR0121................... http://www.grid.ac/institutes/grid.462145.0................. 1........................................................... [École centrale de Lille] was compared to [École centrale de Lille] 
+	http://risis.eu/cordisH2020/resource/participant_999878038.. http://www.grid.ac/institutes/grid.462145.0................. 1........................................................... [École centrale de Lille] was compared to [ECOLE CENTRALE DE LILLE] 
+	http://www.grid.ac/institutes/grid.462145.0................. http://risis.eu/cordisH2020/resource/participant_999878038.. 1........................................................... [École centrale de Lille] was compared to [ECOLE CENTRALE DE LILLE] 
+	http://risis.eu/orgref_20170703/resource/79480.............. http://risis.eu/eter_2014/resource/FR0121................... 1........................................................... [École centrale de Lille] was compared to [École centrale de Lille] 
+	http://risis.eu/eter_2014/resource/FR0121................... http://risis.eu/orgref_20170703/resource/79480.............. 1........................................................... [École centrale de Lille] was compared to [École centrale de Lille] 
+	http://risis.eu/orgref_20170703/resource/79480.............. http://risis.eu/cordisH2020/resource/participant_999878038.. 1........................................................... [École centrale de Lille] was compared to [ECOLE CENTRALE DE LILLE] 
+	http://risis.eu/cordisH2020/resource/participant_999878038.. http://risis.eu/orgref_20170703/resource/79480.............. 1........................................................... [École centrale de Lille] was compared to [ECOLE CENTRALE DE LILLE] 
+	http://risis.eu/cordisH2020/resource/participant_999878038.. http://risis.eu/eter_2014/resource/FR0121................... 1........................................................... [ECOLE CENTRALE DE LILLE] was compared to [École centrale de Lille] 
+	http://risis.eu/eter_2014/resource/FR0121................... http://risis.eu/cordisH2020/resource/participant_999878038.. 1........................................................... [ECOLE CENTRALE DE LILLE] was compared to [École centrale de Lille] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/79480.............. http://en.wikipedia.org/wiki?curid=79480.................... 
+	http://risis.eu/orgref_20170703/resource/79480.............. http://www.wikidata.org/wiki/Q273461........................ 
+	http://risis.eu/orgref_20170703/resource/79480.............. http://www.ec-lille.fr...................................... 
+	http://risis.eu/orgref_20170703/resource/79480.............. École centrale de Lille.................................... 
+	http://risis.eu/cordisH2020/resource/participant_999878038.. http://risis.eu/cordisH2020/resource/www.ec-lille.fr........ 
+	http://risis.eu/cordisH2020/resource/participant_999878038.. ECOLE CENTRALE DE LILLE..................................... 
+	http://www.grid.ac/institutes/grid.462145.0................. 3.137091.................................................... 
+	http://www.grid.ac/institutes/grid.462145.0................. 50.60606.................................................... 
+	http://www.grid.ac/institutes/grid.462145.0................. http://www.ec-lille.fr/en................................... 
+	http://www.grid.ac/institutes/grid.462145.0................. École centrale de Lille.................................... 
+	http://risis.eu/eter_2014/resource/FR0121................... 50,329912................................................... 
+	http://risis.eu/eter_2014/resource/FR0121................... 3,41302..................................................... 
+	http://risis.eu/eter_2014/resource/FR0121................... http://www.ec-lille.fr/..................................... 
+	http://risis.eu/eter_2014/resource/FR0121................... m........................................................... 
+	http://risis.eu/eter_2014/resource/FR0121................... École centrale de Lille.................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:79480', '3:grid.462145.0'), ('2:participant_999878038', '1:79480'), ('2:participant_999878038', '3:grid.462145.0'), ('4:FR0121', '1:79480'), ('4:FR0121', '2:participant_999878038'), ('4:FR0121', '3:grid.462145.0')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

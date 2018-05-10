@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 7760 
+NAME    P500356210
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/BE0057>
+	<http://risis.eu/eter_2014/resource/BE0057>
+	<http://www.grid.ac/institutes/grid.440516.2>
+	<http://risis.eu/orgref_20170703/resource/541823>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.440516.2...... http://risis.eu/orgref_20170703/resource/541823.. 1................................................ [Transnational University Limburg] was compared to [Transnational University Limburg] 
+	http://risis.eu/orgref_20170703/resource/541823.. http://www.grid.ac/institutes/grid.440516.2...... 1................................................ [Transnational University Limburg] was compared to [Transnational University Limburg] 
+	http://risis.eu/eter_2014/resource/BE0057........ http://www.grid.ac/institutes/grid.440516.2...... 0.885714285714................................... [Transnational University Limburg] was compared to [Transnationale Universiteit Limburg] 
+	http://www.grid.ac/institutes/grid.440516.2...... http://risis.eu/eter_2014/resource/BE0057........ 0.885714285714................................... [Transnational University Limburg] was compared to [Transnationale Universiteit Limburg] 
+	http://risis.eu/orgreg_20170718/resource/BE0057.. http://risis.eu/eter_2014/resource/BE0057........ 0.885714285714................................... [Transnational University Limburg] was compared to [Transnationale Universiteit Limburg] 
+	http://risis.eu/eter_2014/resource/BE0057........ http://risis.eu/orgreg_20170718/resource/BE0057.. 0.885714285714................................... [Transnational University Limburg] was compared to [Transnationale Universiteit Limburg] 
+	http://risis.eu/orgreg_20170718/resource/BE0057.. http://risis.eu/orgref_20170703/resource/541823.. 1................................................ [Transnational University Limburg] was compared to [Transnational University Limburg] 
+	http://risis.eu/orgref_20170703/resource/541823.. http://risis.eu/orgreg_20170718/resource/BE0057.. 1................................................ [Transnational University Limburg] was compared to [Transnational University Limburg] 
+	http://risis.eu/orgreg_20170718/resource/BE0057.. http://www.grid.ac/institutes/grid.440516.2...... 1................................................ [Transnational University Limburg] was compared to [Transnational University Limburg] 
+	http://www.grid.ac/institutes/grid.440516.2...... http://risis.eu/orgreg_20170718/resource/BE0057.. 1................................................ [Transnational University Limburg] was compared to [Transnational University Limburg] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/BE0057.. 5.406091......................................... 
+	http://risis.eu/orgreg_20170718/resource/BE0057.. 50.908246........................................ 
+	http://risis.eu/orgreg_20170718/resource/BE0057.. http://www.tUL.edu............................... 
+	http://risis.eu/orgreg_20170718/resource/BE0057.. Transnational University Limburg................. 
+	http://risis.eu/eter_2014/resource/BE0057........ 50,908246........................................ 
+	http://risis.eu/eter_2014/resource/BE0057........ 5,406091......................................... 
+	http://risis.eu/eter_2014/resource/BE0057........ http://www.tUL.edu............................... 
+	http://risis.eu/eter_2014/resource/BE0057........ a................................................ 
+	http://risis.eu/eter_2014/resource/BE0057........ Transnational University Limburg................. 
+	http://risis.eu/eter_2014/resource/BE0057........ Transnationale Universiteit Limburg.............. 
+	http://www.grid.ac/institutes/grid.440516.2...... Transnational University Limburg................. 
+	http://risis.eu/orgref_20170703/resource/541823.. http://en.wikipedia.org/wiki?curid=541823........ 
+	http://risis.eu/orgref_20170703/resource/541823.. http://www.wikidata.org/wiki/Q2668892............ 
+	http://risis.eu/orgref_20170703/resource/541823.. Transnational University Limburg................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:BE0057', '1:BE0057'), ('2:BE0057', '3:grid.440516.2'), ('3:grid.440516.2', '1:BE0057'), ('4:541823', '1:BE0057'), ('4:541823', '3:grid.440516.2')]
+	MAX DISTANCE:                   : 0.833
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 2.16666666667
+	AVERAGE NODE CONNECTIVITY RATIO : 0.722222222222
+	BRIDGES                         : 0
+	CLOSURE                         : 0.833
+	DIAMETER                        : 2
+	QUALITY                         : 0.223
+	QUALITY USED                    : 0.223
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223

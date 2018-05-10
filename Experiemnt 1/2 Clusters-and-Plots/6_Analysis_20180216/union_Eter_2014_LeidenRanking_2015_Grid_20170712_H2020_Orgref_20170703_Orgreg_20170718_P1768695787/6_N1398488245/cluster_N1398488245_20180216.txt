@@ -1,0 +1,71 @@
+SIZE    6   
+CLUSTER 2671 
+NAME    N1398488245
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/26834311>
+	<http://risis.eu/cordisH2020/resource/participant_998350967>
+	<http://www.grid.ac/institutes/grid.419725.c>
+	<http://www.grid.ac/institutes/grid.429561.d>
+	<http://risis.eu/leidenRanking_2015/resource/16431>
+	<http://www.grid.ac/institutes/grid.419299.e>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.419725.c................. http://www.grid.ac/institutes/grid.419299.e................. 1........................................................... [National Centre for Research] was compared to [National Research Centre] 
+	http://www.grid.ac/institutes/grid.419299.e................. http://www.grid.ac/institutes/grid.419725.c................. 1........................................................... [National Centre for Research] was compared to [National Research Centre] 
+	http://risis.eu/orgref_20170703/resource/26834311........... http://www.grid.ac/institutes/grid.419299.e................. 1........................................................... [National Centre for Research] was compared to [National Research Centre] 
+	http://www.grid.ac/institutes/grid.419299.e................. http://risis.eu/orgref_20170703/resource/26834311........... 1........................................................... [National Centre for Research] was compared to [National Research Centre] 
+	http://risis.eu/orgref_20170703/resource/26834311........... http://www.grid.ac/institutes/grid.419725.c................. 1........................................................... [National Research Centre] was compared to [National Research Centre] 
+	http://www.grid.ac/institutes/grid.419725.c................. http://risis.eu/orgref_20170703/resource/26834311........... 1........................................................... [National Research Centre] was compared to [National Research Centre] 
+	http://www.grid.ac/institutes/grid.429561.d................. http://risis.eu/leidenRanking_2015/resource/16431........... 0.958333333333.............................................. [Natinal Research Center] was compared to [National Research Center] 
+	http://risis.eu/leidenRanking_2015/resource/16431........... http://www.grid.ac/institutes/grid.429561.d................. 0.958333333333.............................................. [Natinal Research Center] was compared to [National Research Center] 
+	http://risis.eu/cordisH2020/resource/participant_998350967.. http://www.grid.ac/institutes/grid.429561.d................. 0.958333333333.............................................. [Natinal Research Center] was compared to [National Research Center] 
+	http://www.grid.ac/institutes/grid.429561.d................. http://risis.eu/cordisH2020/resource/participant_998350967.. 0.958333333333.............................................. [Natinal Research Center] was compared to [National Research Center] 
+	http://risis.eu/cordisH2020/resource/participant_998350967.. http://risis.eu/leidenRanking_2015/resource/16431........... 1........................................................... [National Research Center] was compared to [National Research Center] 
+	http://risis.eu/leidenRanking_2015/resource/16431........... http://risis.eu/cordisH2020/resource/participant_998350967.. 1........................................................... [National Research Center] was compared to [National Research Center] 
+	http://risis.eu/orgref_20170703/resource/26834311........... http://risis.eu/cordisH2020/resource/participant_998350967.. 0.916666666667.............................................. [National Research Centre] was compared to [National Research Center] 
+	http://risis.eu/cordisH2020/resource/participant_998350967.. http://risis.eu/orgref_20170703/resource/26834311........... 0.916666666667.............................................. [National Research Centre] was compared to [National Research Center] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/26834311........... http://en.wikipedia.org/wiki?curid=26834311................. 
+	http://risis.eu/orgref_20170703/resource/26834311........... http://www.wikidata.org/wiki/Q6978045....................... 
+	http://risis.eu/orgref_20170703/resource/26834311........... http://www.nrc.sci.eg....................................... 
+	http://risis.eu/orgref_20170703/resource/26834311........... National Research Centre.................................... 
+	http://risis.eu/cordisH2020/resource/participant_998350967.. http://risis.eu/cordisH2020/resource/www.nrc.sci.eg......... 
+	http://risis.eu/cordisH2020/resource/participant_998350967.. National Research Center.................................... 
+	http://www.grid.ac/institutes/grid.419725.c................. 31.205029................................................... 
+	http://www.grid.ac/institutes/grid.419725.c................. 30.035873................................................... 
+	http://www.grid.ac/institutes/grid.419725.c................. http://www.nrc.sci.eg/nrc/#.VdrDXrKqqko..................... 
+	http://www.grid.ac/institutes/grid.419725.c................. National Research Centre.................................... 
+	http://www.grid.ac/institutes/grid.429561.d................. Natinal Research Center..................................... 
+	http://risis.eu/leidenRanking_2015/resource/16431........... National Research Center.................................... 
+	http://www.grid.ac/institutes/grid.419299.e................. 32.547176................................................... 
+	http://www.grid.ac/institutes/grid.419299.e................. 15.508779................................................... 
+	http://www.grid.ac/institutes/grid.419299.e................. http://ncr.gov.sd/en/index.php.............................. 
+	http://www.grid.ac/institutes/grid.419299.e................. National Centre for Research................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:26834311', '6:grid.419299.e'), ('2:participant_998350967', '1:26834311'), ('2:participant_998350967', '4:grid.429561.d'), ('3:grid.419725.c', '1:26834311'), ('5:16431', '2:participant_998350967'), ('5:16431', '4:grid.429561.d'), ('6:grid.419299.e', '3:grid.419725.c')]
+	MAX DISTANCE:                   : 0.467
+	MAXIMUM POSSIBLE CONNECTIVITY   : 5
+	AVERAGE NODE CONNECTIVITY       : 1.4
+	AVERAGE NODE CONNECTIVITY RATIO : 0.28
+	BRIDGES                         : 1
+	CLOSURE                         : 0.467
+	DIAMETER                        : 3
+	QUALITY                         : 0.41
+	QUALITY USED                    : 0.49
+	SUMMARY 1: BRIDGE 0.2 CLOSURE 0.53 DIAMETER 0.5 QUALITY 0.41 QUALITY USED 0.49
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.53 DIAMETER 0.556 QUALITY 0.41 QUALITY USED 0.49

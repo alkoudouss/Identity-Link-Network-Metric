@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 2567 
+NAME    P1040317393
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/4906818>
+	<http://risis.eu/leidenRanking_2015/resource/444>
+	<http://risis.eu/orgreg_20170718/resource/IT0069>
+	<http://www.grid.ac/institutes/grid.412756.3>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/4906818.. http://www.grid.ac/institutes/grid.412756.3....... 1................................................. [Foro Italico University of Rome] was compared to [Foro Italico University of Rome] 
+	http://www.grid.ac/institutes/grid.412756.3....... http://risis.eu/orgref_20170703/resource/4906818.. 1................................................. [Foro Italico University of Rome] was compared to [Foro Italico University of Rome] 
+	http://risis.eu/leidenRanking_2015/resource/444... http://www.grid.ac/institutes/grid.412756.3....... 1................................................. [Foro Italico University of Rome] was compared to [Foro Italico University of Rome] 
+	http://www.grid.ac/institutes/grid.412756.3....... http://risis.eu/leidenRanking_2015/resource/444... 1................................................. [Foro Italico University of Rome] was compared to [Foro Italico University of Rome] 
+	http://risis.eu/orgref_20170703/resource/4906818.. http://risis.eu/leidenRanking_2015/resource/444... 1................................................. [Foro Italico University of Rome] was compared to [Foro Italico University of Rome] 
+	http://risis.eu/leidenRanking_2015/resource/444... http://risis.eu/orgref_20170703/resource/4906818.. 1................................................. [Foro Italico University of Rome] was compared to [Foro Italico University of Rome] 
+	http://risis.eu/leidenRanking_2015/resource/444... http://risis.eu/orgreg_20170718/resource/IT0069... 1................................................. [University of Rome Foro Italico] was compared to [Foro Italico University of Rome] 
+	http://risis.eu/orgreg_20170718/resource/IT0069... http://risis.eu/leidenRanking_2015/resource/444... 1................................................. [University of Rome Foro Italico] was compared to [Foro Italico University of Rome] 
+	http://risis.eu/orgref_20170703/resource/4906818.. http://risis.eu/orgreg_20170718/resource/IT0069... 1................................................. [Foro Italico University of Rome] was compared to [University of Rome Foro Italico] 
+	http://risis.eu/orgreg_20170718/resource/IT0069... http://risis.eu/orgref_20170703/resource/4906818.. 1................................................. [Foro Italico University of Rome] was compared to [University of Rome Foro Italico] 
+	http://risis.eu/orgreg_20170718/resource/IT0069... http://www.grid.ac/institutes/grid.412756.3....... 1................................................. [Foro Italico University of Rome] was compared to [University of Rome Foro Italico] 
+	http://www.grid.ac/institutes/grid.412756.3....... http://risis.eu/orgreg_20170718/resource/IT0069... 1................................................. [Foro Italico University of Rome] was compared to [University of Rome Foro Italico] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/4906818.. http://en.wikipedia.org/wiki?curid=4906818........ 
+	http://risis.eu/orgref_20170703/resource/4906818.. http://www.wikidata.org/wiki/Q3152661............. 
+	http://risis.eu/orgref_20170703/resource/4906818.. http://www.uniroma4.it............................ 
+	http://risis.eu/orgref_20170703/resource/4906818.. Foro Italico University of Rome................... 
+	http://risis.eu/leidenRanking_2015/resource/444... Foro Italico University of Rome................... 
+	http://risis.eu/orgreg_20170718/resource/IT0069... 41.836623......................................... 
+	http://risis.eu/orgreg_20170718/resource/IT0069... 12.658968......................................... 
+	http://risis.eu/orgreg_20170718/resource/IT0069... http://www.uniroma4.it............................ 
+	http://risis.eu/orgreg_20170718/resource/IT0069... University of Rome Foro Italico................... 
+	http://www.grid.ac/institutes/grid.412756.3....... 12.4576........................................... 
+	http://www.grid.ac/institutes/grid.412756.3....... 41.9315........................................... 
+	http://www.grid.ac/institutes/grid.412756.3....... http://www.uniroma4.it/........................... 
+	http://www.grid.ac/institutes/grid.412756.3....... University Institute of Motor Sciences............ 
+	http://www.grid.ac/institutes/grid.412756.3....... Foro Italico University of Rome................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:444', '1:4906818'), ('2:444', '4:grid.412756.3'), ('3:IT0069', '1:4906818'), ('3:IT0069', '2:444'), ('3:IT0069', '4:grid.412756.3'), ('4:grid.412756.3', '1:4906818')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

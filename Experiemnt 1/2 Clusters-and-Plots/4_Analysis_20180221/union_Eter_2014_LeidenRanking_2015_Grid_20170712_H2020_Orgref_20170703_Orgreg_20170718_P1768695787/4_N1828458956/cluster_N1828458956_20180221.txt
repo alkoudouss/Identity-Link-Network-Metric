@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 1563 
+NAME    N1828458956
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/12644551>
+	<http://risis.eu/orgref_20170703/resource/16336994>
+	<http://risis.eu/orgref_20170703/resource/12118855>
+	<http://risis.eu/orgref_20170703/resource/18097529>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/12644551.. http://risis.eu/orgref_20170703/resource/12118855.. 0.925.............................................. [Florida State University College of Nursing] was compared to [University of South Florida College of Nursing] 
+	http://risis.eu/orgref_20170703/resource/12118855.. http://risis.eu/orgref_20170703/resource/12644551.. 0.925.............................................. [Florida State University College of Nursing] was compared to [University of South Florida College of Nursing] 
+	http://risis.eu/orgref_20170703/resource/16336994.. http://risis.eu/orgref_20170703/resource/12118855.. 0.85............................................... [Florida State University College of Nursing] was compared to [University of Florida College of Nursing] 
+	http://risis.eu/orgref_20170703/resource/12118855.. http://risis.eu/orgref_20170703/resource/16336994.. 0.85............................................... [Florida State University College of Nursing] was compared to [University of Florida College of Nursing] 
+	http://risis.eu/orgref_20170703/resource/12118855.. http://risis.eu/orgref_20170703/resource/18097529.. 0.857142857143..................................... [Florida State University College of Nursing] was compared to [University of Central Florida College of Nursing] 
+	http://risis.eu/orgref_20170703/resource/18097529.. http://risis.eu/orgref_20170703/resource/12118855.. 0.857142857143..................................... [Florida State University College of Nursing] was compared to [University of Central Florida College of Nursing] 
+	http://risis.eu/orgref_20170703/resource/16336994.. http://risis.eu/orgref_20170703/resource/18097529.. 0.809523809524..................................... [University of Florida College of Nursing] was compared to [University of Central Florida College of Nursing] 
+	http://risis.eu/orgref_20170703/resource/18097529.. http://risis.eu/orgref_20170703/resource/16336994.. 0.809523809524..................................... [University of Florida College of Nursing] was compared to [University of Central Florida College of Nursing] 
+	http://risis.eu/orgref_20170703/resource/12644551.. http://risis.eu/orgref_20170703/resource/16336994.. 0.85............................................... [University of South Florida College of Nursing] was compared to [University of Florida College of Nursing] 
+	http://risis.eu/orgref_20170703/resource/16336994.. http://risis.eu/orgref_20170703/resource/12644551.. 0.85............................................... [University of South Florida College of Nursing] was compared to [University of Florida College of Nursing] 
+	http://risis.eu/orgref_20170703/resource/12644551.. http://risis.eu/orgref_20170703/resource/18097529.. 0.857142857143..................................... [University of South Florida College of Nursing] was compared to [University of Central Florida College of Nursing] 
+	http://risis.eu/orgref_20170703/resource/18097529.. http://risis.eu/orgref_20170703/resource/12644551.. 0.857142857143..................................... [University of South Florida College of Nursing] was compared to [University of Central Florida College of Nursing] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/12644551.. http://en.wikipedia.org/wiki?curid=12644551........ 
+	http://risis.eu/orgref_20170703/resource/12644551.. http://www.wikidata.org/wiki/Q7896332.............. 
+	http://risis.eu/orgref_20170703/resource/12644551.. http://health.usf.edu/nursing...................... 
+	http://risis.eu/orgref_20170703/resource/12644551.. University of South Florida College of Nursing..... 
+	http://risis.eu/orgref_20170703/resource/16336994.. http://en.wikipedia.org/wiki?curid=16336994........ 
+	http://risis.eu/orgref_20170703/resource/16336994.. http://www.wikidata.org/wiki/Q16975042............. 
+	http://risis.eu/orgref_20170703/resource/16336994.. http://www.nursing.ufl.edu......................... 
+	http://risis.eu/orgref_20170703/resource/16336994.. University of Florida College of Nursing........... 
+	http://risis.eu/orgref_20170703/resource/12118855.. http://en.wikipedia.org/wiki?curid=12118855........ 
+	http://risis.eu/orgref_20170703/resource/12118855.. http://www.wikidata.org/wiki/Q5461643.............. 
+	http://risis.eu/orgref_20170703/resource/12118855.. http://www.nursing.fsu.edu......................... 
+	http://risis.eu/orgref_20170703/resource/12118855.. Florida State University College of Nursing........ 
+	http://risis.eu/orgref_20170703/resource/18097529.. http://en.wikipedia.org/wiki?curid=18097529........ 
+	http://risis.eu/orgref_20170703/resource/18097529.. http://www.wikidata.org/wiki/Q7895239.............. 
+	http://risis.eu/orgref_20170703/resource/18097529.. http://www.nursing.ucf.edu......................... 
+	http://risis.eu/orgref_20170703/resource/18097529.. University of Central Florida College of Nursing... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:12644551', '3:12118855'), ('2:16336994', '1:12644551'), ('2:16336994', '3:12118855'), ('4:18097529', '1:12644551'), ('4:18097529', '2:16336994'), ('4:18097529', '3:12118855')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

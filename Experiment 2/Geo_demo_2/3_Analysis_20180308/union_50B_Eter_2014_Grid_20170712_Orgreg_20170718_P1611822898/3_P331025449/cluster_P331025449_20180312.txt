@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 627 
+NAME    P331025449
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/PT0056>
+	<http://risis.eu/eter_2014/resource/PT0056>
+	<http://risis.eu/orgreg_20170718/resource/PT0095>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/PT0056.. http://risis.eu/eter_2014/resource/PT0056........ 1................................................ Near each other by at most 50 meter(s)........... 
+	http://risis.eu/eter_2014/resource/PT0056........ http://risis.eu/orgreg_20170718/resource/PT0056.. 1................................................ Near each other by at most 50 meter(s)........... 
+	http://risis.eu/eter_2014/resource/PT0056........ http://risis.eu/orgreg_20170718/resource/PT0095.. 1................................................ Near each other by at most 50 meter(s)........... 
+	http://risis.eu/orgreg_20170718/resource/PT0095.. http://risis.eu/eter_2014/resource/PT0056........ 1................................................ Near each other by at most 50 meter(s)........... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/PT0056.. -9.155302........................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0056.. 38.67962......................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0056.. http://www.ipiaget.org........................... 
+	http://risis.eu/orgreg_20170718/resource/PT0056.. Higher Institute of Intercultural and Transdisciplinary Studies of Almada 
+	http://risis.eu/eter_2014/resource/PT0056........ 38,67962......................................... 
+	http://risis.eu/eter_2014/resource/PT0056........ -9,155302........................................ 
+	http://risis.eu/eter_2014/resource/PT0056........ http://www.ipiaget.org........................... 
+	http://risis.eu/eter_2014/resource/PT0056........ a................................................ 
+	http://risis.eu/eter_2014/resource/PT0056........ Higher Institute of Intercultural and Transdisciplinary Studies of Almada 
+	http://risis.eu/eter_2014/resource/PT0056........ Instituto Superior de Estudos Interculturais e Transdisciplinares - Almada 
+	http://risis.eu/orgreg_20170718/resource/PT0095.. -9.155302........................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0095.. 38.67962......................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0095.. http://www.ipiaget.org........................... 
+	http://risis.eu/orgreg_20170718/resource/PT0095.. Jean Piaget School of Education - Almada......... 
+
+NETWORK ANALYSIS
+	NETWORK [('P331025449-PT0056', 'P1464159392-PT0056'), ('P331025449-PT0056', 'P1326534281-PT0095')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

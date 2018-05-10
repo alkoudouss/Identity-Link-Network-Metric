@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 18317 
+NAME    N2008067780
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.417068.c>
+	<http://risis.eu/orgref_20170703/resource/3429133>
+	<http://www.grid.ac/institutes/grid.417077.2>
+	<http://risis.eu/orgref_20170703/resource/4569149>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.417068.c....... http://risis.eu/orgref_20170703/resource/3429133.. 1................................................. [Western General Hospital] was compared to [Western General Hospital] 
+	http://risis.eu/orgref_20170703/resource/3429133.. http://www.grid.ac/institutes/grid.417068.c....... 1................................................. [Western General Hospital] was compared to [Western General Hospital] 
+	http://www.grid.ac/institutes/grid.417077.2....... http://risis.eu/orgref_20170703/resource/4569149.. 1................................................. [Weston General Hospital] was compared to [Weston General Hospital] 
+	http://risis.eu/orgref_20170703/resource/4569149.. http://www.grid.ac/institutes/grid.417077.2....... 1................................................. [Weston General Hospital] was compared to [Weston General Hospital] 
+	http://risis.eu/orgref_20170703/resource/3429133.. http://risis.eu/orgref_20170703/resource/4569149.. 0.916666666667.................................... [Western General Hospital] was compared to [Weston General Hospital] 
+	http://risis.eu/orgref_20170703/resource/4569149.. http://risis.eu/orgref_20170703/resource/3429133.. 0.916666666667.................................... [Western General Hospital] was compared to [Weston General Hospital] 
+	http://www.grid.ac/institutes/grid.417068.c....... http://www.grid.ac/institutes/grid.417077.2....... 0.916666666667.................................... [Western General Hospital] was compared to [Weston General Hospital] 
+	http://www.grid.ac/institutes/grid.417077.2....... http://www.grid.ac/institutes/grid.417068.c....... 0.916666666667.................................... [Western General Hospital] was compared to [Weston General Hospital] 
+	http://www.grid.ac/institutes/grid.417068.c....... http://risis.eu/orgref_20170703/resource/4569149.. 0.916666666667.................................... [Western General Hospital] was compared to [Weston General Hospital] 
+	http://risis.eu/orgref_20170703/resource/4569149.. http://www.grid.ac/institutes/grid.417068.c....... 0.916666666667.................................... [Western General Hospital] was compared to [Weston General Hospital] 
+	http://risis.eu/orgref_20170703/resource/3429133.. http://www.grid.ac/institutes/grid.417077.2....... 0.916666666667.................................... [Weston General Hospital] was compared to [Western General Hospital] 
+	http://www.grid.ac/institutes/grid.417077.2....... http://risis.eu/orgref_20170703/resource/3429133.. 0.916666666667.................................... [Weston General Hospital] was compared to [Western General Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.417068.c....... -3.23271.......................................... 
+	http://www.grid.ac/institutes/grid.417068.c....... 55.963272......................................... 
+	http://www.grid.ac/institutes/grid.417068.c....... http://www.nhslothian.scot.nhs.uk/GoingToHospital/Locations/WGH/Pages/default.aspx 
+	http://www.grid.ac/institutes/grid.417068.c....... The Western....................................... 
+	http://www.grid.ac/institutes/grid.417068.c....... Western General Hospital.......................... 
+	http://risis.eu/orgref_20170703/resource/3429133.. http://en.wikipedia.org/wiki?curid=3429133........ 
+	http://risis.eu/orgref_20170703/resource/3429133.. http://www.wikidata.org/wiki/Q7987867............. 
+	http://risis.eu/orgref_20170703/resource/3429133.. http://www.nhslothian.scot.nhs.uk/goingtohospital/locations/pages/westerngeneralhospital.aspx 
+	http://risis.eu/orgref_20170703/resource/3429133.. Western General Hospital.......................... 
+	http://www.grid.ac/institutes/grid.417077.2....... -2.971386......................................... 
+	http://www.grid.ac/institutes/grid.417077.2....... 51.32119.......................................... 
+	http://www.grid.ac/institutes/grid.417077.2....... http://www.waht.nhs.uk/Childrens-Services/Childrens-Services1/Seashore-Centre-at-Weston-General-Hospital/ 
+	http://www.grid.ac/institutes/grid.417077.2....... Weston General Hospital........................... 
+	http://risis.eu/orgref_20170703/resource/4569149.. http://en.wikipedia.org/wiki?curid=4569149........ 
+	http://risis.eu/orgref_20170703/resource/4569149.. http://www.wikidata.org/wiki/Q7989433............. 
+	http://risis.eu/orgref_20170703/resource/4569149.. http://www.waht.nhs.uk............................ 
+	http://risis.eu/orgref_20170703/resource/4569149.. Weston General Hospital........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:3429133', '1:grid.417068.c'), ('3:grid.417077.2', '1:grid.417068.c'), ('3:grid.417077.2', '2:3429133'), ('4:4569149', '1:grid.417068.c'), ('4:4569149', '2:3429133'), ('4:4569149', '3:grid.417077.2')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

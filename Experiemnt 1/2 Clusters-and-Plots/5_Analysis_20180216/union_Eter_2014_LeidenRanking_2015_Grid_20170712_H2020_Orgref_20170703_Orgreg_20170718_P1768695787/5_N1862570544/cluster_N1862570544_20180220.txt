@@ -1,0 +1,69 @@
+SIZE    5   
+CLUSTER 8374 
+NAME    N1862570544
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.436086.f>
+	<http://risis.eu/cordisH2020/resource/participant_962800467>
+	<http://risis.eu/cordisH2020/resource/participant_999583837>
+	<http://www.grid.ac/institutes/grid.425221.2>
+	<http://www.grid.ac/institutes/grid.421109.f>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_999583837.. http://www.grid.ac/institutes/grid.421109.f................. 1........................................................... [Manchester City Council] was compared to [MANCHESTER CITY COUNCIL] 
+	http://www.grid.ac/institutes/grid.421109.f................. http://risis.eu/cordisH2020/resource/participant_999583837.. 1........................................................... [Manchester City Council] was compared to [MANCHESTER CITY COUNCIL] 
+	http://risis.eu/cordisH2020/resource/participant_962800467.. http://www.grid.ac/institutes/grid.425221.2................. 1........................................................... [Leicester City Council] was compared to [LEICESTER CITY COUNCIL] 
+	http://www.grid.ac/institutes/grid.425221.2................. http://risis.eu/cordisH2020/resource/participant_962800467.. 1........................................................... [Leicester City Council] was compared to [LEICESTER CITY COUNCIL] 
+	http://www.grid.ac/institutes/grid.436086.f................. http://www.grid.ac/institutes/grid.421109.f................. 0.869565217391.............................................. [Manchester City Council] was compared to [Lancaster City Council] 
+	http://www.grid.ac/institutes/grid.421109.f................. http://www.grid.ac/institutes/grid.436086.f................. 0.869565217391.............................................. [Manchester City Council] was compared to [Lancaster City Council] 
+	http://www.grid.ac/institutes/grid.436086.f................. http://www.grid.ac/institutes/grid.425221.2................. 0.863636363636.............................................. [Leicester City Council] was compared to [Lancaster City Council] 
+	http://www.grid.ac/institutes/grid.425221.2................. http://www.grid.ac/institutes/grid.436086.f................. 0.863636363636.............................................. [Leicester City Council] was compared to [Lancaster City Council] 
+	http://www.grid.ac/institutes/grid.436086.f................. http://risis.eu/cordisH2020/resource/participant_999583837.. 0.869565217391.............................................. [Lancaster City Council] was compared to [MANCHESTER CITY COUNCIL] 
+	http://risis.eu/cordisH2020/resource/participant_999583837.. http://www.grid.ac/institutes/grid.436086.f................. 0.869565217391.............................................. [Lancaster City Council] was compared to [MANCHESTER CITY COUNCIL] 
+	http://www.grid.ac/institutes/grid.436086.f................. http://risis.eu/cordisH2020/resource/participant_962800467.. 0.863636363636.............................................. [Lancaster City Council] was compared to [LEICESTER CITY COUNCIL] 
+	http://risis.eu/cordisH2020/resource/participant_962800467.. http://www.grid.ac/institutes/grid.436086.f................. 0.863636363636.............................................. [Lancaster City Council] was compared to [LEICESTER CITY COUNCIL] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.436086.f................. -2.797844................................................... 
+	http://www.grid.ac/institutes/grid.436086.f................. 54.047108................................................... 
+	http://www.grid.ac/institutes/grid.436086.f................. http://www.lancaster.gov.uk/................................ 
+	http://www.grid.ac/institutes/grid.436086.f................. City of Lancaster........................................... 
+	http://www.grid.ac/institutes/grid.436086.f................. Lancaster City Council...................................... 
+	http://risis.eu/cordisH2020/resource/participant_962800467.. http://risis.eu/cordisH2020/resource/www.leicester.gov.uk... 
+	http://risis.eu/cordisH2020/resource/participant_962800467.. LEICESTER CITY COUNCIL...................................... 
+	http://risis.eu/cordisH2020/resource/participant_999583837.. http://risis.eu/cordisH2020/resource/www.manchester.gov.uk.. 
+	http://risis.eu/cordisH2020/resource/participant_999583837.. MANCHESTER CITY COUNCIL..................................... 
+	http://www.grid.ac/institutes/grid.425221.2................. -1.130077................................................... 
+	http://www.grid.ac/institutes/grid.425221.2................. 52.63491.................................................... 
+	http://www.grid.ac/institutes/grid.425221.2................. http://www.leicester.gov.uk/................................ 
+	http://www.grid.ac/institutes/grid.425221.2................. Leicester City Council...................................... 
+	http://www.grid.ac/institutes/grid.421109.f................. -2.227116................................................... 
+	http://www.grid.ac/institutes/grid.421109.f................. 53.48854.................................................... 
+	http://www.grid.ac/institutes/grid.421109.f................. http://www.manchester.gov.uk/............................... 
+	http://www.grid.ac/institutes/grid.421109.f................. Manchester City Council..................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.436086.f', '4:grid.425221.2'), ('1:grid.436086.f', '5:grid.421109.f'), ('2:participant_962800467', '1:grid.436086.f'), ('3:participant_999583837', '1:grid.436086.f'), ('4:grid.425221.2', '2:participant_962800467'), ('5:grid.421109.f', '3:participant_999583837')]
+	MAX DISTANCE:                   : 0.6
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 1.6
+	AVERAGE NODE CONNECTIVITY RATIO : 0.4
+	BRIDGES                         : 0
+	CLOSURE                         : 0.6
+	DIAMETER                        : 2
+	QUALITY                         : 0.244
+	QUALITY USED                    : 0.262
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.4 DIAMETER 0.333 QUALITY 0.244 QUALITY USED 0.262
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.4 DIAMETER 0.385 QUALITY 0.244 QUALITY USED 0.262

@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 853 
+NAME    N1378881876
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/4400242>
+	<http://risis.eu/orgref_20170703/resource/56938>
+	<http://www.grid.ac/institutes/grid.438041.a>
+	<http://www.grid.ac/institutes/grid.246210.3>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.438041.a....... http://www.grid.ac/institutes/grid.246210.3....... 1................................................. [Institute of Electrical and Electronics Engineers] was compared to [Institute of Electrical and Electronics Engineers] 
+	http://www.grid.ac/institutes/grid.246210.3....... http://www.grid.ac/institutes/grid.438041.a....... 1................................................. [Institute of Electrical and Electronics Engineers] was compared to [Institute of Electrical and Electronics Engineers] 
+	http://risis.eu/orgref_20170703/resource/56938.... http://www.grid.ac/institutes/grid.246210.3....... 1................................................. [Institute of Electrical and Electronics Engineers] was compared to [Institute of Electrical and Electronics Engineers] 
+	http://www.grid.ac/institutes/grid.246210.3....... http://risis.eu/orgref_20170703/resource/56938.... 1................................................. [Institute of Electrical and Electronics Engineers] was compared to [Institute of Electrical and Electronics Engineers] 
+	http://risis.eu/orgref_20170703/resource/4400242.. http://www.grid.ac/institutes/grid.246210.3....... 0.833333333333.................................... [Institute of Electrical and Electronics Engineers] was compared to [Society of Electrical and Electronics Engineers (Tamil Nadu)] 
+	http://www.grid.ac/institutes/grid.246210.3....... http://risis.eu/orgref_20170703/resource/4400242.. 0.833333333333.................................... [Institute of Electrical and Electronics Engineers] was compared to [Society of Electrical and Electronics Engineers (Tamil Nadu)] 
+	http://risis.eu/orgref_20170703/resource/56938.... http://www.grid.ac/institutes/grid.438041.a....... 1................................................. [Institute of Electrical and Electronics Engineers] was compared to [Institute of Electrical and Electronics Engineers] 
+	http://www.grid.ac/institutes/grid.438041.a....... http://risis.eu/orgref_20170703/resource/56938.... 1................................................. [Institute of Electrical and Electronics Engineers] was compared to [Institute of Electrical and Electronics Engineers] 
+	http://risis.eu/orgref_20170703/resource/4400242.. http://www.grid.ac/institutes/grid.438041.a....... 0.833333333333.................................... [Institute of Electrical and Electronics Engineers] was compared to [Society of Electrical and Electronics Engineers (Tamil Nadu)] 
+	http://www.grid.ac/institutes/grid.438041.a....... http://risis.eu/orgref_20170703/resource/4400242.. 0.833333333333.................................... [Institute of Electrical and Electronics Engineers] was compared to [Society of Electrical and Electronics Engineers (Tamil Nadu)] 
+	http://risis.eu/orgref_20170703/resource/4400242.. http://risis.eu/orgref_20170703/resource/56938.... 0.833333333333.................................... [Society of Electrical and Electronics Engineers (Tamil Nadu)] was compared to [Institute of Electrical and Electronics Engineers] 
+	http://risis.eu/orgref_20170703/resource/56938.... http://risis.eu/orgref_20170703/resource/4400242.. 0.833333333333.................................... [Society of Electrical and Electronics Engineers (Tamil Nadu)] was compared to [Institute of Electrical and Electronics Engineers] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/4400242.. http://en.wikipedia.org/wiki?curid=4400242........ 
+	http://risis.eu/orgref_20170703/resource/4400242.. http://www.wikidata.org/wiki/Q7552461............. 
+	http://risis.eu/orgref_20170703/resource/4400242.. Society of Electrical and Electronics Engineers (Tamil Nadu) 
+	http://risis.eu/orgref_20170703/resource/56938.... http://en.wikipedia.org/wiki?curid=56938.......... 
+	http://risis.eu/orgref_20170703/resource/56938.... http://www.wikidata.org/wiki/Q131566.............. 
+	http://risis.eu/orgref_20170703/resource/56938.... https://www.ieee.org.............................. 
+	http://risis.eu/orgref_20170703/resource/56938.... Institute of Electrical and Electronics Engineers. 
+	http://www.grid.ac/institutes/grid.438041.a....... 2.328002.......................................... 
+	http://www.grid.ac/institutes/grid.438041.a....... 48.845264......................................... 
+	http://www.grid.ac/institutes/grid.438041.a....... http://www.ieee.org/.............................. 
+	http://www.grid.ac/institutes/grid.438041.a....... Institute of Electrical and Electronics Engineers. 
+	http://www.grid.ac/institutes/grid.246210.3....... -74.46977......................................... 
+	http://www.grid.ac/institutes/grid.246210.3....... 40.537567......................................... 
+	http://www.grid.ac/institutes/grid.246210.3....... https://www.ieee.org./index.html.................. 
+	http://www.grid.ac/institutes/grid.246210.3....... Institute of Electrical and Electronics Engineers. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:4400242', '3:grid.438041.a'), ('2:56938', '1:4400242'), ('2:56938', '4:grid.246210.3'), ('3:grid.438041.a', '2:56938'), ('3:grid.438041.a', '4:grid.246210.3'), ('4:grid.246210.3', '1:4400242')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

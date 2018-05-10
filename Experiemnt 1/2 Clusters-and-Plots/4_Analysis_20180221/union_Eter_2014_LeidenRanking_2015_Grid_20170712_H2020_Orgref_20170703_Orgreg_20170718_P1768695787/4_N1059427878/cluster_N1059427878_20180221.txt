@@ -1,0 +1,70 @@
+SIZE    4   
+CLUSTER 13523 
+NAME    N1059427878
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.418999.4>
+	<http://risis.eu/eter_2014/resource/IE0017>
+	<http://risis.eu/orgreg_20170718/resource/IE0017>
+	<http://risis.eu/orgref_20170703/resource/588858>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.418999.4...... http://risis.eu/orgref_20170703/resource/588858.. 1................................................ [Institute of Technology Tallaght] was compared to [Institute of Technology, Tallaght] 
+	http://risis.eu/orgref_20170703/resource/588858.. http://www.grid.ac/institutes/grid.418999.4...... 1................................................ [Institute of Technology Tallaght] was compared to [Institute of Technology, Tallaght] 
+	http://www.grid.ac/institutes/grid.418999.4...... http://risis.eu/eter_2014/resource/IE0017........ 1................................................ [Institute of Technology Tallaght] was compared to [Institute of Technology, Tallaght] 
+	http://risis.eu/eter_2014/resource/IE0017........ http://www.grid.ac/institutes/grid.418999.4...... 1................................................ [Institute of Technology Tallaght] was compared to [Institute of Technology, Tallaght] 
+	http://risis.eu/eter_2014/resource/IE0017........ http://risis.eu/orgref_20170703/resource/588858.. 1................................................ [Institute of Technology, Tallaght] was compared to [Institute of Technology, Tallaght] 
+	http://risis.eu/orgref_20170703/resource/588858.. http://risis.eu/eter_2014/resource/IE0017........ 1................................................ [Institute of Technology, Tallaght] was compared to [Institute of Technology, Tallaght] 
+	http://risis.eu/eter_2014/resource/IE0017........ http://risis.eu/orgreg_20170718/resource/IE0017.. 0.966666666667................................... [Institute of Technology	 Tallaght] was compared to [Institute of Technology, Tallaght] 
+	http://risis.eu/orgreg_20170718/resource/IE0017.. http://risis.eu/eter_2014/resource/IE0017........ 0.966666666667................................... [Institute of Technology	 Tallaght] was compared to [Institute of Technology, Tallaght] 
+	http://risis.eu/orgreg_20170718/resource/IE0017.. http://risis.eu/orgref_20170703/resource/588858.. 0.966666666667................................... [Institute of Technology, Tallaght] was compared to [Institute of Technology	 Tallaght] 
+	http://risis.eu/orgref_20170703/resource/588858.. http://risis.eu/orgreg_20170718/resource/IE0017.. 0.966666666667................................... [Institute of Technology, Tallaght] was compared to [Institute of Technology	 Tallaght] 
+	http://www.grid.ac/institutes/grid.418999.4...... http://risis.eu/orgreg_20170718/resource/IE0017.. 0.966666666667................................... [Institute of Technology Tallaght] was compared to [Institute of Technology	 Tallaght] 
+	http://risis.eu/orgreg_20170718/resource/IE0017.. http://www.grid.ac/institutes/grid.418999.4...... 0.966666666667................................... [Institute of Technology Tallaght] was compared to [Institute of Technology	 Tallaght] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 19 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.418999.4...... -6.363564........................................ 
+	http://www.grid.ac/institutes/grid.418999.4...... 53.290524........................................ 
+	http://www.grid.ac/institutes/grid.418999.4...... http://www.it-tallaght.ie/....................... 
+	http://www.grid.ac/institutes/grid.418999.4...... Regional Technical College....................... 
+	http://www.grid.ac/institutes/grid.418999.4...... ITT Dublin....................................... 
+	http://www.grid.ac/institutes/grid.418999.4...... Institute of Technology Tallaght................. 
+	http://risis.eu/eter_2014/resource/IE0017........ 53,3498053....................................... 
+	http://risis.eu/eter_2014/resource/IE0017........ -6,2603097....................................... 
+	http://risis.eu/eter_2014/resource/IE0017........ http://www.it-tallaght.ie/....................... 
+	http://risis.eu/eter_2014/resource/IE0017........ a................................................ 
+	http://risis.eu/eter_2014/resource/IE0017........ Institute of Technology, Tallaght................ 
+	http://risis.eu/orgreg_20170718/resource/IE0017.. -6.2603097....................................... 
+	http://risis.eu/orgreg_20170718/resource/IE0017.. 53.3498053....................................... 
+	http://risis.eu/orgreg_20170718/resource/IE0017.. http://www.it-tallaght.ie/....................... 
+	http://risis.eu/orgreg_20170718/resource/IE0017.. Institute of Technology	 Tallaght................ 
+	http://risis.eu/orgref_20170703/resource/588858.. http://en.wikipedia.org/wiki?curid=588858........ 
+	http://risis.eu/orgref_20170703/resource/588858.. http://www.wikidata.org/wiki/Q6040919............ 
+	http://risis.eu/orgref_20170703/resource/588858.. http://www.it-tallaght.ie........................ 
+	http://risis.eu/orgref_20170703/resource/588858.. Institute of Technology, Tallaght................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:IE0017', '1:grid.418999.4'), ('2:IE0017', '3:IE0017'), ('3:IE0017', '1:grid.418999.4'), ('3:IE0017', '4:588858'), ('4:588858', '1:grid.418999.4'), ('4:588858', '2:IE0017')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

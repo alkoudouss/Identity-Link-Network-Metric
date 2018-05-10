@@ -1,0 +1,55 @@
+SIZE    4   
+CLUSTER 15332 
+NAME    N324403008
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.436625.0>
+	<http://www.grid.ac/institutes/grid.455056.7>
+	<http://www.grid.ac/institutes/grid.455030.7>
+	<http://www.grid.ac/institutes/grid.436351.6>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.436625.0.. http://www.grid.ac/institutes/grid.436351.6.. 0.888888888889............................... [MOL Group (Hungary)] was compared to [MSL Group (Spain)] 
+	http://www.grid.ac/institutes/grid.436351.6.. http://www.grid.ac/institutes/grid.436625.0.. 0.888888888889............................... [MOL Group (Hungary)] was compared to [MSL Group (Spain)] 
+	http://www.grid.ac/institutes/grid.436625.0.. http://www.grid.ac/institutes/grid.455056.7.. 0.888888888889............................... [MSL Group (Spain)] was compared to [Msm Group (Slovakia)] 
+	http://www.grid.ac/institutes/grid.455056.7.. http://www.grid.ac/institutes/grid.436625.0.. 0.888888888889............................... [MSL Group (Spain)] was compared to [Msm Group (Slovakia)] 
+	http://www.grid.ac/institutes/grid.455056.7.. http://www.grid.ac/institutes/grid.455030.7.. 0.888888888889............................... [MBM Group (Slovakia)] was compared to [Msm Group (Slovakia)] 
+	http://www.grid.ac/institutes/grid.455030.7.. http://www.grid.ac/institutes/grid.455056.7.. 0.888888888889............................... [MBM Group (Slovakia)] was compared to [Msm Group (Slovakia)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.436625.0.. MSL Group (Spain)............................ 
+	http://www.grid.ac/institutes/grid.455056.7.. 18.919971.................................... 
+	http://www.grid.ac/institutes/grid.455056.7.. 49.07148..................................... 
+	http://www.grid.ac/institutes/grid.455056.7.. http://www.msm.sk/en/........................ 
+	http://www.grid.ac/institutes/grid.455056.7.. Msm Group (Slovakia)......................... 
+	http://www.grid.ac/institutes/grid.455030.7.. 19.479643.................................... 
+	http://www.grid.ac/institutes/grid.455030.7.. 49.405003.................................... 
+	http://www.grid.ac/institutes/grid.455030.7.. http://www.mbmgroup.sk/...................... 
+	http://www.grid.ac/institutes/grid.455030.7.. MBM Group (Slovakia)......................... 
+	http://www.grid.ac/institutes/grid.436351.6.. MOL Group (Hungary).......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.455056.7', '1:grid.436625.0'), ('3:grid.455030.7', '2:grid.455056.7'), ('4:grid.436351.6', '1:grid.436625.0')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

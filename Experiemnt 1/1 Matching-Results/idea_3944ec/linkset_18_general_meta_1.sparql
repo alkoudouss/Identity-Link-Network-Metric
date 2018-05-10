@@ -1,0 +1,31 @@
+INSERT DATA 
+{
+	<http://risis.eu/linkset/grid_20170712_eter_2014_approxStrSim_Organization_label_N1891646655> a <http://rdfs.org/ns/void#Linkset> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "grid_20170712_eter_2014_approxStrSim_Organization_label_N1891646655" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "Linking <http://risis.eu/dataset/grid_20170712> to <http://risis.eu/dataset/eter_2014> based on their approximate string similarity using the mechanism: approxStrSim" ;
+		<http://rdfs.org/ns/void#triples> 1058 ;
+		<http://risis.eu/alignment/predicate/sameAsCount> 39 ;
+		<http://risis.eu/alignment/predicate/alignsMechanism> <http://risis.eu/mechanism/approxStrSim> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/grid_20170712> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/eter_2014> ;
+		<http://rdfs.org/ns/void#linkPredicate> <http://risis.eu/alignment/predicate/exactStrSim39> .
+	
+	<http://risis.eu/alignment/predicate/exactStrSim39> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://risis.eu/linkset/predicate/approxStrSim> ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "The predicate <http://risis.eu/alignment/predicate/exactStrSim39> used in this linkset is a property that reflects an entity linking approach based on the <http://risis.eu/mechanism/approxStrSim> mechanism." ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "Approximate String Similarity 39" .
+	
+	<http://risis.eu/linkset/grid_20170712_eter_2014_approxStrSim_Organization_label_N1891646655> <http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/eter_2014/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/grid_20170712_eter_2014_approxStrSim_Organization_label_N1891646655> ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/grid_20170712_eter_2014_approxStrSim_Organization_label_N1891646655> .
+	
+	<http://risis.eu/method/grid_20170712_eter_2014_approxStrSim_Organization_label_N1891646655> <http://risis.eu/alignment/predicate/sparql> "The generated triple file was uploaded to the server." .
+	
+	<http://risis.eu/linkset/grid_20170712_eter_2014_approxStrSim_Organization_label_N1891646655> <http://vocabularies.bridgedb.org/ops#linksetJustification> <http://risis.eu/justification/grid_20170712_eter_2014_approxStrSim_Organization_label_N1891646655> .
+	
+	<http://risis.eu/justification/grid_20170712_eter_2014_approxStrSim_Organization_label_N1891646655> <http://www.w3.org/2000/01/rdf-schema#comment> "This includes entities with a string similarity in the interval [0.8 1[." .
+	
+	<http://risis.eu/linkset/grid_20170712_eter_2014_approxStrSim_Organization_label_N1891646655> <http://risis.eu/alignment/predicate/threshold> 0.8 ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> <http://www.w3.org/2000/01/rdf-schema#label> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> <http://risis.eu/eter_2014/ontology/predicate/Institution_Name> .
+}

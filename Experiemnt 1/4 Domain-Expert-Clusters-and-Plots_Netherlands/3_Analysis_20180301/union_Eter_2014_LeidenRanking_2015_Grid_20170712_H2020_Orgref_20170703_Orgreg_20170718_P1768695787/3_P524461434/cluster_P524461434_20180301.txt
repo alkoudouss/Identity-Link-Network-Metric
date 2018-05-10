@@ -1,0 +1,52 @@
+SIZE    3   
+CLUSTER 12962 
+NAME    P524461434
+
+RESOURCES INVOLVED
+	<http://risis.eu/cordisH2020/resource/participant_999473936>
+	<http://risis.eu/orgreg_20170718/resource/NL1024>
+	<http://www.grid.ac/institutes/grid.419315.b>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_999473936.. http://risis.eu/orgreg_20170718/resource/NL1024............. 0.909090909091.............................................. [Roessingh Research and Development] was compared to [ROESSINGH RESEARCH AND DEVELOPMENT BV] 
+	http://risis.eu/orgreg_20170718/resource/NL1024............. http://risis.eu/cordisH2020/resource/participant_999473936.. 0.909090909091.............................................. [Roessingh Research and Development] was compared to [ROESSINGH RESEARCH AND DEVELOPMENT BV] 
+	http://risis.eu/orgreg_20170718/resource/NL1024............. http://www.grid.ac/institutes/grid.419315.b................. 1........................................................... [Roessingh Research and Development] was compared to [Roessingh Research and Development] 
+	http://www.grid.ac/institutes/grid.419315.b................. http://risis.eu/orgreg_20170718/resource/NL1024............. 1........................................................... [Roessingh Research and Development] was compared to [Roessingh Research and Development] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_999473936.. http://risis.eu/cordisH2020/resource/www.rrd.nl............. 
+	http://risis.eu/cordisH2020/resource/participant_999473936.. ROESSINGH RESEARCH AND DEVELOPMENT BV....................... 
+	http://risis.eu/orgreg_20170718/resource/NL1024............. 6........................................................... 
+	http://risis.eu/orgreg_20170718/resource/NL1024............. 52.......................................................... 
+	http://risis.eu/orgreg_20170718/resource/NL1024............. http://www.rrd.nl/.......................................... 
+	http://risis.eu/orgreg_20170718/resource/NL1024............. Roessingh Research and Development.......................... 
+	http://www.grid.ac/institutes/grid.419315.b................. 6.878625.................................................... 
+	http://www.grid.ac/institutes/grid.419315.b................. 52.231922................................................... 
+	http://www.grid.ac/institutes/grid.419315.b................. http://www.rrd.nl/en/....................................... 
+	http://www.grid.ac/institutes/grid.419315.b................. Roessingh Research and Development.......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('P524461434-NL1024', 'P1372776483-grid.419315.b'), ('P1520869720-participant_999473936', 'P524461434-NL1024')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

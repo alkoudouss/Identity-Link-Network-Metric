@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 12050 
+NAME    N209959009
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/45388315>
+	<http://risis.eu/orgreg_20170718/resource/FI1009>
+	<http://www.grid.ac/institutes/grid.6975.d>
+	<http://risis.eu/leidenRanking_2015/resource/7514>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/45388315.. http://www.grid.ac/institutes/grid.6975.d.......... 1.................................................. [Finnish Institute of Occupational Health] was compared to [Finnish Institute of Occupational Health] 
+	http://www.grid.ac/institutes/grid.6975.d.......... http://risis.eu/orgref_20170703/resource/45388315.. 1.................................................. [Finnish Institute of Occupational Health] was compared to [Finnish Institute of Occupational Health] 
+	http://www.grid.ac/institutes/grid.6975.d.......... http://risis.eu/leidenRanking_2015/resource/7514... 1.................................................. [Finnish Institute of Occupational Health] was compared to [Finnish Institute of Occupational Health] 
+	http://risis.eu/leidenRanking_2015/resource/7514... http://www.grid.ac/institutes/grid.6975.d.......... 1.................................................. [Finnish Institute of Occupational Health] was compared to [Finnish Institute of Occupational Health] 
+	http://risis.eu/orgref_20170703/resource/45388315.. http://risis.eu/leidenRanking_2015/resource/7514... 1.................................................. [Finnish Institute of Occupational Health] was compared to [Finnish Institute of Occupational Health] 
+	http://risis.eu/leidenRanking_2015/resource/7514... http://risis.eu/orgref_20170703/resource/45388315.. 1.................................................. [Finnish Institute of Occupational Health] was compared to [Finnish Institute of Occupational Health] 
+	http://risis.eu/orgreg_20170718/resource/FI1009.... http://risis.eu/leidenRanking_2015/resource/7514... 1.................................................. [Finnish Institute of Occupational Health] was compared to [Finnish Institute of Occupational Health] 
+	http://risis.eu/leidenRanking_2015/resource/7514... http://risis.eu/orgreg_20170718/resource/FI1009.... 1.................................................. [Finnish Institute of Occupational Health] was compared to [Finnish Institute of Occupational Health] 
+	http://risis.eu/orgref_20170703/resource/45388315.. http://risis.eu/orgreg_20170718/resource/FI1009.... 1.................................................. [Finnish Institute of Occupational Health] was compared to [Finnish Institute of Occupational Health] 
+	http://risis.eu/orgreg_20170718/resource/FI1009.... http://risis.eu/orgref_20170703/resource/45388315.. 1.................................................. [Finnish Institute of Occupational Health] was compared to [Finnish Institute of Occupational Health] 
+	http://risis.eu/orgreg_20170718/resource/FI1009.... http://www.grid.ac/institutes/grid.6975.d.......... 1.................................................. [Finnish Institute of Occupational Health] was compared to [Finnish Institute of Occupational Health] 
+	http://www.grid.ac/institutes/grid.6975.d.......... http://risis.eu/orgreg_20170718/resource/FI1009.... 1.................................................. [Finnish Institute of Occupational Health] was compared to [Finnish Institute of Occupational Health] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/45388315.. http://en.wikipedia.org/wiki?curid=45388315........ 
+	http://risis.eu/orgref_20170703/resource/45388315.. http://www.wikidata.org/wiki/Q21015571............. 
+	http://risis.eu/orgref_20170703/resource/45388315.. Finnish Institute of Occupational Health........... 
+	http://risis.eu/orgreg_20170718/resource/FI1009.... 24.9342............................................ 
+	http://risis.eu/orgreg_20170718/resource/FI1009.... 60.1756............................................ 
+	http://risis.eu/orgreg_20170718/resource/FI1009.... http://en.ilmatieteenlaitos.fi/.................... 
+	http://risis.eu/orgreg_20170718/resource/FI1009.... Finnish Institute of Occupational Health........... 
+	http://www.grid.ac/institutes/grid.6975.d.......... 24.911928.......................................... 
+	http://www.grid.ac/institutes/grid.6975.d.......... 60.189613.......................................... 
+	http://www.grid.ac/institutes/grid.6975.d.......... http://www.ttl.fi/en/Pages/default.aspx............ 
+	http://www.grid.ac/institutes/grid.6975.d.......... Työterveyslaitos.................................. 
+	http://www.grid.ac/institutes/grid.6975.d.......... Finnish Institute of Occupational Health........... 
+	http://risis.eu/leidenRanking_2015/resource/7514... Finnish Institute of Occupational Health........... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:45388315', '3:grid.6975.d'), ('2:FI1009', '1:45388315'), ('3:grid.6975.d', '2:FI1009'), ('4:7514', '1:45388315'), ('4:7514', '2:FI1009'), ('4:7514', '3:grid.6975.d')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

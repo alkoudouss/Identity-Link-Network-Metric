@@ -1,0 +1,70 @@
+SIZE    4   
+CLUSTER 736 
+NAME    N1681395980
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/ES0054>
+	<http://risis.eu/eter_2014/resource/ES0054>
+	<http://www.grid.ac/institutes/grid.448685.3>
+	<http://risis.eu/orgref_20170703/resource/28251860>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.448685.3........ http://risis.eu/orgref_20170703/resource/28251860.. 1.................................................. [Catholic University of Ávila] was compared to [Catholic University of Ávila] 
+	http://risis.eu/orgref_20170703/resource/28251860.. http://www.grid.ac/institutes/grid.448685.3........ 1.................................................. [Catholic University of Ávila] was compared to [Catholic University of Ávila] 
+	http://risis.eu/orgreg_20170718/resource/ES0054.... http://risis.eu/eter_2014/resource/ES0054.......... 0.807692307692..................................... [Catholic University of Avila] was compared to [Universidad Católica de Ávila] 
+	http://risis.eu/eter_2014/resource/ES0054.......... http://risis.eu/orgreg_20170718/resource/ES0054.... 0.807692307692..................................... [Catholic University of Avila] was compared to [Universidad Católica de Ávila] 
+	http://risis.eu/eter_2014/resource/ES0054.......... http://risis.eu/orgref_20170703/resource/28251860.. 0.807692307692..................................... [Catholic University of Ávila] was compared to [Universidad Católica de Ávila] 
+	http://risis.eu/orgref_20170703/resource/28251860.. http://risis.eu/eter_2014/resource/ES0054.......... 0.807692307692..................................... [Catholic University of Ávila] was compared to [Universidad Católica de Ávila] 
+	http://risis.eu/orgreg_20170718/resource/ES0054.... http://risis.eu/orgref_20170703/resource/28251860.. 1.................................................. [Catholic University of Ávila] was compared to [Catholic University of Avila] 
+	http://risis.eu/orgref_20170703/resource/28251860.. http://risis.eu/orgreg_20170718/resource/ES0054.... 1.................................................. [Catholic University of Ávila] was compared to [Catholic University of Avila] 
+	http://risis.eu/eter_2014/resource/ES0054.......... http://www.grid.ac/institutes/grid.448685.3........ 0.807692307692..................................... [Catholic University of Ávila] was compared to [Universidad Católica de Ávila] 
+	http://www.grid.ac/institutes/grid.448685.3........ http://risis.eu/eter_2014/resource/ES0054.......... 0.807692307692..................................... [Catholic University of Ávila] was compared to [Universidad Católica de Ávila] 
+	http://risis.eu/orgreg_20170718/resource/ES0054.... http://www.grid.ac/institutes/grid.448685.3........ 1.................................................. [Catholic University of Ávila] was compared to [Catholic University of Avila] 
+	http://www.grid.ac/institutes/grid.448685.3........ http://risis.eu/orgreg_20170718/resource/ES0054.... 1.................................................. [Catholic University of Ávila] was compared to [Catholic University of Avila] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 19 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgreg_20170718/resource/ES0054.... 40.656685.......................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0054.... -4.681209.......................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0054.... http://www.ucavila.es.............................. 
+	http://risis.eu/orgreg_20170718/resource/ES0054.... Catholic University of Avila....................... 
+	http://risis.eu/eter_2014/resource/ES0054.......... 40,656685.......................................... 
+	http://risis.eu/eter_2014/resource/ES0054.......... -4,681209.......................................... 
+	http://risis.eu/eter_2014/resource/ES0054.......... http://www.ucavila.es.............................. 
+	http://risis.eu/eter_2014/resource/ES0054.......... a.................................................. 
+	http://risis.eu/eter_2014/resource/ES0054.......... Catholic University of Avila....................... 
+	http://risis.eu/eter_2014/resource/ES0054.......... Universidad Católica de Ávila.................... 
+	http://www.grid.ac/institutes/grid.448685.3........ -4.70497........................................... 
+	http://www.grid.ac/institutes/grid.448685.3........ 40.66705........................................... 
+	http://www.grid.ac/institutes/grid.448685.3........ https://www.ucavila.es/index.php?lang=es........... 
+	http://www.grid.ac/institutes/grid.448685.3........ Saint Teresa of Jesus Catholic University.......... 
+	http://www.grid.ac/institutes/grid.448685.3........ Catholic University of Ávila...................... 
+	http://risis.eu/orgref_20170703/resource/28251860.. http://en.wikipedia.org/wiki?curid=28251860........ 
+	http://risis.eu/orgref_20170703/resource/28251860.. http://www.wikidata.org/wiki/Q176866............... 
+	http://risis.eu/orgref_20170703/resource/28251860.. http://www.ucavila.es.............................. 
+	http://risis.eu/orgref_20170703/resource/28251860.. Catholic University of Ávila...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:ES0054', '3:grid.448685.3'), ('1:ES0054', '4:28251860'), ('2:ES0054', '1:ES0054'), ('3:grid.448685.3', '2:ES0054'), ('4:28251860', '2:ES0054'), ('4:28251860', '3:grid.448685.3')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

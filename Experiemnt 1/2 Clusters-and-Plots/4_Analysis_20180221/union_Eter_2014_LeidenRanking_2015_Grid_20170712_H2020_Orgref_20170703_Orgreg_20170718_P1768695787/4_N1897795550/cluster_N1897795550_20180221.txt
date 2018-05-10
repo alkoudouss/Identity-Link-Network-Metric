@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 7172 
+NAME    N1897795550
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/27156>
+	<http://risis.eu/orgreg_20170718/resource/SE0011>
+	<http://www.grid.ac/institutes/grid.419684.6>
+	<http://risis.eu/leidenRanking_2015/resource/686>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/27156... http://www.grid.ac/institutes/grid.419684.6...... 1................................................ [Stockholm School of Economics] was compared to [Stockholm School of Economics] 
+	http://www.grid.ac/institutes/grid.419684.6...... http://risis.eu/orgref_20170703/resource/27156... 1................................................ [Stockholm School of Economics] was compared to [Stockholm School of Economics] 
+	http://www.grid.ac/institutes/grid.419684.6...... http://risis.eu/leidenRanking_2015/resource/686.. 1................................................ [Stockholm School of Economics] was compared to [Stockholm School of Economics] 
+	http://risis.eu/leidenRanking_2015/resource/686.. http://www.grid.ac/institutes/grid.419684.6...... 1................................................ [Stockholm School of Economics] was compared to [Stockholm School of Economics] 
+	http://risis.eu/orgref_20170703/resource/27156... http://risis.eu/leidenRanking_2015/resource/686.. 1................................................ [Stockholm School of Economics] was compared to [Stockholm School of Economics] 
+	http://risis.eu/leidenRanking_2015/resource/686.. http://risis.eu/orgref_20170703/resource/27156... 1................................................ [Stockholm School of Economics] was compared to [Stockholm School of Economics] 
+	http://risis.eu/orgreg_20170718/resource/SE0011.. http://risis.eu/leidenRanking_2015/resource/686.. 1................................................ [Stockholm School of Economics] was compared to [Stockholm School of Economics] 
+	http://risis.eu/leidenRanking_2015/resource/686.. http://risis.eu/orgreg_20170718/resource/SE0011.. 1................................................ [Stockholm School of Economics] was compared to [Stockholm School of Economics] 
+	http://risis.eu/orgref_20170703/resource/27156... http://risis.eu/orgreg_20170718/resource/SE0011.. 1................................................ [Stockholm School of Economics] was compared to [Stockholm School of Economics] 
+	http://risis.eu/orgreg_20170718/resource/SE0011.. http://risis.eu/orgref_20170703/resource/27156... 1................................................ [Stockholm School of Economics] was compared to [Stockholm School of Economics] 
+	http://risis.eu/orgreg_20170718/resource/SE0011.. http://www.grid.ac/institutes/grid.419684.6...... 1................................................ [Stockholm School of Economics] was compared to [Stockholm School of Economics] 
+	http://www.grid.ac/institutes/grid.419684.6...... http://risis.eu/orgreg_20170718/resource/SE0011.. 1................................................ [Stockholm School of Economics] was compared to [Stockholm School of Economics] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/27156... http://en.wikipedia.org/wiki?curid=27156......... 
+	http://risis.eu/orgref_20170703/resource/27156... http://www.wikidata.org/wiki/Q1061504............ 
+	http://risis.eu/orgref_20170703/resource/27156... http://www.hhs.se................................ 
+	http://risis.eu/orgref_20170703/resource/27156... Stockholm School of Economics.................... 
+	http://risis.eu/orgreg_20170718/resource/SE0011.. 13.322399........................................ 
+	http://risis.eu/orgreg_20170718/resource/SE0011.. 55.847451........................................ 
+	http://risis.eu/orgreg_20170718/resource/SE0011.. http://www.hhs.se/Pages/default.aspx............. 
+	http://risis.eu/orgreg_20170718/resource/SE0011.. Stockholm School of Economics.................... 
+	http://www.grid.ac/institutes/grid.419684.6...... 18.057222........................................ 
+	http://www.grid.ac/institutes/grid.419684.6...... 59.341667........................................ 
+	http://www.grid.ac/institutes/grid.419684.6...... https://www.hhs.se/.............................. 
+	http://www.grid.ac/institutes/grid.419684.6...... Handelshögskolan i Stockholm.................... 
+	http://www.grid.ac/institutes/grid.419684.6...... Stockholm School of Economics.................... 
+	http://risis.eu/leidenRanking_2015/resource/686.. Stockholm School of Economics.................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:SE0011', '1:27156'), ('2:SE0011', '3:grid.419684.6'), ('3:grid.419684.6', '1:27156'), ('4:686', '1:27156'), ('4:686', '2:SE0011'), ('4:686', '3:grid.419684.6')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 14 
+NAME    N1253835718
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.416128.8>
+	<http://risis.eu/eter_2014/resource/UK0127>
+	<http://www.grid.ac/institutes/grid.267454.6>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.416128.8.. http://risis.eu/eter_2014/resource/UK0127.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/UK0127.... http://www.grid.ac/institutes/grid.416128.8.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/UK0127.... http://www.grid.ac/institutes/grid.267454.6.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.267454.6.. http://risis.eu/eter_2014/resource/UK0127.... 1............................................ Near each other by at most 500 meter(s)...... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.416128.8.. -1.329059.................................... 
+	http://www.grid.ac/institutes/grid.416128.8.. 51.062214.................................... 
+	http://www.grid.ac/institutes/grid.416128.8.. http://www.hampshirehospitals.nhs.uk/about-us/find-us/royal-hampshire-county-hospital-(rhch).aspx 
+	http://www.grid.ac/institutes/grid.416128.8.. Winchester Hospital.......................... 
+	http://www.grid.ac/institutes/grid.416128.8.. Royal Hampshire County Hospital.............. 
+	http://risis.eu/eter_2014/resource/UK0127.... 51,060039.................................... 
+	http://risis.eu/eter_2014/resource/UK0127.... -1,32694..................................... 
+	http://risis.eu/eter_2014/resource/UK0127.... http://www.winchester.ac.uk/................. 
+	http://risis.eu/eter_2014/resource/UK0127.... a............................................ 
+	http://risis.eu/eter_2014/resource/UK0127.... The University of Winchester................. 
+	http://www.grid.ac/institutes/grid.267454.6.. -1.325418.................................... 
+	http://www.grid.ac/institutes/grid.267454.6.. 51.060337.................................... 
+	http://www.grid.ac/institutes/grid.267454.6.. http://www.winchester.ac.uk/pages/home.aspx.. 
+	http://www.grid.ac/institutes/grid.267454.6.. University of Winchester..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('N1253835718-UK0127', 'N540118208-grid.416128.8'), ('N1253835718-UK0127', 'N1046289428-grid.267454.6')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

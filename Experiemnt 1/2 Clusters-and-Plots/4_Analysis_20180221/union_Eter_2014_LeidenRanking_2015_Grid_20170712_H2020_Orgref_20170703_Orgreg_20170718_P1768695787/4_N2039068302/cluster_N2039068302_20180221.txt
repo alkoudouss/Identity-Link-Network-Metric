@@ -1,0 +1,69 @@
+SIZE    4   
+CLUSTER 15068 
+NAME    N2039068302
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.458872.4>
+	<http://www.grid.ac/institutes/grid.474404.7>
+	<http://www.grid.ac/institutes/grid.467125.3>
+	<http://www.grid.ac/institutes/grid.474771.6>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.458872.4.. http://www.grid.ac/institutes/grid.474404.7.. 1............................................ [Weatherford (Norway)] was compared to [Weatherford (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.474404.7.. http://www.grid.ac/institutes/grid.458872.4.. 1............................................ [Weatherford (Norway)] was compared to [Weatherford (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.458872.4.. http://www.grid.ac/institutes/grid.467125.3.. 1............................................ [Weatherford (Norway)] was compared to [Weatherford (United States)] 
+	http://www.grid.ac/institutes/grid.467125.3.. http://www.grid.ac/institutes/grid.458872.4.. 1............................................ [Weatherford (Norway)] was compared to [Weatherford (United States)] 
+	http://www.grid.ac/institutes/grid.458872.4.. http://www.grid.ac/institutes/grid.474771.6.. 1............................................ [Weatherford (Norway)] was compared to [Weatherford (Switzerland)] 
+	http://www.grid.ac/institutes/grid.474771.6.. http://www.grid.ac/institutes/grid.458872.4.. 1............................................ [Weatherford (Norway)] was compared to [Weatherford (Switzerland)] 
+	http://www.grid.ac/institutes/grid.474404.7.. http://www.grid.ac/institutes/grid.467125.3.. 1............................................ [Weatherford (United States)] was compared to [Weatherford (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.467125.3.. http://www.grid.ac/institutes/grid.474404.7.. 1............................................ [Weatherford (United States)] was compared to [Weatherford (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.467125.3.. http://www.grid.ac/institutes/grid.474771.6.. 1............................................ [Weatherford (United States)] was compared to [Weatherford (Switzerland)] 
+	http://www.grid.ac/institutes/grid.474771.6.. http://www.grid.ac/institutes/grid.467125.3.. 1............................................ [Weatherford (United States)] was compared to [Weatherford (Switzerland)] 
+	http://www.grid.ac/institutes/grid.474404.7.. http://www.grid.ac/institutes/grid.474771.6.. 1............................................ [Weatherford (United Kingdom)] was compared to [Weatherford (Switzerland)] 
+	http://www.grid.ac/institutes/grid.474771.6.. http://www.grid.ac/institutes/grid.474404.7.. 1............................................ [Weatherford (United Kingdom)] was compared to [Weatherford (Switzerland)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.458872.4.. 5.722197..................................... 
+	http://www.grid.ac/institutes/grid.458872.4.. 58.884212.................................... 
+	http://www.grid.ac/institutes/grid.458872.4.. http://www.weatherford.com/.................. 
+	http://www.grid.ac/institutes/grid.458872.4.. Weatherford (Norway)......................... 
+	http://www.grid.ac/institutes/grid.474404.7.. -0.154729.................................... 
+	http://www.grid.ac/institutes/grid.474404.7.. 51.51722..................................... 
+	http://www.grid.ac/institutes/grid.474404.7.. http://www.weatherford.com/en................ 
+	http://www.grid.ac/institutes/grid.474404.7.. Weatherford (United Kingdom)................. 
+	http://www.grid.ac/institutes/grid.467125.3.. -95.66883.................................... 
+	http://www.grid.ac/institutes/grid.467125.3.. 29.786106.................................... 
+	http://www.grid.ac/institutes/grid.467125.3.. http://www.weatherford.com/en................ 
+	http://www.grid.ac/institutes/grid.467125.3.. Weatherford (United States).................. 
+	http://www.grid.ac/institutes/grid.474771.6.. 6.142289..................................... 
+	http://www.grid.ac/institutes/grid.474771.6.. 46.20051..................................... 
+	http://www.grid.ac/institutes/grid.474771.6.. http://www.weatherford.com/en................ 
+	http://www.grid.ac/institutes/grid.474771.6.. Weatherford International.................... 
+	http://www.grid.ac/institutes/grid.474771.6.. Weatherford Oil Tool Company................. 
+	http://www.grid.ac/institutes/grid.474771.6.. Weatherford (Switzerland).................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.474404.7', '1:grid.458872.4'), ('2:grid.474404.7', '3:grid.467125.3'), ('3:grid.467125.3', '1:grid.458872.4'), ('4:grid.474771.6', '1:grid.458872.4'), ('4:grid.474771.6', '2:grid.474404.7'), ('4:grid.474771.6', '3:grid.467125.3')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

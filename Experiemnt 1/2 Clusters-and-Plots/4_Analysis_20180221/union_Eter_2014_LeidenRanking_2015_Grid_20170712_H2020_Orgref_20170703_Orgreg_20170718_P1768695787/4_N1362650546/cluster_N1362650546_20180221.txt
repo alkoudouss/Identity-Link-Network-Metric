@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 10311 
+NAME    N1362650546
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.462633.6>
+	<http://risis.eu/orgref_20170703/resource/25914060>
+	<http://www.grid.ac/institutes/grid.462627.3>
+	<http://risis.eu/orgref_20170703/resource/19556856>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.462627.3........ http://risis.eu/orgref_20170703/resource/19556856.. 1.................................................. [Nash Community College] was compared to [Nash Community College] 
+	http://risis.eu/orgref_20170703/resource/19556856.. http://www.grid.ac/institutes/grid.462627.3........ 1.................................................. [Nash Community College] was compared to [Nash Community College] 
+	http://www.grid.ac/institutes/grid.462633.6........ http://risis.eu/orgref_20170703/resource/25914060.. 1.................................................. [Nashua Community College] was compared to [Nashua Community College] 
+	http://risis.eu/orgref_20170703/resource/25914060.. http://www.grid.ac/institutes/grid.462633.6........ 1.................................................. [Nashua Community College] was compared to [Nashua Community College] 
+	http://risis.eu/orgref_20170703/resource/25914060.. http://risis.eu/orgref_20170703/resource/19556856.. 0.916666666667..................................... [Nash Community College] was compared to [Nashua Community College] 
+	http://risis.eu/orgref_20170703/resource/19556856.. http://risis.eu/orgref_20170703/resource/25914060.. 0.916666666667..................................... [Nash Community College] was compared to [Nashua Community College] 
+	http://www.grid.ac/institutes/grid.462633.6........ http://www.grid.ac/institutes/grid.462627.3........ 0.916666666667..................................... [Nash Community College] was compared to [Nashua Community College] 
+	http://www.grid.ac/institutes/grid.462627.3........ http://www.grid.ac/institutes/grid.462633.6........ 0.916666666667..................................... [Nash Community College] was compared to [Nashua Community College] 
+	http://risis.eu/orgref_20170703/resource/25914060.. http://www.grid.ac/institutes/grid.462627.3........ 0.916666666667..................................... [Nash Community College] was compared to [Nashua Community College] 
+	http://www.grid.ac/institutes/grid.462627.3........ http://risis.eu/orgref_20170703/resource/25914060.. 0.916666666667..................................... [Nash Community College] was compared to [Nashua Community College] 
+	http://www.grid.ac/institutes/grid.462633.6........ http://risis.eu/orgref_20170703/resource/19556856.. 0.916666666667..................................... [Nashua Community College] was compared to [Nash Community College] 
+	http://risis.eu/orgref_20170703/resource/19556856.. http://www.grid.ac/institutes/grid.462633.6........ 0.916666666667..................................... [Nashua Community College] was compared to [Nash Community College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.462633.6........ -71.52361.......................................... 
+	http://www.grid.ac/institutes/grid.462633.6........ 42.795............................................. 
+	http://www.grid.ac/institutes/grid.462633.6........ http://www.nashuacc.edu/........................... 
+	http://www.grid.ac/institutes/grid.462633.6........ Nashua Community College........................... 
+	http://risis.eu/orgref_20170703/resource/25914060.. http://en.wikipedia.org/wiki?curid=25914060........ 
+	http://risis.eu/orgref_20170703/resource/25914060.. http://www.wikidata.org/wiki/Q6966902.............. 
+	http://risis.eu/orgref_20170703/resource/25914060.. http://www.nashuacc.edu............................ 
+	http://risis.eu/orgref_20170703/resource/25914060.. Nashua Community College........................... 
+	http://www.grid.ac/institutes/grid.462627.3........ -77.8982........................................... 
+	http://www.grid.ac/institutes/grid.462627.3........ 35.9779............................................ 
+	http://www.grid.ac/institutes/grid.462627.3........ http://www.nashcc.edu/............................. 
+	http://www.grid.ac/institutes/grid.462627.3........ Nash Technical Institute........................... 
+	http://www.grid.ac/institutes/grid.462627.3........ Nash Community College............................. 
+	http://risis.eu/orgref_20170703/resource/19556856.. http://en.wikipedia.org/wiki?curid=19556856........ 
+	http://risis.eu/orgref_20170703/resource/19556856.. http://www.wikidata.org/wiki/Q6966772.............. 
+	http://risis.eu/orgref_20170703/resource/19556856.. http://www.nashcc.edu.............................. 
+	http://risis.eu/orgref_20170703/resource/19556856.. Nash Community College............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.462633.6', '3:grid.462627.3'), ('2:25914060', '1:grid.462633.6'), ('3:grid.462627.3', '2:25914060'), ('4:19556856', '1:grid.462633.6'), ('4:19556856', '2:25914060'), ('4:19556856', '3:grid.462627.3')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

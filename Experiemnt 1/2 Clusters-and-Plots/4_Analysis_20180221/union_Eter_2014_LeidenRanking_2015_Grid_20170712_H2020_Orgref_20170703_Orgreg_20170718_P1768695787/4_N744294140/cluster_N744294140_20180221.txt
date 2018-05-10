@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 17469 
+NAME    N744294140
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.411019.c>
+	<http://risis.eu/orgref_20170703/resource/791420>
+	<http://risis.eu/orgref_20170703/resource/33068459>
+	<http://www.grid.ac/institutes/grid.412623.0>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.411019.c........ http://www.grid.ac/institutes/grid.412623.0........ 1.................................................. [Washington University Medical Center] was compared to [University of Washington Medical Center] 
+	http://www.grid.ac/institutes/grid.412623.0........ http://www.grid.ac/institutes/grid.411019.c........ 1.................................................. [Washington University Medical Center] was compared to [University of Washington Medical Center] 
+	http://www.grid.ac/institutes/grid.411019.c........ http://risis.eu/orgref_20170703/resource/33068459.. 1.................................................. [Washington University Medical Center] was compared to [Washington University Medical Center] 
+	http://risis.eu/orgref_20170703/resource/33068459.. http://www.grid.ac/institutes/grid.411019.c........ 1.................................................. [Washington University Medical Center] was compared to [Washington University Medical Center] 
+	http://www.grid.ac/institutes/grid.411019.c........ http://risis.eu/orgref_20170703/resource/791420.... 1.................................................. [Washington University Medical Center] was compared to [University of Washington Medical Center] 
+	http://risis.eu/orgref_20170703/resource/791420.... http://www.grid.ac/institutes/grid.411019.c........ 1.................................................. [Washington University Medical Center] was compared to [University of Washington Medical Center] 
+	http://risis.eu/orgref_20170703/resource/33068459.. http://www.grid.ac/institutes/grid.412623.0........ 1.................................................. [University of Washington Medical Center] was compared to [Washington University Medical Center] 
+	http://www.grid.ac/institutes/grid.412623.0........ http://risis.eu/orgref_20170703/resource/33068459.. 1.................................................. [University of Washington Medical Center] was compared to [Washington University Medical Center] 
+	http://risis.eu/orgref_20170703/resource/791420.... http://www.grid.ac/institutes/grid.412623.0........ 1.................................................. [University of Washington Medical Center] was compared to [University of Washington Medical Center] 
+	http://www.grid.ac/institutes/grid.412623.0........ http://risis.eu/orgref_20170703/resource/791420.... 1.................................................. [University of Washington Medical Center] was compared to [University of Washington Medical Center] 
+	http://risis.eu/orgref_20170703/resource/791420.... http://risis.eu/orgref_20170703/resource/33068459.. 1.................................................. [Washington University Medical Center] was compared to [University of Washington Medical Center] 
+	http://risis.eu/orgref_20170703/resource/33068459.. http://risis.eu/orgref_20170703/resource/791420.... 1.................................................. [Washington University Medical Center] was compared to [University of Washington Medical Center] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.411019.c........ -90.265............................................ 
+	http://www.grid.ac/institutes/grid.411019.c........ 38.637............................................. 
+	http://www.grid.ac/institutes/grid.411019.c........ https://medicine.wustl.edu/about/medical-center/... 
+	http://www.grid.ac/institutes/grid.411019.c........ Washington University Medical Center............... 
+	http://risis.eu/orgref_20170703/resource/791420.... http://en.wikipedia.org/wiki?curid=791420.......... 
+	http://risis.eu/orgref_20170703/resource/791420.... http://www.wikidata.org/wiki/Q7896576.............. 
+	http://risis.eu/orgref_20170703/resource/791420.... http://uwmedicine.washington.edu/patient-care/locations/uwmc/pages/default.aspx 
+	http://risis.eu/orgref_20170703/resource/791420.... University of Washington Medical Center............ 
+	http://risis.eu/orgref_20170703/resource/33068459.. http://en.wikipedia.org/wiki?curid=33068459........ 
+	http://risis.eu/orgref_20170703/resource/33068459.. http://www.wikidata.org/wiki/Q7972506.............. 
+	http://risis.eu/orgref_20170703/resource/33068459.. http://wuphysicians.wustl.edu/page.aspx?pageid=33.. 
+	http://risis.eu/orgref_20170703/resource/33068459.. Washington University Medical Center............... 
+	http://www.grid.ac/institutes/grid.412623.0........ -122.30806......................................... 
+	http://www.grid.ac/institutes/grid.412623.0........ 47.65.............................................. 
+	http://www.grid.ac/institutes/grid.412623.0........ http://www.uwmedicine.org/uw-medical-center........ 
+	http://www.grid.ac/institutes/grid.412623.0........ University of Washington Medical Center............ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:791420', '1:grid.411019.c'), ('2:791420', '4:grid.412623.0'), ('3:33068459', '1:grid.411019.c'), ('3:33068459', '2:791420'), ('4:grid.412623.0', '1:grid.411019.c'), ('4:grid.412623.0', '3:33068459')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 1319 
+NAME    N1317570192
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.423155.4>
+	<http://risis.eu/orgref_20170703/resource/20367790>
+	<http://risis.eu/orgref_20170703/resource/6330370>
+	<http://www.grid.ac/institutes/grid.465646.3>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.423155.4........ http://risis.eu/orgref_20170703/resource/6330370... 1.................................................. [Bacone College] was compared to [Bacone College].. 
+	http://risis.eu/orgref_20170703/resource/6330370... http://www.grid.ac/institutes/grid.423155.4........ 1.................................................. [Bacone College] was compared to [Bacone College].. 
+	http://risis.eu/orgref_20170703/resource/20367790.. http://www.grid.ac/institutes/grid.465646.3........ 1.................................................. [Beacon College] was compared to [Beacon College].. 
+	http://www.grid.ac/institutes/grid.465646.3........ http://risis.eu/orgref_20170703/resource/20367790.. 1.................................................. [Beacon College] was compared to [Beacon College].. 
+	http://risis.eu/orgref_20170703/resource/20367790.. http://risis.eu/orgref_20170703/resource/6330370... 0.857142857143..................................... [Beacon College] was compared to [Bacone College].. 
+	http://risis.eu/orgref_20170703/resource/6330370... http://risis.eu/orgref_20170703/resource/20367790.. 0.857142857143..................................... [Beacon College] was compared to [Bacone College].. 
+	http://www.grid.ac/institutes/grid.423155.4........ http://www.grid.ac/institutes/grid.465646.3........ 0.857142857143..................................... [Bacone College] was compared to [Beacon College].. 
+	http://www.grid.ac/institutes/grid.465646.3........ http://www.grid.ac/institutes/grid.423155.4........ 0.857142857143..................................... [Bacone College] was compared to [Beacon College].. 
+	http://www.grid.ac/institutes/grid.423155.4........ http://risis.eu/orgref_20170703/resource/20367790.. 0.857142857143..................................... [Bacone College] was compared to [Beacon College].. 
+	http://risis.eu/orgref_20170703/resource/20367790.. http://www.grid.ac/institutes/grid.423155.4........ 0.857142857143..................................... [Bacone College] was compared to [Beacon College].. 
+	http://risis.eu/orgref_20170703/resource/6330370... http://www.grid.ac/institutes/grid.465646.3........ 0.857142857143..................................... [Beacon College] was compared to [Bacone College].. 
+	http://www.grid.ac/institutes/grid.465646.3........ http://risis.eu/orgref_20170703/resource/6330370... 0.857142857143..................................... [Beacon College] was compared to [Bacone College].. 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.423155.4........ -95.33509.......................................... 
+	http://www.grid.ac/institutes/grid.423155.4........ 35.77772........................................... 
+	http://www.grid.ac/institutes/grid.423155.4........ http://www.bacone.edu/............................. 
+	http://www.grid.ac/institutes/grid.423155.4........ Bacone College..................................... 
+	http://risis.eu/orgref_20170703/resource/20367790.. http://en.wikipedia.org/wiki?curid=20367790........ 
+	http://risis.eu/orgref_20170703/resource/20367790.. http://www.wikidata.org/wiki/Q812885............... 
+	http://risis.eu/orgref_20170703/resource/20367790.. http://www.beaconcollege.edu....................... 
+	http://risis.eu/orgref_20170703/resource/20367790.. Beacon College..................................... 
+	http://risis.eu/orgref_20170703/resource/6330370... http://en.wikipedia.org/wiki?curid=6330370......... 
+	http://risis.eu/orgref_20170703/resource/6330370... http://www.wikidata.org/wiki/Q2878449.............. 
+	http://risis.eu/orgref_20170703/resource/6330370... http://www.bacone.edu.............................. 
+	http://risis.eu/orgref_20170703/resource/6330370... Bacone College..................................... 
+	http://www.grid.ac/institutes/grid.465646.3........ -81.875275......................................... 
+	http://www.grid.ac/institutes/grid.465646.3........ 28.810833.......................................... 
+	http://www.grid.ac/institutes/grid.465646.3........ http://www.beaconcollege.edu/...................... 
+	http://www.grid.ac/institutes/grid.465646.3........ Beacon College..................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:20367790', '1:grid.423155.4'), ('2:20367790', '4:grid.465646.3'), ('3:6330370', '1:grid.423155.4'), ('3:6330370', '2:20367790'), ('3:6330370', '4:grid.465646.3'), ('4:grid.465646.3', '1:grid.423155.4')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

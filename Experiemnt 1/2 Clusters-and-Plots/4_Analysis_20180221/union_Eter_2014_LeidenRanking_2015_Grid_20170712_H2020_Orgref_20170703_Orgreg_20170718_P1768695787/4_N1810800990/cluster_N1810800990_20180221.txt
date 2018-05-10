@@ -1,0 +1,70 @@
+SIZE    4   
+CLUSTER 8654 
+NAME    N1810800990
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.419787.4>
+	<http://www.grid.ac/institutes/grid.473388.3>
+	<http://risis.eu/orgref_20170703/resource/1327960>
+	<http://risis.eu/orgref_20170703/resource/21020454>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.419787.4........ http://www.grid.ac/institutes/grid.473388.3........ 1.................................................. [Ministry of Agriculture, Forestry and Fisheries] was compared to [Ministry of Agriculture Forestry and Fisheries] 
+	http://www.grid.ac/institutes/grid.473388.3........ http://www.grid.ac/institutes/grid.419787.4........ 1.................................................. [Ministry of Agriculture, Forestry and Fisheries] was compared to [Ministry of Agriculture Forestry and Fisheries] 
+	http://www.grid.ac/institutes/grid.419787.4........ http://risis.eu/orgref_20170703/resource/21020454.. 1.................................................. [Ministry of Agriculture, Forestry and Fisheries] was compared to [Ministry of Agriculture, Forestry and Fisheries (Cambodia)] 
+	http://risis.eu/orgref_20170703/resource/21020454.. http://www.grid.ac/institutes/grid.419787.4........ 1.................................................. [Ministry of Agriculture, Forestry and Fisheries] was compared to [Ministry of Agriculture, Forestry and Fisheries (Cambodia)] 
+	http://www.grid.ac/institutes/grid.419787.4........ http://risis.eu/orgref_20170703/resource/1327960... 1.................................................. [Ministry of Agriculture, Forestry and Fisheries] was compared to [Ministry of Agriculture, Forestry and Fisheries (Japan)] 
+	http://risis.eu/orgref_20170703/resource/1327960... http://www.grid.ac/institutes/grid.419787.4........ 1.................................................. [Ministry of Agriculture, Forestry and Fisheries] was compared to [Ministry of Agriculture, Forestry and Fisheries (Japan)] 
+	http://www.grid.ac/institutes/grid.473388.3........ http://risis.eu/orgref_20170703/resource/21020454.. 1.................................................. [Ministry of Agriculture Forestry and Fisheries] was compared to [Ministry of Agriculture, Forestry and Fisheries (Cambodia)] 
+	http://risis.eu/orgref_20170703/resource/21020454.. http://www.grid.ac/institutes/grid.473388.3........ 1.................................................. [Ministry of Agriculture Forestry and Fisheries] was compared to [Ministry of Agriculture, Forestry and Fisheries (Cambodia)] 
+	http://www.grid.ac/institutes/grid.473388.3........ http://risis.eu/orgref_20170703/resource/1327960... 1.................................................. [Ministry of Agriculture Forestry and Fisheries] was compared to [Ministry of Agriculture, Forestry and Fisheries (Japan)] 
+	http://risis.eu/orgref_20170703/resource/1327960... http://www.grid.ac/institutes/grid.473388.3........ 1.................................................. [Ministry of Agriculture Forestry and Fisheries] was compared to [Ministry of Agriculture, Forestry and Fisheries (Japan)] 
+	http://risis.eu/orgref_20170703/resource/1327960... http://risis.eu/orgref_20170703/resource/21020454.. 1.................................................. [Ministry of Agriculture, Forestry and Fisheries (Japan)] was compared to [Ministry of Agriculture, Forestry and Fisheries (Cambodia)] 
+	http://risis.eu/orgref_20170703/resource/21020454.. http://risis.eu/orgref_20170703/resource/1327960... 1.................................................. [Ministry of Agriculture, Forestry and Fisheries (Japan)] was compared to [Ministry of Agriculture, Forestry and Fisheries (Cambodia)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 19 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.419787.4........ 139.17476.......................................... 
+	http://www.grid.ac/institutes/grid.419787.4........ 35.75682........................................... 
+	http://www.grid.ac/institutes/grid.419787.4........ http://www.maff.go.jp/e/........................... 
+	http://www.grid.ac/institutes/grid.419787.4........ Ministry of Agriculture and Forestry............... 
+	http://www.grid.ac/institutes/grid.419787.4........ Nōrin-suisan-shō................................. 
+	http://www.grid.ac/institutes/grid.419787.4........ Ministry of Agriculture and Commerce............... 
+	http://www.grid.ac/institutes/grid.419787.4........ Ministry of Agriculture, Forestry and Fisheries.... 
+	http://www.grid.ac/institutes/grid.473388.3........ 104.92671.......................................... 
+	http://www.grid.ac/institutes/grid.473388.3........ 11.543324.......................................... 
+	http://www.grid.ac/institutes/grid.473388.3........ http://maff.gov.kh/................................ 
+	http://www.grid.ac/institutes/grid.473388.3........ Ministry of Agriculture Forestry and Fisheries..... 
+	http://risis.eu/orgref_20170703/resource/1327960... http://en.wikipedia.org/wiki?curid=1327960......... 
+	http://risis.eu/orgref_20170703/resource/1327960... http://www.wikidata.org/wiki/Q1376786.............. 
+	http://risis.eu/orgref_20170703/resource/1327960... http://www.maff.go.jp.............................. 
+	http://risis.eu/orgref_20170703/resource/1327960... Ministry of Agriculture, Forestry and Fisheries (Japan) 
+	http://risis.eu/orgref_20170703/resource/21020454.. http://en.wikipedia.org/wiki?curid=21020454........ 
+	http://risis.eu/orgref_20170703/resource/21020454.. http://www.wikidata.org/wiki/Q6866612.............. 
+	http://risis.eu/orgref_20170703/resource/21020454.. http://maff.gov.kh................................. 
+	http://risis.eu/orgref_20170703/resource/21020454.. Ministry of Agriculture, Forestry and Fisheries (Cambodia) 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.473388.3', '1:grid.419787.4'), ('3:1327960', '1:grid.419787.4'), ('3:1327960', '2:grid.473388.3'), ('4:21020454', '1:grid.419787.4'), ('4:21020454', '2:grid.473388.3'), ('4:21020454', '3:1327960')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

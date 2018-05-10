@@ -1,0 +1,58 @@
+SIZE    4   
+CLUSTER 10080 
+NAME    N1810058812
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.437815.c>
+	<http://www.grid.ac/institutes/grid.456141.3>
+	<http://www.grid.ac/institutes/grid.459949.c>
+	<http://www.grid.ac/institutes/grid.456144.6>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.437815.c.. http://www.grid.ac/institutes/grid.459949.c.. 0.894736842105............................... [Silios Technologies (France)] was compared to [Slips Technologies (United States)] 
+	http://www.grid.ac/institutes/grid.459949.c.. http://www.grid.ac/institutes/grid.437815.c.. 0.894736842105............................... [Silios Technologies (France)] was compared to [Slips Technologies (United States)] 
+	http://www.grid.ac/institutes/grid.437815.c.. http://www.grid.ac/institutes/grid.456141.3.. 0.9.......................................... [Silios Technologies (France)] was compared to [Silicon Technologies (United States)] 
+	http://www.grid.ac/institutes/grid.456141.3.. http://www.grid.ac/institutes/grid.437815.c.. 0.9.......................................... [Silios Technologies (France)] was compared to [Silicon Technologies (United States)] 
+	http://www.grid.ac/institutes/grid.437815.c.. http://www.grid.ac/institutes/grid.456144.6.. 0.894736842105............................... [Silios Technologies (France)] was compared to [Silvus Technologies (United States)] 
+	http://www.grid.ac/institutes/grid.456144.6.. http://www.grid.ac/institutes/grid.437815.c.. 0.894736842105............................... [Silios Technologies (France)] was compared to [Silvus Technologies (United States)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.437815.c.. Silios Technologies (France)................. 
+	http://www.grid.ac/institutes/grid.456141.3.. -111.84135................................... 
+	http://www.grid.ac/institutes/grid.456141.3.. 40.672108.................................... 
+	http://www.grid.ac/institutes/grid.456141.3.. http://www.silicontechnologiesinc.com/....... 
+	http://www.grid.ac/institutes/grid.456141.3.. Silicon Technologies (United States)......... 
+	http://www.grid.ac/institutes/grid.459949.c.. -71.11672.................................... 
+	http://www.grid.ac/institutes/grid.459949.c.. 42.377045.................................... 
+	http://www.grid.ac/institutes/grid.459949.c.. http://www.slipstechnologies.com/............ 
+	http://www.grid.ac/institutes/grid.459949.c.. Slips Technologies (United States)........... 
+	http://www.grid.ac/institutes/grid.456144.6.. -118.44716................................... 
+	http://www.grid.ac/institutes/grid.456144.6.. 34.057545.................................... 
+	http://www.grid.ac/institutes/grid.456144.6.. http://silvustechnologies.com//.............. 
+	http://www.grid.ac/institutes/grid.456144.6.. Silvus Technologies (United States).......... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.456141.3', '1:grid.437815.c'), ('3:grid.459949.c', '1:grid.437815.c'), ('4:grid.456144.6', '1:grid.437815.c')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 2
+	QUALITY                         : 0.667
+	QUALITY USED                    : 0.667
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 0.5 QUALITY 0.667 QUALITY USED 0.667
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 0.5 QUALITY 0.667 QUALITY USED 0.667

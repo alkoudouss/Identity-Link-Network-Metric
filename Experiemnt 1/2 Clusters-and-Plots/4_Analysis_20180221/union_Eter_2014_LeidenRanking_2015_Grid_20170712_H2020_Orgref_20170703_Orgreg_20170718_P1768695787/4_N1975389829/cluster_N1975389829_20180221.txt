@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 5413 
+NAME    N1975389829
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.449795.2>
+	<http://risis.eu/orgref_20170703/resource/25781600>
+	<http://risis.eu/orgreg_20170718/resource/ES0061>
+	<http://risis.eu/eter_2014/resource/ES0061>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.449795.2........ http://risis.eu/orgref_20170703/resource/25781600.. 1.................................................. [Universidad Francisco de Vitoria] was compared to [Universidad Francisco de Vitoria] 
+	http://risis.eu/orgref_20170703/resource/25781600.. http://www.grid.ac/institutes/grid.449795.2........ 1.................................................. [Universidad Francisco de Vitoria] was compared to [Universidad Francisco de Vitoria] 
+	http://www.grid.ac/institutes/grid.449795.2........ http://risis.eu/eter_2014/resource/ES0061.......... 1.................................................. [Universidad Francisco de Vitoria] was compared to [Universidad Francisco de Vitoria] 
+	http://risis.eu/eter_2014/resource/ES0061.......... http://www.grid.ac/institutes/grid.449795.2........ 1.................................................. [Universidad Francisco de Vitoria] was compared to [Universidad Francisco de Vitoria] 
+	http://risis.eu/orgref_20170703/resource/25781600.. http://risis.eu/eter_2014/resource/ES0061.......... 1.................................................. [Universidad Francisco de Vitoria] was compared to [Universidad Francisco de Vitoria] 
+	http://risis.eu/eter_2014/resource/ES0061.......... http://risis.eu/orgref_20170703/resource/25781600.. 1.................................................. [Universidad Francisco de Vitoria] was compared to [Universidad Francisco de Vitoria] 
+	http://risis.eu/orgreg_20170718/resource/ES0061.... http://risis.eu/eter_2014/resource/ES0061.......... 0.896551724138..................................... [Francisco de Vitoria University] was compared to [Universidad Francisco de Vitoria] 
+	http://risis.eu/eter_2014/resource/ES0061.......... http://risis.eu/orgreg_20170718/resource/ES0061.... 0.896551724138..................................... [Francisco de Vitoria University] was compared to [Universidad Francisco de Vitoria] 
+	http://risis.eu/orgref_20170703/resource/25781600.. http://risis.eu/orgreg_20170718/resource/ES0061.... 0.896551724138..................................... [Universidad Francisco de Vitoria] was compared to [Francisco de Vitoria University] 
+	http://risis.eu/orgreg_20170718/resource/ES0061.... http://risis.eu/orgref_20170703/resource/25781600.. 0.896551724138..................................... [Universidad Francisco de Vitoria] was compared to [Francisco de Vitoria University] 
+	http://www.grid.ac/institutes/grid.449795.2........ http://risis.eu/orgreg_20170718/resource/ES0061.... 0.896551724138..................................... [Universidad Francisco de Vitoria] was compared to [Francisco de Vitoria University] 
+	http://risis.eu/orgreg_20170718/resource/ES0061.... http://www.grid.ac/institutes/grid.449795.2........ 0.896551724138..................................... [Universidad Francisco de Vitoria] was compared to [Francisco de Vitoria University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.449795.2........ Universidad Francisco de Vitoria................... 
+	http://risis.eu/orgref_20170703/resource/25781600.. http://en.wikipedia.org/wiki?curid=25781600........ 
+	http://risis.eu/orgref_20170703/resource/25781600.. http://www.wikidata.org/wiki/Q2495688.............. 
+	http://risis.eu/orgref_20170703/resource/25781600.. http://www.ufv.es.................................. 
+	http://risis.eu/orgref_20170703/resource/25781600.. Universidad Francisco de Vitoria................... 
+	http://risis.eu/orgreg_20170718/resource/ES0061.... 40.424361.......................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0061.... -3.819738.......................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0061.... http://www.ufv.es.................................. 
+	http://risis.eu/orgreg_20170718/resource/ES0061.... Francisco de Vitoria University.................... 
+	http://risis.eu/eter_2014/resource/ES0061.......... 40,424361.......................................... 
+	http://risis.eu/eter_2014/resource/ES0061.......... -3,819738.......................................... 
+	http://risis.eu/eter_2014/resource/ES0061.......... http://www.ufv.es.................................. 
+	http://risis.eu/eter_2014/resource/ES0061.......... a.................................................. 
+	http://risis.eu/eter_2014/resource/ES0061.......... Francisco de Vitoria University.................... 
+	http://risis.eu/eter_2014/resource/ES0061.......... Universidad Francisco de Vitoria................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:25781600', '1:grid.449795.2'), ('3:ES0061', '1:grid.449795.2'), ('3:ES0061', '2:25781600'), ('4:ES0061', '1:grid.449795.2'), ('4:ES0061', '2:25781600'), ('4:ES0061', '3:ES0061')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

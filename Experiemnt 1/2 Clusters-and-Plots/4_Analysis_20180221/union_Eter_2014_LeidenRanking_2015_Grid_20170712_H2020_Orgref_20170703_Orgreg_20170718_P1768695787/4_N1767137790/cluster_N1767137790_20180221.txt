@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 2033 
+NAME    N1767137790
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/IT0082>
+	<http://risis.eu/cordisH2020/resource/participant_999977754>
+	<http://risis.eu/leidenRanking_2015/resource/453>
+	<http://risis.eu/eter_2014/resource/IT0082>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_999977754.. http://risis.eu/leidenRanking_2015/resource/453............. 1........................................................... [POLITECNICO DI TORINO] was compared to [Politecnico di Torino] 
+	http://risis.eu/leidenRanking_2015/resource/453............. http://risis.eu/cordisH2020/resource/participant_999977754.. 1........................................................... [POLITECNICO DI TORINO] was compared to [Politecnico di Torino] 
+	http://risis.eu/cordisH2020/resource/participant_999977754.. http://risis.eu/eter_2014/resource/IT0082................... 1........................................................... [POLITECNICO DI TORINO] was compared to [Politecnico di TORINO] 
+	http://risis.eu/eter_2014/resource/IT0082................... http://risis.eu/cordisH2020/resource/participant_999977754.. 1........................................................... [POLITECNICO DI TORINO] was compared to [Politecnico di TORINO] 
+	http://risis.eu/leidenRanking_2015/resource/453............. http://risis.eu/eter_2014/resource/IT0082................... 1........................................................... [Politecnico di TORINO] was compared to [Politecnico di Torino] 
+	http://risis.eu/eter_2014/resource/IT0082................... http://risis.eu/leidenRanking_2015/resource/453............. 1........................................................... [Politecnico di TORINO] was compared to [Politecnico di Torino] 
+	http://risis.eu/orgreg_20170718/resource/IT0082............. http://risis.eu/leidenRanking_2015/resource/453............. 1........................................................... [Politecnico di Torino] was compared to [Politecnico di Torino] 
+	http://risis.eu/leidenRanking_2015/resource/453............. http://risis.eu/orgreg_20170718/resource/IT0082............. 1........................................................... [Politecnico di Torino] was compared to [Politecnico di Torino] 
+	http://risis.eu/orgreg_20170718/resource/IT0082............. http://risis.eu/cordisH2020/resource/participant_999977754.. 1........................................................... [Politecnico di Torino] was compared to [POLITECNICO DI TORINO] 
+	http://risis.eu/cordisH2020/resource/participant_999977754.. http://risis.eu/orgreg_20170718/resource/IT0082............. 1........................................................... [Politecnico di Torino] was compared to [POLITECNICO DI TORINO] 
+	http://risis.eu/orgreg_20170718/resource/IT0082............. http://risis.eu/eter_2014/resource/IT0082................... 1........................................................... [Politecnico di Torino] was compared to [Politecnico di TORINO] 
+	http://risis.eu/eter_2014/resource/IT0082................... http://risis.eu/orgreg_20170718/resource/IT0082............. 1........................................................... [Politecnico di Torino] was compared to [Politecnico di TORINO] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgreg_20170718/resource/IT0082............. 45.054478................................................... 
+	http://risis.eu/orgreg_20170718/resource/IT0082............. 7.65794..................................................... 
+	http://risis.eu/orgreg_20170718/resource/IT0082............. http://www.polito.it........................................ 
+	http://risis.eu/orgreg_20170718/resource/IT0082............. Politecnico di Torino....................................... 
+	http://risis.eu/cordisH2020/resource/participant_999977754.. http://risis.eu/cordisH2020/resource/www.polito.it.......... 
+	http://risis.eu/cordisH2020/resource/participant_999977754.. POLITECNICO DI TORINO....................................... 
+	http://risis.eu/leidenRanking_2015/resource/453............. Politecnico di Torino....................................... 
+	http://risis.eu/eter_2014/resource/IT0082................... 45,054478................................................... 
+	http://risis.eu/eter_2014/resource/IT0082................... 7,65794..................................................... 
+	http://risis.eu/eter_2014/resource/IT0082................... http://www.polito.it........................................ 
+	http://risis.eu/eter_2014/resource/IT0082................... a........................................................... 
+	http://risis.eu/eter_2014/resource/IT0082................... Politecnico di Torino....................................... 
+	http://risis.eu/eter_2014/resource/IT0082................... Politecnico di TORINO....................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_999977754', '1:IT0082'), ('3:453', '1:IT0082'), ('3:453', '2:participant_999977754'), ('3:453', '4:IT0082'), ('4:IT0082', '1:IT0082'), ('4:IT0082', '2:participant_999977754')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,60 @@
+SIZE    4   
+CLUSTER 16100 
+NAME    N2087969219
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.431368.b>
+	<http://risis.eu/orgref_20170703/resource/164394>
+	<http://risis.eu/orgref_20170703/resource/1262382>
+	<http://risis.eu/orgref_20170703/resource/9072530>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.431368.b....... http://risis.eu/orgref_20170703/resource/9072530.. 0.864864864865.................................... [Federal Deposit Insurance Corporation] was compared to [Korea Deposit Insurance Corporation] 
+	http://risis.eu/orgref_20170703/resource/9072530.. http://www.grid.ac/institutes/grid.431368.b....... 0.864864864865.................................... [Federal Deposit Insurance Corporation] was compared to [Korea Deposit Insurance Corporation] 
+	http://www.grid.ac/institutes/grid.431368.b....... http://risis.eu/orgref_20170703/resource/1262382.. 0.837837837838.................................... [Federal Deposit Insurance Corporation] was compared to [Canada Deposit Insurance Corporation] 
+	http://risis.eu/orgref_20170703/resource/1262382.. http://www.grid.ac/institutes/grid.431368.b....... 0.837837837838.................................... [Federal Deposit Insurance Corporation] was compared to [Canada Deposit Insurance Corporation] 
+	http://www.grid.ac/institutes/grid.431368.b....... http://risis.eu/orgref_20170703/resource/164394... 1................................................. [Federal Deposit Insurance Corporation] was compared to [Federal Deposit Insurance Corporation] 
+	http://risis.eu/orgref_20170703/resource/164394... http://www.grid.ac/institutes/grid.431368.b....... 1................................................. [Federal Deposit Insurance Corporation] was compared to [Federal Deposit Insurance Corporation] 
+	http://risis.eu/orgref_20170703/resource/164394... http://risis.eu/orgref_20170703/resource/9072530.. 0.864864864865.................................... [Federal Deposit Insurance Corporation] was compared to [Korea Deposit Insurance Corporation] 
+	http://risis.eu/orgref_20170703/resource/9072530.. http://risis.eu/orgref_20170703/resource/164394... 0.864864864865.................................... [Federal Deposit Insurance Corporation] was compared to [Korea Deposit Insurance Corporation] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.431368.b....... Federal Deposit Insurance Corporation............. 
+	http://risis.eu/orgref_20170703/resource/164394... http://en.wikipedia.org/wiki?curid=164394......... 
+	http://risis.eu/orgref_20170703/resource/164394... http://www.wikidata.org/wiki/Q1345065............. 
+	http://risis.eu/orgref_20170703/resource/164394... http://www.fdic.gov............................... 
+	http://risis.eu/orgref_20170703/resource/164394... Federal Deposit Insurance Corporation............. 
+	http://risis.eu/orgref_20170703/resource/1262382.. http://en.wikipedia.org/wiki?curid=1262382........ 
+	http://risis.eu/orgref_20170703/resource/1262382.. http://www.wikidata.org/wiki/Q5029349............. 
+	http://risis.eu/orgref_20170703/resource/1262382.. http://www.cdic.ca................................ 
+	http://risis.eu/orgref_20170703/resource/1262382.. Canada Deposit Insurance Corporation.............. 
+	http://risis.eu/orgref_20170703/resource/9072530.. http://en.wikipedia.org/wiki?curid=9072530........ 
+	http://risis.eu/orgref_20170703/resource/9072530.. http://www.wikidata.org/wiki/Q6431618............. 
+	http://risis.eu/orgref_20170703/resource/9072530.. http://www.kdic.or.kr/english/index.jsp........... 
+	http://risis.eu/orgref_20170703/resource/9072530.. Korea Deposit Insurance Corporation............... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:164394', '1:grid.431368.b'), ('3:1262382', '1:grid.431368.b'), ('4:9072530', '1:grid.431368.b'), ('4:9072530', '2:164394')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

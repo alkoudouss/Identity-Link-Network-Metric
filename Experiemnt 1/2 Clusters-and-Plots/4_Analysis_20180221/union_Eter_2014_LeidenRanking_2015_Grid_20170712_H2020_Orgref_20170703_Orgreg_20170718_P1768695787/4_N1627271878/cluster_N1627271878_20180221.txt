@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 17255 
+NAME    N1627271878
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/167422>
+	<http://risis.eu/leidenRanking_2015/resource/619>
+	<http://www.grid.ac/institutes/grid.8954.0>
+	<http://risis.eu/orgreg_20170718/resource/SI0001>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/167422.. http://www.grid.ac/institutes/grid.8954.0........ 1................................................ [University of Ljubljana] was compared to [University of Ljubljana] 
+	http://www.grid.ac/institutes/grid.8954.0........ http://risis.eu/orgref_20170703/resource/167422.. 1................................................ [University of Ljubljana] was compared to [University of Ljubljana] 
+	http://risis.eu/leidenRanking_2015/resource/619.. http://www.grid.ac/institutes/grid.8954.0........ 1................................................ [University of Ljubljana] was compared to [University of Ljubljana] 
+	http://www.grid.ac/institutes/grid.8954.0........ http://risis.eu/leidenRanking_2015/resource/619.. 1................................................ [University of Ljubljana] was compared to [University of Ljubljana] 
+	http://risis.eu/orgref_20170703/resource/167422.. http://risis.eu/leidenRanking_2015/resource/619.. 1................................................ [University of Ljubljana] was compared to [University of Ljubljana] 
+	http://risis.eu/leidenRanking_2015/resource/619.. http://risis.eu/orgref_20170703/resource/167422.. 1................................................ [University of Ljubljana] was compared to [University of Ljubljana] 
+	http://risis.eu/leidenRanking_2015/resource/619.. http://risis.eu/orgreg_20170718/resource/SI0001.. 1................................................ [University of Ljubljana] was compared to [University of Ljubljana] 
+	http://risis.eu/orgreg_20170718/resource/SI0001.. http://risis.eu/leidenRanking_2015/resource/619.. 1................................................ [University of Ljubljana] was compared to [University of Ljubljana] 
+	http://risis.eu/orgref_20170703/resource/167422.. http://risis.eu/orgreg_20170718/resource/SI0001.. 1................................................ [University of Ljubljana] was compared to [University of Ljubljana] 
+	http://risis.eu/orgreg_20170718/resource/SI0001.. http://risis.eu/orgref_20170703/resource/167422.. 1................................................ [University of Ljubljana] was compared to [University of Ljubljana] 
+	http://www.grid.ac/institutes/grid.8954.0........ http://risis.eu/orgreg_20170718/resource/SI0001.. 1................................................ [University of Ljubljana] was compared to [University of Ljubljana] 
+	http://risis.eu/orgreg_20170718/resource/SI0001.. http://www.grid.ac/institutes/grid.8954.0........ 1................................................ [University of Ljubljana] was compared to [University of Ljubljana] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/167422.. http://en.wikipedia.org/wiki?curid=167422........ 
+	http://risis.eu/orgref_20170703/resource/167422.. http://www.wikidata.org/wiki/Q1377............... 
+	http://risis.eu/orgref_20170703/resource/167422.. http://www.uni-lj.si............................. 
+	http://risis.eu/orgref_20170703/resource/167422.. University of Ljubljana.......................... 
+	http://risis.eu/leidenRanking_2015/resource/619.. University of Ljubljana.......................... 
+	http://www.grid.ac/institutes/grid.8954.0........ 14.505099........................................ 
+	http://www.grid.ac/institutes/grid.8954.0........ 46.049267........................................ 
+	http://www.grid.ac/institutes/grid.8954.0........ http://www.uni-lj.si/............................ 
+	http://www.grid.ac/institutes/grid.8954.0........ Univerza v Ljubljani............................. 
+	http://www.grid.ac/institutes/grid.8954.0........ University of Ljubljana.......................... 
+	http://risis.eu/orgreg_20170718/resource/SI0001.. 14.505751........................................ 
+	http://risis.eu/orgreg_20170718/resource/SI0001.. 46.056947........................................ 
+	http://risis.eu/orgreg_20170718/resource/SI0001.. https://www.uni-lj.si/eng/....................... 
+	http://risis.eu/orgreg_20170718/resource/SI0001.. University of Ljubljana.......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:167422', '3:grid.8954.0'), ('2:619', '1:167422'), ('2:619', '4:SI0001'), ('3:grid.8954.0', '2:619'), ('4:SI0001', '1:167422'), ('4:SI0001', '3:grid.8954.0')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

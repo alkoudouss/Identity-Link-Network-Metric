@@ -1,0 +1,71 @@
+SIZE    5   
+CLUSTER 13418 
+NAME    N1554749065
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.454096.a>
+	<http://www.grid.ac/institutes/grid.483867.6>
+	<http://www.grid.ac/institutes/grid.480796.4>
+	<http://www.grid.ac/institutes/grid.453418.f>
+	<http://www.grid.ac/institutes/grid.475233.4>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.454096.a.. http://www.grid.ac/institutes/grid.480796.4.. 0.9375....................................... [Korea Foundation] was compared to [Koret Foundation] 
+	http://www.grid.ac/institutes/grid.480796.4.. http://www.grid.ac/institutes/grid.454096.a.. 0.9375....................................... [Korea Foundation] was compared to [Koret Foundation] 
+	http://www.grid.ac/institutes/grid.453418.f.. http://www.grid.ac/institutes/grid.475233.4.. 0.882352941176............................... [Gerber Foundation] was compared to [Gere Foundation] 
+	http://www.grid.ac/institutes/grid.475233.4.. http://www.grid.ac/institutes/grid.453418.f.. 0.882352941176............................... [Gerber Foundation] was compared to [Gere Foundation] 
+	http://www.grid.ac/institutes/grid.483867.6.. http://www.grid.ac/institutes/grid.453418.f.. 0.882352941176............................... [Gerber Foundation] was compared to [Körber Foundation] 
+	http://www.grid.ac/institutes/grid.453418.f.. http://www.grid.ac/institutes/grid.483867.6.. 0.882352941176............................... [Gerber Foundation] was compared to [Körber Foundation] 
+	http://www.grid.ac/institutes/grid.454096.a.. http://www.grid.ac/institutes/grid.483867.6.. 0.882352941176............................... [Korea Foundation] was compared to [Körber Foundation] 
+	http://www.grid.ac/institutes/grid.483867.6.. http://www.grid.ac/institutes/grid.454096.a.. 0.882352941176............................... [Korea Foundation] was compared to [Körber Foundation] 
+	http://www.grid.ac/institutes/grid.483867.6.. http://www.grid.ac/institutes/grid.480796.4.. 0.882352941176............................... [Koret Foundation] was compared to [Körber Foundation] 
+	http://www.grid.ac/institutes/grid.480796.4.. http://www.grid.ac/institutes/grid.483867.6.. 0.882352941176............................... [Koret Foundation] was compared to [Körber Foundation] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 21 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.454096.a.. 127.02951.................................... 
+	http://www.grid.ac/institutes/grid.454096.a.. 37.483402.................................... 
+	http://www.grid.ac/institutes/grid.454096.a.. http://en.kf.or.kr/?menuno=482............... 
+	http://www.grid.ac/institutes/grid.454096.a.. Korea Foundation............................. 
+	http://www.grid.ac/institutes/grid.483867.6.. 9.985329..................................... 
+	http://www.grid.ac/institutes/grid.483867.6.. 53.54347..................................... 
+	http://www.grid.ac/institutes/grid.483867.6.. https://www.koerber-stiftung.de/en/.......... 
+	http://www.grid.ac/institutes/grid.483867.6.. Körber Foundation........................... 
+	http://www.grid.ac/institutes/grid.480796.4.. -122.39971................................... 
+	http://www.grid.ac/institutes/grid.480796.4.. 37.79721..................................... 
+	http://www.grid.ac/institutes/grid.480796.4.. http://koret.org/............................ 
+	http://www.grid.ac/institutes/grid.480796.4.. Koret Fund................................... 
+	http://www.grid.ac/institutes/grid.480796.4.. Koret Foundation............................. 
+	http://www.grid.ac/institutes/grid.453418.f.. -85.917854................................... 
+	http://www.grid.ac/institutes/grid.453418.f.. 43.46808..................................... 
+	http://www.grid.ac/institutes/grid.453418.f.. http://www.gerberfoundation.org/............. 
+	http://www.grid.ac/institutes/grid.453418.f.. Gerber Foundation............................ 
+	http://www.grid.ac/institutes/grid.475233.4.. -118.48227................................... 
+	http://www.grid.ac/institutes/grid.475233.4.. 34.0268...................................... 
+	http://www.grid.ac/institutes/grid.475233.4.. http://www.gerefoundation.org/............... 
+	http://www.grid.ac/institutes/grid.475233.4.. Gere Foundation.............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.483867.6', '1:grid.454096.a'), ('2:grid.483867.6', '3:grid.480796.4'), ('2:grid.483867.6', '4:grid.453418.f'), ('3:grid.480796.4', '1:grid.454096.a'), ('5:grid.475233.4', '4:grid.453418.f')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 1.3
+	AVERAGE NODE CONNECTIVITY RATIO : 0.325
+	BRIDGES                         : 2
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.556
+	QUALITY USED                    : 0.574
+	SUMMARY 1: BRIDGE 0.5 CLOSURE 0.5 DIAMETER 0.667 QUALITY 0.556 QUALITY USED 0.574
+	SUMMARY 2: BRIDGE 0.556 CLOSURE 0.5 DIAMETER 0.667 QUALITY 0.556 QUALITY USED 0.574

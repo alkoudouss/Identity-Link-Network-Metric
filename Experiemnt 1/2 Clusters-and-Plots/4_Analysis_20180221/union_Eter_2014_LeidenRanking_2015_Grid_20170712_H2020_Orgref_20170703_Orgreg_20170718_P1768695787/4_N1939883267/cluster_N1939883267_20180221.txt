@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 8271 
+NAME    N1939883267
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.418376.f>
+	<http://risis.eu/cordisH2020/resource/participant_998571254>
+	<http://www.grid.ac/institutes/grid.419117.b>
+	<http://risis.eu/orgreg_20170718/resource/BE1022>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.418376.f................. http://www.grid.ac/institutes/grid.419117.b................. 0.928571428571.............................................. [Agricultural Research Center] was compared to [Agriculture Research Center] 
+	http://www.grid.ac/institutes/grid.419117.b................. http://www.grid.ac/institutes/grid.418376.f................. 0.928571428571.............................................. [Agricultural Research Center] was compared to [Agriculture Research Center] 
+	http://risis.eu/cordisH2020/resource/participant_998571254.. http://www.grid.ac/institutes/grid.419117.b................. 0.928571428571.............................................. [Agriculture Research Center] was compared to [THE AGRICULTURAL RESEARCH CENTER] 
+	http://www.grid.ac/institutes/grid.419117.b................. http://risis.eu/cordisH2020/resource/participant_998571254.. 0.928571428571.............................................. [Agriculture Research Center] was compared to [THE AGRICULTURAL RESEARCH CENTER] 
+	http://www.grid.ac/institutes/grid.418376.f................. http://risis.eu/cordisH2020/resource/participant_998571254.. 1........................................................... [Agricultural Research Center] was compared to [THE AGRICULTURAL RESEARCH CENTER] 
+	http://risis.eu/cordisH2020/resource/participant_998571254.. http://www.grid.ac/institutes/grid.418376.f................. 1........................................................... [Agricultural Research Center] was compared to [THE AGRICULTURAL RESEARCH CENTER] 
+	http://risis.eu/cordisH2020/resource/participant_998571254.. http://risis.eu/orgreg_20170718/resource/BE1022............. 0.928571428571.............................................. [Agricultural Research Centre (CLO-Gent)] was compared to [THE AGRICULTURAL RESEARCH CENTER] 
+	http://risis.eu/orgreg_20170718/resource/BE1022............. http://risis.eu/cordisH2020/resource/participant_998571254.. 0.928571428571.............................................. [Agricultural Research Centre (CLO-Gent)] was compared to [THE AGRICULTURAL RESEARCH CENTER] 
+	http://www.grid.ac/institutes/grid.418376.f................. http://risis.eu/orgreg_20170718/resource/BE1022............. 0.928571428571.............................................. [Agricultural Research Center] was compared to [Agricultural Research Centre (CLO-Gent)] 
+	http://risis.eu/orgreg_20170718/resource/BE1022............. http://www.grid.ac/institutes/grid.418376.f................. 0.928571428571.............................................. [Agricultural Research Center] was compared to [Agricultural Research Centre (CLO-Gent)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.418376.f................. 31.21305.................................................... 
+	http://www.grid.ac/institutes/grid.418376.f................. 30.020712................................................... 
+	http://www.grid.ac/institutes/grid.418376.f................. http://www.arc.sci.eg/...................................... 
+	http://www.grid.ac/institutes/grid.418376.f................. Agricultural Research Center................................ 
+	http://risis.eu/cordisH2020/resource/participant_998571254.. THE AGRICULTURAL RESEARCH CENTER............................ 
+	http://www.grid.ac/institutes/grid.419117.b................. 140.08684................................................... 
+	http://www.grid.ac/institutes/grid.419117.b................. 36.054607................................................... 
+	http://www.grid.ac/institutes/grid.419117.b................. http://www.naro.affrc.go.jp/english/narc/index.html......... 
+	http://www.grid.ac/institutes/grid.419117.b................. Agriculture Research Center................................. 
+	http://risis.eu/orgreg_20170718/resource/BE1022............. 3........................................................... 
+	http://risis.eu/orgreg_20170718/resource/BE1022............. 50.999135................................................... 
+	http://risis.eu/orgreg_20170718/resource/BE1022............. m........................................................... 
+	http://risis.eu/orgreg_20170718/resource/BE1022............. Agricultural Research Centre (CLO-Gent)..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_998571254', '1:grid.418376.f'), ('2:participant_998571254', '4:BE1022'), ('3:grid.419117.b', '1:grid.418376.f'), ('3:grid.419117.b', '2:participant_998571254'), ('4:BE1022', '1:grid.418376.f')]
+	MAX DISTANCE:                   : 0.833
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 2.16666666667
+	AVERAGE NODE CONNECTIVITY RATIO : 0.722222222222
+	BRIDGES                         : 0
+	CLOSURE                         : 0.833
+	DIAMETER                        : 2
+	QUALITY                         : 0.223
+	QUALITY USED                    : 0.223
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223

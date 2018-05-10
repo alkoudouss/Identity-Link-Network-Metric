@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 11894 
+NAME    N1400098661
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/6896720>
+	<http://risis.eu/leidenRanking_2015/resource/977>
+	<http://www.grid.ac/institutes/grid.411038.f>
+	<http://risis.eu/orgreg_20170718/resource/RO0027>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/6896720.. http://www.grid.ac/institutes/grid.411038.f....... 1................................................. [Grigore T. Popa University of Medicine and Pharmacy] was compared to [Grigore T. Popa University of Medicine and Pharmacy] 
+	http://www.grid.ac/institutes/grid.411038.f....... http://risis.eu/orgref_20170703/resource/6896720.. 1................................................. [Grigore T. Popa University of Medicine and Pharmacy] was compared to [Grigore T. Popa University of Medicine and Pharmacy] 
+	http://risis.eu/leidenRanking_2015/resource/977... http://www.grid.ac/institutes/grid.411038.f....... 1................................................. [Grigore T. Popa University of Medicine and Pharmacy] was compared to [Grigore T. Popa University of Medicine and Pharmacy] 
+	http://www.grid.ac/institutes/grid.411038.f....... http://risis.eu/leidenRanking_2015/resource/977... 1................................................. [Grigore T. Popa University of Medicine and Pharmacy] was compared to [Grigore T. Popa University of Medicine and Pharmacy] 
+	http://risis.eu/orgref_20170703/resource/6896720.. http://risis.eu/leidenRanking_2015/resource/977... 1................................................. [Grigore T. Popa University of Medicine and Pharmacy] was compared to [Grigore T. Popa University of Medicine and Pharmacy] 
+	http://risis.eu/leidenRanking_2015/resource/977... http://risis.eu/orgref_20170703/resource/6896720.. 1................................................. [Grigore T. Popa University of Medicine and Pharmacy] was compared to [Grigore T. Popa University of Medicine and Pharmacy] 
+	http://risis.eu/leidenRanking_2015/resource/977... http://risis.eu/orgreg_20170718/resource/RO0027... 0.895833333333.................................... [Grigore T. Popa Medicine and Pharmacy University Iasi] was compared to [Grigore T. Popa University of Medicine and Pharmacy] 
+	http://risis.eu/orgreg_20170718/resource/RO0027... http://risis.eu/leidenRanking_2015/resource/977... 0.895833333333.................................... [Grigore T. Popa Medicine and Pharmacy University Iasi] was compared to [Grigore T. Popa University of Medicine and Pharmacy] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/6896720.. http://en.wikipedia.org/wiki?curid=6896720........ 
+	http://risis.eu/orgref_20170703/resource/6896720.. http://www.wikidata.org/wiki/Q2779762............. 
+	http://risis.eu/orgref_20170703/resource/6896720.. http://www.umfiasi.ro............................. 
+	http://risis.eu/orgref_20170703/resource/6896720.. Grigore T. Popa University of Medicine and Pharmacy 
+	http://risis.eu/leidenRanking_2015/resource/977... Grigore T. Popa University of Medicine and Pharmacy 
+	http://www.grid.ac/institutes/grid.411038.f....... 27.584723......................................... 
+	http://www.grid.ac/institutes/grid.411038.f....... 47.16833.......................................... 
+	http://www.grid.ac/institutes/grid.411038.f....... http://www.umfiasi.ro/Pages/Default.aspx.......... 
+	http://www.grid.ac/institutes/grid.411038.f....... Universitatea de Medicină și Farmacie "Grigore T. Popa" 
+	http://www.grid.ac/institutes/grid.411038.f....... Institute of Medicine and Pharmacy................ 
+	http://www.grid.ac/institutes/grid.411038.f....... Grigore T. Popa University of Medicine and Pharmacy 
+	http://risis.eu/orgreg_20170718/resource/RO0027... 27.58447.......................................... 
+	http://risis.eu/orgreg_20170718/resource/RO0027... 47.168413......................................... 
+	http://risis.eu/orgreg_20170718/resource/RO0027... www.umfiasi.ro.................................... 
+	http://risis.eu/orgreg_20170718/resource/RO0027... Grigore T. Popa Medicine and Pharmacy University Iasi 
+
+NETWORK ANALYSIS
+	NETWORK [('1:6896720', '3:grid.411038.f'), ('2:977', '1:6896720'), ('3:grid.411038.f', '2:977'), ('4:RO0027', '2:977')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

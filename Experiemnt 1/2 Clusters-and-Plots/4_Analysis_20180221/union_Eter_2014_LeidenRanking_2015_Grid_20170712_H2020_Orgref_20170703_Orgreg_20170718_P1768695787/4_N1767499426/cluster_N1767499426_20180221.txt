@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 5892 
+NAME    N1767499426
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.449049.4>
+	<http://www.grid.ac/institutes/grid.466372.2>
+	<http://risis.eu/orgref_20170703/resource/31922922>
+	<http://www.grid.ac/institutes/grid.466231.4>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.449049.4........ http://www.grid.ac/institutes/grid.466231.4........ 0.962962962963..................................... [Applied Science University] was compared to [University of Applied Sciences] 
+	http://www.grid.ac/institutes/grid.466231.4........ http://www.grid.ac/institutes/grid.449049.4........ 0.962962962963..................................... [Applied Science University] was compared to [University of Applied Sciences] 
+	http://www.grid.ac/institutes/grid.449049.4........ http://www.grid.ac/institutes/grid.466372.2........ 0.962962962963..................................... [Applied Science University] was compared to [University of Applied Sciences] 
+	http://www.grid.ac/institutes/grid.466372.2........ http://www.grid.ac/institutes/grid.449049.4........ 0.962962962963..................................... [Applied Science University] was compared to [University of Applied Sciences] 
+	http://www.grid.ac/institutes/grid.466372.2........ http://www.grid.ac/institutes/grid.466231.4........ 1.................................................. [University of Applied Sciences] was compared to [University of Applied Sciences] 
+	http://www.grid.ac/institutes/grid.466231.4........ http://www.grid.ac/institutes/grid.466372.2........ 1.................................................. [University of Applied Sciences] was compared to [University of Applied Sciences] 
+	http://www.grid.ac/institutes/grid.449049.4........ http://risis.eu/orgref_20170703/resource/31922922.. 1.................................................. [Applied Science University] was compared to [Applied Science University (Bahrain)] 
+	http://risis.eu/orgref_20170703/resource/31922922.. http://www.grid.ac/institutes/grid.449049.4........ 1.................................................. [Applied Science University] was compared to [Applied Science University (Bahrain)] 
+	http://risis.eu/orgref_20170703/resource/31922922.. http://www.grid.ac/institutes/grid.466231.4........ 0.962962962963..................................... [University of Applied Sciences] was compared to [Applied Science University (Bahrain)] 
+	http://www.grid.ac/institutes/grid.466231.4........ http://risis.eu/orgref_20170703/resource/31922922.. 0.962962962963..................................... [University of Applied Sciences] was compared to [Applied Science University (Bahrain)] 
+	http://www.grid.ac/institutes/grid.466372.2........ http://risis.eu/orgref_20170703/resource/31922922.. 0.962962962963..................................... [University of Applied Sciences] was compared to [Applied Science University (Bahrain)] 
+	http://risis.eu/orgref_20170703/resource/31922922.. http://www.grid.ac/institutes/grid.466372.2........ 0.962962962963..................................... [University of Applied Sciences] was compared to [Applied Science University (Bahrain)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.449049.4........ Applied Science University......................... 
+	http://www.grid.ac/institutes/grid.466372.2........ 7.245998........................................... 
+	http://www.grid.ac/institutes/grid.466372.2........ 51.446987.......................................... 
+	http://www.grid.ac/institutes/grid.466372.2........ http://www.hochschule-bochum.de/en/................ 
+	http://www.grid.ac/institutes/grid.466372.2........ University of Applied Sciences..................... 
+	http://risis.eu/orgref_20170703/resource/31922922.. http://en.wikipedia.org/wiki?curid=31922922........ 
+	http://risis.eu/orgref_20170703/resource/31922922.. http://www.wikidata.org/wiki/Q4781578.............. 
+	http://risis.eu/orgref_20170703/resource/31922922.. http://www.asu.edu.bh.............................. 
+	http://risis.eu/orgref_20170703/resource/31922922.. Applied Science University (Bahrain)............... 
+	http://www.grid.ac/institutes/grid.466231.4........ 25.256887.......................................... 
+	http://www.grid.ac/institutes/grid.466231.4........ 54.696175.......................................... 
+	http://www.grid.ac/institutes/grid.466231.4........ http://en.viko.lt/................................. 
+	http://www.grid.ac/institutes/grid.466231.4........ University of Applied Sciences..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.466372.2', '1:grid.449049.4'), ('2:grid.466372.2', '4:grid.466231.4'), ('3:31922922', '1:grid.449049.4'), ('3:31922922', '2:grid.466372.2'), ('4:grid.466231.4', '1:grid.449049.4'), ('4:grid.466231.4', '3:31922922')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

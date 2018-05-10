@@ -1,0 +1,57 @@
+SIZE    3   
+CLUSTER 425 
+NAME    N1257835722
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.83440.3b>
+	<http://risis.eu/eter_2014/resource/UK0123>
+	<http://www.grid.ac/institutes/grid.467586.e>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.83440.3b.. http://risis.eu/eter_2014/resource/UK0123.... 1............................................ [university college london] was compared to [university college london] 
+	http://risis.eu/eter_2014/resource/UK0123.... http://www.grid.ac/institutes/grid.83440.3b.. 1............................................ [university college london] was compared to [university college london] 
+	http://risis.eu/eter_2014/resource/UK0123.... http://www.grid.ac/institutes/grid.467586.e.. 0.88......................................... [university college london] was compared to [university college union] 
+	http://www.grid.ac/institutes/grid.467586.e.. http://risis.eu/eter_2014/resource/UK0123.... 0.88......................................... [university college london] was compared to [university college union] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.83440.3b.. -0.1339817................................... 
+	http://www.grid.ac/institutes/grid.83440.3b.. 51.52447..................................... 
+	http://www.grid.ac/institutes/grid.83440.3b.. http://www.ucl.ac.uk/........................ 
+	http://www.grid.ac/institutes/grid.83440.3b.. London University............................ 
+	http://www.grid.ac/institutes/grid.83440.3b.. University College, London................... 
+	http://www.grid.ac/institutes/grid.83440.3b.. University College London.................... 
+	http://risis.eu/eter_2014/resource/UK0123.... 51,524773.................................... 
+	http://risis.eu/eter_2014/resource/UK0123.... -0,133427.................................... 
+	http://risis.eu/eter_2014/resource/UK0123.... http://www.ucl.ac.uk......................... 
+	http://risis.eu/eter_2014/resource/UK0123.... a............................................ 
+	http://risis.eu/eter_2014/resource/UK0123.... University College London.................... 
+	http://www.grid.ac/institutes/grid.467586.e.. -0.139882.................................... 
+	http://www.grid.ac/institutes/grid.467586.e.. 51.535263.................................... 
+	http://www.grid.ac/institutes/grid.467586.e.. https://www.ucu.org.uk/...................... 
+	http://www.grid.ac/institutes/grid.467586.e.. University and College Union................. 
+
+NETWORK ANALYSIS
+	NETWORK [('N1257835722-UK0123', 'N1094894593-grid.467586.e'), ('N1257835722-UK0123', 'P1380859192-grid.83440.3b')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

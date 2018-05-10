@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 3803 
+NAME    N1835605841
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/14686401>
+	<http://risis.eu/orgref_20170703/resource/8159430>
+	<http://risis.eu/orgref_20170703/resource/32573360>
+	<http://www.grid.ac/institutes/grid.419912.6>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/14686401.. http://www.grid.ac/institutes/grid.419912.6........ 1.................................................. [Ministry of Manpower] was compared to [Ministry of Manpower (Singapore)] 
+	http://www.grid.ac/institutes/grid.419912.6........ http://risis.eu/orgref_20170703/resource/14686401.. 1.................................................. [Ministry of Manpower] was compared to [Ministry of Manpower (Singapore)] 
+	http://risis.eu/orgref_20170703/resource/8159430... http://risis.eu/orgref_20170703/resource/32573360.. 1.................................................. [Ministry of Power (West Bengal)] was compared to [Ministry of Power (India)] 
+	http://risis.eu/orgref_20170703/resource/32573360.. http://risis.eu/orgref_20170703/resource/8159430... 1.................................................. [Ministry of Power (West Bengal)] was compared to [Ministry of Power (India)] 
+	http://risis.eu/orgref_20170703/resource/14686401.. http://risis.eu/orgref_20170703/resource/8159430... 0.823529411765..................................... [Ministry of Manpower (Singapore)] was compared to [Ministry of Power (India)] 
+	http://risis.eu/orgref_20170703/resource/8159430... http://risis.eu/orgref_20170703/resource/14686401.. 0.823529411765..................................... [Ministry of Manpower (Singapore)] was compared to [Ministry of Power (India)] 
+	http://risis.eu/orgref_20170703/resource/14686401.. http://risis.eu/orgref_20170703/resource/32573360.. 0.823529411765..................................... [Ministry of Manpower (Singapore)] was compared to [Ministry of Power (West Bengal)] 
+	http://risis.eu/orgref_20170703/resource/32573360.. http://risis.eu/orgref_20170703/resource/14686401.. 0.823529411765..................................... [Ministry of Manpower (Singapore)] was compared to [Ministry of Power (West Bengal)] 
+	http://risis.eu/orgref_20170703/resource/8159430... http://www.grid.ac/institutes/grid.419912.6........ 0.823529411765..................................... [Ministry of Manpower] was compared to [Ministry of Power (India)] 
+	http://www.grid.ac/institutes/grid.419912.6........ http://risis.eu/orgref_20170703/resource/8159430... 0.823529411765..................................... [Ministry of Manpower] was compared to [Ministry of Power (India)] 
+	http://risis.eu/orgref_20170703/resource/32573360.. http://www.grid.ac/institutes/grid.419912.6........ 0.823529411765..................................... [Ministry of Manpower] was compared to [Ministry of Power (West Bengal)] 
+	http://www.grid.ac/institutes/grid.419912.6........ http://risis.eu/orgref_20170703/resource/32573360.. 0.823529411765..................................... [Ministry of Manpower] was compared to [Ministry of Power (West Bengal)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/14686401.. http://en.wikipedia.org/wiki?curid=14686401........ 
+	http://risis.eu/orgref_20170703/resource/14686401.. http://www.wikidata.org/wiki/Q4294769.............. 
+	http://risis.eu/orgref_20170703/resource/14686401.. http://www.mom.gov.sg.............................. 
+	http://risis.eu/orgref_20170703/resource/14686401.. Ministry of Manpower (Singapore)................... 
+	http://risis.eu/orgref_20170703/resource/8159430... http://en.wikipedia.org/wiki?curid=8159430......... 
+	http://risis.eu/orgref_20170703/resource/8159430... http://www.wikidata.org/wiki/Q4294844.............. 
+	http://risis.eu/orgref_20170703/resource/8159430... http://www.powermin.nic.in......................... 
+	http://risis.eu/orgref_20170703/resource/8159430... Ministry of Power (India).......................... 
+	http://risis.eu/orgref_20170703/resource/32573360.. http://en.wikipedia.org/wiki?curid=32573360........ 
+	http://risis.eu/orgref_20170703/resource/32573360.. http://www.wikidata.org/wiki/Q6867458.............. 
+	http://risis.eu/orgref_20170703/resource/32573360.. Ministry of Power (West Bengal).................... 
+	http://www.grid.ac/institutes/grid.419912.6........ 103.84419.......................................... 
+	http://www.grid.ac/institutes/grid.419912.6........ 1.287564........................................... 
+	http://www.grid.ac/institutes/grid.419912.6........ http://www.mom.gov.sg/............................. 
+	http://www.grid.ac/institutes/grid.419912.6........ Ministry of Manpower............................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:8159430', '1:14686401'), ('2:8159430', '3:32573360'), ('2:8159430', '4:grid.419912.6'), ('3:32573360', '1:14686401'), ('3:32573360', '4:grid.419912.6'), ('4:grid.419912.6', '1:14686401')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

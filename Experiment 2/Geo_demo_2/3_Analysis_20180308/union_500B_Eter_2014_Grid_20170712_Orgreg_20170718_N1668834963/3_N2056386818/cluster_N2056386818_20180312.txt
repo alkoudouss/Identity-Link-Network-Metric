@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 1036 
+NAME    N2056386818
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.266161.4>
+	<http://risis.eu/eter_2014/resource/UK0026>
+	<http://www.grid.ac/institutes/grid.416559.a>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.266161.4.. http://risis.eu/eter_2014/resource/UK0026.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/UK0026.... http://www.grid.ac/institutes/grid.266161.4.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/UK0026.... http://www.grid.ac/institutes/grid.416559.a.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.416559.a.. http://risis.eu/eter_2014/resource/UK0026.... 1............................................ Near each other by at most 500 meter(s)...... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.266161.4.. -0.775873.................................... 
+	http://www.grid.ac/institutes/grid.266161.4.. 50.844864.................................... 
+	http://www.grid.ac/institutes/grid.266161.4.. http://www.chi.ac.uk/........................ 
+	http://www.grid.ac/institutes/grid.266161.4.. University of Chichester..................... 
+	http://risis.eu/eter_2014/resource/UK0026.... 50,844277.................................... 
+	http://risis.eu/eter_2014/resource/UK0026.... -0,774428.................................... 
+	http://risis.eu/eter_2014/resource/UK0026.... http://www.chiuni.ac.uk/..................... 
+	http://risis.eu/eter_2014/resource/UK0026.... a............................................ 
+	http://risis.eu/eter_2014/resource/UK0026.... The University of Chichester................. 
+	http://www.grid.ac/institutes/grid.416559.a.. -0.769509.................................... 
+	http://www.grid.ac/institutes/grid.416559.a.. 50.842567.................................... 
+	http://www.grid.ac/institutes/grid.416559.a.. http://www.westernsussexhospitals.nhs.uk/our-hospitals/st-richards-hospital/ 
+	http://www.grid.ac/institutes/grid.416559.a.. Royal West Sussex NHS Trust.................. 
+	http://www.grid.ac/institutes/grid.416559.a.. St Richard's Hospital........................ 
+
+NETWORK ANALYSIS
+	NETWORK [('N2056386818-UK0026', 'N1054454265-grid.416559.a'), ('N2056386818-UK0026', 'N1681057920-grid.266161.4')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

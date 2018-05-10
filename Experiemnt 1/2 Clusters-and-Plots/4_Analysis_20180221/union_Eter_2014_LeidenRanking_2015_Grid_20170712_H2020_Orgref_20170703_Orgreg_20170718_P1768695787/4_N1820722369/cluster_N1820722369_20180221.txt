@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 791 
+NAME    N1820722369
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/2062273>
+	<http://risis.eu/orgreg_20170718/resource/PT0006>
+	<http://www.grid.ac/institutes/grid.8389.a>
+	<http://risis.eu/leidenRanking_2015/resource/551>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/2062273.. http://www.grid.ac/institutes/grid.8389.a......... 1................................................. [University of Évora] was compared to [University of Évora] 
+	http://www.grid.ac/institutes/grid.8389.a......... http://risis.eu/orgref_20170703/resource/2062273.. 1................................................. [University of Évora] was compared to [University of Évora] 
+	http://www.grid.ac/institutes/grid.8389.a......... http://risis.eu/leidenRanking_2015/resource/551... 0.9375............................................ [University of Évora] was compared to [University of �vora] 
+	http://risis.eu/leidenRanking_2015/resource/551... http://www.grid.ac/institutes/grid.8389.a......... 0.9375............................................ [University of Évora] was compared to [University of �vora] 
+	http://risis.eu/orgref_20170703/resource/2062273.. http://risis.eu/leidenRanking_2015/resource/551... 0.9375............................................ [University of Évora] was compared to [University of �vora] 
+	http://risis.eu/leidenRanking_2015/resource/551... http://risis.eu/orgref_20170703/resource/2062273.. 0.9375............................................ [University of Évora] was compared to [University of �vora] 
+	http://risis.eu/orgreg_20170718/resource/PT0006... http://risis.eu/leidenRanking_2015/resource/551... 0.9375............................................ [University of Évora] was compared to [University of �vora] 
+	http://risis.eu/leidenRanking_2015/resource/551... http://risis.eu/orgreg_20170718/resource/PT0006... 0.9375............................................ [University of Évora] was compared to [University of �vora] 
+	http://risis.eu/orgref_20170703/resource/2062273.. http://risis.eu/orgreg_20170718/resource/PT0006... 1................................................. [University of Évora] was compared to [University of Évora] 
+	http://risis.eu/orgreg_20170718/resource/PT0006... http://risis.eu/orgref_20170703/resource/2062273.. 1................................................. [University of Évora] was compared to [University of Évora] 
+	http://risis.eu/orgreg_20170718/resource/PT0006... http://www.grid.ac/institutes/grid.8389.a......... 1................................................. [University of Évora] was compared to [University of Évora] 
+	http://www.grid.ac/institutes/grid.8389.a......... http://risis.eu/orgreg_20170718/resource/PT0006... 1................................................. [University of Évora] was compared to [University of Évora] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/2062273.. http://en.wikipedia.org/wiki?curid=2062273........ 
+	http://risis.eu/orgref_20170703/resource/2062273.. http://www.wikidata.org/wiki/Q1557861............. 
+	http://risis.eu/orgref_20170703/resource/2062273.. http://www.uevora.pt.............................. 
+	http://risis.eu/orgref_20170703/resource/2062273.. University of Évora.............................. 
+	http://risis.eu/orgreg_20170718/resource/PT0006... -7.9093074........................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0006... 38.5707119........................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0006... http://www.uevora.pt/............................. 
+	http://risis.eu/orgreg_20170718/resource/PT0006... University of Évora.............................. 
+	http://www.grid.ac/institutes/grid.8389.a......... -7.9044........................................... 
+	http://www.grid.ac/institutes/grid.8389.a......... 38.5731........................................... 
+	http://www.grid.ac/institutes/grid.8389.a......... http://www.uevora.pt/............................. 
+	http://www.grid.ac/institutes/grid.8389.a......... University of Évora.............................. 
+	http://risis.eu/leidenRanking_2015/resource/551... University of �vora............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:2062273', '3:grid.8389.a'), ('2:PT0006', '1:2062273'), ('3:grid.8389.a', '2:PT0006'), ('4:551', '1:2062273'), ('4:551', '2:PT0006'), ('4:551', '3:grid.8389.a')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

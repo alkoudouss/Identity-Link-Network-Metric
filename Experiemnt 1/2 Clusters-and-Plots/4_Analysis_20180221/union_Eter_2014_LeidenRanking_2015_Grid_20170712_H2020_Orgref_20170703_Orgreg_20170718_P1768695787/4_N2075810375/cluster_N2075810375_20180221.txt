@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 14819 
+NAME    N2075810375
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.422538.a>
+	<http://www.grid.ac/institutes/grid.453853.c>
+	<http://www.grid.ac/institutes/grid.422542.7>
+	<http://www.grid.ac/institutes/grid.479017.c>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.422538.a.. http://www.grid.ac/institutes/grid.453853.c.. 0.857142857143............................... [American Society of Hematology] was compared to [American Neurotology Society] 
+	http://www.grid.ac/institutes/grid.453853.c.. http://www.grid.ac/institutes/grid.422538.a.. 0.857142857143............................... [American Society of Hematology] was compared to [American Neurotology Society] 
+	http://www.grid.ac/institutes/grid.453853.c.. http://www.grid.ac/institutes/grid.422542.7.. 0.857142857143............................... [American Society of Nephrology] was compared to [American Neurotology Society] 
+	http://www.grid.ac/institutes/grid.422542.7.. http://www.grid.ac/institutes/grid.453853.c.. 0.857142857143............................... [American Society of Nephrology] was compared to [American Neurotology Society] 
+	http://www.grid.ac/institutes/grid.453853.c.. http://www.grid.ac/institutes/grid.479017.c.. 0.870967741935............................... [American Neurotology Society] was compared to [American Society of Neuroradiology] 
+	http://www.grid.ac/institutes/grid.479017.c.. http://www.grid.ac/institutes/grid.453853.c.. 0.870967741935............................... [American Neurotology Society] was compared to [American Society of Neuroradiology] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.422538.a.. -77.045654................................... 
+	http://www.grid.ac/institutes/grid.422538.a.. 38.904285.................................... 
+	http://www.grid.ac/institutes/grid.422538.a.. http://www.hematology.org/................... 
+	http://www.grid.ac/institutes/grid.422538.a.. American Society of Hematology............... 
+	http://www.grid.ac/institutes/grid.453853.c.. -87.62631.................................... 
+	http://www.grid.ac/institutes/grid.453853.c.. 41.905327.................................... 
+	http://www.grid.ac/institutes/grid.453853.c.. http://www.americanneurotologysociety.com/... 
+	http://www.grid.ac/institutes/grid.453853.c.. American Neurotology Society................. 
+	http://www.grid.ac/institutes/grid.422542.7.. -77.03447.................................... 
+	http://www.grid.ac/institutes/grid.422542.7.. 38.89971..................................... 
+	http://www.grid.ac/institutes/grid.422542.7.. https://www.asn-online.org/.................. 
+	http://www.grid.ac/institutes/grid.422542.7.. American Society of Nephrology............... 
+	http://www.grid.ac/institutes/grid.479017.c.. -87.94016.................................... 
+	http://www.grid.ac/institutes/grid.479017.c.. 41.84762..................................... 
+	http://www.grid.ac/institutes/grid.479017.c.. http://www.asnr.org/......................... 
+	http://www.grid.ac/institutes/grid.479017.c.. American Society of Neuroradiology........... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.453853.c', '1:grid.422538.a'), ('3:grid.422542.7', '2:grid.453853.c'), ('4:grid.479017.c', '2:grid.453853.c')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 2
+	QUALITY                         : 0.667
+	QUALITY USED                    : 0.667
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 0.5 QUALITY 0.667 QUALITY USED 0.667
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 0.5 QUALITY 0.667 QUALITY USED 0.667

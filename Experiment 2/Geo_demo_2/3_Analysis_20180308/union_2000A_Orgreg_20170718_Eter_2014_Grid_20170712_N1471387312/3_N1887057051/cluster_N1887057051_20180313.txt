@@ -1,0 +1,58 @@
+SIZE    3   
+CLUSTER 240 
+NAME    N1887057051
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/IE0018>
+	<http://risis.eu/orgreg_20170718/resource/IE0018>
+	<http://www.grid.ac/institutes/grid.418996.b>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/eter_2014/resource/IE0018........ http://www.grid.ac/institutes/grid.418996.b...... 1................................................ [institute technology tralee] was compared to [institute technology tralee] 
+	http://risis.eu/eter_2014/resource/IE0018........ http://risis.eu/orgreg_20170718/resource/IE0018.. 0.964285714286................................... [institute technology	 tralee] was compared to [institute technology tralee] 
+	http://risis.eu/orgreg_20170718/resource/IE0018.. http://www.grid.ac/institutes/grid.418996.b...... 0.964285714286................................... [institute technology	 tralee] was compared to [institute technology tralee] 
+	http://risis.eu/orgreg_20170718/resource/IE0018.. http://risis.eu/eter_2014/resource/IE0018........ 0.964285714286................................... [institute technology	 tralee] was compared to [institute technology tralee] 
+	http://www.grid.ac/institutes/grid.418996.b...... http://risis.eu/eter_2014/resource/IE0018........ 1................................................ [institute technology tralee] was compared to [institute technology tralee] 
+	http://www.grid.ac/institutes/grid.418996.b...... http://risis.eu/orgreg_20170718/resource/IE0018.. 0.964285714286................................... [institute technology	 tralee] was compared to [institute technology tralee] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/eter_2014/resource/IE0018........ 52,2713096....................................... 
+	http://risis.eu/eter_2014/resource/IE0018........ -9,6999325....................................... 
+	http://risis.eu/eter_2014/resource/IE0018........ http://www.ittralee.ie........................... 
+	http://risis.eu/eter_2014/resource/IE0018........ a................................................ 
+	http://risis.eu/eter_2014/resource/IE0018........ Institute of Technology, Tralee.................. 
+	http://risis.eu/orgreg_20170718/resource/IE0018.. -9.6999325....................................... 
+	http://risis.eu/orgreg_20170718/resource/IE0018.. 52.2713096....................................... 
+	http://risis.eu/orgreg_20170718/resource/IE0018.. http://www.ittralee.ie........................... 
+	http://risis.eu/orgreg_20170718/resource/IE0018.. Institute of Technology	 Tralee.................. 
+	http://www.grid.ac/institutes/grid.418996.b...... -9.6891.......................................... 
+	http://www.grid.ac/institutes/grid.418996.b...... 52.27144......................................... 
+	http://www.grid.ac/institutes/grid.418996.b...... http://www.ittralee.ie/en/....................... 
+	http://www.grid.ac/institutes/grid.418996.b...... IT Tralee........................................ 
+	http://www.grid.ac/institutes/grid.418996.b...... Institute of Technology Tralee................... 
+
+NETWORK ANALYSIS
+	NETWORK [('N564850084-IE0018', 'N1887057051-grid.418996.b'), ('P684180353-IE0018', 'N1887057051-grid.418996.b'), ('P684180353-IE0018', 'N564850084-IE0018')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

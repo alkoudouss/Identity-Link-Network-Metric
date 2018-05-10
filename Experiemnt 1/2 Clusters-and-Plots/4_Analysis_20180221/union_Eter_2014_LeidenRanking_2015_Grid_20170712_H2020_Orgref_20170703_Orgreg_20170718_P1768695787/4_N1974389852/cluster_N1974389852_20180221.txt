@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 6300 
+NAME    N1974389852
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.411071.2>
+	<http://risis.eu/orgref_20170703/resource/6080375>
+	<http://risis.eu/orgreg_20170718/resource/ES0060>
+	<http://risis.eu/eter_2014/resource/ES0060>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.411071.2....... http://risis.eu/orgref_20170703/resource/6080375.. 1................................................. [Miguel de Cervantes European University] was compared to [Miguel de Cervantes European University] 
+	http://risis.eu/orgref_20170703/resource/6080375.. http://www.grid.ac/institutes/grid.411071.2....... 1................................................. [Miguel de Cervantes European University] was compared to [Miguel de Cervantes European University] 
+	http://risis.eu/orgreg_20170718/resource/ES0060... http://risis.eu/eter_2014/resource/ES0060......... 0.888888888889.................................... [European University Miguel de Cervantes] was compared to [Universidad Europea Miguel de Cervantes] 
+	http://risis.eu/eter_2014/resource/ES0060......... http://risis.eu/orgreg_20170718/resource/ES0060... 0.888888888889.................................... [European University Miguel de Cervantes] was compared to [Universidad Europea Miguel de Cervantes] 
+	http://risis.eu/orgref_20170703/resource/6080375.. http://risis.eu/orgreg_20170718/resource/ES0060... 1................................................. [Miguel de Cervantes European University] was compared to [European University Miguel de Cervantes] 
+	http://risis.eu/orgreg_20170718/resource/ES0060... http://risis.eu/orgref_20170703/resource/6080375.. 1................................................. [Miguel de Cervantes European University] was compared to [European University Miguel de Cervantes] 
+	http://www.grid.ac/institutes/grid.411071.2....... http://risis.eu/orgreg_20170718/resource/ES0060... 1................................................. [Miguel de Cervantes European University] was compared to [European University Miguel de Cervantes] 
+	http://risis.eu/orgreg_20170718/resource/ES0060... http://www.grid.ac/institutes/grid.411071.2....... 1................................................. [Miguel de Cervantes European University] was compared to [European University Miguel de Cervantes] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.411071.2....... -4.715527......................................... 
+	http://www.grid.ac/institutes/grid.411071.2....... 41.62611.......................................... 
+	http://www.grid.ac/institutes/grid.411071.2....... http://www.uemc.es/............................... 
+	http://www.grid.ac/institutes/grid.411071.2....... Miguel de Cervantes European University........... 
+	http://risis.eu/orgref_20170703/resource/6080375.. http://en.wikipedia.org/wiki?curid=6080375........ 
+	http://risis.eu/orgref_20170703/resource/6080375.. http://www.wikidata.org/wiki/Q6844859............. 
+	http://risis.eu/orgref_20170703/resource/6080375.. http://www.uemc.es................................ 
+	http://risis.eu/orgref_20170703/resource/6080375.. Miguel de Cervantes European University........... 
+	http://risis.eu/orgreg_20170718/resource/ES0060... 41.630303......................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0060... -4.691548......................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0060... http://www.uemc.edu............................... 
+	http://risis.eu/orgreg_20170718/resource/ES0060... European University Miguel de Cervantes........... 
+	http://risis.eu/eter_2014/resource/ES0060......... 41,630303......................................... 
+	http://risis.eu/eter_2014/resource/ES0060......... -4,691548......................................... 
+	http://risis.eu/eter_2014/resource/ES0060......... http://www.uemc.edu............................... 
+	http://risis.eu/eter_2014/resource/ES0060......... a................................................. 
+	http://risis.eu/eter_2014/resource/ES0060......... European University Miguel de Cervantes........... 
+	http://risis.eu/eter_2014/resource/ES0060......... Universidad Europea Miguel de Cervantes........... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:6080375', '1:grid.411071.2'), ('3:ES0060', '1:grid.411071.2'), ('3:ES0060', '2:6080375'), ('4:ES0060', '3:ES0060')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

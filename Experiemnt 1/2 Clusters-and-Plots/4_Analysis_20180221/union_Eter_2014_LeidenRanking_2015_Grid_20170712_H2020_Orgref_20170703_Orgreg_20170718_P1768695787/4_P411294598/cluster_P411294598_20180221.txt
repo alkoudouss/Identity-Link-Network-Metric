@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 17847 
+NAME    P411294598
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.435016.5>
+	<http://www.grid.ac/institutes/grid.460572.2>
+	<http://www.grid.ac/institutes/grid.422511.1>
+	<http://www.grid.ac/institutes/grid.474734.7>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.435016.5.. http://www.grid.ac/institutes/grid.422511.1.. 1............................................ [TRUMPF (United Kingdom)] was compared to [TRUMPF (Germany)] 
+	http://www.grid.ac/institutes/grid.422511.1.. http://www.grid.ac/institutes/grid.435016.5.. 1............................................ [TRUMPF (United Kingdom)] was compared to [TRUMPF (Germany)] 
+	http://www.grid.ac/institutes/grid.460572.2.. http://www.grid.ac/institutes/grid.422511.1.. 1............................................ [TRUMPF (United Kingdom)] was compared to [TRUMPF (Poland)] 
+	http://www.grid.ac/institutes/grid.422511.1.. http://www.grid.ac/institutes/grid.460572.2.. 1............................................ [TRUMPF (United Kingdom)] was compared to [TRUMPF (Poland)] 
+	http://www.grid.ac/institutes/grid.422511.1.. http://www.grid.ac/institutes/grid.474734.7.. 1............................................ [TRUMPF (United Kingdom)] was compared to [TRUMPF (Austria)] 
+	http://www.grid.ac/institutes/grid.474734.7.. http://www.grid.ac/institutes/grid.422511.1.. 1............................................ [TRUMPF (United Kingdom)] was compared to [TRUMPF (Austria)] 
+	http://www.grid.ac/institutes/grid.435016.5.. http://www.grid.ac/institutes/grid.460572.2.. 1............................................ [TRUMPF (Germany)] was compared to [TRUMPF (Poland)] 
+	http://www.grid.ac/institutes/grid.460572.2.. http://www.grid.ac/institutes/grid.435016.5.. 1............................................ [TRUMPF (Germany)] was compared to [TRUMPF (Poland)] 
+	http://www.grid.ac/institutes/grid.435016.5.. http://www.grid.ac/institutes/grid.474734.7.. 1............................................ [TRUMPF (Germany)] was compared to [TRUMPF (Austria)] 
+	http://www.grid.ac/institutes/grid.474734.7.. http://www.grid.ac/institutes/grid.435016.5.. 1............................................ [TRUMPF (Germany)] was compared to [TRUMPF (Austria)] 
+	http://www.grid.ac/institutes/grid.460572.2.. http://www.grid.ac/institutes/grid.474734.7.. 1............................................ [TRUMPF (Poland)] was compared to [TRUMPF (Austria)] 
+	http://www.grid.ac/institutes/grid.474734.7.. http://www.grid.ac/institutes/grid.460572.2.. 1............................................ [TRUMPF (Poland)] was compared to [TRUMPF (Austria)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.435016.5.. TRUMPF (Germany)............................. 
+	http://www.grid.ac/institutes/grid.460572.2.. 21.138905.................................... 
+	http://www.grid.ac/institutes/grid.460572.2.. 52.30987..................................... 
+	http://www.grid.ac/institutes/grid.460572.2.. http://www.pl.trumpf.com/pl.html............. 
+	http://www.grid.ac/institutes/grid.460572.2.. TRUMPF (Poland).............................. 
+	http://www.grid.ac/institutes/grid.422511.1.. TRUMPF (United Kingdom)...................... 
+	http://www.grid.ac/institutes/grid.474734.7.. 14.192433.................................... 
+	http://www.grid.ac/institutes/grid.474734.7.. 48.246994.................................... 
+	http://www.grid.ac/institutes/grid.474734.7.. http://www.at.trumpf.com/de.html............. 
+	http://www.grid.ac/institutes/grid.474734.7.. TRUMPF (Austria)............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.435016.5', '3:grid.422511.1'), ('2:grid.460572.2', '1:grid.435016.5'), ('2:grid.460572.2', '3:grid.422511.1'), ('4:grid.474734.7', '1:grid.435016.5'), ('4:grid.474734.7', '2:grid.460572.2'), ('4:grid.474734.7', '3:grid.422511.1')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

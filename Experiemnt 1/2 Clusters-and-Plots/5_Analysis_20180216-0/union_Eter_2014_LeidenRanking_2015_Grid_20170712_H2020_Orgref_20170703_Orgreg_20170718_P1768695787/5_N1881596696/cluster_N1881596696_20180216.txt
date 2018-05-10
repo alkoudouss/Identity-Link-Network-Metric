@@ -1,0 +1,67 @@
+SIZE    5   
+CLUSTER 2745 
+NAME    N1881596696
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.411362.3>
+	<http://risis.eu/orgref_20170703/resource/1272235>
+	<http://www.grid.ac/institutes/grid.261055.5>
+	<http://risis.eu/orgref_20170703/resource/339837>
+	<http://risis.eu/leidenRanking_2015/resource/3470>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.411362.3....... http://www.grid.ac/institutes/grid.261055.5....... 0.9............................................... [North Dakota State University] was compared to [North Dakota University System] 
+	http://www.grid.ac/institutes/grid.261055.5....... http://www.grid.ac/institutes/grid.411362.3....... 0.9............................................... [North Dakota State University] was compared to [North Dakota University System] 
+	http://www.grid.ac/institutes/grid.411362.3....... http://risis.eu/orgref_20170703/resource/1272235.. 1................................................. [North Dakota University System] was compared to [North Dakota University System] 
+	http://risis.eu/orgref_20170703/resource/1272235.. http://www.grid.ac/institutes/grid.411362.3....... 1................................................. [North Dakota University System] was compared to [North Dakota University System] 
+	http://www.grid.ac/institutes/grid.261055.5....... http://risis.eu/orgref_20170703/resource/339837... 1................................................. [North Dakota State University] was compared to [North Dakota State University] 
+	http://risis.eu/orgref_20170703/resource/339837... http://www.grid.ac/institutes/grid.261055.5....... 1................................................. [North Dakota State University] was compared to [North Dakota State University] 
+	http://www.grid.ac/institutes/grid.411362.3....... http://risis.eu/leidenRanking_2015/resource/3470.. 0.9............................................... [North Dakota University System] was compared to [North Dakota State University] 
+	http://risis.eu/leidenRanking_2015/resource/3470.. http://www.grid.ac/institutes/grid.411362.3....... 0.9............................................... [North Dakota University System] was compared to [North Dakota State University] 
+	http://www.grid.ac/institutes/grid.261055.5....... http://risis.eu/leidenRanking_2015/resource/3470.. 1................................................. [North Dakota State University] was compared to [North Dakota State University] 
+	http://risis.eu/leidenRanking_2015/resource/3470.. http://www.grid.ac/institutes/grid.261055.5....... 1................................................. [North Dakota State University] was compared to [North Dakota State University] 
+	http://risis.eu/orgref_20170703/resource/339837... http://risis.eu/leidenRanking_2015/resource/3470.. 1................................................. [North Dakota State University] was compared to [North Dakota State University] 
+	http://risis.eu/leidenRanking_2015/resource/3470.. http://risis.eu/orgref_20170703/resource/339837... 1................................................. [North Dakota State University] was compared to [North Dakota State University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.411362.3....... North Dakota University System.................... 
+	http://risis.eu/orgref_20170703/resource/1272235.. http://en.wikipedia.org/wiki?curid=1272235........ 
+	http://risis.eu/orgref_20170703/resource/1272235.. http://www.wikidata.org/wiki/Q3878529............. 
+	http://risis.eu/orgref_20170703/resource/1272235.. http://www.ndus.edu............................... 
+	http://risis.eu/orgref_20170703/resource/1272235.. North Dakota University System.................... 
+	http://www.grid.ac/institutes/grid.261055.5....... -96.8............................................. 
+	http://www.grid.ac/institutes/grid.261055.5....... 46.8917........................................... 
+	http://www.grid.ac/institutes/grid.261055.5....... http://www.ndsu.edu/.............................. 
+	http://www.grid.ac/institutes/grid.261055.5....... North Dakota State University of Agriculture and Applied Sciences 
+	http://www.grid.ac/institutes/grid.261055.5....... North Dakota State University..................... 
+	http://risis.eu/orgref_20170703/resource/339837... http://en.wikipedia.org/wiki?curid=339837......... 
+	http://risis.eu/orgref_20170703/resource/339837... http://www.wikidata.org/wiki/Q2000624............. 
+	http://risis.eu/orgref_20170703/resource/339837... http://www.ndsu.edu............................... 
+	http://risis.eu/orgref_20170703/resource/339837... North Dakota State University..................... 
+	http://risis.eu/leidenRanking_2015/resource/3470.. North Dakota State University..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1272235', '1:grid.411362.3'), ('3:grid.261055.5', '1:grid.411362.3'), ('4:339837', '3:grid.261055.5'), ('5:3470', '1:grid.411362.3'), ('5:3470', '3:grid.261055.5'), ('5:3470', '4:339837')]
+	MAX DISTANCE:                   : 0.6
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 1.7
+	AVERAGE NODE CONNECTIVITY RATIO : 0.425
+	BRIDGES                         : 1
+	CLOSURE                         : 0.6
+	DIAMETER                        : 3
+	QUALITY                         : 0.439
+	QUALITY USED                    : 0.484
+	SUMMARY 1: BRIDGE 0.25 CLOSURE 0.4 DIAMETER 0.667 QUALITY 0.439 QUALITY USED 0.484
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.4 DIAMETER 0.667 QUALITY 0.439 QUALITY USED 0.484

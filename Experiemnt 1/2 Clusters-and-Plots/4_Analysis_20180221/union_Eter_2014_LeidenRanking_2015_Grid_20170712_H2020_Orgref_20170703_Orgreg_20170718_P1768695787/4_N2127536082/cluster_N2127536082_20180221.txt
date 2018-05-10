@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 12945 
+NAME    N2127536082
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.418486.7>
+	<http://risis.eu/orgref_20170703/resource/496995>
+	<http://www.grid.ac/institutes/grid.464751.5>
+	<http://www.grid.ac/institutes/grid.481843.2>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.418486.7...... http://www.grid.ac/institutes/grid.481843.2...... 1................................................ [Bristol-Myers Squibb (Japan)] was compared to [Bristol-Myers Squibb (France)] 
+	http://www.grid.ac/institutes/grid.481843.2...... http://www.grid.ac/institutes/grid.418486.7...... 1................................................ [Bristol-Myers Squibb (Japan)] was compared to [Bristol-Myers Squibb (France)] 
+	http://www.grid.ac/institutes/grid.418486.7...... http://www.grid.ac/institutes/grid.464751.5...... 1................................................ [Bristol-Myers Squibb (Japan)] was compared to [Bristol-Myers Squibb (India)] 
+	http://www.grid.ac/institutes/grid.464751.5...... http://www.grid.ac/institutes/grid.418486.7...... 1................................................ [Bristol-Myers Squibb (Japan)] was compared to [Bristol-Myers Squibb (India)] 
+	http://www.grid.ac/institutes/grid.464751.5...... http://www.grid.ac/institutes/grid.481843.2...... 1................................................ [Bristol-Myers Squibb (India)] was compared to [Bristol-Myers Squibb (France)] 
+	http://www.grid.ac/institutes/grid.481843.2...... http://www.grid.ac/institutes/grid.464751.5...... 1................................................ [Bristol-Myers Squibb (India)] was compared to [Bristol-Myers Squibb (France)] 
+	http://www.grid.ac/institutes/grid.418486.7...... http://risis.eu/orgref_20170703/resource/496995.. 1................................................ [Bristol-Myers Squibb (Japan)] was compared to [Bristol-Myers Squibb] 
+	http://risis.eu/orgref_20170703/resource/496995.. http://www.grid.ac/institutes/grid.418486.7...... 1................................................ [Bristol-Myers Squibb (Japan)] was compared to [Bristol-Myers Squibb] 
+	http://risis.eu/orgref_20170703/resource/496995.. http://www.grid.ac/institutes/grid.464751.5...... 1................................................ [Bristol-Myers Squibb (India)] was compared to [Bristol-Myers Squibb] 
+	http://www.grid.ac/institutes/grid.464751.5...... http://risis.eu/orgref_20170703/resource/496995.. 1................................................ [Bristol-Myers Squibb (India)] was compared to [Bristol-Myers Squibb] 
+	http://risis.eu/orgref_20170703/resource/496995.. http://www.grid.ac/institutes/grid.481843.2...... 1................................................ [Bristol-Myers Squibb (France)] was compared to [Bristol-Myers Squibb] 
+	http://www.grid.ac/institutes/grid.481843.2...... http://risis.eu/orgref_20170703/resource/496995.. 1................................................ [Bristol-Myers Squibb (France)] was compared to [Bristol-Myers Squibb] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.418486.7...... 139.69313........................................ 
+	http://www.grid.ac/institutes/grid.418486.7...... 35.69315......................................... 
+	http://www.grid.ac/institutes/grid.418486.7...... http://www.bms.com/sustainability/worldwide_facilities/asia/Pages/tokyo_japan.aspx 
+	http://www.grid.ac/institutes/grid.418486.7...... Bristol-Myers Squibb (Japan)..................... 
+	http://risis.eu/orgref_20170703/resource/496995.. http://en.wikipedia.org/wiki?curid=496995........ 
+	http://risis.eu/orgref_20170703/resource/496995.. http://www.wikidata.org/wiki/Q266423............. 
+	http://risis.eu/orgref_20170703/resource/496995.. http://www.bms.com............................... 
+	http://risis.eu/orgref_20170703/resource/496995.. Bristol-Myers Squibb............................. 
+	http://www.grid.ac/institutes/grid.464751.5...... 77.68022......................................... 
+	http://www.grid.ac/institutes/grid.464751.5...... 12.831065........................................ 
+	http://www.grid.ac/institutes/grid.464751.5...... http://www.bmsi.co.in/default.aspx............... 
+	http://www.grid.ac/institutes/grid.464751.5...... Bristol-Myers Squibb (India)..................... 
+	http://www.grid.ac/institutes/grid.481843.2...... 2.169967......................................... 
+	http://www.grid.ac/institutes/grid.481843.2...... 48.890594........................................ 
+	http://www.grid.ac/institutes/grid.481843.2...... http://www.bmsfrance.fr/Pages/Home.aspx.......... 
+	http://www.grid.ac/institutes/grid.481843.2...... Bristol-Myers Squibb (France).................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:496995', '1:grid.418486.7'), ('2:496995', '3:grid.464751.5'), ('2:496995', '4:grid.481843.2'), ('3:grid.464751.5', '1:grid.418486.7'), ('4:grid.481843.2', '1:grid.418486.7'), ('4:grid.481843.2', '3:grid.464751.5')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

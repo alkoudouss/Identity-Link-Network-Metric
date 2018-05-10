@@ -1,0 +1,68 @@
+SIZE    5   
+CLUSTER 12091 
+NAME    N1096755854
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/40645291>
+	<http://risis.eu/eter_2014/resource/TR0146>
+	<http://www.grid.ac/institutes/grid.449484.1>
+	<http://www.grid.ac/institutes/grid.440806.e>
+	<http://risis.eu/orgref_20170703/resource/12175662>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.440806.e........ http://risis.eu/orgref_20170703/resource/12175662.. 0.95............................................... [Université de Kisangani] was compared to [University of Kisangani] 
+	http://risis.eu/orgref_20170703/resource/12175662.. http://www.grid.ac/institutes/grid.440806.e........ 0.95............................................... [Université de Kisangani] was compared to [University of Kisangani] 
+	http://risis.eu/orgref_20170703/resource/40645291.. http://www.grid.ac/institutes/grid.449484.1........ 1.................................................. [Nişantaşı University] was compared to [Nişantaşı University] 
+	http://www.grid.ac/institutes/grid.449484.1........ http://risis.eu/orgref_20170703/resource/40645291.. 1.................................................. [Nişantaşı University] was compared to [Nişantaşı University] 
+	http://risis.eu/orgref_20170703/resource/40645291.. http://risis.eu/orgref_20170703/resource/12175662.. 0.85............................................... [University of Kisangani] was compared to [Nişantaşı University] 
+	http://risis.eu/orgref_20170703/resource/12175662.. http://risis.eu/orgref_20170703/resource/40645291.. 0.85............................................... [University of Kisangani] was compared to [Nişantaşı University] 
+	http://risis.eu/orgref_20170703/resource/40645291.. http://risis.eu/eter_2014/resource/TR0146.......... 0.863636363636..................................... [Nişantaşı University] was compared to [NİŞANTAŞI ÜNİVERSİTESİ] 
+	http://risis.eu/eter_2014/resource/TR0146.......... http://risis.eu/orgref_20170703/resource/40645291.. 0.863636363636..................................... [Nişantaşı University] was compared to [NİŞANTAŞI ÜNİVERSİTESİ] 
+	http://www.grid.ac/institutes/grid.449484.1........ http://risis.eu/orgref_20170703/resource/12175662.. 0.85............................................... [Nişantaşı University] was compared to [University of Kisangani] 
+	http://risis.eu/orgref_20170703/resource/12175662.. http://www.grid.ac/institutes/grid.449484.1........ 0.85............................................... [Nişantaşı University] was compared to [University of Kisangani] 
+	http://risis.eu/eter_2014/resource/TR0146.......... http://www.grid.ac/institutes/grid.449484.1........ 0.863636363636..................................... [Nişantaşı University] was compared to [NİŞANTAŞI ÜNİVERSİTESİ] 
+	http://www.grid.ac/institutes/grid.449484.1........ http://risis.eu/eter_2014/resource/TR0146.......... 0.863636363636..................................... [Nişantaşı University] was compared to [NİŞANTAŞI ÜNİVERSİTESİ] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/40645291.. http://en.wikipedia.org/wiki?curid=40645291........ 
+	http://risis.eu/orgref_20170703/resource/40645291.. http://www.wikidata.org/wiki/Q6069457.............. 
+	http://risis.eu/orgref_20170703/resource/40645291.. http://www.nisantasi.edu.tr........................ 
+	http://risis.eu/orgref_20170703/resource/40645291.. Nişantaşı University............................ 
+	http://risis.eu/eter_2014/resource/TR0146.......... 41,010182.......................................... 
+	http://risis.eu/eter_2014/resource/TR0146.......... 28,96261........................................... 
+	http://risis.eu/eter_2014/resource/TR0146.......... http://www.nisantasi.edu.tr........................ 
+	http://risis.eu/eter_2014/resource/TR0146.......... a.................................................. 
+	http://risis.eu/eter_2014/resource/TR0146.......... Nisantasi University............................... 
+	http://risis.eu/eter_2014/resource/TR0146.......... NİŞANTAŞI ÜNİVERSİTESİ...................... 
+	http://www.grid.ac/institutes/grid.449484.1........ Nişantaşı University............................ 
+	http://www.grid.ac/institutes/grid.440806.e........ Université de Kisangani........................... 
+	http://risis.eu/orgref_20170703/resource/12175662.. http://en.wikipedia.org/wiki?curid=12175662........ 
+	http://risis.eu/orgref_20170703/resource/12175662.. http://www.wikidata.org/wiki/Q780301............... 
+	http://risis.eu/orgref_20170703/resource/12175662.. http://www.unikis.ac.cd............................ 
+	http://risis.eu/orgref_20170703/resource/12175662.. University of Kisangani............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:40645291', '5:12175662'), ('2:TR0146', '1:40645291'), ('2:TR0146', '3:grid.449484.1'), ('3:grid.449484.1', '1:40645291'), ('5:12175662', '3:grid.449484.1'), ('5:12175662', '4:grid.440806.e')]
+	MAX DISTANCE:                   : 0.6
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 1.7
+	AVERAGE NODE CONNECTIVITY RATIO : 0.425
+	BRIDGES                         : 1
+	CLOSURE                         : 0.6
+	DIAMETER                        : 3
+	QUALITY                         : 0.439
+	QUALITY USED                    : 0.484
+	SUMMARY 1: BRIDGE 0.25 CLOSURE 0.4 DIAMETER 0.667 QUALITY 0.439 QUALITY USED 0.484
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.4 DIAMETER 0.667 QUALITY 0.439 QUALITY USED 0.484

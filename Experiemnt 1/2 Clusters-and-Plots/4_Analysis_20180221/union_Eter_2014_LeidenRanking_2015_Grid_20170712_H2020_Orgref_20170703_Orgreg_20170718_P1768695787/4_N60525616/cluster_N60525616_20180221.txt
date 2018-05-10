@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 4306 
+NAME    N60525616
+
+RESOURCES INVOLVED
+	<http://risis.eu/cordisH2020/resource/participant_998096051>
+	<http://risis.eu/eter_2014/resource/FR0177>
+	<http://risis.eu/orgref_20170703/resource/3749721>
+	<http://www.grid.ac/institutes/grid.46900.3b>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/3749721............ http://www.grid.ac/institutes/grid.46900.3b................. 1........................................................... [University of Paris-Sorbonne] was compared to [Paris-Sorbonne University] 
+	http://www.grid.ac/institutes/grid.46900.3b................. http://risis.eu/orgref_20170703/resource/3749721............ 1........................................................... [University of Paris-Sorbonne] was compared to [Paris-Sorbonne University] 
+	http://risis.eu/eter_2014/resource/FR0177................... http://www.grid.ac/institutes/grid.46900.3b................. 0.958333333333.............................................. [University of Paris-Sorbonne] was compared to [Université Paris-Sorbonne] 
+	http://www.grid.ac/institutes/grid.46900.3b................. http://risis.eu/eter_2014/resource/FR0177................... 0.958333333333.............................................. [University of Paris-Sorbonne] was compared to [Université Paris-Sorbonne] 
+	http://risis.eu/cordisH2020/resource/participant_998096051.. http://www.grid.ac/institutes/grid.46900.3b................. 0.958333333333.............................................. [University of Paris-Sorbonne] was compared to [UNIVERSITE DE PARIS-SORBONNE (PARIS IV)] 
+	http://www.grid.ac/institutes/grid.46900.3b................. http://risis.eu/cordisH2020/resource/participant_998096051.. 0.958333333333.............................................. [University of Paris-Sorbonne] was compared to [UNIVERSITE DE PARIS-SORBONNE (PARIS IV)] 
+	http://risis.eu/eter_2014/resource/FR0177................... http://risis.eu/orgref_20170703/resource/3749721............ 0.958333333333.............................................. [Paris-Sorbonne University] was compared to [Université Paris-Sorbonne] 
+	http://risis.eu/orgref_20170703/resource/3749721............ http://risis.eu/eter_2014/resource/FR0177................... 0.958333333333.............................................. [Paris-Sorbonne University] was compared to [Université Paris-Sorbonne] 
+	http://risis.eu/cordisH2020/resource/participant_998096051.. http://risis.eu/orgref_20170703/resource/3749721............ 0.958333333333.............................................. [Paris-Sorbonne University] was compared to [UNIVERSITE DE PARIS-SORBONNE (PARIS IV)] 
+	http://risis.eu/orgref_20170703/resource/3749721............ http://risis.eu/cordisH2020/resource/participant_998096051.. 0.958333333333.............................................. [Paris-Sorbonne University] was compared to [UNIVERSITE DE PARIS-SORBONNE (PARIS IV)] 
+	http://risis.eu/cordisH2020/resource/participant_998096051.. http://risis.eu/eter_2014/resource/FR0177................... 1........................................................... [UNIVERSITE DE PARIS-SORBONNE (PARIS IV)] was compared to [Université Paris-Sorbonne] 
+	http://risis.eu/eter_2014/resource/FR0177................... http://risis.eu/cordisH2020/resource/participant_998096051.. 1........................................................... [UNIVERSITE DE PARIS-SORBONNE (PARIS IV)] was compared to [Université Paris-Sorbonne] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_998096051.. http://www.paris.sorbonne.fr/fr/............................ 
+	http://risis.eu/cordisH2020/resource/participant_998096051.. UNIVERSITE DE PARIS-SORBONNE (PARIS IV)..................... 
+	http://risis.eu/eter_2014/resource/FR0177................... 48,848456................................................... 
+	http://risis.eu/eter_2014/resource/FR0177................... 2,343277.................................................... 
+	http://risis.eu/eter_2014/resource/FR0177................... http://www.paris-sorbonne.fr/............................... 
+	http://risis.eu/eter_2014/resource/FR0177................... m........................................................... 
+	http://risis.eu/eter_2014/resource/FR0177................... Paris-Sorbonne University................................... 
+	http://risis.eu/eter_2014/resource/FR0177................... Université Paris-Sorbonne.................................. 
+	http://risis.eu/orgref_20170703/resource/3749721............ http://en.wikipedia.org/wiki?curid=3749721.................. 
+	http://risis.eu/orgref_20170703/resource/3749721............ http://www.wikidata.org/wiki/Q546118........................ 
+	http://risis.eu/orgref_20170703/resource/3749721............ http://www.paris-sorbonne.fr................................ 
+	http://risis.eu/orgref_20170703/resource/3749721............ Paris-Sorbonne University................................... 
+	http://www.grid.ac/institutes/grid.46900.3b................. 2.343234.................................................... 
+	http://www.grid.ac/institutes/grid.46900.3b................. 48.848415................................................... 
+	http://www.grid.ac/institutes/grid.46900.3b................. http://www.english.paris-sorbonne.fr/....................... 
+	http://www.grid.ac/institutes/grid.46900.3b................. Paris IV.................................................... 
+	http://www.grid.ac/institutes/grid.46900.3b................. University of Paris-Sorbonne................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:FR0177', '1:participant_998096051'), ('2:FR0177', '3:3749721'), ('2:FR0177', '4:grid.46900.3b'), ('3:3749721', '1:participant_998096051'), ('3:3749721', '4:grid.46900.3b'), ('4:grid.46900.3b', '1:participant_998096051')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

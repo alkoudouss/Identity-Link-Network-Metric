@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 9578 
+NAME    N938533634
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.129553.9>
+	<http://risis.eu/cordisH2020/resource/participant_999885604>
+	<http://risis.eu/orgreg_20170718/resource/HU0016>
+	<http://risis.eu/leidenRanking_2015/resource/386>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.129553.9................. http://risis.eu/leidenRanking_2015/resource/386............. 0.95652173913............................................... [Szent István University] was compared to [Szent Istv�n University] 
+	http://risis.eu/leidenRanking_2015/resource/386............. http://www.grid.ac/institutes/grid.129553.9................. 0.95652173913............................................... [Szent István University] was compared to [Szent Istv�n University] 
+	http://www.grid.ac/institutes/grid.129553.9................. http://risis.eu/cordisH2020/resource/participant_999885604.. 1........................................................... [Szent István University] was compared to [SZENT ISTVAN UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_999885604.. http://www.grid.ac/institutes/grid.129553.9................. 1........................................................... [Szent István University] was compared to [SZENT ISTVAN UNIVERSITY] 
+	http://risis.eu/orgreg_20170718/resource/HU0016............. http://risis.eu/leidenRanking_2015/resource/386............. 0.95652173913............................................... [Szent István University] was compared to [Szent Istv�n University] 
+	http://risis.eu/leidenRanking_2015/resource/386............. http://risis.eu/orgreg_20170718/resource/HU0016............. 0.95652173913............................................... [Szent István University] was compared to [Szent Istv�n University] 
+	http://risis.eu/cordisH2020/resource/participant_999885604.. http://risis.eu/orgreg_20170718/resource/HU0016............. 1........................................................... [Szent István University] was compared to [SZENT ISTVAN UNIVERSITY] 
+	http://risis.eu/orgreg_20170718/resource/HU0016............. http://risis.eu/cordisH2020/resource/participant_999885604.. 1........................................................... [Szent István University] was compared to [SZENT ISTVAN UNIVERSITY] 
+	http://www.grid.ac/institutes/grid.129553.9................. http://risis.eu/orgreg_20170718/resource/HU0016............. 1........................................................... [Szent István University] was compared to [Szent István University] 
+	http://risis.eu/orgreg_20170718/resource/HU0016............. http://www.grid.ac/institutes/grid.129553.9................. 1........................................................... [Szent István University] was compared to [Szent István University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.129553.9................. 19.3612..................................................... 
+	http://www.grid.ac/institutes/grid.129553.9................. 47.5938..................................................... 
+	http://www.grid.ac/institutes/grid.129553.9................. http://sziu.hu/............................................. 
+	http://www.grid.ac/institutes/grid.129553.9................. Szent István Egyetem....................................... 
+	http://www.grid.ac/institutes/grid.129553.9................. Szent István University.................................... 
+	http://risis.eu/cordisH2020/resource/participant_999885604.. http://www.szie.hu.......................................... 
+	http://risis.eu/cordisH2020/resource/participant_999885604.. SZENT ISTVAN UNIVERSITY..................................... 
+	http://risis.eu/orgreg_20170718/resource/HU0016............. 19.270446................................................... 
+	http://risis.eu/orgreg_20170718/resource/HU0016............. 47.681031................................................... 
+	http://risis.eu/orgreg_20170718/resource/HU0016............. www.szie.hu................................................. 
+	http://risis.eu/orgreg_20170718/resource/HU0016............. Szent István University.................................... 
+	http://risis.eu/leidenRanking_2015/resource/386............. Szent Istv�n University................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_999885604', '1:grid.129553.9'), ('2:participant_999885604', '3:HU0016'), ('3:HU0016', '1:grid.129553.9'), ('4:386', '1:grid.129553.9'), ('4:386', '3:HU0016')]
+	MAX DISTANCE:                   : 0.833
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 2.16666666667
+	AVERAGE NODE CONNECTIVITY RATIO : 0.722222222222
+	BRIDGES                         : 0
+	CLOSURE                         : 0.833
+	DIAMETER                        : 2
+	QUALITY                         : 0.223
+	QUALITY USED                    : 0.223
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223

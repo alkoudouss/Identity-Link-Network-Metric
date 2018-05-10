@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 18056 
+NAME    N18967815
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/NL2005>
+	<http://risis.eu/orgref_20170703/resource/8986821>
+	<http://www.grid.ac/institutes/grid.5650.6>
+	<http://www.grid.ac/institutes/grid.460265.3>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgreg_20170718/resource/NL2005... http://www.grid.ac/institutes/grid.5650.6......... 1................................................. [Academic Medical Center] was compared to [Academic Medical Center] 
+	http://risis.eu/orgreg_20170718/resource/NL2005... http://www.grid.ac/institutes/grid.460265.3....... 0.875............................................. [Academic Center of Medicine] was compared to [Academic Medical Center] 
+	http://risis.eu/orgreg_20170718/resource/NL2005... http://risis.eu/orgref_20170703/resource/8986821.. 1................................................. [Academic Medical Center] was compared to [Academic Medical Center] 
+	http://risis.eu/orgref_20170703/resource/8986821.. http://risis.eu/orgreg_20170718/resource/NL2005... 1................................................. [Academic Medical Center] was compared to [Academic Medical Center] 
+	http://risis.eu/orgref_20170703/resource/8986821.. http://www.grid.ac/institutes/grid.5650.6......... 1................................................. [Academic Medical Center] was compared to [Academic Medical Center] 
+	http://risis.eu/orgref_20170703/resource/8986821.. http://www.grid.ac/institutes/grid.460265.3....... 0.875............................................. [Academic Center of Medicine] was compared to [Academic Medical Center] 
+	http://www.grid.ac/institutes/grid.5650.6......... http://risis.eu/orgref_20170703/resource/8986821.. 1................................................. [Academic Medical Center] was compared to [Academic Medical Center] 
+	http://www.grid.ac/institutes/grid.5650.6......... http://risis.eu/orgreg_20170718/resource/NL2005... 1................................................. [Academic Medical Center] was compared to [Academic Medical Center] 
+	http://www.grid.ac/institutes/grid.5650.6......... http://www.grid.ac/institutes/grid.460265.3....... 0.875............................................. [Academic Center of Medicine] was compared to [Academic Medical Center] 
+	http://www.grid.ac/institutes/grid.460265.3....... http://www.grid.ac/institutes/grid.5650.6......... 0.875............................................. [Academic Center of Medicine] was compared to [Academic Medical Center] 
+	http://www.grid.ac/institutes/grid.460265.3....... http://risis.eu/orgref_20170703/resource/8986821.. 0.875............................................. [Academic Center of Medicine] was compared to [Academic Medical Center] 
+	http://www.grid.ac/institutes/grid.460265.3....... http://risis.eu/orgreg_20170718/resource/NL2005... 0.875............................................. [Academic Center of Medicine] was compared to [Academic Medical Center] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgreg_20170718/resource/NL2005... 4................................................. 
+	http://risis.eu/orgreg_20170718/resource/NL2005... 52................................................ 
+	http://risis.eu/orgreg_20170718/resource/NL2005... https://www.amc.nl/............................... 
+	http://risis.eu/orgreg_20170718/resource/NL2005... Academic Medical Center........................... 
+	http://risis.eu/orgref_20170703/resource/8986821.. http://en.wikipedia.org/wiki?curid=8986821........ 
+	http://risis.eu/orgref_20170703/resource/8986821.. http://www.wikidata.org/wiki/Q2487297............. 
+	http://risis.eu/orgref_20170703/resource/8986821.. https://www.amc.nl................................ 
+	http://risis.eu/orgref_20170703/resource/8986821.. Academic Medical Center........................... 
+	http://www.grid.ac/institutes/grid.5650.6......... 4.957778.......................................... 
+	http://www.grid.ac/institutes/grid.5650.6......... 52.29333.......................................... 
+	http://www.grid.ac/institutes/grid.5650.6......... https://www.amc.nl/web/Zorg.htm................... 
+	http://www.grid.ac/institutes/grid.5650.6......... Academic Medical Center........................... 
+	http://www.grid.ac/institutes/grid.460265.3....... 21.04577.......................................... 
+	http://www.grid.ac/institutes/grid.460265.3....... 52.2014........................................... 
+	http://www.grid.ac/institutes/grid.460265.3....... http://akcemed.pl/en.html......................... 
+	http://www.grid.ac/institutes/grid.460265.3....... Akademickie Centrum Medyczne...................... 
+	http://www.grid.ac/institutes/grid.460265.3....... Academic Center of Medicine....................... 
+
+NETWORK ANALYSIS
+	NETWORK [('N18967815-8986821', 'P1350474768-grid.460265.3'), ('N18967815-8986821', 'P273185752-NL2005'), ('P273185752-NL2005', 'P1350474768-grid.460265.3'), ('P1350474768-grid.460265.3', 'P291554102-grid.5650.6'), ('P273185752-NL2005', 'P291554102-grid.5650.6'), ('N18967815-8986821', 'P291554102-grid.5650.6')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

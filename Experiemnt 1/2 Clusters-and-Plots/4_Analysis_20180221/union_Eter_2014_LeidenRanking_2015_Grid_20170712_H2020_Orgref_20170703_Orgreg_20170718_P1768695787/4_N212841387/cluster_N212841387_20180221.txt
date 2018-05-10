@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 7144 
+NAME    N212841387
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.5170.3>
+	<http://risis.eu/orgreg_20170718/resource/DK0006>
+	<http://risis.eu/orgref_20170703/resource/144200>
+	<http://risis.eu/leidenRanking_2015/resource/111>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.5170.3........ http://risis.eu/orgref_20170703/resource/144200.. 1................................................ [Technical University of Denmark] was compared to [Technical University of Denmark] 
+	http://risis.eu/orgref_20170703/resource/144200.. http://www.grid.ac/institutes/grid.5170.3........ 1................................................ [Technical University of Denmark] was compared to [Technical University of Denmark] 
+	http://www.grid.ac/institutes/grid.5170.3........ http://risis.eu/leidenRanking_2015/resource/111.. 1................................................ [Technical University of Denmark] was compared to [Technical University of Denmark] 
+	http://risis.eu/leidenRanking_2015/resource/111.. http://www.grid.ac/institutes/grid.5170.3........ 1................................................ [Technical University of Denmark] was compared to [Technical University of Denmark] 
+	http://risis.eu/orgref_20170703/resource/144200.. http://risis.eu/leidenRanking_2015/resource/111.. 1................................................ [Technical University of Denmark] was compared to [Technical University of Denmark] 
+	http://risis.eu/leidenRanking_2015/resource/111.. http://risis.eu/orgref_20170703/resource/144200.. 1................................................ [Technical University of Denmark] was compared to [Technical University of Denmark] 
+	http://risis.eu/orgreg_20170718/resource/DK0006.. http://risis.eu/leidenRanking_2015/resource/111.. 1................................................ [Technical University of Denmark] was compared to [Technical University of Denmark] 
+	http://risis.eu/leidenRanking_2015/resource/111.. http://risis.eu/orgreg_20170718/resource/DK0006.. 1................................................ [Technical University of Denmark] was compared to [Technical University of Denmark] 
+	http://risis.eu/orgreg_20170718/resource/DK0006.. http://risis.eu/orgref_20170703/resource/144200.. 1................................................ [Technical University of Denmark] was compared to [Technical University of Denmark] 
+	http://risis.eu/orgref_20170703/resource/144200.. http://risis.eu/orgreg_20170718/resource/DK0006.. 1................................................ [Technical University of Denmark] was compared to [Technical University of Denmark] 
+	http://www.grid.ac/institutes/grid.5170.3........ http://risis.eu/orgreg_20170718/resource/DK0006.. 1................................................ [Technical University of Denmark] was compared to [Technical University of Denmark] 
+	http://risis.eu/orgreg_20170718/resource/DK0006.. http://www.grid.ac/institutes/grid.5170.3........ 1................................................ [Technical University of Denmark] was compared to [Technical University of Denmark] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.5170.3........ 12.521533........................................ 
+	http://www.grid.ac/institutes/grid.5170.3........ 55.785797........................................ 
+	http://www.grid.ac/institutes/grid.5170.3........ http://www.dtu.dk/english........................ 
+	http://www.grid.ac/institutes/grid.5170.3........ Danmarks Tekniske Universitet.................... 
+	http://www.grid.ac/institutes/grid.5170.3........ Technical University of Denmark.................. 
+	http://risis.eu/orgreg_20170718/resource/DK0006.. 12.494943........................................ 
+	http://risis.eu/orgreg_20170718/resource/DK0006.. 55.763516........................................ 
+	http://risis.eu/orgreg_20170718/resource/DK0006.. http://www.dtu.dk/english........................ 
+	http://risis.eu/orgreg_20170718/resource/DK0006.. Technical University of Denmark.................. 
+	http://risis.eu/orgref_20170703/resource/144200.. http://en.wikipedia.org/wiki?curid=144200........ 
+	http://risis.eu/orgref_20170703/resource/144200.. http://www.wikidata.org/wiki/Q1269766............ 
+	http://risis.eu/orgref_20170703/resource/144200.. http://www.dtu.dk/english........................ 
+	http://risis.eu/orgref_20170703/resource/144200.. Technical University of Denmark.................. 
+	http://risis.eu/leidenRanking_2015/resource/111.. Technical University of Denmark.................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:DK0006', '1:grid.5170.3'), ('3:144200', '1:grid.5170.3'), ('3:144200', '2:DK0006'), ('4:111', '1:grid.5170.3'), ('4:111', '2:DK0006'), ('4:111', '3:144200')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

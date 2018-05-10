@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 15500 
+NAME    N451035238
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.482394.0>
+	<http://www.grid.ac/institutes/grid.481623.a>
+	<http://www.grid.ac/institutes/grid.457925.8>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.482394.0.. http://www.grid.ac/institutes/grid.457925.8.. 1............................................ [Dräger (Norway)] was compared to [Dräger (Netherlands)] 
+	http://www.grid.ac/institutes/grid.482394.0.. http://www.grid.ac/institutes/grid.481623.a.. 1............................................ [Dräger (United States)] was compared to [Dräger (Netherlands)] 
+	http://www.grid.ac/institutes/grid.481623.a.. http://www.grid.ac/institutes/grid.482394.0.. 1............................................ [Dräger (United States)] was compared to [Dräger (Netherlands)] 
+	http://www.grid.ac/institutes/grid.481623.a.. http://www.grid.ac/institutes/grid.457925.8.. 1............................................ [Dräger (Norway)] was compared to [Dräger (United States)] 
+	http://www.grid.ac/institutes/grid.457925.8.. http://www.grid.ac/institutes/grid.481623.a.. 1............................................ [Dräger (Norway)] was compared to [Dräger (United States)] 
+	http://www.grid.ac/institutes/grid.457925.8.. http://www.grid.ac/institutes/grid.482394.0.. 1............................................ [Dräger (Norway)] was compared to [Dräger (Netherlands)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.482394.0.. 4.533055..................................... 
+	http://www.grid.ac/institutes/grid.482394.0.. 52.051044.................................... 
+	http://www.grid.ac/institutes/grid.482394.0.. https://www.draeger.com/..................... 
+	http://www.grid.ac/institutes/grid.482394.0.. Dräger (Netherlands)........................ 
+	http://www.grid.ac/institutes/grid.481623.a.. -97.00219.................................... 
+	http://www.grid.ac/institutes/grid.481623.a.. 32.91982..................................... 
+	http://www.grid.ac/institutes/grid.481623.a.. https://www.draeger.com/en-us_us/Home........ 
+	http://www.grid.ac/institutes/grid.481623.a.. Dräger (United States)...................... 
+	http://www.grid.ac/institutes/grid.457925.8.. 10.823981.................................... 
+	http://www.grid.ac/institutes/grid.457925.8.. 59.91186..................................... 
+	http://www.grid.ac/institutes/grid.457925.8.. http://www.draeger.com/sites/no_no/Pages/default.aspx 
+	http://www.grid.ac/institutes/grid.457925.8.. Dräger (Norway)............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('P1194060390-grid.457925.8', 'P523370499-grid.481623.a'), ('P523370499-grid.481623.a', 'N451035238-grid.482394.0'), ('P1194060390-grid.457925.8', 'N451035238-grid.482394.0')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

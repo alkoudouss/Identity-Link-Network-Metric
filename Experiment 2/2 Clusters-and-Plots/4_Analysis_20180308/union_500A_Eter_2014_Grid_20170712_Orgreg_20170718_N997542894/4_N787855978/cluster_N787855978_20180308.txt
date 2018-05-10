@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 461 
+NAME    N787855978
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.17236.31>
+	<http://risis.eu/eter_2014/resource/UK0013>
+	<http://www.grid.ac/institutes/grid.417908.3>
+	<http://risis.eu/eter_2014/resource/UK0012>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.17236.31.. http://risis.eu/eter_2014/resource/UK0012.... 0.814814814815............................... [arts university bournemouth] was compared to [bournemouth university] 
+	http://www.grid.ac/institutes/grid.17236.31.. http://risis.eu/eter_2014/resource/UK0013.... 1............................................ [bournemouth university] was compared to [bournemouth university] 
+	http://risis.eu/eter_2014/resource/UK0013.... http://www.grid.ac/institutes/grid.17236.31.. 1............................................ [bournemouth university] was compared to [bournemouth university] 
+	http://risis.eu/eter_2014/resource/UK0013.... http://www.grid.ac/institutes/grid.417908.3.. 0.814814814815............................... [bournemouth university] was compared to [arts university bournemouth] 
+	http://www.grid.ac/institutes/grid.417908.3.. http://risis.eu/eter_2014/resource/UK0012.... 1............................................ [arts university bournemouth] was compared to [arts university bournemouth] 
+	http://www.grid.ac/institutes/grid.417908.3.. http://risis.eu/eter_2014/resource/UK0013.... 0.814814814815............................... [bournemouth university] was compared to [arts university bournemouth] 
+	http://risis.eu/eter_2014/resource/UK0012.... http://www.grid.ac/institutes/grid.17236.31.. 0.814814814815............................... [arts university bournemouth] was compared to [bournemouth university] 
+	http://risis.eu/eter_2014/resource/UK0012.... http://www.grid.ac/institutes/grid.417908.3.. 1............................................ [arts university bournemouth] was compared to [arts university bournemouth] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.17236.31.. -1.897244.................................... 
+	http://www.grid.ac/institutes/grid.17236.31.. 50.74325..................................... 
+	http://www.grid.ac/institutes/grid.17236.31.. https://www1.bournemouth.ac.uk/.............. 
+	http://www.grid.ac/institutes/grid.17236.31.. Bournemouth Municipal College................ 
+	http://www.grid.ac/institutes/grid.17236.31.. Bournemouth University....................... 
+	http://risis.eu/eter_2014/resource/UK0013.... 50,742979.................................... 
+	http://risis.eu/eter_2014/resource/UK0013.... -1,897168.................................... 
+	http://risis.eu/eter_2014/resource/UK0013.... http://home.bournemouth.ac.uk/............... 
+	http://risis.eu/eter_2014/resource/UK0013.... a............................................ 
+	http://risis.eu/eter_2014/resource/UK0013.... Bournemouth University....................... 
+	http://www.grid.ac/institutes/grid.417908.3.. -1.897942.................................... 
+	http://www.grid.ac/institutes/grid.417908.3.. 50.741467.................................... 
+	http://www.grid.ac/institutes/grid.417908.3.. Arts University Bournemouth.................. 
+	http://risis.eu/eter_2014/resource/UK0012.... 50,741793.................................... 
+	http://risis.eu/eter_2014/resource/UK0012.... -1,897709.................................... 
+	http://risis.eu/eter_2014/resource/UK0012.... http://www.aub.ac.uk/........................ 
+	http://risis.eu/eter_2014/resource/UK0012.... a............................................ 
+	http://risis.eu/eter_2014/resource/UK0012.... The Arts University Bournemouth.............. 
+
+NETWORK ANALYSIS
+	NETWORK [('P1489200437-UK0012', 'N787855978-grid.417908.3'), ('P1489200437-UK0012', 'P1120876537-grid.17236.31'), ('P1490200438-UK0013', 'P1120876537-grid.17236.31'), ('P1490200438-UK0013', 'N787855978-grid.417908.3')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.666666666667
+	BRIDGES                         : 0
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.277
+	QUALITY USED                    : 0.277
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.277 QUALITY USED 0.277
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.277 QUALITY USED 0.277

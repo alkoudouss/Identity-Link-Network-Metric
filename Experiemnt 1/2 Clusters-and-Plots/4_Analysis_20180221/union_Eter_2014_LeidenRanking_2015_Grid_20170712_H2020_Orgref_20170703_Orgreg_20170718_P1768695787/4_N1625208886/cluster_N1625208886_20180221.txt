@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 16028 
+NAME    N1625208886
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.425744.4>
+	<http://www.grid.ac/institutes/grid.436113.2>
+	<http://risis.eu/orgref_20170703/resource/19774688>
+	<http://risis.eu/orgref_20170703/resource/10683041>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.425744.4........ http://risis.eu/orgref_20170703/resource/19774688.. 1.................................................. [Ministry of the Internal Administration] was compared to [Ministry of Internal Administration (Portugal)] 
+	http://risis.eu/orgref_20170703/resource/19774688.. http://www.grid.ac/institutes/grid.425744.4........ 1.................................................. [Ministry of the Internal Administration] was compared to [Ministry of Internal Administration (Portugal)] 
+	http://www.grid.ac/institutes/grid.436113.2........ http://risis.eu/orgref_20170703/resource/10683041.. 1.................................................. [Ministry of Interior and Administration] was compared to [Ministry of Interior and Administration (Poland)] 
+	http://risis.eu/orgref_20170703/resource/10683041.. http://www.grid.ac/institutes/grid.436113.2........ 1.................................................. [Ministry of Interior and Administration] was compared to [Ministry of Interior and Administration (Poland)] 
+	http://risis.eu/orgref_20170703/resource/19774688.. http://risis.eu/orgref_20170703/resource/10683041.. 0.90625............................................ [Ministry of Interior and Administration (Poland)] was compared to [Ministry of Internal Administration (Portugal)] 
+	http://risis.eu/orgref_20170703/resource/10683041.. http://risis.eu/orgref_20170703/resource/19774688.. 0.90625............................................ [Ministry of Interior and Administration (Poland)] was compared to [Ministry of Internal Administration (Portugal)] 
+	http://www.grid.ac/institutes/grid.425744.4........ http://www.grid.ac/institutes/grid.436113.2........ 0.90625............................................ [Ministry of the Internal Administration] was compared to [Ministry of Interior and Administration] 
+	http://www.grid.ac/institutes/grid.436113.2........ http://www.grid.ac/institutes/grid.425744.4........ 0.90625............................................ [Ministry of the Internal Administration] was compared to [Ministry of Interior and Administration] 
+	http://www.grid.ac/institutes/grid.425744.4........ http://risis.eu/orgref_20170703/resource/10683041.. 0.90625............................................ [Ministry of the Internal Administration] was compared to [Ministry of Interior and Administration (Poland)] 
+	http://risis.eu/orgref_20170703/resource/10683041.. http://www.grid.ac/institutes/grid.425744.4........ 0.90625............................................ [Ministry of the Internal Administration] was compared to [Ministry of Interior and Administration (Poland)] 
+	http://www.grid.ac/institutes/grid.436113.2........ http://risis.eu/orgref_20170703/resource/19774688.. 0.90625............................................ [Ministry of Interior and Administration] was compared to [Ministry of Internal Administration (Portugal)] 
+	http://risis.eu/orgref_20170703/resource/19774688.. http://www.grid.ac/institutes/grid.436113.2........ 0.90625............................................ [Ministry of Interior and Administration] was compared to [Ministry of Internal Administration (Portugal)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.425744.4........ Ministry of the Internal Administration............ 
+	http://www.grid.ac/institutes/grid.436113.2........ Ministry of Interior and Administration............ 
+	http://risis.eu/orgref_20170703/resource/19774688.. http://en.wikipedia.org/wiki?curid=19774688........ 
+	http://risis.eu/orgref_20170703/resource/19774688.. http://www.wikidata.org/wiki/Q4294291.............. 
+	http://risis.eu/orgref_20170703/resource/19774688.. http://www.mai.gov.pt.............................. 
+	http://risis.eu/orgref_20170703/resource/19774688.. Ministry of Internal Administration (Portugal)..... 
+	http://risis.eu/orgref_20170703/resource/10683041.. http://en.wikipedia.org/wiki?curid=10683041........ 
+	http://risis.eu/orgref_20170703/resource/10683041.. http://www.wikidata.org/wiki/Q4294318.............. 
+	http://risis.eu/orgref_20170703/resource/10683041.. http://www.mswia.gov.pl............................ 
+	http://risis.eu/orgref_20170703/resource/10683041.. Ministry of Interior and Administration (Poland)... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.436113.2', '1:grid.425744.4'), ('3:19774688', '1:grid.425744.4'), ('3:19774688', '2:grid.436113.2'), ('3:19774688', '4:10683041'), ('4:10683041', '1:grid.425744.4'), ('4:10683041', '2:grid.436113.2')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 9462 
+NAME    N2110731758
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.281018.2>
+	<http://www.grid.ac/institutes/grid.442705.0>
+	<http://risis.eu/orgref_20170703/resource/5000730>
+	<http://risis.eu/orgref_20170703/resource/2465765>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.281018.2....... http://risis.eu/orgref_20170703/resource/5000730.. 1................................................. [Salus University] was compared to [Salus University] 
+	http://risis.eu/orgref_20170703/resource/5000730.. http://www.grid.ac/institutes/grid.281018.2....... 1................................................. [Salus University] was compared to [Salus University] 
+	http://www.grid.ac/institutes/grid.442705.0....... http://risis.eu/orgref_20170703/resource/2465765.. 1................................................. [Solusi University] was compared to [Solusi University] 
+	http://risis.eu/orgref_20170703/resource/2465765.. http://www.grid.ac/institutes/grid.442705.0....... 1................................................. [Solusi University] was compared to [Solusi University] 
+	http://risis.eu/orgref_20170703/resource/5000730.. http://risis.eu/orgref_20170703/resource/2465765.. 0.882352941176.................................... [Solusi University] was compared to [Salus University] 
+	http://risis.eu/orgref_20170703/resource/2465765.. http://risis.eu/orgref_20170703/resource/5000730.. 0.882352941176.................................... [Solusi University] was compared to [Salus University] 
+	http://www.grid.ac/institutes/grid.281018.2....... http://www.grid.ac/institutes/grid.442705.0....... 0.882352941176.................................... [Salus University] was compared to [Solusi University] 
+	http://www.grid.ac/institutes/grid.442705.0....... http://www.grid.ac/institutes/grid.281018.2....... 0.882352941176.................................... [Salus University] was compared to [Solusi University] 
+	http://www.grid.ac/institutes/grid.281018.2....... http://risis.eu/orgref_20170703/resource/2465765.. 0.882352941176.................................... [Salus University] was compared to [Solusi University] 
+	http://risis.eu/orgref_20170703/resource/2465765.. http://www.grid.ac/institutes/grid.281018.2....... 0.882352941176.................................... [Salus University] was compared to [Solusi University] 
+	http://www.grid.ac/institutes/grid.442705.0....... http://risis.eu/orgref_20170703/resource/5000730.. 0.882352941176.................................... [Solusi University] was compared to [Salus University] 
+	http://risis.eu/orgref_20170703/resource/5000730.. http://www.grid.ac/institutes/grid.442705.0....... 0.882352941176.................................... [Solusi University] was compared to [Salus University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.281018.2....... -75.1311.......................................... 
+	http://www.grid.ac/institutes/grid.281018.2....... 40.0853........................................... 
+	http://www.grid.ac/institutes/grid.281018.2....... http://www.salus.edu/............................. 
+	http://www.grid.ac/institutes/grid.281018.2....... Salus University.................................. 
+	http://www.grid.ac/institutes/grid.442705.0....... Solusi University................................. 
+	http://risis.eu/orgref_20170703/resource/5000730.. http://en.wikipedia.org/wiki?curid=5000730........ 
+	http://risis.eu/orgref_20170703/resource/5000730.. http://www.wikidata.org/wiki/Q7406311............. 
+	http://risis.eu/orgref_20170703/resource/5000730.. https://www.salus.edu............................. 
+	http://risis.eu/orgref_20170703/resource/5000730.. Salus University.................................. 
+	http://risis.eu/orgref_20170703/resource/2465765.. http://en.wikipedia.org/wiki?curid=2465765........ 
+	http://risis.eu/orgref_20170703/resource/2465765.. http://www.wikidata.org/wiki/Q5308248............. 
+	http://risis.eu/orgref_20170703/resource/2465765.. http://solusi.ac.zw............................... 
+	http://risis.eu/orgref_20170703/resource/2465765.. Solusi University................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.442705.0', '1:grid.281018.2'), ('3:5000730', '1:grid.281018.2'), ('3:5000730', '2:grid.442705.0'), ('4:2465765', '1:grid.281018.2'), ('4:2465765', '2:grid.442705.0'), ('4:2465765', '3:5000730')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 2160 
+NAME    N988326040
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.424675.6>
+	<http://www.grid.ac/institutes/grid.455453.6>
+	<http://www.grid.ac/institutes/grid.432624.5>
+	<http://www.grid.ac/institutes/grid.421480.b>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.424675.6.. http://www.grid.ac/institutes/grid.421480.b.. 1............................................ [Ansys (United Kingdom)] was compared to [Ansys (France)] 
+	http://www.grid.ac/institutes/grid.421480.b.. http://www.grid.ac/institutes/grid.424675.6.. 1............................................ [Ansys (United Kingdom)] was compared to [Ansys (France)] 
+	http://www.grid.ac/institutes/grid.455453.6.. http://www.grid.ac/institutes/grid.421480.b.. 1............................................ [Ansys (United Kingdom)] was compared to [Ansys (United States)] 
+	http://www.grid.ac/institutes/grid.421480.b.. http://www.grid.ac/institutes/grid.455453.6.. 1............................................ [Ansys (United Kingdom)] was compared to [Ansys (United States)] 
+	http://www.grid.ac/institutes/grid.432624.5.. http://www.grid.ac/institutes/grid.421480.b.. 1............................................ [Ansys (United Kingdom)] was compared to [Ansys (Canada)] 
+	http://www.grid.ac/institutes/grid.421480.b.. http://www.grid.ac/institutes/grid.432624.5.. 1............................................ [Ansys (United Kingdom)] was compared to [Ansys (Canada)] 
+	http://www.grid.ac/institutes/grid.424675.6.. http://www.grid.ac/institutes/grid.455453.6.. 1............................................ [Ansys (France)] was compared to [Ansys (United States)] 
+	http://www.grid.ac/institutes/grid.455453.6.. http://www.grid.ac/institutes/grid.424675.6.. 1............................................ [Ansys (France)] was compared to [Ansys (United States)] 
+	http://www.grid.ac/institutes/grid.424675.6.. http://www.grid.ac/institutes/grid.432624.5.. 1............................................ [Ansys (France)] was compared to [Ansys (Canada)] 
+	http://www.grid.ac/institutes/grid.432624.5.. http://www.grid.ac/institutes/grid.424675.6.. 1............................................ [Ansys (France)] was compared to [Ansys (Canada)] 
+	http://www.grid.ac/institutes/grid.455453.6.. http://www.grid.ac/institutes/grid.432624.5.. 1............................................ [Ansys (Canada)] was compared to [Ansys (United States)] 
+	http://www.grid.ac/institutes/grid.432624.5.. http://www.grid.ac/institutes/grid.455453.6.. 1............................................ [Ansys (Canada)] was compared to [Ansys (United States)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.424675.6.. Ansys (France)............................... 
+	http://www.grid.ac/institutes/grid.455453.6.. -80.16663.................................... 
+	http://www.grid.ac/institutes/grid.455453.6.. 40.271732.................................... 
+	http://www.grid.ac/institutes/grid.455453.6.. http://www.ansys.com/........................ 
+	http://www.grid.ac/institutes/grid.455453.6.. Ansys (United States)........................ 
+	http://www.grid.ac/institutes/grid.432624.5.. -80.519714................................... 
+	http://www.grid.ac/institutes/grid.432624.5.. 43.51134..................................... 
+	http://www.grid.ac/institutes/grid.432624.5.. http://www.ansys.com/........................ 
+	http://www.grid.ac/institutes/grid.432624.5.. Ansys (Canada)............................... 
+	http://www.grid.ac/institutes/grid.421480.b.. -1.388048.................................... 
+	http://www.grid.ac/institutes/grid.421480.b.. 53.395878.................................... 
+	http://www.grid.ac/institutes/grid.421480.b.. http://www.ansys.com/uk...................... 
+	http://www.grid.ac/institutes/grid.421480.b.. Ansys (United Kingdom)....................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.455453.6', '1:grid.424675.6'), ('2:grid.455453.6', '4:grid.421480.b'), ('3:grid.432624.5', '1:grid.424675.6'), ('3:grid.432624.5', '2:grid.455453.6'), ('3:grid.432624.5', '4:grid.421480.b'), ('4:grid.421480.b', '1:grid.424675.6')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

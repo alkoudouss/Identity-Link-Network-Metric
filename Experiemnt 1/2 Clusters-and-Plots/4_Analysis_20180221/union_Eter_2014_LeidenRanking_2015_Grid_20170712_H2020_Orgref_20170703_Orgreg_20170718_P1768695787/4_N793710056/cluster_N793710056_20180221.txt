@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 8362 
+NAME    N793710056
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/15656065>
+	<http://risis.eu/orgref_20170703/resource/41951673>
+	<http://www.grid.ac/institutes/grid.462447.7>
+	<http://www.grid.ac/institutes/grid.469992.9>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.462447.7........ http://www.grid.ac/institutes/grid.469992.9........ 1.................................................. [Laboratory of Solid State Physics] was compared to [Solid State Physics Laboratory] 
+	http://www.grid.ac/institutes/grid.469992.9........ http://www.grid.ac/institutes/grid.462447.7........ 1.................................................. [Laboratory of Solid State Physics] was compared to [Solid State Physics Laboratory] 
+	http://risis.eu/orgref_20170703/resource/15656065.. http://www.grid.ac/institutes/grid.462447.7........ 1.................................................. [Laboratory of Solid State Physics] was compared to [Solid State Physics Laboratory] 
+	http://www.grid.ac/institutes/grid.462447.7........ http://risis.eu/orgref_20170703/resource/15656065.. 1.................................................. [Laboratory of Solid State Physics] was compared to [Solid State Physics Laboratory] 
+	http://risis.eu/orgref_20170703/resource/41951673.. http://www.grid.ac/institutes/grid.462447.7........ 1.................................................. [Laboratory of Solid State Physics] was compared to [Laboratory of Solid State Physics] 
+	http://www.grid.ac/institutes/grid.462447.7........ http://risis.eu/orgref_20170703/resource/41951673.. 1.................................................. [Laboratory of Solid State Physics] was compared to [Laboratory of Solid State Physics] 
+	http://risis.eu/orgref_20170703/resource/15656065.. http://www.grid.ac/institutes/grid.469992.9........ 1.................................................. [Solid State Physics Laboratory] was compared to [Solid State Physics Laboratory] 
+	http://www.grid.ac/institutes/grid.469992.9........ http://risis.eu/orgref_20170703/resource/15656065.. 1.................................................. [Solid State Physics Laboratory] was compared to [Solid State Physics Laboratory] 
+	http://risis.eu/orgref_20170703/resource/41951673.. http://www.grid.ac/institutes/grid.469992.9........ 1.................................................. [Solid State Physics Laboratory] was compared to [Laboratory of Solid State Physics] 
+	http://www.grid.ac/institutes/grid.469992.9........ http://risis.eu/orgref_20170703/resource/41951673.. 1.................................................. [Solid State Physics Laboratory] was compared to [Laboratory of Solid State Physics] 
+	http://risis.eu/orgref_20170703/resource/15656065.. http://risis.eu/orgref_20170703/resource/41951673.. 1.................................................. [Solid State Physics Laboratory] was compared to [Laboratory of Solid State Physics] 
+	http://risis.eu/orgref_20170703/resource/41951673.. http://risis.eu/orgref_20170703/resource/15656065.. 1.................................................. [Solid State Physics Laboratory] was compared to [Laboratory of Solid State Physics] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/15656065.. http://en.wikipedia.org/wiki?curid=15656065........ 
+	http://risis.eu/orgref_20170703/resource/15656065.. http://www.wikidata.org/wiki/Q7557883.............. 
+	http://risis.eu/orgref_20170703/resource/15656065.. http://www.drdo.nic.in/labs/ecs/sspl/index.shtml... 
+	http://risis.eu/orgref_20170703/resource/15656065.. Solid State Physics Laboratory..................... 
+	http://risis.eu/orgref_20170703/resource/41951673.. http://en.wikipedia.org/wiki?curid=41951673........ 
+	http://risis.eu/orgref_20170703/resource/41951673.. http://www.wikidata.org/wiki/Q3214477.............. 
+	http://risis.eu/orgref_20170703/resource/41951673.. http://www.lps.u-psud.fr/?lang=en.................. 
+	http://risis.eu/orgref_20170703/resource/41951673.. Laboratory of Solid State Physics.................. 
+	http://www.grid.ac/institutes/grid.462447.7........ 2.179345........................................... 
+	http://www.grid.ac/institutes/grid.462447.7........ 48.70711........................................... 
+	http://www.grid.ac/institutes/grid.462447.7........ https://www.lps.u-psud.fr/?lang=en................. 
+	http://www.grid.ac/institutes/grid.462447.7........ Laboratory of Solid State Physics.................. 
+	http://www.grid.ac/institutes/grid.469992.9........ 77.21715........................................... 
+	http://www.grid.ac/institutes/grid.469992.9........ 28.701756.......................................... 
+	http://www.grid.ac/institutes/grid.469992.9........ http://www.drdo.gov.in/drdo/labs/SSPL/English/index.jsp?pg=homebody.jsp 
+	http://www.grid.ac/institutes/grid.469992.9........ Solid State Physics Laboratory..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:15656065', '4:grid.469992.9'), ('2:41951673', '1:15656065'), ('2:41951673', '3:grid.462447.7'), ('3:grid.462447.7', '1:15656065'), ('4:grid.469992.9', '2:41951673'), ('4:grid.469992.9', '3:grid.462447.7')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

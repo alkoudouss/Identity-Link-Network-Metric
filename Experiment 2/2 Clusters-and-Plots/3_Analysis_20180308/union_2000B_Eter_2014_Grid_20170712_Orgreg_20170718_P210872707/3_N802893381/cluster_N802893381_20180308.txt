@@ -1,0 +1,58 @@
+SIZE    3   
+CLUSTER 955 
+NAME    N802893381
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/LV0049>
+	<http://risis.eu/eter_2014/resource/LV0049>
+	<http://www.grid.ac/institutes/grid.475891.6>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/LV0049.. http://www.grid.ac/institutes/grid.475891.6...... 1................................................ Near each other by at most 2000 meter(s)......... 
+	http://risis.eu/orgreg_20170718/resource/LV0049.. http://risis.eu/eter_2014/resource/LV0049........ 1................................................ Near each other by at most 2000 meter(s)......... 
+	http://risis.eu/eter_2014/resource/LV0049........ http://www.grid.ac/institutes/grid.475891.6...... 1................................................ Near each other by at most 2000 meter(s)......... 
+	http://risis.eu/eter_2014/resource/LV0049........ http://risis.eu/orgreg_20170718/resource/LV0049.. 1................................................ Near each other by at most 2000 meter(s)......... 
+	http://www.grid.ac/institutes/grid.475891.6...... http://risis.eu/eter_2014/resource/LV0049........ 1................................................ Near each other by at most 2000 meter(s)......... 
+	http://www.grid.ac/institutes/grid.475891.6...... http://risis.eu/orgreg_20170718/resource/LV0049.. 1................................................ Near each other by at most 2000 meter(s)......... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/LV0049.. 24.245366........................................ 
+	http://risis.eu/orgreg_20170718/resource/LV0049.. 56.960443........................................ 
+	http://risis.eu/orgreg_20170718/resource/LV0049.. http://www.rmkoledza.lu.lv....................... 
+	http://risis.eu/orgreg_20170718/resource/LV0049.. Riga Medical College of the University of Latvia (LU RMK) 
+	http://risis.eu/eter_2014/resource/LV0049........ 56,960443........................................ 
+	http://risis.eu/eter_2014/resource/LV0049........ 24,245366........................................ 
+	http://risis.eu/eter_2014/resource/LV0049........ http://www.rmkoledza.lu.lv....................... 
+	http://risis.eu/eter_2014/resource/LV0049........ a................................................ 
+	http://risis.eu/eter_2014/resource/LV0049........ Riga Medical College of the University of Latvia (LU RMK) 
+	http://risis.eu/eter_2014/resource/LV0049........ Latvijas Universitates Rigas Medicinas koledža (LU RMK) 
+	http://www.grid.ac/institutes/grid.475891.6...... 24.232288........................................ 
+	http://www.grid.ac/institutes/grid.475891.6...... 56.96905......................................... 
+	http://www.grid.ac/institutes/grid.475891.6...... http://www.balteneko.lv/......................... 
+	http://www.grid.ac/institutes/grid.475891.6...... Balteneko........................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('N802893381-LV0049', 'P1782996906-LV0049'), ('N802893381-LV0049', 'P1463894148-grid.475891.6'), ('P1782996906-LV0049', 'P1463894148-grid.475891.6')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

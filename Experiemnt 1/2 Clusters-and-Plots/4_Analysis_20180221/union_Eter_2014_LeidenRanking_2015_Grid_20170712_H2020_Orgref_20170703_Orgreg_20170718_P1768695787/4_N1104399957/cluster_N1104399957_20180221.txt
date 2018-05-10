@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 15092 
+NAME    N1104399957
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.23082.3b>
+	<http://risis.eu/leidenRanking_2015/resource/2693>
+	<http://risis.eu/orgref_20170703/resource/10829126>
+	<http://risis.eu/eter_2014/resource/FR0243>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.23082.3b........ http://risis.eu/orgref_20170703/resource/10829126.. 0.926829268293..................................... [University of Technology of Belfort-Montbéliard] was compared to [Université de technologie de Belfort-Montbéliard] 
+	http://risis.eu/orgref_20170703/resource/10829126.. http://www.grid.ac/institutes/grid.23082.3b........ 0.926829268293..................................... [University of Technology of Belfort-Montbéliard] was compared to [Université de technologie de Belfort-Montbéliard] 
+	http://www.grid.ac/institutes/grid.23082.3b........ http://risis.eu/leidenRanking_2015/resource/2693... 0.975.............................................. [University of Technology of Belfort-Montbéliard] was compared to [University of Technology of Belfort-Montb�liard] 
+	http://risis.eu/leidenRanking_2015/resource/2693... http://www.grid.ac/institutes/grid.23082.3b........ 0.975.............................................. [University of Technology of Belfort-Montbéliard] was compared to [University of Technology of Belfort-Montb�liard] 
+	http://www.grid.ac/institutes/grid.23082.3b........ http://risis.eu/eter_2014/resource/FR0243.......... 0.926829268293..................................... [University of Technology of Belfort-Montbéliard] was compared to [Université de technologie de Belfort-Montbéliard] 
+	http://risis.eu/eter_2014/resource/FR0243.......... http://www.grid.ac/institutes/grid.23082.3b........ 0.926829268293..................................... [University of Technology of Belfort-Montbéliard] was compared to [Université de technologie de Belfort-Montbéliard] 
+	http://risis.eu/orgref_20170703/resource/10829126.. http://risis.eu/eter_2014/resource/FR0243.......... 1.................................................. [Université de technologie de Belfort-Montbéliard] was compared to [Université de technologie de Belfort-Montbéliard] 
+	http://risis.eu/eter_2014/resource/FR0243.......... http://risis.eu/orgref_20170703/resource/10829126.. 1.................................................. [Université de technologie de Belfort-Montbéliard] was compared to [Université de technologie de Belfort-Montbéliard] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.23082.3b........ 6.865833........................................... 
+	http://www.grid.ac/institutes/grid.23082.3b........ 47.588055.......................................... 
+	http://www.grid.ac/institutes/grid.23082.3b........ http://www.utbm.fr/................................ 
+	http://www.grid.ac/institutes/grid.23082.3b........ University of Technology of Belfort-Montbéliard... 
+	http://risis.eu/leidenRanking_2015/resource/2693... University of Technology of Belfort-Montb�liard.. 
+	http://risis.eu/orgref_20170703/resource/10829126.. http://en.wikipedia.org/wiki?curid=10829126........ 
+	http://risis.eu/orgref_20170703/resource/10829126.. http://www.wikidata.org/wiki/Q2399264.............. 
+	http://risis.eu/orgref_20170703/resource/10829126.. http://www.utbm.fr................................. 
+	http://risis.eu/orgref_20170703/resource/10829126.. Université de technologie de Belfort-Montbéliard. 
+	http://risis.eu/eter_2014/resource/FR0243.......... 47,606509.......................................... 
+	http://risis.eu/eter_2014/resource/FR0243.......... 6,888071........................................... 
+	http://risis.eu/eter_2014/resource/FR0243.......... http://www.utbm.fr/................................ 
+	http://risis.eu/eter_2014/resource/FR0243.......... m.................................................. 
+	http://risis.eu/eter_2014/resource/FR0243.......... University of technology of Belfort-Montbéliard... 
+	http://risis.eu/eter_2014/resource/FR0243.......... Université de technologie de Belfort-Montbéliard. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:2693', '1:grid.23082.3b'), ('3:10829126', '1:grid.23082.3b'), ('4:FR0243', '1:grid.23082.3b'), ('4:FR0243', '3:10829126')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

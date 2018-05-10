@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 6552 
+NAME    N1078446261
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.471185.e>
+	<http://www.grid.ac/institutes/grid.481687.4>
+	<http://www.grid.ac/institutes/grid.473193.b>
+	<http://www.grid.ac/institutes/grid.473195.d>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.471185.e.. http://www.grid.ac/institutes/grid.481687.4.. 1............................................ [Kohler (United States)] was compared to [Kohler (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.481687.4.. http://www.grid.ac/institutes/grid.471185.e.. 1............................................ [Kohler (United States)] was compared to [Kohler (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.471185.e.. http://www.grid.ac/institutes/grid.473193.b.. 1............................................ [Kohler (United States)] was compared to [Kohler (China)] 
+	http://www.grid.ac/institutes/grid.473193.b.. http://www.grid.ac/institutes/grid.471185.e.. 1............................................ [Kohler (United States)] was compared to [Kohler (China)] 
+	http://www.grid.ac/institutes/grid.471185.e.. http://www.grid.ac/institutes/grid.473195.d.. 1............................................ [Kohler (United States)] was compared to [Kohler (New Zealand)] 
+	http://www.grid.ac/institutes/grid.473195.d.. http://www.grid.ac/institutes/grid.471185.e.. 1............................................ [Kohler (United States)] was compared to [Kohler (New Zealand)] 
+	http://www.grid.ac/institutes/grid.481687.4.. http://www.grid.ac/institutes/grid.473193.b.. 1............................................ [Kohler (China)] was compared to [Kohler (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.473193.b.. http://www.grid.ac/institutes/grid.481687.4.. 1............................................ [Kohler (China)] was compared to [Kohler (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.473193.b.. http://www.grid.ac/institutes/grid.473195.d.. 1............................................ [Kohler (China)] was compared to [Kohler (New Zealand)] 
+	http://www.grid.ac/institutes/grid.473195.d.. http://www.grid.ac/institutes/grid.473193.b.. 1............................................ [Kohler (China)] was compared to [Kohler (New Zealand)] 
+	http://www.grid.ac/institutes/grid.481687.4.. http://www.grid.ac/institutes/grid.473195.d.. 1............................................ [Kohler (New Zealand)] was compared to [Kohler (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.473195.d.. http://www.grid.ac/institutes/grid.481687.4.. 1............................................ [Kohler (New Zealand)] was compared to [Kohler (United Kingdom)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.471185.e.. -87.77926.................................... 
+	http://www.grid.ac/institutes/grid.471185.e.. 43.740047.................................... 
+	http://www.grid.ac/institutes/grid.471185.e.. http://www.kohler.com/corporate/index.html... 
+	http://www.grid.ac/institutes/grid.471185.e.. Kohler (United States)....................... 
+	http://www.grid.ac/institutes/grid.481687.4.. -2.054958.................................... 
+	http://www.grid.ac/institutes/grid.481687.4.. 51.907555.................................... 
+	http://www.grid.ac/institutes/grid.481687.4.. https://www.kohler.co.uk/.................... 
+	http://www.grid.ac/institutes/grid.481687.4.. Kohler (United Kingdom)...................... 
+	http://www.grid.ac/institutes/grid.473193.b.. 121.436356................................... 
+	http://www.grid.ac/institutes/grid.473193.b.. 31.293213.................................... 
+	http://www.grid.ac/institutes/grid.473193.b.. http://www.kohler.com.cn/.................... 
+	http://www.grid.ac/institutes/grid.473193.b.. Kohler (China)............................... 
+	http://www.grid.ac/institutes/grid.473195.d.. 174.7365..................................... 
+	http://www.grid.ac/institutes/grid.473195.d.. -36.773594................................... 
+	http://www.grid.ac/institutes/grid.473195.d.. http://www.kohler.co.nz/..................... 
+	http://www.grid.ac/institutes/grid.473195.d.. Kohler (New Zealand)......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.481687.4', '1:grid.471185.e'), ('2:grid.481687.4', '3:grid.473193.b'), ('2:grid.481687.4', '4:grid.473195.d'), ('3:grid.473193.b', '1:grid.471185.e'), ('4:grid.473195.d', '1:grid.471185.e'), ('4:grid.473195.d', '3:grid.473193.b')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

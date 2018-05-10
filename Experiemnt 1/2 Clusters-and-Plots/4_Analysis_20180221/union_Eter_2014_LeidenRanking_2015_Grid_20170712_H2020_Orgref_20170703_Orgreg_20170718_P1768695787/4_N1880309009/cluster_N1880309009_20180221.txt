@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 17973 
+NAME    N1880309009
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/GR0017>
+	<http://risis.eu/leidenRanking_2015/resource/366>
+	<http://risis.eu/orgref_20170703/resource/602461>
+	<http://www.grid.ac/institutes/grid.8127.c>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/602461.. http://www.grid.ac/institutes/grid.8127.c........ 1................................................ [University of Crete] was compared to [University of Crete] 
+	http://www.grid.ac/institutes/grid.8127.c........ http://risis.eu/orgref_20170703/resource/602461.. 1................................................ [University of Crete] was compared to [University of Crete] 
+	http://risis.eu/leidenRanking_2015/resource/366.. http://www.grid.ac/institutes/grid.8127.c........ 1................................................ [University of Crete] was compared to [University of Crete] 
+	http://www.grid.ac/institutes/grid.8127.c........ http://risis.eu/leidenRanking_2015/resource/366.. 1................................................ [University of Crete] was compared to [University of Crete] 
+	http://risis.eu/leidenRanking_2015/resource/366.. http://risis.eu/orgref_20170703/resource/602461.. 1................................................ [University of Crete] was compared to [University of Crete] 
+	http://risis.eu/orgref_20170703/resource/602461.. http://risis.eu/leidenRanking_2015/resource/366.. 1................................................ [University of Crete] was compared to [University of Crete] 
+	http://risis.eu/orgreg_20170718/resource/GR0017.. http://risis.eu/leidenRanking_2015/resource/366.. 1................................................ [UNIVERSITY OF CRETE] was compared to [University of Crete] 
+	http://risis.eu/leidenRanking_2015/resource/366.. http://risis.eu/orgreg_20170718/resource/GR0017.. 1................................................ [UNIVERSITY OF CRETE] was compared to [University of Crete] 
+	http://risis.eu/orgreg_20170718/resource/GR0017.. http://risis.eu/orgref_20170703/resource/602461.. 1................................................ [University of Crete] was compared to [UNIVERSITY OF CRETE] 
+	http://risis.eu/orgref_20170703/resource/602461.. http://risis.eu/orgreg_20170718/resource/GR0017.. 1................................................ [University of Crete] was compared to [UNIVERSITY OF CRETE] 
+	http://risis.eu/orgreg_20170718/resource/GR0017.. http://www.grid.ac/institutes/grid.8127.c........ 1................................................ [University of Crete] was compared to [UNIVERSITY OF CRETE] 
+	http://www.grid.ac/institutes/grid.8127.c........ http://risis.eu/orgreg_20170718/resource/GR0017.. 1................................................ [University of Crete] was compared to [UNIVERSITY OF CRETE] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/GR0017.. http://www.uoc.gr/............................... 
+	http://risis.eu/orgreg_20170718/resource/GR0017.. UNIVERSITY OF CRETE.............................. 
+	http://risis.eu/leidenRanking_2015/resource/366.. University of Crete.............................. 
+	http://risis.eu/orgref_20170703/resource/602461.. http://en.wikipedia.org/wiki?curid=602461........ 
+	http://risis.eu/orgref_20170703/resource/602461.. http://www.wikidata.org/wiki/Q2302473............ 
+	http://risis.eu/orgref_20170703/resource/602461.. http://www.uoc.gr................................ 
+	http://risis.eu/orgref_20170703/resource/602461.. University of Crete.............................. 
+	http://www.grid.ac/institutes/grid.8127.c........ 25.149662........................................ 
+	http://www.grid.ac/institutes/grid.8127.c........ 35.30948......................................... 
+	http://www.grid.ac/institutes/grid.8127.c........ http://www.en.uoc.gr/............................ 
+	http://www.grid.ac/institutes/grid.8127.c........ University of Crete.............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:GR0017', '3:602461'), ('1:GR0017', '4:grid.8127.c'), ('2:366', '1:GR0017'), ('2:366', '4:grid.8127.c'), ('3:602461', '2:366'), ('4:grid.8127.c', '3:602461')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

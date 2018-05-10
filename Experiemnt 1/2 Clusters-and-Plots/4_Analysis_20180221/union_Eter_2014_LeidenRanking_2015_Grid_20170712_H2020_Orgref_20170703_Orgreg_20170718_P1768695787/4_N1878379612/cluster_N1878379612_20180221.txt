@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 19 
+NAME    N1878379612
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.5690.a>
+	<http://risis.eu/leidenRanking_2015/resource/651>
+	<http://risis.eu/orgreg_20170718/resource/ES0041>
+	<http://risis.eu/orgref_20170703/resource/1933854>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.5690.a......... http://risis.eu/orgref_20170703/resource/1933854.. 1................................................. [Technical University of Madrid] was compared to [Technical University of Madrid] 
+	http://risis.eu/orgref_20170703/resource/1933854.. http://www.grid.ac/institutes/grid.5690.a......... 1................................................. [Technical University of Madrid] was compared to [Technical University of Madrid] 
+	http://www.grid.ac/institutes/grid.5690.a......... http://risis.eu/leidenRanking_2015/resource/651... 1................................................. [Technical University of Madrid] was compared to [Technical University of Madrid] 
+	http://risis.eu/leidenRanking_2015/resource/651... http://www.grid.ac/institutes/grid.5690.a......... 1................................................. [Technical University of Madrid] was compared to [Technical University of Madrid] 
+	http://risis.eu/leidenRanking_2015/resource/651... http://risis.eu/orgref_20170703/resource/1933854.. 1................................................. [Technical University of Madrid] was compared to [Technical University of Madrid] 
+	http://risis.eu/orgref_20170703/resource/1933854.. http://risis.eu/leidenRanking_2015/resource/651... 1................................................. [Technical University of Madrid] was compared to [Technical University of Madrid] 
+	http://risis.eu/leidenRanking_2015/resource/651... http://risis.eu/orgreg_20170718/resource/ES0041... 1................................................. [Technical University of Madrid] was compared to [Technical University of Madrid] 
+	http://risis.eu/orgreg_20170718/resource/ES0041... http://risis.eu/leidenRanking_2015/resource/651... 1................................................. [Technical University of Madrid] was compared to [Technical University of Madrid] 
+	http://risis.eu/orgreg_20170718/resource/ES0041... http://risis.eu/orgref_20170703/resource/1933854.. 1................................................. [Technical University of Madrid] was compared to [Technical University of Madrid] 
+	http://risis.eu/orgref_20170703/resource/1933854.. http://risis.eu/orgreg_20170718/resource/ES0041... 1................................................. [Technical University of Madrid] was compared to [Technical University of Madrid] 
+	http://www.grid.ac/institutes/grid.5690.a......... http://risis.eu/orgreg_20170718/resource/ES0041... 1................................................. [Technical University of Madrid] was compared to [Technical University of Madrid] 
+	http://risis.eu/orgreg_20170718/resource/ES0041... http://www.grid.ac/institutes/grid.5690.a......... 1................................................. [Technical University of Madrid] was compared to [Technical University of Madrid] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.5690.a......... -3.7281........................................... 
+	http://www.grid.ac/institutes/grid.5690.a......... 40.4492........................................... 
+	http://www.grid.ac/institutes/grid.5690.a......... http://www.upm.es/institucional................... 
+	http://www.grid.ac/institutes/grid.5690.a......... Polytechnic University of Madrid.................. 
+	http://www.grid.ac/institutes/grid.5690.a......... Technical University of Madrid.................... 
+	http://risis.eu/leidenRanking_2015/resource/651... Technical University of Madrid.................... 
+	http://risis.eu/orgreg_20170718/resource/ES0041... 40.447361......................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0041... -3.738431......................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0041... http://www.upm.es................................. 
+	http://risis.eu/orgreg_20170718/resource/ES0041... Technical University of Madrid.................... 
+	http://risis.eu/orgref_20170703/resource/1933854.. http://en.wikipedia.org/wiki?curid=1933854........ 
+	http://risis.eu/orgref_20170703/resource/1933854.. http://www.wikidata.org/wiki/Q25864............... 
+	http://risis.eu/orgref_20170703/resource/1933854.. http://www.upm.es................................. 
+	http://risis.eu/orgref_20170703/resource/1933854.. Technical University of Madrid.................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:651', '1:grid.5690.a'), ('2:651', '3:ES0041'), ('3:ES0041', '1:grid.5690.a'), ('3:ES0041', '4:1933854'), ('4:1933854', '1:grid.5690.a'), ('4:1933854', '2:651')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

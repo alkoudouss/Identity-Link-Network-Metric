@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 348 
+NAME    N1805282904
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.450488.5>
+	<http://www.grid.ac/institutes/grid.482388.d>
+	<http://www.grid.ac/institutes/grid.432840.9>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.450488.5.. http://www.grid.ac/institutes/grid.482388.d.. 1............................................ [BHP Billiton (Canada)] was compared to [BHP Billiton (Netherlands)] 
+	http://www.grid.ac/institutes/grid.450488.5.. http://www.grid.ac/institutes/grid.432840.9.. 1............................................ [BHP Billiton (Australia)] was compared to [BHP Billiton (Canada)] 
+	http://www.grid.ac/institutes/grid.482388.d.. http://www.grid.ac/institutes/grid.432840.9.. 1............................................ [BHP Billiton (Australia)] was compared to [BHP Billiton (Netherlands)] 
+	http://www.grid.ac/institutes/grid.482388.d.. http://www.grid.ac/institutes/grid.450488.5.. 1............................................ [BHP Billiton (Canada)] was compared to [BHP Billiton (Netherlands)] 
+	http://www.grid.ac/institutes/grid.432840.9.. http://www.grid.ac/institutes/grid.450488.5.. 1............................................ [BHP Billiton (Australia)] was compared to [BHP Billiton (Canada)] 
+	http://www.grid.ac/institutes/grid.432840.9.. http://www.grid.ac/institutes/grid.482388.d.. 1............................................ [BHP Billiton (Australia)] was compared to [BHP Billiton (Netherlands)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.450488.5.. -114.37476................................... 
+	http://www.grid.ac/institutes/grid.450488.5.. 62.453255.................................... 
+	http://www.grid.ac/institutes/grid.450488.5.. http://www.bhpbilliton.com/home/Pages/default.aspx 
+	http://www.grid.ac/institutes/grid.450488.5.. BHP Billiton (Canada)........................ 
+	http://www.grid.ac/institutes/grid.482388.d.. 4.320418..................................... 
+	http://www.grid.ac/institutes/grid.482388.d.. 52.06456..................................... 
+	http://www.grid.ac/institutes/grid.482388.d.. http://www.bhpbilliton.com/.................. 
+	http://www.grid.ac/institutes/grid.482388.d.. BHP Billiton (Netherlands)................... 
+	http://www.grid.ac/institutes/grid.432840.9.. 144.96823.................................... 
+	http://www.grid.ac/institutes/grid.432840.9.. -37.81518.................................... 
+	http://www.grid.ac/institutes/grid.432840.9.. http://www.bhpbilliton.com/.................. 
+	http://www.grid.ac/institutes/grid.432840.9.. BHP Billiton (Australia)..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('N1805282904-grid.450488.5', 'P1117941443-grid.482388.d'), ('N1731492164-grid.432840.9', 'P1117941443-grid.482388.d'), ('N1731492164-grid.432840.9', 'N1805282904-grid.450488.5')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

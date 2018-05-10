@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 7579 
+NAME    N2136837355
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.425822.b>
+	<http://risis.eu/orgref_20170703/resource/2394024>
+	<http://risis.eu/cordisH2020/resource/participant_961558479>
+	<http://risis.eu/orgref_20170703/resource/265858>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.425822.b................. http://risis.eu/orgref_20170703/resource/265858............. 1........................................................... [Ministry of Public Security] was compared to [Ministry of Public Security (China)] 
+	http://risis.eu/orgref_20170703/resource/265858............. http://www.grid.ac/institutes/grid.425822.b................. 1........................................................... [Ministry of Public Security] was compared to [Ministry of Public Security (China)] 
+	http://www.grid.ac/institutes/grid.425822.b................. http://risis.eu/orgref_20170703/resource/2394024............ 1........................................................... [Ministry of Public Security] was compared to [Ministry of Public Security (Vietnam)] 
+	http://risis.eu/orgref_20170703/resource/2394024............ http://www.grid.ac/institutes/grid.425822.b................. 1........................................................... [Ministry of Public Security] was compared to [Ministry of Public Security (Vietnam)] 
+	http://www.grid.ac/institutes/grid.425822.b................. http://risis.eu/cordisH2020/resource/participant_961558479.. 1........................................................... [Ministry of Public Security] was compared to [MINISTRY OF PUBLIC SECURITY] 
+	http://risis.eu/cordisH2020/resource/participant_961558479.. http://www.grid.ac/institutes/grid.425822.b................. 1........................................................... [Ministry of Public Security] was compared to [MINISTRY OF PUBLIC SECURITY] 
+	http://risis.eu/cordisH2020/resource/participant_961558479.. http://risis.eu/orgref_20170703/resource/265858............. 1........................................................... [Ministry of Public Security (China)] was compared to [MINISTRY OF PUBLIC SECURITY] 
+	http://risis.eu/orgref_20170703/resource/265858............. http://risis.eu/cordisH2020/resource/participant_961558479.. 1........................................................... [Ministry of Public Security (China)] was compared to [MINISTRY OF PUBLIC SECURITY] 
+	http://risis.eu/orgref_20170703/resource/2394024............ http://risis.eu/cordisH2020/resource/participant_961558479.. 1........................................................... [Ministry of Public Security (Vietnam)] was compared to [MINISTRY OF PUBLIC SECURITY] 
+	http://risis.eu/cordisH2020/resource/participant_961558479.. http://risis.eu/orgref_20170703/resource/2394024............ 1........................................................... [Ministry of Public Security (Vietnam)] was compared to [MINISTRY OF PUBLIC SECURITY] 
+	http://risis.eu/orgref_20170703/resource/2394024............ http://risis.eu/orgref_20170703/resource/265858............. 1........................................................... [Ministry of Public Security (Vietnam)] was compared to [Ministry of Public Security (China)] 
+	http://risis.eu/orgref_20170703/resource/265858............. http://risis.eu/orgref_20170703/resource/2394024............ 1........................................................... [Ministry of Public Security (Vietnam)] was compared to [Ministry of Public Security (China)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.425822.b................. Ministry of Public Security................................. 
+	http://risis.eu/orgref_20170703/resource/2394024............ http://en.wikipedia.org/wiki?curid=2394024.................. 
+	http://risis.eu/orgref_20170703/resource/2394024............ http://www.wikidata.org/wiki/Q6867472....................... 
+	http://risis.eu/orgref_20170703/resource/2394024............ http://www.mps.gov.vn....................................... 
+	http://risis.eu/orgref_20170703/resource/2394024............ Ministry of Public Security (Vietnam)....................... 
+	http://risis.eu/cordisH2020/resource/participant_961558479.. MINISTRY OF PUBLIC SECURITY................................. 
+	http://risis.eu/orgref_20170703/resource/265858............. http://en.wikipedia.org/wiki?curid=265858................... 
+	http://risis.eu/orgref_20170703/resource/265858............. http://www.wikidata.org/wiki/Q2346285....................... 
+	http://risis.eu/orgref_20170703/resource/265858............. http://www.mps.gov.cn....................................... 
+	http://risis.eu/orgref_20170703/resource/265858............. Ministry of Public Security (China)......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:2394024', '1:grid.425822.b'), ('3:participant_961558479', '1:grid.425822.b'), ('3:participant_961558479', '2:2394024'), ('4:265858', '1:grid.425822.b'), ('4:265858', '2:2394024'), ('4:265858', '3:participant_961558479')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

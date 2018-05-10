@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 8433 
+NAME    N2054512782
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.255407.1>
+	<http://www.grid.ac/institutes/grid.268194.0>
+	<http://risis.eu/orgref_20170703/resource/987358>
+	<http://risis.eu/orgref_20170703/resource/2276304>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.255407.1....... http://risis.eu/orgref_20170703/resource/2276304.. 1................................................. [Eastern Oregon University] was compared to [Eastern Oregon University] 
+	http://risis.eu/orgref_20170703/resource/2276304.. http://www.grid.ac/institutes/grid.255407.1....... 1................................................. [Eastern Oregon University] was compared to [Eastern Oregon University] 
+	http://www.grid.ac/institutes/grid.268194.0....... http://risis.eu/orgref_20170703/resource/987358... 1................................................. [Western Oregon University] was compared to [Western Oregon University] 
+	http://risis.eu/orgref_20170703/resource/987358... http://www.grid.ac/institutes/grid.268194.0....... 1................................................. [Western Oregon University] was compared to [Western Oregon University] 
+	http://risis.eu/orgref_20170703/resource/987358... http://risis.eu/orgref_20170703/resource/2276304.. 0.92.............................................. [Eastern Oregon University] was compared to [Western Oregon University] 
+	http://risis.eu/orgref_20170703/resource/2276304.. http://risis.eu/orgref_20170703/resource/987358... 0.92.............................................. [Eastern Oregon University] was compared to [Western Oregon University] 
+	http://www.grid.ac/institutes/grid.255407.1....... http://www.grid.ac/institutes/grid.268194.0....... 0.92.............................................. [Eastern Oregon University] was compared to [Western Oregon University] 
+	http://www.grid.ac/institutes/grid.268194.0....... http://www.grid.ac/institutes/grid.255407.1....... 0.92.............................................. [Eastern Oregon University] was compared to [Western Oregon University] 
+	http://www.grid.ac/institutes/grid.255407.1....... http://risis.eu/orgref_20170703/resource/987358... 0.92.............................................. [Eastern Oregon University] was compared to [Western Oregon University] 
+	http://risis.eu/orgref_20170703/resource/987358... http://www.grid.ac/institutes/grid.255407.1....... 0.92.............................................. [Eastern Oregon University] was compared to [Western Oregon University] 
+	http://www.grid.ac/institutes/grid.268194.0....... http://risis.eu/orgref_20170703/resource/2276304.. 0.92.............................................. [Western Oregon University] was compared to [Eastern Oregon University] 
+	http://risis.eu/orgref_20170703/resource/2276304.. http://www.grid.ac/institutes/grid.268194.0....... 0.92.............................................. [Western Oregon University] was compared to [Eastern Oregon University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.255407.1....... -118.092.......................................... 
+	http://www.grid.ac/institutes/grid.255407.1....... 45.32............................................. 
+	http://www.grid.ac/institutes/grid.255407.1....... https://www.eou.edu/.............................. 
+	http://www.grid.ac/institutes/grid.255407.1....... Eastern Oregon University......................... 
+	http://www.grid.ac/institutes/grid.268194.0....... -123.23944........................................ 
+	http://www.grid.ac/institutes/grid.268194.0....... 44.85278.......................................... 
+	http://www.grid.ac/institutes/grid.268194.0....... http://www.wou.edu/............................... 
+	http://www.grid.ac/institutes/grid.268194.0....... Western Oregon University......................... 
+	http://risis.eu/orgref_20170703/resource/987358... http://en.wikipedia.org/wiki?curid=987358......... 
+	http://risis.eu/orgref_20170703/resource/987358... http://www.wikidata.org/wiki/Q1629641............. 
+	http://risis.eu/orgref_20170703/resource/987358... http://www.wou.edu................................ 
+	http://risis.eu/orgref_20170703/resource/987358... Western Oregon University......................... 
+	http://risis.eu/orgref_20170703/resource/2276304.. http://en.wikipedia.org/wiki?curid=2276304........ 
+	http://risis.eu/orgref_20170703/resource/2276304.. http://www.wikidata.org/wiki/Q1278219............. 
+	http://risis.eu/orgref_20170703/resource/2276304.. http://www.eou.edu................................ 
+	http://risis.eu/orgref_20170703/resource/2276304.. Eastern Oregon University......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.268194.0', '1:grid.255407.1'), ('3:987358', '1:grid.255407.1'), ('3:987358', '2:grid.268194.0'), ('4:2276304', '1:grid.255407.1'), ('4:2276304', '2:grid.268194.0'), ('4:2276304', '3:987358')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

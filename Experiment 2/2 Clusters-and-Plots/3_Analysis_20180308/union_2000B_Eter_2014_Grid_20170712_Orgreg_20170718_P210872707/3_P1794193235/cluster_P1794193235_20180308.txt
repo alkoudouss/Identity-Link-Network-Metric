@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 609 
+NAME    P1794193235
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.425720.6>
+	<http://risis.eu/eter_2014/resource/FR0111>
+	<http://risis.eu/eter_2014/resource/FR0110>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.425720.6.. http://risis.eu/eter_2014/resource/FR0110.... 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://www.grid.ac/institutes/grid.425720.6.. http://risis.eu/eter_2014/resource/FR0111.... 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/FR0111.... http://www.grid.ac/institutes/grid.425720.6.. 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/FR0110.... http://www.grid.ac/institutes/grid.425720.6.. 1............................................ Near each other by at most 2000 meter(s)..... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.425720.6.. 6.219144..................................... 
+	http://www.grid.ac/institutes/grid.425720.6.. 49.140305.................................... 
+	http://www.grid.ac/institutes/grid.425720.6.. http://www.leces.fr/entreprise.html.......... 
+	http://www.grid.ac/institutes/grid.425720.6.. Laboratoire d'Etude de et Contrôle de l'Environnement Sidérurgique 
+	http://risis.eu/eter_2014/resource/FR0111.... 49,126591.................................... 
+	http://risis.eu/eter_2014/resource/FR0111.... 6,226916..................................... 
+	http://risis.eu/eter_2014/resource/FR0111.... http://www.esitc-metz.com/................... 
+	http://risis.eu/eter_2014/resource/FR0111.... m............................................ 
+	http://risis.eu/eter_2014/resource/FR0111.... École supérieure d'ingénieurs des travaux de la construction de Metz 
+	http://risis.eu/eter_2014/resource/FR0110.... 49,126591.................................... 
+	http://risis.eu/eter_2014/resource/FR0110.... 6,226916..................................... 
+	http://risis.eu/eter_2014/resource/FR0110.... http://www.ira-metz.fr/...................... 
+	http://risis.eu/eter_2014/resource/FR0110.... m............................................ 
+	http://risis.eu/eter_2014/resource/FR0110.... Institut régional d'administration de Metz.. 
+
+NETWORK ANALYSIS
+	NETWORK [('P1795193244-FR0110', 'P1889844506-grid.425720.6'), ('P1794193235-FR0111', 'P1889844506-grid.425720.6')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

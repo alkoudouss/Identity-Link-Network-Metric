@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 8664 
+NAME    P1286199343
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/29362452>
+	<http://risis.eu/orgreg_20170718/resource/SE0051>
+	<http://www.grid.ac/institutes/grid.445293.d>
+	<http://risis.eu/orgreg_20170718/resource/SE0039>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/29362452.. http://www.grid.ac/institutes/grid.445293.d........ 1.................................................. [Stockholm Academy of Dramatic Arts] was compared to [Stockholm Academy of Dramatic Arts] 
+	http://www.grid.ac/institutes/grid.445293.d........ http://risis.eu/orgref_20170703/resource/29362452.. 1.................................................. [Stockholm Academy of Dramatic Arts] was compared to [Stockholm Academy of Dramatic Arts] 
+	http://risis.eu/orgreg_20170718/resource/SE0051.... http://risis.eu/orgreg_20170718/resource/SE0039.... 1.................................................. [Stockholm Academy of Dramatic Arts] was compared to [Stockholm Academy of Dramatic Arts (SADA)] 
+	http://risis.eu/orgreg_20170718/resource/SE0039.... http://risis.eu/orgreg_20170718/resource/SE0051.... 1.................................................. [Stockholm Academy of Dramatic Arts] was compared to [Stockholm Academy of Dramatic Arts (SADA)] 
+	http://risis.eu/orgref_20170703/resource/29362452.. http://risis.eu/orgreg_20170718/resource/SE0039.... 1.................................................. [Stockholm Academy of Dramatic Arts] was compared to [Stockholm Academy of Dramatic Arts] 
+	http://risis.eu/orgreg_20170718/resource/SE0039.... http://risis.eu/orgref_20170703/resource/29362452.. 1.................................................. [Stockholm Academy of Dramatic Arts] was compared to [Stockholm Academy of Dramatic Arts] 
+	http://risis.eu/orgref_20170703/resource/29362452.. http://risis.eu/orgreg_20170718/resource/SE0051.... 1.................................................. [Stockholm Academy of Dramatic Arts] was compared to [Stockholm Academy of Dramatic Arts (SADA)] 
+	http://risis.eu/orgreg_20170718/resource/SE0051.... http://risis.eu/orgref_20170703/resource/29362452.. 1.................................................. [Stockholm Academy of Dramatic Arts] was compared to [Stockholm Academy of Dramatic Arts (SADA)] 
+	http://www.grid.ac/institutes/grid.445293.d........ http://risis.eu/orgreg_20170718/resource/SE0039.... 1.................................................. [Stockholm Academy of Dramatic Arts] was compared to [Stockholm Academy of Dramatic Arts] 
+	http://risis.eu/orgreg_20170718/resource/SE0039.... http://www.grid.ac/institutes/grid.445293.d........ 1.................................................. [Stockholm Academy of Dramatic Arts] was compared to [Stockholm Academy of Dramatic Arts] 
+	http://risis.eu/orgreg_20170718/resource/SE0051.... http://www.grid.ac/institutes/grid.445293.d........ 1.................................................. [Stockholm Academy of Dramatic Arts] was compared to [Stockholm Academy of Dramatic Arts (SADA)] 
+	http://www.grid.ac/institutes/grid.445293.d........ http://risis.eu/orgreg_20170718/resource/SE0051.... 1.................................................. [Stockholm Academy of Dramatic Arts] was compared to [Stockholm Academy of Dramatic Arts (SADA)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/29362452.. http://en.wikipedia.org/wiki?curid=29362452........ 
+	http://risis.eu/orgref_20170703/resource/29362452.. http://www.wikidata.org/wiki/Q3412538.............. 
+	http://risis.eu/orgref_20170703/resource/29362452.. http://www.sada.se................................. 
+	http://risis.eu/orgref_20170703/resource/29362452.. Stockholm Academy of Dramatic Arts................. 
+	http://risis.eu/orgreg_20170718/resource/SE0051.... 18.132208.......................................... 
+	http://risis.eu/orgreg_20170718/resource/SE0051.... 59.338124.......................................... 
+	http://risis.eu/orgreg_20170718/resource/SE0051.... http://www.sada.se/................................ 
+	http://risis.eu/orgreg_20170718/resource/SE0051.... Stockholm Academy of Dramatic Arts (SADA).......... 
+	http://www.grid.ac/institutes/grid.445293.d........ 18.101135.......................................... 
+	http://www.grid.ac/institutes/grid.445293.d........ 59.339478.......................................... 
+	http://www.grid.ac/institutes/grid.445293.d........ http://www.sada.se/................................ 
+	http://www.grid.ac/institutes/grid.445293.d........ Stockholm Academy of Dramatic Arts................. 
+	http://risis.eu/orgreg_20170718/resource/SE0039.... m.................................................. 
+	http://risis.eu/orgreg_20170718/resource/SE0039.... Stockholm Academy of Dramatic Arts................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:29362452', '3:grid.445293.d'), ('2:SE0051', '1:29362452'), ('2:SE0051', '4:SE0039'), ('3:grid.445293.d', '2:SE0051'), ('4:SE0039', '1:29362452'), ('4:SE0039', '3:grid.445293.d')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

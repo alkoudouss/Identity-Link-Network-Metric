@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 8493 
+NAME    N987657835
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/PT0029>
+	<http://risis.eu/cordisH2020/resource/participant_998454563>
+	<http://risis.eu/eter_2014/resource/PT0029>
+	<http://www.grid.ac/institutes/grid.27883.36>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/eter_2014/resource/PT0029................... http://www.grid.ac/institutes/grid.27883.36................. 0.894736842105.............................................. [Polytechnic Institute of Viana do Castelo] was compared to [Instituto Politécnico de Viana do Castelo] 
+	http://www.grid.ac/institutes/grid.27883.36................. http://risis.eu/eter_2014/resource/PT0029................... 0.894736842105.............................................. [Polytechnic Institute of Viana do Castelo] was compared to [Instituto Politécnico de Viana do Castelo] 
+	http://risis.eu/cordisH2020/resource/participant_998454563.. http://www.grid.ac/institutes/grid.27883.36................. 0.868421052632.............................................. [Polytechnic Institute of Viana do Castelo] was compared to [INSTITUTO POLITECNICO DE VIANA DE CASTELO] 
+	http://www.grid.ac/institutes/grid.27883.36................. http://risis.eu/cordisH2020/resource/participant_998454563.. 0.868421052632.............................................. [Polytechnic Institute of Viana do Castelo] was compared to [INSTITUTO POLITECNICO DE VIANA DE CASTELO] 
+	http://risis.eu/cordisH2020/resource/participant_998454563.. http://risis.eu/eter_2014/resource/PT0029................... 0.921052631579.............................................. [INSTITUTO POLITECNICO DE VIANA DE CASTELO] was compared to [Instituto Politécnico de Viana do Castelo] 
+	http://risis.eu/eter_2014/resource/PT0029................... http://risis.eu/cordisH2020/resource/participant_998454563.. 0.921052631579.............................................. [INSTITUTO POLITECNICO DE VIANA DE CASTELO] was compared to [Instituto Politécnico de Viana do Castelo] 
+	http://risis.eu/orgreg_20170718/resource/PT0029............. http://risis.eu/cordisH2020/resource/participant_998454563.. 0.868421052632.............................................. [Viana do Castelo Polytechnic Institute] was compared to [INSTITUTO POLITECNICO DE VIANA DE CASTELO] 
+	http://risis.eu/cordisH2020/resource/participant_998454563.. http://risis.eu/orgreg_20170718/resource/PT0029............. 0.868421052632.............................................. [Viana do Castelo Polytechnic Institute] was compared to [INSTITUTO POLITECNICO DE VIANA DE CASTELO] 
+	http://risis.eu/orgreg_20170718/resource/PT0029............. http://risis.eu/eter_2014/resource/PT0029................... 0.894736842105.............................................. [Viana do Castelo Polytechnic Institute] was compared to [Instituto Politécnico de Viana do Castelo] 
+	http://risis.eu/eter_2014/resource/PT0029................... http://risis.eu/orgreg_20170718/resource/PT0029............. 0.894736842105.............................................. [Viana do Castelo Polytechnic Institute] was compared to [Instituto Politécnico de Viana do Castelo] 
+	http://risis.eu/orgreg_20170718/resource/PT0029............. http://www.grid.ac/institutes/grid.27883.36................. 1........................................................... [Polytechnic Institute of Viana do Castelo] was compared to [Viana do Castelo Polytechnic Institute] 
+	http://www.grid.ac/institutes/grid.27883.36................. http://risis.eu/orgreg_20170718/resource/PT0029............. 1........................................................... [Polytechnic Institute of Viana do Castelo] was compared to [Viana do Castelo Polytechnic Institute] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgreg_20170718/resource/PT0029............. -8.836192................................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0029............. 41.692229................................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0029............. http://www.ipvc.pt.......................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0029............. Viana do Castelo Polytechnic Institute...................... 
+	http://risis.eu/cordisH2020/resource/participant_998454563.. http://risis.eu/cordisH2020/resource/www.ipvc.pt............ 
+	http://risis.eu/cordisH2020/resource/participant_998454563.. INSTITUTO POLITECNICO DE VIANA DE CASTELO................... 
+	http://risis.eu/eter_2014/resource/PT0029................... 41,692229................................................... 
+	http://risis.eu/eter_2014/resource/PT0029................... -8,836192................................................... 
+	http://risis.eu/eter_2014/resource/PT0029................... http://www.ipvc.pt.......................................... 
+	http://risis.eu/eter_2014/resource/PT0029................... a........................................................... 
+	http://risis.eu/eter_2014/resource/PT0029................... Viana do Castelo Polytechnic Institute...................... 
+	http://risis.eu/eter_2014/resource/PT0029................... Instituto Politécnico de Viana do Castelo.................. 
+	http://www.grid.ac/institutes/grid.27883.36................. -8.834739................................................... 
+	http://www.grid.ac/institutes/grid.27883.36................. 41.69283.................................................... 
+	http://www.grid.ac/institutes/grid.27883.36................. http://internacional.ipvc.pt/en/node/20..................... 
+	http://www.grid.ac/institutes/grid.27883.36................. Instituto Politécnico de Viana do Castelo.................. 
+	http://www.grid.ac/institutes/grid.27883.36................. Polytechnic Institute of Viana do Castelo................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:PT0029', '4:grid.27883.36'), ('2:participant_998454563', '1:PT0029'), ('2:participant_998454563', '4:grid.27883.36'), ('3:PT0029', '1:PT0029'), ('3:PT0029', '2:participant_998454563'), ('4:grid.27883.36', '3:PT0029')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

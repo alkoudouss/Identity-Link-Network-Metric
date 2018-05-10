@@ -1,0 +1,59 @@
+SIZE    4   
+CLUSTER 15134 
+NAME    N597624463
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.5380.e>
+	<http://risis.eu/orgref_20170703/resource/1271742>
+	<http://risis.eu/cordisH2020/resource/participant_996416011>
+	<http://risis.eu/leidenRanking_2015/resource/3707>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.5380.e................... http://risis.eu/orgref_20170703/resource/1271742............ 1........................................................... [University of Concepción] was compared to [University of Concepción] 
+	http://risis.eu/orgref_20170703/resource/1271742............ http://www.grid.ac/institutes/grid.5380.e................... 1........................................................... [University of Concepción] was compared to [University of Concepción] 
+	http://www.grid.ac/institutes/grid.5380.e................... http://risis.eu/leidenRanking_2015/resource/3707............ 0.952380952381.............................................. [University of Concepción] was compared to [University of Concepci�n] 
+	http://risis.eu/leidenRanking_2015/resource/3707............ http://www.grid.ac/institutes/grid.5380.e................... 0.952380952381.............................................. [University of Concepción] was compared to [University of Concepci�n] 
+	http://risis.eu/orgref_20170703/resource/1271742............ http://risis.eu/leidenRanking_2015/resource/3707............ 0.952380952381.............................................. [University of Concepción] was compared to [University of Concepci�n] 
+	http://risis.eu/leidenRanking_2015/resource/3707............ http://risis.eu/orgref_20170703/resource/1271742............ 0.952380952381.............................................. [University of Concepción] was compared to [University of Concepci�n] 
+	http://risis.eu/orgref_20170703/resource/1271742............ http://risis.eu/cordisH2020/resource/participant_996416011.. 0.863636363636.............................................. [University of Concepción] was compared to [UNIVERSIDAD DE CONCEPCION] 
+	http://risis.eu/cordisH2020/resource/participant_996416011.. http://risis.eu/orgref_20170703/resource/1271742............ 0.863636363636.............................................. [University of Concepción] was compared to [UNIVERSIDAD DE CONCEPCION] 
+	http://www.grid.ac/institutes/grid.5380.e................... http://risis.eu/cordisH2020/resource/participant_996416011.. 0.863636363636.............................................. [University of Concepción] was compared to [UNIVERSIDAD DE CONCEPCION] 
+	http://risis.eu/cordisH2020/resource/participant_996416011.. http://www.grid.ac/institutes/grid.5380.e................... 0.863636363636.............................................. [University of Concepción] was compared to [UNIVERSIDAD DE CONCEPCION] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.5380.e................... -73.037224.................................................. 
+	http://www.grid.ac/institutes/grid.5380.e................... -36.828335.................................................. 
+	http://www.grid.ac/institutes/grid.5380.e................... https://www.udec.cl/pexterno/............................... 
+	http://www.grid.ac/institutes/grid.5380.e................... University of Concepción................................... 
+	http://risis.eu/orgref_20170703/resource/1271742............ http://en.wikipedia.org/wiki?curid=1271742.................. 
+	http://risis.eu/orgref_20170703/resource/1271742............ http://www.wikidata.org/wiki/Q199948........................ 
+	http://risis.eu/orgref_20170703/resource/1271742............ http://udec.cl.............................................. 
+	http://risis.eu/orgref_20170703/resource/1271742............ University of Concepción................................... 
+	http://risis.eu/cordisH2020/resource/participant_996416011.. UNIVERSIDAD DE CONCEPCION................................... 
+	http://risis.eu/leidenRanking_2015/resource/3707............ University of Concepci�n.................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1271742', '1:grid.5380.e'), ('3:participant_996416011', '1:grid.5380.e'), ('3:participant_996416011', '2:1271742'), ('4:3707', '1:grid.5380.e'), ('4:3707', '2:1271742')]
+	MAX DISTANCE:                   : 0.833
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 2.16666666667
+	AVERAGE NODE CONNECTIVITY RATIO : 0.722222222222
+	BRIDGES                         : 0
+	CLOSURE                         : 0.833
+	DIAMETER                        : 2
+	QUALITY                         : 0.223
+	QUALITY USED                    : 0.223
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223

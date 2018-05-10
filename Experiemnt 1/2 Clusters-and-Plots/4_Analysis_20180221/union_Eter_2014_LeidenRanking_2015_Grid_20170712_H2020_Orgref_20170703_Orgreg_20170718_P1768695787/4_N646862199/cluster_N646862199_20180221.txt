@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 5617 
+NAME    N646862199
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.20364.33>
+	<http://risis.eu/orgref_20170703/resource/26609273>
+	<http://risis.eu/cordisH2020/resource/participant_998476194>
+	<http://risis.eu/eter_2014/resource/UK0070>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.20364.33................. http://risis.eu/orgref_20170703/resource/26609273........... 1........................................................... [University of the Arts London] was compared to [University of the Arts London] 
+	http://risis.eu/orgref_20170703/resource/26609273........... http://www.grid.ac/institutes/grid.20364.33................. 1........................................................... [University of the Arts London] was compared to [University of the Arts London] 
+	http://www.grid.ac/institutes/grid.20364.33................. http://risis.eu/eter_2014/resource/UK0070................... 1........................................................... [University of the Arts London] was compared to [University of the Arts, London] 
+	http://risis.eu/eter_2014/resource/UK0070................... http://www.grid.ac/institutes/grid.20364.33................. 1........................................................... [University of the Arts London] was compared to [University of the Arts, London] 
+	http://www.grid.ac/institutes/grid.20364.33................. http://risis.eu/cordisH2020/resource/participant_998476194.. 1........................................................... [University of the Arts London] was compared to [THE UNIVERSITY OF THE ARTS LONDON] 
+	http://risis.eu/cordisH2020/resource/participant_998476194.. http://www.grid.ac/institutes/grid.20364.33................. 1........................................................... [University of the Arts London] was compared to [THE UNIVERSITY OF THE ARTS LONDON] 
+	http://risis.eu/orgref_20170703/resource/26609273........... http://risis.eu/eter_2014/resource/UK0070................... 1........................................................... [University of the Arts London] was compared to [University of the Arts, London] 
+	http://risis.eu/eter_2014/resource/UK0070................... http://risis.eu/orgref_20170703/resource/26609273........... 1........................................................... [University of the Arts London] was compared to [University of the Arts, London] 
+	http://risis.eu/orgref_20170703/resource/26609273........... http://risis.eu/cordisH2020/resource/participant_998476194.. 1........................................................... [University of the Arts London] was compared to [THE UNIVERSITY OF THE ARTS LONDON] 
+	http://risis.eu/cordisH2020/resource/participant_998476194.. http://risis.eu/orgref_20170703/resource/26609273........... 1........................................................... [University of the Arts London] was compared to [THE UNIVERSITY OF THE ARTS LONDON] 
+	http://risis.eu/cordisH2020/resource/participant_998476194.. http://risis.eu/eter_2014/resource/UK0070................... 1........................................................... [THE UNIVERSITY OF THE ARTS LONDON] was compared to [University of the Arts, London] 
+	http://risis.eu/eter_2014/resource/UK0070................... http://risis.eu/cordisH2020/resource/participant_998476194.. 1........................................................... [THE UNIVERSITY OF THE ARTS LONDON] was compared to [University of the Arts, London] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.20364.33................. -0.116389................................................... 
+	http://www.grid.ac/institutes/grid.20364.33................. 51.517776................................................... 
+	http://www.grid.ac/institutes/grid.20364.33................. http://www.arts.ac.uk/...................................... 
+	http://www.grid.ac/institutes/grid.20364.33................. University of the Arts London............................... 
+	http://risis.eu/orgref_20170703/resource/26609273........... http://en.wikipedia.org/wiki?curid=26609273................. 
+	http://risis.eu/orgref_20170703/resource/26609273........... http://www.wikidata.org/wiki/Q2065666....................... 
+	http://risis.eu/orgref_20170703/resource/26609273........... http://www.arts.ac.uk....................................... 
+	http://risis.eu/orgref_20170703/resource/26609273........... University of the Arts London............................... 
+	http://risis.eu/cordisH2020/resource/participant_998476194.. http://risis.eu/cordisH2020/resource/www.arts.ac.uk......... 
+	http://risis.eu/cordisH2020/resource/participant_998476194.. THE UNIVERSITY OF THE ARTS LONDON........................... 
+	http://risis.eu/eter_2014/resource/UK0070................... 51,517837................................................... 
+	http://risis.eu/eter_2014/resource/UK0070................... -0,116428................................................... 
+	http://risis.eu/eter_2014/resource/UK0070................... http://www.arts.ac.uk/...................................... 
+	http://risis.eu/eter_2014/resource/UK0070................... a........................................................... 
+	http://risis.eu/eter_2014/resource/UK0070................... University of the Arts, London.............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:26609273', '1:grid.20364.33'), ('3:participant_998476194', '1:grid.20364.33'), ('3:participant_998476194', '2:26609273'), ('4:UK0070', '1:grid.20364.33'), ('4:UK0070', '2:26609273'), ('4:UK0070', '3:participant_998476194')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

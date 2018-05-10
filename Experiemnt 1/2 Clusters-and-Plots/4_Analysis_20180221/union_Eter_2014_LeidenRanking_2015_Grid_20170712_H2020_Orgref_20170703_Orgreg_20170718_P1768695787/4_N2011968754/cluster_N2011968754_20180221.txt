@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 8943 
+NAME    N2011968754
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/1271733>
+	<http://risis.eu/leidenRanking_2015/resource/9422>
+	<http://risis.eu/cordisH2020/resource/participant_997216067>
+	<http://www.grid.ac/institutes/grid.7119.e>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/1271733............ http://www.grid.ac/institutes/grid.7119.e................... 1........................................................... [Austral University of Chile] was compared to [Austral University of Chile] 
+	http://www.grid.ac/institutes/grid.7119.e................... http://risis.eu/orgref_20170703/resource/1271733............ 1........................................................... [Austral University of Chile] was compared to [Austral University of Chile] 
+	http://risis.eu/leidenRanking_2015/resource/9422............ http://www.grid.ac/institutes/grid.7119.e................... 1........................................................... [Austral University of Chile] was compared to [Austral University of Chile] 
+	http://www.grid.ac/institutes/grid.7119.e................... http://risis.eu/leidenRanking_2015/resource/9422............ 1........................................................... [Austral University of Chile] was compared to [Austral University of Chile] 
+	http://risis.eu/cordisH2020/resource/participant_997216067.. http://www.grid.ac/institutes/grid.7119.e................... 0.88........................................................ [Austral University of Chile] was compared to [Universidad Austral de Chile] 
+	http://www.grid.ac/institutes/grid.7119.e................... http://risis.eu/cordisH2020/resource/participant_997216067.. 0.88........................................................ [Austral University of Chile] was compared to [Universidad Austral de Chile] 
+	http://risis.eu/orgref_20170703/resource/1271733............ http://risis.eu/leidenRanking_2015/resource/9422............ 1........................................................... [Austral University of Chile] was compared to [Austral University of Chile] 
+	http://risis.eu/leidenRanking_2015/resource/9422............ http://risis.eu/orgref_20170703/resource/1271733............ 1........................................................... [Austral University of Chile] was compared to [Austral University of Chile] 
+	http://risis.eu/orgref_20170703/resource/1271733............ http://risis.eu/cordisH2020/resource/participant_997216067.. 0.88........................................................ [Austral University of Chile] was compared to [Universidad Austral de Chile] 
+	http://risis.eu/cordisH2020/resource/participant_997216067.. http://risis.eu/orgref_20170703/resource/1271733............ 0.88........................................................ [Austral University of Chile] was compared to [Universidad Austral de Chile] 
+	http://risis.eu/leidenRanking_2015/resource/9422............ http://risis.eu/cordisH2020/resource/participant_997216067.. 0.88........................................................ [Universidad Austral de Chile] was compared to [Austral University of Chile] 
+	http://risis.eu/cordisH2020/resource/participant_997216067.. http://risis.eu/leidenRanking_2015/resource/9422............ 0.88........................................................ [Universidad Austral de Chile] was compared to [Austral University of Chile] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/1271733............ http://en.wikipedia.org/wiki?curid=1271733.................. 
+	http://risis.eu/orgref_20170703/resource/1271733............ http://www.wikidata.org/wiki/Q961982........................ 
+	http://risis.eu/orgref_20170703/resource/1271733............ http://www.uach.cl.......................................... 
+	http://risis.eu/orgref_20170703/resource/1271733............ Austral University of Chile................................. 
+	http://risis.eu/leidenRanking_2015/resource/9422............ Austral University of Chile................................. 
+	http://risis.eu/cordisH2020/resource/participant_997216067.. http://risis.eu/cordisH2020/resource/www.uach.cl............ 
+	http://risis.eu/cordisH2020/resource/participant_997216067.. Universidad Austral de Chile................................ 
+	http://www.grid.ac/institutes/grid.7119.e................... -73.2511.................................................... 
+	http://www.grid.ac/institutes/grid.7119.e................... -39.8073.................................................... 
+	http://www.grid.ac/institutes/grid.7119.e................... https://www.uach.cl/........................................ 
+	http://www.grid.ac/institutes/grid.7119.e................... Austral University of Chile................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:9422', '1:1271733'), ('2:9422', '4:grid.7119.e'), ('3:participant_997216067', '1:1271733'), ('3:participant_997216067', '2:9422'), ('3:participant_997216067', '4:grid.7119.e'), ('4:grid.7119.e', '1:1271733')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

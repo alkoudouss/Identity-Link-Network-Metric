@@ -1,0 +1,59 @@
+SIZE    3   
+CLUSTER 1615 
+NAME    N1840543905
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/NL0003>
+	<http://risis.eu/eter_2014/resource/NL0003>
+	<http://www.grid.ac/institutes/grid.5292.c>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/NL0003.. http://www.grid.ac/institutes/grid.5292.c........ 1................................................ [delft university technology] was compared to [delft university technology] 
+	http://risis.eu/orgreg_20170718/resource/NL0003.. http://risis.eu/eter_2014/resource/NL0003........ 1................................................ [delft university technology] was compared to [delft university technology] 
+	http://risis.eu/eter_2014/resource/NL0003........ http://www.grid.ac/institutes/grid.5292.c........ 1................................................ [delft university technology] was compared to [delft university technology] 
+	http://risis.eu/eter_2014/resource/NL0003........ http://risis.eu/orgreg_20170718/resource/NL0003.. 1................................................ [delft university technology] was compared to [delft university technology] 
+	http://www.grid.ac/institutes/grid.5292.c........ http://risis.eu/eter_2014/resource/NL0003........ 1................................................ [delft university technology] was compared to [delft university technology] 
+	http://www.grid.ac/institutes/grid.5292.c........ http://risis.eu/orgreg_20170718/resource/NL0003.. 1................................................ [delft university technology] was compared to [delft university technology] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/NL0003.. 4.375193......................................... 
+	http://risis.eu/orgreg_20170718/resource/NL0003.. 52.002726........................................ 
+	http://risis.eu/orgreg_20170718/resource/NL0003.. http://www.tudelft.nl/........................... 
+	http://risis.eu/orgreg_20170718/resource/NL0003.. Delft University of Technology................... 
+	http://risis.eu/eter_2014/resource/NL0003........ 52,002726........................................ 
+	http://risis.eu/eter_2014/resource/NL0003........ 4,375193......................................... 
+	http://risis.eu/eter_2014/resource/NL0003........ http://www.tudelft.nl/........................... 
+	http://risis.eu/eter_2014/resource/NL0003........ a................................................ 
+	http://risis.eu/eter_2014/resource/NL0003........ Delft University of Technology................... 
+	http://risis.eu/eter_2014/resource/NL0003........ Technische Universiteit Delft.................... 
+	http://www.grid.ac/institutes/grid.5292.c........ 4.370898......................................... 
+	http://www.grid.ac/institutes/grid.5292.c........ 52.002792........................................ 
+	http://www.grid.ac/institutes/grid.5292.c........ http://www.tudelft.nl/en/........................ 
+	http://www.grid.ac/institutes/grid.5292.c........ TU Delft......................................... 
+	http://www.grid.ac/institutes/grid.5292.c........ Delft University of Technology................... 
+
+NETWORK ANALYSIS
+	NETWORK [('P566504561-NL0003', 'P601070440-NL0003'), ('P601070440-NL0003', 'N1840543905-grid.5292.c'), ('P566504561-NL0003', 'N1840543905-grid.5292.c')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

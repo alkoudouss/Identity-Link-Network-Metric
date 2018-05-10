@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 9018 
+NAME    N2100922927
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.48430.3b>
+	<http://risis.eu/orgref_20170703/resource/5210608>
+	<http://www.grid.ac/institutes/grid.38926.36>
+	<http://risis.eu/orgref_20170703/resource/2622518>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/5210608.. http://www.grid.ac/institutes/grid.38926.36....... 1................................................. [Moldova State University] was compared to [Moldova State University] 
+	http://www.grid.ac/institutes/grid.38926.36....... http://risis.eu/orgref_20170703/resource/5210608.. 1................................................. [Moldova State University] was compared to [Moldova State University] 
+	http://www.grid.ac/institutes/grid.48430.3b....... http://risis.eu/orgref_20170703/resource/2622518.. 1................................................. [Mordovian State University] was compared to [Mordovian State University] 
+	http://risis.eu/orgref_20170703/resource/2622518.. http://www.grid.ac/institutes/grid.48430.3b....... 1................................................. [Mordovian State University] was compared to [Mordovian State University] 
+	http://risis.eu/orgref_20170703/resource/5210608.. http://risis.eu/orgref_20170703/resource/2622518.. 0.884615384615.................................... [Mordovian State University] was compared to [Moldova State University] 
+	http://risis.eu/orgref_20170703/resource/2622518.. http://risis.eu/orgref_20170703/resource/5210608.. 0.884615384615.................................... [Mordovian State University] was compared to [Moldova State University] 
+	http://www.grid.ac/institutes/grid.48430.3b....... http://www.grid.ac/institutes/grid.38926.36....... 0.884615384615.................................... [Moldova State University] was compared to [Mordovian State University] 
+	http://www.grid.ac/institutes/grid.38926.36....... http://www.grid.ac/institutes/grid.48430.3b....... 0.884615384615.................................... [Moldova State University] was compared to [Mordovian State University] 
+	http://www.grid.ac/institutes/grid.38926.36....... http://risis.eu/orgref_20170703/resource/2622518.. 0.884615384615.................................... [Moldova State University] was compared to [Mordovian State University] 
+	http://risis.eu/orgref_20170703/resource/2622518.. http://www.grid.ac/institutes/grid.38926.36....... 0.884615384615.................................... [Moldova State University] was compared to [Mordovian State University] 
+	http://www.grid.ac/institutes/grid.48430.3b....... http://risis.eu/orgref_20170703/resource/5210608.. 0.884615384615.................................... [Mordovian State University] was compared to [Moldova State University] 
+	http://risis.eu/orgref_20170703/resource/5210608.. http://www.grid.ac/institutes/grid.48430.3b....... 0.884615384615.................................... [Mordovian State University] was compared to [Moldova State University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.48430.3b....... Mordovian State University........................ 
+	http://risis.eu/orgref_20170703/resource/5210608.. http://en.wikipedia.org/wiki?curid=5210608........ 
+	http://risis.eu/orgref_20170703/resource/5210608.. http://www.wikidata.org/wiki/Q1097810............. 
+	http://risis.eu/orgref_20170703/resource/5210608.. http://www.usm.md................................. 
+	http://risis.eu/orgref_20170703/resource/5210608.. Moldova State University.......................... 
+	http://www.grid.ac/institutes/grid.38926.36....... 28.8235........................................... 
+	http://www.grid.ac/institutes/grid.38926.36....... 47.0185........................................... 
+	http://www.grid.ac/institutes/grid.38926.36....... http://usm.md/?lang=en............................ 
+	http://www.grid.ac/institutes/grid.38926.36....... Universitatea de Stat din Moldova................. 
+	http://www.grid.ac/institutes/grid.38926.36....... Moldova State University.......................... 
+	http://risis.eu/orgref_20170703/resource/2622518.. http://en.wikipedia.org/wiki?curid=2622518........ 
+	http://risis.eu/orgref_20170703/resource/2622518.. http://www.wikidata.org/wiki/Q4302550............. 
+	http://risis.eu/orgref_20170703/resource/2622518.. http://www.mrsu.ru................................ 
+	http://risis.eu/orgref_20170703/resource/2622518.. Mordovian State University........................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.48430.3b', '3:grid.38926.36'), ('2:5210608', '1:grid.48430.3b'), ('2:5210608', '3:grid.38926.36'), ('2:5210608', '4:2622518'), ('4:2622518', '1:grid.48430.3b'), ('4:2622518', '3:grid.38926.36')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,57 @@
+SIZE    4   
+CLUSTER 5718 
+NAME    N138091544
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.439894.b>
+	<http://risis.eu/orgref_20170703/resource/2630891>
+	<http://www.grid.ac/institutes/grid.439841.3>
+	<http://www.grid.ac/institutes/grid.461437.3>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/2630891.. http://www.grid.ac/institutes/grid.461437.3....... 1................................................. [Finley Hospital] was compared to [Finley Hospital] 
+	http://www.grid.ac/institutes/grid.461437.3....... http://risis.eu/orgref_20170703/resource/2630891.. 1................................................. [Finley Hospital] was compared to [Finley Hospital] 
+	http://www.grid.ac/institutes/grid.439894.b....... http://www.grid.ac/institutes/grid.461437.3....... 0.866666666667.................................... [Ripley Hospital] was compared to [Finley Hospital] 
+	http://www.grid.ac/institutes/grid.461437.3....... http://www.grid.ac/institutes/grid.439894.b....... 0.866666666667.................................... [Ripley Hospital] was compared to [Finley Hospital] 
+	http://www.grid.ac/institutes/grid.439894.b....... http://www.grid.ac/institutes/grid.439841.3....... 0.875............................................. [Shipley Hospital] was compared to [Ripley Hospital] 
+	http://www.grid.ac/institutes/grid.439841.3....... http://www.grid.ac/institutes/grid.439894.b....... 0.875............................................. [Shipley Hospital] was compared to [Ripley Hospital] 
+	http://www.grid.ac/institutes/grid.439894.b....... http://risis.eu/orgref_20170703/resource/2630891.. 0.866666666667.................................... [Ripley Hospital] was compared to [Finley Hospital] 
+	http://risis.eu/orgref_20170703/resource/2630891.. http://www.grid.ac/institutes/grid.439894.b....... 0.866666666667.................................... [Ripley Hospital] was compared to [Finley Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.439894.b....... Ripley Hospital................................... 
+	http://risis.eu/orgref_20170703/resource/2630891.. http://en.wikipedia.org/wiki?curid=2630891........ 
+	http://risis.eu/orgref_20170703/resource/2630891.. http://www.wikidata.org/wiki/Q5450576............. 
+	http://risis.eu/orgref_20170703/resource/2630891.. http://www.unitypoint.org/dubuque................. 
+	http://risis.eu/orgref_20170703/resource/2630891.. Finley Hospital................................... 
+	http://www.grid.ac/institutes/grid.439841.3....... Shipley Hospital.................................. 
+	http://www.grid.ac/institutes/grid.461437.3....... -90.68588......................................... 
+	http://www.grid.ac/institutes/grid.461437.3....... 42.49678.......................................... 
+	http://www.grid.ac/institutes/grid.461437.3....... https://www.unitypoint.org/dubuque/Default.aspx... 
+	http://www.grid.ac/institutes/grid.461437.3....... Finley Hospital................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:2630891', '1:grid.439894.b'), ('2:2630891', '4:grid.461437.3'), ('3:grid.439841.3', '1:grid.439894.b'), ('4:grid.461437.3', '1:grid.439894.b')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

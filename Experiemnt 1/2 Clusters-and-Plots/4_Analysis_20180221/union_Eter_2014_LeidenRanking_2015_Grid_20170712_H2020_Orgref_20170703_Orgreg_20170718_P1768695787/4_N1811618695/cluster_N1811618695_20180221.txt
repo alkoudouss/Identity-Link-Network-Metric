@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 1073 
+NAME    N1811618695
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/27682817>
+	<http://risis.eu/orgref_20170703/resource/28267974>
+	<http://risis.eu/orgref_20170703/resource/25801904>
+	<http://risis.eu/orgref_20170703/resource/28268838>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/27682817.. http://risis.eu/orgref_20170703/resource/28267974.. 0.810810810811..................................... [Faculty of Arts, University of Peradeniya] was compared to [Faculty of Science, University of Peradeniya] 
+	http://risis.eu/orgref_20170703/resource/28267974.. http://risis.eu/orgref_20170703/resource/27682817.. 0.810810810811..................................... [Faculty of Arts, University of Peradeniya] was compared to [Faculty of Science, University of Peradeniya] 
+	http://risis.eu/orgref_20170703/resource/25801904.. http://risis.eu/orgref_20170703/resource/28268838.. 0.80487804878...................................... [Faculty of Engineering, University of Peradeniya] was compared to [Faculty of Medicine, University of Peradeniya] 
+	http://risis.eu/orgref_20170703/resource/28268838.. http://risis.eu/orgref_20170703/resource/25801904.. 0.80487804878...................................... [Faculty of Engineering, University of Peradeniya] was compared to [Faculty of Medicine, University of Peradeniya] 
+	http://risis.eu/orgref_20170703/resource/28267974.. http://risis.eu/orgref_20170703/resource/28268838.. 0.842105263158..................................... [Faculty of Science, University of Peradeniya] was compared to [Faculty of Medicine, University of Peradeniya] 
+	http://risis.eu/orgref_20170703/resource/28268838.. http://risis.eu/orgref_20170703/resource/28267974.. 0.842105263158..................................... [Faculty of Science, University of Peradeniya] was compared to [Faculty of Medicine, University of Peradeniya] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/27682817.. http://en.wikipedia.org/wiki?curid=27682817........ 
+	http://risis.eu/orgref_20170703/resource/27682817.. http://www.wikidata.org/wiki/Q5428912.............. 
+	http://risis.eu/orgref_20170703/resource/27682817.. http://www.arts.pdn.ac.lk.......................... 
+	http://risis.eu/orgref_20170703/resource/27682817.. Faculty of Arts, University of Peradeniya.......... 
+	http://risis.eu/orgref_20170703/resource/28267974.. http://en.wikipedia.org/wiki?curid=28267974........ 
+	http://risis.eu/orgref_20170703/resource/28267974.. http://www.wikidata.org/wiki/Q5429063.............. 
+	http://risis.eu/orgref_20170703/resource/28267974.. http://www.pdn.ac.lk/sci........................... 
+	http://risis.eu/orgref_20170703/resource/28267974.. Faculty of Science, University of Peradeniya....... 
+	http://risis.eu/orgref_20170703/resource/25801904.. http://en.wikipedia.org/wiki?curid=25801904........ 
+	http://risis.eu/orgref_20170703/resource/25801904.. http://www.wikidata.org/wiki/Q5428954.............. 
+	http://risis.eu/orgref_20170703/resource/25801904.. http://www.pdn.ac.lk/eng........................... 
+	http://risis.eu/orgref_20170703/resource/25801904.. Faculty of Engineering, University of Peradeniya... 
+	http://risis.eu/orgref_20170703/resource/28268838.. http://en.wikipedia.org/wiki?curid=28268838........ 
+	http://risis.eu/orgref_20170703/resource/28268838.. http://www.wikidata.org/wiki/Q5429025.............. 
+	http://risis.eu/orgref_20170703/resource/28268838.. http://www.med.pdn.ac.lk........................... 
+	http://risis.eu/orgref_20170703/resource/28268838.. Faculty of Medicine, University of Peradeniya...... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:28267974', '1:27682817'), ('4:28268838', '2:28267974'), ('4:28268838', '3:25801904')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

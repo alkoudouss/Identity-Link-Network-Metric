@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 6899 
+NAME    N2061597786
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.443319.8>
+	<http://risis.eu/orgref_20170703/resource/13279226>
+	<http://risis.eu/orgref_20170703/resource/211112>
+	<http://www.grid.ac/institutes/grid.261870.a>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.443319.8........ http://www.grid.ac/institutes/grid.261870.a........ 1.................................................. [Philadelphia University] was compared to [Philadelphia University] 
+	http://www.grid.ac/institutes/grid.261870.a........ http://www.grid.ac/institutes/grid.443319.8........ 1.................................................. [Philadelphia University] was compared to [Philadelphia University] 
+	http://risis.eu/orgref_20170703/resource/13279226.. http://www.grid.ac/institutes/grid.261870.a........ 1.................................................. [Philadelphia University] was compared to [Philadelphia University (Jordan)] 
+	http://www.grid.ac/institutes/grid.261870.a........ http://risis.eu/orgref_20170703/resource/13279226.. 1.................................................. [Philadelphia University] was compared to [Philadelphia University (Jordan)] 
+	http://risis.eu/orgref_20170703/resource/211112.... http://www.grid.ac/institutes/grid.261870.a........ 1.................................................. [Philadelphia University] was compared to [Philadelphia University] 
+	http://www.grid.ac/institutes/grid.261870.a........ http://risis.eu/orgref_20170703/resource/211112.... 1.................................................. [Philadelphia University] was compared to [Philadelphia University] 
+	http://www.grid.ac/institutes/grid.443319.8........ http://risis.eu/orgref_20170703/resource/13279226.. 1.................................................. [Philadelphia University] was compared to [Philadelphia University (Jordan)] 
+	http://risis.eu/orgref_20170703/resource/13279226.. http://www.grid.ac/institutes/grid.443319.8........ 1.................................................. [Philadelphia University] was compared to [Philadelphia University (Jordan)] 
+	http://www.grid.ac/institutes/grid.443319.8........ http://risis.eu/orgref_20170703/resource/211112.... 1.................................................. [Philadelphia University] was compared to [Philadelphia University] 
+	http://risis.eu/orgref_20170703/resource/211112.... http://www.grid.ac/institutes/grid.443319.8........ 1.................................................. [Philadelphia University] was compared to [Philadelphia University] 
+	http://risis.eu/orgref_20170703/resource/13279226.. http://risis.eu/orgref_20170703/resource/211112.... 1.................................................. [Philadelphia University (Jordan)] was compared to [Philadelphia University] 
+	http://risis.eu/orgref_20170703/resource/211112.... http://risis.eu/orgref_20170703/resource/13279226.. 1.................................................. [Philadelphia University (Jordan)] was compared to [Philadelphia University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.443319.8........ Philadelphia University............................ 
+	http://risis.eu/orgref_20170703/resource/13279226.. http://en.wikipedia.org/wiki?curid=13279226........ 
+	http://risis.eu/orgref_20170703/resource/13279226.. http://www.wikidata.org/wiki/Q7182844.............. 
+	http://risis.eu/orgref_20170703/resource/13279226.. http://www.philadelphia.edu.jo..................... 
+	http://risis.eu/orgref_20170703/resource/13279226.. Philadelphia University (Jordan)................... 
+	http://risis.eu/orgref_20170703/resource/211112.... http://en.wikipedia.org/wiki?curid=211112.......... 
+	http://risis.eu/orgref_20170703/resource/211112.... http://www.wikidata.org/wiki/Q3551662.............. 
+	http://risis.eu/orgref_20170703/resource/211112.... http://www.philau.edu.............................. 
+	http://risis.eu/orgref_20170703/resource/211112.... Philadelphia University............................ 
+	http://www.grid.ac/institutes/grid.261870.a........ -75.192............................................ 
+	http://www.grid.ac/institutes/grid.261870.a........ 40.023............................................. 
+	http://www.grid.ac/institutes/grid.261870.a........ http://www.philau.edu/............................. 
+	http://www.grid.ac/institutes/grid.261870.a........ Philadelphia University............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:13279226', '1:grid.443319.8'), ('2:13279226', '4:grid.261870.a'), ('3:211112', '1:grid.443319.8'), ('3:211112', '2:13279226'), ('3:211112', '4:grid.261870.a'), ('4:grid.261870.a', '1:grid.443319.8')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

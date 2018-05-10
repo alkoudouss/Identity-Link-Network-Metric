@@ -1,0 +1,59 @@
+SIZE    4   
+CLUSTER 40 
+NAME    N984991599
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.414407.2>
+	<http://risis.eu/orgref_20170703/resource/34133663>
+	<http://www.grid.ac/institutes/grid.413328.f>
+	<http://risis.eu/leidenRanking_2015/resource/2573>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.414407.2........ http://risis.eu/orgref_20170703/resource/34133663.. 1.................................................. [Hôpital Saint-Luc] was compared to [Hôpital Saint-Luc] 
+	http://risis.eu/orgref_20170703/resource/34133663.. http://www.grid.ac/institutes/grid.414407.2........ 1.................................................. [Hôpital Saint-Luc] was compared to [Hôpital Saint-Luc] 
+	http://www.grid.ac/institutes/grid.413328.f........ http://risis.eu/leidenRanking_2015/resource/2573... 0.944444444444..................................... [Hôpital Saint-Louis] was compared to [H�pital Saint-Louis] 
+	http://risis.eu/leidenRanking_2015/resource/2573... http://www.grid.ac/institutes/grid.413328.f........ 0.944444444444..................................... [Hôpital Saint-Louis] was compared to [H�pital Saint-Louis] 
+	http://www.grid.ac/institutes/grid.414407.2........ http://www.grid.ac/institutes/grid.413328.f........ 0.833333333333..................................... [Hôpital Saint-Louis] was compared to [Hôpital Saint-Luc] 
+	http://www.grid.ac/institutes/grid.413328.f........ http://www.grid.ac/institutes/grid.414407.2........ 0.833333333333..................................... [Hôpital Saint-Louis] was compared to [Hôpital Saint-Luc] 
+	http://risis.eu/orgref_20170703/resource/34133663.. http://www.grid.ac/institutes/grid.413328.f........ 0.833333333333..................................... [Hôpital Saint-Louis] was compared to [Hôpital Saint-Luc] 
+	http://www.grid.ac/institutes/grid.413328.f........ http://risis.eu/orgref_20170703/resource/34133663.. 0.833333333333..................................... [Hôpital Saint-Louis] was compared to [Hôpital Saint-Luc] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.414407.2........ -73.558............................................ 
+	http://www.grid.ac/institutes/grid.414407.2........ 45.512............................................. 
+	http://www.grid.ac/institutes/grid.414407.2........ http://www.chumontreal.qc.ca/patients-et-soins/a-propos-du-chum/notre-histoire/l-hopital-saint-luc 
+	http://www.grid.ac/institutes/grid.414407.2........ Hôpital Saint-Luc................................. 
+	http://risis.eu/orgref_20170703/resource/34133663.. http://en.wikipedia.org/wiki?curid=34133663........ 
+	http://risis.eu/orgref_20170703/resource/34133663.. http://www.wikidata.org/wiki/Q3145216.............. 
+	http://risis.eu/orgref_20170703/resource/34133663.. Hôpital Saint-Luc................................. 
+	http://www.grid.ac/institutes/grid.413328.f........ 2.369809........................................... 
+	http://www.grid.ac/institutes/grid.413328.f........ 48.873184.......................................... 
+	http://www.grid.ac/institutes/grid.413328.f........ http://ghparis10.aphp.fr/.......................... 
+	http://www.grid.ac/institutes/grid.413328.f........ Hôpital Saint-Louis............................... 
+	http://risis.eu/leidenRanking_2015/resource/2573... H�pital Saint-Louis.............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:34133663', '1:grid.414407.2'), ('2:34133663', '3:grid.413328.f'), ('3:grid.413328.f', '1:grid.414407.2'), ('4:2573', '3:grid.413328.f')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

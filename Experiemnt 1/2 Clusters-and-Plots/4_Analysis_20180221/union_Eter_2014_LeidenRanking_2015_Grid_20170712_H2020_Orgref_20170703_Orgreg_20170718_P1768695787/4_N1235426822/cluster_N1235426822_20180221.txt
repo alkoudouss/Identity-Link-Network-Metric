@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 14441 
+NAME    N1235426822
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.471234.7>
+	<http://www.grid.ac/institutes/grid.472772.3>
+	<http://www.grid.ac/institutes/grid.473205.7>
+	<http://www.grid.ac/institutes/grid.474371.2>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.471234.7.. http://www.grid.ac/institutes/grid.472772.3.. 1............................................ [Lenovo (Singapore)] was compared to [Lenovo (China)] 
+	http://www.grid.ac/institutes/grid.472772.3.. http://www.grid.ac/institutes/grid.471234.7.. 1............................................ [Lenovo (Singapore)] was compared to [Lenovo (China)] 
+	http://www.grid.ac/institutes/grid.471234.7.. http://www.grid.ac/institutes/grid.474371.2.. 1............................................ [Lenovo (Singapore)] was compared to [Lenovo (Japan)] 
+	http://www.grid.ac/institutes/grid.474371.2.. http://www.grid.ac/institutes/grid.471234.7.. 1............................................ [Lenovo (Singapore)] was compared to [Lenovo (Japan)] 
+	http://www.grid.ac/institutes/grid.471234.7.. http://www.grid.ac/institutes/grid.473205.7.. 1............................................ [Lenovo (Singapore)] was compared to [Lenovo (Hongkong)] 
+	http://www.grid.ac/institutes/grid.473205.7.. http://www.grid.ac/institutes/grid.471234.7.. 1............................................ [Lenovo (Singapore)] was compared to [Lenovo (Hongkong)] 
+	http://www.grid.ac/institutes/grid.472772.3.. http://www.grid.ac/institutes/grid.474371.2.. 1............................................ [Lenovo (China)] was compared to [Lenovo (Japan)] 
+	http://www.grid.ac/institutes/grid.474371.2.. http://www.grid.ac/institutes/grid.472772.3.. 1............................................ [Lenovo (China)] was compared to [Lenovo (Japan)] 
+	http://www.grid.ac/institutes/grid.472772.3.. http://www.grid.ac/institutes/grid.473205.7.. 1............................................ [Lenovo (China)] was compared to [Lenovo (Hongkong)] 
+	http://www.grid.ac/institutes/grid.473205.7.. http://www.grid.ac/institutes/grid.472772.3.. 1............................................ [Lenovo (China)] was compared to [Lenovo (Hongkong)] 
+	http://www.grid.ac/institutes/grid.473205.7.. http://www.grid.ac/institutes/grid.474371.2.. 1............................................ [Lenovo (Hongkong)] was compared to [Lenovo (Japan)] 
+	http://www.grid.ac/institutes/grid.474371.2.. http://www.grid.ac/institutes/grid.473205.7.. 1............................................ [Lenovo (Hongkong)] was compared to [Lenovo (Japan)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.471234.7.. 103.861565................................... 
+	http://www.grid.ac/institutes/grid.471234.7.. 1.351326..................................... 
+	http://www.grid.ac/institutes/grid.471234.7.. http://www.lenovo.com/sg/en/................. 
+	http://www.grid.ac/institutes/grid.471234.7.. Lenovo (Singapore)........................... 
+	http://www.grid.ac/institutes/grid.472772.3.. 116.29886.................................... 
+	http://www.grid.ac/institutes/grid.472772.3.. 39.962708.................................... 
+	http://www.grid.ac/institutes/grid.472772.3.. http://www.lenovo.com.cn/.................... 
+	http://www.grid.ac/institutes/grid.472772.3.. Lenovo (China)............................... 
+	http://www.grid.ac/institutes/grid.473205.7.. 114.21231.................................... 
+	http://www.grid.ac/institutes/grid.473205.7.. 22.287706.................................... 
+	http://www.grid.ac/institutes/grid.473205.7.. http://www.lenovo.com/hk/en/................. 
+	http://www.grid.ac/institutes/grid.473205.7.. Lenovo (Hongkong)............................ 
+	http://www.grid.ac/institutes/grid.474371.2.. 139.77246.................................... 
+	http://www.grid.ac/institutes/grid.474371.2.. 35.700424.................................... 
+	http://www.grid.ac/institutes/grid.474371.2.. http://www.lenovo.com/jp/ja/................. 
+	http://www.grid.ac/institutes/grid.474371.2.. Lenovo (Japan)............................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.472772.3', '1:grid.471234.7'), ('3:grid.473205.7', '1:grid.471234.7'), ('3:grid.473205.7', '2:grid.472772.3'), ('4:grid.474371.2', '1:grid.471234.7'), ('4:grid.474371.2', '2:grid.472772.3'), ('4:grid.474371.2', '3:grid.473205.7')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

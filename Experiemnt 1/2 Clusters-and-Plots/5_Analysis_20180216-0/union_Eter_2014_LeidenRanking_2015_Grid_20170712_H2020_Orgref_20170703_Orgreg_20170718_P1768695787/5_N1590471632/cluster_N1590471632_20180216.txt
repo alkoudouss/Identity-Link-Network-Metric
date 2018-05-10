@@ -1,0 +1,72 @@
+SIZE    5   
+CLUSTER 4866 
+NAME    N1590471632
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.419553.f>
+	<http://risis.eu/orgref_20170703/resource/401367>
+	<http://risis.eu/orgref_20170703/resource/1978962>
+	<http://www.grid.ac/institutes/grid.250107.1>
+	<http://risis.eu/orgref_20170703/resource/47000278>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.419553.f........ http://www.grid.ac/institutes/grid.250107.1........ 0.8................................................ [Mathematical Sciences Research Institute] was compared to [National Institute for Mathematical Sciences] 
+	http://www.grid.ac/institutes/grid.250107.1........ http://www.grid.ac/institutes/grid.419553.f........ 0.8................................................ [Mathematical Sciences Research Institute] was compared to [National Institute for Mathematical Sciences] 
+	http://risis.eu/orgref_20170703/resource/1978962... http://www.grid.ac/institutes/grid.250107.1........ 1.................................................. [Mathematical Sciences Research Institute] was compared to [Research Institute for Mathematical Sciences] 
+	http://www.grid.ac/institutes/grid.250107.1........ http://risis.eu/orgref_20170703/resource/1978962... 1.................................................. [Mathematical Sciences Research Institute] was compared to [Research Institute for Mathematical Sciences] 
+	http://risis.eu/orgref_20170703/resource/401367.... http://www.grid.ac/institutes/grid.250107.1........ 1.................................................. [Mathematical Sciences Research Institute] was compared to [Mathematical Sciences Research Institute] 
+	http://www.grid.ac/institutes/grid.250107.1........ http://risis.eu/orgref_20170703/resource/401367.... 1.................................................. [Mathematical Sciences Research Institute] was compared to [Mathematical Sciences Research Institute] 
+	http://www.grid.ac/institutes/grid.250107.1........ http://risis.eu/orgref_20170703/resource/47000278.. 0.8................................................ [Mathematical Sciences Research Institute] was compared to [National Institute for Mathematical Sciences] 
+	http://risis.eu/orgref_20170703/resource/47000278.. http://www.grid.ac/institutes/grid.250107.1........ 0.8................................................ [Mathematical Sciences Research Institute] was compared to [National Institute for Mathematical Sciences] 
+	http://www.grid.ac/institutes/grid.419553.f........ http://risis.eu/orgref_20170703/resource/1978962... 0.8................................................ [National Institute for Mathematical Sciences] was compared to [Research Institute for Mathematical Sciences] 
+	http://risis.eu/orgref_20170703/resource/1978962... http://www.grid.ac/institutes/grid.419553.f........ 0.8................................................ [National Institute for Mathematical Sciences] was compared to [Research Institute for Mathematical Sciences] 
+	http://www.grid.ac/institutes/grid.419553.f........ http://risis.eu/orgref_20170703/resource/401367.... 0.8................................................ [National Institute for Mathematical Sciences] was compared to [Mathematical Sciences Research Institute] 
+	http://risis.eu/orgref_20170703/resource/401367.... http://www.grid.ac/institutes/grid.419553.f........ 0.8................................................ [National Institute for Mathematical Sciences] was compared to [Mathematical Sciences Research Institute] 
+	http://www.grid.ac/institutes/grid.419553.f........ http://risis.eu/orgref_20170703/resource/47000278.. 1.................................................. [National Institute for Mathematical Sciences] was compared to [National Institute for Mathematical Sciences] 
+	http://risis.eu/orgref_20170703/resource/47000278.. http://www.grid.ac/institutes/grid.419553.f........ 1.................................................. [National Institute for Mathematical Sciences] was compared to [National Institute for Mathematical Sciences] 
+	http://risis.eu/orgref_20170703/resource/401367.... http://risis.eu/orgref_20170703/resource/1978962... 1.................................................. [Research Institute for Mathematical Sciences] was compared to [Mathematical Sciences Research Institute] 
+	http://risis.eu/orgref_20170703/resource/1978962... http://risis.eu/orgref_20170703/resource/401367.... 1.................................................. [Research Institute for Mathematical Sciences] was compared to [Mathematical Sciences Research Institute] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.419553.f........ 127.39927.......................................... 
+	http://www.grid.ac/institutes/grid.419553.f........ 36.401604.......................................... 
+	http://www.grid.ac/institutes/grid.419553.f........ https://www.nims.re.kr/eng/........................ 
+	http://www.grid.ac/institutes/grid.419553.f........ National Institute for Mathematical Sciences....... 
+	http://risis.eu/orgref_20170703/resource/401367.... http://en.wikipedia.org/wiki?curid=401367.......... 
+	http://risis.eu/orgref_20170703/resource/401367.... http://www.wikidata.org/wiki/Q1062013.............. 
+	http://risis.eu/orgref_20170703/resource/401367.... http://www.msri.org................................ 
+	http://risis.eu/orgref_20170703/resource/401367.... Mathematical Sciences Research Institute........... 
+	http://risis.eu/orgref_20170703/resource/1978962... http://en.wikipedia.org/wiki?curid=1978962......... 
+	http://risis.eu/orgref_20170703/resource/1978962... http://www.wikidata.org/wiki/Q840667............... 
+	http://risis.eu/orgref_20170703/resource/1978962... Research Institute for Mathematical Sciences....... 
+	http://www.grid.ac/institutes/grid.250107.1........ -122.24449......................................... 
+	http://www.grid.ac/institutes/grid.250107.1........ 37.880783.......................................... 
+	http://www.grid.ac/institutes/grid.250107.1........ http://www.msri.org/web/msri....................... 
+	http://www.grid.ac/institutes/grid.250107.1........ Mathematical Sciences Research Institute........... 
+	http://risis.eu/orgref_20170703/resource/47000278.. National Institute for Mathematical Sciences....... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:401367', '1:grid.419553.f'), ('2:401367', '4:grid.250107.1'), ('3:1978962', '1:grid.419553.f'), ('3:1978962', '2:401367'), ('3:1978962', '4:grid.250107.1'), ('4:grid.250107.1', '1:grid.419553.f'), ('5:47000278', '1:grid.419553.f'), ('5:47000278', '4:grid.250107.1')]
+	MAX DISTANCE:                   : 0.8
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 2.7
+	AVERAGE NODE CONNECTIVITY RATIO : 0.675
+	BRIDGES                         : 0
+	CLOSURE                         : 0.8
+	DIAMETER                        : 2
+	QUALITY                         : 0.178
+	QUALITY USED                    : 0.195
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.2 DIAMETER 0.333 QUALITY 0.178 QUALITY USED 0.195
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.2 DIAMETER 0.385 QUALITY 0.178 QUALITY USED 0.195

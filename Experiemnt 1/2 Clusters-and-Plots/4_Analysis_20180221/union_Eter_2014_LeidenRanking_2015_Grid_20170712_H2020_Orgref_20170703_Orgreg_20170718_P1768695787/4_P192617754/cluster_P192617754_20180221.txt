@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 4868 
+NAME    P192617754
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.39382.33>
+	<http://risis.eu/cordisH2020/resource/participant_989351986>
+	<http://risis.eu/orgref_20170703/resource/446404>
+	<http://risis.eu/leidenRanking_2015/resource/1219>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.39382.33................. http://risis.eu/orgref_20170703/resource/446404............. 1........................................................... [Baylor College of Medicine] was compared to [Baylor College of Medicine] 
+	http://risis.eu/orgref_20170703/resource/446404............. http://www.grid.ac/institutes/grid.39382.33................. 1........................................................... [Baylor College of Medicine] was compared to [Baylor College of Medicine] 
+	http://www.grid.ac/institutes/grid.39382.33................. http://risis.eu/leidenRanking_2015/resource/1219............ 1........................................................... [Baylor College of Medicine] was compared to [Baylor College of Medicine] 
+	http://risis.eu/leidenRanking_2015/resource/1219............ http://www.grid.ac/institutes/grid.39382.33................. 1........................................................... [Baylor College of Medicine] was compared to [Baylor College of Medicine] 
+	http://www.grid.ac/institutes/grid.39382.33................. http://risis.eu/cordisH2020/resource/participant_989351986.. 1........................................................... [Baylor College of Medicine] was compared to [BAYLOR COLLEGE OF MEDICINE] 
+	http://risis.eu/cordisH2020/resource/participant_989351986.. http://www.grid.ac/institutes/grid.39382.33................. 1........................................................... [Baylor College of Medicine] was compared to [BAYLOR COLLEGE OF MEDICINE] 
+	http://risis.eu/orgref_20170703/resource/446404............. http://risis.eu/leidenRanking_2015/resource/1219............ 1........................................................... [Baylor College of Medicine] was compared to [Baylor College of Medicine] 
+	http://risis.eu/leidenRanking_2015/resource/1219............ http://risis.eu/orgref_20170703/resource/446404............. 1........................................................... [Baylor College of Medicine] was compared to [Baylor College of Medicine] 
+	http://risis.eu/cordisH2020/resource/participant_989351986.. http://risis.eu/orgref_20170703/resource/446404............. 1........................................................... [Baylor College of Medicine] was compared to [BAYLOR COLLEGE OF MEDICINE] 
+	http://risis.eu/orgref_20170703/resource/446404............. http://risis.eu/cordisH2020/resource/participant_989351986.. 1........................................................... [Baylor College of Medicine] was compared to [BAYLOR COLLEGE OF MEDICINE] 
+	http://risis.eu/cordisH2020/resource/participant_989351986.. http://risis.eu/leidenRanking_2015/resource/1219............ 1........................................................... [BAYLOR COLLEGE OF MEDICINE] was compared to [Baylor College of Medicine] 
+	http://risis.eu/leidenRanking_2015/resource/1219............ http://risis.eu/cordisH2020/resource/participant_989351986.. 1........................................................... [BAYLOR COLLEGE OF MEDICINE] was compared to [Baylor College of Medicine] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.39382.33................. -95.39631................................................... 
+	http://www.grid.ac/institutes/grid.39382.33................. 29.711039................................................... 
+	http://www.grid.ac/institutes/grid.39382.33................. https://www.bcm.edu/........................................ 
+	http://www.grid.ac/institutes/grid.39382.33................. Baylor College of Medicine.................................. 
+	http://risis.eu/cordisH2020/resource/participant_989351986.. BAYLOR COLLEGE OF MEDICINE.................................. 
+	http://risis.eu/orgref_20170703/resource/446404............. http://en.wikipedia.org/wiki?curid=446404................... 
+	http://risis.eu/orgref_20170703/resource/446404............. http://www.wikidata.org/wiki/Q2892284....................... 
+	http://risis.eu/orgref_20170703/resource/446404............. http://www.bcm.edu.......................................... 
+	http://risis.eu/orgref_20170703/resource/446404............. Baylor College of Medicine.................................. 
+	http://risis.eu/leidenRanking_2015/resource/1219............ Baylor College of Medicine.................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_989351986', '1:grid.39382.33'), ('2:participant_989351986', '3:446404'), ('3:446404', '1:grid.39382.33'), ('4:1219', '1:grid.39382.33'), ('4:1219', '2:participant_989351986'), ('4:1219', '3:446404')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 11192 
+NAME    N1806928255
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/5583621>
+	<http://risis.eu/orgreg_20170718/resource/GR0001>
+	<http://www.grid.ac/institutes/grid.55939.33>
+	<http://risis.eu/cordisH2020/resource/participant_999895110>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/5583621............ http://www.grid.ac/institutes/grid.55939.33................. 1........................................................... [Hellenic Open University] was compared to [Hellenic Open University] 
+	http://www.grid.ac/institutes/grid.55939.33................. http://risis.eu/orgref_20170703/resource/5583621............ 1........................................................... [Hellenic Open University] was compared to [Hellenic Open University] 
+	http://www.grid.ac/institutes/grid.55939.33................. http://risis.eu/cordisH2020/resource/participant_999895110.. 1........................................................... [Hellenic Open University] was compared to [HELLENIC OPEN UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_999895110.. http://www.grid.ac/institutes/grid.55939.33................. 1........................................................... [Hellenic Open University] was compared to [HELLENIC OPEN UNIVERSITY] 
+	http://risis.eu/orgref_20170703/resource/5583621............ http://risis.eu/cordisH2020/resource/participant_999895110.. 1........................................................... [Hellenic Open University] was compared to [HELLENIC OPEN UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_999895110.. http://risis.eu/orgref_20170703/resource/5583621............ 1........................................................... [Hellenic Open University] was compared to [HELLENIC OPEN UNIVERSITY] 
+	http://risis.eu/orgreg_20170718/resource/GR0001............. http://risis.eu/cordisH2020/resource/participant_999895110.. 1........................................................... [HELLENIC OPEN UNIVERSITY] was compared to [HELLENIC OPEN UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_999895110.. http://risis.eu/orgreg_20170718/resource/GR0001............. 1........................................................... [HELLENIC OPEN UNIVERSITY] was compared to [HELLENIC OPEN UNIVERSITY] 
+	http://risis.eu/orgref_20170703/resource/5583621............ http://risis.eu/orgreg_20170718/resource/GR0001............. 1........................................................... [Hellenic Open University] was compared to [HELLENIC OPEN UNIVERSITY] 
+	http://risis.eu/orgreg_20170718/resource/GR0001............. http://risis.eu/orgref_20170703/resource/5583621............ 1........................................................... [Hellenic Open University] was compared to [HELLENIC OPEN UNIVERSITY] 
+	http://risis.eu/orgreg_20170718/resource/GR0001............. http://www.grid.ac/institutes/grid.55939.33................. 1........................................................... [Hellenic Open University] was compared to [HELLENIC OPEN UNIVERSITY] 
+	http://www.grid.ac/institutes/grid.55939.33................. http://risis.eu/orgreg_20170718/resource/GR0001............. 1........................................................... [Hellenic Open University] was compared to [HELLENIC OPEN UNIVERSITY] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/5583621............ http://en.wikipedia.org/wiki?curid=5583621.................. 
+	http://risis.eu/orgref_20170703/resource/5583621............ http://www.wikidata.org/wiki/Q3035299....................... 
+	http://risis.eu/orgref_20170703/resource/5583621............ http://www.eap.gr/en........................................ 
+	http://risis.eu/orgref_20170703/resource/5583621............ Hellenic Open University.................................... 
+	http://risis.eu/orgreg_20170718/resource/GR0001............. http://www.eap.gr/.......................................... 
+	http://risis.eu/orgreg_20170718/resource/GR0001............. HELLENIC OPEN UNIVERSITY.................................... 
+	http://www.grid.ac/institutes/grid.55939.33................. 21.765...................................................... 
+	http://www.grid.ac/institutes/grid.55939.33................. 38.20639.................................................... 
+	http://www.grid.ac/institutes/grid.55939.33................. http://www.eap.gr/.......................................... 
+	http://www.grid.ac/institutes/grid.55939.33................. Hellenic Open University.................................... 
+	http://risis.eu/cordisH2020/resource/participant_999895110.. http://risis.eu/cordisH2020/resource/www.eap.gr............. 
+	http://risis.eu/cordisH2020/resource/participant_999895110.. HELLENIC OPEN UNIVERSITY.................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:5583621', '3:grid.55939.33'), ('2:GR0001', '1:5583621'), ('3:grid.55939.33', '2:GR0001'), ('4:participant_999895110', '1:5583621'), ('4:participant_999895110', '2:GR0001'), ('4:participant_999895110', '3:grid.55939.33')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

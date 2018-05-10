@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 2274 
+NAME    N1250985452
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.435013.0>
+	<http://risis.eu/orgref_20170703/resource/8788195>
+	<http://risis.eu/cordisH2020/resource/participant_999465788>
+	<http://risis.eu/eter_2014/resource/FR0217>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.435013.0................. http://risis.eu/orgref_20170703/resource/8788195............ 1........................................................... [Institut National des Sciences Appliquées de Rouen] was compared to [Institut national des sciences appliquées de Rouen] 
+	http://risis.eu/orgref_20170703/resource/8788195............ http://www.grid.ac/institutes/grid.435013.0................. 1........................................................... [Institut National des Sciences Appliquées de Rouen] was compared to [Institut national des sciences appliquées de Rouen] 
+	http://www.grid.ac/institutes/grid.435013.0................. http://risis.eu/eter_2014/resource/FR0217................... 1........................................................... [Institut National des Sciences Appliquées de Rouen] was compared to [Institut national des sciences appliquées de Rouen] 
+	http://risis.eu/eter_2014/resource/FR0217................... http://www.grid.ac/institutes/grid.435013.0................. 1........................................................... [Institut National des Sciences Appliquées de Rouen] was compared to [Institut national des sciences appliquées de Rouen] 
+	http://www.grid.ac/institutes/grid.435013.0................. http://risis.eu/cordisH2020/resource/participant_999465788.. 1........................................................... [Institut National des Sciences Appliquées de Rouen] was compared to [INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE ROUEN] 
+	http://risis.eu/cordisH2020/resource/participant_999465788.. http://www.grid.ac/institutes/grid.435013.0................. 1........................................................... [Institut National des Sciences Appliquées de Rouen] was compared to [INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE ROUEN] 
+	http://risis.eu/orgref_20170703/resource/8788195............ http://risis.eu/eter_2014/resource/FR0217................... 1........................................................... [Institut national des sciences appliquées de Rouen] was compared to [Institut national des sciences appliquées de Rouen] 
+	http://risis.eu/eter_2014/resource/FR0217................... http://risis.eu/orgref_20170703/resource/8788195............ 1........................................................... [Institut national des sciences appliquées de Rouen] was compared to [Institut national des sciences appliquées de Rouen] 
+	http://risis.eu/orgref_20170703/resource/8788195............ http://risis.eu/cordisH2020/resource/participant_999465788.. 1........................................................... [Institut national des sciences appliquées de Rouen] was compared to [INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE ROUEN] 
+	http://risis.eu/cordisH2020/resource/participant_999465788.. http://risis.eu/orgref_20170703/resource/8788195............ 1........................................................... [Institut national des sciences appliquées de Rouen] was compared to [INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE ROUEN] 
+	http://risis.eu/cordisH2020/resource/participant_999465788.. http://risis.eu/eter_2014/resource/FR0217................... 1........................................................... [INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE ROUEN] was compared to [Institut national des sciences appliquées de Rouen] 
+	http://risis.eu/eter_2014/resource/FR0217................... http://risis.eu/cordisH2020/resource/participant_999465788.. 1........................................................... [INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE ROUEN] was compared to [Institut national des sciences appliquées de Rouen] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.435013.0................. 1.068913.................................................... 
+	http://www.grid.ac/institutes/grid.435013.0................. 49.3852..................................................... 
+	http://www.grid.ac/institutes/grid.435013.0................. http://www.insa-rouen.fr/................................... 
+	http://www.grid.ac/institutes/grid.435013.0................. INSA de Rouen............................................... 
+	http://www.grid.ac/institutes/grid.435013.0................. Institut National des Sciences Appliquées de Rouen......... 
+	http://risis.eu/orgref_20170703/resource/8788195............ http://en.wikipedia.org/wiki?curid=8788195.................. 
+	http://risis.eu/orgref_20170703/resource/8788195............ http://www.wikidata.org/wiki/Q1665112....................... 
+	http://risis.eu/orgref_20170703/resource/8788195............ http://www.insa-rouen.fr.................................... 
+	http://risis.eu/orgref_20170703/resource/8788195............ Institut national des sciences appliquées de Rouen......... 
+	http://risis.eu/cordisH2020/resource/participant_999465788.. http://risis.eu/cordisH2020/resource/www.insa-rouen.fr...... 
+	http://risis.eu/cordisH2020/resource/participant_999465788.. INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE ROUEN.......... 
+	http://risis.eu/eter_2014/resource/FR0217................... 49,384634................................................... 
+	http://risis.eu/eter_2014/resource/FR0217................... 1,068094.................................................... 
+	http://risis.eu/eter_2014/resource/FR0217................... https://www.insa-rouen.fr/.................................. 
+	http://risis.eu/eter_2014/resource/FR0217................... m........................................................... 
+	http://risis.eu/eter_2014/resource/FR0217................... Institut national des sciences appliquées de Rouen......... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:8788195', '1:grid.435013.0'), ('3:participant_999465788', '1:grid.435013.0'), ('3:participant_999465788', '2:8788195'), ('4:FR0217', '1:grid.435013.0'), ('4:FR0217', '2:8788195'), ('4:FR0217', '3:participant_999465788')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

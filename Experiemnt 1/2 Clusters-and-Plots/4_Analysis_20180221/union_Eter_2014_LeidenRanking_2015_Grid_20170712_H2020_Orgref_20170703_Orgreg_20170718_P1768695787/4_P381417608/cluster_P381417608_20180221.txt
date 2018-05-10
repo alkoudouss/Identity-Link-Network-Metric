@@ -1,0 +1,60 @@
+SIZE    4   
+CLUSTER 2814 
+NAME    P381417608
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/19729752>
+	<http://risis.eu/orgreg_20170718/resource/RO0006>
+	<http://www.grid.ac/institutes/grid.5120.6>
+	<http://risis.eu/leidenRanking_2015/resource/565>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.5120.6.......... http://risis.eu/leidenRanking_2015/resource/565.... 1.................................................. [Transylvania University of Brașov] was compared to [Transylvania University of Brasov] 
+	http://risis.eu/leidenRanking_2015/resource/565.... http://www.grid.ac/institutes/grid.5120.6.......... 1.................................................. [Transylvania University of Brașov] was compared to [Transylvania University of Brasov] 
+	http://risis.eu/orgref_20170703/resource/19729752.. http://risis.eu/leidenRanking_2015/resource/565.... 0.966666666667..................................... [Transilvania University of Brașov] was compared to [Transylvania University of Brasov] 
+	http://risis.eu/leidenRanking_2015/resource/565.... http://risis.eu/orgref_20170703/resource/19729752.. 0.966666666667..................................... [Transilvania University of Brașov] was compared to [Transylvania University of Brasov] 
+	http://risis.eu/orgreg_20170718/resource/RO0006.... http://risis.eu/leidenRanking_2015/resource/565.... 0.966666666667..................................... [Transilvania University of Brasov] was compared to [Transylvania University of Brasov] 
+	http://risis.eu/leidenRanking_2015/resource/565.... http://risis.eu/orgreg_20170718/resource/RO0006.... 0.966666666667..................................... [Transilvania University of Brasov] was compared to [Transylvania University of Brasov] 
+	http://risis.eu/orgref_20170703/resource/19729752.. http://risis.eu/orgreg_20170718/resource/RO0006.... 1.................................................. [Transilvania University of Brașov] was compared to [Transilvania University of Brasov] 
+	http://risis.eu/orgreg_20170718/resource/RO0006.... http://risis.eu/orgref_20170703/resource/19729752.. 1.................................................. [Transilvania University of Brașov] was compared to [Transilvania University of Brasov] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/19729752.. http://en.wikipedia.org/wiki?curid=19729752........ 
+	http://risis.eu/orgref_20170703/resource/19729752.. http://www.wikidata.org/wiki/Q1475400.............. 
+	http://risis.eu/orgref_20170703/resource/19729752.. http://www.unitbv.ro............................... 
+	http://risis.eu/orgref_20170703/resource/19729752.. Transilvania University of Brașov................. 
+	http://risis.eu/orgreg_20170718/resource/RO0006.... 25.589065.......................................... 
+	http://risis.eu/orgreg_20170718/resource/RO0006.... 45.645365.......................................... 
+	http://risis.eu/orgreg_20170718/resource/RO0006.... www.unitbv.ro...................................... 
+	http://risis.eu/orgreg_20170718/resource/RO0006.... Transilvania University of Brasov.................. 
+	http://www.grid.ac/institutes/grid.5120.6.......... 25.580557.......................................... 
+	http://www.grid.ac/institutes/grid.5120.6.......... 45.655834.......................................... 
+	http://www.grid.ac/institutes/grid.5120.6.......... http://www.unitbv.ro/en/home.aspx.................. 
+	http://www.grid.ac/institutes/grid.5120.6.......... Transylvania University of Brașov................. 
+	http://risis.eu/leidenRanking_2015/resource/565.... Transylvania University of Brasov.................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:RO0006', '1:19729752'), ('4:565', '1:19729752'), ('4:565', '2:RO0006'), ('4:565', '3:grid.5120.6')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

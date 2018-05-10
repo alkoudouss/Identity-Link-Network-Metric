@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 3025 
+NAME    N416375552
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.461993.0>
+	<http://risis.eu/orgref_20170703/resource/2448373>
+	<http://www.grid.ac/institutes/grid.417698.5>
+	<http://risis.eu/orgref_20170703/resource/14690116>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/2448373... http://www.grid.ac/institutes/grid.417698.5........ 1.................................................. [Cuyahoga Community College] was compared to [Cuyahoga Community College] 
+	http://www.grid.ac/institutes/grid.417698.5........ http://risis.eu/orgref_20170703/resource/2448373... 1.................................................. [Cuyahoga Community College] was compared to [Cuyahoga Community College] 
+	http://www.grid.ac/institutes/grid.461993.0........ http://risis.eu/orgref_20170703/resource/14690116.. 1.................................................. [Coahoma Community College] was compared to [Coahoma Community College] 
+	http://risis.eu/orgref_20170703/resource/14690116.. http://www.grid.ac/institutes/grid.461993.0........ 1.................................................. [Coahoma Community College] was compared to [Coahoma Community College] 
+	http://risis.eu/orgref_20170703/resource/2448373... http://risis.eu/orgref_20170703/resource/14690116.. 0.884615384615..................................... [Coahoma Community College] was compared to [Cuyahoga Community College] 
+	http://risis.eu/orgref_20170703/resource/14690116.. http://risis.eu/orgref_20170703/resource/2448373... 0.884615384615..................................... [Coahoma Community College] was compared to [Cuyahoga Community College] 
+	http://www.grid.ac/institutes/grid.461993.0........ http://www.grid.ac/institutes/grid.417698.5........ 0.884615384615..................................... [Cuyahoga Community College] was compared to [Coahoma Community College] 
+	http://www.grid.ac/institutes/grid.417698.5........ http://www.grid.ac/institutes/grid.461993.0........ 0.884615384615..................................... [Cuyahoga Community College] was compared to [Coahoma Community College] 
+	http://www.grid.ac/institutes/grid.417698.5........ http://risis.eu/orgref_20170703/resource/14690116.. 0.884615384615..................................... [Cuyahoga Community College] was compared to [Coahoma Community College] 
+	http://risis.eu/orgref_20170703/resource/14690116.. http://www.grid.ac/institutes/grid.417698.5........ 0.884615384615..................................... [Cuyahoga Community College] was compared to [Coahoma Community College] 
+	http://www.grid.ac/institutes/grid.461993.0........ http://risis.eu/orgref_20170703/resource/2448373... 0.884615384615..................................... [Coahoma Community College] was compared to [Cuyahoga Community College] 
+	http://risis.eu/orgref_20170703/resource/2448373... http://www.grid.ac/institutes/grid.461993.0........ 0.884615384615..................................... [Coahoma Community College] was compared to [Cuyahoga Community College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.461993.0........ -90.57093.......................................... 
+	http://www.grid.ac/institutes/grid.461993.0........ 34.23185........................................... 
+	http://www.grid.ac/institutes/grid.461993.0........ http://www.coahomacc.edu/.......................... 
+	http://www.grid.ac/institutes/grid.461993.0........ Coahoma Community College.......................... 
+	http://risis.eu/orgref_20170703/resource/2448373... http://en.wikipedia.org/wiki?curid=2448373......... 
+	http://risis.eu/orgref_20170703/resource/2448373... http://www.wikidata.org/wiki/Q5197072.............. 
+	http://risis.eu/orgref_20170703/resource/2448373... http://www.tri-c.edu............................... 
+	http://risis.eu/orgref_20170703/resource/2448373... Cuyahoga Community College......................... 
+	http://www.grid.ac/institutes/grid.417698.5........ -81.501............................................ 
+	http://www.grid.ac/institutes/grid.417698.5........ 41.447............................................. 
+	http://www.grid.ac/institutes/grid.417698.5........ http://www.tri-c.edu/.............................. 
+	http://www.grid.ac/institutes/grid.417698.5........ Tri-C.............................................. 
+	http://www.grid.ac/institutes/grid.417698.5........ Cuyahoga Community College......................... 
+	http://risis.eu/orgref_20170703/resource/14690116.. http://en.wikipedia.org/wiki?curid=14690116........ 
+	http://risis.eu/orgref_20170703/resource/14690116.. http://www.wikidata.org/wiki/Q5137668.............. 
+	http://risis.eu/orgref_20170703/resource/14690116.. Coahoma Community College.......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.461993.0', '3:grid.417698.5'), ('2:2448373', '1:grid.461993.0'), ('2:2448373', '3:grid.417698.5'), ('2:2448373', '4:14690116'), ('4:14690116', '1:grid.461993.0'), ('4:14690116', '3:grid.417698.5')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

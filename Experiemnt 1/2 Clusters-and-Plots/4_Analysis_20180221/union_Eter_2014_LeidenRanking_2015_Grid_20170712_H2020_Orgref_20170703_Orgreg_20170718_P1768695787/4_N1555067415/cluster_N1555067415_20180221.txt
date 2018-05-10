@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 3259 
+NAME    N1555067415
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.411742.5>
+	<http://risis.eu/leidenRanking_2015/resource/719>
+	<http://risis.eu/eter_2014/resource/TR0087>
+	<http://risis.eu/orgref_20170703/resource/1864200>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.411742.5....... http://risis.eu/orgref_20170703/resource/1864200.. 1................................................. [Pamukkale University] was compared to [Pamukkale University] 
+	http://risis.eu/orgref_20170703/resource/1864200.. http://www.grid.ac/institutes/grid.411742.5....... 1................................................. [Pamukkale University] was compared to [Pamukkale University] 
+	http://www.grid.ac/institutes/grid.411742.5....... http://risis.eu/leidenRanking_2015/resource/719... 1................................................. [Pamukkale University] was compared to [Pamukkale University] 
+	http://risis.eu/leidenRanking_2015/resource/719... http://www.grid.ac/institutes/grid.411742.5....... 1................................................. [Pamukkale University] was compared to [Pamukkale University] 
+	http://risis.eu/leidenRanking_2015/resource/719... http://risis.eu/orgref_20170703/resource/1864200.. 1................................................. [Pamukkale University] was compared to [Pamukkale University] 
+	http://risis.eu/orgref_20170703/resource/1864200.. http://risis.eu/leidenRanking_2015/resource/719... 1................................................. [Pamukkale University] was compared to [Pamukkale University] 
+	http://risis.eu/leidenRanking_2015/resource/719... http://risis.eu/eter_2014/resource/TR0087......... 0.863636363636.................................... [PAMUKKALE ÜNIVERSITESI] was compared to [Pamukkale University] 
+	http://risis.eu/eter_2014/resource/TR0087......... http://risis.eu/leidenRanking_2015/resource/719... 0.863636363636.................................... [PAMUKKALE ÜNIVERSITESI] was compared to [Pamukkale University] 
+	http://risis.eu/eter_2014/resource/TR0087......... http://risis.eu/orgref_20170703/resource/1864200.. 0.863636363636.................................... [Pamukkale University] was compared to [PAMUKKALE ÜNIVERSITESI] 
+	http://risis.eu/orgref_20170703/resource/1864200.. http://risis.eu/eter_2014/resource/TR0087......... 0.863636363636.................................... [Pamukkale University] was compared to [PAMUKKALE ÜNIVERSITESI] 
+	http://www.grid.ac/institutes/grid.411742.5....... http://risis.eu/eter_2014/resource/TR0087......... 0.863636363636.................................... [Pamukkale University] was compared to [PAMUKKALE ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0087......... http://www.grid.ac/institutes/grid.411742.5....... 0.863636363636.................................... [Pamukkale University] was compared to [PAMUKKALE ÜNIVERSITESI] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.411742.5....... 29.10154.......................................... 
+	http://www.grid.ac/institutes/grid.411742.5....... 37.739788......................................... 
+	http://www.grid.ac/institutes/grid.411742.5....... http://www.pau.edu.tr/............................ 
+	http://www.grid.ac/institutes/grid.411742.5....... Pamukkale University.............................. 
+	http://risis.eu/leidenRanking_2015/resource/719... Pamukkale University.............................. 
+	http://risis.eu/eter_2014/resource/TR0087......... 37,729181......................................... 
+	http://risis.eu/eter_2014/resource/TR0087......... 29,162323......................................... 
+	http://risis.eu/eter_2014/resource/TR0087......... http://www.pau.edu.tr/............................ 
+	http://risis.eu/eter_2014/resource/TR0087......... a................................................. 
+	http://risis.eu/eter_2014/resource/TR0087......... Pamukkale University.............................. 
+	http://risis.eu/eter_2014/resource/TR0087......... PAMUKKALE ÜNIVERSITESI........................... 
+	http://risis.eu/orgref_20170703/resource/1864200.. http://en.wikipedia.org/wiki?curid=1864200........ 
+	http://risis.eu/orgref_20170703/resource/1864200.. http://www.wikidata.org/wiki/Q1278023............. 
+	http://risis.eu/orgref_20170703/resource/1864200.. http://www.pau.edu.tr............................. 
+	http://risis.eu/orgref_20170703/resource/1864200.. Pamukkale University.............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:719', '1:grid.411742.5'), ('2:719', '3:TR0087'), ('2:719', '4:1864200'), ('3:TR0087', '1:grid.411742.5'), ('3:TR0087', '4:1864200'), ('4:1864200', '1:grid.411742.5')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

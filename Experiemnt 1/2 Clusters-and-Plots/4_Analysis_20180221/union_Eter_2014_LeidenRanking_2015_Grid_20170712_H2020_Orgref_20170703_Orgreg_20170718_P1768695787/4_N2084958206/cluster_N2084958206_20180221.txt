@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 7309 
+NAME    N2084958206
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.473841.d>
+	<http://www.grid.ac/institutes/grid.473842.e>
+	<http://www.grid.ac/institutes/grid.420104.3>
+	<http://www.grid.ac/institutes/grid.474350.1>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.473841.d.. http://www.grid.ac/institutes/grid.474350.1.. 0.941176470588............................... [Southeast Fisheries Science Center] was compared to [Northeast Fisheries Science Center] 
+	http://www.grid.ac/institutes/grid.474350.1.. http://www.grid.ac/institutes/grid.473841.d.. 0.941176470588............................... [Southeast Fisheries Science Center] was compared to [Northeast Fisheries Science Center] 
+	http://www.grid.ac/institutes/grid.473841.d.. http://www.grid.ac/institutes/grid.473842.e.. 0.941176470588............................... [Southeast Fisheries Science Center] was compared to [Southwest Fisheries Science Center] 
+	http://www.grid.ac/institutes/grid.473842.e.. http://www.grid.ac/institutes/grid.473841.d.. 0.941176470588............................... [Southeast Fisheries Science Center] was compared to [Southwest Fisheries Science Center] 
+	http://www.grid.ac/institutes/grid.420104.3.. http://www.grid.ac/institutes/grid.474350.1.. 0.941176470588............................... [Northwest Fisheries Science Center] was compared to [Northeast Fisheries Science Center] 
+	http://www.grid.ac/institutes/grid.474350.1.. http://www.grid.ac/institutes/grid.420104.3.. 0.941176470588............................... [Northwest Fisheries Science Center] was compared to [Northeast Fisheries Science Center] 
+	http://www.grid.ac/institutes/grid.473842.e.. http://www.grid.ac/institutes/grid.420104.3.. 0.941176470588............................... [Northwest Fisheries Science Center] was compared to [Southwest Fisheries Science Center] 
+	http://www.grid.ac/institutes/grid.420104.3.. http://www.grid.ac/institutes/grid.473842.e.. 0.941176470588............................... [Northwest Fisheries Science Center] was compared to [Southwest Fisheries Science Center] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.473841.d.. -80.16051.................................... 
+	http://www.grid.ac/institutes/grid.473841.d.. 25.733387.................................... 
+	http://www.grid.ac/institutes/grid.473841.d.. http://www.sefsc.noaa.gov/................... 
+	http://www.grid.ac/institutes/grid.473841.d.. NOAA Southeast Fisheries Science Center...... 
+	http://www.grid.ac/institutes/grid.473841.d.. Southeast Fisheries Science Center........... 
+	http://www.grid.ac/institutes/grid.473842.e.. -117.25084................................... 
+	http://www.grid.ac/institutes/grid.473842.e.. 32.870434.................................... 
+	http://www.grid.ac/institutes/grid.473842.e.. https://swfsc.noaa.gov/...................... 
+	http://www.grid.ac/institutes/grid.473842.e.. NOAA Southwest Fisheries Science Center...... 
+	http://www.grid.ac/institutes/grid.473842.e.. Southwest Fisheries Science Center........... 
+	http://www.grid.ac/institutes/grid.420104.3.. -122.30693................................... 
+	http://www.grid.ac/institutes/grid.420104.3.. 47.64494..................................... 
+	http://www.grid.ac/institutes/grid.420104.3.. http://www.nwfsc.noaa.gov/................... 
+	http://www.grid.ac/institutes/grid.420104.3.. Northwest Fisheries Science Center........... 
+	http://www.grid.ac/institutes/grid.474350.1.. -70.67397.................................... 
+	http://www.grid.ac/institutes/grid.474350.1.. 41.52539..................................... 
+	http://www.grid.ac/institutes/grid.474350.1.. http://www.nefsc.noaa.gov/................... 
+	http://www.grid.ac/institutes/grid.474350.1.. Northeast Fisheries Science Center........... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.473842.e', '1:grid.473841.d'), ('3:grid.420104.3', '2:grid.473842.e'), ('4:grid.474350.1', '1:grid.473841.d'), ('4:grid.474350.1', '3:grid.420104.3')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.666666666667
+	BRIDGES                         : 0
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.277
+	QUALITY USED                    : 0.277
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.277 QUALITY USED 0.277
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.277 QUALITY USED 0.277

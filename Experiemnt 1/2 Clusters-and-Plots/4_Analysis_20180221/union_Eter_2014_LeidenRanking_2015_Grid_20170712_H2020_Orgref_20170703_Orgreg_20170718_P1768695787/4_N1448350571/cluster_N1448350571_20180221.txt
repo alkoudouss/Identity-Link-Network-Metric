@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 4860 
+NAME    N1448350571
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.10346.30>
+	<http://risis.eu/cordisH2020/resource/participant_998306153>
+	<http://risis.eu/orgref_20170703/resource/703698>
+	<http://risis.eu/eter_2014/resource/UK0061>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.10346.30................. http://risis.eu/orgref_20170703/resource/703698............. 1........................................................... [Leeds Beckett University] was compared to [Leeds Beckett University] 
+	http://risis.eu/orgref_20170703/resource/703698............. http://www.grid.ac/institutes/grid.10346.30................. 1........................................................... [Leeds Beckett University] was compared to [Leeds Beckett University] 
+	http://www.grid.ac/institutes/grid.10346.30................. http://risis.eu/eter_2014/resource/UK0061................... 1........................................................... [Leeds Beckett University] was compared to [Leeds Beckett University] 
+	http://risis.eu/eter_2014/resource/UK0061................... http://www.grid.ac/institutes/grid.10346.30................. 1........................................................... [Leeds Beckett University] was compared to [Leeds Beckett University] 
+	http://www.grid.ac/institutes/grid.10346.30................. http://risis.eu/cordisH2020/resource/participant_998306153.. 1........................................................... [Leeds Beckett University] was compared to [LEEDS BECKETT UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_998306153.. http://www.grid.ac/institutes/grid.10346.30................. 1........................................................... [Leeds Beckett University] was compared to [LEEDS BECKETT UNIVERSITY] 
+	http://risis.eu/orgref_20170703/resource/703698............. http://risis.eu/eter_2014/resource/UK0061................... 1........................................................... [Leeds Beckett University] was compared to [Leeds Beckett University] 
+	http://risis.eu/eter_2014/resource/UK0061................... http://risis.eu/orgref_20170703/resource/703698............. 1........................................................... [Leeds Beckett University] was compared to [Leeds Beckett University] 
+	http://risis.eu/cordisH2020/resource/participant_998306153.. http://risis.eu/orgref_20170703/resource/703698............. 1........................................................... [Leeds Beckett University] was compared to [LEEDS BECKETT UNIVERSITY] 
+	http://risis.eu/orgref_20170703/resource/703698............. http://risis.eu/cordisH2020/resource/participant_998306153.. 1........................................................... [Leeds Beckett University] was compared to [LEEDS BECKETT UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_998306153.. http://risis.eu/eter_2014/resource/UK0061................... 1........................................................... [LEEDS BECKETT UNIVERSITY] was compared to [Leeds Beckett University] 
+	http://risis.eu/eter_2014/resource/UK0061................... http://risis.eu/cordisH2020/resource/participant_998306153.. 1........................................................... [LEEDS BECKETT UNIVERSITY] was compared to [Leeds Beckett University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.10346.30................. -1.549444................................................... 
+	http://www.grid.ac/institutes/grid.10346.30................. 53.80417.................................................... 
+	http://www.grid.ac/institutes/grid.10346.30................. http://www.leedsbeckett.ac.uk/.............................. 
+	http://www.grid.ac/institutes/grid.10346.30................. Leeds Polytechnic........................................... 
+	http://www.grid.ac/institutes/grid.10346.30................. Leeds Metropolitan University............................... 
+	http://www.grid.ac/institutes/grid.10346.30................. Leeds Beckett University.................................... 
+	http://risis.eu/cordisH2020/resource/participant_998306153.. http://risis.eu/cordisH2020/resource/www.lmu.ac.uk.......... 
+	http://risis.eu/cordisH2020/resource/participant_998306153.. LEEDS BECKETT UNIVERSITY.................................... 
+	http://risis.eu/orgref_20170703/resource/703698............. http://en.wikipedia.org/wiki?curid=703698................... 
+	http://risis.eu/orgref_20170703/resource/703698............. http://www.wikidata.org/wiki/Q2392351....................... 
+	http://risis.eu/orgref_20170703/resource/703698............. http://www.leedsbeckett.ac.uk............................... 
+	http://risis.eu/orgref_20170703/resource/703698............. Leeds Beckett University.................................... 
+	http://risis.eu/eter_2014/resource/UK0061................... 53,803647................................................... 
+	http://risis.eu/eter_2014/resource/UK0061................... -1,549139................................................... 
+	http://risis.eu/eter_2014/resource/UK0061................... http://www.leedsbeckett.ac.uk............................... 
+	http://risis.eu/eter_2014/resource/UK0061................... a........................................................... 
+	http://risis.eu/eter_2014/resource/UK0061................... Leeds Beckett University.................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_998306153', '1:grid.10346.30'), ('2:participant_998306153', '3:703698'), ('3:703698', '1:grid.10346.30'), ('4:UK0061', '1:grid.10346.30'), ('4:UK0061', '2:participant_998306153'), ('4:UK0061', '3:703698')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

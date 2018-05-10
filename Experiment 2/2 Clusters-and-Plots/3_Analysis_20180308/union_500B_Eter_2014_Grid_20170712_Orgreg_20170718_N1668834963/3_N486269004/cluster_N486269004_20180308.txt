@@ -1,0 +1,55 @@
+SIZE    3   
+CLUSTER 208 
+NAME    N486269004
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.411374.4>
+	<http://risis.eu/orgreg_20170718/resource/BE2017>
+	<http://www.grid.ac/institutes/grid.476395.a>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.411374.4...... http://risis.eu/orgreg_20170718/resource/BE2017.. 1................................................ Near each other by at most 500 meter(s).......... 
+	http://risis.eu/orgreg_20170718/resource/BE2017.. http://www.grid.ac/institutes/grid.411374.4...... 1................................................ Near each other by at most 500 meter(s).......... 
+	http://risis.eu/orgreg_20170718/resource/BE2017.. http://www.grid.ac/institutes/grid.476395.a...... 1................................................ Near each other by at most 500 meter(s).......... 
+	http://www.grid.ac/institutes/grid.476395.a...... http://risis.eu/orgreg_20170718/resource/BE2017.. 1................................................ Near each other by at most 500 meter(s).......... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.411374.4...... 5.56717.......................................... 
+	http://www.grid.ac/institutes/grid.411374.4...... 50.572388........................................ 
+	http://www.grid.ac/institutes/grid.411374.4...... http://www.chu.ulg.ac.be/jcms/r_127200/internet-accueil 
+	http://www.grid.ac/institutes/grid.411374.4...... CHU de Liège.................................... 
+	http://www.grid.ac/institutes/grid.411374.4...... Centre Hospitalier Universitaire de Liège....... 
+	http://risis.eu/orgreg_20170718/resource/BE2017.. 5.567172......................................... 
+	http://risis.eu/orgreg_20170718/resource/BE2017.. 50.573031........................................ 
+	http://risis.eu/orgreg_20170718/resource/BE2017.. http://www.chu.ulg.ac.be/........................ 
+	http://risis.eu/orgreg_20170718/resource/BE2017.. Centre hospitalier universitaire de Liège....... 
+	http://www.grid.ac/institutes/grid.476395.a...... 5.567738......................................... 
+	http://www.grid.ac/institutes/grid.476395.a...... 50.572647........................................ 
+	http://www.grid.ac/institutes/grid.476395.a...... http://www.imcyse.com/en/........................ 
+	http://www.grid.ac/institutes/grid.476395.a...... ImCyse (Belgium)................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('N486269004-BE2017', 'N318602673-grid.476395.a'), ('N486269004-BE2017', 'P901899452-grid.411374.4')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

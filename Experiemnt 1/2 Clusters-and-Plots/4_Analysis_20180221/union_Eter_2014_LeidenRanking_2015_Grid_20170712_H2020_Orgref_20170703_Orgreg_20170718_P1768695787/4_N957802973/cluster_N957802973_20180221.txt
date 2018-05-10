@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 3490 
+NAME    N957802973
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/18081147>
+	<http://risis.eu/orgref_20170703/resource/6676135>
+	<http://risis.eu/orgref_20170703/resource/10144222>
+	<http://www.grid.ac/institutes/grid.449730.d>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/18081147.. http://www.grid.ac/institutes/grid.449730.d........ 1.................................................. [University of Health Science] was compared to [Health Science University] 
+	http://www.grid.ac/institutes/grid.449730.d........ http://risis.eu/orgref_20170703/resource/18081147.. 1.................................................. [University of Health Science] was compared to [Health Science University] 
+	http://risis.eu/orgref_20170703/resource/6676135... http://www.grid.ac/institutes/grid.449730.d........ 0.961538461538..................................... [University of Health Science] was compared to [University of Health Sciences (Antigua)] 
+	http://www.grid.ac/institutes/grid.449730.d........ http://risis.eu/orgref_20170703/resource/6676135... 0.961538461538..................................... [University of Health Science] was compared to [University of Health Sciences (Antigua)] 
+	http://risis.eu/orgref_20170703/resource/10144222.. http://www.grid.ac/institutes/grid.449730.d........ 0.961538461538..................................... [University of Health Science] was compared to [University of Health Sciences (Lahore)] 
+	http://www.grid.ac/institutes/grid.449730.d........ http://risis.eu/orgref_20170703/resource/10144222.. 0.961538461538..................................... [University of Health Science] was compared to [University of Health Sciences (Lahore)] 
+	http://risis.eu/orgref_20170703/resource/18081147.. http://risis.eu/orgref_20170703/resource/6676135... 0.961538461538..................................... [Health Science University] was compared to [University of Health Sciences (Antigua)] 
+	http://risis.eu/orgref_20170703/resource/6676135... http://risis.eu/orgref_20170703/resource/18081147.. 0.961538461538..................................... [Health Science University] was compared to [University of Health Sciences (Antigua)] 
+	http://risis.eu/orgref_20170703/resource/18081147.. http://risis.eu/orgref_20170703/resource/10144222.. 0.961538461538..................................... [University of Health Sciences (Lahore)] was compared to [Health Science University] 
+	http://risis.eu/orgref_20170703/resource/10144222.. http://risis.eu/orgref_20170703/resource/18081147.. 0.961538461538..................................... [University of Health Sciences (Lahore)] was compared to [Health Science University] 
+	http://risis.eu/orgref_20170703/resource/6676135... http://risis.eu/orgref_20170703/resource/10144222.. 1.................................................. [University of Health Sciences (Lahore)] was compared to [University of Health Sciences (Antigua)] 
+	http://risis.eu/orgref_20170703/resource/10144222.. http://risis.eu/orgref_20170703/resource/6676135... 1.................................................. [University of Health Sciences (Lahore)] was compared to [University of Health Sciences (Antigua)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/18081147.. http://en.wikipedia.org/wiki?curid=18081147........ 
+	http://risis.eu/orgref_20170703/resource/18081147.. http://www.wikidata.org/wiki/Q5690657.............. 
+	http://risis.eu/orgref_20170703/resource/18081147.. http://www.kenkoudai.com........................... 
+	http://risis.eu/orgref_20170703/resource/18081147.. Health Science University.......................... 
+	http://risis.eu/orgref_20170703/resource/6676135... http://en.wikipedia.org/wiki?curid=6676135......... 
+	http://risis.eu/orgref_20170703/resource/6676135... http://www.wikidata.org/wiki/Q7895486.............. 
+	http://risis.eu/orgref_20170703/resource/6676135... http://www.uhsa.ag................................. 
+	http://risis.eu/orgref_20170703/resource/6676135... University of Health Sciences (Antigua)............ 
+	http://risis.eu/orgref_20170703/resource/10144222.. http://en.wikipedia.org/wiki?curid=10144222........ 
+	http://risis.eu/orgref_20170703/resource/10144222.. http://www.wikidata.org/wiki/Q7895488.............. 
+	http://risis.eu/orgref_20170703/resource/10144222.. http://www.uhs.edu.pk.............................. 
+	http://risis.eu/orgref_20170703/resource/10144222.. University of Health Sciences (Lahore)............. 
+	http://www.grid.ac/institutes/grid.449730.d........ University of Health Science....................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:18081147', '3:10144222'), ('1:18081147', '4:grid.449730.d'), ('2:6676135', '1:18081147'), ('2:6676135', '4:grid.449730.d'), ('3:10144222', '2:6676135'), ('4:grid.449730.d', '3:10144222')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

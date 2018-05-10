@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 2937 
+NAME    N1767874194
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.442912.8>
+	<http://risis.eu/orgref_20170703/resource/17334105>
+	<http://www.grid.ac/institutes/grid.445146.6>
+	<http://risis.eu/orgref_20170703/resource/24408615>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.442912.8........ http://www.grid.ac/institutes/grid.445146.6........ 1.................................................. [Academy of Public Administration] was compared to [Academy of Public Administration] 
+	http://www.grid.ac/institutes/grid.445146.6........ http://www.grid.ac/institutes/grid.442912.8........ 1.................................................. [Academy of Public Administration] was compared to [Academy of Public Administration] 
+	http://www.grid.ac/institutes/grid.442912.8........ http://risis.eu/orgref_20170703/resource/17334105.. 1.................................................. [Academy of Public Administration] was compared to [Academy of Public Administration (Azerbaijan)] 
+	http://risis.eu/orgref_20170703/resource/17334105.. http://www.grid.ac/institutes/grid.442912.8........ 1.................................................. [Academy of Public Administration] was compared to [Academy of Public Administration (Azerbaijan)] 
+	http://www.grid.ac/institutes/grid.442912.8........ http://risis.eu/orgref_20170703/resource/24408615.. 1.................................................. [Academy of Public Administration] was compared to [Academy of Public Administration (Belarus)] 
+	http://risis.eu/orgref_20170703/resource/24408615.. http://www.grid.ac/institutes/grid.442912.8........ 1.................................................. [Academy of Public Administration] was compared to [Academy of Public Administration (Belarus)] 
+	http://risis.eu/orgref_20170703/resource/17334105.. http://www.grid.ac/institutes/grid.445146.6........ 1.................................................. [Academy of Public Administration] was compared to [Academy of Public Administration (Azerbaijan)] 
+	http://www.grid.ac/institutes/grid.445146.6........ http://risis.eu/orgref_20170703/resource/17334105.. 1.................................................. [Academy of Public Administration] was compared to [Academy of Public Administration (Azerbaijan)] 
+	http://www.grid.ac/institutes/grid.445146.6........ http://risis.eu/orgref_20170703/resource/24408615.. 1.................................................. [Academy of Public Administration] was compared to [Academy of Public Administration (Belarus)] 
+	http://risis.eu/orgref_20170703/resource/24408615.. http://www.grid.ac/institutes/grid.445146.6........ 1.................................................. [Academy of Public Administration] was compared to [Academy of Public Administration (Belarus)] 
+	http://risis.eu/orgref_20170703/resource/17334105.. http://risis.eu/orgref_20170703/resource/24408615.. 1.................................................. [Academy of Public Administration (Azerbaijan)] was compared to [Academy of Public Administration (Belarus)] 
+	http://risis.eu/orgref_20170703/resource/24408615.. http://risis.eu/orgref_20170703/resource/17334105.. 1.................................................. [Academy of Public Administration (Azerbaijan)] was compared to [Academy of Public Administration (Belarus)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.442912.8........ Academy of Public Administration................... 
+	http://risis.eu/orgref_20170703/resource/17334105.. http://en.wikipedia.org/wiki?curid=17334105........ 
+	http://risis.eu/orgref_20170703/resource/17334105.. http://www.wikidata.org/wiki/Q4059231.............. 
+	http://risis.eu/orgref_20170703/resource/17334105.. http://www.dia.edu.az/index_en.php................. 
+	http://risis.eu/orgref_20170703/resource/17334105.. Academy of Public Administration (Azerbaijan)...... 
+	http://www.grid.ac/institutes/grid.445146.6........ Academy of Public Administration................... 
+	http://risis.eu/orgref_20170703/resource/24408615.. http://en.wikipedia.org/wiki?curid=24408615........ 
+	http://risis.eu/orgref_20170703/resource/24408615.. http://www.wikidata.org/wiki/Q2005698.............. 
+	http://risis.eu/orgref_20170703/resource/24408615.. http://www.pac.by.................................. 
+	http://risis.eu/orgref_20170703/resource/24408615.. Academy of Public Administration (Belarus)......... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:17334105', '1:grid.442912.8'), ('2:17334105', '3:grid.445146.6'), ('3:grid.445146.6', '1:grid.442912.8'), ('4:24408615', '1:grid.442912.8'), ('4:24408615', '2:17334105'), ('4:24408615', '3:grid.445146.6')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

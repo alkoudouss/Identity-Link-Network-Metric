@@ -1,0 +1,58 @@
+SIZE    4   
+CLUSTER 48 
+NAME    N1140109435
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.445785.f>
+	<http://risis.eu/orgref_20170703/resource/23159759>
+	<http://risis.eu/orgreg_20170718/resource/RO0057>
+	<http://risis.eu/eter_2014/resource/RO0057>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.445785.f........ http://risis.eu/orgref_20170703/resource/23159759.. 1.................................................. [Constantin Brâncoveanu University] was compared to [Constantin Brâncoveanu University] 
+	http://risis.eu/orgref_20170703/resource/23159759.. http://www.grid.ac/institutes/grid.445785.f........ 1.................................................. [Constantin Brâncoveanu University] was compared to [Constantin Brâncoveanu University] 
+	http://risis.eu/orgreg_20170718/resource/RO0057.... http://risis.eu/eter_2014/resource/RO0057.......... 0.888888888889..................................... [Constantin Brancoveanu University of Pitesti] was compared to [Universitatea Constantin Brancoveanu  Pitesti] 
+	http://risis.eu/eter_2014/resource/RO0057.......... http://risis.eu/orgreg_20170718/resource/RO0057.... 0.888888888889..................................... [Constantin Brancoveanu University of Pitesti] was compared to [Universitatea Constantin Brancoveanu  Pitesti] 
+	http://www.grid.ac/institutes/grid.445785.f........ http://risis.eu/orgreg_20170718/resource/RO0057.... 0.80487804878...................................... [Constantin Brâncoveanu University] was compared to [Constantin Brancoveanu University of Pitesti] 
+	http://risis.eu/orgreg_20170718/resource/RO0057.... http://www.grid.ac/institutes/grid.445785.f........ 0.80487804878...................................... [Constantin Brâncoveanu University] was compared to [Constantin Brancoveanu University of Pitesti] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.445785.f........ Constantin Brâncoveanu University................. 
+	http://risis.eu/orgref_20170703/resource/23159759.. http://en.wikipedia.org/wiki?curid=23159759........ 
+	http://risis.eu/orgref_20170703/resource/23159759.. http://www.wikidata.org/wiki/Q3551390.............. 
+	http://risis.eu/orgref_20170703/resource/23159759.. Constantin Brâncoveanu University................. 
+	http://risis.eu/orgreg_20170718/resource/RO0057.... 24.578149.......................................... 
+	http://risis.eu/orgreg_20170718/resource/RO0057.... 44.56302........................................... 
+	http://risis.eu/orgreg_20170718/resource/RO0057.... www.univcb.ro...................................... 
+	http://risis.eu/orgreg_20170718/resource/RO0057.... Constantin Brancoveanu University of Pitesti....... 
+	http://risis.eu/eter_2014/resource/RO0057.......... m.................................................. 
+	http://risis.eu/eter_2014/resource/RO0057.......... www.univcb.ro...................................... 
+	http://risis.eu/eter_2014/resource/RO0057.......... a.................................................. 
+	http://risis.eu/eter_2014/resource/RO0057.......... Constantin Brancoveanu University of Pitesti....... 
+	http://risis.eu/eter_2014/resource/RO0057.......... Universitatea Constantin Brancoveanu  Pitesti...... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:23159759', '1:grid.445785.f'), ('3:RO0057', '1:grid.445785.f'), ('4:RO0057', '3:RO0057')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

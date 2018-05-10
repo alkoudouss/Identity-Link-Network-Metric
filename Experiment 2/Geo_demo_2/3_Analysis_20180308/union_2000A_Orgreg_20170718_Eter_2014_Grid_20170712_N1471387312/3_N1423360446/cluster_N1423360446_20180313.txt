@@ -1,0 +1,58 @@
+SIZE    3   
+CLUSTER 452 
+NAME    N1423360446
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/PT0010>
+	<http://risis.eu/eter_2014/resource/PT0010>
+	<http://www.grid.ac/institutes/grid.26793.39>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/PT0010.. http://www.grid.ac/institutes/grid.26793.39...... 1................................................ [university madeira] was compared to [university madeira] 
+	http://risis.eu/orgreg_20170718/resource/PT0010.. http://risis.eu/eter_2014/resource/PT0010........ 1................................................ [university madeira] was compared to [university madeira] 
+	http://risis.eu/eter_2014/resource/PT0010........ http://www.grid.ac/institutes/grid.26793.39...... 1................................................ [university madeira] was compared to [university madeira] 
+	http://risis.eu/eter_2014/resource/PT0010........ http://risis.eu/orgreg_20170718/resource/PT0010.. 1................................................ [university madeira] was compared to [university madeira] 
+	http://www.grid.ac/institutes/grid.26793.39...... http://risis.eu/eter_2014/resource/PT0010........ 1................................................ [university madeira] was compared to [university madeira] 
+	http://www.grid.ac/institutes/grid.26793.39...... http://risis.eu/orgreg_20170718/resource/PT0010.. 1................................................ [university madeira] was compared to [university madeira] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/PT0010.. -16.908843....................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0010.. 32.65011......................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0010.. http://www.uma.pt................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0010.. University of Madeira............................ 
+	http://risis.eu/eter_2014/resource/PT0010........ 32,65011......................................... 
+	http://risis.eu/eter_2014/resource/PT0010........ -16,908843....................................... 
+	http://risis.eu/eter_2014/resource/PT0010........ http://www.uma.pt................................ 
+	http://risis.eu/eter_2014/resource/PT0010........ a................................................ 
+	http://risis.eu/eter_2014/resource/PT0010........ University of Madeira............................ 
+	http://risis.eu/eter_2014/resource/PT0010........ Universidade da Madeira.......................... 
+	http://www.grid.ac/institutes/grid.26793.39...... -16.924444....................................... 
+	http://www.grid.ac/institutes/grid.26793.39...... 32.65889......................................... 
+	http://www.grid.ac/institutes/grid.26793.39...... http://www.uma.pt/portal/modulos/noticia/index.php?NV_MOD=MODNOTICIA&NV_EAGR=EAGR_NOTICIABROWSER&TPESQ=PESQ_NOTICIA_DESTAQUES 
+	http://www.grid.ac/institutes/grid.26793.39...... University of Madeira............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('N1423360446-PT0010', 'N1326185497-grid.26793.39'), ('N1048421913-PT0010', 'N1326185497-grid.26793.39'), ('N1048421913-PT0010', 'N1423360446-PT0010')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 9854 
+NAME    N1453308212
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.411951.9>
+	<http://risis.eu/orgref_20170703/resource/16901339>
+	<http://www.grid.ac/institutes/grid.444857.e>
+	<http://risis.eu/orgref_20170703/resource/18071234>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.411951.9........ http://risis.eu/orgref_20170703/resource/18071234.. 1.................................................. [Hamamatsu University] was compared to [Hamamatsu University] 
+	http://risis.eu/orgref_20170703/resource/18071234.. http://www.grid.ac/institutes/grid.411951.9........ 1.................................................. [Hamamatsu University] was compared to [Hamamatsu University] 
+	http://risis.eu/orgref_20170703/resource/16901339.. http://www.grid.ac/institutes/grid.444857.e........ 1.................................................. [Takamatsu University] was compared to [Takamatsu University] 
+	http://www.grid.ac/institutes/grid.444857.e........ http://risis.eu/orgref_20170703/resource/16901339.. 1.................................................. [Takamatsu University] was compared to [Takamatsu University] 
+	http://risis.eu/orgref_20170703/resource/16901339.. http://risis.eu/orgref_20170703/resource/18071234.. 0.9................................................ [Takamatsu University] was compared to [Hamamatsu University] 
+	http://risis.eu/orgref_20170703/resource/18071234.. http://risis.eu/orgref_20170703/resource/16901339.. 0.9................................................ [Takamatsu University] was compared to [Hamamatsu University] 
+	http://www.grid.ac/institutes/grid.411951.9........ http://www.grid.ac/institutes/grid.444857.e........ 0.9................................................ [Hamamatsu University] was compared to [Takamatsu University] 
+	http://www.grid.ac/institutes/grid.444857.e........ http://www.grid.ac/institutes/grid.411951.9........ 0.9................................................ [Hamamatsu University] was compared to [Takamatsu University] 
+	http://www.grid.ac/institutes/grid.411951.9........ http://risis.eu/orgref_20170703/resource/16901339.. 0.9................................................ [Hamamatsu University] was compared to [Takamatsu University] 
+	http://risis.eu/orgref_20170703/resource/16901339.. http://www.grid.ac/institutes/grid.411951.9........ 0.9................................................ [Hamamatsu University] was compared to [Takamatsu University] 
+	http://www.grid.ac/institutes/grid.444857.e........ http://risis.eu/orgref_20170703/resource/18071234.. 0.9................................................ [Takamatsu University] was compared to [Hamamatsu University] 
+	http://risis.eu/orgref_20170703/resource/18071234.. http://www.grid.ac/institutes/grid.444857.e........ 0.9................................................ [Takamatsu University] was compared to [Hamamatsu University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.411951.9........ 137.70833.......................................... 
+	http://www.grid.ac/institutes/grid.411951.9........ 34.815277.......................................... 
+	http://www.grid.ac/institutes/grid.411951.9........ http://www.hamamatsu-u.ac.jp/index.html............ 
+	http://www.grid.ac/institutes/grid.411951.9........ Hamamatsu Daigaku.................................. 
+	http://www.grid.ac/institutes/grid.411951.9........ Hamamatsu University............................... 
+	http://risis.eu/orgref_20170703/resource/16901339.. http://en.wikipedia.org/wiki?curid=16901339........ 
+	http://risis.eu/orgref_20170703/resource/16901339.. http://www.wikidata.org/wiki/Q7677136.............. 
+	http://risis.eu/orgref_20170703/resource/16901339.. http://www.takamatsu-u.ac.jp....................... 
+	http://risis.eu/orgref_20170703/resource/16901339.. Takamatsu University............................... 
+	http://www.grid.ac/institutes/grid.444857.e........ Takamatsu University............................... 
+	http://risis.eu/orgref_20170703/resource/18071234.. http://en.wikipedia.org/wiki?curid=18071234........ 
+	http://risis.eu/orgref_20170703/resource/18071234.. http://www.wikidata.org/wiki/Q5644024.............. 
+	http://risis.eu/orgref_20170703/resource/18071234.. http://www.hamamatsu-u.ac.jp....................... 
+	http://risis.eu/orgref_20170703/resource/18071234.. Hamamatsu University............................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:16901339', '1:grid.411951.9'), ('2:16901339', '3:grid.444857.e'), ('3:grid.444857.e', '1:grid.411951.9'), ('4:18071234', '1:grid.411951.9'), ('4:18071234', '2:16901339'), ('4:18071234', '3:grid.444857.e')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

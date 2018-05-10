@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 12510 
+NAME    N1223721852
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/608737>
+	<http://risis.eu/leidenRanking_2015/resource/7495>
+	<http://www.grid.ac/institutes/grid.425140.6>
+	<http://risis.eu/orgreg_20170718/resource/SE1015>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/608737... http://www.grid.ac/institutes/grid.425140.6....... 1................................................. [Swedish Institute of Space Physics] was compared to [Swedish Institute of Space Physics] 
+	http://www.grid.ac/institutes/grid.425140.6....... http://risis.eu/orgref_20170703/resource/608737... 1................................................. [Swedish Institute of Space Physics] was compared to [Swedish Institute of Space Physics] 
+	http://risis.eu/leidenRanking_2015/resource/7495.. http://www.grid.ac/institutes/grid.425140.6....... 1................................................. [Swedish Institute of Space Physics] was compared to [Swedish Institute of Space Physics] 
+	http://www.grid.ac/institutes/grid.425140.6....... http://risis.eu/leidenRanking_2015/resource/7495.. 1................................................. [Swedish Institute of Space Physics] was compared to [Swedish Institute of Space Physics] 
+	http://risis.eu/orgref_20170703/resource/608737... http://risis.eu/leidenRanking_2015/resource/7495.. 1................................................. [Swedish Institute of Space Physics] was compared to [Swedish Institute of Space Physics] 
+	http://risis.eu/leidenRanking_2015/resource/7495.. http://risis.eu/orgref_20170703/resource/608737... 1................................................. [Swedish Institute of Space Physics] was compared to [Swedish Institute of Space Physics] 
+	http://risis.eu/leidenRanking_2015/resource/7495.. http://risis.eu/orgreg_20170718/resource/SE1015... 1................................................. [The Swedish Institute of Space Physics] was compared to [Swedish Institute of Space Physics] 
+	http://risis.eu/orgreg_20170718/resource/SE1015... http://risis.eu/leidenRanking_2015/resource/7495.. 1................................................. [The Swedish Institute of Space Physics] was compared to [Swedish Institute of Space Physics] 
+	http://risis.eu/orgref_20170703/resource/608737... http://risis.eu/orgreg_20170718/resource/SE1015... 1................................................. [Swedish Institute of Space Physics] was compared to [The Swedish Institute of Space Physics] 
+	http://risis.eu/orgreg_20170718/resource/SE1015... http://risis.eu/orgref_20170703/resource/608737... 1................................................. [Swedish Institute of Space Physics] was compared to [The Swedish Institute of Space Physics] 
+	http://www.grid.ac/institutes/grid.425140.6....... http://risis.eu/orgreg_20170718/resource/SE1015... 1................................................. [Swedish Institute of Space Physics] was compared to [The Swedish Institute of Space Physics] 
+	http://risis.eu/orgreg_20170718/resource/SE1015... http://www.grid.ac/institutes/grid.425140.6....... 1................................................. [Swedish Institute of Space Physics] was compared to [The Swedish Institute of Space Physics] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/608737... http://en.wikipedia.org/wiki?curid=608737......... 
+	http://risis.eu/orgref_20170703/resource/608737... http://www.wikidata.org/wiki/Q4356777............. 
+	http://risis.eu/orgref_20170703/resource/608737... http://www.irf.se................................. 
+	http://risis.eu/orgref_20170703/resource/608737... Swedish Institute of Space Physics................ 
+	http://risis.eu/leidenRanking_2015/resource/7495.. Swedish Institute of Space Physics................ 
+	http://www.grid.ac/institutes/grid.425140.6....... 20.41............................................. 
+	http://www.grid.ac/institutes/grid.425140.6....... 67.840836......................................... 
+	http://www.grid.ac/institutes/grid.425140.6....... http://www.irf.se/................................ 
+	http://www.grid.ac/institutes/grid.425140.6....... Institutet för rymdfysik......................... 
+	http://www.grid.ac/institutes/grid.425140.6....... Swedish Institute of Space Physics................ 
+	http://risis.eu/orgreg_20170718/resource/SE1015... m................................................. 
+	http://risis.eu/orgreg_20170718/resource/SE1015... http://www.irf.se/................................ 
+	http://risis.eu/orgreg_20170718/resource/SE1015... The Swedish Institute of Space Physics............ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:608737', '3:grid.425140.6'), ('2:7495', '1:608737'), ('3:grid.425140.6', '2:7495'), ('4:SE1015', '1:608737'), ('4:SE1015', '2:7495'), ('4:SE1015', '3:grid.425140.6')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

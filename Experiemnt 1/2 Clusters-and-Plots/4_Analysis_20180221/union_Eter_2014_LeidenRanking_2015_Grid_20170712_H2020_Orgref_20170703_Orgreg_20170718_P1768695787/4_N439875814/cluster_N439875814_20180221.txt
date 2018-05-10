@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 4133 
+NAME    N439875814
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.444699.2>
+	<http://risis.eu/orgref_20170703/resource/14836516>
+	<http://risis.eu/orgref_20170703/resource/3320617>
+	<http://www.grid.ac/institutes/grid.443083.8>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.444699.2........ http://risis.eu/orgref_20170703/resource/3320617... 1.................................................. [Ranchi University] was compared to [Ranchi University] 
+	http://risis.eu/orgref_20170703/resource/3320617... http://www.grid.ac/institutes/grid.444699.2........ 1.................................................. [Ranchi University] was compared to [Ranchi University] 
+	http://risis.eu/orgref_20170703/resource/14836516.. http://www.grid.ac/institutes/grid.443083.8........ 1.................................................. [Aichi University] was compared to [Aichi University] 
+	http://www.grid.ac/institutes/grid.443083.8........ http://risis.eu/orgref_20170703/resource/14836516.. 1.................................................. [Aichi University] was compared to [Aichi University] 
+	http://risis.eu/orgref_20170703/resource/14836516.. http://risis.eu/orgref_20170703/resource/3320617... 0.882352941176..................................... [Aichi University] was compared to [Ranchi University] 
+	http://risis.eu/orgref_20170703/resource/3320617... http://risis.eu/orgref_20170703/resource/14836516.. 0.882352941176..................................... [Aichi University] was compared to [Ranchi University] 
+	http://www.grid.ac/institutes/grid.444699.2........ http://www.grid.ac/institutes/grid.443083.8........ 0.882352941176..................................... [Aichi University] was compared to [Ranchi University] 
+	http://www.grid.ac/institutes/grid.443083.8........ http://www.grid.ac/institutes/grid.444699.2........ 0.882352941176..................................... [Aichi University] was compared to [Ranchi University] 
+	http://www.grid.ac/institutes/grid.444699.2........ http://risis.eu/orgref_20170703/resource/14836516.. 0.882352941176..................................... [Ranchi University] was compared to [Aichi University] 
+	http://risis.eu/orgref_20170703/resource/14836516.. http://www.grid.ac/institutes/grid.444699.2........ 0.882352941176..................................... [Ranchi University] was compared to [Aichi University] 
+	http://risis.eu/orgref_20170703/resource/3320617... http://www.grid.ac/institutes/grid.443083.8........ 0.882352941176..................................... [Aichi University] was compared to [Ranchi University] 
+	http://www.grid.ac/institutes/grid.443083.8........ http://risis.eu/orgref_20170703/resource/3320617... 0.882352941176..................................... [Aichi University] was compared to [Ranchi University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.444699.2........ Ranchi University.................................. 
+	http://risis.eu/orgref_20170703/resource/14836516.. http://en.wikipedia.org/wiki?curid=14836516........ 
+	http://risis.eu/orgref_20170703/resource/14836516.. http://www.wikidata.org/wiki/Q403626............... 
+	http://risis.eu/orgref_20170703/resource/14836516.. http://www.aichi-u.ac.jp/foreign/english/index.html 
+	http://risis.eu/orgref_20170703/resource/14836516.. Aichi University................................... 
+	http://risis.eu/orgref_20170703/resource/3320617... http://en.wikipedia.org/wiki?curid=3320617......... 
+	http://risis.eu/orgref_20170703/resource/3320617... http://www.wikidata.org/wiki/Q3634084.............. 
+	http://risis.eu/orgref_20170703/resource/3320617... http://ranchiuniversity.ac.in...................... 
+	http://risis.eu/orgref_20170703/resource/3320617... Ranchi University.................................. 
+	http://www.grid.ac/institutes/grid.443083.8........ Aichi University................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.444699.2', '4:grid.443083.8'), ('2:14836516', '1:grid.444699.2'), ('3:3320617', '1:grid.444699.2'), ('3:3320617', '2:14836516'), ('3:3320617', '4:grid.443083.8'), ('4:grid.443083.8', '2:14836516')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

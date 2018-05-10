@@ -1,0 +1,71 @@
+SIZE    4   
+CLUSTER 8279 
+NAME    N1028152738
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.418810.4>
+	<http://www.grid.ac/institutes/grid.431126.3>
+	<http://risis.eu/orgref_20170703/resource/1824471>
+	<http://risis.eu/orgref_20170703/resource/401950>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.418810.4....... http://risis.eu/orgref_20170703/resource/401950... 1................................................. [Emerson College] was compared to [Emerson College] 
+	http://risis.eu/orgref_20170703/resource/401950... http://www.grid.ac/institutes/grid.418810.4....... 1................................................. [Emerson College] was compared to [Emerson College] 
+	http://www.grid.ac/institutes/grid.431126.3....... http://risis.eu/orgref_20170703/resource/1824471.. 1................................................. [Jefferson College] was compared to [Jefferson College (Missouri)] 
+	http://risis.eu/orgref_20170703/resource/1824471.. http://www.grid.ac/institutes/grid.431126.3....... 1................................................. [Jefferson College] was compared to [Jefferson College (Missouri)] 
+	http://risis.eu/orgref_20170703/resource/1824471.. http://risis.eu/orgref_20170703/resource/401950... 0.823529411765.................................... [Jefferson College (Missouri)] was compared to [Emerson College] 
+	http://risis.eu/orgref_20170703/resource/401950... http://risis.eu/orgref_20170703/resource/1824471.. 0.823529411765.................................... [Jefferson College (Missouri)] was compared to [Emerson College] 
+	http://www.grid.ac/institutes/grid.418810.4....... http://www.grid.ac/institutes/grid.431126.3....... 0.823529411765.................................... [Emerson College] was compared to [Jefferson College] 
+	http://www.grid.ac/institutes/grid.431126.3....... http://www.grid.ac/institutes/grid.418810.4....... 0.823529411765.................................... [Emerson College] was compared to [Jefferson College] 
+	http://www.grid.ac/institutes/grid.418810.4....... http://risis.eu/orgref_20170703/resource/1824471.. 0.823529411765.................................... [Emerson College] was compared to [Jefferson College (Missouri)] 
+	http://risis.eu/orgref_20170703/resource/1824471.. http://www.grid.ac/institutes/grid.418810.4....... 0.823529411765.................................... [Emerson College] was compared to [Jefferson College (Missouri)] 
+	http://www.grid.ac/institutes/grid.431126.3....... http://risis.eu/orgref_20170703/resource/401950... 0.823529411765.................................... [Jefferson College] was compared to [Emerson College] 
+	http://risis.eu/orgref_20170703/resource/401950... http://www.grid.ac/institutes/grid.431126.3....... 0.823529411765.................................... [Jefferson College] was compared to [Emerson College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 20 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.418810.4....... -71.06572......................................... 
+	http://www.grid.ac/institutes/grid.418810.4....... 42.35209.......................................... 
+	http://www.grid.ac/institutes/grid.418810.4....... http://www.emerson.edu/........................... 
+	http://www.grid.ac/institutes/grid.418810.4....... Emerson College of Oratory........................ 
+	http://www.grid.ac/institutes/grid.418810.4....... Monroe Conservatory of Oratory.................... 
+	http://www.grid.ac/institutes/grid.418810.4....... Conservatory of Elocution, Oratory, and Dramatic Art 
+	http://www.grid.ac/institutes/grid.418810.4....... Emerson College................................... 
+	http://www.grid.ac/institutes/grid.431126.3....... -90.55895......................................... 
+	http://www.grid.ac/institutes/grid.431126.3....... 38.259888......................................... 
+	http://www.grid.ac/institutes/grid.431126.3....... http://www.jeffco.edu/............................ 
+	http://www.grid.ac/institutes/grid.431126.3....... JeffCo............................................ 
+	http://www.grid.ac/institutes/grid.431126.3....... Jefferson College................................. 
+	http://risis.eu/orgref_20170703/resource/1824471.. http://en.wikipedia.org/wiki?curid=1824471........ 
+	http://risis.eu/orgref_20170703/resource/1824471.. http://www.wikidata.org/wiki/Q6175404............. 
+	http://risis.eu/orgref_20170703/resource/1824471.. http://www.jeffco.edu............................. 
+	http://risis.eu/orgref_20170703/resource/1824471.. Jefferson College (Missouri)...................... 
+	http://risis.eu/orgref_20170703/resource/401950... http://en.wikipedia.org/wiki?curid=401950......... 
+	http://risis.eu/orgref_20170703/resource/401950... http://www.wikidata.org/wiki/Q1335573............. 
+	http://risis.eu/orgref_20170703/resource/401950... http://www.emerson.edu............................ 
+	http://risis.eu/orgref_20170703/resource/401950... Emerson College................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.431126.3', '1:grid.418810.4'), ('3:1824471', '1:grid.418810.4'), ('3:1824471', '2:grid.431126.3'), ('4:401950', '1:grid.418810.4'), ('4:401950', '2:grid.431126.3'), ('4:401950', '3:1824471')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

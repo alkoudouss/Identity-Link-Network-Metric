@@ -1,0 +1,71 @@
+SIZE    4   
+CLUSTER 765 
+NAME    N1924833990
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.459880.8>
+	<http://www.grid.ac/institutes/grid.472129.b>
+	<http://www.grid.ac/institutes/grid.462926.d>
+	<http://www.grid.ac/institutes/grid.471966.b>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.459880.8.. http://www.grid.ac/institutes/grid.471966.b.. 0.977272727273............................... [National Institute of Technology, Toyama college] was compared to [National Institute of Technology, Oyama College] 
+	http://www.grid.ac/institutes/grid.471966.b.. http://www.grid.ac/institutes/grid.459880.8.. 0.977272727273............................... [National Institute of Technology, Toyama college] was compared to [National Institute of Technology, Oyama College] 
+	http://www.grid.ac/institutes/grid.459880.8.. http://www.grid.ac/institutes/grid.462926.d.. 0.955555555556............................... [National Institute of Technology, Toyama college] was compared to [National Institute of Technology, Tsuyama College] 
+	http://www.grid.ac/institutes/grid.462926.d.. http://www.grid.ac/institutes/grid.459880.8.. 0.955555555556............................... [National Institute of Technology, Toyama college] was compared to [National Institute of Technology, Tsuyama College] 
+	http://www.grid.ac/institutes/grid.459880.8.. http://www.grid.ac/institutes/grid.472129.b.. 0.95652173913................................ [National Institute of Technology, Toyama college] was compared to [National Institute of Technology, Tokuyama College] 
+	http://www.grid.ac/institutes/grid.472129.b.. http://www.grid.ac/institutes/grid.459880.8.. 0.95652173913................................ [National Institute of Technology, Toyama college] was compared to [National Institute of Technology, Tokuyama College] 
+	http://www.grid.ac/institutes/grid.472129.b.. http://www.grid.ac/institutes/grid.462926.d.. 0.95652173913................................ [National Institute of Technology, Tsuyama College] was compared to [National Institute of Technology, Tokuyama College] 
+	http://www.grid.ac/institutes/grid.462926.d.. http://www.grid.ac/institutes/grid.472129.b.. 0.95652173913................................ [National Institute of Technology, Tsuyama College] was compared to [National Institute of Technology, Tokuyama College] 
+	http://www.grid.ac/institutes/grid.472129.b.. http://www.grid.ac/institutes/grid.471966.b.. 0.934782608696............................... [National Institute of Technology, Oyama College] was compared to [National Institute of Technology, Tokuyama College] 
+	http://www.grid.ac/institutes/grid.471966.b.. http://www.grid.ac/institutes/grid.472129.b.. 0.934782608696............................... [National Institute of Technology, Oyama College] was compared to [National Institute of Technology, Tokuyama College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 22 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.459880.8.. 137.24397.................................... 
+	http://www.grid.ac/institutes/grid.459880.8.. 36.65099..................................... 
+	http://www.grid.ac/institutes/grid.459880.8.. http://www.nc-toyama.ac.jp/.................. 
+	http://www.grid.ac/institutes/grid.459880.8.. Toyama National College of Technology........ 
+	http://www.grid.ac/institutes/grid.459880.8.. NIT, Toyama college.......................... 
+	http://www.grid.ac/institutes/grid.459880.8.. Toyama Kōtōsenmongakkō.................... 
+	http://www.grid.ac/institutes/grid.459880.8.. National Institute of Technology, Toyama college 
+	http://www.grid.ac/institutes/grid.472129.b.. 131.8466..................................... 
+	http://www.grid.ac/institutes/grid.472129.b.. 34.05198..................................... 
+	http://www.grid.ac/institutes/grid.472129.b.. http://www.tokuyama.ac.jp/................... 
+	http://www.grid.ac/institutes/grid.472129.b.. National Institute of Technology, Tokuyama College 
+	http://www.grid.ac/institutes/grid.462926.d.. 134.01314.................................... 
+	http://www.grid.ac/institutes/grid.462926.d.. 35.08105..................................... 
+	http://www.grid.ac/institutes/grid.462926.d.. http://www.tsuyama-ct.ac.jp/English/......... 
+	http://www.grid.ac/institutes/grid.462926.d.. Tsuyama Kogyo Koto Senmongakko, Tsuyama Kosen 
+	http://www.grid.ac/institutes/grid.462926.d.. Tsuyama National College of Technology....... 
+	http://www.grid.ac/institutes/grid.462926.d.. National Institute of Technology, Tsuyama College 
+	http://www.grid.ac/institutes/grid.471966.b.. 139.84209.................................... 
+	http://www.grid.ac/institutes/grid.471966.b.. 36.31831..................................... 
+	http://www.grid.ac/institutes/grid.471966.b.. http://www.oyama-ct.ac.jp/................... 
+	http://www.grid.ac/institutes/grid.471966.b.. NIT, Oyama College........................... 
+	http://www.grid.ac/institutes/grid.471966.b.. National Institute of Technology, Oyama College 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.472129.b', '1:grid.459880.8'), ('2:grid.472129.b', '3:grid.462926.d'), ('2:grid.472129.b', '4:grid.471966.b'), ('3:grid.462926.d', '1:grid.459880.8'), ('4:grid.471966.b', '1:grid.459880.8')]
+	MAX DISTANCE:                   : 0.833
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 2.16666666667
+	AVERAGE NODE CONNECTIVITY RATIO : 0.722222222222
+	BRIDGES                         : 0
+	CLOSURE                         : 0.833
+	DIAMETER                        : 2
+	QUALITY                         : 0.223
+	QUALITY USED                    : 0.223
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223

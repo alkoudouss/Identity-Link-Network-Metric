@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 12520 
+NAME    N758376068
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.444411.0>
+	<http://www.grid.ac/institutes/grid.449114.d>
+	<http://risis.eu/orgref_20170703/resource/30518755>
+	<http://risis.eu/orgref_20170703/resource/29173082>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.444411.0........ http://www.grid.ac/institutes/grid.449114.d........ 1.................................................. [Middle East University] was compared to [Middle East University] 
+	http://www.grid.ac/institutes/grid.449114.d........ http://www.grid.ac/institutes/grid.444411.0........ 1.................................................. [Middle East University] was compared to [Middle East University] 
+	http://www.grid.ac/institutes/grid.444411.0........ http://risis.eu/orgref_20170703/resource/29173082.. 1.................................................. [Middle East University] was compared to [Middle East University (Jordan)] 
+	http://risis.eu/orgref_20170703/resource/29173082.. http://www.grid.ac/institutes/grid.444411.0........ 1.................................................. [Middle East University] was compared to [Middle East University (Jordan)] 
+	http://www.grid.ac/institutes/grid.444411.0........ http://risis.eu/orgref_20170703/resource/30518755.. 1.................................................. [Middle East University] was compared to [Middle East University (Lebanon)] 
+	http://risis.eu/orgref_20170703/resource/30518755.. http://www.grid.ac/institutes/grid.444411.0........ 1.................................................. [Middle East University] was compared to [Middle East University (Lebanon)] 
+	http://www.grid.ac/institutes/grid.449114.d........ http://risis.eu/orgref_20170703/resource/29173082.. 1.................................................. [Middle East University] was compared to [Middle East University (Jordan)] 
+	http://risis.eu/orgref_20170703/resource/29173082.. http://www.grid.ac/institutes/grid.449114.d........ 1.................................................. [Middle East University] was compared to [Middle East University (Jordan)] 
+	http://www.grid.ac/institutes/grid.449114.d........ http://risis.eu/orgref_20170703/resource/30518755.. 1.................................................. [Middle East University] was compared to [Middle East University (Lebanon)] 
+	http://risis.eu/orgref_20170703/resource/30518755.. http://www.grid.ac/institutes/grid.449114.d........ 1.................................................. [Middle East University] was compared to [Middle East University (Lebanon)] 
+	http://risis.eu/orgref_20170703/resource/30518755.. http://risis.eu/orgref_20170703/resource/29173082.. 1.................................................. [Middle East University (Jordan)] was compared to [Middle East University (Lebanon)] 
+	http://risis.eu/orgref_20170703/resource/29173082.. http://risis.eu/orgref_20170703/resource/30518755.. 1.................................................. [Middle East University (Jordan)] was compared to [Middle East University (Lebanon)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.444411.0........ Middle East University............................. 
+	http://www.grid.ac/institutes/grid.449114.d........ Middle East University............................. 
+	http://risis.eu/orgref_20170703/resource/30518755.. http://en.wikipedia.org/wiki?curid=30518755........ 
+	http://risis.eu/orgref_20170703/resource/30518755.. http://www.wikidata.org/wiki/Q3551759.............. 
+	http://risis.eu/orgref_20170703/resource/30518755.. http://meu.edu.lb.................................. 
+	http://risis.eu/orgref_20170703/resource/30518755.. Middle East University (Lebanon)................... 
+	http://risis.eu/orgref_20170703/resource/29173082.. http://en.wikipedia.org/wiki?curid=29173082........ 
+	http://risis.eu/orgref_20170703/resource/29173082.. http://www.wikidata.org/wiki/Q6841366.............. 
+	http://risis.eu/orgref_20170703/resource/29173082.. http://www.meu.edu.jo.............................. 
+	http://risis.eu/orgref_20170703/resource/29173082.. Middle East University (Jordan).................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.449114.d', '1:grid.444411.0'), ('3:30518755', '1:grid.444411.0'), ('3:30518755', '2:grid.449114.d'), ('3:30518755', '4:29173082'), ('4:29173082', '1:grid.444411.0'), ('4:29173082', '2:grid.449114.d')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

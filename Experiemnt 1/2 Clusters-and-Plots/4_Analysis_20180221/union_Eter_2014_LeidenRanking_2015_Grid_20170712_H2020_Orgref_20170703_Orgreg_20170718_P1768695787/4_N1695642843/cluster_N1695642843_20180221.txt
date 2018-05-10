@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 13417 
+NAME    N1695642843
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.412996.1>
+	<http://risis.eu/orgref_20170703/resource/5470301>
+	<http://www.grid.ac/institutes/grid.443788.4>
+	<http://risis.eu/orgref_20170703/resource/47000369>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.412996.1........ http://risis.eu/orgref_20170703/resource/47000369.. 1.................................................. [University of Phayao] was compared to [University of Phayao] 
+	http://risis.eu/orgref_20170703/resource/47000369.. http://www.grid.ac/institutes/grid.412996.1........ 1.................................................. [University of Phayao] was compared to [University of Phayao] 
+	http://risis.eu/orgref_20170703/resource/5470301... http://www.grid.ac/institutes/grid.443788.4........ 1.................................................. [Payap University] was compared to [Payap University] 
+	http://www.grid.ac/institutes/grid.443788.4........ http://risis.eu/orgref_20170703/resource/5470301... 1.................................................. [Payap University] was compared to [Payap University] 
+	http://risis.eu/orgref_20170703/resource/5470301... http://risis.eu/orgref_20170703/resource/47000369.. 0.882352941176..................................... [University of Phayao] was compared to [Payap University] 
+	http://risis.eu/orgref_20170703/resource/47000369.. http://risis.eu/orgref_20170703/resource/5470301... 0.882352941176..................................... [University of Phayao] was compared to [Payap University] 
+	http://www.grid.ac/institutes/grid.412996.1........ http://www.grid.ac/institutes/grid.443788.4........ 0.882352941176..................................... [University of Phayao] was compared to [Payap University] 
+	http://www.grid.ac/institutes/grid.443788.4........ http://www.grid.ac/institutes/grid.412996.1........ 0.882352941176..................................... [University of Phayao] was compared to [Payap University] 
+	http://www.grid.ac/institutes/grid.412996.1........ http://risis.eu/orgref_20170703/resource/5470301... 0.882352941176..................................... [University of Phayao] was compared to [Payap University] 
+	http://risis.eu/orgref_20170703/resource/5470301... http://www.grid.ac/institutes/grid.412996.1........ 0.882352941176..................................... [University of Phayao] was compared to [Payap University] 
+	http://www.grid.ac/institutes/grid.443788.4........ http://risis.eu/orgref_20170703/resource/47000369.. 0.882352941176..................................... [Payap University] was compared to [University of Phayao] 
+	http://risis.eu/orgref_20170703/resource/47000369.. http://www.grid.ac/institutes/grid.443788.4........ 0.882352941176..................................... [Payap University] was compared to [University of Phayao] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.412996.1........ 100.14196.......................................... 
+	http://www.grid.ac/institutes/grid.412996.1........ 19.220613.......................................... 
+	http://www.grid.ac/institutes/grid.412996.1........ http://www.up.ac.th/en/............................ 
+	http://www.grid.ac/institutes/grid.412996.1........ University of Phayao............................... 
+	http://risis.eu/orgref_20170703/resource/5470301... http://en.wikipedia.org/wiki?curid=5470301......... 
+	http://risis.eu/orgref_20170703/resource/5470301... http://www.wikidata.org/wiki/Q1309558.............. 
+	http://risis.eu/orgref_20170703/resource/5470301... http://www.payap.ac.th............................. 
+	http://risis.eu/orgref_20170703/resource/5470301... Payap University................................... 
+	http://www.grid.ac/institutes/grid.443788.4........ Payap University................................... 
+	http://risis.eu/orgref_20170703/resource/47000369.. University of Phayao............................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:5470301', '1:grid.412996.1'), ('2:5470301', '4:47000369'), ('3:grid.443788.4', '1:grid.412996.1'), ('3:grid.443788.4', '2:5470301'), ('4:47000369', '1:grid.412996.1'), ('4:47000369', '3:grid.443788.4')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

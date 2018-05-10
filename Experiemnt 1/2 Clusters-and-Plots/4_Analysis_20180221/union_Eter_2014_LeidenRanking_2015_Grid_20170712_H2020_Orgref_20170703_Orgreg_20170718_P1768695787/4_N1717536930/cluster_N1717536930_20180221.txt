@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 9073 
+NAME    N1717536930
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.425488.7>
+	<http://www.grid.ac/institutes/grid.435984.7>
+	<http://www.grid.ac/institutes/grid.473165.2>
+	<http://www.grid.ac/institutes/grid.481679.5>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.425488.7.. http://www.grid.ac/institutes/grid.481679.5.. 1............................................ [Iveco (Italy)] was compared to [Iveco (Germany)] 
+	http://www.grid.ac/institutes/grid.481679.5.. http://www.grid.ac/institutes/grid.425488.7.. 1............................................ [Iveco (Italy)] was compared to [Iveco (Germany)] 
+	http://www.grid.ac/institutes/grid.425488.7.. http://www.grid.ac/institutes/grid.435984.7.. 1............................................ [Iveco (Italy)] was compared to [Iveco (Switzerland)] 
+	http://www.grid.ac/institutes/grid.435984.7.. http://www.grid.ac/institutes/grid.425488.7.. 1............................................ [Iveco (Italy)] was compared to [Iveco (Switzerland)] 
+	http://www.grid.ac/institutes/grid.425488.7.. http://www.grid.ac/institutes/grid.473165.2.. 1............................................ [Iveco (Italy)] was compared to [Iveco (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.473165.2.. http://www.grid.ac/institutes/grid.425488.7.. 1............................................ [Iveco (Italy)] was compared to [Iveco (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.435984.7.. http://www.grid.ac/institutes/grid.481679.5.. 1............................................ [Iveco (Switzerland)] was compared to [Iveco (Germany)] 
+	http://www.grid.ac/institutes/grid.481679.5.. http://www.grid.ac/institutes/grid.435984.7.. 1............................................ [Iveco (Switzerland)] was compared to [Iveco (Germany)] 
+	http://www.grid.ac/institutes/grid.435984.7.. http://www.grid.ac/institutes/grid.473165.2.. 1............................................ [Iveco (Switzerland)] was compared to [Iveco (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.473165.2.. http://www.grid.ac/institutes/grid.435984.7.. 1............................................ [Iveco (Switzerland)] was compared to [Iveco (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.473165.2.. http://www.grid.ac/institutes/grid.481679.5.. 1............................................ [Iveco (United Kingdom)] was compared to [Iveco (Germany)] 
+	http://www.grid.ac/institutes/grid.481679.5.. http://www.grid.ac/institutes/grid.473165.2.. 1............................................ [Iveco (United Kingdom)] was compared to [Iveco (Germany)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.425488.7.. 7.686776..................................... 
+	http://www.grid.ac/institutes/grid.425488.7.. 45.07798..................................... 
+	http://www.grid.ac/institutes/grid.425488.7.. http://www.iveco.com/Pages/Iveco-brands.html. 
+	http://www.grid.ac/institutes/grid.425488.7.. Iveco (Italy)................................ 
+	http://www.grid.ac/institutes/grid.435984.7.. Iveco (Switzerland).......................... 
+	http://www.grid.ac/institutes/grid.473165.2.. -2.497347.................................... 
+	http://www.grid.ac/institutes/grid.473165.2.. 53.199947.................................... 
+	http://www.grid.ac/institutes/grid.473165.2.. http://www.iveco.com/uk/Pages/Home-Page.aspx. 
+	http://www.grid.ac/institutes/grid.473165.2.. Iveco (United Kingdom)....................... 
+	http://www.grid.ac/institutes/grid.481679.5.. 11.525293.................................... 
+	http://www.grid.ac/institutes/grid.481679.5.. 48.277115.................................... 
+	http://www.grid.ac/institutes/grid.481679.5.. http://www.iveco.com/germany/Pages/Home-page.aspx 
+	http://www.grid.ac/institutes/grid.481679.5.. Iveco (Germany).............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.435984.7', '1:grid.425488.7'), ('3:grid.473165.2', '1:grid.425488.7'), ('3:grid.473165.2', '2:grid.435984.7'), ('4:grid.481679.5', '1:grid.425488.7'), ('4:grid.481679.5', '2:grid.435984.7'), ('4:grid.481679.5', '3:grid.473165.2')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

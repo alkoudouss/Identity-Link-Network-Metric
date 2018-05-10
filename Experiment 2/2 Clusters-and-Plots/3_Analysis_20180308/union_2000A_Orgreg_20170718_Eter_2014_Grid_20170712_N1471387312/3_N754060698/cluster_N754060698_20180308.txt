@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 763 
+NAME    N754060698
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/SE0047>
+	<http://risis.eu/eter_2014/resource/SE0047>
+	<http://www.grid.ac/institutes/grid.416138.9>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/SE0047.. http://risis.eu/eter_2014/resource/SE0047........ 1................................................ [sophiahemmet university] was compared to [sophiahemmet university] 
+	http://risis.eu/eter_2014/resource/SE0047........ http://www.grid.ac/institutes/grid.416138.9...... 0.761904761905................................... [sophiahemmet hogskola] was compared to [sophiahemmet hospital] 
+	http://risis.eu/eter_2014/resource/SE0047........ http://risis.eu/orgreg_20170718/resource/SE0047.. 1................................................ [sophiahemmet university] was compared to [sophiahemmet university] 
+	http://www.grid.ac/institutes/grid.416138.9...... http://risis.eu/eter_2014/resource/SE0047........ 0.761904761905................................... [sophiahemmet hogskola] was compared to [sophiahemmet hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/SE0047.. 18.072326........................................ 
+	http://risis.eu/orgreg_20170718/resource/SE0047.. 59.351175........................................ 
+	http://risis.eu/orgreg_20170718/resource/SE0047.. http://www.shh.se/visa_2013.asp?l3=623&sida=623.. 
+	http://risis.eu/orgreg_20170718/resource/SE0047.. Sophiahemmet University.......................... 
+	http://risis.eu/eter_2014/resource/SE0047........ 59,351175........................................ 
+	http://risis.eu/eter_2014/resource/SE0047........ 18,072326........................................ 
+	http://risis.eu/eter_2014/resource/SE0047........ http://www.shh.se/visa_2013.asp?l3=623&sida=623.. 
+	http://risis.eu/eter_2014/resource/SE0047........ a................................................ 
+	http://risis.eu/eter_2014/resource/SE0047........ Sophiahemmet University.......................... 
+	http://risis.eu/eter_2014/resource/SE0047........ Sophiahemmet högskola........................... 
+	http://www.grid.ac/institutes/grid.416138.9...... 18.075567........................................ 
+	http://www.grid.ac/institutes/grid.416138.9...... 59.345367........................................ 
+	http://www.grid.ac/institutes/grid.416138.9...... http://sjukhus.sophiahemmet.se/english/.......... 
+	http://www.grid.ac/institutes/grid.416138.9...... Sophiahemmet Hospital............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('P1013743195-SE0047', 'P2110298194-SE0047'), ('P1013743195-SE0047', 'N754060698-grid.416138.9')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

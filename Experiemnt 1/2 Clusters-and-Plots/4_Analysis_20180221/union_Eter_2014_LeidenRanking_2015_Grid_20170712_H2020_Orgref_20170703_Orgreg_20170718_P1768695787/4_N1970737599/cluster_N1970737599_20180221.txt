@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 5759 
+NAME    N1970737599
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.440562.1>
+	<http://risis.eu/orgref_20170703/resource/7697279>
+	<http://www.grid.ac/institutes/grid.411877.c>
+	<http://risis.eu/orgref_20170703/resource/4686826>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.440562.1....... http://www.grid.ac/institutes/grid.411877.c....... 0.944444444444.................................... [Gujarat University] was compared to [University of Gujrat] 
+	http://www.grid.ac/institutes/grid.411877.c....... http://www.grid.ac/institutes/grid.440562.1....... 0.944444444444.................................... [Gujarat University] was compared to [University of Gujrat] 
+	http://www.grid.ac/institutes/grid.411877.c....... http://risis.eu/orgref_20170703/resource/4686826.. 1................................................. [Gujarat University] was compared to [Gujarat University] 
+	http://risis.eu/orgref_20170703/resource/4686826.. http://www.grid.ac/institutes/grid.411877.c....... 1................................................. [Gujarat University] was compared to [Gujarat University] 
+	http://risis.eu/orgref_20170703/resource/7697279.. http://www.grid.ac/institutes/grid.411877.c....... 0.944444444444.................................... [Gujarat University] was compared to [University of Gujrat] 
+	http://www.grid.ac/institutes/grid.411877.c....... http://risis.eu/orgref_20170703/resource/7697279.. 0.944444444444.................................... [Gujarat University] was compared to [University of Gujrat] 
+	http://www.grid.ac/institutes/grid.440562.1....... http://risis.eu/orgref_20170703/resource/4686826.. 0.944444444444.................................... [University of Gujrat] was compared to [Gujarat University] 
+	http://risis.eu/orgref_20170703/resource/4686826.. http://www.grid.ac/institutes/grid.440562.1....... 0.944444444444.................................... [University of Gujrat] was compared to [Gujarat University] 
+	http://www.grid.ac/institutes/grid.440562.1....... http://risis.eu/orgref_20170703/resource/7697279.. 1................................................. [University of Gujrat] was compared to [University of Gujrat] 
+	http://risis.eu/orgref_20170703/resource/7697279.. http://www.grid.ac/institutes/grid.440562.1....... 1................................................. [University of Gujrat] was compared to [University of Gujrat] 
+	http://risis.eu/orgref_20170703/resource/7697279.. http://risis.eu/orgref_20170703/resource/4686826.. 0.944444444444.................................... [Gujarat University] was compared to [University of Gujrat] 
+	http://risis.eu/orgref_20170703/resource/4686826.. http://risis.eu/orgref_20170703/resource/7697279.. 0.944444444444.................................... [Gujarat University] was compared to [University of Gujrat] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.440562.1....... University of Gujrat.............................. 
+	http://risis.eu/orgref_20170703/resource/7697279.. http://en.wikipedia.org/wiki?curid=7697279........ 
+	http://risis.eu/orgref_20170703/resource/7697279.. http://www.wikidata.org/wiki/Q7895477............. 
+	http://risis.eu/orgref_20170703/resource/7697279.. http://www.uog.edu.pk............................. 
+	http://risis.eu/orgref_20170703/resource/7697279.. University of Gujrat.............................. 
+	http://www.grid.ac/institutes/grid.411877.c....... 72.54639.......................................... 
+	http://www.grid.ac/institutes/grid.411877.c....... 23.036112......................................... 
+	http://www.grid.ac/institutes/grid.411877.c....... http://www.gujaratuniversity.org.in/web/index.asp. 
+	http://www.grid.ac/institutes/grid.411877.c....... Gujarat University................................ 
+	http://risis.eu/orgref_20170703/resource/4686826.. http://en.wikipedia.org/wiki?curid=4686826........ 
+	http://risis.eu/orgref_20170703/resource/4686826.. http://www.wikidata.org/wiki/Q507349.............. 
+	http://risis.eu/orgref_20170703/resource/4686826.. http://www.gujaratuniversity.org.in............... 
+	http://risis.eu/orgref_20170703/resource/4686826.. Gujarat University................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.440562.1', '3:grid.411877.c'), ('2:7697279', '1:grid.440562.1'), ('2:7697279', '4:4686826'), ('3:grid.411877.c', '2:7697279'), ('4:4686826', '1:grid.440562.1'), ('4:4686826', '3:grid.411877.c')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

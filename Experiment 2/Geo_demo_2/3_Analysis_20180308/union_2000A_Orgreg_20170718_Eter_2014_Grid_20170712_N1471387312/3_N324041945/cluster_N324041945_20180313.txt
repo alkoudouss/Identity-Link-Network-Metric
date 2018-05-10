@@ -1,0 +1,65 @@
+SIZE    3   
+CLUSTER 1117 
+NAME    N324041945
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/PT0025>
+	<http://www.grid.ac/institutes/grid.410926.8>
+	<http://risis.eu/eter_2014/resource/PT0025>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/PT0025.. http://www.grid.ac/institutes/grid.410926.8...... 1................................................ [porto polytechnic institute] was compared to [polytechnic institute porto] 
+	http://risis.eu/orgreg_20170718/resource/PT0025.. http://risis.eu/eter_2014/resource/PT0025........ 1................................................ [porto polytechnic institute] was compared to [porto polytechnic institute] 
+	http://www.grid.ac/institutes/grid.410926.8...... http://risis.eu/eter_2014/resource/PT0025........ 1................................................ [porto polytechnic institute] was compared to [polytechnic institute porto] 
+	http://www.grid.ac/institutes/grid.410926.8...... http://risis.eu/eter_2014/resource/PT0025........ 0.766666666667................................... [porto polytechnic institute] was compared to [polytechnic institute porto] 
+	http://www.grid.ac/institutes/grid.410926.8...... http://risis.eu/eter_2014/resource/PT0025........ 0.766666666667................................... [instituto politecnico do porto] was compared to [polytechnic institute porto] 
+	http://www.grid.ac/institutes/grid.410926.8...... http://risis.eu/eter_2014/resource/PT0025........ 1................................................ [instituto politecnico do porto] was compared to [polytechnic institute porto] 
+	http://www.grid.ac/institutes/grid.410926.8...... http://risis.eu/orgreg_20170718/resource/PT0025.. 1................................................ [porto polytechnic institute] was compared to [polytechnic institute porto] 
+	http://risis.eu/eter_2014/resource/PT0025........ http://www.grid.ac/institutes/grid.410926.8...... 1................................................ [porto polytechnic institute] was compared to [polytechnic institute porto] 
+	http://risis.eu/eter_2014/resource/PT0025........ http://www.grid.ac/institutes/grid.410926.8...... 0.766666666667................................... [porto polytechnic institute] was compared to [polytechnic institute porto] 
+	http://risis.eu/eter_2014/resource/PT0025........ http://www.grid.ac/institutes/grid.410926.8...... 0.766666666667................................... [instituto politecnico do porto] was compared to [polytechnic institute porto] 
+	http://risis.eu/eter_2014/resource/PT0025........ http://www.grid.ac/institutes/grid.410926.8...... 1................................................ [instituto politecnico do porto] was compared to [polytechnic institute porto] 
+	http://risis.eu/eter_2014/resource/PT0025........ http://risis.eu/orgreg_20170718/resource/PT0025.. 1................................................ [porto polytechnic institute] was compared to [porto polytechnic institute] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/PT0025.. -8.598955........................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0025.. 41.178523........................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0025.. http://www.ipp.pt................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0025.. Porto Polytechnic Institute...................... 
+	http://www.grid.ac/institutes/grid.410926.8...... -8.59895......................................... 
+	http://www.grid.ac/institutes/grid.410926.8...... 41.17854......................................... 
+	http://www.grid.ac/institutes/grid.410926.8...... https://www.ipp.pt/.............................. 
+	http://www.grid.ac/institutes/grid.410926.8...... Porto Polytechnic................................ 
+	http://www.grid.ac/institutes/grid.410926.8...... Polytechnic Institute of Porto................... 
+	http://risis.eu/eter_2014/resource/PT0025........ 41,178523........................................ 
+	http://risis.eu/eter_2014/resource/PT0025........ -8,598955........................................ 
+	http://risis.eu/eter_2014/resource/PT0025........ http://www.ipp.pt................................ 
+	http://risis.eu/eter_2014/resource/PT0025........ a................................................ 
+	http://risis.eu/eter_2014/resource/PT0025........ Porto Polytechnic Institute...................... 
+	http://risis.eu/eter_2014/resource/PT0025........ Instituto Politécnico do Porto.................. 
+
+NETWORK ANALYSIS
+	NETWORK [('N324041945-PT0025', 'P1794828772-grid.410926.8'), ('P2123226826-PT0025', 'P1794828772-grid.410926.8'), ('N324041945-PT0025', 'P2123226826-PT0025')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

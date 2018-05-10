@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 8123 
+NAME    N1117711972
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.4514.4>
+	<http://risis.eu/orgreg_20170718/resource/SE0002>
+	<http://risis.eu/orgref_20170703/resource/17843>
+	<http://risis.eu/leidenRanking_2015/resource/679>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.4514.4........ http://risis.eu/orgref_20170703/resource/17843... 1................................................ [Lund University] was compared to [Lund University] 
+	http://risis.eu/orgref_20170703/resource/17843... http://www.grid.ac/institutes/grid.4514.4........ 1................................................ [Lund University] was compared to [Lund University] 
+	http://www.grid.ac/institutes/grid.4514.4........ http://risis.eu/leidenRanking_2015/resource/679.. 1................................................ [Lund University] was compared to [Lund University] 
+	http://risis.eu/leidenRanking_2015/resource/679.. http://www.grid.ac/institutes/grid.4514.4........ 1................................................ [Lund University] was compared to [Lund University] 
+	http://risis.eu/orgref_20170703/resource/17843... http://risis.eu/leidenRanking_2015/resource/679.. 1................................................ [Lund University] was compared to [Lund University] 
+	http://risis.eu/leidenRanking_2015/resource/679.. http://risis.eu/orgref_20170703/resource/17843... 1................................................ [Lund University] was compared to [Lund University] 
+	http://risis.eu/orgreg_20170718/resource/SE0002.. http://risis.eu/leidenRanking_2015/resource/679.. 1................................................ [Lund University] was compared to [Lund University] 
+	http://risis.eu/leidenRanking_2015/resource/679.. http://risis.eu/orgreg_20170718/resource/SE0002.. 1................................................ [Lund University] was compared to [Lund University] 
+	http://risis.eu/orgreg_20170718/resource/SE0002.. http://risis.eu/orgref_20170703/resource/17843... 1................................................ [Lund University] was compared to [Lund University] 
+	http://risis.eu/orgref_20170703/resource/17843... http://risis.eu/orgreg_20170718/resource/SE0002.. 1................................................ [Lund University] was compared to [Lund University] 
+	http://www.grid.ac/institutes/grid.4514.4........ http://risis.eu/orgreg_20170718/resource/SE0002.. 1................................................ [Lund University] was compared to [Lund University] 
+	http://risis.eu/orgreg_20170718/resource/SE0002.. http://www.grid.ac/institutes/grid.4514.4........ 1................................................ [Lund University] was compared to [Lund University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.4514.4........ 13.193537........................................ 
+	http://www.grid.ac/institutes/grid.4514.4........ 55.713203........................................ 
+	http://www.grid.ac/institutes/grid.4514.4........ http://www.lunduniversity.lu.se/................. 
+	http://www.grid.ac/institutes/grid.4514.4........ Lund University.................................. 
+	http://risis.eu/orgreg_20170718/resource/SE0002.. 16.598422........................................ 
+	http://risis.eu/orgreg_20170718/resource/SE0002.. 58.971112........................................ 
+	http://risis.eu/orgreg_20170718/resource/SE0002.. http://www.lunduniversity.lu.se/................. 
+	http://risis.eu/orgreg_20170718/resource/SE0002.. Lund University.................................. 
+	http://risis.eu/orgref_20170703/resource/17843... http://en.wikipedia.org/wiki?curid=17843......... 
+	http://risis.eu/orgref_20170703/resource/17843... http://www.wikidata.org/wiki/Q218506............. 
+	http://risis.eu/orgref_20170703/resource/17843... http://www.lunduniversity.lu.se.................. 
+	http://risis.eu/orgref_20170703/resource/17843... Lund University.................................. 
+	http://risis.eu/leidenRanking_2015/resource/679.. Lund University.................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:SE0002', '1:grid.4514.4'), ('2:SE0002', '3:17843'), ('3:17843', '1:grid.4514.4'), ('4:679', '1:grid.4514.4'), ('4:679', '2:SE0002'), ('4:679', '3:17843')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

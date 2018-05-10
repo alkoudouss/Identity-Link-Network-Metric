@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 6039 
+NAME    N1891091636
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/4812910>
+	<http://risis.eu/cordisH2020/resource/participant_998948293>
+	<http://risis.eu/eter_2014/resource/IT0092>
+	<http://www.grid.ac/institutes/grid.16734.37>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/4812910............ http://www.grid.ac/institutes/grid.16734.37................. 1........................................................... [Università Iuav di Venezia] was compared to [Università Iuav di Venezia] 
+	http://www.grid.ac/institutes/grid.16734.37................. http://risis.eu/orgref_20170703/resource/4812910............ 1........................................................... [Università Iuav di Venezia] was compared to [Università Iuav di Venezia] 
+	http://risis.eu/eter_2014/resource/IT0092................... http://www.grid.ac/institutes/grid.16734.37................. 1........................................................... [Università Iuav di Venezia] was compared to [Università IUAV di VENEZIA] 
+	http://www.grid.ac/institutes/grid.16734.37................. http://risis.eu/eter_2014/resource/IT0092................... 1........................................................... [Università Iuav di Venezia] was compared to [Università IUAV di VENEZIA] 
+	http://risis.eu/cordisH2020/resource/participant_998948293.. http://www.grid.ac/institutes/grid.16734.37................. 1........................................................... [Università Iuav di Venezia] was compared to [UNIVERSITA IUAV DI VENEZIA] 
+	http://www.grid.ac/institutes/grid.16734.37................. http://risis.eu/cordisH2020/resource/participant_998948293.. 1........................................................... [Università Iuav di Venezia] was compared to [UNIVERSITA IUAV DI VENEZIA] 
+	http://risis.eu/orgref_20170703/resource/4812910............ http://risis.eu/eter_2014/resource/IT0092................... 1........................................................... [Università Iuav di Venezia] was compared to [Università IUAV di VENEZIA] 
+	http://risis.eu/eter_2014/resource/IT0092................... http://risis.eu/orgref_20170703/resource/4812910............ 1........................................................... [Università Iuav di Venezia] was compared to [Università IUAV di VENEZIA] 
+	http://risis.eu/orgref_20170703/resource/4812910............ http://risis.eu/cordisH2020/resource/participant_998948293.. 1........................................................... [Università Iuav di Venezia] was compared to [UNIVERSITA IUAV DI VENEZIA] 
+	http://risis.eu/cordisH2020/resource/participant_998948293.. http://risis.eu/orgref_20170703/resource/4812910............ 1........................................................... [Università Iuav di Venezia] was compared to [UNIVERSITA IUAV DI VENEZIA] 
+	http://risis.eu/cordisH2020/resource/participant_998948293.. http://risis.eu/eter_2014/resource/IT0092................... 1........................................................... [UNIVERSITA IUAV DI VENEZIA] was compared to [Università IUAV di VENEZIA] 
+	http://risis.eu/eter_2014/resource/IT0092................... http://risis.eu/cordisH2020/resource/participant_998948293.. 1........................................................... [UNIVERSITA IUAV DI VENEZIA] was compared to [Università IUAV di VENEZIA] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/4812910............ http://en.wikipedia.org/wiki?curid=4812910.................. 
+	http://risis.eu/orgref_20170703/resource/4812910............ http://www.wikidata.org/wiki/Q727492........................ 
+	http://risis.eu/orgref_20170703/resource/4812910............ http://www.iuav.it.......................................... 
+	http://risis.eu/orgref_20170703/resource/4812910............ Università Iuav di Venezia................................. 
+	http://risis.eu/cordisH2020/resource/participant_998948293.. http://risis.eu/cordisH2020/resource/www.iuav.it/homepage/.. 
+	http://risis.eu/cordisH2020/resource/participant_998948293.. UNIVERSITA IUAV DI VENEZIA.................................. 
+	http://risis.eu/eter_2014/resource/IT0092................... 45,437316................................................... 
+	http://risis.eu/eter_2014/resource/IT0092................... 12,326609................................................... 
+	http://risis.eu/eter_2014/resource/IT0092................... http://www.iuav.it.......................................... 
+	http://risis.eu/eter_2014/resource/IT0092................... a........................................................... 
+	http://risis.eu/eter_2014/resource/IT0092................... University IUAV of Venice................................... 
+	http://risis.eu/eter_2014/resource/IT0092................... Università IUAV di VENEZIA................................. 
+	http://www.grid.ac/institutes/grid.16734.37................. 12.314869................................................... 
+	http://www.grid.ac/institutes/grid.16734.37................. 45.433174................................................... 
+	http://www.grid.ac/institutes/grid.16734.37................. http://www.iuav.it/homepage/................................ 
+	http://www.grid.ac/institutes/grid.16734.37................. Università Iuav di Venezia................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:4812910', '4:grid.16734.37'), ('2:participant_998948293', '1:4812910'), ('3:IT0092', '1:4812910'), ('3:IT0092', '2:participant_998948293'), ('3:IT0092', '4:grid.16734.37'), ('4:grid.16734.37', '2:participant_998948293')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

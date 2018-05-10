@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 10359 
+NAME    N906193644
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.463072.4>
+	<http://risis.eu/orgref_20170703/resource/22757849>
+	<http://risis.eu/orgref_20170703/resource/10823160>
+	<http://www.grid.ac/institutes/grid.469077.b>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.463072.4........ http://risis.eu/orgref_20170703/resource/10823160.. 1.................................................. [Wilkes Community College] was compared to [Wilkes Community College] 
+	http://risis.eu/orgref_20170703/resource/10823160.. http://www.grid.ac/institutes/grid.463072.4........ 1.................................................. [Wilkes Community College] was compared to [Wilkes Community College] 
+	http://risis.eu/orgref_20170703/resource/22757849.. http://www.grid.ac/institutes/grid.469077.b........ 1.................................................. [Miles Community College] was compared to [Miles Community College] 
+	http://www.grid.ac/institutes/grid.469077.b........ http://risis.eu/orgref_20170703/resource/22757849.. 1.................................................. [Miles Community College] was compared to [Miles Community College] 
+	http://risis.eu/orgref_20170703/resource/22757849.. http://risis.eu/orgref_20170703/resource/10823160.. 0.916666666667..................................... [Wilkes Community College] was compared to [Miles Community College] 
+	http://risis.eu/orgref_20170703/resource/10823160.. http://risis.eu/orgref_20170703/resource/22757849.. 0.916666666667..................................... [Wilkes Community College] was compared to [Miles Community College] 
+	http://www.grid.ac/institutes/grid.463072.4........ http://www.grid.ac/institutes/grid.469077.b........ 0.916666666667..................................... [Wilkes Community College] was compared to [Miles Community College] 
+	http://www.grid.ac/institutes/grid.469077.b........ http://www.grid.ac/institutes/grid.463072.4........ 0.916666666667..................................... [Wilkes Community College] was compared to [Miles Community College] 
+	http://www.grid.ac/institutes/grid.463072.4........ http://risis.eu/orgref_20170703/resource/22757849.. 0.916666666667..................................... [Wilkes Community College] was compared to [Miles Community College] 
+	http://risis.eu/orgref_20170703/resource/22757849.. http://www.grid.ac/institutes/grid.463072.4........ 0.916666666667..................................... [Wilkes Community College] was compared to [Miles Community College] 
+	http://risis.eu/orgref_20170703/resource/10823160.. http://www.grid.ac/institutes/grid.469077.b........ 0.916666666667..................................... [Miles Community College] was compared to [Wilkes Community College] 
+	http://www.grid.ac/institutes/grid.469077.b........ http://risis.eu/orgref_20170703/resource/10823160.. 0.916666666667..................................... [Miles Community College] was compared to [Wilkes Community College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.463072.4........ -81.18281.......................................... 
+	http://www.grid.ac/institutes/grid.463072.4........ 36.136433.......................................... 
+	http://www.grid.ac/institutes/grid.463072.4........ http://www.wilkescc.edu/........................... 
+	http://www.grid.ac/institutes/grid.463072.4........ Wilkes Community College........................... 
+	http://risis.eu/orgref_20170703/resource/22757849.. http://en.wikipedia.org/wiki?curid=22757849........ 
+	http://risis.eu/orgref_20170703/resource/22757849.. http://www.wikidata.org/wiki/Q6851351.............. 
+	http://risis.eu/orgref_20170703/resource/22757849.. Miles Community College............................ 
+	http://risis.eu/orgref_20170703/resource/10823160.. http://en.wikipedia.org/wiki?curid=10823160........ 
+	http://risis.eu/orgref_20170703/resource/10823160.. http://www.wikidata.org/wiki/Q8002458.............. 
+	http://risis.eu/orgref_20170703/resource/10823160.. http://www.wilkescc.edu............................ 
+	http://risis.eu/orgref_20170703/resource/10823160.. Wilkes Community College........................... 
+	http://www.grid.ac/institutes/grid.469077.b........ -105.82765......................................... 
+	http://www.grid.ac/institutes/grid.469077.b........ 46.40441........................................... 
+	http://www.grid.ac/institutes/grid.469077.b........ https://www.milescc.edu/........................... 
+	http://www.grid.ac/institutes/grid.469077.b........ Miles Community College............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:22757849', '1:grid.463072.4'), ('2:22757849', '3:10823160'), ('2:22757849', '4:grid.469077.b'), ('3:10823160', '1:grid.463072.4'), ('3:10823160', '4:grid.469077.b'), ('4:grid.469077.b', '1:grid.463072.4')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

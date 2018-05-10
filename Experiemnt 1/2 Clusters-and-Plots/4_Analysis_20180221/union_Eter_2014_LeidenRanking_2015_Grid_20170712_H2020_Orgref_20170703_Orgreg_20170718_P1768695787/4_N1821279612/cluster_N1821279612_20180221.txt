@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 6884 
+NAME    N1821279612
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.424741.0>
+	<http://www.grid.ac/institutes/grid.5681.a>
+	<http://risis.eu/orgref_20170703/resource/39683419>
+	<http://risis.eu/orgref_20170703/resource/10128956>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.5681.a.......... http://risis.eu/orgref_20170703/resource/10128956.. 1.................................................. [University of Applied Sciences of Western Switzerland] was compared to [University of Applied Sciences Western Switzerland] 
+	http://risis.eu/orgref_20170703/resource/10128956.. http://www.grid.ac/institutes/grid.5681.a.......... 1.................................................. [University of Applied Sciences of Western Switzerland] was compared to [University of Applied Sciences Western Switzerland] 
+	http://www.grid.ac/institutes/grid.424741.0........ http://risis.eu/orgref_20170703/resource/39683419.. 1.................................................. [University of Applied Sciences of Eastern Switzerland] was compared to [University of Applied Sciences of Eastern Switzerland] 
+	http://risis.eu/orgref_20170703/resource/39683419.. http://www.grid.ac/institutes/grid.424741.0........ 1.................................................. [University of Applied Sciences of Eastern Switzerland] was compared to [University of Applied Sciences of Eastern Switzerland] 
+	http://risis.eu/orgref_20170703/resource/39683419.. http://risis.eu/orgref_20170703/resource/10128956.. 0.957446808511..................................... [University of Applied Sciences Western Switzerland] was compared to [University of Applied Sciences of Eastern Switzerland] 
+	http://risis.eu/orgref_20170703/resource/10128956.. http://risis.eu/orgref_20170703/resource/39683419.. 0.957446808511..................................... [University of Applied Sciences Western Switzerland] was compared to [University of Applied Sciences of Eastern Switzerland] 
+	http://www.grid.ac/institutes/grid.424741.0........ http://www.grid.ac/institutes/grid.5681.a.......... 0.957446808511..................................... [University of Applied Sciences of Eastern Switzerland] was compared to [University of Applied Sciences of Western Switzerland] 
+	http://www.grid.ac/institutes/grid.5681.a.......... http://www.grid.ac/institutes/grid.424741.0........ 0.957446808511..................................... [University of Applied Sciences of Eastern Switzerland] was compared to [University of Applied Sciences of Western Switzerland] 
+	http://www.grid.ac/institutes/grid.5681.a.......... http://risis.eu/orgref_20170703/resource/39683419.. 0.957446808511..................................... [University of Applied Sciences of Western Switzerland] was compared to [University of Applied Sciences of Eastern Switzerland] 
+	http://risis.eu/orgref_20170703/resource/39683419.. http://www.grid.ac/institutes/grid.5681.a.......... 0.957446808511..................................... [University of Applied Sciences of Western Switzerland] was compared to [University of Applied Sciences of Eastern Switzerland] 
+	http://www.grid.ac/institutes/grid.424741.0........ http://risis.eu/orgref_20170703/resource/10128956.. 0.957446808511..................................... [University of Applied Sciences of Eastern Switzerland] was compared to [University of Applied Sciences Western Switzerland] 
+	http://risis.eu/orgref_20170703/resource/10128956.. http://www.grid.ac/institutes/grid.424741.0........ 0.957446808511..................................... [University of Applied Sciences of Eastern Switzerland] was compared to [University of Applied Sciences Western Switzerland] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.424741.0........ 9.363575........................................... 
+	http://www.grid.ac/institutes/grid.424741.0........ 47.420734.......................................... 
+	http://www.grid.ac/institutes/grid.424741.0........ http://www.fho.ch/................................. 
+	http://www.grid.ac/institutes/grid.424741.0........ University of Applied Sciences of Eastern Switzerland 
+	http://www.grid.ac/institutes/grid.5681.a.......... 7.345729........................................... 
+	http://www.grid.ac/institutes/grid.5681.a.......... 47.361694.......................................... 
+	http://www.grid.ac/institutes/grid.5681.a.......... http://www.hes-so.ch/en/homepage-hes-so-1679.html.. 
+	http://www.grid.ac/institutes/grid.5681.a.......... University of Applied Sciences of Western Switzerland 
+	http://risis.eu/orgref_20170703/resource/39683419.. http://en.wikipedia.org/wiki?curid=39683419........ 
+	http://risis.eu/orgref_20170703/resource/39683419.. http://www.wikidata.org/wiki/Q913268............... 
+	http://risis.eu/orgref_20170703/resource/39683419.. http://www.fho.ch.................................. 
+	http://risis.eu/orgref_20170703/resource/39683419.. University of Applied Sciences of Eastern Switzerland 
+	http://risis.eu/orgref_20170703/resource/10128956.. http://en.wikipedia.org/wiki?curid=10128956........ 
+	http://risis.eu/orgref_20170703/resource/10128956.. http://www.wikidata.org/wiki/Q168003............... 
+	http://risis.eu/orgref_20170703/resource/10128956.. http://www.hes-so.ch............................... 
+	http://risis.eu/orgref_20170703/resource/10128956.. University of Applied Sciences Western Switzerland. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.5681.a', '1:grid.424741.0'), ('3:39683419', '1:grid.424741.0'), ('3:39683419', '2:grid.5681.a'), ('3:39683419', '4:10128956'), ('4:10128956', '1:grid.424741.0'), ('4:10128956', '2:grid.5681.a')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

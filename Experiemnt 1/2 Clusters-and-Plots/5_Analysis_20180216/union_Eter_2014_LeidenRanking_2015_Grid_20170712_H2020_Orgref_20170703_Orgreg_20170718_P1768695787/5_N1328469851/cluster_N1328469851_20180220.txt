@@ -1,0 +1,67 @@
+SIZE    5   
+CLUSTER 311 
+NAME    N1328469851
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/36380351>
+	<http://risis.eu/orgref_20170703/resource/38810815>
+	<http://risis.eu/orgref_20170703/resource/39804098>
+	<http://risis.eu/orgref_20170703/resource/10048878>
+	<http://risis.eu/orgref_20170703/resource/31386040>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/36380351.. http://risis.eu/orgref_20170703/resource/38810815.. 0.933333333333..................................... [Thirumalai Engineering College] was compared to [Tirumala Engineering College] 
+	http://risis.eu/orgref_20170703/resource/38810815.. http://risis.eu/orgref_20170703/resource/36380351.. 0.933333333333..................................... [Thirumalai Engineering College] was compared to [Tirumala Engineering College] 
+	http://risis.eu/orgref_20170703/resource/10048878.. http://risis.eu/orgref_20170703/resource/31386040.. 0.925925925926..................................... [College of Engineering, Perumon] was compared to [The Perumal Engineering College] 
+	http://risis.eu/orgref_20170703/resource/31386040.. http://risis.eu/orgref_20170703/resource/10048878.. 0.925925925926..................................... [College of Engineering, Perumon] was compared to [The Perumal Engineering College] 
+	http://risis.eu/orgref_20170703/resource/38810815.. http://risis.eu/orgref_20170703/resource/31386040.. 0.892857142857..................................... [The Perumal Engineering College] was compared to [Tirumala Engineering College] 
+	http://risis.eu/orgref_20170703/resource/31386040.. http://risis.eu/orgref_20170703/resource/38810815.. 0.892857142857..................................... [The Perumal Engineering College] was compared to [Tirumala Engineering College] 
+	http://risis.eu/orgref_20170703/resource/38810815.. http://risis.eu/orgref_20170703/resource/39804098.. 0.928571428571..................................... [Tirumala Engineering College] was compared to [Nirmala College of Engineering] 
+	http://risis.eu/orgref_20170703/resource/39804098.. http://risis.eu/orgref_20170703/resource/38810815.. 0.928571428571..................................... [Tirumala Engineering College] was compared to [Nirmala College of Engineering] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 19 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/36380351.. http://en.wikipedia.org/wiki?curid=36380351........ 
+	http://risis.eu/orgref_20170703/resource/36380351.. http://www.wikidata.org/wiki/Q7785317.............. 
+	http://risis.eu/orgref_20170703/resource/36380351.. http://www.thirumalaiengg.in....................... 
+	http://risis.eu/orgref_20170703/resource/36380351.. Thirumalai Engineering College..................... 
+	http://risis.eu/orgref_20170703/resource/38810815.. http://en.wikipedia.org/wiki?curid=38810815........ 
+	http://risis.eu/orgref_20170703/resource/38810815.. http://www.wikidata.org/wiki/Q7809331.............. 
+	http://risis.eu/orgref_20170703/resource/38810815.. Tirumala Engineering College....................... 
+	http://risis.eu/orgref_20170703/resource/39804098.. http://en.wikipedia.org/wiki?curid=39804098........ 
+	http://risis.eu/orgref_20170703/resource/39804098.. http://www.wikidata.org/wiki/Q17025541............. 
+	http://risis.eu/orgref_20170703/resource/39804098.. http://www.nirmalacollege.in/engineering........... 
+	http://risis.eu/orgref_20170703/resource/39804098.. Nirmala College of Engineering..................... 
+	http://risis.eu/orgref_20170703/resource/10048878.. http://en.wikipedia.org/wiki?curid=10048878........ 
+	http://risis.eu/orgref_20170703/resource/10048878.. http://www.wikidata.org/wiki/Q5146696.............. 
+	http://risis.eu/orgref_20170703/resource/10048878.. http://www.perumonec.ac.in/........................ 
+	http://risis.eu/orgref_20170703/resource/10048878.. College of Engineering, Perumon.................... 
+	http://risis.eu/orgref_20170703/resource/31386040.. http://en.wikipedia.org/wiki?curid=31386040........ 
+	http://risis.eu/orgref_20170703/resource/31386040.. http://www.wikidata.org/wiki/Q7756775.............. 
+	http://risis.eu/orgref_20170703/resource/31386040.. http://www.theperumalengg.org...................... 
+	http://risis.eu/orgref_20170703/resource/31386040.. The Perumal Engineering College.................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:38810815', '1:36380351'), ('2:38810815', '5:31386040'), ('3:39804098', '2:38810815'), ('5:31386040', '4:10048878')]
+	MAX DISTANCE:                   : 0.4
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.25
+	BRIDGES                         : 4
+	CLOSURE                         : 0.4
+	DIAMETER                        : 3
+	QUALITY                         : 0.756
+	QUALITY USED                    : 0.756
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.6 DIAMETER 0.667 QUALITY 0.756 QUALITY USED 0.756
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.6 DIAMETER 0.667 QUALITY 0.756 QUALITY USED 0.756

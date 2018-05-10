@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 1432 
+NAME    N2120384895
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.438001.e>
+	<http://www.grid.ac/institutes/grid.438002.d>
+	<http://www.grid.ac/institutes/grid.437998.8>
+	<http://www.grid.ac/institutes/grid.455436.5>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.438002.d.. http://www.grid.ac/institutes/grid.437998.8.. 1............................................ [Smiths Detection (Canada)] was compared to [Smiths Detection (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.437998.8.. http://www.grid.ac/institutes/grid.438002.d.. 1............................................ [Smiths Detection (Canada)] was compared to [Smiths Detection (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.438001.e.. http://www.grid.ac/institutes/grid.437998.8.. 1............................................ [Smiths Detection (Canada)] was compared to [Smiths Detection (France)] 
+	http://www.grid.ac/institutes/grid.437998.8.. http://www.grid.ac/institutes/grid.438001.e.. 1............................................ [Smiths Detection (Canada)] was compared to [Smiths Detection (France)] 
+	http://www.grid.ac/institutes/grid.437998.8.. http://www.grid.ac/institutes/grid.455436.5.. 1............................................ [Smiths Detection (Canada)] was compared to [Smiths Detection (United States)] 
+	http://www.grid.ac/institutes/grid.455436.5.. http://www.grid.ac/institutes/grid.437998.8.. 1............................................ [Smiths Detection (Canada)] was compared to [Smiths Detection (United States)] 
+	http://www.grid.ac/institutes/grid.438001.e.. http://www.grid.ac/institutes/grid.438002.d.. 1............................................ [Smiths Detection (France)] was compared to [Smiths Detection (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.438002.d.. http://www.grid.ac/institutes/grid.438001.e.. 1............................................ [Smiths Detection (France)] was compared to [Smiths Detection (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.438001.e.. http://www.grid.ac/institutes/grid.455436.5.. 1............................................ [Smiths Detection (France)] was compared to [Smiths Detection (United States)] 
+	http://www.grid.ac/institutes/grid.455436.5.. http://www.grid.ac/institutes/grid.438001.e.. 1............................................ [Smiths Detection (France)] was compared to [Smiths Detection (United States)] 
+	http://www.grid.ac/institutes/grid.438002.d.. http://www.grid.ac/institutes/grid.455436.5.. 1............................................ [Smiths Detection (United Kingdom)] was compared to [Smiths Detection (United States)] 
+	http://www.grid.ac/institutes/grid.455436.5.. http://www.grid.ac/institutes/grid.438002.d.. 1............................................ [Smiths Detection (United Kingdom)] was compared to [Smiths Detection (United States)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.438001.e.. Smiths Detection (France).................... 
+	http://www.grid.ac/institutes/grid.438002.d.. Smiths Detection (United Kingdom)............ 
+	http://www.grid.ac/institutes/grid.437998.8.. -79.75139.................................... 
+	http://www.grid.ac/institutes/grid.437998.8.. 43.60034..................................... 
+	http://www.grid.ac/institutes/grid.437998.8.. https://www.smithsdetection.com/............. 
+	http://www.grid.ac/institutes/grid.437998.8.. Smiths Detection (Canada).................... 
+	http://www.grid.ac/institutes/grid.455436.5.. -76.31856.................................... 
+	http://www.grid.ac/institutes/grid.455436.5.. 39.449776.................................... 
+	http://www.grid.ac/institutes/grid.455436.5.. http://www.smithsdetection.com/.............. 
+	http://www.grid.ac/institutes/grid.455436.5.. Smiths Detection (United States)............. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.438001.e', '3:grid.437998.8'), ('2:grid.438002.d', '1:grid.438001.e'), ('2:grid.438002.d', '3:grid.437998.8'), ('4:grid.455436.5', '1:grid.438001.e'), ('4:grid.455436.5', '2:grid.438002.d'), ('4:grid.455436.5', '3:grid.437998.8')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

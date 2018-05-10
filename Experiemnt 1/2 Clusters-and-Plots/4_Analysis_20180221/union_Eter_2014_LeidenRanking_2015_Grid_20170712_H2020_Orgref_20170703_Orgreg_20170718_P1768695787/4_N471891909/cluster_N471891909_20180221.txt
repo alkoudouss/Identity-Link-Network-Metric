@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 13683 
+NAME    N471891909
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.482271.a>
+	<http://risis.eu/orgref_20170703/resource/10050058>
+	<http://www.grid.ac/institutes/grid.18888.31>
+	<http://risis.eu/cordisH2020/resource/participant_998398982>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.482271.a................. http://risis.eu/orgref_20170703/resource/10050058........... 1........................................................... [Daresbury Laboratory] was compared to [Daresbury Laboratory] 
+	http://risis.eu/orgref_20170703/resource/10050058........... http://www.grid.ac/institutes/grid.482271.a................. 1........................................................... [Daresbury Laboratory] was compared to [Daresbury Laboratory] 
+	http://www.grid.ac/institutes/grid.18888.31................. http://risis.eu/cordisH2020/resource/participant_998398982.. 1........................................................... [Sainsbury Laboratory] was compared to [THE SAINSBURY LABORATORY] 
+	http://risis.eu/cordisH2020/resource/participant_998398982.. http://www.grid.ac/institutes/grid.18888.31................. 1........................................................... [Sainsbury Laboratory] was compared to [THE SAINSBURY LABORATORY] 
+	http://risis.eu/orgref_20170703/resource/10050058........... http://risis.eu/cordisH2020/resource/participant_998398982.. 0.85........................................................ [Daresbury Laboratory] was compared to [THE SAINSBURY LABORATORY] 
+	http://risis.eu/cordisH2020/resource/participant_998398982.. http://risis.eu/orgref_20170703/resource/10050058........... 0.85........................................................ [Daresbury Laboratory] was compared to [THE SAINSBURY LABORATORY] 
+	http://www.grid.ac/institutes/grid.482271.a................. http://www.grid.ac/institutes/grid.18888.31................. 0.85........................................................ [Sainsbury Laboratory] was compared to [Daresbury Laboratory] 
+	http://www.grid.ac/institutes/grid.18888.31................. http://www.grid.ac/institutes/grid.482271.a................. 0.85........................................................ [Sainsbury Laboratory] was compared to [Daresbury Laboratory] 
+	http://risis.eu/orgref_20170703/resource/10050058........... http://www.grid.ac/institutes/grid.18888.31................. 0.85........................................................ [Sainsbury Laboratory] was compared to [Daresbury Laboratory] 
+	http://www.grid.ac/institutes/grid.18888.31................. http://risis.eu/orgref_20170703/resource/10050058........... 0.85........................................................ [Sainsbury Laboratory] was compared to [Daresbury Laboratory] 
+	http://www.grid.ac/institutes/grid.482271.a................. http://risis.eu/cordisH2020/resource/participant_998398982.. 0.85........................................................ [Daresbury Laboratory] was compared to [THE SAINSBURY LABORATORY] 
+	http://risis.eu/cordisH2020/resource/participant_998398982.. http://www.grid.ac/institutes/grid.482271.a................. 0.85........................................................ [Daresbury Laboratory] was compared to [THE SAINSBURY LABORATORY] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.482271.a................. -2.639923................................................... 
+	http://www.grid.ac/institutes/grid.482271.a................. 53.34405.................................................... 
+	http://www.grid.ac/institutes/grid.482271.a................. http://www.stfc.ac.uk/about-us/where-we-work/daresbury-laboratory/ 
+	http://www.grid.ac/institutes/grid.482271.a................. Daresbury Laboratory........................................ 
+	http://risis.eu/orgref_20170703/resource/10050058........... http://en.wikipedia.org/wiki?curid=10050058................. 
+	http://risis.eu/orgref_20170703/resource/10050058........... http://www.wikidata.org/wiki/Q5222556....................... 
+	http://risis.eu/orgref_20170703/resource/10050058........... http://www.sci-techdaresbury.com/properties/daresbury-laboratory 
+	http://risis.eu/orgref_20170703/resource/10050058........... Daresbury Laboratory........................................ 
+	http://www.grid.ac/institutes/grid.18888.31................. 1.222895.................................................... 
+	http://www.grid.ac/institutes/grid.18888.31................. 52.62219.................................................... 
+	http://www.grid.ac/institutes/grid.18888.31................. http://www.tsl.ac.uk/....................................... 
+	http://www.grid.ac/institutes/grid.18888.31................. Sainsbury Laboratory........................................ 
+	http://risis.eu/cordisH2020/resource/participant_998398982.. http://www.tsl.ac.uk........................................ 
+	http://risis.eu/cordisH2020/resource/participant_998398982.. THE SAINSBURY LABORATORY.................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.482271.a', '3:grid.18888.31'), ('2:10050058', '1:grid.482271.a'), ('2:10050058', '3:grid.18888.31'), ('4:participant_998398982', '1:grid.482271.a'), ('4:participant_998398982', '2:10050058'), ('4:participant_998398982', '3:grid.18888.31')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

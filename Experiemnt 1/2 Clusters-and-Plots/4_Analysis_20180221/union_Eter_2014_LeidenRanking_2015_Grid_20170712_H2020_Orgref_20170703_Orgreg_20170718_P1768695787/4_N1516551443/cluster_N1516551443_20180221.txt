@@ -1,0 +1,69 @@
+SIZE    4   
+CLUSTER 6126 
+NAME    N1516551443
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.469097.5>
+	<http://risis.eu/orgref_20170703/resource/5586164>
+	<http://risis.eu/orgref_20170703/resource/9209613>
+	<http://www.grid.ac/institutes/grid.462303.0>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/9209613.. http://www.grid.ac/institutes/grid.462303.0....... 1................................................. [Harcum College] was compared to [Harcum College]. 
+	http://www.grid.ac/institutes/grid.462303.0....... http://risis.eu/orgref_20170703/resource/9209613.. 1................................................. [Harcum College] was compared to [Harcum College]. 
+	http://www.grid.ac/institutes/grid.469097.5....... http://risis.eu/orgref_20170703/resource/5586164.. 1................................................. [Sarum College] was compared to [Sarum College]... 
+	http://risis.eu/orgref_20170703/resource/5586164.. http://www.grid.ac/institutes/grid.469097.5....... 1................................................. [Sarum College] was compared to [Sarum College]... 
+	http://risis.eu/orgref_20170703/resource/5586164.. http://risis.eu/orgref_20170703/resource/9209613.. 0.857142857143.................................... [Sarum College] was compared to [Harcum College].. 
+	http://risis.eu/orgref_20170703/resource/9209613.. http://risis.eu/orgref_20170703/resource/5586164.. 0.857142857143.................................... [Sarum College] was compared to [Harcum College].. 
+	http://www.grid.ac/institutes/grid.469097.5....... http://www.grid.ac/institutes/grid.462303.0....... 0.857142857143.................................... [Harcum College] was compared to [Sarum College].. 
+	http://www.grid.ac/institutes/grid.462303.0....... http://www.grid.ac/institutes/grid.469097.5....... 0.857142857143.................................... [Harcum College] was compared to [Sarum College].. 
+	http://risis.eu/orgref_20170703/resource/5586164.. http://www.grid.ac/institutes/grid.462303.0....... 0.857142857143.................................... [Harcum College] was compared to [Sarum College].. 
+	http://www.grid.ac/institutes/grid.462303.0....... http://risis.eu/orgref_20170703/resource/5586164.. 0.857142857143.................................... [Harcum College] was compared to [Sarum College].. 
+	http://www.grid.ac/institutes/grid.469097.5....... http://risis.eu/orgref_20170703/resource/9209613.. 0.857142857143.................................... [Sarum College] was compared to [Harcum College].. 
+	http://risis.eu/orgref_20170703/resource/9209613.. http://www.grid.ac/institutes/grid.469097.5....... 0.857142857143.................................... [Sarum College] was compared to [Harcum College].. 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.469097.5....... -1.795588......................................... 
+	http://www.grid.ac/institutes/grid.469097.5....... 51.066246......................................... 
+	http://www.grid.ac/institutes/grid.469097.5....... http://www.sarum.ac.uk/........................... 
+	http://www.grid.ac/institutes/grid.469097.5....... Salisbury Theological College..................... 
+	http://www.grid.ac/institutes/grid.469097.5....... Salisbury & Wells Theological College............. 
+	http://www.grid.ac/institutes/grid.469097.5....... Sarum College..................................... 
+	http://risis.eu/orgref_20170703/resource/5586164.. http://en.wikipedia.org/wiki?curid=5586164........ 
+	http://risis.eu/orgref_20170703/resource/5586164.. http://www.wikidata.org/wiki/Q7424719............. 
+	http://risis.eu/orgref_20170703/resource/5586164.. http://www.sarum.ac.uk............................ 
+	http://risis.eu/orgref_20170703/resource/5586164.. Sarum College..................................... 
+	http://risis.eu/orgref_20170703/resource/9209613.. http://en.wikipedia.org/wiki?curid=9209613........ 
+	http://risis.eu/orgref_20170703/resource/9209613.. http://www.wikidata.org/wiki/Q5655059............. 
+	http://risis.eu/orgref_20170703/resource/9209613.. http://www.harcum.edu............................. 
+	http://risis.eu/orgref_20170703/resource/9209613.. Harcum College.................................... 
+	http://www.grid.ac/institutes/grid.462303.0....... -75.31213......................................... 
+	http://www.grid.ac/institutes/grid.462303.0....... 40.021057......................................... 
+	http://www.grid.ac/institutes/grid.462303.0....... http://www.harcum.edu/............................ 
+	http://www.grid.ac/institutes/grid.462303.0....... Harcum College.................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.469097.5', '4:grid.462303.0'), ('2:5586164', '1:grid.469097.5'), ('2:5586164', '4:grid.462303.0'), ('3:9209613', '1:grid.469097.5'), ('3:9209613', '2:5586164'), ('4:grid.462303.0', '3:9209613')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

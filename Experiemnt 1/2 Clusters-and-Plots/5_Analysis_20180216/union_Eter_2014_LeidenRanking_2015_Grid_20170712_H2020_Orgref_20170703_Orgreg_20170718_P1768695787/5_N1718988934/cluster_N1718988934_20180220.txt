@@ -1,0 +1,71 @@
+SIZE    5   
+CLUSTER 10801 
+NAME    N1718988934
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.412631.3>
+	<http://risis.eu/orgref_20170703/resource/19387495>
+	<http://www.grid.ac/institutes/grid.452252.6>
+	<http://www.grid.ac/institutes/grid.452867.a>
+	<http://www.grid.ac/institutes/grid.412601.0>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.412631.3........ http://risis.eu/orgref_20170703/resource/19387495.. 1.................................................. [First Affiliated Hospital of Xinjiang Medical University] was compared to [First Affiliated Hospital of Xinjiang Medical University] 
+	http://risis.eu/orgref_20170703/resource/19387495.. http://www.grid.ac/institutes/grid.412631.3........ 1.................................................. [First Affiliated Hospital of Xinjiang Medical University] was compared to [First Affiliated Hospital of Xinjiang Medical University] 
+	http://www.grid.ac/institutes/grid.412631.3........ http://www.grid.ac/institutes/grid.452252.6........ 0.830188679245..................................... [First Affiliated Hospital of Xinjiang Medical University] was compared to [Affiliated Hospital of Jining Medical University] 
+	http://www.grid.ac/institutes/grid.452252.6........ http://www.grid.ac/institutes/grid.412631.3........ 0.830188679245..................................... [First Affiliated Hospital of Xinjiang Medical University] was compared to [Affiliated Hospital of Jining Medical University] 
+	http://www.grid.ac/institutes/grid.452252.6........ http://www.grid.ac/institutes/grid.412601.0........ 0.822222222222..................................... [First Affiliated Hospital of Jinan University] was compared to [Affiliated Hospital of Jining Medical University] 
+	http://www.grid.ac/institutes/grid.412601.0........ http://www.grid.ac/institutes/grid.452252.6........ 0.822222222222..................................... [First Affiliated Hospital of Jinan University] was compared to [Affiliated Hospital of Jining Medical University] 
+	http://www.grid.ac/institutes/grid.452252.6........ http://www.grid.ac/institutes/grid.452867.a........ 0.830188679245..................................... [Affiliated Hospital of Jining Medical University] was compared to [First Affiliated Hospital of Liaoning Medical University] 
+	http://www.grid.ac/institutes/grid.452867.a........ http://www.grid.ac/institutes/grid.452252.6........ 0.830188679245..................................... [Affiliated Hospital of Jining Medical University] was compared to [First Affiliated Hospital of Liaoning Medical University] 
+	http://risis.eu/orgref_20170703/resource/19387495.. http://www.grid.ac/institutes/grid.452252.6........ 0.830188679245..................................... [Affiliated Hospital of Jining Medical University] was compared to [First Affiliated Hospital of Xinjiang Medical University] 
+	http://www.grid.ac/institutes/grid.452252.6........ http://risis.eu/orgref_20170703/resource/19387495.. 0.830188679245..................................... [Affiliated Hospital of Jining Medical University] was compared to [First Affiliated Hospital of Xinjiang Medical University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 21 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.412631.3........ 87.5839............................................ 
+	http://www.grid.ac/institutes/grid.412631.3........ 43.838604.......................................... 
+	http://www.grid.ac/institutes/grid.412631.3........ http://en.xydyfy.com/index.php?m=content&c=index&a=show&catid=6&id=13 
+	http://www.grid.ac/institutes/grid.412631.3........ First Affiliated Hospital of Xinjiang Medical University 
+	http://risis.eu/orgref_20170703/resource/19387495.. http://en.wikipedia.org/wiki?curid=19387495........ 
+	http://risis.eu/orgref_20170703/resource/19387495.. http://www.wikidata.org/wiki/Q5452250.............. 
+	http://risis.eu/orgref_20170703/resource/19387495.. http://www1.xjmu.edu.cn/gjjyxyen/detail_page_ind.asp?articleid=683 
+	http://risis.eu/orgref_20170703/resource/19387495.. First Affiliated Hospital of Xinjiang Medical University 
+	http://www.grid.ac/institutes/grid.452252.6........ 116.58013.......................................... 
+	http://www.grid.ac/institutes/grid.452252.6........ 35.4081............................................ 
+	http://www.grid.ac/institutes/grid.452252.6........ http://www.jyfy.com.cn/............................ 
+	http://www.grid.ac/institutes/grid.452252.6........ Affiliated Hospital of Jining Medical University... 
+	http://www.grid.ac/institutes/grid.452867.a........ 121.12956.......................................... 
+	http://www.grid.ac/institutes/grid.452867.a........ 41.13413........................................... 
+	http://www.grid.ac/institutes/grid.452867.a........ http://www.jyyyw.com/.............................. 
+	http://www.grid.ac/institutes/grid.452867.a........ First Affiliated Hospital of Liaoning Medical University 
+	http://www.grid.ac/institutes/grid.412601.0........ 113.35041.......................................... 
+	http://www.grid.ac/institutes/grid.412601.0........ 23.126133.......................................... 
+	http://www.grid.ac/institutes/grid.412601.0........ http://www.jd120.com/.............................. 
+	http://www.grid.ac/institutes/grid.412601.0........ Guangzhou Overseas Chinese Hospital................ 
+	http://www.grid.ac/institutes/grid.412601.0........ First Affiliated Hospital of Jinan University...... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:19387495', '1:grid.412631.3'), ('2:19387495', '3:grid.452252.6'), ('3:grid.452252.6', '1:grid.412631.3'), ('4:grid.452867.a', '3:grid.452252.6'), ('5:grid.412601.0', '3:grid.452252.6')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 1.3
+	AVERAGE NODE CONNECTIVITY RATIO : 0.325
+	BRIDGES                         : 2
+	CLOSURE                         : 0.5
+	DIAMETER                        : 2
+	QUALITY                         : 0.444
+	QUALITY USED                    : 0.48
+	SUMMARY 1: BRIDGE 0.5 CLOSURE 0.5 DIAMETER 0.333 QUALITY 0.444 QUALITY USED 0.48
+	SUMMARY 2: BRIDGE 0.556 CLOSURE 0.5 DIAMETER 0.385 QUALITY 0.444 QUALITY USED 0.48

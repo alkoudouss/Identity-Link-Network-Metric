@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 14368 
+NAME    N1543067387
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/TR0009>
+	<http://risis.eu/leidenRanking_2015/resource/715>
+	<http://risis.eu/orgref_20170703/resource/8771994>
+	<http://www.grid.ac/institutes/grid.29906.34>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/8771994.. http://www.grid.ac/institutes/grid.29906.34....... 1................................................. [Akdeniz University] was compared to [Akdeniz University] 
+	http://www.grid.ac/institutes/grid.29906.34....... http://risis.eu/orgref_20170703/resource/8771994.. 1................................................. [Akdeniz University] was compared to [Akdeniz University] 
+	http://risis.eu/leidenRanking_2015/resource/715... http://www.grid.ac/institutes/grid.29906.34....... 1................................................. [Akdeniz University] was compared to [Akdeniz University] 
+	http://www.grid.ac/institutes/grid.29906.34....... http://risis.eu/leidenRanking_2015/resource/715... 1................................................. [Akdeniz University] was compared to [Akdeniz University] 
+	http://risis.eu/leidenRanking_2015/resource/715... http://risis.eu/orgref_20170703/resource/8771994.. 1................................................. [Akdeniz University] was compared to [Akdeniz University] 
+	http://risis.eu/orgref_20170703/resource/8771994.. http://risis.eu/leidenRanking_2015/resource/715... 1................................................. [Akdeniz University] was compared to [Akdeniz University] 
+	http://risis.eu/eter_2014/resource/TR0009......... http://risis.eu/leidenRanking_2015/resource/715... 0.85.............................................. [AKDENIZ ÜNIVERSITESI] was compared to [Akdeniz University] 
+	http://risis.eu/leidenRanking_2015/resource/715... http://risis.eu/eter_2014/resource/TR0009......... 0.85.............................................. [AKDENIZ ÜNIVERSITESI] was compared to [Akdeniz University] 
+	http://risis.eu/eter_2014/resource/TR0009......... http://risis.eu/orgref_20170703/resource/8771994.. 0.85.............................................. [Akdeniz University] was compared to [AKDENIZ ÜNIVERSITESI] 
+	http://risis.eu/orgref_20170703/resource/8771994.. http://risis.eu/eter_2014/resource/TR0009......... 0.85.............................................. [Akdeniz University] was compared to [AKDENIZ ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0009......... http://www.grid.ac/institutes/grid.29906.34....... 0.85.............................................. [Akdeniz University] was compared to [AKDENIZ ÜNIVERSITESI] 
+	http://www.grid.ac/institutes/grid.29906.34....... http://risis.eu/eter_2014/resource/TR0009......... 0.85.............................................. [Akdeniz University] was compared to [AKDENIZ ÜNIVERSITESI] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/eter_2014/resource/TR0009......... 36,896208......................................... 
+	http://risis.eu/eter_2014/resource/TR0009......... 30,709856......................................... 
+	http://risis.eu/eter_2014/resource/TR0009......... http://www.akdeniz.edu.tr......................... 
+	http://risis.eu/eter_2014/resource/TR0009......... a................................................. 
+	http://risis.eu/eter_2014/resource/TR0009......... Akdeniz Mediterranean University.................. 
+	http://risis.eu/eter_2014/resource/TR0009......... AKDENIZ ÜNIVERSITESI............................. 
+	http://risis.eu/leidenRanking_2015/resource/715... Akdeniz University................................ 
+	http://risis.eu/orgref_20170703/resource/8771994.. http://en.wikipedia.org/wiki?curid=8771994........ 
+	http://risis.eu/orgref_20170703/resource/8771994.. http://www.wikidata.org/wiki/Q169939.............. 
+	http://risis.eu/orgref_20170703/resource/8771994.. http://www.akdeniz.edu.tr......................... 
+	http://risis.eu/orgref_20170703/resource/8771994.. Akdeniz University................................ 
+	http://www.grid.ac/institutes/grid.29906.34....... 30.6511........................................... 
+	http://www.grid.ac/institutes/grid.29906.34....... 36.895............................................ 
+	http://www.grid.ac/institutes/grid.29906.34....... http://en.akdeniz.edu.tr/en/...................... 
+	http://www.grid.ac/institutes/grid.29906.34....... Akdeniz Üniversitesi............................. 
+	http://www.grid.ac/institutes/grid.29906.34....... Akdeniz University................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:TR0009', '3:8771994'), ('2:715', '1:TR0009'), ('2:715', '4:grid.29906.34'), ('3:8771994', '2:715'), ('3:8771994', '4:grid.29906.34'), ('4:grid.29906.34', '1:TR0009')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

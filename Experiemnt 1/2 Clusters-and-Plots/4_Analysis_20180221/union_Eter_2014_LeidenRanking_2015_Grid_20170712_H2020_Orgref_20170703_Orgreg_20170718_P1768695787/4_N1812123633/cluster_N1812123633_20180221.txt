@@ -1,0 +1,58 @@
+SIZE    4   
+CLUSTER 12478 
+NAME    N1812123633
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.425619.d>
+	<http://www.grid.ac/institutes/grid.434761.3>
+	<http://www.grid.ac/institutes/grid.481714.f>
+	<http://risis.eu/cordisH2020/resource/participant_927783855>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.425619.d................. http://www.grid.ac/institutes/grid.481714.f................. 1........................................................... [GEA Group (Germany)] was compared to [GEA Group (Denmark)]. 
+	http://www.grid.ac/institutes/grid.481714.f................. http://www.grid.ac/institutes/grid.425619.d................. 1........................................................... [GEA Group (Germany)] was compared to [GEA Group (Denmark)]. 
+	http://www.grid.ac/institutes/grid.425619.d................. http://www.grid.ac/institutes/grid.434761.3................. 0.888888888889.............................................. [GEA Group (Germany)] was compared to [GEO Group (Czech Republic)] 
+	http://www.grid.ac/institutes/grid.434761.3................. http://www.grid.ac/institutes/grid.425619.d................. 0.888888888889.............................................. [GEA Group (Germany)] was compared to [GEO Group (Czech Republic)] 
+	http://www.grid.ac/institutes/grid.434761.3................. http://www.grid.ac/institutes/grid.481714.f................. 0.888888888889.............................................. [GEO Group (Czech Republic)] was compared to [GEA Group (Denmark)] 
+	http://www.grid.ac/institutes/grid.481714.f................. http://www.grid.ac/institutes/grid.434761.3................. 0.888888888889.............................................. [GEO Group (Czech Republic)] was compared to [GEA Group (Denmark)] 
+	http://www.grid.ac/institutes/grid.434761.3................. http://risis.eu/cordisH2020/resource/participant_927783855.. 0.888888888889.............................................. [GEO Group (Czech Republic)] was compared to [NEO GROUP].... 
+	http://risis.eu/cordisH2020/resource/participant_927783855.. http://www.grid.ac/institutes/grid.434761.3................. 0.888888888889.............................................. [GEO Group (Czech Republic)] was compared to [NEO GROUP].... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.425619.d................. 6.771231.................................................... 
+	http://www.grid.ac/institutes/grid.425619.d................. 51.27547.................................................... 
+	http://www.grid.ac/institutes/grid.425619.d................. http://www.gea.com/global/en/index.jsp...................... 
+	http://www.grid.ac/institutes/grid.425619.d................. Gesellschaft für Entstaubungsanlagen....................... 
+	http://www.grid.ac/institutes/grid.425619.d................. GEA Group (Germany)......................................... 
+	http://www.grid.ac/institutes/grid.434761.3................. GEO Group (Czech Republic).................................. 
+	http://www.grid.ac/institutes/grid.481714.f................. 12.487022................................................... 
+	http://www.grid.ac/institutes/grid.481714.f................. 55.73314.................................................... 
+	http://www.grid.ac/institutes/grid.481714.f................. http://www.gea.com/en/index.jsp............................. 
+	http://www.grid.ac/institutes/grid.481714.f................. GEA Group (Denmark)......................................... 
+	http://risis.eu/cordisH2020/resource/participant_927783855.. NEO GROUP................................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.434761.3', '1:grid.425619.d'), ('3:grid.481714.f', '1:grid.425619.d'), ('3:grid.481714.f', '2:grid.434761.3'), ('4:participant_927783855', '2:grid.434761.3')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

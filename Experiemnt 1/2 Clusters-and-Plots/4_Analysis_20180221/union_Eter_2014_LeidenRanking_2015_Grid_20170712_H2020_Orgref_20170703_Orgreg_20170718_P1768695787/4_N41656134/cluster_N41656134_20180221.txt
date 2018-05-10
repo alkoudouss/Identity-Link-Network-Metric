@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 15112 
+NAME    N41656134
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/47000201>
+	<http://risis.eu/orgreg_20170718/resource/RO1001>
+	<http://www.grid.ac/institutes/grid.443870.c>
+	<http://risis.eu/leidenRanking_2015/resource/15518>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/47000201.. http://www.grid.ac/institutes/grid.443870.c........ 1.................................................. [National Institute of Materials Physics] was compared to [National Institute of Materials Physics] 
+	http://www.grid.ac/institutes/grid.443870.c........ http://risis.eu/orgref_20170703/resource/47000201.. 1.................................................. [National Institute of Materials Physics] was compared to [National Institute of Materials Physics] 
+	http://www.grid.ac/institutes/grid.443870.c........ http://risis.eu/leidenRanking_2015/resource/15518.. 1.................................................. [National Institute of Materials Physics] was compared to [National Institute for Materials Physics] 
+	http://risis.eu/leidenRanking_2015/resource/15518.. http://www.grid.ac/institutes/grid.443870.c........ 1.................................................. [National Institute of Materials Physics] was compared to [National Institute for Materials Physics] 
+	http://risis.eu/orgref_20170703/resource/47000201.. http://risis.eu/leidenRanking_2015/resource/15518.. 1.................................................. [National Institute of Materials Physics] was compared to [National Institute for Materials Physics] 
+	http://risis.eu/leidenRanking_2015/resource/15518.. http://risis.eu/orgref_20170703/resource/47000201.. 1.................................................. [National Institute of Materials Physics] was compared to [National Institute for Materials Physics] 
+	http://risis.eu/orgreg_20170718/resource/RO1001.... http://risis.eu/leidenRanking_2015/resource/15518.. 1.................................................. [National Institute of Materials Physics] was compared to [National Institute for Materials Physics] 
+	http://risis.eu/leidenRanking_2015/resource/15518.. http://risis.eu/orgreg_20170718/resource/RO1001.... 1.................................................. [National Institute of Materials Physics] was compared to [National Institute for Materials Physics] 
+	http://risis.eu/orgref_20170703/resource/47000201.. http://risis.eu/orgreg_20170718/resource/RO1001.... 1.................................................. [National Institute of Materials Physics] was compared to [National Institute of Materials Physics] 
+	http://risis.eu/orgreg_20170718/resource/RO1001.... http://risis.eu/orgref_20170703/resource/47000201.. 1.................................................. [National Institute of Materials Physics] was compared to [National Institute of Materials Physics] 
+	http://risis.eu/orgreg_20170718/resource/RO1001.... http://www.grid.ac/institutes/grid.443870.c........ 1.................................................. [National Institute of Materials Physics] was compared to [National Institute of Materials Physics] 
+	http://www.grid.ac/institutes/grid.443870.c........ http://risis.eu/orgreg_20170718/resource/RO1001.... 1.................................................. [National Institute of Materials Physics] was compared to [National Institute of Materials Physics] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/47000201.. National Institute of Materials Physics............ 
+	http://risis.eu/orgreg_20170718/resource/RO1001.... 26.03433........................................... 
+	http://risis.eu/orgreg_20170718/resource/RO1001.... 44.35558........................................... 
+	http://risis.eu/orgreg_20170718/resource/RO1001.... http://www.infim.ro/............................... 
+	http://risis.eu/orgreg_20170718/resource/RO1001.... National Institute of Materials Physics............ 
+	http://www.grid.ac/institutes/grid.443870.c........ 26.034286.......................................... 
+	http://www.grid.ac/institutes/grid.443870.c........ 44.355568.......................................... 
+	http://www.grid.ac/institutes/grid.443870.c........ http://www.infim.ro/............................... 
+	http://www.grid.ac/institutes/grid.443870.c........ National Institute of Materials Physics............ 
+	http://risis.eu/leidenRanking_2015/resource/15518.. National Institute for Materials Physics........... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:47000201', '3:grid.443870.c'), ('2:RO1001', '1:47000201'), ('3:grid.443870.c', '2:RO1001'), ('4:15518', '1:47000201'), ('4:15518', '2:RO1001'), ('4:15518', '3:grid.443870.c')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

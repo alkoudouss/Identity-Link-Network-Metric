@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 17185 
+NAME    N1068934160
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.9681.6>
+	<http://risis.eu/orgref_20170703/resource/258910>
+	<http://risis.eu/leidenRanking_2015/resource/125>
+	<http://risis.eu/orgreg_20170718/resource/FI0006>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.9681.6........ http://risis.eu/orgref_20170703/resource/258910.. 1................................................ [University of Jyväskylä] was compared to [University of Jyväskylä] 
+	http://risis.eu/orgref_20170703/resource/258910.. http://www.grid.ac/institutes/grid.9681.6........ 1................................................ [University of Jyväskylä] was compared to [University of Jyväskylä] 
+	http://risis.eu/leidenRanking_2015/resource/125.. http://risis.eu/orgreg_20170718/resource/FI0006.. 0.9.............................................. [University of Jyväskylä] was compared to [University of Jyv�skyl�] 
+	http://risis.eu/orgreg_20170718/resource/FI0006.. http://risis.eu/leidenRanking_2015/resource/125.. 0.9.............................................. [University of Jyväskylä] was compared to [University of Jyv�skyl�] 
+	http://risis.eu/orgref_20170703/resource/258910.. http://risis.eu/orgreg_20170718/resource/FI0006.. 1................................................ [University of Jyväskylä] was compared to [University of Jyväskylä] 
+	http://risis.eu/orgreg_20170718/resource/FI0006.. http://risis.eu/orgref_20170703/resource/258910.. 1................................................ [University of Jyväskylä] was compared to [University of Jyväskylä] 
+	http://risis.eu/orgref_20170703/resource/258910.. http://risis.eu/leidenRanking_2015/resource/125.. 0.9.............................................. [University of Jyväskylä] was compared to [University of Jyv�skyl�] 
+	http://risis.eu/leidenRanking_2015/resource/125.. http://risis.eu/orgref_20170703/resource/258910.. 0.9.............................................. [University of Jyväskylä] was compared to [University of Jyv�skyl�] 
+	http://www.grid.ac/institutes/grid.9681.6........ http://risis.eu/leidenRanking_2015/resource/125.. 0.9.............................................. [University of Jyväskylä] was compared to [University of Jyv�skyl�] 
+	http://risis.eu/leidenRanking_2015/resource/125.. http://www.grid.ac/institutes/grid.9681.6........ 0.9.............................................. [University of Jyväskylä] was compared to [University of Jyv�skyl�] 
+	http://www.grid.ac/institutes/grid.9681.6........ http://risis.eu/orgreg_20170718/resource/FI0006.. 1................................................ [University of Jyväskylä] was compared to [University of Jyväskylä] 
+	http://risis.eu/orgreg_20170718/resource/FI0006.. http://www.grid.ac/institutes/grid.9681.6........ 1................................................ [University of Jyväskylä] was compared to [University of Jyväskylä] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.9681.6........ 25.731623........................................ 
+	http://www.grid.ac/institutes/grid.9681.6........ 62.236687........................................ 
+	http://www.grid.ac/institutes/grid.9681.6........ https://www.jyu.fi/en/........................... 
+	http://www.grid.ac/institutes/grid.9681.6........ Jyväskylän yliopisto........................... 
+	http://www.grid.ac/institutes/grid.9681.6........ University of Jyväskylä........................ 
+	http://risis.eu/orgref_20170703/resource/258910.. http://en.wikipedia.org/wiki?curid=258910........ 
+	http://risis.eu/orgref_20170703/resource/258910.. http://www.wikidata.org/wiki/Q578326............. 
+	http://risis.eu/orgref_20170703/resource/258910.. https://www.jyu.fi/en............................ 
+	http://risis.eu/orgref_20170703/resource/258910.. University of Jyväskylä........................ 
+	http://risis.eu/leidenRanking_2015/resource/125.. University of Jyv�skyl�...................... 
+	http://risis.eu/orgreg_20170718/resource/FI0006.. 25.734264........................................ 
+	http://risis.eu/orgreg_20170718/resource/FI0006.. 62.237653........................................ 
+	http://risis.eu/orgreg_20170718/resource/FI0006.. http://www.jyu.fi/en/............................ 
+	http://risis.eu/orgreg_20170718/resource/FI0006.. University of Jyväskylä........................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:258910', '1:grid.9681.6'), ('3:125', '1:grid.9681.6'), ('3:125', '2:258910'), ('3:125', '4:FI0006'), ('4:FI0006', '1:grid.9681.6'), ('4:FI0006', '2:258910')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

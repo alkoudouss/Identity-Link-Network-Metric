@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 1760 
+NAME    N1627399023
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.252853.b>
+	<http://www.grid.ac/institutes/grid.448666.e>
+	<http://risis.eu/orgref_20170703/resource/33116045>
+	<http://risis.eu/orgref_20170703/resource/574547>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.252853.b........ http://risis.eu/orgref_20170703/resource/574547.... 1.................................................. [Barry University] was compared to [Barry University] 
+	http://risis.eu/orgref_20170703/resource/574547.... http://www.grid.ac/institutes/grid.252853.b........ 1.................................................. [Barry University] was compared to [Barry University] 
+	http://www.grid.ac/institutes/grid.448666.e........ http://risis.eu/orgref_20170703/resource/33116045.. 1.................................................. [Karary University] was compared to [Karary University] 
+	http://risis.eu/orgref_20170703/resource/33116045.. http://www.grid.ac/institutes/grid.448666.e........ 1.................................................. [Karary University] was compared to [Karary University] 
+	http://risis.eu/orgref_20170703/resource/33116045.. http://risis.eu/orgref_20170703/resource/574547.... 0.882352941176..................................... [Karary University] was compared to [Barry University] 
+	http://risis.eu/orgref_20170703/resource/574547.... http://risis.eu/orgref_20170703/resource/33116045.. 0.882352941176..................................... [Karary University] was compared to [Barry University] 
+	http://www.grid.ac/institutes/grid.252853.b........ http://www.grid.ac/institutes/grid.448666.e........ 0.882352941176..................................... [Barry University] was compared to [Karary University] 
+	http://www.grid.ac/institutes/grid.448666.e........ http://www.grid.ac/institutes/grid.252853.b........ 0.882352941176..................................... [Barry University] was compared to [Karary University] 
+	http://www.grid.ac/institutes/grid.252853.b........ http://risis.eu/orgref_20170703/resource/33116045.. 0.882352941176..................................... [Barry University] was compared to [Karary University] 
+	http://risis.eu/orgref_20170703/resource/33116045.. http://www.grid.ac/institutes/grid.252853.b........ 0.882352941176..................................... [Barry University] was compared to [Karary University] 
+	http://www.grid.ac/institutes/grid.448666.e........ http://risis.eu/orgref_20170703/resource/574547.... 0.882352941176..................................... [Karary University] was compared to [Barry University] 
+	http://risis.eu/orgref_20170703/resource/574547.... http://www.grid.ac/institutes/grid.448666.e........ 0.882352941176..................................... [Karary University] was compared to [Barry University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.252853.b........ -80.19619.......................................... 
+	http://www.grid.ac/institutes/grid.252853.b........ 25.879356.......................................... 
+	http://www.grid.ac/institutes/grid.252853.b........ https://www.barry.edu/............................. 
+	http://www.grid.ac/institutes/grid.252853.b........ Barry University................................... 
+	http://www.grid.ac/institutes/grid.448666.e........ Karary University.................................. 
+	http://risis.eu/orgref_20170703/resource/33116045.. http://en.wikipedia.org/wiki?curid=33116045........ 
+	http://risis.eu/orgref_20170703/resource/33116045.. http://www.wikidata.org/wiki/Q6368619.............. 
+	http://risis.eu/orgref_20170703/resource/33116045.. http://www.karary.edu.sd........................... 
+	http://risis.eu/orgref_20170703/resource/33116045.. Karary University.................................. 
+	http://risis.eu/orgref_20170703/resource/574547.... http://en.wikipedia.org/wiki?curid=574547.......... 
+	http://risis.eu/orgref_20170703/resource/574547.... http://www.wikidata.org/wiki/Q809106............... 
+	http://risis.eu/orgref_20170703/resource/574547.... http://www.barry.edu............................... 
+	http://risis.eu/orgref_20170703/resource/574547.... Barry University................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.448666.e', '1:grid.252853.b'), ('3:33116045', '1:grid.252853.b'), ('3:33116045', '2:grid.448666.e'), ('4:574547', '1:grid.252853.b'), ('4:574547', '2:grid.448666.e'), ('4:574547', '3:33116045')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

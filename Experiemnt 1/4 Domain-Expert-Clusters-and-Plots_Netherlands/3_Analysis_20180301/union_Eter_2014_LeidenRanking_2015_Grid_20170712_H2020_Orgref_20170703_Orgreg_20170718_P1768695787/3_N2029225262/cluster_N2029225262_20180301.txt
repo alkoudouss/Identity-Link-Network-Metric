@@ -1,0 +1,54 @@
+SIZE    3   
+CLUSTER 5369 
+NAME    N2029225262
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/NL1019>
+	<http://www.grid.ac/institutes/grid.419915.1>
+	<http://risis.eu/cordisH2020/resource/participant_998203527>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgreg_20170718/resource/NL1019............. http://risis.eu/cordisH2020/resource/participant_998203527.. 1........................................................... [Netherlands Forensic Institute] was compared to [Netherlands Forensic Institute] 
+	http://risis.eu/orgreg_20170718/resource/NL1019............. http://www.grid.ac/institutes/grid.419915.1................. 1........................................................... [Netherlands Forensic Institute] was compared to [Netherlands Forensic Institute] 
+	http://www.grid.ac/institutes/grid.419915.1................. http://risis.eu/orgreg_20170718/resource/NL1019............. 1........................................................... [Netherlands Forensic Institute] was compared to [Netherlands Forensic Institute] 
+	http://www.grid.ac/institutes/grid.419915.1................. http://risis.eu/cordisH2020/resource/participant_998203527.. 1........................................................... [Netherlands Forensic Institute] was compared to [Netherlands Forensic Institute] 
+	http://risis.eu/cordisH2020/resource/participant_998203527.. http://www.grid.ac/institutes/grid.419915.1................. 1........................................................... [Netherlands Forensic Institute] was compared to [Netherlands Forensic Institute] 
+	http://risis.eu/cordisH2020/resource/participant_998203527.. http://risis.eu/orgreg_20170718/resource/NL1019............. 1........................................................... [Netherlands Forensic Institute] was compared to [Netherlands Forensic Institute] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgreg_20170718/resource/NL1019............. 4........................................................... 
+	http://risis.eu/orgreg_20170718/resource/NL1019............. 52.......................................................... 
+	http://risis.eu/orgreg_20170718/resource/NL1019............. http://www.forensicinstitute.nl/............................ 
+	http://risis.eu/orgreg_20170718/resource/NL1019............. Netherlands Forensic Institute.............................. 
+	http://www.grid.ac/institutes/grid.419915.1................. 4.35875..................................................... 
+	http://www.grid.ac/institutes/grid.419915.1................. 52.04464.................................................... 
+	http://www.grid.ac/institutes/grid.419915.1................. https://www.forensicinstitute.nl/........................... 
+	http://www.grid.ac/institutes/grid.419915.1................. Netherlands Forensic Institute.............................. 
+	http://risis.eu/cordisH2020/resource/participant_998203527.. http://risis.eu/cordisH2020/resource/www.forensicinstitute.nl 
+	http://risis.eu/cordisH2020/resource/participant_998203527.. Netherlands Forensic Institute.............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('N2029225262-participant_998203527', 'P1810813340-grid.419915.1'), ('N191918526-NL1019', 'P1810813340-grid.419915.1'), ('N2029225262-participant_998203527', 'N191918526-NL1019')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 13767 
+NAME    N2024173381
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.10698.36>
+	<http://risis.eu/cordisH2020/resource/participant_999573264>
+	<http://risis.eu/leidenRanking_2015/resource/1189>
+	<http://risis.eu/orgref_20170703/resource/89510>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.10698.36................. http://risis.eu/orgref_20170703/resource/89510.............. 1........................................................... [University of North Carolina at Chapel Hill] was compared to [University of North Carolina at Chapel Hill] 
+	http://risis.eu/orgref_20170703/resource/89510.............. http://www.grid.ac/institutes/grid.10698.36................. 1........................................................... [University of North Carolina at Chapel Hill] was compared to [University of North Carolina at Chapel Hill] 
+	http://www.grid.ac/institutes/grid.10698.36................. http://risis.eu/leidenRanking_2015/resource/1189............ 0.925....................................................... [University of North Carolina at Chapel Hill] was compared to [University of North Carolina, Chapel Hill] 
+	http://risis.eu/leidenRanking_2015/resource/1189............ http://www.grid.ac/institutes/grid.10698.36................. 0.925....................................................... [University of North Carolina at Chapel Hill] was compared to [University of North Carolina, Chapel Hill] 
+	http://www.grid.ac/institutes/grid.10698.36................. http://risis.eu/cordisH2020/resource/participant_999573264.. 1........................................................... [University of North Carolina at Chapel Hill] was compared to [THE UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL] 
+	http://risis.eu/cordisH2020/resource/participant_999573264.. http://www.grid.ac/institutes/grid.10698.36................. 1........................................................... [University of North Carolina at Chapel Hill] was compared to [THE UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL] 
+	http://risis.eu/leidenRanking_2015/resource/1189............ http://risis.eu/orgref_20170703/resource/89510.............. 0.925....................................................... [University of North Carolina at Chapel Hill] was compared to [University of North Carolina, Chapel Hill] 
+	http://risis.eu/orgref_20170703/resource/89510.............. http://risis.eu/leidenRanking_2015/resource/1189............ 0.925....................................................... [University of North Carolina at Chapel Hill] was compared to [University of North Carolina, Chapel Hill] 
+	http://risis.eu/cordisH2020/resource/participant_999573264.. http://risis.eu/orgref_20170703/resource/89510.............. 1........................................................... [University of North Carolina at Chapel Hill] was compared to [THE UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL] 
+	http://risis.eu/orgref_20170703/resource/89510.............. http://risis.eu/cordisH2020/resource/participant_999573264.. 1........................................................... [University of North Carolina at Chapel Hill] was compared to [THE UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL] 
+	http://risis.eu/cordisH2020/resource/participant_999573264.. http://risis.eu/leidenRanking_2015/resource/1189............ 0.925....................................................... [THE UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL] was compared to [University of North Carolina, Chapel Hill] 
+	http://risis.eu/leidenRanking_2015/resource/1189............ http://risis.eu/cordisH2020/resource/participant_999573264.. 0.925....................................................... [THE UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL] was compared to [University of North Carolina, Chapel Hill] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.10698.36................. -79.04694................................................... 
+	http://www.grid.ac/institutes/grid.10698.36................. 35.905163................................................... 
+	http://www.grid.ac/institutes/grid.10698.36................. http://www.unc.edu/......................................... 
+	http://www.grid.ac/institutes/grid.10698.36................. UNC-Chapel Hill............................................. 
+	http://www.grid.ac/institutes/grid.10698.36................. University of North Carolina at Chapel Hill................. 
+	http://risis.eu/cordisH2020/resource/participant_999573264.. http://risis.eu/cordisH2020/resource/www.unc.edu............ 
+	http://risis.eu/cordisH2020/resource/participant_999573264.. THE UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL............. 
+	http://risis.eu/leidenRanking_2015/resource/1189............ University of North Carolina, Chapel Hill................... 
+	http://risis.eu/orgref_20170703/resource/89510.............. http://en.wikipedia.org/wiki?curid=89510.................... 
+	http://risis.eu/orgref_20170703/resource/89510.............. http://www.wikidata.org/wiki/Q192334........................ 
+	http://risis.eu/orgref_20170703/resource/89510.............. http://www.unc.edu.......................................... 
+	http://risis.eu/orgref_20170703/resource/89510.............. University of North Carolina at Chapel Hill................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_999573264', '1:grid.10698.36'), ('3:1189', '1:grid.10698.36'), ('3:1189', '2:participant_999573264'), ('3:1189', '4:89510'), ('4:89510', '1:grid.10698.36'), ('4:89510', '2:participant_999573264')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

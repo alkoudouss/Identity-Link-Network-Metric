@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 13329 
+NAME    P512269448
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.424921.8>
+	<http://www.grid.ac/institutes/grid.425752.3>
+	<http://www.grid.ac/institutes/grid.473115.5>
+	<http://www.grid.ac/institutes/grid.436400.5>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.424921.8.. http://www.grid.ac/institutes/grid.436400.5.. 1............................................ [GDF Suez (France)] was compared to [GDF Suez (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.436400.5.. http://www.grid.ac/institutes/grid.424921.8.. 1............................................ [GDF Suez (France)] was compared to [GDF Suez (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.424921.8.. http://www.grid.ac/institutes/grid.425752.3.. 1............................................ [GDF Suez (France)] was compared to [GDF Suez (Belgium)] 
+	http://www.grid.ac/institutes/grid.425752.3.. http://www.grid.ac/institutes/grid.424921.8.. 1............................................ [GDF Suez (France)] was compared to [GDF Suez (Belgium)] 
+	http://www.grid.ac/institutes/grid.424921.8.. http://www.grid.ac/institutes/grid.473115.5.. 1............................................ [GDF Suez (France)] was compared to [GDF Suez (United States)] 
+	http://www.grid.ac/institutes/grid.473115.5.. http://www.grid.ac/institutes/grid.424921.8.. 1............................................ [GDF Suez (France)] was compared to [GDF Suez (United States)] 
+	http://www.grid.ac/institutes/grid.425752.3.. http://www.grid.ac/institutes/grid.436400.5.. 1............................................ [GDF Suez (Belgium)] was compared to [GDF Suez (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.436400.5.. http://www.grid.ac/institutes/grid.425752.3.. 1............................................ [GDF Suez (Belgium)] was compared to [GDF Suez (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.425752.3.. http://www.grid.ac/institutes/grid.473115.5.. 1............................................ [GDF Suez (Belgium)] was compared to [GDF Suez (United States)] 
+	http://www.grid.ac/institutes/grid.473115.5.. http://www.grid.ac/institutes/grid.425752.3.. 1............................................ [GDF Suez (Belgium)] was compared to [GDF Suez (United States)] 
+	http://www.grid.ac/institutes/grid.473115.5.. http://www.grid.ac/institutes/grid.436400.5.. 1............................................ [GDF Suez (United Kingdom)] was compared to [GDF Suez (United States)] 
+	http://www.grid.ac/institutes/grid.436400.5.. http://www.grid.ac/institutes/grid.473115.5.. 1............................................ [GDF Suez (United Kingdom)] was compared to [GDF Suez (United States)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.424921.8.. 2.239891..................................... 
+	http://www.grid.ac/institutes/grid.424921.8.. 48.896214.................................... 
+	http://www.grid.ac/institutes/grid.424921.8.. http://www.engie.com/en/..................... 
+	http://www.grid.ac/institutes/grid.424921.8.. Engie........................................ 
+	http://www.grid.ac/institutes/grid.424921.8.. GDF Suez (France)............................ 
+	http://www.grid.ac/institutes/grid.425752.3.. 4.430813..................................... 
+	http://www.grid.ac/institutes/grid.425752.3.. 50.859108.................................... 
+	http://www.grid.ac/institutes/grid.425752.3.. http://www.electrabel.com/................... 
+	http://www.grid.ac/institutes/grid.425752.3.. Electrabel................................... 
+	http://www.grid.ac/institutes/grid.425752.3.. GDF Suez (Belgium)........................... 
+	http://www.grid.ac/institutes/grid.473115.5.. -95.462685................................... 
+	http://www.grid.ac/institutes/grid.473115.5.. 29.745333.................................... 
+	http://www.grid.ac/institutes/grid.473115.5.. http://www.engieresources.com/............... 
+	http://www.grid.ac/institutes/grid.473115.5.. ENGIE........................................ 
+	http://www.grid.ac/institutes/grid.473115.5.. GDF Suez (United States)..................... 
+	http://www.grid.ac/institutes/grid.436400.5.. GDF Suez (United Kingdom).................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.425752.3', '1:grid.424921.8'), ('3:grid.473115.5', '1:grid.424921.8'), ('3:grid.473115.5', '2:grid.425752.3'), ('4:grid.436400.5', '1:grid.424921.8'), ('4:grid.436400.5', '2:grid.425752.3'), ('4:grid.436400.5', '3:grid.473115.5')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

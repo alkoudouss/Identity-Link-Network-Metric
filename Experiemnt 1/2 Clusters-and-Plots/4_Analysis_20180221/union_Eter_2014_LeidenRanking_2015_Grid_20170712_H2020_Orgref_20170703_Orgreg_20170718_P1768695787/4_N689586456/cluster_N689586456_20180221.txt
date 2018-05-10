@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 17495 
+NAME    N689586456
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.255936.e>
+	<http://www.grid.ac/institutes/grid.261915.8>
+	<http://risis.eu/orgref_20170703/resource/1232825>
+	<http://risis.eu/orgref_20170703/resource/753577>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.255936.e....... http://risis.eu/orgref_20170703/resource/753577... 1................................................. [Fitchburg State University] was compared to [Fitchburg State University] 
+	http://risis.eu/orgref_20170703/resource/753577... http://www.grid.ac/institutes/grid.255936.e....... 1................................................. [Fitchburg State University] was compared to [Fitchburg State University] 
+	http://www.grid.ac/institutes/grid.261915.8....... http://risis.eu/orgref_20170703/resource/1232825.. 1................................................. [Pittsburg State University] was compared to [Pittsburg State University] 
+	http://risis.eu/orgref_20170703/resource/1232825.. http://www.grid.ac/institutes/grid.261915.8....... 1................................................. [Pittsburg State University] was compared to [Pittsburg State University] 
+	http://risis.eu/orgref_20170703/resource/1232825.. http://risis.eu/orgref_20170703/resource/753577... 0.884615384615.................................... [Pittsburg State University] was compared to [Fitchburg State University] 
+	http://risis.eu/orgref_20170703/resource/753577... http://risis.eu/orgref_20170703/resource/1232825.. 0.884615384615.................................... [Pittsburg State University] was compared to [Fitchburg State University] 
+	http://www.grid.ac/institutes/grid.255936.e....... http://www.grid.ac/institutes/grid.261915.8....... 0.884615384615.................................... [Fitchburg State University] was compared to [Pittsburg State University] 
+	http://www.grid.ac/institutes/grid.261915.8....... http://www.grid.ac/institutes/grid.255936.e....... 0.884615384615.................................... [Fitchburg State University] was compared to [Pittsburg State University] 
+	http://www.grid.ac/institutes/grid.255936.e....... http://risis.eu/orgref_20170703/resource/1232825.. 0.884615384615.................................... [Fitchburg State University] was compared to [Pittsburg State University] 
+	http://risis.eu/orgref_20170703/resource/1232825.. http://www.grid.ac/institutes/grid.255936.e....... 0.884615384615.................................... [Fitchburg State University] was compared to [Pittsburg State University] 
+	http://www.grid.ac/institutes/grid.261915.8....... http://risis.eu/orgref_20170703/resource/753577... 0.884615384615.................................... [Pittsburg State University] was compared to [Fitchburg State University] 
+	http://risis.eu/orgref_20170703/resource/753577... http://www.grid.ac/institutes/grid.261915.8....... 0.884615384615.................................... [Pittsburg State University] was compared to [Fitchburg State University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.255936.e....... -71.78917......................................... 
+	http://www.grid.ac/institutes/grid.255936.e....... 42.58886.......................................... 
+	http://www.grid.ac/institutes/grid.255936.e....... http://www.fitchburgstate.edu/.................... 
+	http://www.grid.ac/institutes/grid.255936.e....... Fitchburg State................................... 
+	http://www.grid.ac/institutes/grid.255936.e....... Fitchburg State University........................ 
+	http://www.grid.ac/institutes/grid.261915.8....... -94.7024.......................................... 
+	http://www.grid.ac/institutes/grid.261915.8....... 37.3913........................................... 
+	http://www.grid.ac/institutes/grid.261915.8....... http://www.pittstate.edu/......................... 
+	http://www.grid.ac/institutes/grid.261915.8....... Pittsburg State University........................ 
+	http://risis.eu/orgref_20170703/resource/1232825.. http://en.wikipedia.org/wiki?curid=1232825........ 
+	http://risis.eu/orgref_20170703/resource/1232825.. http://www.wikidata.org/wiki/Q2097334............. 
+	http://risis.eu/orgref_20170703/resource/1232825.. http://www.pittstate.edu.......................... 
+	http://risis.eu/orgref_20170703/resource/1232825.. Pittsburg State University........................ 
+	http://risis.eu/orgref_20170703/resource/753577... http://en.wikipedia.org/wiki?curid=753577......... 
+	http://risis.eu/orgref_20170703/resource/753577... http://www.wikidata.org/wiki/Q4982087............. 
+	http://risis.eu/orgref_20170703/resource/753577... http://www.fitchburgstate.edu..................... 
+	http://risis.eu/orgref_20170703/resource/753577... Fitchburg State University........................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.261915.8', '1:grid.255936.e'), ('3:1232825', '1:grid.255936.e'), ('3:1232825', '2:grid.261915.8'), ('4:753577', '1:grid.255936.e'), ('4:753577', '2:grid.261915.8'), ('4:753577', '3:1232825')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

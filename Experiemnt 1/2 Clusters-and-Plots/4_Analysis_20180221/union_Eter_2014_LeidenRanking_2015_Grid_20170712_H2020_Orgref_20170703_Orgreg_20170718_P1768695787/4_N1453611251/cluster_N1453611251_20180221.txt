@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 16993 
+NAME    N1453611251
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/25164846>
+	<http://risis.eu/cordisH2020/resource/participant_999978821>
+	<http://risis.eu/leidenRanking_2015/resource/7373>
+	<http://www.grid.ac/institutes/grid.416651.1>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/25164846........... http://www.grid.ac/institutes/grid.416651.1................. 1........................................................... [Istituto Superiore di Sanità] was compared to [Istituto Superiore di Sanità] 
+	http://www.grid.ac/institutes/grid.416651.1................. http://risis.eu/orgref_20170703/resource/25164846........... 1........................................................... [Istituto Superiore di Sanità] was compared to [Istituto Superiore di Sanità] 
+	http://risis.eu/leidenRanking_2015/resource/7373............ http://www.grid.ac/institutes/grid.416651.1................. 0.964285714286.............................................. [Istituto Superiore di Sanità] was compared to [Istituto Superiore di Sanit�] 
+	http://www.grid.ac/institutes/grid.416651.1................. http://risis.eu/leidenRanking_2015/resource/7373............ 0.964285714286.............................................. [Istituto Superiore di Sanità] was compared to [Istituto Superiore di Sanit�] 
+	http://risis.eu/cordisH2020/resource/participant_999978821.. http://www.grid.ac/institutes/grid.416651.1................. 1........................................................... [Istituto Superiore di Sanità] was compared to [ISTITUTO SUPERIORE DI SANITA] 
+	http://www.grid.ac/institutes/grid.416651.1................. http://risis.eu/cordisH2020/resource/participant_999978821.. 1........................................................... [Istituto Superiore di Sanità] was compared to [ISTITUTO SUPERIORE DI SANITA] 
+	http://risis.eu/orgref_20170703/resource/25164846........... http://risis.eu/leidenRanking_2015/resource/7373............ 0.964285714286.............................................. [Istituto Superiore di Sanità] was compared to [Istituto Superiore di Sanit�] 
+	http://risis.eu/leidenRanking_2015/resource/7373............ http://risis.eu/orgref_20170703/resource/25164846........... 0.964285714286.............................................. [Istituto Superiore di Sanità] was compared to [Istituto Superiore di Sanit�] 
+	http://risis.eu/orgref_20170703/resource/25164846........... http://risis.eu/cordisH2020/resource/participant_999978821.. 1........................................................... [Istituto Superiore di Sanità] was compared to [ISTITUTO SUPERIORE DI SANITA] 
+	http://risis.eu/cordisH2020/resource/participant_999978821.. http://risis.eu/orgref_20170703/resource/25164846........... 1........................................................... [Istituto Superiore di Sanità] was compared to [ISTITUTO SUPERIORE DI SANITA] 
+	http://risis.eu/cordisH2020/resource/participant_999978821.. http://risis.eu/leidenRanking_2015/resource/7373............ 0.964285714286.............................................. [ISTITUTO SUPERIORE DI SANITA] was compared to [Istituto Superiore di Sanit�] 
+	http://risis.eu/leidenRanking_2015/resource/7373............ http://risis.eu/cordisH2020/resource/participant_999978821.. 0.964285714286.............................................. [ISTITUTO SUPERIORE DI SANITA] was compared to [Istituto Superiore di Sanit�] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/25164846........... http://en.wikipedia.org/wiki?curid=25164846................. 
+	http://risis.eu/orgref_20170703/resource/25164846........... http://www.wikidata.org/wiki/Q3803682....................... 
+	http://risis.eu/orgref_20170703/resource/25164846........... http://www.iss.it/chis/?lang=2.............................. 
+	http://risis.eu/orgref_20170703/resource/25164846........... Istituto Superiore di Sanità............................... 
+	http://risis.eu/cordisH2020/resource/participant_999978821.. http://www.iss.it........................................... 
+	http://risis.eu/cordisH2020/resource/participant_999978821.. ISTITUTO SUPERIORE DI SANITA................................ 
+	http://risis.eu/leidenRanking_2015/resource/7373............ Istituto Superiore di Sanit�.............................. 
+	http://www.grid.ac/institutes/grid.416651.1................. 12.518499................................................... 
+	http://www.grid.ac/institutes/grid.416651.1................. 41.903923................................................... 
+	http://www.grid.ac/institutes/grid.416651.1................. http://www.iss.it/chis/?lang=2.............................. 
+	http://www.grid.ac/institutes/grid.416651.1................. Istituto Superiore di Sanità............................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:25164846', '4:grid.416651.1'), ('2:participant_999978821', '1:25164846'), ('3:7373', '1:25164846'), ('3:7373', '2:participant_999978821'), ('3:7373', '4:grid.416651.1'), ('4:grid.416651.1', '2:participant_999978821')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

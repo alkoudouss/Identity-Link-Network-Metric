@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 6034 
+NAME    N1035444518
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.112471.0>
+	<http://www.grid.ac/institutes/grid.445433.1>
+	<http://risis.eu/orgref_20170703/resource/47000416>
+	<http://risis.eu/orgref_20170703/resource/22950892>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.112471.0........ http://www.grid.ac/institutes/grid.445433.1........ 0.970588235294..................................... [Tomsk State Pedagogical University] was compared to [Omsk State Pedagogical University] 
+	http://www.grid.ac/institutes/grid.445433.1........ http://www.grid.ac/institutes/grid.112471.0........ 0.970588235294..................................... [Tomsk State Pedagogical University] was compared to [Omsk State Pedagogical University] 
+	http://www.grid.ac/institutes/grid.112471.0........ http://risis.eu/orgref_20170703/resource/47000416.. 1.................................................. [Tomsk State Pedagogical University] was compared to [Tomsk State Pedagogical University] 
+	http://risis.eu/orgref_20170703/resource/47000416.. http://www.grid.ac/institutes/grid.112471.0........ 1.................................................. [Tomsk State Pedagogical University] was compared to [Tomsk State Pedagogical University] 
+	http://www.grid.ac/institutes/grid.112471.0........ http://risis.eu/orgref_20170703/resource/22950892.. 0.970588235294..................................... [Tomsk State Pedagogical University] was compared to [Omsk State Pedagogical University] 
+	http://risis.eu/orgref_20170703/resource/22950892.. http://www.grid.ac/institutes/grid.112471.0........ 0.970588235294..................................... [Tomsk State Pedagogical University] was compared to [Omsk State Pedagogical University] 
+	http://www.grid.ac/institutes/grid.445433.1........ http://risis.eu/orgref_20170703/resource/47000416.. 0.970588235294..................................... [Omsk State Pedagogical University] was compared to [Tomsk State Pedagogical University] 
+	http://risis.eu/orgref_20170703/resource/47000416.. http://www.grid.ac/institutes/grid.445433.1........ 0.970588235294..................................... [Omsk State Pedagogical University] was compared to [Tomsk State Pedagogical University] 
+	http://www.grid.ac/institutes/grid.445433.1........ http://risis.eu/orgref_20170703/resource/22950892.. 1.................................................. [Omsk State Pedagogical University] was compared to [Omsk State Pedagogical University] 
+	http://risis.eu/orgref_20170703/resource/22950892.. http://www.grid.ac/institutes/grid.445433.1........ 1.................................................. [Omsk State Pedagogical University] was compared to [Omsk State Pedagogical University] 
+	http://risis.eu/orgref_20170703/resource/47000416.. http://risis.eu/orgref_20170703/resource/22950892.. 0.970588235294..................................... [Omsk State Pedagogical University] was compared to [Tomsk State Pedagogical University] 
+	http://risis.eu/orgref_20170703/resource/22950892.. http://risis.eu/orgref_20170703/resource/47000416.. 0.970588235294..................................... [Omsk State Pedagogical University] was compared to [Tomsk State Pedagogical University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.112471.0........ 84.97667........................................... 
+	http://www.grid.ac/institutes/grid.112471.0........ 56.47389........................................... 
+	http://www.grid.ac/institutes/grid.112471.0........ http://www.tspu.edu.ru/............................ 
+	http://www.grid.ac/institutes/grid.112471.0........ Tomsk State Pedagogical University................. 
+	http://www.grid.ac/institutes/grid.445433.1........ Omsk State Pedagogical University.................. 
+	http://risis.eu/orgref_20170703/resource/47000416.. http://en.wikipedia.org/wiki?curid=5607818......... 
+	http://risis.eu/orgref_20170703/resource/47000416.. http://www.wikidata.org/wiki/Q1239515.............. 
+	http://risis.eu/orgref_20170703/resource/47000416.. http://www.tspu.edu.ru............................. 
+	http://risis.eu/orgref_20170703/resource/47000416.. Tomsk State Pedagogical University................. 
+	http://risis.eu/orgref_20170703/resource/22950892.. http://en.wikipedia.org/wiki?curid=22950892........ 
+	http://risis.eu/orgref_20170703/resource/22950892.. http://www.wikidata.org/wiki/Q1166885.............. 
+	http://risis.eu/orgref_20170703/resource/22950892.. http://www.omgpu.ru................................ 
+	http://risis.eu/orgref_20170703/resource/22950892.. Omsk State Pedagogical University.................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.445433.1', '1:grid.112471.0'), ('3:47000416', '1:grid.112471.0'), ('3:47000416', '2:grid.445433.1'), ('4:22950892', '1:grid.112471.0'), ('4:22950892', '2:grid.445433.1'), ('4:22950892', '3:47000416')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

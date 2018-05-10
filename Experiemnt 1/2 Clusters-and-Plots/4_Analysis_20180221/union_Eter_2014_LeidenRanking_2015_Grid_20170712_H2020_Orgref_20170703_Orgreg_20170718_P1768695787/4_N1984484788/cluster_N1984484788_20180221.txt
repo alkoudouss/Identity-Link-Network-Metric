@@ -1,0 +1,69 @@
+SIZE    4   
+CLUSTER 5263 
+NAME    N1984484788
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.445550.5>
+	<http://risis.eu/orgref_20170703/resource/218993>
+	<http://www.grid.ac/institutes/grid.421653.7>
+	<http://risis.eu/eter_2014/resource/UK0099>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.445550.5...... http://www.grid.ac/institutes/grid.421653.7...... 1................................................ [Royal Academy of Music] was compared to [Royal Academy of Music] 
+	http://www.grid.ac/institutes/grid.421653.7...... http://www.grid.ac/institutes/grid.445550.5...... 1................................................ [Royal Academy of Music] was compared to [Royal Academy of Music] 
+	http://risis.eu/orgref_20170703/resource/218993.. http://www.grid.ac/institutes/grid.421653.7...... 1................................................ [Royal Academy of Music] was compared to [Royal Academy of Music] 
+	http://www.grid.ac/institutes/grid.421653.7...... http://risis.eu/orgref_20170703/resource/218993.. 1................................................ [Royal Academy of Music] was compared to [Royal Academy of Music] 
+	http://www.grid.ac/institutes/grid.445550.5...... http://risis.eu/orgref_20170703/resource/218993.. 1................................................ [Royal Academy of Music] was compared to [Royal Academy of Music] 
+	http://risis.eu/orgref_20170703/resource/218993.. http://www.grid.ac/institutes/grid.445550.5...... 1................................................ [Royal Academy of Music] was compared to [Royal Academy of Music] 
+	http://www.grid.ac/institutes/grid.421653.7...... http://risis.eu/eter_2014/resource/UK0099........ 1................................................ [Royal Academy of Music] was compared to [Royal Academy of Music] 
+	http://risis.eu/eter_2014/resource/UK0099........ http://www.grid.ac/institutes/grid.421653.7...... 1................................................ [Royal Academy of Music] was compared to [Royal Academy of Music] 
+	http://www.grid.ac/institutes/grid.445550.5...... http://risis.eu/eter_2014/resource/UK0099........ 1................................................ [Royal Academy of Music] was compared to [Royal Academy of Music] 
+	http://risis.eu/eter_2014/resource/UK0099........ http://www.grid.ac/institutes/grid.445550.5...... 1................................................ [Royal Academy of Music] was compared to [Royal Academy of Music] 
+	http://risis.eu/orgref_20170703/resource/218993.. http://risis.eu/eter_2014/resource/UK0099........ 1................................................ [Royal Academy of Music] was compared to [Royal Academy of Music] 
+	http://risis.eu/eter_2014/resource/UK0099........ http://risis.eu/orgref_20170703/resource/218993.. 1................................................ [Royal Academy of Music] was compared to [Royal Academy of Music] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.445550.5...... 10.197554........................................ 
+	http://www.grid.ac/institutes/grid.445550.5...... 56.153362........................................ 
+	http://www.grid.ac/institutes/grid.445550.5...... https://www.musikkons.dk/index.php?id=13......... 
+	http://www.grid.ac/institutes/grid.445550.5...... Det Jyske Musikkonservatorium.................... 
+	http://www.grid.ac/institutes/grid.445550.5...... Royal Academy of Music........................... 
+	http://risis.eu/orgref_20170703/resource/218993.. http://en.wikipedia.org/wiki?curid=218993........ 
+	http://risis.eu/orgref_20170703/resource/218993.. http://www.wikidata.org/wiki/Q1144673............ 
+	http://risis.eu/orgref_20170703/resource/218993.. http://www.ram.ac.uk............................. 
+	http://risis.eu/orgref_20170703/resource/218993.. Royal Academy of Music........................... 
+	http://www.grid.ac/institutes/grid.421653.7...... -0.151944........................................ 
+	http://www.grid.ac/institutes/grid.421653.7...... 51.52361......................................... 
+	http://www.grid.ac/institutes/grid.421653.7...... http://www.ram.ac.uk/............................ 
+	http://www.grid.ac/institutes/grid.421653.7...... Royal Academy of Music........................... 
+	http://risis.eu/eter_2014/resource/UK0099........ 51,523615........................................ 
+	http://risis.eu/eter_2014/resource/UK0099........ -0,151753........................................ 
+	http://risis.eu/eter_2014/resource/UK0099........ http://www.ram.ac.uk/............................ 
+	http://risis.eu/eter_2014/resource/UK0099........ a................................................ 
+	http://risis.eu/eter_2014/resource/UK0099........ Royal Academy of Music........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.445550.5', '3:grid.421653.7'), ('2:218993', '1:grid.445550.5'), ('2:218993', '3:grid.421653.7'), ('4:UK0099', '1:grid.445550.5'), ('4:UK0099', '2:218993'), ('4:UK0099', '3:grid.421653.7')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

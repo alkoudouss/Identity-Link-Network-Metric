@@ -1,0 +1,54 @@
+SIZE    3   
+CLUSTER 238 
+NAME    N820089225
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/HR1002>
+	<http://www.grid.ac/institutes/grid.469978.d>
+	<http://www.grid.ac/institutes/grid.424368.f>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/HR1002.. http://www.grid.ac/institutes/grid.424368.f...... 1................................................ Near each other by at most 2000 meter(s)......... 
+	http://risis.eu/orgreg_20170718/resource/HR1002.. http://www.grid.ac/institutes/grid.469978.d...... 1................................................ Near each other by at most 2000 meter(s)......... 
+	http://www.grid.ac/institutes/grid.469978.d...... http://risis.eu/orgreg_20170718/resource/HR1002.. 1................................................ Near each other by at most 2000 meter(s)......... 
+	http://www.grid.ac/institutes/grid.424368.f...... http://risis.eu/orgreg_20170718/resource/HR1002.. 1................................................ Near each other by at most 2000 meter(s)......... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/HR1002.. 15.979681........................................ 
+	http://risis.eu/orgreg_20170718/resource/HR1002.. 45.774686........................................ 
+	http://risis.eu/orgreg_20170718/resource/HR1002.. http://www.hrbi.hr/index.php/en/................. 
+	http://risis.eu/orgreg_20170718/resource/HR1002.. Brodarski Institute.............................. 
+	http://www.grid.ac/institutes/grid.469978.d...... 15.981195........................................ 
+	http://www.grid.ac/institutes/grid.469978.d...... 45.782524........................................ 
+	http://www.grid.ac/institutes/grid.469978.d...... http://www.gsk.com/.............................. 
+	http://www.grid.ac/institutes/grid.469978.d...... GlaxoSmithKline (Croatia)........................ 
+	http://www.grid.ac/institutes/grid.424368.f...... 15.979868........................................ 
+	http://www.grid.ac/institutes/grid.424368.f...... 45.775394........................................ 
+	http://www.grid.ac/institutes/grid.424368.f...... http://www.hrbi.hr/index.php/en/................. 
+	http://www.grid.ac/institutes/grid.424368.f...... Brodarski Institute.............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('P2033721938-HR1002', 'N820089225-grid.424368.f'), ('P2033721938-HR1002', 'P522223747-grid.469978.d')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

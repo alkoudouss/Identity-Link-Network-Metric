@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 1084 
+NAME    N2101597358
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.460523.6>
+	<http://risis.eu/eter_2014/resource/PL0116>
+	<http://www.grid.ac/institutes/grid.467023.4>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.460523.6.. http://risis.eu/eter_2014/resource/PL0116.... 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/PL0116.... http://www.grid.ac/institutes/grid.460523.6.. 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/PL0116.... http://www.grid.ac/institutes/grid.467023.4.. 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://www.grid.ac/institutes/grid.467023.4.. http://risis.eu/eter_2014/resource/PL0116.... 1............................................ Near each other by at most 2000 meter(s)..... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.460523.6.. 18.232878.................................... 
+	http://www.grid.ac/institutes/grid.460523.6.. 50.09379..................................... 
+	http://www.grid.ac/institutes/grid.460523.6.. http://www.sglgroup.com/..................... 
+	http://www.grid.ac/institutes/grid.460523.6.. SGL Group (Poland)........................... 
+	http://risis.eu/eter_2014/resource/PL0116.... 50,090221.................................... 
+	http://risis.eu/eter_2014/resource/PL0116.... 18,214835.................................... 
+	http://risis.eu/eter_2014/resource/PL0116.... http://www.pwsz.raciborz.edu.pl/............. 
+	http://risis.eu/eter_2014/resource/PL0116.... a............................................ 
+	http://risis.eu/eter_2014/resource/PL0116.... State Higher Vocational School in Racibórz.. 
+	http://risis.eu/eter_2014/resource/PL0116.... Państwowa Wyższa Szkoła Zawodowa w Raciborzu 
+	http://www.grid.ac/institutes/grid.467023.4.. 18.205418.................................... 
+	http://www.grid.ac/institutes/grid.467023.4.. 50.086704.................................... 
+	http://www.grid.ac/institutes/grid.467023.4.. http://www.pwsz.raciborz.edu.pl/............. 
+	http://www.grid.ac/institutes/grid.467023.4.. Państwowa Wyższa Szkoła Zawodowa w Raciborzu 
+
+NETWORK ANALYSIS
+	NETWORK [('N2101597358-PL0116', 'P65780056-grid.460523.6'), ('N2101597358-PL0116', 'P1629515906-grid.467023.4')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

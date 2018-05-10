@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 2486 
+NAME    N201287616
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/4365707>
+	<http://risis.eu/eter_2014/resource/TR0030>
+	<http://risis.eu/leidenRanking_2015/resource/1011>
+	<http://www.grid.ac/institutes/grid.412364.6>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/4365707.. http://www.grid.ac/institutes/grid.412364.6....... 1................................................. [Çanakkale Onsekiz Mart University] was compared to [Çanakkale Onsekiz Mart University] 
+	http://www.grid.ac/institutes/grid.412364.6....... http://risis.eu/orgref_20170703/resource/4365707.. 1................................................. [Çanakkale Onsekiz Mart University] was compared to [Çanakkale Onsekiz Mart University] 
+	http://risis.eu/leidenRanking_2015/resource/1011.. http://www.grid.ac/institutes/grid.412364.6....... 0.969696969697.................................... [Çanakkale Onsekiz Mart University] was compared to [�anakkale Onsekiz Mart University] 
+	http://www.grid.ac/institutes/grid.412364.6....... http://risis.eu/leidenRanking_2015/resource/1011.. 0.969696969697.................................... [Çanakkale Onsekiz Mart University] was compared to [�anakkale Onsekiz Mart University] 
+	http://risis.eu/eter_2014/resource/TR0030......... http://www.grid.ac/institutes/grid.412364.6....... 0.914285714286.................................... [Çanakkale Onsekiz Mart University] was compared to [ÇANAKKALE ONSEKIZ MART ÜNIVERSITESI] 
+	http://www.grid.ac/institutes/grid.412364.6....... http://risis.eu/eter_2014/resource/TR0030......... 0.914285714286.................................... [Çanakkale Onsekiz Mart University] was compared to [ÇANAKKALE ONSEKIZ MART ÜNIVERSITESI] 
+	http://risis.eu/orgref_20170703/resource/4365707.. http://risis.eu/eter_2014/resource/TR0030......... 0.914285714286.................................... [Çanakkale Onsekiz Mart University] was compared to [ÇANAKKALE ONSEKIZ MART ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0030......... http://risis.eu/orgref_20170703/resource/4365707.. 0.914285714286.................................... [Çanakkale Onsekiz Mart University] was compared to [ÇANAKKALE ONSEKIZ MART ÜNIVERSITESI] 
+	http://risis.eu/orgref_20170703/resource/4365707.. http://risis.eu/leidenRanking_2015/resource/1011.. 0.969696969697.................................... [Çanakkale Onsekiz Mart University] was compared to [�anakkale Onsekiz Mart University] 
+	http://risis.eu/leidenRanking_2015/resource/1011.. http://risis.eu/orgref_20170703/resource/4365707.. 0.969696969697.................................... [Çanakkale Onsekiz Mart University] was compared to [�anakkale Onsekiz Mart University] 
+	http://risis.eu/eter_2014/resource/TR0030......... http://risis.eu/leidenRanking_2015/resource/1011.. 0.885714285714.................................... [ÇANAKKALE ONSEKIZ MART ÜNIVERSITESI] was compared to [�anakkale Onsekiz Mart University] 
+	http://risis.eu/leidenRanking_2015/resource/1011.. http://risis.eu/eter_2014/resource/TR0030......... 0.885714285714.................................... [ÇANAKKALE ONSEKIZ MART ÜNIVERSITESI] was compared to [�anakkale Onsekiz Mart University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/4365707.. http://en.wikipedia.org/wiki?curid=4365707........ 
+	http://risis.eu/orgref_20170703/resource/4365707.. http://www.wikidata.org/wiki/Q272576.............. 
+	http://risis.eu/orgref_20170703/resource/4365707.. http://www.comu.edu.tr/english.................... 
+	http://risis.eu/orgref_20170703/resource/4365707.. Çanakkale Onsekiz Mart University................ 
+	http://risis.eu/eter_2014/resource/TR0030......... 40,137341......................................... 
+	http://risis.eu/eter_2014/resource/TR0030......... 26,425291......................................... 
+	http://risis.eu/eter_2014/resource/TR0030......... http://www.comu.edu.tr............................ 
+	http://risis.eu/eter_2014/resource/TR0030......... a................................................. 
+	http://risis.eu/eter_2014/resource/TR0030......... Canakkale Onsekiz Mart University................. 
+	http://risis.eu/eter_2014/resource/TR0030......... ÇANAKKALE ONSEKIZ MART ÜNIVERSITESI............. 
+	http://risis.eu/leidenRanking_2015/resource/1011.. �anakkale Onsekiz Mart University............... 
+	http://www.grid.ac/institutes/grid.412364.6....... 26.4087........................................... 
+	http://www.grid.ac/institutes/grid.412364.6....... 40.1137........................................... 
+	http://www.grid.ac/institutes/grid.412364.6....... http://www.comu.edu.tr/english/................... 
+	http://www.grid.ac/institutes/grid.412364.6....... Çanakkale Onsekiz Mart University................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:4365707', '4:grid.412364.6'), ('2:TR0030', '1:4365707'), ('3:1011', '1:4365707'), ('3:1011', '2:TR0030'), ('3:1011', '4:grid.412364.6'), ('4:grid.412364.6', '2:TR0030')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

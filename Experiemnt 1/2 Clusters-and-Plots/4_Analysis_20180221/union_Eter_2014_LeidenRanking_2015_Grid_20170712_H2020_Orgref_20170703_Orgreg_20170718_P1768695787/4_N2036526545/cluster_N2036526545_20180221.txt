@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 1204 
+NAME    N2036526545
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.443625.2>
+	<http://risis.eu/orgref_20170703/resource/18246460>
+	<http://www.grid.ac/institutes/grid.449678.0>
+	<http://risis.eu/orgref_20170703/resource/2016816>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.443625.2........ http://risis.eu/orgref_20170703/resource/18246460.. 1.................................................. [Fuji University] was compared to [Fuji University] 
+	http://risis.eu/orgref_20170703/resource/18246460.. http://www.grid.ac/institutes/grid.443625.2........ 1.................................................. [Fuji University] was compared to [Fuji University] 
+	http://www.grid.ac/institutes/grid.449678.0........ http://risis.eu/orgref_20170703/resource/2016816... 1.................................................. [University of Fiji] was compared to [University of Fiji] 
+	http://risis.eu/orgref_20170703/resource/2016816... http://www.grid.ac/institutes/grid.449678.0........ 1.................................................. [University of Fiji] was compared to [University of Fiji] 
+	http://risis.eu/orgref_20170703/resource/18246460.. http://risis.eu/orgref_20170703/resource/2016816... 0.933333333333..................................... [Fuji University] was compared to [University of Fiji] 
+	http://risis.eu/orgref_20170703/resource/2016816... http://risis.eu/orgref_20170703/resource/18246460.. 0.933333333333..................................... [Fuji University] was compared to [University of Fiji] 
+	http://www.grid.ac/institutes/grid.443625.2........ http://www.grid.ac/institutes/grid.449678.0........ 0.933333333333..................................... [Fuji University] was compared to [University of Fiji] 
+	http://www.grid.ac/institutes/grid.449678.0........ http://www.grid.ac/institutes/grid.443625.2........ 0.933333333333..................................... [Fuji University] was compared to [University of Fiji] 
+	http://www.grid.ac/institutes/grid.443625.2........ http://risis.eu/orgref_20170703/resource/2016816... 0.933333333333..................................... [Fuji University] was compared to [University of Fiji] 
+	http://risis.eu/orgref_20170703/resource/2016816... http://www.grid.ac/institutes/grid.443625.2........ 0.933333333333..................................... [Fuji University] was compared to [University of Fiji] 
+	http://risis.eu/orgref_20170703/resource/18246460.. http://www.grid.ac/institutes/grid.449678.0........ 0.933333333333..................................... [University of Fiji] was compared to [Fuji University] 
+	http://www.grid.ac/institutes/grid.449678.0........ http://risis.eu/orgref_20170703/resource/18246460.. 0.933333333333..................................... [University of Fiji] was compared to [Fuji University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.443625.2........ Fuji University.................................... 
+	http://risis.eu/orgref_20170703/resource/18246460.. http://en.wikipedia.org/wiki?curid=18246460........ 
+	http://risis.eu/orgref_20170703/resource/18246460.. http://www.wikidata.org/wiki/Q5507361.............. 
+	http://risis.eu/orgref_20170703/resource/18246460.. http://www.fuji-u.ac.jp............................ 
+	http://risis.eu/orgref_20170703/resource/18246460.. Fuji University.................................... 
+	http://www.grid.ac/institutes/grid.449678.0........ University of Fiji................................. 
+	http://risis.eu/orgref_20170703/resource/2016816... http://en.wikipedia.org/wiki?curid=2016816......... 
+	http://risis.eu/orgref_20170703/resource/2016816... http://www.wikidata.org/wiki/Q1707347.............. 
+	http://risis.eu/orgref_20170703/resource/2016816... http://www.unifiji.ac.fj........................... 
+	http://risis.eu/orgref_20170703/resource/2016816... University of Fiji................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:18246460', '1:grid.443625.2'), ('2:18246460', '3:grid.449678.0'), ('3:grid.449678.0', '1:grid.443625.2'), ('4:2016816', '1:grid.443625.2'), ('4:2016816', '2:18246460'), ('4:2016816', '3:grid.449678.0')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

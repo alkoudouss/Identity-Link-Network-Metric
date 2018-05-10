@@ -1,0 +1,60 @@
+SIZE    4   
+CLUSTER 5614 
+NAME    N568770848
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.410563.5>
+	<http://risis.eu/orgref_20170703/resource/5169811>
+	<http://risis.eu/orgreg_20170718/resource/BG0033>
+	<http://risis.eu/leidenRanking_2015/resource/898>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.410563.5....... http://risis.eu/orgref_20170703/resource/5169811.. 1................................................. [Medical University of Sofia] was compared to [Medical University, Sofia] 
+	http://risis.eu/orgref_20170703/resource/5169811.. http://www.grid.ac/institutes/grid.410563.5....... 1................................................. [Medical University of Sofia] was compared to [Medical University, Sofia] 
+	http://www.grid.ac/institutes/grid.410563.5....... http://risis.eu/leidenRanking_2015/resource/898... 1................................................. [Medical University of Sofia] was compared to [Medical University of Sofia] 
+	http://risis.eu/leidenRanking_2015/resource/898... http://www.grid.ac/institutes/grid.410563.5....... 1................................................. [Medical University of Sofia] was compared to [Medical University of Sofia] 
+	http://risis.eu/orgref_20170703/resource/5169811.. http://risis.eu/leidenRanking_2015/resource/898... 1................................................. [Medical University, Sofia] was compared to [Medical University of Sofia] 
+	http://risis.eu/leidenRanking_2015/resource/898... http://risis.eu/orgref_20170703/resource/5169811.. 1................................................. [Medical University, Sofia] was compared to [Medical University of Sofia] 
+	http://risis.eu/orgreg_20170718/resource/BG0033... http://risis.eu/leidenRanking_2015/resource/898... 0.96.............................................. [Medical university - Sofia] was compared to [Medical University of Sofia] 
+	http://risis.eu/leidenRanking_2015/resource/898... http://risis.eu/orgreg_20170718/resource/BG0033... 0.96.............................................. [Medical university - Sofia] was compared to [Medical University of Sofia] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.410563.5....... 23.30766.......................................... 
+	http://www.grid.ac/institutes/grid.410563.5....... 42.68347.......................................... 
+	http://www.grid.ac/institutes/grid.410563.5....... http://www.mu-sofia.bg/........................... 
+	http://www.grid.ac/institutes/grid.410563.5....... Medical University of Sofia....................... 
+	http://risis.eu/orgref_20170703/resource/5169811.. http://en.wikipedia.org/wiki?curid=5169811........ 
+	http://risis.eu/orgref_20170703/resource/5169811.. http://www.wikidata.org/wiki/Q1485112............. 
+	http://risis.eu/orgref_20170703/resource/5169811.. http://www.mu-sofia.bg............................ 
+	http://risis.eu/orgref_20170703/resource/5169811.. Medical University, Sofia......................... 
+	http://risis.eu/orgreg_20170718/resource/BG0033... 23.324564......................................... 
+	http://risis.eu/orgreg_20170718/resource/BG0033... 42.697821......................................... 
+	http://risis.eu/orgreg_20170718/resource/BG0033... http://www.mu-sofia.bg/en......................... 
+	http://risis.eu/orgreg_20170718/resource/BG0033... Medical university - Sofia........................ 
+	http://risis.eu/leidenRanking_2015/resource/898... Medical University of Sofia....................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:5169811', '1:grid.410563.5'), ('4:898', '1:grid.410563.5'), ('4:898', '2:5169811'), ('4:898', '3:BG0033')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

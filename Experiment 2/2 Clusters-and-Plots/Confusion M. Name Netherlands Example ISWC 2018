@@ -1,0 +1,345 @@
+C:\Users\Al\PycharmProjects\AlignmentUI\Scripts\python.exe C:/Users/Al/PycharmProjects/AlignmentUI/src/Alignments/Examples/LinkValidation/Experiment_Netherlands.py
+
+LINK NETWORK INVESTIGATION
+	THE FUNCTION I NOT ACTIVATED
+
+FILE [3_2_ClusterSheet_20180301.txt]  DOES NOT EXIST
+
+
+EVALUATION SHEET SUMMARY FOR: 4_2_ClusterSheet_20180301.txt
+
+MACHINE         GOOD    22	HUMAN         GOOD     22	TRUE POSITIVE      20	FALSE POSITIVE      2
+MACHINE          BAD     1	HUMAN          BAD      0	PRECISION       0.909	RECALL          0.909
+MACHINE   ACCEPTABLE     1	HUMAN   ACCEPTABLE      0	FALSE NEGATIVE      2	TRUE NEGATIVE       0
+MACHINE    UNCERTAIN     0	HUMAN    UNCERTAIN      2	F MEASURE       0.909
+TOTAL                   24	TOTAL                  24
+
+                   -----------------------------------
+                   |        24 GROUND TRUTHS         |
+ *** BASE LINE *** -----------------------------------
+                   |  GT Positive   |  GT Negative   |
+                   |       22       |       2        |
+---------------------------------------------------------------------------------------------------------
+        | Positive | True Positive  | False Positive |      Precision      | False discovery rate (FDR) |
+        |    24    |       22       |       2        |        0.917        |           0.083            |
+PREDICT -------------------------------------------------------------------------------------------------
+        | Negative | False Negative | True Negative  | False omission rate | Negative predictive value  |
+        |    0     |       0        |       0        |          -          |             -              |
+---------------------------------------------------------------------------------------------------------
+                   |     Recall     |    Fall-out    | P. Likelihood Ratio |   F1 score     Accuracy    |
+                   |      1.0       |      1.0       |       0.917         |     0.957        0.917     |
+                   --------------------------------------------------------------------------------------
+
+                   -----------------------------------
+                   |        24 GROUND TRUTHS         |
+                   -----------------------------------
+                   |  GT Positive   |  GT Negative   |
+                   |       22       |       2        |
+---------------------------------------------------------------------------------------------------------
+        | Positive | True Positive  | False Positive |      Precision      | False discovery rate (FDR) |
+        |    22    |       20       |       2        |        0.909        |           0.091            |
+PREDICT -------------------------------------------------------------------------------------------------
+        | Negative | False Negative | True Negative  | False omission rate | Negative predictive value  |
+        |    2     |       2        |       0        |         1.0         |            0.0             |
+---------------------------------------------------------------------------------------------------------
+                   |     Recall     |    Fall-out    | P. Likelihood Ratio |   F1 score     Accuracy    |
+                   |     0.909      |      1.0       |       0.909         |     0.909        0.833     |
+                   --------------------------------------------------------------------------------------
+Precision                  PPV   = Positive Predicted Value  = TP (TP + FP)
+Recall                     TPR   = True Positive Rate        = TP / GT
+False discovery rate       FDR   = Σ False positive / Σ Predicted condition positive
+Negative predictive value  NPV   = Σ True negative / Σ Predicted condition negative
+False omission rate        FOR   = Σ False negative / Σ Predicted condition negative
+Positive likelihood ratio  LR+   = TPR / FPR
+False positive rate        FPR   = Σ False positive / Σ Condition negative
+FPR a.k.a Fall-out, probability of false alarm
+
+EVALUATION SHEET SUMMARY FOR: 5_2_ClusterSheet_20180301.txt
+
+MACHINE         GOOD    14	HUMAN         GOOD     14	TRUE POSITIVE      13	FALSE POSITIVE      1
+MACHINE          BAD     1	HUMAN          BAD      1	PRECISION       0.929	RECALL          0.929
+MACHINE   ACCEPTABLE     0	HUMAN   ACCEPTABLE      0	FALSE NEGATIVE      1	TRUE NEGATIVE       0
+MACHINE    UNCERTAIN     0	HUMAN    UNCERTAIN      0	F MEASURE       0.929
+TOTAL                   15	TOTAL                  15
+
+                   -----------------------------------
+                   |        15 GROUND TRUTHS         |
+ *** BASE LINE *** -----------------------------------
+                   |  GT Positive   |  GT Negative   |
+                   |       14       |       1        |
+---------------------------------------------------------------------------------------------------------
+        | Positive | True Positive  | False Positive |      Precision      | False discovery rate (FDR) |
+        |    15    |       14       |       1        |        0.933        |           0.067            |
+PREDICT -------------------------------------------------------------------------------------------------
+        | Negative | False Negative | True Negative  | False omission rate | Negative predictive value  |
+        |    0     |       0        |       0        |          -          |             -              |
+---------------------------------------------------------------------------------------------------------
+                   |     Recall     |    Fall-out    | P. Likelihood Ratio |   F1 score     Accuracy    |
+                   |      1.0       |      1.0       |       0.933         |     0.966        0.933     |
+                   --------------------------------------------------------------------------------------
+
+                   -----------------------------------
+                   |        15 GROUND TRUTHS         |
+                   -----------------------------------
+                   |  GT Positive   |  GT Negative   |
+                   |       14       |       1        |
+---------------------------------------------------------------------------------------------------------
+        | Positive | True Positive  | False Positive |      Precision      | False discovery rate (FDR) |
+        |    14    |       13       |       1        |        0.929        |           0.071            |
+PREDICT -------------------------------------------------------------------------------------------------
+        | Negative | False Negative | True Negative  | False omission rate | Negative predictive value  |
+        |    1     |       1        |       0        |         1.0         |            0.0             |
+---------------------------------------------------------------------------------------------------------
+                   |     Recall     |    Fall-out    | P. Likelihood Ratio |   F1 score     Accuracy    |
+                   |     0.929      |      1.0       |       0.929         |     0.929        0.867     |
+                   --------------------------------------------------------------------------------------
+Precision                  PPV   = Positive Predicted Value  = TP (TP + FP)
+Recall                     TPR   = True Positive Rate        = TP / GT
+False discovery rate       FDR   = Σ False positive / Σ Predicted condition positive
+Negative predictive value  NPV   = Σ True negative / Σ Predicted condition negative
+False omission rate        FOR   = Σ False negative / Σ Predicted condition negative
+Positive likelihood ratio  LR+   = TPR / FPR
+False positive rate        FPR   = Σ False positive / Σ Condition negative
+FPR a.k.a Fall-out, probability of false alarm
+
+EVALUATION SHEET SUMMARY FOR: 6_2_ClusterSheet_20180301.txt
+
+MACHINE         GOOD    19	HUMAN         GOOD     16	TRUE POSITIVE      16	FALSE POSITIVE      3
+MACHINE          BAD     0	HUMAN          BAD      2	PRECISION       0.842	RECALL            1.0
+MACHINE   ACCEPTABLE     0	HUMAN   ACCEPTABLE      0	FALSE NEGATIVE      0	TRUE NEGATIVE       0
+MACHINE    UNCERTAIN     0	HUMAN    UNCERTAIN      0	F MEASURE       0.914
+TOTAL                   19	TOTAL                  18
+
+                   -----------------------------------
+                   |        19 GROUND TRUTHS         |
+ *** BASE LINE *** -----------------------------------
+                   |  GT Positive   |  GT Negative   |
+                   |       16       |       3        |
+---------------------------------------------------------------------------------------------------------
+        | Positive | True Positive  | False Positive |      Precision      | False discovery rate (FDR) |
+        |    19    |       16       |       3        |        0.842        |           0.158            |
+PREDICT -------------------------------------------------------------------------------------------------
+        | Negative | False Negative | True Negative  | False omission rate | Negative predictive value  |
+        |    0     |       0        |       0        |          -          |             -              |
+---------------------------------------------------------------------------------------------------------
+                   |     Recall     |    Fall-out    | P. Likelihood Ratio |   F1 score     Accuracy    |
+                   |      1.0       |      1.0       |       0.842         |     0.914        0.842     |
+                   --------------------------------------------------------------------------------------
+
+                   -----------------------------------
+                   |        19 GROUND TRUTHS         |
+                   -----------------------------------
+                   |  GT Positive   |  GT Negative   |
+                   |       16       |       3        |
+---------------------------------------------------------------------------------------------------------
+        | Positive | True Positive  | False Positive |      Precision      | False discovery rate (FDR) |
+        |    19    |       16       |       3        |        0.842        |           0.158            |
+PREDICT -------------------------------------------------------------------------------------------------
+        | Negative | False Negative | True Negative  | False omission rate | Negative predictive value  |
+        |    0     |       0        |       0        |          -          |             -              |
+---------------------------------------------------------------------------------------------------------
+                   |     Recall     |    Fall-out    | P. Likelihood Ratio |   F1 score     Accuracy    |
+                   |      1.0       |      1.0       |       0.842         |     0.914        0.842     |
+                   --------------------------------------------------------------------------------------
+Precision                  PPV   = Positive Predicted Value  = TP (TP + FP)
+Recall                     TPR   = True Positive Rate        = TP / GT
+False discovery rate       FDR   = Σ False positive / Σ Predicted condition positive
+Negative predictive value  NPV   = Σ True negative / Σ Predicted condition negative
+False omission rate        FOR   = Σ False negative / Σ Predicted condition negative
+Positive likelihood ratio  LR+   = TPR / FPR
+False positive rate        FPR   = Σ False positive / Σ Condition negative
+FPR a.k.a Fall-out, probability of false alarm
+
+EVALUATION SHEET SUMMARY FOR: 7_2_ClusterSheet_20180301.txt
+
+MACHINE         GOOD    10	HUMAN         GOOD     11	TRUE POSITIVE      10	FALSE POSITIVE      0
+MACHINE          BAD     0	HUMAN          BAD      1	PRECISION         1.0	RECALL          0.909
+MACHINE   ACCEPTABLE     1	HUMAN   ACCEPTABLE      0	FALSE NEGATIVE      1	TRUE NEGATIVE       1
+MACHINE    UNCERTAIN     1	HUMAN    UNCERTAIN      0	F MEASURE       0.952
+TOTAL                   12	TOTAL                  12
+
+                   -----------------------------------
+                   |        12 GROUND TRUTHS         |
+ *** BASE LINE *** -----------------------------------
+                   |  GT Positive   |  GT Negative   |
+                   |       11       |       1        |
+---------------------------------------------------------------------------------------------------------
+        | Positive | True Positive  | False Positive |      Precision      | False discovery rate (FDR) |
+        |    12    |       11       |       1        |        0.917        |           0.083            |
+PREDICT -------------------------------------------------------------------------------------------------
+        | Negative | False Negative | True Negative  | False omission rate | Negative predictive value  |
+        |    0     |       0        |       0        |          -          |             -              |
+---------------------------------------------------------------------------------------------------------
+                   |     Recall     |    Fall-out    | P. Likelihood Ratio |   F1 score     Accuracy    |
+                   |      1.0       |      1.0       |       0.917         |     0.957        0.917     |
+                   --------------------------------------------------------------------------------------
+
+                   -----------------------------------
+                   |        12 GROUND TRUTHS         |
+                   -----------------------------------
+                   |  GT Positive   |  GT Negative   |
+                   |       11       |       1        |
+---------------------------------------------------------------------------------------------------------
+        | Positive | True Positive  | False Positive |      Precision      | False discovery rate (FDR) |
+        |    10    |       10       |       0        |         1.0         |            0.0             |
+PREDICT -------------------------------------------------------------------------------------------------
+        | Negative | False Negative | True Negative  | False omission rate | Negative predictive value  |
+        |    2     |       1        |       1        |         0.5         |            0.5             |
+---------------------------------------------------------------------------------------------------------
+                   |     Recall     |    Fall-out    | P. Likelihood Ratio |   F1 score     Accuracy    |
+                   |     0.909      |      0.0       |         -           |     0.952        0.917     |
+                   --------------------------------------------------------------------------------------
+Precision                  PPV   = Positive Predicted Value  = TP (TP + FP)
+Recall                     TPR   = True Positive Rate        = TP / GT
+False discovery rate       FDR   = Σ False positive / Σ Predicted condition positive
+Negative predictive value  NPV   = Σ True negative / Σ Predicted condition negative
+False omission rate        FOR   = Σ False negative / Σ Predicted condition negative
+Positive likelihood ratio  LR+   = TPR / FPR
+False positive rate        FPR   = Σ False positive / Σ Condition negative
+FPR a.k.a Fall-out, probability of false alarm
+
+EVALUATION SHEET SUMMARY FOR: 8_2_ClusterSheet_20180301.txt
+
+MACHINE         GOOD     4	HUMAN         GOOD      4	TRUE POSITIVE       4	FALSE POSITIVE      0
+MACHINE          BAD     0	HUMAN          BAD      0	PRECISION         1.0	RECALL            1.0
+MACHINE   ACCEPTABLE     0	HUMAN   ACCEPTABLE      0	FALSE NEGATIVE      0	TRUE NEGATIVE       0
+MACHINE    UNCERTAIN     0	HUMAN    UNCERTAIN      0	F MEASURE         1.0
+TOTAL                    4	TOTAL                   4
+
+                   -----------------------------------
+                   |        4 GROUND TRUTHS          |
+ *** BASE LINE *** -----------------------------------
+                   |  GT Positive   |  GT Negative   |
+                   |       4        |       0        |
+---------------------------------------------------------------------------------------------------------
+        | Positive | True Positive  | False Positive |      Precision      | False discovery rate (FDR) |
+        |    4     |       4        |       0        |         1.0         |            0.0             |
+PREDICT -------------------------------------------------------------------------------------------------
+        | Negative | False Negative | True Negative  | False omission rate | Negative predictive value  |
+        |    0     |       0        |       0        |          -          |             -              |
+---------------------------------------------------------------------------------------------------------
+                   |     Recall     |    Fall-out    | P. Likelihood Ratio |   F1 score     Accuracy    |
+                   |      1.0       |       -        |         -           |      1.0          1.0      |
+                   --------------------------------------------------------------------------------------
+
+                   -----------------------------------
+                   |        4 GROUND TRUTHS          |
+                   -----------------------------------
+                   |  GT Positive   |  GT Negative   |
+                   |       4        |       0        |
+---------------------------------------------------------------------------------------------------------
+        | Positive | True Positive  | False Positive |      Precision      | False discovery rate (FDR) |
+        |    4     |       4        |       0        |         1.0         |            0.0             |
+PREDICT -------------------------------------------------------------------------------------------------
+        | Negative | False Negative | True Negative  | False omission rate | Negative predictive value  |
+        |    0     |       0        |       0        |          -          |             -              |
+---------------------------------------------------------------------------------------------------------
+                   |     Recall     |    Fall-out    | P. Likelihood Ratio |   F1 score     Accuracy    |
+                   |      1.0       |       -        |         -           |      1.0          1.0      |
+                   --------------------------------------------------------------------------------------
+Precision                  PPV   = Positive Predicted Value  = TP (TP + FP)
+Recall                     TPR   = True Positive Rate        = TP / GT
+False discovery rate       FDR   = Σ False positive / Σ Predicted condition positive
+Negative predictive value  NPV   = Σ True negative / Σ Predicted condition negative
+False omission rate        FOR   = Σ False negative / Σ Predicted condition negative
+Positive likelihood ratio  LR+   = TPR / FPR
+False positive rate        FPR   = Σ False positive / Σ Condition negative
+FPR a.k.a Fall-out, probability of false alarm
+
+EVALUATION SHEET SUMMARY FOR: 9_2_ClusterSheet_20180301.txt
+
+MACHINE         GOOD     8	HUMAN         GOOD      8	TRUE POSITIVE       8	FALSE POSITIVE      0
+MACHINE          BAD     1	HUMAN          BAD      1	PRECISION         1.0	RECALL            1.0
+MACHINE   ACCEPTABLE     0	HUMAN   ACCEPTABLE      0	FALSE NEGATIVE      0	TRUE NEGATIVE       1
+MACHINE    UNCERTAIN     0	HUMAN    UNCERTAIN      0	F MEASURE         1.0
+TOTAL                    9	TOTAL                   9
+
+                   -----------------------------------
+                   |        9 GROUND TRUTHS          |
+ *** BASE LINE *** -----------------------------------
+                   |  GT Positive   |  GT Negative   |
+                   |       8        |       1        |
+---------------------------------------------------------------------------------------------------------
+        | Positive | True Positive  | False Positive |      Precision      | False discovery rate (FDR) |
+        |    9     |       8        |       1        |        0.889        |           0.111            |
+PREDICT -------------------------------------------------------------------------------------------------
+        | Negative | False Negative | True Negative  | False omission rate | Negative predictive value  |
+        |    0     |       0        |       0        |          -          |             -              |
+---------------------------------------------------------------------------------------------------------
+                   |     Recall     |    Fall-out    | P. Likelihood Ratio |   F1 score     Accuracy    |
+                   |      1.0       |      1.0       |       0.889         |     0.941        0.889     |
+                   --------------------------------------------------------------------------------------
+
+                   -----------------------------------
+                   |        9 GROUND TRUTHS          |
+                   -----------------------------------
+                   |  GT Positive   |  GT Negative   |
+                   |       8        |       1        |
+---------------------------------------------------------------------------------------------------------
+        | Positive | True Positive  | False Positive |      Precision      | False discovery rate (FDR) |
+        |    8     |       8        |       0        |         1.0         |            0.0             |
+PREDICT -------------------------------------------------------------------------------------------------
+        | Negative | False Negative | True Negative  | False omission rate | Negative predictive value  |
+        |    1     |       0        |       1        |         0.0         |            1.0             |
+---------------------------------------------------------------------------------------------------------
+                   |     Recall     |    Fall-out    | P. Likelihood Ratio |   F1 score     Accuracy    |
+                   |      1.0       |      0.0       |         -           |      1.0          1.0      |
+                   --------------------------------------------------------------------------------------
+Precision                  PPV   = Positive Predicted Value  = TP (TP + FP)
+Recall                     TPR   = True Positive Rate        = TP / GT
+False discovery rate       FDR   = Σ False positive / Σ Predicted condition positive
+Negative predictive value  NPV   = Σ True negative / Σ Predicted condition negative
+False omission rate        FOR   = Σ False negative / Σ Predicted condition negative
+Positive likelihood ratio  LR+   = TPR / FPR
+False positive rate        FPR   = Σ False positive / Σ Condition negative
+FPR a.k.a Fall-out, probability of false alarm
+
+EVALUATION SHEET SUMMARY FOR: 10_2_ClusterSheet_20180301.txt
+
+MACHINE         GOOD     1	HUMAN         GOOD      1	TRUE POSITIVE       1	FALSE POSITIVE      0
+MACHINE          BAD     0	HUMAN          BAD      0	PRECISION         1.0	RECALL            1.0
+MACHINE   ACCEPTABLE     0	HUMAN   ACCEPTABLE      0	FALSE NEGATIVE      0	TRUE NEGATIVE       0
+MACHINE    UNCERTAIN     0	HUMAN    UNCERTAIN      0	F MEASURE         1.0
+TOTAL                    1	TOTAL                   1
+
+                   -----------------------------------
+                   |        1 GROUND TRUTHS          |
+ *** BASE LINE *** -----------------------------------
+                   |  GT Positive   |  GT Negative   |
+                   |       1        |       0        |
+---------------------------------------------------------------------------------------------------------
+        | Positive | True Positive  | False Positive |      Precision      | False discovery rate (FDR) |
+        |    1     |       1        |       0        |         1.0         |            0.0             |
+PREDICT -------------------------------------------------------------------------------------------------
+        | Negative | False Negative | True Negative  | False omission rate | Negative predictive value  |
+        |    0     |       0        |       0        |          -          |             -              |
+---------------------------------------------------------------------------------------------------------
+                   |     Recall     |    Fall-out    | P. Likelihood Ratio |   F1 score     Accuracy    |
+                   |      1.0       |       -        |         -           |      1.0          1.0      |
+                   --------------------------------------------------------------------------------------
+
+                   -----------------------------------
+                   |        1 GROUND TRUTHS          |
+                   -----------------------------------
+                   |  GT Positive   |  GT Negative   |
+                   |       1        |       0        |
+---------------------------------------------------------------------------------------------------------
+        | Positive | True Positive  | False Positive |      Precision      | False discovery rate (FDR) |
+        |    1     |       1        |       0        |         1.0         |            0.0             |
+PREDICT -------------------------------------------------------------------------------------------------
+        | Negative | False Negative | True Negative  | False omission rate | Negative predictive value  |
+        |    0     |       0        |       0        |          -          |             -              |
+---------------------------------------------------------------------------------------------------------
+                   |     Recall     |    Fall-out    | P. Likelihood Ratio |   F1 score     Accuracy    |
+                   |      1.0       |       -        |         -           |      1.0          1.0      |
+                   --------------------------------------------------------------------------------------
+Precision                  PPV   = Positive Predicted Value  = TP (TP + FP)
+Recall                     TPR   = True Positive Rate        = TP / GT
+False discovery rate       FDR   = Σ False positive / Σ Predicted condition positive
+Negative predictive value  NPV   = Σ True negative / Σ Predicted condition negative
+False omission rate        FOR   = Σ False negative / Σ Predicted condition negative
+Positive likelihood ratio  LR+   = TPR / FPR
+False positive rate        FPR   = Σ False positive / Σ Condition negative
+FPR a.k.a Fall-out, probability of false alarm
+
+Process finished with exit code 0

@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 7559 
+NAME    N849201418
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.468833.2>
+	<http://risis.eu/orgref_20170703/resource/3888279>
+	<http://risis.eu/orgref_20170703/resource/11925342>
+	<http://www.grid.ac/institutes/grid.422870.b>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/3888279... http://www.grid.ac/institutes/grid.422870.b........ 1.................................................. [Arizona Western College] was compared to [Arizona Western College] 
+	http://www.grid.ac/institutes/grid.422870.b........ http://risis.eu/orgref_20170703/resource/3888279... 1.................................................. [Arizona Western College] was compared to [Arizona Western College] 
+	http://www.grid.ac/institutes/grid.468833.2........ http://risis.eu/orgref_20170703/resource/11925342.. 1.................................................. [Eastern Arizona College] was compared to [Eastern Arizona College] 
+	http://risis.eu/orgref_20170703/resource/11925342.. http://www.grid.ac/institutes/grid.468833.2........ 1.................................................. [Eastern Arizona College] was compared to [Eastern Arizona College] 
+	http://risis.eu/orgref_20170703/resource/3888279... http://risis.eu/orgref_20170703/resource/11925342.. 0.913043478261..................................... [Eastern Arizona College] was compared to [Arizona Western College] 
+	http://risis.eu/orgref_20170703/resource/11925342.. http://risis.eu/orgref_20170703/resource/3888279... 0.913043478261..................................... [Eastern Arizona College] was compared to [Arizona Western College] 
+	http://www.grid.ac/institutes/grid.468833.2........ http://www.grid.ac/institutes/grid.422870.b........ 0.913043478261..................................... [Arizona Western College] was compared to [Eastern Arizona College] 
+	http://www.grid.ac/institutes/grid.422870.b........ http://www.grid.ac/institutes/grid.468833.2........ 0.913043478261..................................... [Arizona Western College] was compared to [Eastern Arizona College] 
+	http://risis.eu/orgref_20170703/resource/11925342.. http://www.grid.ac/institutes/grid.422870.b........ 0.913043478261..................................... [Arizona Western College] was compared to [Eastern Arizona College] 
+	http://www.grid.ac/institutes/grid.422870.b........ http://risis.eu/orgref_20170703/resource/11925342.. 0.913043478261..................................... [Arizona Western College] was compared to [Eastern Arizona College] 
+	http://www.grid.ac/institutes/grid.468833.2........ http://risis.eu/orgref_20170703/resource/3888279... 0.913043478261..................................... [Eastern Arizona College] was compared to [Arizona Western College] 
+	http://risis.eu/orgref_20170703/resource/3888279... http://www.grid.ac/institutes/grid.468833.2........ 0.913043478261..................................... [Eastern Arizona College] was compared to [Arizona Western College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.468833.2........ -109.76214......................................... 
+	http://www.grid.ac/institutes/grid.468833.2........ 32.84512........................................... 
+	http://www.grid.ac/institutes/grid.468833.2........ https://www.eac.edu/............................... 
+	http://www.grid.ac/institutes/grid.468833.2........ Eastern Arizona College............................ 
+	http://risis.eu/orgref_20170703/resource/3888279... http://en.wikipedia.org/wiki?curid=3888279......... 
+	http://risis.eu/orgref_20170703/resource/3888279... http://www.wikidata.org/wiki/Q4791459.............. 
+	http://risis.eu/orgref_20170703/resource/3888279... http://www.azwestern.edu........................... 
+	http://risis.eu/orgref_20170703/resource/3888279... Arizona Western College............................ 
+	http://risis.eu/orgref_20170703/resource/11925342.. http://en.wikipedia.org/wiki?curid=11925342........ 
+	http://risis.eu/orgref_20170703/resource/11925342.. http://www.wikidata.org/wiki/Q5329984.............. 
+	http://risis.eu/orgref_20170703/resource/11925342.. http://www.eac.edu................................. 
+	http://risis.eu/orgref_20170703/resource/11925342.. Eastern Arizona College............................ 
+	http://www.grid.ac/institutes/grid.422870.b........ -114.49513......................................... 
+	http://www.grid.ac/institutes/grid.422870.b........ 32.6896............................................ 
+	http://www.grid.ac/institutes/grid.422870.b........ https://www.azwestern.edu/......................... 
+	http://www.grid.ac/institutes/grid.422870.b........ Arizona Western College............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.468833.2', '4:grid.422870.b'), ('2:3888279', '1:grid.468833.2'), ('2:3888279', '3:11925342'), ('3:11925342', '1:grid.468833.2'), ('3:11925342', '4:grid.422870.b'), ('4:grid.422870.b', '2:3888279')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

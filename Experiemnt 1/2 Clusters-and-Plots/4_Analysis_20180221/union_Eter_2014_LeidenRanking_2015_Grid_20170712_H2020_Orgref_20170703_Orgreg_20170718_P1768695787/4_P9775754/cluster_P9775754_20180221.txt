@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 11414 
+NAME    P9775754
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.462951.d>
+	<http://risis.eu/orgref_20170703/resource/618285>
+	<http://www.grid.ac/institutes/grid.410428.b>
+	<http://risis.eu/orgref_20170703/resource/301604>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.462951.d...... http://www.grid.ac/institutes/grid.410428.b...... 0.818181818182................................... [Louisiana State University System] was compared to [University of Louisiana System] 
+	http://www.grid.ac/institutes/grid.410428.b...... http://www.grid.ac/institutes/grid.462951.d...... 0.818181818182................................... [Louisiana State University System] was compared to [University of Louisiana System] 
+	http://www.grid.ac/institutes/grid.410428.b...... http://risis.eu/orgref_20170703/resource/301604.. 1................................................ [Louisiana State University System] was compared to [Louisiana State University System] 
+	http://risis.eu/orgref_20170703/resource/301604.. http://www.grid.ac/institutes/grid.410428.b...... 1................................................ [Louisiana State University System] was compared to [Louisiana State University System] 
+	http://risis.eu/orgref_20170703/resource/618285.. http://www.grid.ac/institutes/grid.410428.b...... 0.818181818182................................... [Louisiana State University System] was compared to [University of Louisiana System] 
+	http://www.grid.ac/institutes/grid.410428.b...... http://risis.eu/orgref_20170703/resource/618285.. 0.818181818182................................... [Louisiana State University System] was compared to [University of Louisiana System] 
+	http://www.grid.ac/institutes/grid.462951.d...... http://risis.eu/orgref_20170703/resource/301604.. 0.818181818182................................... [University of Louisiana System] was compared to [Louisiana State University System] 
+	http://risis.eu/orgref_20170703/resource/301604.. http://www.grid.ac/institutes/grid.462951.d...... 0.818181818182................................... [University of Louisiana System] was compared to [Louisiana State University System] 
+	http://www.grid.ac/institutes/grid.462951.d...... http://risis.eu/orgref_20170703/resource/618285.. 1................................................ [University of Louisiana System] was compared to [University of Louisiana System] 
+	http://risis.eu/orgref_20170703/resource/618285.. http://www.grid.ac/institutes/grid.462951.d...... 1................................................ [University of Louisiana System] was compared to [University of Louisiana System] 
+	http://risis.eu/orgref_20170703/resource/618285.. http://risis.eu/orgref_20170703/resource/301604.. 0.818181818182................................... [Louisiana State University System] was compared to [University of Louisiana System] 
+	http://risis.eu/orgref_20170703/resource/301604.. http://risis.eu/orgref_20170703/resource/618285.. 0.818181818182................................... [Louisiana State University System] was compared to [University of Louisiana System] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.462951.d...... -91.18876........................................ 
+	http://www.grid.ac/institutes/grid.462951.d...... 30.459822........................................ 
+	http://www.grid.ac/institutes/grid.462951.d...... http://ulsystem.edu/............................. 
+	http://www.grid.ac/institutes/grid.462951.d...... UL System........................................ 
+	http://www.grid.ac/institutes/grid.462951.d...... University of Louisiana System................... 
+	http://risis.eu/orgref_20170703/resource/618285.. http://en.wikipedia.org/wiki?curid=618285........ 
+	http://risis.eu/orgref_20170703/resource/618285.. http://www.wikidata.org/wiki/Q2495858............ 
+	http://risis.eu/orgref_20170703/resource/618285.. University of Louisiana System................... 
+	http://www.grid.ac/institutes/grid.410428.b...... -91.172356....................................... 
+	http://www.grid.ac/institutes/grid.410428.b...... 30.403505........................................ 
+	http://www.grid.ac/institutes/grid.410428.b...... http://www.lsusystem.edu/........................ 
+	http://www.grid.ac/institutes/grid.410428.b...... Louisiana State University System................ 
+	http://risis.eu/orgref_20170703/resource/301604.. http://en.wikipedia.org/wiki?curid=301604........ 
+	http://risis.eu/orgref_20170703/resource/301604.. http://www.wikidata.org/wiki/Q1872233............ 
+	http://risis.eu/orgref_20170703/resource/301604.. Louisiana State University System................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:618285', '1:grid.462951.d'), ('2:618285', '3:grid.410428.b'), ('3:grid.410428.b', '1:grid.462951.d'), ('4:301604', '1:grid.462951.d'), ('4:301604', '2:618285'), ('4:301604', '3:grid.410428.b')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

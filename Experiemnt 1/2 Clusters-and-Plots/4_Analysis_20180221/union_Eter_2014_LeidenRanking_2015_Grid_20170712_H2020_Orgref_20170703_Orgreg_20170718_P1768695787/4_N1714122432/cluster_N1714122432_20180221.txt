@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 17067 
+NAME    N1714122432
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.425534.1>
+	<http://risis.eu/cordisH2020/resource/participant_999543194>
+	<http://risis.eu/orgref_20170703/resource/25110354>
+	<http://www.grid.ac/institutes/grid.454851.9>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.425534.1................. http://www.grid.ac/institutes/grid.454851.9................. 1........................................................... [National Research Foundation] was compared to [National Research Foundation] 
+	http://www.grid.ac/institutes/grid.454851.9................. http://www.grid.ac/institutes/grid.425534.1................. 1........................................................... [National Research Foundation] was compared to [National Research Foundation] 
+	http://www.grid.ac/institutes/grid.425534.1................. http://risis.eu/orgref_20170703/resource/25110354........... 1........................................................... [National Research Foundation] was compared to [National Research Foundation] 
+	http://risis.eu/orgref_20170703/resource/25110354........... http://www.grid.ac/institutes/grid.425534.1................. 1........................................................... [National Research Foundation] was compared to [National Research Foundation] 
+	http://risis.eu/orgref_20170703/resource/25110354........... http://www.grid.ac/institutes/grid.454851.9................. 1........................................................... [National Research Foundation] was compared to [National Research Foundation] 
+	http://www.grid.ac/institutes/grid.454851.9................. http://risis.eu/orgref_20170703/resource/25110354........... 1........................................................... [National Research Foundation] was compared to [National Research Foundation] 
+	http://www.grid.ac/institutes/grid.425534.1................. http://risis.eu/cordisH2020/resource/participant_999543194.. 1........................................................... [National Research Foundation] was compared to [NATIONAL RESEARCH FOUNDATION] 
+	http://risis.eu/cordisH2020/resource/participant_999543194.. http://www.grid.ac/institutes/grid.425534.1................. 1........................................................... [National Research Foundation] was compared to [NATIONAL RESEARCH FOUNDATION] 
+	http://risis.eu/cordisH2020/resource/participant_999543194.. http://www.grid.ac/institutes/grid.454851.9................. 1........................................................... [National Research Foundation] was compared to [NATIONAL RESEARCH FOUNDATION] 
+	http://www.grid.ac/institutes/grid.454851.9................. http://risis.eu/cordisH2020/resource/participant_999543194.. 1........................................................... [National Research Foundation] was compared to [NATIONAL RESEARCH FOUNDATION] 
+	http://risis.eu/cordisH2020/resource/participant_999543194.. http://risis.eu/orgref_20170703/resource/25110354........... 1........................................................... [National Research Foundation] was compared to [NATIONAL RESEARCH FOUNDATION] 
+	http://risis.eu/orgref_20170703/resource/25110354........... http://risis.eu/cordisH2020/resource/participant_999543194.. 1........................................................... [National Research Foundation] was compared to [NATIONAL RESEARCH FOUNDATION] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.425534.1................. 28.276865................................................... 
+	http://www.grid.ac/institutes/grid.425534.1................. -25.746948.................................................. 
+	http://www.grid.ac/institutes/grid.425534.1................. http://www.nrf.ac.za/....................................... 
+	http://www.grid.ac/institutes/grid.425534.1................. National Research Foundation................................ 
+	http://risis.eu/cordisH2020/resource/participant_999543194.. http://risis.eu/cordisH2020/resource/www.nrf.ac.za.......... 
+	http://risis.eu/cordisH2020/resource/participant_999543194.. NATIONAL RESEARCH FOUNDATION................................ 
+	http://risis.eu/orgref_20170703/resource/25110354........... http://en.wikipedia.org/wiki?curid=25110354................. 
+	http://risis.eu/orgref_20170703/resource/25110354........... http://www.wikidata.org/wiki/Q17068891...................... 
+	http://risis.eu/orgref_20170703/resource/25110354........... http://www.nrf.ae........................................... 
+	http://risis.eu/orgref_20170703/resource/25110354........... National Research Foundation................................ 
+	http://www.grid.ac/institutes/grid.454851.9................. 103.774536.................................................. 
+	http://www.grid.ac/institutes/grid.454851.9................. 1.304062.................................................... 
+	http://www.grid.ac/institutes/grid.454851.9................. http://www.nrf.gov.sg/...................................... 
+	http://www.grid.ac/institutes/grid.454851.9................. National Research Foundation................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_999543194', '1:grid.425534.1'), ('2:participant_999543194', '4:grid.454851.9'), ('3:25110354', '1:grid.425534.1'), ('3:25110354', '2:participant_999543194'), ('3:25110354', '4:grid.454851.9'), ('4:grid.454851.9', '1:grid.425534.1')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

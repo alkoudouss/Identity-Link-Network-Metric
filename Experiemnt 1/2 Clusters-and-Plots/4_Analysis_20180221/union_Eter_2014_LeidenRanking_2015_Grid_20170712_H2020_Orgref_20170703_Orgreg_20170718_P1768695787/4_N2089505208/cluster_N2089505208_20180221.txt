@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 13131 
+NAME    N2089505208
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/24569687>
+	<http://risis.eu/orgref_20170703/resource/8604018>
+	<http://www.grid.ac/institutes/grid.442462.2>
+	<http://www.grid.ac/institutes/grid.460718.c>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/24569687.. http://www.grid.ac/institutes/grid.442462.2........ 1.................................................. [International University of Management] was compared to [International University of Management] 
+	http://www.grid.ac/institutes/grid.442462.2........ http://risis.eu/orgref_20170703/resource/24569687.. 1.................................................. [International University of Management] was compared to [International University of Management] 
+	http://risis.eu/orgref_20170703/resource/8604018... http://www.grid.ac/institutes/grid.460718.c........ 1.................................................. [National University of Management] was compared to [National University of Management] 
+	http://www.grid.ac/institutes/grid.460718.c........ http://risis.eu/orgref_20170703/resource/8604018... 1.................................................. [National University of Management] was compared to [National University of Management] 
+	http://risis.eu/orgref_20170703/resource/24569687.. http://risis.eu/orgref_20170703/resource/8604018... 0.857142857143..................................... [International University of Management] was compared to [National University of Management] 
+	http://risis.eu/orgref_20170703/resource/8604018... http://risis.eu/orgref_20170703/resource/24569687.. 0.857142857143..................................... [International University of Management] was compared to [National University of Management] 
+	http://www.grid.ac/institutes/grid.442462.2........ http://www.grid.ac/institutes/grid.460718.c........ 0.857142857143..................................... [International University of Management] was compared to [National University of Management] 
+	http://www.grid.ac/institutes/grid.460718.c........ http://www.grid.ac/institutes/grid.442462.2........ 0.857142857143..................................... [International University of Management] was compared to [National University of Management] 
+	http://risis.eu/orgref_20170703/resource/8604018... http://www.grid.ac/institutes/grid.442462.2........ 0.857142857143..................................... [International University of Management] was compared to [National University of Management] 
+	http://www.grid.ac/institutes/grid.442462.2........ http://risis.eu/orgref_20170703/resource/8604018... 0.857142857143..................................... [International University of Management] was compared to [National University of Management] 
+	http://risis.eu/orgref_20170703/resource/24569687.. http://www.grid.ac/institutes/grid.460718.c........ 0.857142857143..................................... [National University of Management] was compared to [International University of Management] 
+	http://www.grid.ac/institutes/grid.460718.c........ http://risis.eu/orgref_20170703/resource/24569687.. 0.857142857143..................................... [National University of Management] was compared to [International University of Management] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/24569687.. http://en.wikipedia.org/wiki?curid=24569687........ 
+	http://risis.eu/orgref_20170703/resource/24569687.. http://www.wikidata.org/wiki/Q1667019.............. 
+	http://risis.eu/orgref_20170703/resource/24569687.. http://ium.edu.na.................................. 
+	http://risis.eu/orgref_20170703/resource/24569687.. International University of Management............. 
+	http://risis.eu/orgref_20170703/resource/8604018... http://en.wikipedia.org/wiki?curid=8604018......... 
+	http://risis.eu/orgref_20170703/resource/8604018... http://www.wikidata.org/wiki/Q6979258.............. 
+	http://risis.eu/orgref_20170703/resource/8604018... http://www.num.edu.kh.............................. 
+	http://risis.eu/orgref_20170703/resource/8604018... National University of Management.................. 
+	http://www.grid.ac/institutes/grid.442462.2........ International University of Management............. 
+	http://www.grid.ac/institutes/grid.460718.c........ 104.91859.......................................... 
+	http://www.grid.ac/institutes/grid.460718.c........ 11.574875.......................................... 
+	http://www.grid.ac/institutes/grid.460718.c........ http://www.num.edu.kh/............................. 
+	http://www.grid.ac/institutes/grid.460718.c........ National University of Management.................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:24569687', '3:grid.442462.2'), ('2:8604018', '1:24569687'), ('2:8604018', '4:grid.460718.c'), ('3:grid.442462.2', '2:8604018'), ('4:grid.460718.c', '1:24569687'), ('4:grid.460718.c', '3:grid.442462.2')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

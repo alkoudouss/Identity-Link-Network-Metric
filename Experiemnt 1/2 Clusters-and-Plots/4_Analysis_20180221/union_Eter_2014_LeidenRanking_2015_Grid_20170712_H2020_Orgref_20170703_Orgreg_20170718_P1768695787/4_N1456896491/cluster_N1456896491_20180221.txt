@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 11445 
+NAME    N1456896491
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/922692>
+	<http://risis.eu/leidenRanking_2015/resource/135>
+	<http://risis.eu/orgreg_20170718/resource/FI0013>
+	<http://www.grid.ac/institutes/grid.19397.35>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/922692.. http://www.grid.ac/institutes/grid.19397.35...... 1................................................ [University of Vaasa] was compared to [University of Vaasa] 
+	http://www.grid.ac/institutes/grid.19397.35...... http://risis.eu/orgref_20170703/resource/922692.. 1................................................ [University of Vaasa] was compared to [University of Vaasa] 
+	http://risis.eu/leidenRanking_2015/resource/135.. http://www.grid.ac/institutes/grid.19397.35...... 1................................................ [University of Vaasa] was compared to [University of Vaasa] 
+	http://www.grid.ac/institutes/grid.19397.35...... http://risis.eu/leidenRanking_2015/resource/135.. 1................................................ [University of Vaasa] was compared to [University of Vaasa] 
+	http://risis.eu/orgref_20170703/resource/922692.. http://risis.eu/leidenRanking_2015/resource/135.. 1................................................ [University of Vaasa] was compared to [University of Vaasa] 
+	http://risis.eu/leidenRanking_2015/resource/135.. http://risis.eu/orgref_20170703/resource/922692.. 1................................................ [University of Vaasa] was compared to [University of Vaasa] 
+	http://risis.eu/leidenRanking_2015/resource/135.. http://risis.eu/orgreg_20170718/resource/FI0013.. 1................................................ [University of Vaasa] was compared to [University of Vaasa] 
+	http://risis.eu/orgreg_20170718/resource/FI0013.. http://risis.eu/leidenRanking_2015/resource/135.. 1................................................ [University of Vaasa] was compared to [University of Vaasa] 
+	http://risis.eu/orgref_20170703/resource/922692.. http://risis.eu/orgreg_20170718/resource/FI0013.. 1................................................ [University of Vaasa] was compared to [University of Vaasa] 
+	http://risis.eu/orgreg_20170718/resource/FI0013.. http://risis.eu/orgref_20170703/resource/922692.. 1................................................ [University of Vaasa] was compared to [University of Vaasa] 
+	http://risis.eu/orgreg_20170718/resource/FI0013.. http://www.grid.ac/institutes/grid.19397.35...... 1................................................ [University of Vaasa] was compared to [University of Vaasa] 
+	http://www.grid.ac/institutes/grid.19397.35...... http://risis.eu/orgreg_20170718/resource/FI0013.. 1................................................ [University of Vaasa] was compared to [University of Vaasa] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/922692.. http://en.wikipedia.org/wiki?curid=922692........ 
+	http://risis.eu/orgref_20170703/resource/922692.. http://www.wikidata.org/wiki/Q1724372............ 
+	http://risis.eu/orgref_20170703/resource/922692.. http://www.uva.fi/en............................. 
+	http://risis.eu/orgref_20170703/resource/922692.. University of Vaasa.............................. 
+	http://risis.eu/leidenRanking_2015/resource/135.. University of Vaasa.............................. 
+	http://risis.eu/orgreg_20170718/resource/FI0013.. 21.613903........................................ 
+	http://risis.eu/orgreg_20170718/resource/FI0013.. 63.094036........................................ 
+	http://risis.eu/orgreg_20170718/resource/FI0013.. http://www.uva.fi/en/............................ 
+	http://risis.eu/orgreg_20170718/resource/FI0013.. University of Vaasa.............................. 
+	http://www.grid.ac/institutes/grid.19397.35...... 21.59286......................................... 
+	http://www.grid.ac/institutes/grid.19397.35...... 63.10552......................................... 
+	http://www.grid.ac/institutes/grid.19397.35...... http://www.uva.fi/en/............................ 
+	http://www.grid.ac/institutes/grid.19397.35...... Vasa universitet................................. 
+	http://www.grid.ac/institutes/grid.19397.35...... Vaasan yliopisto................................. 
+	http://www.grid.ac/institutes/grid.19397.35...... University of Vaasa.............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:922692', '4:grid.19397.35'), ('2:135', '1:922692'), ('2:135', '3:FI0013'), ('2:135', '4:grid.19397.35'), ('3:FI0013', '1:922692'), ('4:grid.19397.35', '3:FI0013')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

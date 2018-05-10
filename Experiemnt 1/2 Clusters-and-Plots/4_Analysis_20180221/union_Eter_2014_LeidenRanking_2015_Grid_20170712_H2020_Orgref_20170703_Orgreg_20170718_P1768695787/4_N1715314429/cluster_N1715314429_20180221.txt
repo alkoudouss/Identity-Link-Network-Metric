@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 7773 
+NAME    N1715314429
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/231683>
+	<http://risis.eu/orgreg_20170718/resource/NO0004>
+	<http://www.grid.ac/institutes/grid.5947.f>
+	<http://risis.eu/leidenRanking_2015/resource/502>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/231683.. http://www.grid.ac/institutes/grid.5947.f........ 1................................................ [Norwegian University of Science and Technology] was compared to [Norwegian University of Science and Technology] 
+	http://www.grid.ac/institutes/grid.5947.f........ http://risis.eu/orgref_20170703/resource/231683.. 1................................................ [Norwegian University of Science and Technology] was compared to [Norwegian University of Science and Technology] 
+	http://www.grid.ac/institutes/grid.5947.f........ http://risis.eu/leidenRanking_2015/resource/502.. 1................................................ [Norwegian University of Science and Technology] was compared to [Norwegian University of Science and Technology] 
+	http://risis.eu/leidenRanking_2015/resource/502.. http://www.grid.ac/institutes/grid.5947.f........ 1................................................ [Norwegian University of Science and Technology] was compared to [Norwegian University of Science and Technology] 
+	http://risis.eu/orgref_20170703/resource/231683.. http://risis.eu/leidenRanking_2015/resource/502.. 1................................................ [Norwegian University of Science and Technology] was compared to [Norwegian University of Science and Technology] 
+	http://risis.eu/leidenRanking_2015/resource/502.. http://risis.eu/orgref_20170703/resource/231683.. 1................................................ [Norwegian University of Science and Technology] was compared to [Norwegian University of Science and Technology] 
+	http://risis.eu/orgreg_20170718/resource/NO0004.. http://risis.eu/leidenRanking_2015/resource/502.. 1................................................ [The Norwegian University of Science and Technology] was compared to [Norwegian University of Science and Technology] 
+	http://risis.eu/leidenRanking_2015/resource/502.. http://risis.eu/orgreg_20170718/resource/NO0004.. 1................................................ [The Norwegian University of Science and Technology] was compared to [Norwegian University of Science and Technology] 
+	http://risis.eu/orgref_20170703/resource/231683.. http://risis.eu/orgreg_20170718/resource/NO0004.. 1................................................ [Norwegian University of Science and Technology] was compared to [The Norwegian University of Science and Technology] 
+	http://risis.eu/orgreg_20170718/resource/NO0004.. http://risis.eu/orgref_20170703/resource/231683.. 1................................................ [Norwegian University of Science and Technology] was compared to [The Norwegian University of Science and Technology] 
+	http://risis.eu/orgreg_20170718/resource/NO0004.. http://www.grid.ac/institutes/grid.5947.f........ 1................................................ [Norwegian University of Science and Technology] was compared to [The Norwegian University of Science and Technology] 
+	http://www.grid.ac/institutes/grid.5947.f........ http://risis.eu/orgreg_20170718/resource/NO0004.. 1................................................ [Norwegian University of Science and Technology] was compared to [The Norwegian University of Science and Technology] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/231683.. http://en.wikipedia.org/wiki?curid=231683........ 
+	http://risis.eu/orgref_20170703/resource/231683.. http://www.wikidata.org/wiki/Q314536............. 
+	http://risis.eu/orgref_20170703/resource/231683.. https://www.ntnu.edu............................. 
+	http://risis.eu/orgref_20170703/resource/231683.. Norwegian University of Science and Technology... 
+	http://risis.eu/orgreg_20170718/resource/NO0004.. 10.408419........................................ 
+	http://risis.eu/orgreg_20170718/resource/NO0004.. 63.415345........................................ 
+	http://risis.eu/orgreg_20170718/resource/NO0004.. http://www.ntnu.edu/............................. 
+	http://risis.eu/orgreg_20170718/resource/NO0004.. The Norwegian University of Science and Technology 
+	http://www.grid.ac/institutes/grid.5947.f........ 10.4025.......................................... 
+	http://www.grid.ac/institutes/grid.5947.f........ 63.419445........................................ 
+	http://www.grid.ac/institutes/grid.5947.f........ http://www.ntnu.no............................... 
+	http://www.grid.ac/institutes/grid.5947.f........ http://www.ntnu.edu.............................. 
+	http://www.grid.ac/institutes/grid.5947.f........ Norwegian University of Science and Technology... 
+	http://risis.eu/leidenRanking_2015/resource/502.. Norwegian University of Science and Technology... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:231683', '3:grid.5947.f'), ('2:NO0004', '1:231683'), ('3:grid.5947.f', '2:NO0004'), ('4:502', '1:231683'), ('4:502', '2:NO0004'), ('4:502', '3:grid.5947.f')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

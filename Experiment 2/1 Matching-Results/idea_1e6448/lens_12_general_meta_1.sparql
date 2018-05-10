@@ -1,0 +1,298 @@
+INSERT DATA 
+{
+	<http://risis.eu/lens/union_Eter_2014_Grid_20170712_Orgreg_20170718_P1611822898> a <http://vocabularies.bridgedb.org/ops#Lens> ;
+		<http://risis.eu/alignment/predicate/operator> <http://risis.eu/lens/operator/union> ;
+		<http://rdfs.org/ns/void#target> <http://risis.eu/linkset/eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866> .
+	
+	<http://risis.eu/linkset/eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866> a <http://rdfs.org/ns/void#Linkset> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "Linking <http://risis.eu/dataset/eter_2014> to <http://risis.eu/dataset/grid_20170712> based on their nearby Geo-Similarity using the mechanism: nearbyGeoSim" ;
+		<http://rdfs.org/ns/void#triples> 466 ;
+		<http://risis.eu/alignment/predicate/sameAsCount> 6 ;
+		<http://risis.eu/alignment/predicate/alignsMechanism> <http://risis.eu/mechanism/nearbyGeoSim> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/eter_2014> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/grid_20170712> ;
+		<http://rdfs.org/ns/void#linkPredicate> <http://risis.eu/alignment/predicate/exactStrSim6> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/eter_2014/ontology/class/University> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866> ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866> ;
+		<http://vocabularies.bridgedb.org/ops#linksetJustification> <http://risis.eu/justification/eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866> ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> _:bnode_7571de33_c1c9_43fa_a517_b68e5f43021c_37 ;
+		<http://risis.eu/alignment/predicate/alignsObjects> _:bnode_7571de33_c1c9_43fa_a517_b68e5f43021c_39 ;
+		<http://risis.eu/alignment/predicate/crossCheckSubject> <http://risis.eu/eter_2014/ontology/predicate/Institution_Name> ;
+		<http://risis.eu/alignment/predicate/crossCheckObject> <http://www.w3.org/2000/01/rdf-schema#label> ;
+		<http://risis.eu/alignment/predicate/unit> <http://qudt.org/vocab/unit#Meter> ;
+		<http://risis.eu/alignment/predicate/unitValue> 50 .
+	
+	<http://risis.eu/lens/union_Eter_2014_Grid_20170712_Orgreg_20170718_P1611822898> <http://rdfs.org/ns/void#target> <http://risis.eu/linkset/orgreg_20170718_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_P1068652638> .
+	
+	<http://risis.eu/linkset/orgreg_20170718_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_P1068652638> a <http://rdfs.org/ns/void#Linkset> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "orgreg_20170718_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_P1068652638" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "Linking <http://risis.eu/dataset/orgreg_20170718> to <http://risis.eu/dataset/grid_20170712> based on their nearby Geo-Similarity using the mechanism: nearbyGeoSim" ;
+		<http://rdfs.org/ns/void#triples> 420 ;
+		<http://risis.eu/alignment/predicate/sameAsCount> 8 ;
+		<http://risis.eu/alignment/predicate/alignsMechanism> <http://risis.eu/mechanism/nearbyGeoSim> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/orgreg_20170718> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/grid_20170712> ;
+		<http://rdfs.org/ns/void#linkPredicate> <http://risis.eu/alignment/predicate/exactStrSim8> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/orgreg_20170718/ontology/class/University> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/orgreg_20170718_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_P1068652638> ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/orgreg_20170718_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_P1068652638> ;
+		<http://vocabularies.bridgedb.org/ops#linksetJustification> <http://risis.eu/justification/orgreg_20170718_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_P1068652638> ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> _:bnode_7571de33_c1c9_43fa_a517_b68e5f43021c_61 ;
+		<http://risis.eu/alignment/predicate/alignsObjects> _:bnode_7571de33_c1c9_43fa_a517_b68e5f43021c_63 ;
+		<http://risis.eu/alignment/predicate/crossCheckSubject> <http://risis.eu/orgreg_20170718/ontology/predicate/Entity_current_name_English> ;
+		<http://risis.eu/alignment/predicate/crossCheckObject> <http://www.w3.org/2000/01/rdf-schema#label> ;
+		<http://risis.eu/alignment/predicate/unit> <http://qudt.org/vocab/unit#Meter> ;
+		<http://risis.eu/alignment/predicate/unitValue> 50 .
+	
+	<http://risis.eu/lens/union_Eter_2014_Grid_20170712_Orgreg_20170718_P1611822898> <http://rdfs.org/ns/void#target> <http://risis.eu/linkset/orgreg_20170718_eter_2014_nearbyGeoSim50Meter_University_LatitudeLongitude_P471520711> .
+	
+	<http://risis.eu/linkset/orgreg_20170718_eter_2014_nearbyGeoSim50Meter_University_LatitudeLongitude_P471520711> a <http://rdfs.org/ns/void#Linkset> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "orgreg_20170718_eter_2014_nearbyGeoSim50Meter_University_LatitudeLongitude_P471520711" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "Linking <http://risis.eu/dataset/orgreg_20170718> to <http://risis.eu/dataset/eter_2014> based on their nearby Geo-Similarity using the mechanism: nearbyGeoSim" ;
+		<http://rdfs.org/ns/void#triples> 3415 ;
+		<http://risis.eu/alignment/predicate/sameAsCount> 13 ;
+		<http://risis.eu/alignment/predicate/alignsMechanism> <http://risis.eu/mechanism/nearbyGeoSim> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/orgreg_20170718> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/eter_2014> ;
+		<http://rdfs.org/ns/void#linkPredicate> <http://risis.eu/alignment/predicate/exactStrSim13> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/orgreg_20170718/ontology/class/University> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://risis.eu/eter_2014/ontology/class/University> ;
+		<http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/orgreg_20170718_eter_2014_nearbyGeoSim50Meter_University_LatitudeLongitude_P471520711> ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/orgreg_20170718_eter_2014_nearbyGeoSim50Meter_University_LatitudeLongitude_P471520711> ;
+		<http://vocabularies.bridgedb.org/ops#linksetJustification> <http://risis.eu/justification/orgreg_20170718_eter_2014_nearbyGeoSim50Meter_University_LatitudeLongitude_P471520711> ;
+		<http://risis.eu/alignment/predicate/alignsSubjects> _:bnode_7571de33_c1c9_43fa_a517_b68e5f43021c_133 ;
+		<http://risis.eu/alignment/predicate/alignsObjects> _:bnode_7571de33_c1c9_43fa_a517_b68e5f43021c_135 ;
+		<http://risis.eu/alignment/predicate/crossCheckSubject> <http://risis.eu/orgreg_20170718/ontology/predicate/Entity_current_name_English> ;
+		<http://risis.eu/alignment/predicate/crossCheckObject> <http://risis.eu/eter_2014/ontology/predicate/Institution_Name> ;
+		<http://risis.eu/alignment/predicate/unit> <http://qudt.org/vocab/unit#Meter> ;
+		<http://risis.eu/alignment/predicate/unitValue> 50 .
+	
+	<http://risis.eu/lens/union_Eter_2014_Grid_20170712_Orgreg_20170718_P1611822898> <http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/union_Eter_2014_Grid_20170712_Orgreg_20170718_P1611822898> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "union_Eter_2014_Grid_20170712_Orgreg_20170718_P1611822898" ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/union_Eter_2014_Grid_20170712_Orgreg_20170718_P1611822898> .
+	
+	<http://risis.eu/method/union_Eter_2014_Grid_20170712_Orgreg_20170718_P1611822898> <http://risis.eu/alignment/predicate/sparql> """DROP SILENT GRAPH <http://risis.eu/alignment/temp-match/load00> ;
+
+    ###### MOVE THIS LINKSET TO A NEW UNION LINKSET GRAPH
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject ?predicate	?object .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/linkset/eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866>
+        {
+            ?subject ?predicate	?object .
+        }
+    } ; 
+
+    ###### MOVE THE SINGLETON METADATA GRAPH TO A NEW UNION SINGLETON GRAPH
+    PREFIX ll:<http://risis.eu/alignment/predicate/>
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject        ?predicate	                ?object .
+            ?validation     ?vPred                      ?vObj .
+            ?rQuestion      ll:created                  ?validation .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/singletons/eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866>
+        {
+            ?subject ?predicate	?object .
+            OPTIONAL
+            {
+               ?subject		    ll:hasValidation 			?validation .
+               ?validation      ?vPred                      ?vObj .
+               ?rQuestion       ll:created                  ?validation .
+            }
+        }
+    } ;
+
+    ###### MOVE THIS LINKSET TO A NEW UNION LINKSET GRAPH
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject ?predicate	?object .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/linkset/orgreg_20170718_eter_2014_nearbyGeoSim50Meter_University_LatitudeLongitude_P471520711>
+        {
+            ?subject ?predicate	?object .
+        }
+    } ; 
+
+    ###### MOVE THE SINGLETON METADATA GRAPH TO A NEW UNION SINGLETON GRAPH
+    PREFIX ll:<http://risis.eu/alignment/predicate/>
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject        ?predicate	                ?object .
+            ?validation     ?vPred                      ?vObj .
+            ?rQuestion      ll:created                  ?validation .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/singletons/orgreg_20170718_eter_2014_nearbyGeoSim50Meter_University_LatitudeLongitude_P471520711>
+        {
+            ?subject ?predicate	?object .
+            OPTIONAL
+            {
+               ?subject		    ll:hasValidation 			?validation .
+               ?validation      ?vPred                      ?vObj .
+               ?rQuestion       ll:created                  ?validation .
+            }
+        }
+    } ;
+
+    ###### MOVE THIS LINKSET TO A NEW UNION LINKSET GRAPH
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject ?predicate	?object .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/linkset/orgreg_20170718_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_P1068652638>
+        {
+            ?subject ?predicate	?object .
+        }
+    } ; 
+
+    ###### MOVE THE SINGLETON METADATA GRAPH TO A NEW UNION SINGLETON GRAPH
+    PREFIX ll:<http://risis.eu/alignment/predicate/>
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?subject        ?predicate	                ?object .
+            ?validation     ?vPred                      ?vObj .
+            ?rQuestion      ll:created                  ?validation .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/singletons/orgreg_20170718_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_P1068652638>
+        {
+            ?subject ?predicate	?object .
+            OPTIONAL
+            {
+               ?subject		    ll:hasValidation 			?validation .
+               ?validation      ?vPred                      ?vObj .
+               ?rQuestion       ll:created                  ?validation .
+            }
+        }
+    } ;
+
+    PREFIX prov:<http://www.w3.org/ns/prov#>
+    PREFIX specific:<http://risis.eu/singletons/>
+    PREFIX tmpgraph:<http://risis.eu/alignment/temp-match/>
+    PREFIX tmpvocab:<http://risis.eu//temp-match/temp-match/predicate/>
+    PREFIX ll:<http://risis.eu/alignment/predicate/>
+
+    DROP SILENT GRAPH tmpgraph:load01 ;
+    DROP SILENT GRAPH tmpgraph:load02 ;
+
+    ###### CREATING THE INTERSECTION CORRESPONDENCES WITH A TEMPORARY PREDICATE
+    ###### REMOVE DUPLICATES IN THE SAME DIRECTION
+    INSERT
+    {
+      GRAPH tmpgraph:load01
+      {
+        ?sCorr 		tmpvocab:predicate		?oCorr  .
+      }
+    }
+    WHERE
+    {
+      graph <http://risis.eu/alignment/temp-match/load00>
+      {
+        ?sCorr		?singCorr 				?oCorr  .
+        FILTER NOT EXISTS { ?x ?sCorr ?z }
+        #?singCorr	?singCorrPr 			?singCorrobj .
+      }
+    } ;
+
+    ###### UPDATE tmpgraph:load01 WITH UNIQUE PREDICATES
+    INSERT
+    {
+      GRAPH tmpgraph:load02
+      {
+        ?sCorr ?singPre ?oCorr .
+      }
+    }
+    WHERE
+    {
+      GRAPH tmpgraph:load01
+      {
+        ?sCorr ?y ?oCorr .
+
+        ### Create A SINGLETON URI\"
+        BIND( replace(\"http://risis.eu/alignment/predicate/union_#\", \"#\", STRAFTER(str(UUID()),\"uuid:\")) as ?pre )
+        BIND(iri(?pre) as ?singPre)
+      }
+    } ;
+
+    INSERT
+    {
+        ### union_Eter_2014_Grid_20170712_Orgreg_20170718_P1611822898
+        GRAPH <http://risis.eu/lens/union_Eter_2014_Grid_20170712_Orgreg_20170718_P1611822898>
+        {
+            ?sCorr			?singPre 					?oCorr .
+        }
+
+        GRAPH specific:union_Eter_2014_Grid_20170712_Orgreg_20170718_P1611822898
+        {
+            ?singPre		prov:wasDerivedFrom 	    ?singCorr .
+            ?singCorr		?singCorrPr 				?singCorrobj .
+            ?validation     ?vPred                      ?vObj .
+            ?rQuestion      ll:created                  ?validation .
+        }
+    }
+    WHERE
+    {
+        GRAPH tmpgraph:load02
+        {
+            ?sCorr			?singPre 					?oCorr .
+        }
+
+        graph <http://risis.eu/alignment/temp-match/load00>
+        {
+            ?sCorr			?singCorr 				    ?oCorr  .
+            # THE DIRECT SINGLETONS
+            OPTIONAL { ?singCorr			?singCorrPr 			?singCorrobj .  }
+            # THE VALIDATIONS
+            OPTIONAL
+            {
+               ?singCorr		ll:hasValidation 			?validation .
+               ?validation      ?vPred                      ?vObj .
+               ?rQuestion       ll:created                  ?validation .
+            }
+            FILTER NOT EXISTS { ?x ?sCorr ?z }
+        }
+    } ;
+
+    DROP SILENT GRAPH tmpgraph:load00 ;
+    DROP SILENT GRAPH tmpgraph:load01 ;
+    DROP SILENT GRAPH tmpgraph:load02
+    """ .
+	
+	<http://risis.eu/lens/union_Eter_2014_Grid_20170712_Orgreg_20170718_P1611822898> <http://rdfs.org/ns/void#triples> 4290 ;
+		<http://risis.eu/alignment/predicate/removedDuplicates> 4301 ;
+		<http://risis.eu/alignment/predicate/expectedCorrespondences> 4301 .
+}

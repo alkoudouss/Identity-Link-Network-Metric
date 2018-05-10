@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 7672 
+NAME    N1547454095
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.469051.f>
+	<http://risis.eu/orgref_20170703/resource/5089255>
+	<http://www.grid.ac/institutes/grid.431550.6>
+	<http://risis.eu/orgref_20170703/resource/5088519>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.469051.f....... http://www.grid.ac/institutes/grid.431550.6....... 1................................................. [Metropolitan Community College] was compared to [Metropolitan Community College] 
+	http://www.grid.ac/institutes/grid.431550.6....... http://www.grid.ac/institutes/grid.469051.f....... 1................................................. [Metropolitan Community College] was compared to [Metropolitan Community College] 
+	http://risis.eu/orgref_20170703/resource/5089255.. http://www.grid.ac/institutes/grid.431550.6....... 1................................................. [Metropolitan Community College] was compared to [Metropolitan Community College (Missouri)] 
+	http://www.grid.ac/institutes/grid.431550.6....... http://risis.eu/orgref_20170703/resource/5089255.. 1................................................. [Metropolitan Community College] was compared to [Metropolitan Community College (Missouri)] 
+	http://www.grid.ac/institutes/grid.431550.6....... http://risis.eu/orgref_20170703/resource/5088519.. 1................................................. [Metropolitan Community College] was compared to [Metropolitan Community College (Nebraska)] 
+	http://risis.eu/orgref_20170703/resource/5088519.. http://www.grid.ac/institutes/grid.431550.6....... 1................................................. [Metropolitan Community College] was compared to [Metropolitan Community College (Nebraska)] 
+	http://www.grid.ac/institutes/grid.469051.f....... http://risis.eu/orgref_20170703/resource/5089255.. 1................................................. [Metropolitan Community College] was compared to [Metropolitan Community College (Missouri)] 
+	http://risis.eu/orgref_20170703/resource/5089255.. http://www.grid.ac/institutes/grid.469051.f....... 1................................................. [Metropolitan Community College] was compared to [Metropolitan Community College (Missouri)] 
+	http://www.grid.ac/institutes/grid.469051.f....... http://risis.eu/orgref_20170703/resource/5088519.. 1................................................. [Metropolitan Community College] was compared to [Metropolitan Community College (Nebraska)] 
+	http://risis.eu/orgref_20170703/resource/5088519.. http://www.grid.ac/institutes/grid.469051.f....... 1................................................. [Metropolitan Community College] was compared to [Metropolitan Community College (Nebraska)] 
+	http://risis.eu/orgref_20170703/resource/5089255.. http://risis.eu/orgref_20170703/resource/5088519.. 1................................................. [Metropolitan Community College (Nebraska)] was compared to [Metropolitan Community College (Missouri)] 
+	http://risis.eu/orgref_20170703/resource/5088519.. http://risis.eu/orgref_20170703/resource/5089255.. 1................................................. [Metropolitan Community College (Nebraska)] was compared to [Metropolitan Community College (Missouri)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.469051.f....... -94.59044......................................... 
+	http://www.grid.ac/institutes/grid.469051.f....... 39.068436......................................... 
+	http://www.grid.ac/institutes/grid.469051.f....... http://www.mcckc.edu/............................. 
+	http://www.grid.ac/institutes/grid.469051.f....... Metropolitan Community College.................... 
+	http://risis.eu/orgref_20170703/resource/5089255.. http://en.wikipedia.org/wiki?curid=5089255........ 
+	http://risis.eu/orgref_20170703/resource/5089255.. http://www.wikidata.org/wiki/Q6825055............. 
+	http://risis.eu/orgref_20170703/resource/5089255.. Metropolitan Community College (Missouri)......... 
+	http://www.grid.ac/institutes/grid.431550.6....... -95.95892......................................... 
+	http://www.grid.ac/institutes/grid.431550.6....... 41.307713......................................... 
+	http://www.grid.ac/institutes/grid.431550.6....... https://www.mccneb.edu/........................... 
+	http://www.grid.ac/institutes/grid.431550.6....... Metro Tech........................................ 
+	http://www.grid.ac/institutes/grid.431550.6....... Metropolitan Community College.................... 
+	http://risis.eu/orgref_20170703/resource/5088519.. http://en.wikipedia.org/wiki?curid=5088519........ 
+	http://risis.eu/orgref_20170703/resource/5088519.. http://www.wikidata.org/wiki/Q6825056............. 
+	http://risis.eu/orgref_20170703/resource/5088519.. http://mccneb.edu................................. 
+	http://risis.eu/orgref_20170703/resource/5088519.. Metropolitan Community College (Nebraska)......... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:5089255', '1:grid.469051.f'), ('2:5089255', '3:grid.431550.6'), ('2:5089255', '4:5088519'), ('3:grid.431550.6', '1:grid.469051.f'), ('4:5088519', '1:grid.469051.f'), ('4:5088519', '3:grid.431550.6')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

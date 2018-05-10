@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 510 
+NAME    N2049853358
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.4711.3>
+	<http://risis.eu/orgreg_20170718/resource/ES1031>
+	<http://risis.eu/leidenRanking_2015/resource/3161>
+	<http://risis.eu/orgref_20170703/resource/5195182>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.4711.3......... http://risis.eu/orgref_20170703/resource/5195182.. 1................................................. [Spanish National Research Council] was compared to [Spanish National Research Council] 
+	http://risis.eu/orgref_20170703/resource/5195182.. http://www.grid.ac/institutes/grid.4711.3......... 1................................................. [Spanish National Research Council] was compared to [Spanish National Research Council] 
+	http://www.grid.ac/institutes/grid.4711.3......... http://risis.eu/leidenRanking_2015/resource/3161.. 1................................................. [Spanish National Research Council] was compared to [Spanish National Research Council] 
+	http://risis.eu/leidenRanking_2015/resource/3161.. http://www.grid.ac/institutes/grid.4711.3......... 1................................................. [Spanish National Research Council] was compared to [Spanish National Research Council] 
+	http://risis.eu/leidenRanking_2015/resource/3161.. http://risis.eu/orgref_20170703/resource/5195182.. 1................................................. [Spanish National Research Council] was compared to [Spanish National Research Council] 
+	http://risis.eu/orgref_20170703/resource/5195182.. http://risis.eu/leidenRanking_2015/resource/3161.. 1................................................. [Spanish National Research Council] was compared to [Spanish National Research Council] 
+	http://risis.eu/orgreg_20170718/resource/ES1031... http://risis.eu/leidenRanking_2015/resource/3161.. 1................................................. [Spanish National Research Council] was compared to [Spanish National Research Council] 
+	http://risis.eu/leidenRanking_2015/resource/3161.. http://risis.eu/orgreg_20170718/resource/ES1031... 1................................................. [Spanish National Research Council] was compared to [Spanish National Research Council] 
+	http://risis.eu/orgreg_20170718/resource/ES1031... http://risis.eu/orgref_20170703/resource/5195182.. 1................................................. [Spanish National Research Council] was compared to [Spanish National Research Council] 
+	http://risis.eu/orgref_20170703/resource/5195182.. http://risis.eu/orgreg_20170718/resource/ES1031... 1................................................. [Spanish National Research Council] was compared to [Spanish National Research Council] 
+	http://www.grid.ac/institutes/grid.4711.3......... http://risis.eu/orgreg_20170718/resource/ES1031... 1................................................. [Spanish National Research Council] was compared to [Spanish National Research Council] 
+	http://risis.eu/orgreg_20170718/resource/ES1031... http://www.grid.ac/institutes/grid.4711.3......... 1................................................. [Spanish National Research Council] was compared to [Spanish National Research Council] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.4711.3......... -3.688175......................................... 
+	http://www.grid.ac/institutes/grid.4711.3......... 40.595882......................................... 
+	http://www.grid.ac/institutes/grid.4711.3......... http://www.csic.es/............................... 
+	http://www.grid.ac/institutes/grid.4711.3......... Spanish National Research Council................. 
+	http://risis.eu/orgreg_20170718/resource/ES1031... 40.44138889....................................... 
+	http://risis.eu/orgreg_20170718/resource/ES1031... -3.6875........................................... 
+	http://risis.eu/orgreg_20170718/resource/ES1031... http://www.csic.es/............................... 
+	http://risis.eu/orgreg_20170718/resource/ES1031... Spanish National Research Council................. 
+	http://risis.eu/leidenRanking_2015/resource/3161.. Spanish National Research Council................. 
+	http://risis.eu/orgref_20170703/resource/5195182.. http://en.wikipedia.org/wiki?curid=5195182........ 
+	http://risis.eu/orgref_20170703/resource/5195182.. http://www.wikidata.org/wiki/Q1024362............. 
+	http://risis.eu/orgref_20170703/resource/5195182.. http://www.csic.es................................ 
+	http://risis.eu/orgref_20170703/resource/5195182.. Spanish National Research Council................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:ES1031', '1:grid.4711.3'), ('3:3161', '1:grid.4711.3'), ('3:3161', '2:ES1031'), ('3:3161', '4:5195182'), ('4:5195182', '1:grid.4711.3'), ('4:5195182', '2:ES1031')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

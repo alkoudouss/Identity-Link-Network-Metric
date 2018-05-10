@@ -1,0 +1,69 @@
+SIZE    4   
+CLUSTER 3418 
+NAME    N1083572348
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.471241.5>
+	<http://risis.eu/orgref_20170703/resource/346245>
+	<http://www.grid.ac/institutes/grid.481724.c>
+	<http://www.grid.ac/institutes/grid.474462.7>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.471241.5...... http://www.grid.ac/institutes/grid.474462.7...... 1................................................ [Renesas Electronics (Japan)] was compared to [Renesas Electronics (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.474462.7...... http://www.grid.ac/institutes/grid.471241.5...... 1................................................ [Renesas Electronics (Japan)] was compared to [Renesas Electronics (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.471241.5...... http://www.grid.ac/institutes/grid.481724.c...... 1................................................ [Renesas Electronics (Japan)] was compared to [Renesas Electronics (United States)] 
+	http://www.grid.ac/institutes/grid.481724.c...... http://www.grid.ac/institutes/grid.471241.5...... 1................................................ [Renesas Electronics (Japan)] was compared to [Renesas Electronics (United States)] 
+	http://www.grid.ac/institutes/grid.481724.c...... http://www.grid.ac/institutes/grid.474462.7...... 1................................................ [Renesas Electronics (United Kingdom)] was compared to [Renesas Electronics (United States)] 
+	http://www.grid.ac/institutes/grid.474462.7...... http://www.grid.ac/institutes/grid.481724.c...... 1................................................ [Renesas Electronics (United Kingdom)] was compared to [Renesas Electronics (United States)] 
+	http://www.grid.ac/institutes/grid.471241.5...... http://risis.eu/orgref_20170703/resource/346245.. 1................................................ [Renesas Electronics (Japan)] was compared to [Renesas Electronics] 
+	http://risis.eu/orgref_20170703/resource/346245.. http://www.grid.ac/institutes/grid.471241.5...... 1................................................ [Renesas Electronics (Japan)] was compared to [Renesas Electronics] 
+	http://risis.eu/orgref_20170703/resource/346245.. http://www.grid.ac/institutes/grid.474462.7...... 1................................................ [Renesas Electronics (United Kingdom)] was compared to [Renesas Electronics] 
+	http://www.grid.ac/institutes/grid.474462.7...... http://risis.eu/orgref_20170703/resource/346245.. 1................................................ [Renesas Electronics (United Kingdom)] was compared to [Renesas Electronics] 
+	http://risis.eu/orgref_20170703/resource/346245.. http://www.grid.ac/institutes/grid.481724.c...... 1................................................ [Renesas Electronics (United States)] was compared to [Renesas Electronics] 
+	http://www.grid.ac/institutes/grid.481724.c...... http://risis.eu/orgref_20170703/resource/346245.. 1................................................ [Renesas Electronics (United States)] was compared to [Renesas Electronics] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.471241.5...... 139.79478........................................ 
+	http://www.grid.ac/institutes/grid.471241.5...... 35.657604........................................ 
+	http://www.grid.ac/institutes/grid.471241.5...... https://www.renesas.com/en-in/................... 
+	http://www.grid.ac/institutes/grid.471241.5...... Runesasu Erekutoronikusu Kabushiki Gaisha........ 
+	http://www.grid.ac/institutes/grid.471241.5...... Renesas Electronics (Japan)...................... 
+	http://risis.eu/orgref_20170703/resource/346245.. http://en.wikipedia.org/wiki?curid=346245........ 
+	http://risis.eu/orgref_20170703/resource/346245.. http://www.wikidata.org/wiki/Q1196269............ 
+	http://risis.eu/orgref_20170703/resource/346245.. http://www.renesas.com........................... 
+	http://risis.eu/orgref_20170703/resource/346245.. Renesas Electronics.............................. 
+	http://www.grid.ac/institutes/grid.481724.c...... -121.958824...................................... 
+	http://www.grid.ac/institutes/grid.481724.c...... 37.37232......................................... 
+	http://www.grid.ac/institutes/grid.481724.c...... https://www.renesas.com/en-us/................... 
+	http://www.grid.ac/institutes/grid.481724.c...... Renesas Electronics (United States).............. 
+	http://www.grid.ac/institutes/grid.474462.7...... -0.70492......................................... 
+	http://www.grid.ac/institutes/grid.474462.7...... 51.577126........................................ 
+	http://www.grid.ac/institutes/grid.474462.7...... https://www.renesas.com/en-eu/................... 
+	http://www.grid.ac/institutes/grid.474462.7...... Runesasu Erekutoronikusu Kabushiki Gaisha........ 
+	http://www.grid.ac/institutes/grid.474462.7...... Renesas Electronics (United Kingdom)............. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:346245', '1:grid.471241.5'), ('2:346245', '4:grid.474462.7'), ('3:grid.481724.c', '1:grid.471241.5'), ('3:grid.481724.c', '2:346245'), ('3:grid.481724.c', '4:grid.474462.7'), ('4:grid.474462.7', '1:grid.471241.5')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

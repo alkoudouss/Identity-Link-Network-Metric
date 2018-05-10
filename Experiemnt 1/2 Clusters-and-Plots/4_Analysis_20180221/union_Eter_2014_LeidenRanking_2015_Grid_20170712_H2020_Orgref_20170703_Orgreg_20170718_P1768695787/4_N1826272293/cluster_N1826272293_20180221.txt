@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 16801 
+NAME    N1826272293
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.457313.7>
+	<http://risis.eu/orgref_20170703/resource/21842389>
+	<http://www.grid.ac/institutes/grid.482605.d>
+	<http://www.grid.ac/institutes/grid.4843.b>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.457313.7........ http://www.grid.ac/institutes/grid.482605.d........ 1.................................................. [Welding Institute (Slovenia)] was compared to [Welding Institute (Bulgaria)] 
+	http://www.grid.ac/institutes/grid.482605.d........ http://www.grid.ac/institutes/grid.457313.7........ 1.................................................. [Welding Institute (Slovenia)] was compared to [Welding Institute (Bulgaria)] 
+	http://www.grid.ac/institutes/grid.457313.7........ http://www.grid.ac/institutes/grid.4843.b.......... 1.................................................. [Welding Institute (Slovenia)] was compared to [Welding Institute] 
+	http://www.grid.ac/institutes/grid.4843.b.......... http://www.grid.ac/institutes/grid.457313.7........ 1.................................................. [Welding Institute (Slovenia)] was compared to [Welding Institute] 
+	http://www.grid.ac/institutes/grid.482605.d........ http://www.grid.ac/institutes/grid.4843.b.......... 1.................................................. [Welding Institute (Bulgaria)] was compared to [Welding Institute] 
+	http://www.grid.ac/institutes/grid.4843.b.......... http://www.grid.ac/institutes/grid.482605.d........ 1.................................................. [Welding Institute (Bulgaria)] was compared to [Welding Institute] 
+	http://risis.eu/orgref_20170703/resource/21842389.. http://www.grid.ac/institutes/grid.4843.b.......... 1.................................................. [Welding Institute] was compared to [The Welding Institute] 
+	http://www.grid.ac/institutes/grid.4843.b.......... http://risis.eu/orgref_20170703/resource/21842389.. 1.................................................. [Welding Institute] was compared to [The Welding Institute] 
+	http://www.grid.ac/institutes/grid.457313.7........ http://risis.eu/orgref_20170703/resource/21842389.. 1.................................................. [Welding Institute (Slovenia)] was compared to [The Welding Institute] 
+	http://risis.eu/orgref_20170703/resource/21842389.. http://www.grid.ac/institutes/grid.457313.7........ 1.................................................. [Welding Institute (Slovenia)] was compared to [The Welding Institute] 
+	http://risis.eu/orgref_20170703/resource/21842389.. http://www.grid.ac/institutes/grid.482605.d........ 1.................................................. [Welding Institute (Bulgaria)] was compared to [The Welding Institute] 
+	http://www.grid.ac/institutes/grid.482605.d........ http://risis.eu/orgref_20170703/resource/21842389.. 1.................................................. [Welding Institute (Bulgaria)] was compared to [The Welding Institute] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.457313.7........ 14.513535.......................................... 
+	http://www.grid.ac/institutes/grid.457313.7........ 46.070583.......................................... 
+	http://www.grid.ac/institutes/grid.457313.7........ http://www.i-var.si/eng............................ 
+	http://www.grid.ac/institutes/grid.457313.7........ Institut za varilstvo.............................. 
+	http://www.grid.ac/institutes/grid.457313.7........ Welding Institute (Slovenia)....................... 
+	http://risis.eu/orgref_20170703/resource/21842389.. http://en.wikipedia.org/wiki?curid=21842389........ 
+	http://risis.eu/orgref_20170703/resource/21842389.. http://www.wikidata.org/wiki/Q1408031.............. 
+	http://risis.eu/orgref_20170703/resource/21842389.. http://www.twi-global.com.......................... 
+	http://risis.eu/orgref_20170703/resource/21842389.. The Welding Institute.............................. 
+	http://www.grid.ac/institutes/grid.482605.d........ 23.384684.......................................... 
+	http://www.grid.ac/institutes/grid.482605.d........ 42.672806.......................................... 
+	http://www.grid.ac/institutes/grid.482605.d........ http://izamash.com/................................ 
+	http://www.grid.ac/institutes/grid.482605.d........ Welding Institute (Bulgaria)....................... 
+	http://www.grid.ac/institutes/grid.4843.b.......... 0.225809........................................... 
+	http://www.grid.ac/institutes/grid.4843.b.......... 52.117428.......................................... 
+	http://www.grid.ac/institutes/grid.4843.b.......... http://www.twi-global.com/......................... 
+	http://www.grid.ac/institutes/grid.4843.b.......... Welding Institute.................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:21842389', '1:grid.457313.7'), ('2:21842389', '3:grid.482605.d'), ('2:21842389', '4:grid.4843.b'), ('3:grid.482605.d', '1:grid.457313.7'), ('4:grid.4843.b', '1:grid.457313.7'), ('4:grid.4843.b', '3:grid.482605.d')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 350 
+NAME    N1398464979
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.463882.3>
+	<http://www.grid.ac/institutes/grid.12832.3a>
+	<http://risis.eu/eter_2014/resource/FR0229>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.463882.3.. http://risis.eu/eter_2014/resource/FR0229.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.12832.3a.. http://risis.eu/eter_2014/resource/FR0229.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/FR0229.... http://www.grid.ac/institutes/grid.12832.3a.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/FR0229.... http://www.grid.ac/institutes/grid.463882.3.. 1............................................ Near each other by at most 500 meter(s)...... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.463882.3.. 2.141499..................................... 
+	http://www.grid.ac/institutes/grid.463882.3.. 48.799572.................................... 
+	http://www.grid.ac/institutes/grid.463882.3.. http://www.gemac.uvsq.fr/.................... 
+	http://www.grid.ac/institutes/grid.463882.3.. Group of Study of Condensed Matter........... 
+	http://www.grid.ac/institutes/grid.12832.3a.. 2.140833..................................... 
+	http://www.grid.ac/institutes/grid.12832.3a.. 48.79972..................................... 
+	http://www.grid.ac/institutes/grid.12832.3a.. http://www.uvsq.fr/.......................... 
+	http://www.grid.ac/institutes/grid.12832.3a.. Versailles Saint-Quentin-en-Yvelines University 
+	http://risis.eu/eter_2014/resource/FR0229.... 48,799596.................................... 
+	http://risis.eu/eter_2014/resource/FR0229.... 2,141509..................................... 
+	http://risis.eu/eter_2014/resource/FR0229.... http://www.uvsq.fr/.......................... 
+	http://risis.eu/eter_2014/resource/FR0229.... m............................................ 
+	http://risis.eu/eter_2014/resource/FR0229.... Versailles Saint-Quentin-en-Yvelines University 
+	http://risis.eu/eter_2014/resource/FR0229.... Université de Versailles Saint-Quentin-en-Yvelines 
+
+NETWORK ANALYSIS
+	NETWORK [('N1398464979-FR0229', 'N1233125316-grid.12832.3a'), ('N1398464979-FR0229', 'P1897215306-grid.463882.3')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

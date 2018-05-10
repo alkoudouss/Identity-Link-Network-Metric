@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 13613 
+NAME    N1254835719
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.12896.34>
+	<http://risis.eu/orgref_20170703/resource/6179123>
+	<http://risis.eu/leidenRanking_2015/resource/329>
+	<http://risis.eu/eter_2014/resource/UK0126>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.12896.34....... http://risis.eu/orgref_20170703/resource/6179123.. 1................................................. [University of Westminster] was compared to [University of Westminster] 
+	http://risis.eu/orgref_20170703/resource/6179123.. http://www.grid.ac/institutes/grid.12896.34....... 1................................................. [University of Westminster] was compared to [University of Westminster] 
+	http://www.grid.ac/institutes/grid.12896.34....... http://risis.eu/leidenRanking_2015/resource/329... 1................................................. [University of Westminster] was compared to [University of Westminster] 
+	http://risis.eu/leidenRanking_2015/resource/329... http://www.grid.ac/institutes/grid.12896.34....... 1................................................. [University of Westminster] was compared to [University of Westminster] 
+	http://www.grid.ac/institutes/grid.12896.34....... http://risis.eu/eter_2014/resource/UK0126......... 1................................................. [University of Westminster] was compared to [The University of Westminster] 
+	http://risis.eu/eter_2014/resource/UK0126......... http://www.grid.ac/institutes/grid.12896.34....... 1................................................. [University of Westminster] was compared to [The University of Westminster] 
+	http://risis.eu/orgref_20170703/resource/6179123.. http://risis.eu/eter_2014/resource/UK0126......... 1................................................. [University of Westminster] was compared to [The University of Westminster] 
+	http://risis.eu/eter_2014/resource/UK0126......... http://risis.eu/orgref_20170703/resource/6179123.. 1................................................. [University of Westminster] was compared to [The University of Westminster] 
+	http://risis.eu/orgref_20170703/resource/6179123.. http://risis.eu/leidenRanking_2015/resource/329... 1................................................. [University of Westminster] was compared to [University of Westminster] 
+	http://risis.eu/leidenRanking_2015/resource/329... http://risis.eu/orgref_20170703/resource/6179123.. 1................................................. [University of Westminster] was compared to [University of Westminster] 
+	http://risis.eu/leidenRanking_2015/resource/329... http://risis.eu/eter_2014/resource/UK0126......... 1................................................. [The University of Westminster] was compared to [University of Westminster] 
+	http://risis.eu/eter_2014/resource/UK0126......... http://risis.eu/leidenRanking_2015/resource/329... 1................................................. [The University of Westminster] was compared to [University of Westminster] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.12896.34....... -0.154609......................................... 
+	http://www.grid.ac/institutes/grid.12896.34....... 51.522022......................................... 
+	http://www.grid.ac/institutes/grid.12896.34....... http://www.westminster.ac.uk/..................... 
+	http://www.grid.ac/institutes/grid.12896.34....... University of Westminster......................... 
+	http://risis.eu/orgref_20170703/resource/6179123.. http://en.wikipedia.org/wiki?curid=6179123........ 
+	http://risis.eu/orgref_20170703/resource/6179123.. http://www.wikidata.org/wiki/Q1247544............. 
+	http://risis.eu/orgref_20170703/resource/6179123.. http://www.westminster.ac.uk...................... 
+	http://risis.eu/orgref_20170703/resource/6179123.. University of Westminster......................... 
+	http://risis.eu/leidenRanking_2015/resource/329... University of Westminster......................... 
+	http://risis.eu/eter_2014/resource/UK0126......... 51,516792......................................... 
+	http://risis.eu/eter_2014/resource/UK0126......... -0,143367......................................... 
+	http://risis.eu/eter_2014/resource/UK0126......... http://www.westminster.ac.uk/..................... 
+	http://risis.eu/eter_2014/resource/UK0126......... a................................................. 
+	http://risis.eu/eter_2014/resource/UK0126......... The University of Westminster..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:6179123', '1:grid.12896.34'), ('3:329', '1:grid.12896.34'), ('3:329', '2:6179123'), ('3:329', '4:UK0126'), ('4:UK0126', '1:grid.12896.34'), ('4:UK0126', '2:6179123')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 11646 
+NAME    N1929677797
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.21600.35>
+	<http://risis.eu/cordisH2020/resource/participant_999875516>
+	<http://risis.eu/orgreg_20170718/resource/BG0007>
+	<http://risis.eu/orgref_20170703/resource/21421303>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.21600.35................. http://risis.eu/orgref_20170703/resource/21421303........... 1........................................................... [Technical University of Varna] was compared to [Technical University of Varna] 
+	http://risis.eu/orgref_20170703/resource/21421303........... http://www.grid.ac/institutes/grid.21600.35................. 1........................................................... [Technical University of Varna] was compared to [Technical University of Varna] 
+	http://www.grid.ac/institutes/grid.21600.35................. http://risis.eu/cordisH2020/resource/participant_999875516.. 1........................................................... [Technical University of Varna] was compared to [TECHNICAL UNIVERSITY OF VARNA] 
+	http://risis.eu/cordisH2020/resource/participant_999875516.. http://www.grid.ac/institutes/grid.21600.35................. 1........................................................... [Technical University of Varna] was compared to [TECHNICAL UNIVERSITY OF VARNA] 
+	http://risis.eu/cordisH2020/resource/participant_999875516.. http://risis.eu/orgref_20170703/resource/21421303........... 1........................................................... [Technical University of Varna] was compared to [TECHNICAL UNIVERSITY OF VARNA] 
+	http://risis.eu/orgref_20170703/resource/21421303........... http://risis.eu/cordisH2020/resource/participant_999875516.. 1........................................................... [Technical University of Varna] was compared to [TECHNICAL UNIVERSITY OF VARNA] 
+	http://risis.eu/cordisH2020/resource/participant_999875516.. http://risis.eu/orgreg_20170718/resource/BG0007............. 1........................................................... [Varna Technical University] was compared to [TECHNICAL UNIVERSITY OF VARNA] 
+	http://risis.eu/orgreg_20170718/resource/BG0007............. http://risis.eu/cordisH2020/resource/participant_999875516.. 1........................................................... [Varna Technical University] was compared to [TECHNICAL UNIVERSITY OF VARNA] 
+	http://risis.eu/orgreg_20170718/resource/BG0007............. http://risis.eu/orgref_20170703/resource/21421303........... 1........................................................... [Technical University of Varna] was compared to [Varna Technical University] 
+	http://risis.eu/orgref_20170703/resource/21421303........... http://risis.eu/orgreg_20170718/resource/BG0007............. 1........................................................... [Technical University of Varna] was compared to [Varna Technical University] 
+	http://www.grid.ac/institutes/grid.21600.35................. http://risis.eu/orgreg_20170718/resource/BG0007............. 1........................................................... [Technical University of Varna] was compared to [Varna Technical University] 
+	http://risis.eu/orgreg_20170718/resource/BG0007............. http://www.grid.ac/institutes/grid.21600.35................. 1........................................................... [Technical University of Varna] was compared to [Varna Technical University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.21600.35................. 27.934004................................................... 
+	http://www.grid.ac/institutes/grid.21600.35................. 43.222973................................................... 
+	http://www.grid.ac/institutes/grid.21600.35................. http://new.tu-varna.bg/en/index.php/bg/..................... 
+	http://www.grid.ac/institutes/grid.21600.35................. TU – Varna................................................ 
+	http://www.grid.ac/institutes/grid.21600.35................. ТУ – Варна......................................... 
+	http://www.grid.ac/institutes/grid.21600.35................. Technical University of Varna............................... 
+	http://risis.eu/cordisH2020/resource/participant_999875516.. http://risis.eu/cordisH2020/resource/www.tu-varna.bg........ 
+	http://risis.eu/cordisH2020/resource/participant_999875516.. TECHNICAL UNIVERSITY OF VARNA............................... 
+	http://risis.eu/orgreg_20170718/resource/BG0007............. 27.901881................................................... 
+	http://risis.eu/orgreg_20170718/resource/BG0007............. 43.204938................................................... 
+	http://risis.eu/orgreg_20170718/resource/BG0007............. http://new.tu-varna.bg/en/index.php/bg/..................... 
+	http://risis.eu/orgreg_20170718/resource/BG0007............. Varna Technical University.................................. 
+	http://risis.eu/orgref_20170703/resource/21421303........... http://en.wikipedia.org/wiki?curid=21421303................. 
+	http://risis.eu/orgref_20170703/resource/21421303........... http://www.wikidata.org/wiki/Q2399361....................... 
+	http://risis.eu/orgref_20170703/resource/21421303........... http://www.tu-varna.bg...................................... 
+	http://risis.eu/orgref_20170703/resource/21421303........... Technical University of Varna............................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_999875516', '1:grid.21600.35'), ('2:participant_999875516', '4:21421303'), ('3:BG0007', '1:grid.21600.35'), ('3:BG0007', '2:participant_999875516'), ('4:21421303', '1:grid.21600.35'), ('4:21421303', '3:BG0007')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

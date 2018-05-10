@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 153 
+NAME    N1777801866
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/PT0008>
+	<http://risis.eu/orgreg_20170718/resource/PT0007>
+	<http://risis.eu/eter_2014/resource/PT0008>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/PT0008.. http://risis.eu/eter_2014/resource/PT0008........ 1................................................ [new university lisbon] was compared to [new university lisbon] 
+	http://risis.eu/orgreg_20170718/resource/PT0007.. http://risis.eu/eter_2014/resource/PT0008........ 0.809523809524................................... [university lisbon] was compared to [new university lisbon] 
+	http://risis.eu/eter_2014/resource/PT0008........ http://risis.eu/orgreg_20170718/resource/PT0007.. 0.809523809524................................... [university lisbon] was compared to [new university lisbon] 
+	http://risis.eu/eter_2014/resource/PT0008........ http://risis.eu/orgreg_20170718/resource/PT0008.. 1................................................ [new university lisbon] was compared to [new university lisbon] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/PT0008.. -9.1393366....................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0008.. 38.7222524....................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0008.. http://www.unl.pt................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0008.. New University of Lisbon......................... 
+	http://risis.eu/orgreg_20170718/resource/PT0007.. -9.1393366....................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0007.. 38.7222524....................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0007.. http://www.ulisboa.pt............................ 
+	http://risis.eu/orgreg_20170718/resource/PT0007.. University of Lisbon............................. 
+	http://risis.eu/eter_2014/resource/PT0008........ 38,7222524....................................... 
+	http://risis.eu/eter_2014/resource/PT0008........ -9,1393366....................................... 
+	http://risis.eu/eter_2014/resource/PT0008........ http://www.unl.pt................................ 
+	http://risis.eu/eter_2014/resource/PT0008........ a................................................ 
+	http://risis.eu/eter_2014/resource/PT0008........ New University of Lisbon......................... 
+	http://risis.eu/eter_2014/resource/PT0008........ Universidade Nova de Lisboa...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('N1777801866-PT0008', 'N709980509-PT0008'), ('N1777801866-PT0008', 'N702980466-PT0007')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

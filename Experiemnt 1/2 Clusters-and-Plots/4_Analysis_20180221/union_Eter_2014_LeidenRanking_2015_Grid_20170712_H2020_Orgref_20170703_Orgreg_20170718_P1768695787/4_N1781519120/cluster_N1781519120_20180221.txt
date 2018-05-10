@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 3405 
+NAME    N1781519120
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.428074.d>
+	<http://risis.eu/orgref_20170703/resource/20492606>
+	<http://www.grid.ac/institutes/grid.469022.b>
+	<http://risis.eu/orgref_20170703/resource/968977>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.428074.d........ http://www.grid.ac/institutes/grid.469022.b........ 0.928571428571..................................... [College of the Ozarks] was compared to [Ozarka College] 
+	http://www.grid.ac/institutes/grid.469022.b........ http://www.grid.ac/institutes/grid.428074.d........ 0.928571428571..................................... [College of the Ozarks] was compared to [Ozarka College] 
+	http://www.grid.ac/institutes/grid.428074.d........ http://risis.eu/orgref_20170703/resource/20492606.. 0.928571428571..................................... [College of the Ozarks] was compared to [Ozarka College] 
+	http://risis.eu/orgref_20170703/resource/20492606.. http://www.grid.ac/institutes/grid.428074.d........ 0.928571428571..................................... [College of the Ozarks] was compared to [Ozarka College] 
+	http://www.grid.ac/institutes/grid.428074.d........ http://risis.eu/orgref_20170703/resource/968977.... 1.................................................. [College of the Ozarks] was compared to [College of the Ozarks] 
+	http://risis.eu/orgref_20170703/resource/968977.... http://www.grid.ac/institutes/grid.428074.d........ 1.................................................. [College of the Ozarks] was compared to [College of the Ozarks] 
+	http://risis.eu/orgref_20170703/resource/20492606.. http://www.grid.ac/institutes/grid.469022.b........ 1.................................................. [Ozarka College] was compared to [Ozarka College].. 
+	http://www.grid.ac/institutes/grid.469022.b........ http://risis.eu/orgref_20170703/resource/20492606.. 1.................................................. [Ozarka College] was compared to [Ozarka College].. 
+	http://www.grid.ac/institutes/grid.469022.b........ http://risis.eu/orgref_20170703/resource/968977.... 0.928571428571..................................... [Ozarka College] was compared to [College of the Ozarks] 
+	http://risis.eu/orgref_20170703/resource/968977.... http://www.grid.ac/institutes/grid.469022.b........ 0.928571428571..................................... [Ozarka College] was compared to [College of the Ozarks] 
+	http://risis.eu/orgref_20170703/resource/20492606.. http://risis.eu/orgref_20170703/resource/968977.... 0.928571428571..................................... [Ozarka College] was compared to [College of the Ozarks] 
+	http://risis.eu/orgref_20170703/resource/968977.... http://risis.eu/orgref_20170703/resource/20492606.. 0.928571428571..................................... [Ozarka College] was compared to [College of the Ozarks] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.428074.d........ -93.2405........................................... 
+	http://www.grid.ac/institutes/grid.428074.d........ 36.6181............................................ 
+	http://www.grid.ac/institutes/grid.428074.d........ http://www.cofo.edu/............................... 
+	http://www.grid.ac/institutes/grid.428074.d........ College of the Ozarks.............................. 
+	http://risis.eu/orgref_20170703/resource/20492606.. http://en.wikipedia.org/wiki?curid=20492606........ 
+	http://risis.eu/orgref_20170703/resource/20492606.. http://www.wikidata.org/wiki/Q7116523.............. 
+	http://risis.eu/orgref_20170703/resource/20492606.. http://www.ozarka.edu.............................. 
+	http://risis.eu/orgref_20170703/resource/20492606.. Ozarka College..................................... 
+	http://www.grid.ac/institutes/grid.469022.b........ -91.89694.......................................... 
+	http://www.grid.ac/institutes/grid.469022.b........ 36.05438........................................... 
+	http://www.grid.ac/institutes/grid.469022.b........ https://www.ozarka.edu/consumer_info/.............. 
+	http://www.grid.ac/institutes/grid.469022.b........ Ozarka College..................................... 
+	http://risis.eu/orgref_20170703/resource/968977.... http://en.wikipedia.org/wiki?curid=968977.......... 
+	http://risis.eu/orgref_20170703/resource/968977.... http://www.wikidata.org/wiki/Q5146892.............. 
+	http://risis.eu/orgref_20170703/resource/968977.... http://www.cofo.edu................................ 
+	http://risis.eu/orgref_20170703/resource/968977.... College of the Ozarks.............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:20492606', '1:grid.428074.d'), ('2:20492606', '3:grid.469022.b'), ('3:grid.469022.b', '1:grid.428074.d'), ('4:968977', '1:grid.428074.d'), ('4:968977', '2:20492606'), ('4:968977', '3:grid.469022.b')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

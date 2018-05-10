@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 2635 
+NAME    N98460544
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.429543.d>
+	<http://www.grid.ac/institutes/grid.482314.8>
+	<http://www.grid.ac/institutes/grid.452347.3>
+	<http://www.grid.ac/institutes/grid.452346.2>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.452347.3.. http://www.grid.ac/institutes/grid.452346.2.. 1............................................ [Clinton Foundation] was compared to [Clinton Foundation] 
+	http://www.grid.ac/institutes/grid.452346.2.. http://www.grid.ac/institutes/grid.452347.3.. 1............................................ [Clinton Foundation] was compared to [Clinton Foundation] 
+	http://www.grid.ac/institutes/grid.429543.d.. http://www.grid.ac/institutes/grid.482314.8.. 0.842105263158............................... [McCarton Foundation] was compared to [Clayton Foundation] 
+	http://www.grid.ac/institutes/grid.482314.8.. http://www.grid.ac/institutes/grid.429543.d.. 0.842105263158............................... [McCarton Foundation] was compared to [Clayton Foundation] 
+	http://www.grid.ac/institutes/grid.482314.8.. http://www.grid.ac/institutes/grid.452346.2.. 0.888888888889............................... [Clinton Foundation] was compared to [Clayton Foundation] 
+	http://www.grid.ac/institutes/grid.452346.2.. http://www.grid.ac/institutes/grid.482314.8.. 0.888888888889............................... [Clinton Foundation] was compared to [Clayton Foundation] 
+	http://www.grid.ac/institutes/grid.482314.8.. http://www.grid.ac/institutes/grid.452347.3.. 0.888888888889............................... [Clinton Foundation] was compared to [Clayton Foundation] 
+	http://www.grid.ac/institutes/grid.452347.3.. http://www.grid.ac/institutes/grid.482314.8.. 0.888888888889............................... [Clinton Foundation] was compared to [Clayton Foundation] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.429543.d.. McCarton Foundation.......................... 
+	http://www.grid.ac/institutes/grid.482314.8.. 6.14244...................................... 
+	http://www.grid.ac/institutes/grid.482314.8.. 46.191383.................................... 
+	http://www.grid.ac/institutes/grid.482314.8.. http://www.claytonbiotech.com/............... 
+	http://www.grid.ac/institutes/grid.482314.8.. Clayton Foundation........................... 
+	http://www.grid.ac/institutes/grid.452347.3.. 38.75892..................................... 
+	http://www.grid.ac/institutes/grid.452347.3.. 8.98522...................................... 
+	http://www.grid.ac/institutes/grid.452347.3.. https://www.clintonfoundation.org/........... 
+	http://www.grid.ac/institutes/grid.452347.3.. Clinton Foundation........................... 
+	http://www.grid.ac/institutes/grid.452346.2.. -73.98043.................................... 
+	http://www.grid.ac/institutes/grid.452346.2.. 40.760067.................................... 
+	http://www.grid.ac/institutes/grid.452346.2.. https://www.clintonfoundation.org/........... 
+	http://www.grid.ac/institutes/grid.452346.2.. Bill, Hillary & Chelsea Clinton Foundation... 
+	http://www.grid.ac/institutes/grid.452346.2.. William J. Clinton Foundation................ 
+	http://www.grid.ac/institutes/grid.452346.2.. Clinton Foundation........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.482314.8', '1:grid.429543.d'), ('2:grid.482314.8', '4:grid.452346.2'), ('3:grid.452347.3', '2:grid.482314.8'), ('4:grid.452346.2', '3:grid.452347.3')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

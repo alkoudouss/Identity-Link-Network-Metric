@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 5341 
+NAME    N1966352998
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.418596.7>
+	<http://risis.eu/cordisH2020/resource/participant_999896759>
+	<http://risis.eu/leidenRanking_2015/resource/2545>
+	<http://risis.eu/orgref_20170703/resource/323973>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.418596.7................. http://risis.eu/orgref_20170703/resource/323973............. 1........................................................... [Institute Curie] was compared to [Curie Institute (Paris)]. 
+	http://risis.eu/orgref_20170703/resource/323973............. http://www.grid.ac/institutes/grid.418596.7................. 1........................................................... [Institute Curie] was compared to [Curie Institute (Paris)]. 
+	http://www.grid.ac/institutes/grid.418596.7................. http://risis.eu/leidenRanking_2015/resource/2545............ 1........................................................... [Institute Curie] was compared to [Curie Institute]......... 
+	http://risis.eu/leidenRanking_2015/resource/2545............ http://www.grid.ac/institutes/grid.418596.7................. 1........................................................... [Institute Curie] was compared to [Curie Institute]......... 
+	http://www.grid.ac/institutes/grid.418596.7................. http://risis.eu/cordisH2020/resource/participant_999896759.. 0.933333333333.............................................. [Institute Curie] was compared to [INSTITUT CURIE].......... 
+	http://risis.eu/cordisH2020/resource/participant_999896759.. http://www.grid.ac/institutes/grid.418596.7................. 0.933333333333.............................................. [Institute Curie] was compared to [INSTITUT CURIE].......... 
+	http://risis.eu/leidenRanking_2015/resource/2545............ http://risis.eu/orgref_20170703/resource/323973............. 1........................................................... [Curie Institute (Paris)] was compared to [Curie Institute]. 
+	http://risis.eu/orgref_20170703/resource/323973............. http://risis.eu/leidenRanking_2015/resource/2545............ 1........................................................... [Curie Institute (Paris)] was compared to [Curie Institute]. 
+	http://risis.eu/cordisH2020/resource/participant_999896759.. http://risis.eu/orgref_20170703/resource/323973............. 0.933333333333.............................................. [Curie Institute (Paris)] was compared to [INSTITUT CURIE].. 
+	http://risis.eu/orgref_20170703/resource/323973............. http://risis.eu/cordisH2020/resource/participant_999896759.. 0.933333333333.............................................. [Curie Institute (Paris)] was compared to [INSTITUT CURIE].. 
+	http://risis.eu/cordisH2020/resource/participant_999896759.. http://risis.eu/leidenRanking_2015/resource/2545............ 0.933333333333.............................................. [INSTITUT CURIE] was compared to [Curie Institute].......... 
+	http://risis.eu/leidenRanking_2015/resource/2545............ http://risis.eu/cordisH2020/resource/participant_999896759.. 0.933333333333.............................................. [INSTITUT CURIE] was compared to [Curie Institute].......... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.418596.7................. 2.344167.................................................... 
+	http://www.grid.ac/institutes/grid.418596.7................. 48.843334................................................... 
+	http://www.grid.ac/institutes/grid.418596.7................. http://www.institut-curie.org/.............................. 
+	http://www.grid.ac/institutes/grid.418596.7................. Institut Curie.............................................. 
+	http://www.grid.ac/institutes/grid.418596.7................. Institute Curie............................................. 
+	http://risis.eu/cordisH2020/resource/participant_999896759.. http://risis.eu/cordisH2020/resource/www.curie.fr........... 
+	http://risis.eu/cordisH2020/resource/participant_999896759.. INSTITUT CURIE.............................................. 
+	http://risis.eu/leidenRanking_2015/resource/2545............ Curie Institute............................................. 
+	http://risis.eu/orgref_20170703/resource/323973............. http://en.wikipedia.org/wiki?curid=323973................... 
+	http://risis.eu/orgref_20170703/resource/323973............. http://www.wikidata.org/wiki/Q2451973....................... 
+	http://risis.eu/orgref_20170703/resource/323973............. http://www.curie.fr......................................... 
+	http://risis.eu/orgref_20170703/resource/323973............. Curie Institute (Paris)..................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_999896759', '1:grid.418596.7'), ('2:participant_999896759', '4:323973'), ('3:2545', '1:grid.418596.7'), ('3:2545', '2:participant_999896759'), ('4:323973', '1:grid.418596.7'), ('4:323973', '3:2545')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

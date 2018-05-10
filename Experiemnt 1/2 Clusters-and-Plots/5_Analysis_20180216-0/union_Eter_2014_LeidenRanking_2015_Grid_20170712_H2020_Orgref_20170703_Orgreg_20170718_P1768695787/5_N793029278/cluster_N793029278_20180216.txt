@@ -1,0 +1,72 @@
+SIZE    5   
+CLUSTER 3825 
+NAME    N793029278
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.453964.9>
+	<http://www.grid.ac/institutes/grid.478473.b>
+	<http://www.grid.ac/institutes/grid.478478.0>
+	<http://www.grid.ac/institutes/grid.453249.d>
+	<http://www.grid.ac/institutes/grid.470735.2>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.478478.0.. http://www.grid.ac/institutes/grid.453249.d.. 0.925925925926............................... [British Ecological Society] was compared to [British Mycological Society] 
+	http://www.grid.ac/institutes/grid.453249.d.. http://www.grid.ac/institutes/grid.478478.0.. 0.925925925926............................... [British Ecological Society] was compared to [British Mycological Society] 
+	http://www.grid.ac/institutes/grid.453249.d.. http://www.grid.ac/institutes/grid.470735.2.. 0.862068965517............................... [British Ecological Society] was compared to [British Psychological Society] 
+	http://www.grid.ac/institutes/grid.470735.2.. http://www.grid.ac/institutes/grid.453249.d.. 0.862068965517............................... [British Ecological Society] was compared to [British Psychological Society] 
+	http://www.grid.ac/institutes/grid.478473.b.. http://www.grid.ac/institutes/grid.453249.d.. 0.833333333333............................... [British Ecological Society] was compared to [British Herpetological Society] 
+	http://www.grid.ac/institutes/grid.453249.d.. http://www.grid.ac/institutes/grid.478473.b.. 0.833333333333............................... [British Ecological Society] was compared to [British Herpetological Society] 
+	http://www.grid.ac/institutes/grid.453964.9.. http://www.grid.ac/institutes/grid.478478.0.. 0.838709677419............................... [British Pharmacological Society] was compared to [British Mycological Society] 
+	http://www.grid.ac/institutes/grid.478478.0.. http://www.grid.ac/institutes/grid.453964.9.. 0.838709677419............................... [British Pharmacological Society] was compared to [British Mycological Society] 
+	http://www.grid.ac/institutes/grid.453964.9.. http://www.grid.ac/institutes/grid.478473.b.. 0.838709677419............................... [British Pharmacological Society] was compared to [British Herpetological Society] 
+	http://www.grid.ac/institutes/grid.478473.b.. http://www.grid.ac/institutes/grid.453964.9.. 0.838709677419............................... [British Pharmacological Society] was compared to [British Herpetological Society] 
+	http://www.grid.ac/institutes/grid.478478.0.. http://www.grid.ac/institutes/grid.470735.2.. 0.896551724138............................... [British Psychological Society] was compared to [British Mycological Society] 
+	http://www.grid.ac/institutes/grid.470735.2.. http://www.grid.ac/institutes/grid.478478.0.. 0.896551724138............................... [British Psychological Society] was compared to [British Mycological Society] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 20 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.453964.9.. -0.101481.................................... 
+	http://www.grid.ac/institutes/grid.453964.9.. 51.530388.................................... 
+	http://www.grid.ac/institutes/grid.453964.9.. http://www.bps.ac.uk/view/index.html......... 
+	http://www.grid.ac/institutes/grid.453964.9.. British Pharmacological Society.............. 
+	http://www.grid.ac/institutes/grid.478473.b.. -2.468797.................................... 
+	http://www.grid.ac/institutes/grid.478473.b.. 56.714886.................................... 
+	http://www.grid.ac/institutes/grid.478473.b.. http://www.thebhs.org/....................... 
+	http://www.grid.ac/institutes/grid.478473.b.. British Herpetological Society............... 
+	http://www.grid.ac/institutes/grid.478478.0.. -2.220831.................................... 
+	http://www.grid.ac/institutes/grid.478478.0.. 53.473053.................................... 
+	http://www.grid.ac/institutes/grid.478478.0.. http://www.britmycolsoc.org.uk/.............. 
+	http://www.grid.ac/institutes/grid.478478.0.. British Mycological Society.................. 
+	http://www.grid.ac/institutes/grid.453249.d.. -0.115251.................................... 
+	http://www.grid.ac/institutes/grid.453249.d.. 51.52305..................................... 
+	http://www.grid.ac/institutes/grid.453249.d.. http://www.britishecologicalsociety.org/..... 
+	http://www.grid.ac/institutes/grid.453249.d.. British Ecological Society................... 
+	http://www.grid.ac/institutes/grid.470735.2.. -1.125528.................................... 
+	http://www.grid.ac/institutes/grid.470735.2.. 52.628605.................................... 
+	http://www.grid.ac/institutes/grid.470735.2.. http://www.bps.org.uk/....................... 
+	http://www.grid.ac/institutes/grid.470735.2.. British Psychological Society................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.478473.b', '1:grid.453964.9'), ('2:grid.478473.b', '4:grid.453249.d'), ('3:grid.478478.0', '1:grid.453964.9'), ('3:grid.478478.0', '4:grid.453249.d'), ('3:grid.478478.0', '5:grid.470735.2'), ('5:grid.470735.2', '4:grid.453249.d')]
+	MAX DISTANCE:                   : 0.6
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 2.1
+	AVERAGE NODE CONNECTIVITY RATIO : 0.525
+	BRIDGES                         : 0
+	CLOSURE                         : 0.6
+	DIAMETER                        : 2
+	QUALITY                         : 0.244
+	QUALITY USED                    : 0.262
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.4 DIAMETER 0.333 QUALITY 0.244 QUALITY USED 0.262
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.4 DIAMETER 0.385 QUALITY 0.244 QUALITY USED 0.262

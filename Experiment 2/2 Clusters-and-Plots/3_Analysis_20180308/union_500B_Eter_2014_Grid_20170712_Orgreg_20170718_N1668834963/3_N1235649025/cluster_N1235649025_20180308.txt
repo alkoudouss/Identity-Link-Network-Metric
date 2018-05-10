@@ -1,0 +1,55 @@
+SIZE    3   
+CLUSTER 595 
+NAME    N1235649025
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.470626.1>
+	<http://www.grid.ac/institutes/grid.410566.0>
+	<http://risis.eu/orgreg_20170718/resource/BE2001>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.470626.1...... http://risis.eu/orgreg_20170718/resource/BE2001.. 1................................................ Near each other by at most 500 meter(s).......... 
+	http://www.grid.ac/institutes/grid.410566.0...... http://risis.eu/orgreg_20170718/resource/BE2001.. 1................................................ Near each other by at most 500 meter(s).......... 
+	http://risis.eu/orgreg_20170718/resource/BE2001.. http://www.grid.ac/institutes/grid.410566.0...... 1................................................ Near each other by at most 500 meter(s).......... 
+	http://risis.eu/orgreg_20170718/resource/BE2001.. http://www.grid.ac/institutes/grid.470626.1...... 1................................................ Near each other by at most 500 meter(s).......... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.470626.1...... 3.72507.......................................... 
+	http://www.grid.ac/institutes/grid.470626.1...... 51.02489......................................... 
+	http://www.grid.ac/institutes/grid.470626.1...... http://www.ramit.be/............................. 
+	http://www.grid.ac/institutes/grid.470626.1...... Research in Advanced Medical Informatics and Telematics 
+	http://www.grid.ac/institutes/grid.410566.0...... 3.725213......................................... 
+	http://www.grid.ac/institutes/grid.410566.0...... 51.02517......................................... 
+	http://www.grid.ac/institutes/grid.410566.0...... http://www.uzgent.be/............................ 
+	http://www.grid.ac/institutes/grid.410566.0...... UZ Gent.......................................... 
+	http://www.grid.ac/institutes/grid.410566.0...... Ghent University Hospital........................ 
+	http://risis.eu/orgreg_20170718/resource/BE2001.. 3.725833......................................... 
+	http://risis.eu/orgreg_20170718/resource/BE2001.. 51.024167........................................ 
+	http://risis.eu/orgreg_20170718/resource/BE2001.. http://www.uzgent.be/............................ 
+	http://risis.eu/orgreg_20170718/resource/BE2001.. Universitair Ziekenhuis Gent..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('N1235649025-BE2001', 'N228365924-grid.410566.0'), ('N1235649025-BE2001', 'N399105708-grid.470626.1')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

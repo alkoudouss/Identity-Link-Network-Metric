@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 6657 
+NAME    N399690436
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/NO0001>
+	<http://risis.eu/leidenRanking_2015/resource/499>
+	<http://www.grid.ac/institutes/grid.5510.1>
+	<http://risis.eu/orgref_20170703/resource/31800>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.5510.1........ http://risis.eu/orgref_20170703/resource/31800... 1................................................ [University of Oslo] was compared to [University of Oslo] 
+	http://risis.eu/orgref_20170703/resource/31800... http://www.grid.ac/institutes/grid.5510.1........ 1................................................ [University of Oslo] was compared to [University of Oslo] 
+	http://risis.eu/leidenRanking_2015/resource/499.. http://www.grid.ac/institutes/grid.5510.1........ 1................................................ [University of Oslo] was compared to [University of Oslo] 
+	http://www.grid.ac/institutes/grid.5510.1........ http://risis.eu/leidenRanking_2015/resource/499.. 1................................................ [University of Oslo] was compared to [University of Oslo] 
+	http://risis.eu/leidenRanking_2015/resource/499.. http://risis.eu/orgref_20170703/resource/31800... 1................................................ [University of Oslo] was compared to [University of Oslo] 
+	http://risis.eu/orgref_20170703/resource/31800... http://risis.eu/leidenRanking_2015/resource/499.. 1................................................ [University of Oslo] was compared to [University of Oslo] 
+	http://risis.eu/orgreg_20170718/resource/NO0001.. http://risis.eu/leidenRanking_2015/resource/499.. 1................................................ [University of Oslo] was compared to [University of Oslo] 
+	http://risis.eu/leidenRanking_2015/resource/499.. http://risis.eu/orgreg_20170718/resource/NO0001.. 1................................................ [University of Oslo] was compared to [University of Oslo] 
+	http://risis.eu/orgreg_20170718/resource/NO0001.. http://risis.eu/orgref_20170703/resource/31800... 1................................................ [University of Oslo] was compared to [University of Oslo] 
+	http://risis.eu/orgref_20170703/resource/31800... http://risis.eu/orgreg_20170718/resource/NO0001.. 1................................................ [University of Oslo] was compared to [University of Oslo] 
+	http://risis.eu/orgreg_20170718/resource/NO0001.. http://www.grid.ac/institutes/grid.5510.1........ 1................................................ [University of Oslo] was compared to [University of Oslo] 
+	http://www.grid.ac/institutes/grid.5510.1........ http://risis.eu/orgreg_20170718/resource/NO0001.. 1................................................ [University of Oslo] was compared to [University of Oslo] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/NO0001.. 10.408142........................................ 
+	http://risis.eu/orgreg_20170718/resource/NO0001.. 63.416991........................................ 
+	http://risis.eu/orgreg_20170718/resource/NO0001.. http://www.uio.no/english/....................... 
+	http://risis.eu/orgreg_20170718/resource/NO0001.. University of Oslo............................... 
+	http://risis.eu/leidenRanking_2015/resource/499.. University of Oslo............................... 
+	http://www.grid.ac/institutes/grid.5510.1........ 10.719175........................................ 
+	http://www.grid.ac/institutes/grid.5510.1........ 59.93957......................................... 
+	http://www.grid.ac/institutes/grid.5510.1........ http://www.uio.no/english/....................... 
+	http://www.grid.ac/institutes/grid.5510.1........ Universitetet i Oslo............................. 
+	http://www.grid.ac/institutes/grid.5510.1........ Royal Frederick University....................... 
+	http://www.grid.ac/institutes/grid.5510.1........ University of Oslo............................... 
+	http://risis.eu/orgref_20170703/resource/31800... http://en.wikipedia.org/wiki?curid=31800......... 
+	http://risis.eu/orgref_20170703/resource/31800... http://www.wikidata.org/wiki/Q486156............. 
+	http://risis.eu/orgref_20170703/resource/31800... https://www.uio.no/english....................... 
+	http://risis.eu/orgref_20170703/resource/31800... University of Oslo............................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:499', '1:NO0001'), ('2:499', '3:grid.5510.1'), ('2:499', '4:31800'), ('3:grid.5510.1', '1:NO0001'), ('4:31800', '1:NO0001'), ('4:31800', '3:grid.5510.1')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,50 @@
+SIZE    3   
+CLUSTER 10464 
+NAME    N481356799
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.432742.4>
+	<http://www.grid.ac/institutes/grid.438647.a>
+	<http://risis.eu/orgref_20170703/resource/7623153>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.432742.4....... http://www.grid.ac/institutes/grid.438647.a....... 1................................................. [Crucell (Switzerland)] was compared to [Crucell (Sweden)] 
+	http://www.grid.ac/institutes/grid.432742.4....... http://risis.eu/orgref_20170703/resource/7623153.. 1................................................. [Crucell (Switzerland)] was compared to [Crucell]. 
+	http://www.grid.ac/institutes/grid.438647.a....... http://risis.eu/orgref_20170703/resource/7623153.. 1................................................. [Crucell (Sweden)] was compared to [Crucell]...... 
+	http://www.grid.ac/institutes/grid.438647.a....... http://www.grid.ac/institutes/grid.432742.4....... 1................................................. [Crucell (Switzerland)] was compared to [Crucell (Sweden)] 
+	http://risis.eu/orgref_20170703/resource/7623153.. http://www.grid.ac/institutes/grid.432742.4....... 1................................................. [Crucell (Switzerland)] was compared to [Crucell]. 
+	http://risis.eu/orgref_20170703/resource/7623153.. http://www.grid.ac/institutes/grid.438647.a....... 1................................................. [Crucell (Sweden)] was compared to [Crucell]...... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.432742.4....... Crucell (Switzerland)............................. 
+	http://www.grid.ac/institutes/grid.438647.a....... Crucell (Sweden).................................. 
+	http://risis.eu/orgref_20170703/resource/7623153.. http://en.wikipedia.org/wiki?curid=7623153........ 
+	http://risis.eu/orgref_20170703/resource/7623153.. http://www.wikidata.org/wiki/Q3005506............. 
+	http://risis.eu/orgref_20170703/resource/7623153.. http://www.crucell.com............................ 
+	http://risis.eu/orgref_20170703/resource/7623153.. Crucell........................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('P1508578304-grid.432742.4', 'N481356799-grid.438647.a'), ('P339069886-7623153', 'N481356799-grid.438647.a'), ('P339069886-7623153', 'P1508578304-grid.432742.4')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

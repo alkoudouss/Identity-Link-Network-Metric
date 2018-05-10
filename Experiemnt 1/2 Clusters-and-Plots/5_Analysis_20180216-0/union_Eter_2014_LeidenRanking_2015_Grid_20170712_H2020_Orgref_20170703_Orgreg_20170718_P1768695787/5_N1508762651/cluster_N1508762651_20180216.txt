@@ -1,0 +1,69 @@
+SIZE    5   
+CLUSTER 12446 
+NAME    N1508762651
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/14036230>
+	<http://risis.eu/cordisH2020/resource/participant_953554039>
+	<http://www.grid.ac/institutes/grid.5465.2>
+	<http://www.grid.ac/institutes/grid.440490.d>
+	<http://risis.eu/orgref_20170703/resource/20448735>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/14036230........... http://www.grid.ac/institutes/grid.5465.2................... 1........................................................... [University Hospital of South Manchester NHS Foundation Trust] was compared to [University Hospital of South Manchester NHS Foundation Trust] 
+	http://www.grid.ac/institutes/grid.5465.2................... http://risis.eu/orgref_20170703/resource/14036230........... 1........................................................... [University Hospital of South Manchester NHS Foundation Trust] was compared to [University Hospital of South Manchester NHS Foundation Trust] 
+	http://www.grid.ac/institutes/grid.440490.d................. http://risis.eu/orgref_20170703/resource/20448735........... 1........................................................... [Colchester Hospital University NHS Foundation Trust] was compared to [Colchester Hospital University NHS Foundation Trust] 
+	http://risis.eu/orgref_20170703/resource/20448735........... http://www.grid.ac/institutes/grid.440490.d................. 1........................................................... [Colchester Hospital University NHS Foundation Trust] was compared to [Colchester Hospital University NHS Foundation Trust] 
+	http://risis.eu/cordisH2020/resource/participant_953554039.. http://www.grid.ac/institutes/grid.5465.2................... 1........................................................... [University Hospital of South Manchester NHS Foundation Trust] was compared to [UNIVERSITY HOSPITAL OF SOUTH MANCHESTER NHS FOUNDATION TRUST] 
+	http://www.grid.ac/institutes/grid.5465.2................... http://risis.eu/cordisH2020/resource/participant_953554039.. 1........................................................... [University Hospital of South Manchester NHS Foundation Trust] was compared to [UNIVERSITY HOSPITAL OF SOUTH MANCHESTER NHS FOUNDATION TRUST] 
+	http://risis.eu/orgref_20170703/resource/14036230........... http://risis.eu/cordisH2020/resource/participant_953554039.. 1........................................................... [University Hospital of South Manchester NHS Foundation Trust] was compared to [UNIVERSITY HOSPITAL OF SOUTH MANCHESTER NHS FOUNDATION TRUST] 
+	http://risis.eu/cordisH2020/resource/participant_953554039.. http://risis.eu/orgref_20170703/resource/14036230........... 1........................................................... [University Hospital of South Manchester NHS Foundation Trust] was compared to [UNIVERSITY HOSPITAL OF SOUTH MANCHESTER NHS FOUNDATION TRUST] 
+	http://risis.eu/orgref_20170703/resource/14036230........... http://risis.eu/orgref_20170703/resource/20448735........... 0.842105263158.............................................. [University Hospital of South Manchester NHS Foundation Trust] was compared to [Colchester Hospital University NHS Foundation Trust] 
+	http://risis.eu/orgref_20170703/resource/20448735........... http://risis.eu/orgref_20170703/resource/14036230........... 0.842105263158.............................................. [University Hospital of South Manchester NHS Foundation Trust] was compared to [Colchester Hospital University NHS Foundation Trust] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 19 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/14036230........... http://en.wikipedia.org/wiki?curid=14036230................. 
+	http://risis.eu/orgref_20170703/resource/14036230........... http://www.wikidata.org/wiki/Q7894773....................... 
+	http://risis.eu/orgref_20170703/resource/14036230........... http://www.uhsm.nhs.uk...................................... 
+	http://risis.eu/orgref_20170703/resource/14036230........... University Hospital of South Manchester NHS Foundation Trust 
+	http://risis.eu/cordisH2020/resource/participant_953554039.. http://risis.eu/cordisH2020/resource/www.uhsm.nhs.uk........ 
+	http://risis.eu/cordisH2020/resource/participant_953554039.. UNIVERSITY HOSPITAL OF SOUTH MANCHESTER NHS FOUNDATION TRUST 
+	http://www.grid.ac/institutes/grid.5465.2................... -2.2919..................................................... 
+	http://www.grid.ac/institutes/grid.5465.2................... 53.3887..................................................... 
+	http://www.grid.ac/institutes/grid.5465.2................... http://www.uhsm.nhs.uk/Pages/default.aspx................... 
+	http://www.grid.ac/institutes/grid.5465.2................... Wythenshawe Hospital........................................ 
+	http://www.grid.ac/institutes/grid.5465.2................... University Hospital of South Manchester NHS Foundation Trust 
+	http://www.grid.ac/institutes/grid.440490.d................. 0.88941..................................................... 
+	http://www.grid.ac/institutes/grid.440490.d................. 51.887394................................................... 
+	http://www.grid.ac/institutes/grid.440490.d................. http://www.colchesterhospital.nhs.uk/....................... 
+	http://www.grid.ac/institutes/grid.440490.d................. Colchester Hospital University NHS Foundation Trust......... 
+	http://risis.eu/orgref_20170703/resource/20448735........... http://en.wikipedia.org/wiki?curid=20448735................. 
+	http://risis.eu/orgref_20170703/resource/20448735........... http://www.wikidata.org/wiki/Q5142092....................... 
+	http://risis.eu/orgref_20170703/resource/20448735........... http://www.colchesterhospital.nhs.uk/index.shtml............ 
+	http://risis.eu/orgref_20170703/resource/20448735........... Colchester Hospital University NHS Foundation Trust......... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_953554039', '1:14036230'), ('2:participant_953554039', '3:grid.5465.2'), ('3:grid.5465.2', '1:14036230'), ('5:20448735', '1:14036230'), ('5:20448735', '4:grid.440490.d')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 1.3
+	AVERAGE NODE CONNECTIVITY RATIO : 0.325
+	BRIDGES                         : 2
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.556
+	QUALITY USED                    : 0.574
+	SUMMARY 1: BRIDGE 0.5 CLOSURE 0.5 DIAMETER 0.667 QUALITY 0.556 QUALITY USED 0.574
+	SUMMARY 2: BRIDGE 0.556 CLOSURE 0.5 DIAMETER 0.667 QUALITY 0.556 QUALITY USED 0.574

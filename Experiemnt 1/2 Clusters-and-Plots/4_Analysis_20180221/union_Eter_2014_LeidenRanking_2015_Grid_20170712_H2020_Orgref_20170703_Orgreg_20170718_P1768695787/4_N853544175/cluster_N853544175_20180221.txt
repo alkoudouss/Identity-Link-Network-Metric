@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 2644 
+NAME    N853544175
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.252874.e>
+	<http://risis.eu/orgref_20170703/resource/818426>
+	<http://risis.eu/eter_2014/resource/UK0003>
+	<http://risis.eu/cordisH2020/resource/participant_960110366>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.252874.e................. http://risis.eu/orgref_20170703/resource/818426............. 1........................................................... [Bath Spa University] was compared to [Bath Spa University]. 
+	http://risis.eu/orgref_20170703/resource/818426............. http://www.grid.ac/institutes/grid.252874.e................. 1........................................................... [Bath Spa University] was compared to [Bath Spa University]. 
+	http://www.grid.ac/institutes/grid.252874.e................. http://risis.eu/eter_2014/resource/UK0003................... 1........................................................... [Bath Spa University] was compared to [Bath Spa University]. 
+	http://risis.eu/eter_2014/resource/UK0003................... http://www.grid.ac/institutes/grid.252874.e................. 1........................................................... [Bath Spa University] was compared to [Bath Spa University]. 
+	http://www.grid.ac/institutes/grid.252874.e................. http://risis.eu/cordisH2020/resource/participant_960110366.. 1........................................................... [Bath Spa University] was compared to [BATH SPA UNIVERSITY]. 
+	http://risis.eu/cordisH2020/resource/participant_960110366.. http://www.grid.ac/institutes/grid.252874.e................. 1........................................................... [Bath Spa University] was compared to [BATH SPA UNIVERSITY]. 
+	http://risis.eu/orgref_20170703/resource/818426............. http://risis.eu/eter_2014/resource/UK0003................... 1........................................................... [Bath Spa University] was compared to [Bath Spa University]. 
+	http://risis.eu/eter_2014/resource/UK0003................... http://risis.eu/orgref_20170703/resource/818426............. 1........................................................... [Bath Spa University] was compared to [Bath Spa University]. 
+	http://risis.eu/orgref_20170703/resource/818426............. http://risis.eu/cordisH2020/resource/participant_960110366.. 1........................................................... [Bath Spa University] was compared to [BATH SPA UNIVERSITY]. 
+	http://risis.eu/cordisH2020/resource/participant_960110366.. http://risis.eu/orgref_20170703/resource/818426............. 1........................................................... [Bath Spa University] was compared to [BATH SPA UNIVERSITY]. 
+	http://risis.eu/eter_2014/resource/UK0003................... http://risis.eu/cordisH2020/resource/participant_960110366.. 1........................................................... [BATH SPA UNIVERSITY] was compared to [Bath Spa University]. 
+	http://risis.eu/cordisH2020/resource/participant_960110366.. http://risis.eu/eter_2014/resource/UK0003................... 1........................................................... [BATH SPA UNIVERSITY] was compared to [Bath Spa University]. 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.252874.e................. -2.438833................................................... 
+	http://www.grid.ac/institutes/grid.252874.e................. 51.37598.................................................... 
+	http://www.grid.ac/institutes/grid.252874.e................. https://www.bathspa.ac.uk/.................................. 
+	http://www.grid.ac/institutes/grid.252874.e................. Bath College of Higher Education............................ 
+	http://www.grid.ac/institutes/grid.252874.e................. Bath Spa University College................................. 
+	http://www.grid.ac/institutes/grid.252874.e................. Bath Spa University......................................... 
+	http://risis.eu/orgref_20170703/resource/818426............. http://en.wikipedia.org/wiki?curid=818426................... 
+	http://risis.eu/orgref_20170703/resource/818426............. http://www.wikidata.org/wiki/Q3091754....................... 
+	http://risis.eu/orgref_20170703/resource/818426............. http://www.bathspa.ac.uk.................................... 
+	http://risis.eu/orgref_20170703/resource/818426............. Bath Spa University......................................... 
+	http://risis.eu/eter_2014/resource/UK0003................... 51,378743................................................... 
+	http://risis.eu/eter_2014/resource/UK0003................... -2,437402................................................... 
+	http://risis.eu/eter_2014/resource/UK0003................... http://www.bathspa.ac.uk/................................... 
+	http://risis.eu/eter_2014/resource/UK0003................... a........................................................... 
+	http://risis.eu/eter_2014/resource/UK0003................... Bath Spa University......................................... 
+	http://risis.eu/cordisH2020/resource/participant_960110366.. BATH SPA UNIVERSITY......................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:818426', '1:grid.252874.e'), ('3:UK0003', '1:grid.252874.e'), ('3:UK0003', '2:818426'), ('3:UK0003', '4:participant_960110366'), ('4:participant_960110366', '1:grid.252874.e'), ('4:participant_960110366', '2:818426')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

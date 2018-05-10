@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 16537 
+NAME    N1291584874
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.440995.5>
+	<http://risis.eu/orgref_20170703/resource/4132200>
+	<http://www.grid.ac/institutes/grid.432092.e>
+	<http://risis.eu/orgref_20170703/resource/4107881>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/4132200.. http://www.grid.ac/institutes/grid.432092.e....... 1................................................. [Averett University] was compared to [Averett University] 
+	http://www.grid.ac/institutes/grid.432092.e....... http://risis.eu/orgref_20170703/resource/4132200.. 1................................................. [Averett University] was compared to [Averett University] 
+	http://www.grid.ac/institutes/grid.440995.5....... http://risis.eu/orgref_20170703/resource/4107881.. 1................................................. [Everest University] was compared to [Everest University] 
+	http://risis.eu/orgref_20170703/resource/4107881.. http://www.grid.ac/institutes/grid.440995.5....... 1................................................. [Everest University] was compared to [Everest University] 
+	http://risis.eu/orgref_20170703/resource/4132200.. http://risis.eu/orgref_20170703/resource/4107881.. 0.888888888889.................................... [Everest University] was compared to [Averett University] 
+	http://risis.eu/orgref_20170703/resource/4107881.. http://risis.eu/orgref_20170703/resource/4132200.. 0.888888888889.................................... [Everest University] was compared to [Averett University] 
+	http://www.grid.ac/institutes/grid.440995.5....... http://www.grid.ac/institutes/grid.432092.e....... 0.888888888889.................................... [Averett University] was compared to [Everest University] 
+	http://www.grid.ac/institutes/grid.432092.e....... http://www.grid.ac/institutes/grid.440995.5....... 0.888888888889.................................... [Averett University] was compared to [Everest University] 
+	http://www.grid.ac/institutes/grid.432092.e....... http://risis.eu/orgref_20170703/resource/4107881.. 0.888888888889.................................... [Averett University] was compared to [Everest University] 
+	http://risis.eu/orgref_20170703/resource/4107881.. http://www.grid.ac/institutes/grid.432092.e....... 0.888888888889.................................... [Averett University] was compared to [Everest University] 
+	http://www.grid.ac/institutes/grid.440995.5....... http://risis.eu/orgref_20170703/resource/4132200.. 0.888888888889.................................... [Everest University] was compared to [Averett University] 
+	http://risis.eu/orgref_20170703/resource/4132200.. http://www.grid.ac/institutes/grid.440995.5....... 0.888888888889.................................... [Everest University] was compared to [Averett University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.440995.5....... -82.35026......................................... 
+	http://www.grid.ac/institutes/grid.440995.5....... 27.980703......................................... 
+	http://www.grid.ac/institutes/grid.440995.5....... http://www.everest.edu/........................... 
+	http://www.grid.ac/institutes/grid.440995.5....... Florida Metropolitan University................... 
+	http://www.grid.ac/institutes/grid.440995.5....... Everest University................................ 
+	http://risis.eu/orgref_20170703/resource/4132200.. http://en.wikipedia.org/wiki?curid=4132200........ 
+	http://risis.eu/orgref_20170703/resource/4132200.. http://www.wikidata.org/wiki/Q4828300............. 
+	http://risis.eu/orgref_20170703/resource/4132200.. http://www.averett.edu............................ 
+	http://risis.eu/orgref_20170703/resource/4132200.. Averett University................................ 
+	http://www.grid.ac/institutes/grid.432092.e....... -79.41225......................................... 
+	http://www.grid.ac/institutes/grid.432092.e....... 36.57886.......................................... 
+	http://www.grid.ac/institutes/grid.432092.e....... http://www.averett.edu/........................... 
+	http://www.grid.ac/institutes/grid.432092.e....... Averett University................................ 
+	http://risis.eu/orgref_20170703/resource/4107881.. http://en.wikipedia.org/wiki?curid=4107881........ 
+	http://risis.eu/orgref_20170703/resource/4107881.. http://www.wikidata.org/wiki/Q5416962............. 
+	http://risis.eu/orgref_20170703/resource/4107881.. http://www.everest.edu............................ 
+	http://risis.eu/orgref_20170703/resource/4107881.. Everest University................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:4132200', '1:grid.440995.5'), ('2:4132200', '3:grid.432092.e'), ('2:4132200', '4:4107881'), ('3:grid.432092.e', '1:grid.440995.5'), ('4:4107881', '1:grid.440995.5'), ('4:4107881', '3:grid.432092.e')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,71 @@
+SIZE    5   
+CLUSTER 12485 
+NAME    N1865501130
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/6353026>
+	<http://risis.eu/orgreg_20170718/resource/PT0052>
+	<http://www.grid.ac/institutes/grid.442070.5>
+	<http://www.grid.ac/institutes/grid.260710.2>
+	<http://risis.eu/orgref_20170703/resource/32859044>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.442070.5........ http://www.grid.ac/institutes/grid.260710.2........ 0.837837837838..................................... [National University of Health Sciences] was compared to [Foundation University of Health Sciences] 
+	http://www.grid.ac/institutes/grid.260710.2........ http://www.grid.ac/institutes/grid.442070.5........ 0.837837837838..................................... [National University of Health Sciences] was compared to [Foundation University of Health Sciences] 
+	http://risis.eu/orgref_20170703/resource/6353026... http://www.grid.ac/institutes/grid.260710.2........ 1.................................................. [National University of Health Sciences] was compared to [National University of Health Sciences] 
+	http://www.grid.ac/institutes/grid.260710.2........ http://risis.eu/orgref_20170703/resource/6353026... 1.................................................. [National University of Health Sciences] was compared to [National University of Health Sciences] 
+	http://www.grid.ac/institutes/grid.260710.2........ http://risis.eu/orgref_20170703/resource/32859044.. 0.837837837838..................................... [National University of Health Sciences] was compared to [Foundation University of Health Sciences] 
+	http://risis.eu/orgref_20170703/resource/32859044.. http://www.grid.ac/institutes/grid.260710.2........ 0.837837837838..................................... [National University of Health Sciences] was compared to [Foundation University of Health Sciences] 
+	http://risis.eu/orgref_20170703/resource/6353026... http://www.grid.ac/institutes/grid.442070.5........ 0.837837837838..................................... [Foundation University of Health Sciences] was compared to [National University of Health Sciences] 
+	http://www.grid.ac/institutes/grid.442070.5........ http://risis.eu/orgref_20170703/resource/6353026... 0.837837837838..................................... [Foundation University of Health Sciences] was compared to [National University of Health Sciences] 
+	http://www.grid.ac/institutes/grid.442070.5........ http://risis.eu/orgref_20170703/resource/32859044.. 1.................................................. [Foundation University of Health Sciences] was compared to [Foundation University of Health Sciences] 
+	http://risis.eu/orgref_20170703/resource/32859044.. http://www.grid.ac/institutes/grid.442070.5........ 1.................................................. [Foundation University of Health Sciences] was compared to [Foundation University of Health Sciences] 
+	http://risis.eu/orgref_20170703/resource/6353026... http://risis.eu/orgreg_20170718/resource/PT0052.... 0.833333333333..................................... [National University of Health Sciences] was compared to [University Institute of Health Sciences] 
+	http://risis.eu/orgreg_20170718/resource/PT0052.... http://risis.eu/orgref_20170703/resource/6353026... 0.833333333333..................................... [National University of Health Sciences] was compared to [University Institute of Health Sciences] 
+	http://risis.eu/orgreg_20170718/resource/PT0052.... http://www.grid.ac/institutes/grid.260710.2........ 0.833333333333..................................... [National University of Health Sciences] was compared to [University Institute of Health Sciences] 
+	http://www.grid.ac/institutes/grid.260710.2........ http://risis.eu/orgreg_20170718/resource/PT0052.... 0.833333333333..................................... [National University of Health Sciences] was compared to [University Institute of Health Sciences] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/6353026... http://en.wikipedia.org/wiki?curid=6353026......... 
+	http://risis.eu/orgref_20170703/resource/6353026... http://www.wikidata.org/wiki/Q6979247.............. 
+	http://risis.eu/orgref_20170703/resource/6353026... http://www.nuhs.edu................................ 
+	http://risis.eu/orgref_20170703/resource/6353026... National University of Health Sciences............. 
+	http://risis.eu/orgreg_20170718/resource/PT0052.... -8.418422.......................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0052.... 41.153497.......................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0052.... http://www.cespu.pt................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0052.... University Institute of Health Sciences............ 
+	http://www.grid.ac/institutes/grid.442070.5........ Foundation University of Health Sciences........... 
+	http://www.grid.ac/institutes/grid.260710.2........ -88.01316.......................................... 
+	http://www.grid.ac/institutes/grid.260710.2........ 41.861748.......................................... 
+	http://www.grid.ac/institutes/grid.260710.2........ http://www.nuhs.edu/............................... 
+	http://www.grid.ac/institutes/grid.260710.2........ National University of Health Sciences............. 
+	http://risis.eu/orgref_20170703/resource/32859044.. http://en.wikipedia.org/wiki?curid=32859044........ 
+	http://risis.eu/orgref_20170703/resource/32859044.. http://www.wikidata.org/wiki/Q8564986.............. 
+	http://risis.eu/orgref_20170703/resource/32859044.. http://www.fucsalud.edu.co......................... 
+	http://risis.eu/orgref_20170703/resource/32859044.. Foundation University of Health Sciences........... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:6353026', '4:grid.260710.2'), ('2:PT0052', '1:6353026'), ('2:PT0052', '4:grid.260710.2'), ('3:grid.442070.5', '1:6353026'), ('3:grid.442070.5', '4:grid.260710.2'), ('5:32859044', '3:grid.442070.5'), ('5:32859044', '4:grid.260710.2')]
+	MAX DISTANCE:                   : 0.7
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 2.2
+	AVERAGE NODE CONNECTIVITY RATIO : 0.55
+	BRIDGES                         : 0
+	CLOSURE                         : 0.7
+	DIAMETER                        : 2
+	QUALITY                         : 0.211
+	QUALITY USED                    : 0.228
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.3 DIAMETER 0.333 QUALITY 0.211 QUALITY USED 0.228
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.3 DIAMETER 0.385 QUALITY 0.211 QUALITY USED 0.228

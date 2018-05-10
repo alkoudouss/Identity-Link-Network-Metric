@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 7679 
+NAME    N1484585906
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.414534.3>
+	<http://risis.eu/leidenRanking_2015/resource/1681>
+	<http://risis.eu/orgref_20170703/resource/3135541>
+	<http://www.grid.ac/institutes/grid.439338.6>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/3135541.. http://www.grid.ac/institutes/grid.439338.6....... 1................................................. [Royal Brompton Hospital] was compared to [Royal Brompton Hospital] 
+	http://www.grid.ac/institutes/grid.439338.6....... http://risis.eu/orgref_20170703/resource/3135541.. 1................................................. [Royal Brompton Hospital] was compared to [Royal Brompton Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1681.. http://www.grid.ac/institutes/grid.439338.6....... 1................................................. [Royal Brompton Hospital] was compared to [Royal Brompton Hospital] 
+	http://www.grid.ac/institutes/grid.439338.6....... http://risis.eu/leidenRanking_2015/resource/1681.. 1................................................. [Royal Brompton Hospital] was compared to [Royal Brompton Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1681.. http://risis.eu/orgref_20170703/resource/3135541.. 1................................................. [Royal Brompton Hospital] was compared to [Royal Brompton Hospital] 
+	http://risis.eu/orgref_20170703/resource/3135541.. http://risis.eu/leidenRanking_2015/resource/1681.. 1................................................. [Royal Brompton Hospital] was compared to [Royal Brompton Hospital] 
+	http://www.grid.ac/institutes/grid.414534.3....... http://www.grid.ac/institutes/grid.439338.6....... 0.869565217391.................................... [Royal Bolton Hospital] was compared to [Royal Brompton Hospital] 
+	http://www.grid.ac/institutes/grid.439338.6....... http://www.grid.ac/institutes/grid.414534.3....... 0.869565217391.................................... [Royal Bolton Hospital] was compared to [Royal Brompton Hospital] 
+	http://www.grid.ac/institutes/grid.414534.3....... http://risis.eu/orgref_20170703/resource/3135541.. 0.869565217391.................................... [Royal Bolton Hospital] was compared to [Royal Brompton Hospital] 
+	http://risis.eu/orgref_20170703/resource/3135541.. http://www.grid.ac/institutes/grid.414534.3....... 0.869565217391.................................... [Royal Bolton Hospital] was compared to [Royal Brompton Hospital] 
+	http://www.grid.ac/institutes/grid.414534.3....... http://risis.eu/leidenRanking_2015/resource/1681.. 0.869565217391.................................... [Royal Bolton Hospital] was compared to [Royal Brompton Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1681.. http://www.grid.ac/institutes/grid.414534.3....... 0.869565217391.................................... [Royal Bolton Hospital] was compared to [Royal Brompton Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.414534.3....... -2.425854......................................... 
+	http://www.grid.ac/institutes/grid.414534.3....... 53.554253......................................... 
+	http://www.grid.ac/institutes/grid.414534.3....... http://www.boltonft.nhs.uk/locations/royal-bolton-hospital/ 
+	http://www.grid.ac/institutes/grid.414534.3....... http://www.nhs.uk/Services/hospitals/Overview/DefaultView.aspx?id=929 
+	http://www.grid.ac/institutes/grid.414534.3....... Royal Bolton Hospital............................. 
+	http://risis.eu/leidenRanking_2015/resource/1681.. Royal Brompton Hospital........................... 
+	http://risis.eu/orgref_20170703/resource/3135541.. http://en.wikipedia.org/wiki?curid=3135541........ 
+	http://risis.eu/orgref_20170703/resource/3135541.. http://www.wikidata.org/wiki/Q7373850............. 
+	http://risis.eu/orgref_20170703/resource/3135541.. http://www.rbht.nhs.uk............................ 
+	http://risis.eu/orgref_20170703/resource/3135541.. Royal Brompton Hospital........................... 
+	http://www.grid.ac/institutes/grid.439338.6....... Royal Brompton Hospital........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1681', '1:grid.414534.3'), ('2:1681', '4:grid.439338.6'), ('3:3135541', '1:grid.414534.3'), ('3:3135541', '2:1681'), ('3:3135541', '4:grid.439338.6'), ('4:grid.439338.6', '1:grid.414534.3')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,53 @@
+SIZE    3   
+CLUSTER 12248 
+NAME    N671915100
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.5887.2>
+	<http://www.grid.ac/institutes/grid.426026.4>
+	<http://www.grid.ac/institutes/grid.422985.0>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.5887.2.... http://www.grid.ac/institutes/grid.422985.0.. 1............................................ [NXP (United Kingdom)] was compared to [NXP (Netherlands)] 
+	http://www.grid.ac/institutes/grid.5887.2.... http://www.grid.ac/institutes/grid.426026.4.. 1............................................ [NXP (Belgium)] was compared to [NXP (Netherlands)] 
+	http://www.grid.ac/institutes/grid.426026.4.. http://www.grid.ac/institutes/grid.5887.2.... 1............................................ [NXP (Belgium)] was compared to [NXP (Netherlands)] 
+	http://www.grid.ac/institutes/grid.426026.4.. http://www.grid.ac/institutes/grid.422985.0.. 1............................................ [NXP (United Kingdom)] was compared to [NXP (Belgium)] 
+	http://www.grid.ac/institutes/grid.422985.0.. http://www.grid.ac/institutes/grid.5887.2.... 1............................................ [NXP (United Kingdom)] was compared to [NXP (Netherlands)] 
+	http://www.grid.ac/institutes/grid.422985.0.. http://www.grid.ac/institutes/grid.426026.4.. 1............................................ [NXP (United Kingdom)] was compared to [NXP (Belgium)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 9 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.5887.2.... 5.462076..................................... 
+	http://www.grid.ac/institutes/grid.5887.2.... 51.413372.................................... 
+	http://www.grid.ac/institutes/grid.5887.2.... http://www.nxp.com/.......................... 
+	http://www.grid.ac/institutes/grid.5887.2.... NXP (Netherlands)............................ 
+	http://www.grid.ac/institutes/grid.426026.4.. 4.729922..................................... 
+	http://www.grid.ac/institutes/grid.426026.4.. 50.851196.................................... 
+	http://www.grid.ac/institutes/grid.426026.4.. http://www.nxp.com/.......................... 
+	http://www.grid.ac/institutes/grid.426026.4.. NXP (Belgium)................................ 
+	http://www.grid.ac/institutes/grid.422985.0.. NXP (United Kingdom)......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('N671915100-grid.422985.0', 'P1012360252-grid.426026.4'), ('N671915100-grid.422985.0', 'P412713736-grid.5887.2'), ('P1012360252-grid.426026.4', 'P412713736-grid.5887.2')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

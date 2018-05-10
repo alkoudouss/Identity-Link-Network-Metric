@@ -1,0 +1,60 @@
+SIZE    4   
+CLUSTER 17934 
+NAME    N1740144562
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.440838.3>
+	<http://risis.eu/cordisH2020/resource/participant_999739619>
+	<http://risis.eu/orgref_20170703/resource/13262570>
+	<http://risis.eu/orgreg_20170718/resource/CY0006>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.440838.3................. http://risis.eu/orgref_20170703/resource/13262570........... 1........................................................... [European University Cyprus] was compared to [European University Cyprus] 
+	http://risis.eu/orgref_20170703/resource/13262570........... http://www.grid.ac/institutes/grid.440838.3................. 1........................................................... [European University Cyprus] was compared to [European University Cyprus] 
+	http://www.grid.ac/institutes/grid.440838.3................. http://risis.eu/cordisH2020/resource/participant_999739619.. 1........................................................... [European University Cyprus] was compared to [European University Cyprus] 
+	http://risis.eu/cordisH2020/resource/participant_999739619.. http://www.grid.ac/institutes/grid.440838.3................. 1........................................................... [European University Cyprus] was compared to [European University Cyprus] 
+	http://risis.eu/cordisH2020/resource/participant_999739619.. http://risis.eu/orgref_20170703/resource/13262570........... 1........................................................... [European University Cyprus] was compared to [European University Cyprus] 
+	http://risis.eu/orgref_20170703/resource/13262570........... http://risis.eu/cordisH2020/resource/participant_999739619.. 1........................................................... [European University Cyprus] was compared to [European University Cyprus] 
+	http://risis.eu/cordisH2020/resource/participant_999739619.. http://risis.eu/orgreg_20170718/resource/CY0006............. 0.962962962963.............................................. [European University - Cyprus] was compared to [European University Cyprus] 
+	http://risis.eu/orgreg_20170718/resource/CY0006............. http://risis.eu/cordisH2020/resource/participant_999739619.. 0.962962962963.............................................. [European University - Cyprus] was compared to [European University Cyprus] 
+	http://risis.eu/orgref_20170703/resource/13262570........... http://risis.eu/orgreg_20170718/resource/CY0006............. 0.962962962963.............................................. [European University Cyprus] was compared to [European University - Cyprus] 
+	http://risis.eu/orgreg_20170718/resource/CY0006............. http://risis.eu/orgref_20170703/resource/13262570........... 0.962962962963.............................................. [European University Cyprus] was compared to [European University - Cyprus] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.440838.3................. European University Cyprus.................................. 
+	http://risis.eu/cordisH2020/resource/participant_999739619.. http://www.euc.ac.cy........................................ 
+	http://risis.eu/cordisH2020/resource/participant_999739619.. European University Cyprus.................................. 
+	http://risis.eu/orgref_20170703/resource/13262570........... http://en.wikipedia.org/wiki?curid=13262570................. 
+	http://risis.eu/orgref_20170703/resource/13262570........... http://www.wikidata.org/wiki/Q1377090....................... 
+	http://risis.eu/orgref_20170703/resource/13262570........... http://www.euc.ac.cy........................................ 
+	http://risis.eu/orgref_20170703/resource/13262570........... European University Cyprus.................................. 
+	http://risis.eu/orgreg_20170718/resource/CY0006............. 33.338583................................................... 
+	http://risis.eu/orgreg_20170718/resource/CY0006............. 35.159683................................................... 
+	http://risis.eu/orgreg_20170718/resource/CY0006............. http://www.euc.ac.cy........................................ 
+	http://risis.eu/orgreg_20170718/resource/CY0006............. European University - Cyprus................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_999739619', '1:grid.440838.3'), ('2:participant_999739619', '4:CY0006'), ('3:13262570', '1:grid.440838.3'), ('3:13262570', '2:participant_999739619'), ('4:CY0006', '3:13262570')]
+	MAX DISTANCE:                   : 0.833
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 2.16666666667
+	AVERAGE NODE CONNECTIVITY RATIO : 0.722222222222
+	BRIDGES                         : 0
+	CLOSURE                         : 0.833
+	DIAMETER                        : 2
+	QUALITY                         : 0.223
+	QUALITY USED                    : 0.223
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223

@@ -1,0 +1,64 @@
+SIZE    5   
+CLUSTER 1074 
+NAME    N2066571962
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.446036.3>
+	<http://www.grid.ac/institutes/grid.449202.9>
+	<http://www.grid.ac/institutes/grid.445191.c>
+	<http://risis.eu/orgref_20170703/resource/30372565>
+	<http://risis.eu/orgref_20170703/resource/47000049>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.449202.9........ http://www.grid.ac/institutes/grid.445191.c........ 0.972222222222..................................... [Murnmansk State Technical University] was compared to [Murmansk State Technical University] 
+	http://www.grid.ac/institutes/grid.445191.c........ http://www.grid.ac/institutes/grid.449202.9........ 0.972222222222..................................... [Murnmansk State Technical University] was compared to [Murmansk State Technical University] 
+	http://www.grid.ac/institutes/grid.445191.c........ http://risis.eu/orgref_20170703/resource/30372565.. 0.972222222222..................................... [Murnmansk State Technical University] was compared to [Murmansk State Technical University] 
+	http://risis.eu/orgref_20170703/resource/30372565.. http://www.grid.ac/institutes/grid.445191.c........ 0.972222222222..................................... [Murnmansk State Technical University] was compared to [Murmansk State Technical University] 
+	http://www.grid.ac/institutes/grid.446036.3........ http://risis.eu/orgref_20170703/resource/47000049.. 1.................................................. [Bryansk State Technical University] was compared to [Bryansk State Technical University] 
+	http://risis.eu/orgref_20170703/resource/47000049.. http://www.grid.ac/institutes/grid.446036.3........ 1.................................................. [Bryansk State Technical University] was compared to [Bryansk State Technical University] 
+	http://www.grid.ac/institutes/grid.449202.9........ http://risis.eu/orgref_20170703/resource/30372565.. 1.................................................. [Murmansk State Technical University] was compared to [Murmansk State Technical University] 
+	http://risis.eu/orgref_20170703/resource/30372565.. http://www.grid.ac/institutes/grid.449202.9........ 1.................................................. [Murmansk State Technical University] was compared to [Murmansk State Technical University] 
+	http://risis.eu/orgref_20170703/resource/30372565.. http://risis.eu/orgref_20170703/resource/47000049.. 0.914285714286..................................... [Murmansk State Technical University] was compared to [Bryansk State Technical University] 
+	http://risis.eu/orgref_20170703/resource/47000049.. http://risis.eu/orgref_20170703/resource/30372565.. 0.914285714286..................................... [Murmansk State Technical University] was compared to [Bryansk State Technical University] 
+	http://www.grid.ac/institutes/grid.446036.3........ http://www.grid.ac/institutes/grid.449202.9........ 0.914285714286..................................... [Bryansk State Technical University] was compared to [Murmansk State Technical University] 
+	http://www.grid.ac/institutes/grid.449202.9........ http://www.grid.ac/institutes/grid.446036.3........ 0.914285714286..................................... [Bryansk State Technical University] was compared to [Murmansk State Technical University] 
+	http://www.grid.ac/institutes/grid.446036.3........ http://risis.eu/orgref_20170703/resource/30372565.. 0.914285714286..................................... [Bryansk State Technical University] was compared to [Murmansk State Technical University] 
+	http://risis.eu/orgref_20170703/resource/30372565.. http://www.grid.ac/institutes/grid.446036.3........ 0.914285714286..................................... [Bryansk State Technical University] was compared to [Murmansk State Technical University] 
+	http://www.grid.ac/institutes/grid.449202.9........ http://risis.eu/orgref_20170703/resource/47000049.. 0.914285714286..................................... [Murmansk State Technical University] was compared to [Bryansk State Technical University] 
+	http://risis.eu/orgref_20170703/resource/47000049.. http://www.grid.ac/institutes/grid.449202.9........ 0.914285714286..................................... [Murmansk State Technical University] was compared to [Bryansk State Technical University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.446036.3........ Bryansk State Technical University................. 
+	http://www.grid.ac/institutes/grid.449202.9........ Murmansk State Technical University................ 
+	http://www.grid.ac/institutes/grid.445191.c........ Murnmansk State Technical University............... 
+	http://risis.eu/orgref_20170703/resource/30372565.. http://en.wikipedia.org/wiki?curid=30372565........ 
+	http://risis.eu/orgref_20170703/resource/30372565.. http://www.wikidata.org/wiki/Q4308101.............. 
+	http://risis.eu/orgref_20170703/resource/30372565.. http://www.mstu.edu.ru............................. 
+	http://risis.eu/orgref_20170703/resource/30372565.. Murmansk State Technical University................ 
+	http://risis.eu/orgref_20170703/resource/47000049.. Bryansk State Technical University................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.449202.9', '1:grid.446036.3'), ('2:grid.449202.9', '3:grid.445191.c'), ('4:30372565', '1:grid.446036.3'), ('4:30372565', '2:grid.449202.9'), ('4:30372565', '3:grid.445191.c'), ('5:47000049', '1:grid.446036.3'), ('5:47000049', '2:grid.449202.9'), ('5:47000049', '4:30372565')]
+	MAX DISTANCE:                   : 0.8
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 2.7
+	AVERAGE NODE CONNECTIVITY RATIO : 0.675
+	BRIDGES                         : 0
+	CLOSURE                         : 0.8
+	DIAMETER                        : 2
+	QUALITY                         : 0.178
+	QUALITY USED                    : 0.195
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.2 DIAMETER 0.333 QUALITY 0.178 QUALITY USED 0.195
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.2 DIAMETER 0.385 QUALITY 0.178 QUALITY USED 0.195

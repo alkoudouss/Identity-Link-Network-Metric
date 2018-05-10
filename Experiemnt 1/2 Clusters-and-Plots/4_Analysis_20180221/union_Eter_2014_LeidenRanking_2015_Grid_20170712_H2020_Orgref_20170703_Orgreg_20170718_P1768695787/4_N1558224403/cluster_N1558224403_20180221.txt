@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 9673 
+NAME    N1558224403
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/2051727>
+	<http://risis.eu/orgref_20170703/resource/3486906>
+	<http://www.grid.ac/institutes/grid.281044.b>
+	<http://www.grid.ac/institutes/grid.416782.e>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.281044.b....... http://www.grid.ac/institutes/grid.416782.e....... 1................................................. [Swedish Medical Center] was compared to [Swedish Medical Center] 
+	http://www.grid.ac/institutes/grid.416782.e....... http://www.grid.ac/institutes/grid.281044.b....... 1................................................. [Swedish Medical Center] was compared to [Swedish Medical Center] 
+	http://risis.eu/orgref_20170703/resource/3486906.. http://www.grid.ac/institutes/grid.281044.b....... 1................................................. [Swedish Medical Center] was compared to [Swedish Medical Center (Colorado)] 
+	http://www.grid.ac/institutes/grid.281044.b....... http://risis.eu/orgref_20170703/resource/3486906.. 1................................................. [Swedish Medical Center] was compared to [Swedish Medical Center (Colorado)] 
+	http://risis.eu/orgref_20170703/resource/2051727.. http://www.grid.ac/institutes/grid.281044.b....... 1................................................. [Swedish Medical Center] was compared to [Swedish Medical Center] 
+	http://www.grid.ac/institutes/grid.281044.b....... http://risis.eu/orgref_20170703/resource/2051727.. 1................................................. [Swedish Medical Center] was compared to [Swedish Medical Center] 
+	http://risis.eu/orgref_20170703/resource/3486906.. http://www.grid.ac/institutes/grid.416782.e....... 1................................................. [Swedish Medical Center] was compared to [Swedish Medical Center (Colorado)] 
+	http://www.grid.ac/institutes/grid.416782.e....... http://risis.eu/orgref_20170703/resource/3486906.. 1................................................. [Swedish Medical Center] was compared to [Swedish Medical Center (Colorado)] 
+	http://risis.eu/orgref_20170703/resource/2051727.. http://www.grid.ac/institutes/grid.416782.e....... 1................................................. [Swedish Medical Center] was compared to [Swedish Medical Center] 
+	http://www.grid.ac/institutes/grid.416782.e....... http://risis.eu/orgref_20170703/resource/2051727.. 1................................................. [Swedish Medical Center] was compared to [Swedish Medical Center] 
+	http://risis.eu/orgref_20170703/resource/2051727.. http://risis.eu/orgref_20170703/resource/3486906.. 1................................................. [Swedish Medical Center] was compared to [Swedish Medical Center (Colorado)] 
+	http://risis.eu/orgref_20170703/resource/3486906.. http://risis.eu/orgref_20170703/resource/2051727.. 1................................................. [Swedish Medical Center] was compared to [Swedish Medical Center (Colorado)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/2051727.. http://en.wikipedia.org/wiki?curid=2051727........ 
+	http://risis.eu/orgref_20170703/resource/2051727.. http://www.wikidata.org/wiki/Q7654755............. 
+	http://risis.eu/orgref_20170703/resource/2051727.. http://www.swedish.org............................ 
+	http://risis.eu/orgref_20170703/resource/2051727.. Swedish Medical Center............................ 
+	http://risis.eu/orgref_20170703/resource/3486906.. http://en.wikipedia.org/wiki?curid=3486906........ 
+	http://risis.eu/orgref_20170703/resource/3486906.. http://www.wikidata.org/wiki/Q7654751............. 
+	http://risis.eu/orgref_20170703/resource/3486906.. http://www.swedishhospital.com.................... 
+	http://risis.eu/orgref_20170703/resource/3486906.. Swedish Medical Center (Colorado)................. 
+	http://www.grid.ac/institutes/grid.281044.b....... -122.37565........................................ 
+	http://www.grid.ac/institutes/grid.281044.b....... 47.672077......................................... 
+	http://www.grid.ac/institutes/grid.281044.b....... http://www.swedish.org/........................... 
+	http://www.grid.ac/institutes/grid.281044.b....... Swedish Medical Center............................ 
+	http://www.grid.ac/institutes/grid.416782.e....... -104.980446....................................... 
+	http://www.grid.ac/institutes/grid.416782.e....... 39.654064......................................... 
+	http://www.grid.ac/institutes/grid.416782.e....... http://swedishhospital.com/....................... 
+	http://www.grid.ac/institutes/grid.416782.e....... Swedish Medical Center............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:2051727', '4:grid.416782.e'), ('2:3486906', '1:2051727'), ('2:3486906', '3:grid.281044.b'), ('2:3486906', '4:grid.416782.e'), ('3:grid.281044.b', '1:2051727'), ('4:grid.416782.e', '3:grid.281044.b')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

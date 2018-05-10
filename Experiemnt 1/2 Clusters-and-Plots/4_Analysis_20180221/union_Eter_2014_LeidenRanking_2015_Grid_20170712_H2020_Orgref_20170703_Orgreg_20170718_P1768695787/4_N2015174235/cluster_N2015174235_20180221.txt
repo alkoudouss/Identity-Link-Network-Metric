@@ -1,0 +1,60 @@
+SIZE    4   
+CLUSTER 17290 
+NAME    N2015174235
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.445898.c>
+	<http://www.grid.ac/institutes/grid.449537.8>
+	<http://risis.eu/orgref_20170703/resource/10120807>
+	<http://risis.eu/orgref_20170703/resource/23741909>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.445898.c........ http://www.grid.ac/institutes/grid.449537.8........ 0.833333333333..................................... [Saint Petersburg University of Management and Economics] was compared to [Saint Petersburg State University of Economics] 
+	http://www.grid.ac/institutes/grid.449537.8........ http://www.grid.ac/institutes/grid.445898.c........ 0.833333333333..................................... [Saint Petersburg University of Management and Economics] was compared to [Saint Petersburg State University of Economics] 
+	http://www.grid.ac/institutes/grid.449537.8........ http://risis.eu/orgref_20170703/resource/23741909.. 0.843137254902..................................... [Saint Petersburg State University of Economics] was compared to [Saint Petersburg State University of Service and Economics] 
+	http://risis.eu/orgref_20170703/resource/23741909.. http://www.grid.ac/institutes/grid.449537.8........ 0.843137254902..................................... [Saint Petersburg State University of Economics] was compared to [Saint Petersburg State University of Service and Economics] 
+	http://risis.eu/orgref_20170703/resource/10120807.. http://risis.eu/orgref_20170703/resource/23741909.. 0.836363636364..................................... [Saint Petersburg State University of Engineering and Economics] was compared to [Saint Petersburg State University of Service and Economics] 
+	http://risis.eu/orgref_20170703/resource/23741909.. http://risis.eu/orgref_20170703/resource/10120807.. 0.836363636364..................................... [Saint Petersburg State University of Engineering and Economics] was compared to [Saint Petersburg State University of Service and Economics] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.445898.c........ Saint Petersburg University of Management and Economics 
+	http://www.grid.ac/institutes/grid.449537.8........ 30.326418.......................................... 
+	http://www.grid.ac/institutes/grid.449537.8........ 59.931286.......................................... 
+	http://www.grid.ac/institutes/grid.449537.8........ http://en.unecon.ru/............................... 
+	http://www.grid.ac/institutes/grid.449537.8........ Saint Petersburg State University of Economics and Finance 
+	http://www.grid.ac/institutes/grid.449537.8........ Leningrad Institute of Finance and Economics....... 
+	http://www.grid.ac/institutes/grid.449537.8........ Saint Petersburg State University of Economics..... 
+	http://risis.eu/orgref_20170703/resource/10120807.. http://en.wikipedia.org/wiki?curid=10120807........ 
+	http://risis.eu/orgref_20170703/resource/10120807.. http://www.wikidata.org/wiki/Q3551555.............. 
+	http://risis.eu/orgref_20170703/resource/10120807.. http://engec.ru.................................... 
+	http://risis.eu/orgref_20170703/resource/10120807.. Saint Petersburg State University of Engineering and Economics 
+	http://risis.eu/orgref_20170703/resource/23741909.. http://en.wikipedia.org/wiki?curid=23741909........ 
+	http://risis.eu/orgref_20170703/resource/23741909.. http://www.wikidata.org/wiki/Q4407702.............. 
+	http://risis.eu/orgref_20170703/resource/23741909.. http://www.unecon.ru............................... 
+	http://risis.eu/orgref_20170703/resource/23741909.. Saint Petersburg State University of Service and Economics 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.449537.8', '1:grid.445898.c'), ('4:23741909', '2:grid.449537.8'), ('4:23741909', '3:10120807')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

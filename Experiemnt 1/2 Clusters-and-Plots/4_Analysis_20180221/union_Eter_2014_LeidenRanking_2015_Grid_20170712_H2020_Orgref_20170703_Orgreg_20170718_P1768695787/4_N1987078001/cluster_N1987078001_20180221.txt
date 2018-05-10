@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 11111 
+NAME    N1987078001
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.468706.b>
+	<http://risis.eu/orgref_20170703/resource/3492579>
+	<http://www.grid.ac/institutes/grid.447467.2>
+	<http://risis.eu/orgref_20170703/resource/5938030>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.447467.2....... http://risis.eu/orgref_20170703/resource/5938030.. 1................................................. [Piedmont Community College] was compared to [Piedmont Community College] 
+	http://risis.eu/orgref_20170703/resource/5938030.. http://www.grid.ac/institutes/grid.447467.2....... 1................................................. [Piedmont Community College] was compared to [Piedmont Community College] 
+	http://www.grid.ac/institutes/grid.468706.b....... http://risis.eu/orgref_20170703/resource/3492579.. 1................................................. [Community College of Vermont] was compared to [Community College of Vermont] 
+	http://risis.eu/orgref_20170703/resource/3492579.. http://www.grid.ac/institutes/grid.468706.b....... 1................................................. [Community College of Vermont] was compared to [Community College of Vermont] 
+	http://risis.eu/orgref_20170703/resource/3492579.. http://risis.eu/orgref_20170703/resource/5938030.. 0.884615384615.................................... [Community College of Vermont] was compared to [Piedmont Community College] 
+	http://risis.eu/orgref_20170703/resource/5938030.. http://risis.eu/orgref_20170703/resource/3492579.. 0.884615384615.................................... [Community College of Vermont] was compared to [Piedmont Community College] 
+	http://www.grid.ac/institutes/grid.468706.b....... http://www.grid.ac/institutes/grid.447467.2....... 0.884615384615.................................... [Piedmont Community College] was compared to [Community College of Vermont] 
+	http://www.grid.ac/institutes/grid.447467.2....... http://www.grid.ac/institutes/grid.468706.b....... 0.884615384615.................................... [Piedmont Community College] was compared to [Community College of Vermont] 
+	http://risis.eu/orgref_20170703/resource/3492579.. http://www.grid.ac/institutes/grid.447467.2....... 0.884615384615.................................... [Piedmont Community College] was compared to [Community College of Vermont] 
+	http://www.grid.ac/institutes/grid.447467.2....... http://risis.eu/orgref_20170703/resource/3492579.. 0.884615384615.................................... [Piedmont Community College] was compared to [Community College of Vermont] 
+	http://www.grid.ac/institutes/grid.468706.b....... http://risis.eu/orgref_20170703/resource/5938030.. 0.884615384615.................................... [Community College of Vermont] was compared to [Piedmont Community College] 
+	http://risis.eu/orgref_20170703/resource/5938030.. http://www.grid.ac/institutes/grid.468706.b....... 0.884615384615.................................... [Community College of Vermont] was compared to [Piedmont Community College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.468706.b....... -72.57354......................................... 
+	http://www.grid.ac/institutes/grid.468706.b....... 44.28044.......................................... 
+	http://www.grid.ac/institutes/grid.468706.b....... http://ccv.edu/................................... 
+	http://www.grid.ac/institutes/grid.468706.b....... Community College of Vermont...................... 
+	http://risis.eu/orgref_20170703/resource/3492579.. http://en.wikipedia.org/wiki?curid=3492579........ 
+	http://risis.eu/orgref_20170703/resource/3492579.. http://www.wikidata.org/wiki/Q5154694............. 
+	http://risis.eu/orgref_20170703/resource/3492579.. http://ccv.edu.................................... 
+	http://risis.eu/orgref_20170703/resource/3492579.. Community College of Vermont...................... 
+	http://www.grid.ac/institutes/grid.447467.2....... -78.980606........................................ 
+	http://www.grid.ac/institutes/grid.447467.2....... 36.431675......................................... 
+	http://www.grid.ac/institutes/grid.447467.2....... http://www.piedmontcc.edu/........................ 
+	http://www.grid.ac/institutes/grid.447467.2....... Piedmont Community College........................ 
+	http://risis.eu/orgref_20170703/resource/5938030.. http://en.wikipedia.org/wiki?curid=5938030........ 
+	http://risis.eu/orgref_20170703/resource/5938030.. http://www.wikidata.org/wiki/Q7191501............. 
+	http://risis.eu/orgref_20170703/resource/5938030.. http://www.piedmontcc.edu......................... 
+	http://risis.eu/orgref_20170703/resource/5938030.. Piedmont Community College........................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:3492579', '1:grid.468706.b'), ('2:3492579', '3:grid.447467.2'), ('3:grid.447467.2', '1:grid.468706.b'), ('4:5938030', '1:grid.468706.b'), ('4:5938030', '2:3492579'), ('4:5938030', '3:grid.447467.2')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 3546 
+NAME    N1744423368
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.441037.5>
+	<http://www.grid.ac/institutes/grid.441515.0>
+	<http://risis.eu/orgref_20170703/resource/6625525>
+	<http://risis.eu/orgref_20170703/resource/23473941>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.441037.5........ http://risis.eu/orgref_20170703/resource/6625525... 1.................................................. [Northern Caribbean University] was compared to [Northern Caribbean University] 
+	http://risis.eu/orgref_20170703/resource/6625525... http://www.grid.ac/institutes/grid.441037.5........ 1.................................................. [Northern Caribbean University] was compared to [Northern Caribbean University] 
+	http://www.grid.ac/institutes/grid.441515.0........ http://risis.eu/orgref_20170703/resource/23473941.. 1.................................................. [University of the Southern Caribbean] was compared to [University of the Southern Caribbean] 
+	http://risis.eu/orgref_20170703/resource/23473941.. http://www.grid.ac/institutes/grid.441515.0........ 1.................................................. [University of the Southern Caribbean] was compared to [University of the Southern Caribbean] 
+	http://risis.eu/orgref_20170703/resource/6625525... http://risis.eu/orgref_20170703/resource/23473941.. 0.931034482759..................................... [University of the Southern Caribbean] was compared to [Northern Caribbean University] 
+	http://risis.eu/orgref_20170703/resource/23473941.. http://risis.eu/orgref_20170703/resource/6625525... 0.931034482759..................................... [University of the Southern Caribbean] was compared to [Northern Caribbean University] 
+	http://www.grid.ac/institutes/grid.441037.5........ http://www.grid.ac/institutes/grid.441515.0........ 0.931034482759..................................... [Northern Caribbean University] was compared to [University of the Southern Caribbean] 
+	http://www.grid.ac/institutes/grid.441515.0........ http://www.grid.ac/institutes/grid.441037.5........ 0.931034482759..................................... [Northern Caribbean University] was compared to [University of the Southern Caribbean] 
+	http://www.grid.ac/institutes/grid.441037.5........ http://risis.eu/orgref_20170703/resource/23473941.. 0.931034482759..................................... [Northern Caribbean University] was compared to [University of the Southern Caribbean] 
+	http://risis.eu/orgref_20170703/resource/23473941.. http://www.grid.ac/institutes/grid.441037.5........ 0.931034482759..................................... [Northern Caribbean University] was compared to [University of the Southern Caribbean] 
+	http://www.grid.ac/institutes/grid.441515.0........ http://risis.eu/orgref_20170703/resource/6625525... 0.931034482759..................................... [University of the Southern Caribbean] was compared to [Northern Caribbean University] 
+	http://risis.eu/orgref_20170703/resource/6625525... http://www.grid.ac/institutes/grid.441515.0........ 0.931034482759..................................... [University of the Southern Caribbean] was compared to [Northern Caribbean University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.441037.5........ Northern Caribbean University...................... 
+	http://www.grid.ac/institutes/grid.441515.0........ University of the Southern Caribbean............... 
+	http://risis.eu/orgref_20170703/resource/6625525... http://en.wikipedia.org/wiki?curid=6625525......... 
+	http://risis.eu/orgref_20170703/resource/6625525... http://www.wikidata.org/wiki/Q3551705.............. 
+	http://risis.eu/orgref_20170703/resource/6625525... http://www.ncu.edu.jm.............................. 
+	http://risis.eu/orgref_20170703/resource/6625525... Northern Caribbean University...................... 
+	http://risis.eu/orgref_20170703/resource/23473941.. http://en.wikipedia.org/wiki?curid=23473941........ 
+	http://risis.eu/orgref_20170703/resource/23473941.. http://www.wikidata.org/wiki/Q367398............... 
+	http://risis.eu/orgref_20170703/resource/23473941.. http://usc.edu.tt.................................. 
+	http://risis.eu/orgref_20170703/resource/23473941.. University of the Southern Caribbean............... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.441515.0', '1:grid.441037.5'), ('3:6625525', '1:grid.441037.5'), ('3:6625525', '2:grid.441515.0'), ('3:6625525', '4:23473941'), ('4:23473941', '1:grid.441037.5'), ('4:23473941', '2:grid.441515.0')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

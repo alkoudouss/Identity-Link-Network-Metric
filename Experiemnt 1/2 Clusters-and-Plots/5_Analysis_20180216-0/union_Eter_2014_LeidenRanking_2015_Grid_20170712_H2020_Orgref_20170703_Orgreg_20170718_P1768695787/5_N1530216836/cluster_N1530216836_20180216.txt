@@ -1,0 +1,72 @@
+SIZE    5   
+CLUSTER 5269 
+NAME    N1530216836
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/17930332>
+	<http://risis.eu/orgref_20170703/resource/20553539>
+	<http://www.grid.ac/institutes/grid.79740.3d>
+	<http://www.grid.ac/institutes/grid.412098.6>
+	<http://risis.eu/orgref_20170703/resource/919125>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/17930332.. http://www.grid.ac/institutes/grid.79740.3d........ 1.................................................. [Yunnan University of Traditional Chinese Medicine] was compared to [Yunnan University of Traditional Chinese Medicine] 
+	http://www.grid.ac/institutes/grid.79740.3d........ http://risis.eu/orgref_20170703/resource/17930332.. 1.................................................. [Yunnan University of Traditional Chinese Medicine] was compared to [Yunnan University of Traditional Chinese Medicine] 
+	http://www.grid.ac/institutes/grid.412098.6........ http://risis.eu/orgref_20170703/resource/919125.... 1.................................................. [Henan University of Traditional Chinese Medicine] was compared to [Henan University of Traditional Chinese Medicine] 
+	http://risis.eu/orgref_20170703/resource/919125.... http://www.grid.ac/institutes/grid.412098.6........ 1.................................................. [Henan University of Traditional Chinese Medicine] was compared to [Henan University of Traditional Chinese Medicine] 
+	http://risis.eu/orgref_20170703/resource/20553539.. http://www.grid.ac/institutes/grid.412098.6........ 0.977777777778..................................... [Henan University of Traditional Chinese Medicine] was compared to [Hunan University of Traditional Chinese Medicine] 
+	http://www.grid.ac/institutes/grid.412098.6........ http://risis.eu/orgref_20170703/resource/20553539.. 0.977777777778..................................... [Henan University of Traditional Chinese Medicine] was compared to [Hunan University of Traditional Chinese Medicine] 
+	http://risis.eu/orgref_20170703/resource/20553539.. http://risis.eu/orgref_20170703/resource/919125.... 0.977777777778..................................... [Hunan University of Traditional Chinese Medicine] was compared to [Henan University of Traditional Chinese Medicine] 
+	http://risis.eu/orgref_20170703/resource/919125.... http://risis.eu/orgref_20170703/resource/20553539.. 0.977777777778..................................... [Hunan University of Traditional Chinese Medicine] was compared to [Henan University of Traditional Chinese Medicine] 
+	http://risis.eu/orgref_20170703/resource/17930332.. http://risis.eu/orgref_20170703/resource/20553539.. 0.95652173913...................................... [Yunnan University of Traditional Chinese Medicine] was compared to [Hunan University of Traditional Chinese Medicine] 
+	http://risis.eu/orgref_20170703/resource/20553539.. http://risis.eu/orgref_20170703/resource/17930332.. 0.95652173913...................................... [Yunnan University of Traditional Chinese Medicine] was compared to [Hunan University of Traditional Chinese Medicine] 
+	http://risis.eu/orgref_20170703/resource/20553539.. http://www.grid.ac/institutes/grid.79740.3d........ 0.95652173913...................................... [Yunnan University of Traditional Chinese Medicine] was compared to [Hunan University of Traditional Chinese Medicine] 
+	http://www.grid.ac/institutes/grid.79740.3d........ http://risis.eu/orgref_20170703/resource/20553539.. 0.95652173913...................................... [Yunnan University of Traditional Chinese Medicine] was compared to [Hunan University of Traditional Chinese Medicine] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 20 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/17930332.. http://en.wikipedia.org/wiki?curid=17930332........ 
+	http://risis.eu/orgref_20170703/resource/17930332.. http://www.wikidata.org/wiki/Q8061337.............. 
+	http://risis.eu/orgref_20170703/resource/17930332.. Yunnan University of Traditional Chinese Medicine.. 
+	http://risis.eu/orgref_20170703/resource/20553539.. http://en.wikipedia.org/wiki?curid=20553539........ 
+	http://risis.eu/orgref_20170703/resource/20553539.. http://www.wikidata.org/wiki/Q5942049.............. 
+	http://risis.eu/orgref_20170703/resource/20553539.. http://www.hnctcm.edu.cn........................... 
+	http://risis.eu/orgref_20170703/resource/20553539.. Hunan University of Traditional Chinese Medicine... 
+	http://www.grid.ac/institutes/grid.79740.3d........ 102.73908.......................................... 
+	http://www.grid.ac/institutes/grid.79740.3d........ 25.004559.......................................... 
+	http://www.grid.ac/institutes/grid.79740.3d........ http://www.ynutcm.edu.cn/.......................... 
+	http://www.grid.ac/institutes/grid.79740.3d........ Yunnan University of Traditional Chinese Medicine.. 
+	http://www.grid.ac/institutes/grid.412098.6........ 113.80636.......................................... 
+	http://www.grid.ac/institutes/grid.412098.6........ 34.780033.......................................... 
+	http://www.grid.ac/institutes/grid.412098.6........ http://www.henantcm.com/english/................... 
+	http://www.grid.ac/institutes/grid.412098.6........ Hénán Zhōngyī xuéyuàn........................ 
+	http://www.grid.ac/institutes/grid.412098.6........ Henan University of Traditional Chinese Medicine... 
+	http://risis.eu/orgref_20170703/resource/919125.... http://en.wikipedia.org/wiki?curid=919125.......... 
+	http://risis.eu/orgref_20170703/resource/919125.... http://www.wikidata.org/wiki/Q5713005.............. 
+	http://risis.eu/orgref_20170703/resource/919125.... http://www.hactcm.edu.cn........................... 
+	http://risis.eu/orgref_20170703/resource/919125.... Henan University of Traditional Chinese Medicine... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:20553539', '1:17930332'), ('2:20553539', '3:grid.79740.3d'), ('2:20553539', '4:grid.412098.6'), ('3:grid.79740.3d', '1:17930332'), ('5:919125', '2:20553539'), ('5:919125', '4:grid.412098.6')]
+	MAX DISTANCE:                   : 0.6
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 1.6
+	AVERAGE NODE CONNECTIVITY RATIO : 0.4
+	BRIDGES                         : 0
+	CLOSURE                         : 0.6
+	DIAMETER                        : 2
+	QUALITY                         : 0.244
+	QUALITY USED                    : 0.262
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.4 DIAMETER 0.333 QUALITY 0.244 QUALITY USED 0.262
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.4 DIAMETER 0.385 QUALITY 0.244 QUALITY USED 0.262

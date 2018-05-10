@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 2275 
+NAME    N1667853669
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.417626.0>
+	<http://risis.eu/leidenRanking_2015/resource/15476>
+	<http://risis.eu/orgreg_20170718/resource/CZ1007>
+	<http://risis.eu/orgreg_20170718/resource/CZ1021>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.417626.0........ http://risis.eu/leidenRanking_2015/resource/15476.. 1.................................................. [Crop Research Institute] was compared to [Crop Research Institute�] 
+	http://risis.eu/leidenRanking_2015/resource/15476.. http://www.grid.ac/institutes/grid.417626.0........ 1.................................................. [Crop Research Institute] was compared to [Crop Research Institute�] 
+	http://risis.eu/orgreg_20170718/resource/CZ1007.... http://risis.eu/orgreg_20170718/resource/CZ1021.... 1.................................................. [The Crop Research Institute] was compared to [Crop Research Institute] 
+	http://risis.eu/orgreg_20170718/resource/CZ1021.... http://risis.eu/orgreg_20170718/resource/CZ1007.... 1.................................................. [The Crop Research Institute] was compared to [Crop Research Institute] 
+	http://risis.eu/leidenRanking_2015/resource/15476.. http://risis.eu/orgreg_20170718/resource/CZ1007.... 1.................................................. [The Crop Research Institute] was compared to [Crop Research Institute�] 
+	http://risis.eu/orgreg_20170718/resource/CZ1007.... http://risis.eu/leidenRanking_2015/resource/15476.. 1.................................................. [The Crop Research Institute] was compared to [Crop Research Institute�] 
+	http://risis.eu/leidenRanking_2015/resource/15476.. http://risis.eu/orgreg_20170718/resource/CZ1021.... 1.................................................. [Crop Research Institute] was compared to [Crop Research Institute�] 
+	http://risis.eu/orgreg_20170718/resource/CZ1021.... http://risis.eu/leidenRanking_2015/resource/15476.. 1.................................................. [Crop Research Institute] was compared to [Crop Research Institute�] 
+	http://www.grid.ac/institutes/grid.417626.0........ http://risis.eu/orgreg_20170718/resource/CZ1021.... 1.................................................. [Crop Research Institute] was compared to [Crop Research Institute] 
+	http://risis.eu/orgreg_20170718/resource/CZ1021.... http://www.grid.ac/institutes/grid.417626.0........ 1.................................................. [Crop Research Institute] was compared to [Crop Research Institute] 
+	http://www.grid.ac/institutes/grid.417626.0........ http://risis.eu/orgreg_20170718/resource/CZ1007.... 1.................................................. [Crop Research Institute] was compared to [The Crop Research Institute] 
+	http://risis.eu/orgreg_20170718/resource/CZ1007.... http://www.grid.ac/institutes/grid.417626.0........ 1.................................................. [Crop Research Institute] was compared to [The Crop Research Institute] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.417626.0........ 14.310642.......................................... 
+	http://www.grid.ac/institutes/grid.417626.0........ 50.193962.......................................... 
+	http://www.grid.ac/institutes/grid.417626.0........ http://www.vurv.cz/?p=index&site=default_en........ 
+	http://www.grid.ac/institutes/grid.417626.0........ Výzkumný ústav rostlinné výroby............... 
+	http://www.grid.ac/institutes/grid.417626.0........ Research Institute of Crop Production.............. 
+	http://www.grid.ac/institutes/grid.417626.0........ Crop Research Institute............................ 
+	http://risis.eu/leidenRanking_2015/resource/15476.. Crop Research Institute�......................... 
+	http://risis.eu/orgreg_20170718/resource/CZ1007.... 14.4378............................................ 
+	http://risis.eu/orgreg_20170718/resource/CZ1007.... 50.075538.......................................... 
+	http://risis.eu/orgreg_20170718/resource/CZ1007.... www.vurv.cz........................................ 
+	http://risis.eu/orgreg_20170718/resource/CZ1007.... The Crop Research Institute........................ 
+	http://risis.eu/orgreg_20170718/resource/CZ1021.... 14.599438.......................................... 
+	http://risis.eu/orgreg_20170718/resource/CZ1021.... 50.031997.......................................... 
+	http://risis.eu/orgreg_20170718/resource/CZ1021.... www.vuzv.cz........................................ 
+	http://risis.eu/orgreg_20170718/resource/CZ1021.... Crop Research Institute............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:15476', '1:grid.417626.0'), ('2:15476', '3:CZ1007'), ('3:CZ1007', '1:grid.417626.0'), ('4:CZ1021', '1:grid.417626.0'), ('4:CZ1021', '2:15476'), ('4:CZ1021', '3:CZ1007')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

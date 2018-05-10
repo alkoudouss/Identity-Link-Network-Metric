@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 232 
+NAME    N1572625471
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/19232404>
+	<http://risis.eu/orgref_20170703/resource/2498952>
+	<http://risis.eu/orgref_20170703/resource/2499033>
+	<http://www.grid.ac/institutes/grid.424438.d>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/19232404.. http://www.grid.ac/institutes/grid.424438.d........ 1.................................................. [Federal Ministry for the Interior] was compared to [Federal Ministry of Interior (Federation of Bosnia and Herzegovina)] 
+	http://www.grid.ac/institutes/grid.424438.d........ http://risis.eu/orgref_20170703/resource/19232404.. 1.................................................. [Federal Ministry for the Interior] was compared to [Federal Ministry of Interior (Federation of Bosnia and Herzegovina)] 
+	http://risis.eu/orgref_20170703/resource/2498952... http://www.grid.ac/institutes/grid.424438.d........ 1.................................................. [Federal Ministry for the Interior] was compared to [Federal Ministry of the Interior (Austria)] 
+	http://www.grid.ac/institutes/grid.424438.d........ http://risis.eu/orgref_20170703/resource/2498952... 1.................................................. [Federal Ministry for the Interior] was compared to [Federal Ministry of the Interior (Austria)] 
+	http://risis.eu/orgref_20170703/resource/2499033... http://www.grid.ac/institutes/grid.424438.d........ 1.................................................. [Federal Ministry for the Interior] was compared to [Federal Ministry of the Interior (Germany)] 
+	http://www.grid.ac/institutes/grid.424438.d........ http://risis.eu/orgref_20170703/resource/2499033... 1.................................................. [Federal Ministry for the Interior] was compared to [Federal Ministry of the Interior (Germany)] 
+	http://risis.eu/orgref_20170703/resource/19232404.. http://risis.eu/orgref_20170703/resource/2498952... 1.................................................. [Federal Ministry of Interior (Federation of Bosnia and Herzegovina)] was compared to [Federal Ministry of the Interior (Austria)] 
+	http://risis.eu/orgref_20170703/resource/2498952... http://risis.eu/orgref_20170703/resource/19232404.. 1.................................................. [Federal Ministry of Interior (Federation of Bosnia and Herzegovina)] was compared to [Federal Ministry of the Interior (Austria)] 
+	http://risis.eu/orgref_20170703/resource/19232404.. http://risis.eu/orgref_20170703/resource/2499033... 1.................................................. [Federal Ministry of Interior (Federation of Bosnia and Herzegovina)] was compared to [Federal Ministry of the Interior (Germany)] 
+	http://risis.eu/orgref_20170703/resource/2499033... http://risis.eu/orgref_20170703/resource/19232404.. 1.................................................. [Federal Ministry of Interior (Federation of Bosnia and Herzegovina)] was compared to [Federal Ministry of the Interior (Germany)] 
+	http://risis.eu/orgref_20170703/resource/2498952... http://risis.eu/orgref_20170703/resource/2499033... 1.................................................. [Federal Ministry of the Interior (Austria)] was compared to [Federal Ministry of the Interior (Germany)] 
+	http://risis.eu/orgref_20170703/resource/2499033... http://risis.eu/orgref_20170703/resource/2498952... 1.................................................. [Federal Ministry of the Interior (Austria)] was compared to [Federal Ministry of the Interior (Germany)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/19232404.. http://en.wikipedia.org/wiki?curid=19232404........ 
+	http://risis.eu/orgref_20170703/resource/19232404.. http://www.wikidata.org/wiki/Q3500488.............. 
+	http://risis.eu/orgref_20170703/resource/19232404.. http://www.fmup.gov.ba............................. 
+	http://risis.eu/orgref_20170703/resource/19232404.. Federal Ministry of Interior (Federation of Bosnia and Herzegovina) 
+	http://risis.eu/orgref_20170703/resource/2498952... http://en.wikipedia.org/wiki?curid=2498952......... 
+	http://risis.eu/orgref_20170703/resource/2498952... http://www.wikidata.org/wiki/Q358589............... 
+	http://risis.eu/orgref_20170703/resource/2498952... http://www.bmi.gv.at............................... 
+	http://risis.eu/orgref_20170703/resource/2498952... Federal Ministry of the Interior (Austria)......... 
+	http://risis.eu/orgref_20170703/resource/2499033... http://en.wikipedia.org/wiki?curid=2499033......... 
+	http://risis.eu/orgref_20170703/resource/2499033... http://www.wikidata.org/wiki/Q502698............... 
+	http://risis.eu/orgref_20170703/resource/2499033... http://www.bmi.bund.de............................. 
+	http://risis.eu/orgref_20170703/resource/2499033... Federal Ministry of the Interior (Germany)......... 
+	http://www.grid.ac/institutes/grid.424438.d........ Federal Ministry for the Interior.................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:19232404', '4:grid.424438.d'), ('2:2498952', '1:19232404'), ('2:2498952', '4:grid.424438.d'), ('3:2499033', '1:19232404'), ('3:2499033', '2:2498952'), ('4:grid.424438.d', '3:2499033')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

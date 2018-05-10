@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 1160 
+NAME    N1600464121
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/60919>
+	<http://risis.eu/leidenRanking_2015/resource/3047>
+	<http://risis.eu/cordisH2020/resource/participant_999900639>
+	<http://www.grid.ac/institutes/grid.4464.2>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/60919.............. http://www.grid.ac/institutes/grid.4464.2................... 1........................................................... [University of London] was compared to [University of London] 
+	http://www.grid.ac/institutes/grid.4464.2................... http://risis.eu/orgref_20170703/resource/60919.............. 1........................................................... [University of London] was compared to [University of London] 
+	http://risis.eu/leidenRanking_2015/resource/3047............ http://www.grid.ac/institutes/grid.4464.2................... 1........................................................... [University of London] was compared to [University of London] 
+	http://www.grid.ac/institutes/grid.4464.2................... http://risis.eu/leidenRanking_2015/resource/3047............ 1........................................................... [University of London] was compared to [University of London] 
+	http://risis.eu/cordisH2020/resource/participant_999900639.. http://www.grid.ac/institutes/grid.4464.2................... 1........................................................... [University of London] was compared to [UNIVERSITY OF LONDON] 
+	http://www.grid.ac/institutes/grid.4464.2................... http://risis.eu/cordisH2020/resource/participant_999900639.. 1........................................................... [University of London] was compared to [UNIVERSITY OF LONDON] 
+	http://risis.eu/orgref_20170703/resource/60919.............. http://risis.eu/leidenRanking_2015/resource/3047............ 1........................................................... [University of London] was compared to [University of London] 
+	http://risis.eu/leidenRanking_2015/resource/3047............ http://risis.eu/orgref_20170703/resource/60919.............. 1........................................................... [University of London] was compared to [University of London] 
+	http://risis.eu/orgref_20170703/resource/60919.............. http://risis.eu/cordisH2020/resource/participant_999900639.. 1........................................................... [University of London] was compared to [UNIVERSITY OF LONDON] 
+	http://risis.eu/cordisH2020/resource/participant_999900639.. http://risis.eu/orgref_20170703/resource/60919.............. 1........................................................... [University of London] was compared to [UNIVERSITY OF LONDON] 
+	http://risis.eu/leidenRanking_2015/resource/3047............ http://risis.eu/cordisH2020/resource/participant_999900639.. 1........................................................... [UNIVERSITY OF LONDON] was compared to [University of London] 
+	http://risis.eu/cordisH2020/resource/participant_999900639.. http://risis.eu/leidenRanking_2015/resource/3047............ 1........................................................... [UNIVERSITY OF LONDON] was compared to [University of London] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/60919.............. http://en.wikipedia.org/wiki?curid=60919.................... 
+	http://risis.eu/orgref_20170703/resource/60919.............. http://www.wikidata.org/wiki/Q170027........................ 
+	http://risis.eu/orgref_20170703/resource/60919.............. http://www.london.ac.uk..................................... 
+	http://risis.eu/orgref_20170703/resource/60919.............. University of London........................................ 
+	http://risis.eu/leidenRanking_2015/resource/3047............ University of London........................................ 
+	http://risis.eu/cordisH2020/resource/participant_999900639.. http://risis.eu/cordisH2020/resource/www.bbk.ac.uk.......... 
+	http://risis.eu/cordisH2020/resource/participant_999900639.. UNIVERSITY OF LONDON........................................ 
+	http://www.grid.ac/institutes/grid.4464.2................... -0.128889................................................... 
+	http://www.grid.ac/institutes/grid.4464.2................... 51.52111.................................................... 
+	http://www.grid.ac/institutes/grid.4464.2................... http://www.london.ac.uk/.................................... 
+	http://www.grid.ac/institutes/grid.4464.2................... London University........................................... 
+	http://www.grid.ac/institutes/grid.4464.2................... University of London........................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:60919', '4:grid.4464.2'), ('2:3047', '1:60919'), ('2:3047', '3:participant_999900639'), ('2:3047', '4:grid.4464.2'), ('3:participant_999900639', '1:60919'), ('4:grid.4464.2', '3:participant_999900639')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

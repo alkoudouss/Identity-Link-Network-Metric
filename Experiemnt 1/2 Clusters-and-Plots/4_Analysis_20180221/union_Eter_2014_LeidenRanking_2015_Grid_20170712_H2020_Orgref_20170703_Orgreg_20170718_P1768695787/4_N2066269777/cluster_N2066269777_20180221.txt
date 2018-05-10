@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 9596 
+NAME    N2066269777
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.194632.b>
+	<http://www.grid.ac/institutes/grid.479971.5>
+	<http://risis.eu/orgref_20170703/resource/2414440>
+	<http://risis.eu/orgref_20170703/resource/11046161>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.194632.b........ http://www.grid.ac/institutes/grid.479971.5........ 0.8125............................................. [University of Arkansas System] was compared to [Arkansas State University System] 
+	http://www.grid.ac/institutes/grid.479971.5........ http://www.grid.ac/institutes/grid.194632.b........ 0.8125............................................. [University of Arkansas System] was compared to [Arkansas State University System] 
+	http://www.grid.ac/institutes/grid.194632.b........ http://risis.eu/orgref_20170703/resource/2414440... 1.................................................. [University of Arkansas System] was compared to [University of Arkansas System] 
+	http://risis.eu/orgref_20170703/resource/2414440... http://www.grid.ac/institutes/grid.194632.b........ 1.................................................. [University of Arkansas System] was compared to [University of Arkansas System] 
+	http://www.grid.ac/institutes/grid.194632.b........ http://risis.eu/orgref_20170703/resource/11046161.. 0.8125............................................. [University of Arkansas System] was compared to [Arkansas State University System] 
+	http://risis.eu/orgref_20170703/resource/11046161.. http://www.grid.ac/institutes/grid.194632.b........ 0.8125............................................. [University of Arkansas System] was compared to [Arkansas State University System] 
+	http://www.grid.ac/institutes/grid.479971.5........ http://risis.eu/orgref_20170703/resource/2414440... 0.8125............................................. [Arkansas State University System] was compared to [University of Arkansas System] 
+	http://risis.eu/orgref_20170703/resource/2414440... http://www.grid.ac/institutes/grid.479971.5........ 0.8125............................................. [Arkansas State University System] was compared to [University of Arkansas System] 
+	http://www.grid.ac/institutes/grid.479971.5........ http://risis.eu/orgref_20170703/resource/11046161.. 1.................................................. [Arkansas State University System] was compared to [Arkansas State University System] 
+	http://risis.eu/orgref_20170703/resource/11046161.. http://www.grid.ac/institutes/grid.479971.5........ 1.................................................. [Arkansas State University System] was compared to [Arkansas State University System] 
+	http://risis.eu/orgref_20170703/resource/2414440... http://risis.eu/orgref_20170703/resource/11046161.. 0.8125............................................. [Arkansas State University System] was compared to [University of Arkansas System] 
+	http://risis.eu/orgref_20170703/resource/11046161.. http://risis.eu/orgref_20170703/resource/2414440... 0.8125............................................. [Arkansas State University System] was compared to [University of Arkansas System] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.194632.b........ -92.34173.......................................... 
+	http://www.grid.ac/institutes/grid.194632.b........ 34.721558.......................................... 
+	http://www.grid.ac/institutes/grid.194632.b........ http://www.uasys.edu/.............................. 
+	http://www.grid.ac/institutes/grid.194632.b........ University of Arkansas System...................... 
+	http://www.grid.ac/institutes/grid.479971.5........ -92.28753.......................................... 
+	http://www.grid.ac/institutes/grid.479971.5........ 34.7459............................................ 
+	http://www.grid.ac/institutes/grid.479971.5........ http://www.asusystem.edu/.......................... 
+	http://www.grid.ac/institutes/grid.479971.5........ Arkansas State University System................... 
+	http://risis.eu/orgref_20170703/resource/2414440... http://en.wikipedia.org/wiki?curid=2414440......... 
+	http://risis.eu/orgref_20170703/resource/2414440... http://www.wikidata.org/wiki/Q2495814.............. 
+	http://risis.eu/orgref_20170703/resource/2414440... http://www.uasys.edu............................... 
+	http://risis.eu/orgref_20170703/resource/2414440... University of Arkansas System...................... 
+	http://risis.eu/orgref_20170703/resource/11046161.. http://en.wikipedia.org/wiki?curid=11046161........ 
+	http://risis.eu/orgref_20170703/resource/11046161.. http://www.wikidata.org/wiki/Q673105............... 
+	http://risis.eu/orgref_20170703/resource/11046161.. http://www.asusystem.edu........................... 
+	http://risis.eu/orgref_20170703/resource/11046161.. Arkansas State University System................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.479971.5', '1:grid.194632.b'), ('3:2414440', '1:grid.194632.b'), ('3:2414440', '2:grid.479971.5'), ('4:11046161', '1:grid.194632.b'), ('4:11046161', '2:grid.479971.5'), ('4:11046161', '3:2414440')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

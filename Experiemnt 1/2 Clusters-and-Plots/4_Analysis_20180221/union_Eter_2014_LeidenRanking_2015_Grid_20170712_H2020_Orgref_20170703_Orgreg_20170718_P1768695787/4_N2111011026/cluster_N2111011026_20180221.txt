@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 4507 
+NAME    N2111011026
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.436311.2>
+	<http://risis.eu/orgreg_20170718/resource/RO1015>
+	<http://risis.eu/orgref_20170703/resource/47000279>
+	<http://risis.eu/orgreg_20170718/resource/RO1023>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.436311.2........ http://risis.eu/orgref_20170703/resource/47000279.. 1.................................................. [National Institute for Research and Development in Microtechnologies] was compared to [National Institute for Research and Development in Microtechnologies] 
+	http://risis.eu/orgref_20170703/resource/47000279.. http://www.grid.ac/institutes/grid.436311.2........ 1.................................................. [National Institute for Research and Development in Microtechnologies] was compared to [National Institute for Research and Development in Microtechnologies] 
+	http://risis.eu/orgreg_20170718/resource/RO1015.... http://risis.eu/orgreg_20170718/resource/RO1023.... 0.947368421053..................................... [National Institute for Research and Development in Microtechnologies] was compared to [National Institute of Research and Development for Biotechnologies] 
+	http://risis.eu/orgreg_20170718/resource/RO1023.... http://risis.eu/orgreg_20170718/resource/RO1015.... 0.947368421053..................................... [National Institute for Research and Development in Microtechnologies] was compared to [National Institute of Research and Development for Biotechnologies] 
+	http://risis.eu/orgreg_20170718/resource/RO1015.... http://risis.eu/orgref_20170703/resource/47000279.. 1.................................................. [National Institute for Research and Development in Microtechnologies] was compared to [National Institute for Research and Development in Microtechnologies] 
+	http://risis.eu/orgref_20170703/resource/47000279.. http://risis.eu/orgreg_20170718/resource/RO1015.... 1.................................................. [National Institute for Research and Development in Microtechnologies] was compared to [National Institute for Research and Development in Microtechnologies] 
+	http://risis.eu/orgref_20170703/resource/47000279.. http://risis.eu/orgreg_20170718/resource/RO1023.... 0.947368421053..................................... [National Institute for Research and Development in Microtechnologies] was compared to [National Institute of Research and Development for Biotechnologies] 
+	http://risis.eu/orgreg_20170718/resource/RO1023.... http://risis.eu/orgref_20170703/resource/47000279.. 0.947368421053..................................... [National Institute for Research and Development in Microtechnologies] was compared to [National Institute of Research and Development for Biotechnologies] 
+	http://www.grid.ac/institutes/grid.436311.2........ http://risis.eu/orgreg_20170718/resource/RO1015.... 1.................................................. [National Institute for Research and Development in Microtechnologies] was compared to [National Institute for Research and Development in Microtechnologies] 
+	http://risis.eu/orgreg_20170718/resource/RO1015.... http://www.grid.ac/institutes/grid.436311.2........ 1.................................................. [National Institute for Research and Development in Microtechnologies] was compared to [National Institute for Research and Development in Microtechnologies] 
+	http://www.grid.ac/institutes/grid.436311.2........ http://risis.eu/orgreg_20170718/resource/RO1023.... 0.947368421053..................................... [National Institute for Research and Development in Microtechnologies] was compared to [National Institute of Research and Development for Biotechnologies] 
+	http://risis.eu/orgreg_20170718/resource/RO1023.... http://www.grid.ac/institutes/grid.436311.2........ 0.947368421053..................................... [National Institute for Research and Development in Microtechnologies] was compared to [National Institute of Research and Development for Biotechnologies] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.436311.2........ 26.111927.......................................... 
+	http://www.grid.ac/institutes/grid.436311.2........ 44.516296.......................................... 
+	http://www.grid.ac/institutes/grid.436311.2........ http://www.imt.ro/................................. 
+	http://www.grid.ac/institutes/grid.436311.2........ National Institute for Research and Development in Microtechnologies 
+	http://risis.eu/orgreg_20170718/resource/RO1015.... 26.034887.......................................... 
+	http://risis.eu/orgreg_20170718/resource/RO1015.... 44.428474.......................................... 
+	http://risis.eu/orgreg_20170718/resource/RO1015.... www.imt.ro......................................... 
+	http://risis.eu/orgreg_20170718/resource/RO1015.... National Institute for Research and Development in Microtechnologies 
+	http://risis.eu/orgref_20170703/resource/47000279.. National Institute for Research and Development in Microtechnologies 
+	http://risis.eu/orgreg_20170718/resource/RO1023.... 26.09269........................................... 
+	http://risis.eu/orgreg_20170718/resource/RO1023.... 44.41203........................................... 
+	http://risis.eu/orgreg_20170718/resource/RO1023.... m.................................................. 
+	http://risis.eu/orgreg_20170718/resource/RO1023.... National Institute of Research and Development for Biotechnologies 
+
+NETWORK ANALYSIS
+	NETWORK [('2:RO1015', '1:grid.436311.2'), ('2:RO1015', '3:47000279'), ('3:47000279', '1:grid.436311.2'), ('4:RO1023', '1:grid.436311.2'), ('4:RO1023', '2:RO1015'), ('4:RO1023', '3:47000279')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

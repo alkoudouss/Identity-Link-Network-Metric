@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 4594 
+NAME    N1765614582
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.416952.d>
+	<http://risis.eu/orgref_20170703/resource/20821722>
+	<http://www.grid.ac/institutes/grid.416956.9>
+	<http://www.grid.ac/institutes/grid.470214.4>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.416952.d........ http://risis.eu/orgref_20170703/resource/20821722.. 1.................................................. [Tenri Hospital] was compared to [Tenri Hospital].. 
+	http://risis.eu/orgref_20170703/resource/20821722.. http://www.grid.ac/institutes/grid.416952.d........ 1.................................................. [Tenri Hospital] was compared to [Tenri Hospital].. 
+	http://www.grid.ac/institutes/grid.416952.d........ http://www.grid.ac/institutes/grid.416956.9........ 0.866666666667..................................... [Tenri Hospital] was compared to [Tenshi Hospital]. 
+	http://www.grid.ac/institutes/grid.416956.9........ http://www.grid.ac/institutes/grid.416952.d........ 0.866666666667..................................... [Tenri Hospital] was compared to [Tenshi Hospital]. 
+	http://www.grid.ac/institutes/grid.416956.9........ http://www.grid.ac/institutes/grid.470214.4........ 0.866666666667..................................... [Tenshi Hospital] was compared to [Kensei Hospital] 
+	http://www.grid.ac/institutes/grid.470214.4........ http://www.grid.ac/institutes/grid.416956.9........ 0.866666666667..................................... [Tenshi Hospital] was compared to [Kensei Hospital] 
+	http://risis.eu/orgref_20170703/resource/20821722.. http://www.grid.ac/institutes/grid.416956.9........ 0.866666666667..................................... [Tenshi Hospital] was compared to [Tenri Hospital]. 
+	http://www.grid.ac/institutes/grid.416956.9........ http://risis.eu/orgref_20170703/resource/20821722.. 0.866666666667..................................... [Tenshi Hospital] was compared to [Tenri Hospital]. 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.416952.d........ 135.83824.......................................... 
+	http://www.grid.ac/institutes/grid.416952.d........ 34.607372.......................................... 
+	http://www.grid.ac/institutes/grid.416952.d........ http://www.tenriyorozu.jp/info/gaiyo.html.......... 
+	http://www.grid.ac/institutes/grid.416952.d........ Tenri Hospital..................................... 
+	http://risis.eu/orgref_20170703/resource/20821722.. http://en.wikipedia.org/wiki?curid=20821722........ 
+	http://risis.eu/orgref_20170703/resource/20821722.. http://www.wikidata.org/wiki/Q7700606.............. 
+	http://risis.eu/orgref_20170703/resource/20821722.. Tenri Hospital..................................... 
+	http://www.grid.ac/institutes/grid.416956.9........ 141.35732.......................................... 
+	http://www.grid.ac/institutes/grid.416956.9........ 43.076836.......................................... 
+	http://www.grid.ac/institutes/grid.416956.9........ http://www.tenshi.or.jp/........................... 
+	http://www.grid.ac/institutes/grid.416956.9........ Tenshi Hospital.................................... 
+	http://www.grid.ac/institutes/grid.470214.4........ 140.47899.......................................... 
+	http://www.grid.ac/institutes/grid.470214.4........ 40.60708........................................... 
+	http://www.grid.ac/institutes/grid.470214.4........ http://www.kensei-hp.jp/index.html................. 
+	http://www.grid.ac/institutes/grid.470214.4........ Kensei Byoin....................................... 
+	http://www.grid.ac/institutes/grid.470214.4........ Kensei Hospital.................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:20821722', '1:grid.416952.d'), ('3:grid.416956.9', '1:grid.416952.d'), ('3:grid.416956.9', '2:20821722'), ('4:grid.470214.4', '3:grid.416956.9')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

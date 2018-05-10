@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 501 
+NAME    N1018090009
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.17041.33>
+	<http://risis.eu/eter_2014/resource/BG0001>
+	<http://risis.eu/orgreg_20170718/resource/BG0001>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.17041.33...... http://risis.eu/orgreg_20170718/resource/BG0001.. 0.944444444444................................... [southwest university neofit rilski] was compared to [southwest university "neofit rilski"] 
+	http://risis.eu/eter_2014/resource/BG0001........ http://risis.eu/orgreg_20170718/resource/BG0001.. 0.739130434783................................... [southwest university neofit rilski] was compared to [southwest university neofit rilski blagoevgrad] 
+	http://risis.eu/orgreg_20170718/resource/BG0001.. http://www.grid.ac/institutes/grid.17041.33...... 0.944444444444................................... [southwest university neofit rilski] was compared to [southwest university "neofit rilski"] 
+	http://risis.eu/orgreg_20170718/resource/BG0001.. http://risis.eu/eter_2014/resource/BG0001........ 0.739130434783................................... [southwest university neofit rilski] was compared to [southwest university neofit rilski blagoevgrad] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.17041.33...... 23.079844........................................ 
+	http://www.grid.ac/institutes/grid.17041.33...... 42.01845......................................... 
+	http://www.grid.ac/institutes/grid.17041.33...... https://www.swu.bg/?lang=en...................... 
+	http://www.grid.ac/institutes/grid.17041.33...... South-West University "Neofit Rilski"............ 
+	http://risis.eu/eter_2014/resource/BG0001........ 42,017123........................................ 
+	http://risis.eu/eter_2014/resource/BG0001........ 23,09055......................................... 
+	http://risis.eu/eter_2014/resource/BG0001........ http://www.swu.bg/?lang=en....................... 
+	http://risis.eu/eter_2014/resource/BG0001........ a................................................ 
+	http://risis.eu/eter_2014/resource/BG0001........ South-West University Neofit Rilski, Blagoevgrad. 
+	http://risis.eu/eter_2014/resource/BG0001........ Югозападен университет Неофит Рилски 
+	http://risis.eu/orgreg_20170718/resource/BG0001.. 23.09055......................................... 
+	http://risis.eu/orgreg_20170718/resource/BG0001.. 42.017123........................................ 
+	http://risis.eu/orgreg_20170718/resource/BG0001.. http://www.swu.bg/?lang=en....................... 
+	http://risis.eu/orgreg_20170718/resource/BG0001.. South-West University Neofit Rilski.............. 
+
+NETWORK ANALYSIS
+	NETWORK [('N1018090009-BG0001', 'N484595877-grid.17041.33'), ('P2111519494-BG0001', 'N1018090009-BG0001')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

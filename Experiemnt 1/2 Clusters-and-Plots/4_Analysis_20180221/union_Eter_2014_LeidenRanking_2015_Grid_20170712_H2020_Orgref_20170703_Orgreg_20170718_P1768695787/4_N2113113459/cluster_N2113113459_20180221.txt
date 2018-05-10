@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 3779 
+NAME    N2113113459
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.450709.f>
+	<http://risis.eu/orgref_20170703/resource/47009902>
+	<http://risis.eu/orgref_20170703/resource/47009885>
+	<http://www.grid.ac/institutes/grid.451079.e>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.450709.f........ http://www.grid.ac/institutes/grid.451079.e........ 0.842105263158..................................... [East London NHS Foundation Trust] was compared to [North East London NHS Foundation Trust] 
+	http://www.grid.ac/institutes/grid.451079.e........ http://www.grid.ac/institutes/grid.450709.f........ 0.842105263158..................................... [East London NHS Foundation Trust] was compared to [North East London NHS Foundation Trust] 
+	http://risis.eu/orgref_20170703/resource/47009902.. http://www.grid.ac/institutes/grid.451079.e........ 1.................................................. [North East London NHS Foundation Trust] was compared to [North East London NHS Foundation Trust] 
+	http://www.grid.ac/institutes/grid.451079.e........ http://risis.eu/orgref_20170703/resource/47009902.. 1.................................................. [North East London NHS Foundation Trust] was compared to [North East London NHS Foundation Trust] 
+	http://risis.eu/orgref_20170703/resource/47009885.. http://www.grid.ac/institutes/grid.451079.e........ 0.842105263158..................................... [North East London NHS Foundation Trust] was compared to [East London NHS Foundation Trust] 
+	http://www.grid.ac/institutes/grid.451079.e........ http://risis.eu/orgref_20170703/resource/47009885.. 0.842105263158..................................... [North East London NHS Foundation Trust] was compared to [East London NHS Foundation Trust] 
+	http://www.grid.ac/institutes/grid.450709.f........ http://risis.eu/orgref_20170703/resource/47009902.. 0.842105263158..................................... [East London NHS Foundation Trust] was compared to [North East London NHS Foundation Trust] 
+	http://risis.eu/orgref_20170703/resource/47009902.. http://www.grid.ac/institutes/grid.450709.f........ 0.842105263158..................................... [East London NHS Foundation Trust] was compared to [North East London NHS Foundation Trust] 
+	http://www.grid.ac/institutes/grid.450709.f........ http://risis.eu/orgref_20170703/resource/47009885.. 1.................................................. [East London NHS Foundation Trust] was compared to [East London NHS Foundation Trust] 
+	http://risis.eu/orgref_20170703/resource/47009885.. http://www.grid.ac/institutes/grid.450709.f........ 1.................................................. [East London NHS Foundation Trust] was compared to [East London NHS Foundation Trust] 
+	http://risis.eu/orgref_20170703/resource/47009902.. http://risis.eu/orgref_20170703/resource/47009885.. 0.842105263158..................................... [East London NHS Foundation Trust] was compared to [North East London NHS Foundation Trust] 
+	http://risis.eu/orgref_20170703/resource/47009885.. http://risis.eu/orgref_20170703/resource/47009902.. 0.842105263158..................................... [East London NHS Foundation Trust] was compared to [North East London NHS Foundation Trust] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.450709.f........ -0.043293.......................................... 
+	http://www.grid.ac/institutes/grid.450709.f........ 51.524456.......................................... 
+	http://www.grid.ac/institutes/grid.450709.f........ http://www.eastlondon.nhs.uk/...................... 
+	http://www.grid.ac/institutes/grid.450709.f........ East London and The City University Mental Health NHS Trust 
+	http://www.grid.ac/institutes/grid.450709.f........ East London NHS Foundation Trust................... 
+	http://risis.eu/orgref_20170703/resource/47009902.. http://en.wikipedia.org/wiki?curid=40943443........ 
+	http://risis.eu/orgref_20170703/resource/47009902.. http://www.wikidata.org/wiki/Q17016212............. 
+	http://risis.eu/orgref_20170703/resource/47009902.. http://www.nelft.nhs.uk............................ 
+	http://risis.eu/orgref_20170703/resource/47009902.. North East London NHS Foundation Trust............. 
+	http://risis.eu/orgref_20170703/resource/47009885.. http://en.wikipedia.org/wiki?curid=40914424........ 
+	http://risis.eu/orgref_20170703/resource/47009885.. http://www.wikidata.org/wiki/Q16989274............. 
+	http://risis.eu/orgref_20170703/resource/47009885.. East London NHS Foundation Trust................... 
+	http://www.grid.ac/institutes/grid.451079.e........ 0.110593........................................... 
+	http://www.grid.ac/institutes/grid.451079.e........ 51.578197.......................................... 
+	http://www.grid.ac/institutes/grid.451079.e........ http://www.nelft.nhs.uk/........................... 
+	http://www.grid.ac/institutes/grid.451079.e........ North East London Mental Health Trust.............. 
+	http://www.grid.ac/institutes/grid.451079.e........ North East London NHS Foundation Trust............. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:47009902', '1:grid.450709.f'), ('2:47009902', '3:47009885'), ('2:47009902', '4:grid.451079.e'), ('3:47009885', '1:grid.450709.f'), ('4:grid.451079.e', '1:grid.450709.f'), ('4:grid.451079.e', '3:47009885')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

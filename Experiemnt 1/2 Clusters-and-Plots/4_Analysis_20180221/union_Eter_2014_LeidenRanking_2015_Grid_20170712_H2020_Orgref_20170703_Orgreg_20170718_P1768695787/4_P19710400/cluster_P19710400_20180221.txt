@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 3663 
+NAME    P19710400
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.422661.5>
+	<http://www.grid.ac/institutes/grid.456978.1>
+	<http://www.grid.ac/institutes/grid.423320.4>
+	<http://www.grid.ac/institutes/grid.456203.6>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.422661.5.. http://www.grid.ac/institutes/grid.423320.4.. 1............................................ [Oxford Instruments (Canada)] was compared to [Oxford Instruments (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.423320.4.. http://www.grid.ac/institutes/grid.422661.5.. 1............................................ [Oxford Instruments (Canada)] was compared to [Oxford Instruments (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.422661.5.. http://www.grid.ac/institutes/grid.456978.1.. 1............................................ [Oxford Instruments (Canada)] was compared to [Oxford Instruments (Germany)] 
+	http://www.grid.ac/institutes/grid.456978.1.. http://www.grid.ac/institutes/grid.422661.5.. 1............................................ [Oxford Instruments (Canada)] was compared to [Oxford Instruments (Germany)] 
+	http://www.grid.ac/institutes/grid.422661.5.. http://www.grid.ac/institutes/grid.456203.6.. 1............................................ [Oxford Instruments (Canada)] was compared to [Oxford Instruments (United States)] 
+	http://www.grid.ac/institutes/grid.456203.6.. http://www.grid.ac/institutes/grid.422661.5.. 1............................................ [Oxford Instruments (Canada)] was compared to [Oxford Instruments (United States)] 
+	http://www.grid.ac/institutes/grid.456978.1.. http://www.grid.ac/institutes/grid.423320.4.. 1............................................ [Oxford Instruments (United Kingdom)] was compared to [Oxford Instruments (Germany)] 
+	http://www.grid.ac/institutes/grid.423320.4.. http://www.grid.ac/institutes/grid.456978.1.. 1............................................ [Oxford Instruments (United Kingdom)] was compared to [Oxford Instruments (Germany)] 
+	http://www.grid.ac/institutes/grid.423320.4.. http://www.grid.ac/institutes/grid.456203.6.. 1............................................ [Oxford Instruments (United Kingdom)] was compared to [Oxford Instruments (United States)] 
+	http://www.grid.ac/institutes/grid.456203.6.. http://www.grid.ac/institutes/grid.423320.4.. 1............................................ [Oxford Instruments (United Kingdom)] was compared to [Oxford Instruments (United States)] 
+	http://www.grid.ac/institutes/grid.456978.1.. http://www.grid.ac/institutes/grid.456203.6.. 1............................................ [Oxford Instruments (United States)] was compared to [Oxford Instruments (Germany)] 
+	http://www.grid.ac/institutes/grid.456203.6.. http://www.grid.ac/institutes/grid.456978.1.. 1............................................ [Oxford Instruments (United States)] was compared to [Oxford Instruments (Germany)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.422661.5.. -79.60832.................................... 
+	http://www.grid.ac/institutes/grid.422661.5.. 43.75438..................................... 
+	http://www.grid.ac/institutes/grid.422661.5.. http://www.oxford-instruments.com/........... 
+	http://www.grid.ac/institutes/grid.422661.5.. Oxford Instruments (Canada).................. 
+	http://www.grid.ac/institutes/grid.456978.1.. 6.271679..................................... 
+	http://www.grid.ac/institutes/grid.456978.1.. 51.66025..................................... 
+	http://www.grid.ac/institutes/grid.456978.1.. http://www.oxford-instruments.de/home........ 
+	http://www.grid.ac/institutes/grid.456978.1.. Oxford Instruments (Germany)................. 
+	http://www.grid.ac/institutes/grid.423320.4.. -1.351511.................................... 
+	http://www.grid.ac/institutes/grid.423320.4.. 51.69486..................................... 
+	http://www.grid.ac/institutes/grid.423320.4.. http://www.oxford-instruments.com/........... 
+	http://www.grid.ac/institutes/grid.423320.4.. Oxford Instruments (United Kingdom).......... 
+	http://www.grid.ac/institutes/grid.456203.6.. -97.68856.................................... 
+	http://www.grid.ac/institutes/grid.456203.6.. 30.22441..................................... 
+	http://www.grid.ac/institutes/grid.456203.6.. http://www.oxford-instruments.com/businesses/industrial-products/austin 
+	http://www.grid.ac/institutes/grid.456203.6.. Oxford Instruments (United States)........... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.456978.1', '1:grid.422661.5'), ('2:grid.456978.1', '4:grid.456203.6'), ('3:grid.423320.4', '1:grid.422661.5'), ('3:grid.423320.4', '2:grid.456978.1'), ('4:grid.456203.6', '1:grid.422661.5'), ('4:grid.456203.6', '3:grid.423320.4')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 2862 
+NAME    N1447333945
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.4764.1>
+	<http://risis.eu/orgref_20170703/resource/336112>
+	<http://risis.eu/cordisH2020/resource/participant_999596544>
+	<http://risis.eu/leidenRanking_2015/resource/7209>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.4764.1................... http://risis.eu/orgref_20170703/resource/336112............. 1........................................................... [Physikalisch-Technische Bundesanstalt] was compared to [Physikalisch-Technische Bundesanstalt] 
+	http://risis.eu/orgref_20170703/resource/336112............. http://www.grid.ac/institutes/grid.4764.1................... 1........................................................... [Physikalisch-Technische Bundesanstalt] was compared to [Physikalisch-Technische Bundesanstalt] 
+	http://www.grid.ac/institutes/grid.4764.1................... http://risis.eu/leidenRanking_2015/resource/7209............ 1........................................................... [Physikalisch-Technische Bundesanstalt] was compared to [Physikalisch-Technische Bundesanstalt (PTB)] 
+	http://risis.eu/leidenRanking_2015/resource/7209............ http://www.grid.ac/institutes/grid.4764.1................... 1........................................................... [Physikalisch-Technische Bundesanstalt] was compared to [Physikalisch-Technische Bundesanstalt (PTB)] 
+	http://www.grid.ac/institutes/grid.4764.1................... http://risis.eu/cordisH2020/resource/participant_999596544.. 1........................................................... [Physikalisch-Technische Bundesanstalt] was compared to [PHYSIKALISCH-TECHNISCHE BUNDESANSTALT] 
+	http://risis.eu/cordisH2020/resource/participant_999596544.. http://www.grid.ac/institutes/grid.4764.1................... 1........................................................... [Physikalisch-Technische Bundesanstalt] was compared to [PHYSIKALISCH-TECHNISCHE BUNDESANSTALT] 
+	http://risis.eu/orgref_20170703/resource/336112............. http://risis.eu/leidenRanking_2015/resource/7209............ 1........................................................... [Physikalisch-Technische Bundesanstalt] was compared to [Physikalisch-Technische Bundesanstalt (PTB)] 
+	http://risis.eu/leidenRanking_2015/resource/7209............ http://risis.eu/orgref_20170703/resource/336112............. 1........................................................... [Physikalisch-Technische Bundesanstalt] was compared to [Physikalisch-Technische Bundesanstalt (PTB)] 
+	http://risis.eu/orgref_20170703/resource/336112............. http://risis.eu/cordisH2020/resource/participant_999596544.. 1........................................................... [Physikalisch-Technische Bundesanstalt] was compared to [PHYSIKALISCH-TECHNISCHE BUNDESANSTALT] 
+	http://risis.eu/cordisH2020/resource/participant_999596544.. http://risis.eu/orgref_20170703/resource/336112............. 1........................................................... [Physikalisch-Technische Bundesanstalt] was compared to [PHYSIKALISCH-TECHNISCHE BUNDESANSTALT] 
+	http://risis.eu/cordisH2020/resource/participant_999596544.. http://risis.eu/leidenRanking_2015/resource/7209............ 1........................................................... [PHYSIKALISCH-TECHNISCHE BUNDESANSTALT] was compared to [Physikalisch-Technische Bundesanstalt (PTB)] 
+	http://risis.eu/leidenRanking_2015/resource/7209............ http://risis.eu/cordisH2020/resource/participant_999596544.. 1........................................................... [PHYSIKALISCH-TECHNISCHE BUNDESANSTALT] was compared to [Physikalisch-Technische Bundesanstalt (PTB)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.4764.1................... 10.462984................................................... 
+	http://www.grid.ac/institutes/grid.4764.1................... 52.297073................................................... 
+	http://www.grid.ac/institutes/grid.4764.1................... https://www.ptb.de/cms/..................................... 
+	http://www.grid.ac/institutes/grid.4764.1................... Physikalisch-Technische Bundesanstalt....................... 
+	http://risis.eu/orgref_20170703/resource/336112............. http://en.wikipedia.org/wiki?curid=336112................... 
+	http://risis.eu/orgref_20170703/resource/336112............. http://www.wikidata.org/wiki/Q470438........................ 
+	http://risis.eu/orgref_20170703/resource/336112............. http://www.ptb.de........................................... 
+	http://risis.eu/orgref_20170703/resource/336112............. Physikalisch-Technische Bundesanstalt....................... 
+	http://risis.eu/cordisH2020/resource/participant_999596544.. http://risis.eu/cordisH2020/resource/www.ptb.de............. 
+	http://risis.eu/cordisH2020/resource/participant_999596544.. PHYSIKALISCH-TECHNISCHE BUNDESANSTALT....................... 
+	http://risis.eu/leidenRanking_2015/resource/7209............ Physikalisch-Technische Bundesanstalt (PTB)................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:336112', '1:grid.4764.1'), ('3:participant_999596544', '1:grid.4764.1'), ('3:participant_999596544', '2:336112'), ('4:7209', '1:grid.4764.1'), ('4:7209', '2:336112'), ('4:7209', '3:participant_999596544')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

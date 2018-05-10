@@ -1,0 +1,53 @@
+SIZE    3   
+CLUSTER 2409 
+NAME    N1835574330
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/47001139>
+	<http://www.grid.ac/institutes/grid.477002.6>
+	<http://www.grid.ac/institutes/grid.416482.d>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/47001139.. http://www.grid.ac/institutes/grid.416482.d........ 0.88............................................... [Saint Francis Hospital] was compared to [Saint Franciscus Hospital] 
+	http://risis.eu/orgref_20170703/resource/47001139.. http://www.grid.ac/institutes/grid.477002.6........ 0.88............................................... [Saint Francis Hospital] was compared to [Saint Franciscus Hospital] 
+	http://www.grid.ac/institutes/grid.477002.6........ http://risis.eu/orgref_20170703/resource/47001139.. 0.88............................................... [Saint Francis Hospital] was compared to [Saint Franciscus Hospital] 
+	http://www.grid.ac/institutes/grid.477002.6........ http://www.grid.ac/institutes/grid.416482.d........ 1.................................................. [Saint Francis Hospital] was compared to [Saint Francis Hospital] 
+	http://www.grid.ac/institutes/grid.416482.d........ http://www.grid.ac/institutes/grid.477002.6........ 1.................................................. [Saint Francis Hospital] was compared to [Saint Francis Hospital] 
+	http://www.grid.ac/institutes/grid.416482.d........ http://risis.eu/orgref_20170703/resource/47001139.. 0.88............................................... [Saint Francis Hospital] was compared to [Saint Franciscus Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 9 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/47001139.. Saint Franciscus Hospital.......................... 
+	http://www.grid.ac/institutes/grid.477002.6........ -81.63361.......................................... 
+	http://www.grid.ac/institutes/grid.477002.6........ 38.353203.......................................... 
+	http://www.grid.ac/institutes/grid.477002.6........ http://www.stfrancishospital.com/sfms.html......... 
+	http://www.grid.ac/institutes/grid.477002.6........ Saint Francis Hospital............................. 
+	http://www.grid.ac/institutes/grid.416482.d........ -95.919174......................................... 
+	http://www.grid.ac/institutes/grid.416482.d........ 36.072575.......................................... 
+	http://www.grid.ac/institutes/grid.416482.d........ https://www.saintfrancis.com/saintfrancishospital/pages/default.aspx 
+	http://www.grid.ac/institutes/grid.416482.d........ Saint Francis Hospital............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('P956123979-47001139', 'P1645638879-grid.416482.d'), ('P1645638879-grid.416482.d', 'N1835574330-grid.477002.6'), ('P956123979-47001139', 'N1835574330-grid.477002.6')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

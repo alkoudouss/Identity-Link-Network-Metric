@@ -1,0 +1,73 @@
+SIZE    5   
+CLUSTER 1723 
+NAME    N1249329359
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.462241.7>
+	<http://risis.eu/orgref_20170703/resource/7432303>
+	<http://risis.eu/orgref_20170703/resource/1945495>
+	<http://www.grid.ac/institutes/grid.421830.c>
+	<http://risis.eu/orgref_20170703/resource/594981>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/1945495.. http://www.grid.ac/institutes/grid.421830.c....... 1................................................. [Montgomery County Community College] was compared to [Montgomery County Community College] 
+	http://www.grid.ac/institutes/grid.421830.c....... http://risis.eu/orgref_20170703/resource/1945495.. 1................................................. [Montgomery County Community College] was compared to [Montgomery County Community College] 
+	http://www.grid.ac/institutes/grid.462241.7....... http://risis.eu/orgref_20170703/resource/594981... 1................................................. [Fulton–Montgomery Community College] was compared to [Fulton–Montgomery Community College] 
+	http://risis.eu/orgref_20170703/resource/594981... http://www.grid.ac/institutes/grid.462241.7....... 1................................................. [Fulton–Montgomery Community College] was compared to [Fulton–Montgomery Community College] 
+	http://risis.eu/orgref_20170703/resource/7432303.. http://risis.eu/orgref_20170703/resource/594981... 0.823529411765.................................... [Fulton–Montgomery Community College] was compared to [Montgomery Community College (North Carolina)] 
+	http://risis.eu/orgref_20170703/resource/594981... http://risis.eu/orgref_20170703/resource/7432303.. 0.823529411765.................................... [Fulton–Montgomery Community College] was compared to [Montgomery Community College (North Carolina)] 
+	http://risis.eu/orgref_20170703/resource/7432303.. http://risis.eu/orgref_20170703/resource/1945495.. 0.8............................................... [Montgomery County Community College] was compared to [Montgomery Community College (North Carolina)] 
+	http://risis.eu/orgref_20170703/resource/1945495.. http://risis.eu/orgref_20170703/resource/7432303.. 0.8............................................... [Montgomery County Community College] was compared to [Montgomery Community College (North Carolina)] 
+	http://risis.eu/orgref_20170703/resource/7432303.. http://www.grid.ac/institutes/grid.421830.c....... 0.8............................................... [Montgomery County Community College] was compared to [Montgomery Community College (North Carolina)] 
+	http://www.grid.ac/institutes/grid.421830.c....... http://risis.eu/orgref_20170703/resource/7432303.. 0.8............................................... [Montgomery County Community College] was compared to [Montgomery Community College (North Carolina)] 
+	http://www.grid.ac/institutes/grid.462241.7....... http://risis.eu/orgref_20170703/resource/7432303.. 0.823529411765.................................... [Fulton–Montgomery Community College] was compared to [Montgomery Community College (North Carolina)] 
+	http://risis.eu/orgref_20170703/resource/7432303.. http://www.grid.ac/institutes/grid.462241.7....... 0.823529411765.................................... [Fulton–Montgomery Community College] was compared to [Montgomery Community College (North Carolina)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 21 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.462241.7....... -74.29529......................................... 
+	http://www.grid.ac/institutes/grid.462241.7....... 42.983006......................................... 
+	http://www.grid.ac/institutes/grid.462241.7....... http://www.fmcc.edu/.............................. 
+	http://www.grid.ac/institutes/grid.462241.7....... Fulton–Montgomery Community College............. 
+	http://risis.eu/orgref_20170703/resource/7432303.. http://en.wikipedia.org/wiki?curid=7432303........ 
+	http://risis.eu/orgref_20170703/resource/7432303.. http://www.wikidata.org/wiki/Q6905673............. 
+	http://risis.eu/orgref_20170703/resource/7432303.. http://www.montgomery.edu......................... 
+	http://risis.eu/orgref_20170703/resource/7432303.. Montgomery Community College (North Carolina)..... 
+	http://risis.eu/orgref_20170703/resource/1945495.. http://en.wikipedia.org/wiki?curid=1945495........ 
+	http://risis.eu/orgref_20170703/resource/1945495.. http://www.wikidata.org/wiki/Q10332113............ 
+	http://risis.eu/orgref_20170703/resource/1945495.. http://www.mc3.edu................................ 
+	http://risis.eu/orgref_20170703/resource/1945495.. Montgomery County Community College............... 
+	http://www.grid.ac/institutes/grid.421830.c....... -75.275604........................................ 
+	http://www.grid.ac/institutes/grid.421830.c....... 40.176365......................................... 
+	http://www.grid.ac/institutes/grid.421830.c....... http://www.mc3.edu/............................... 
+	http://www.grid.ac/institutes/grid.421830.c....... MontCo............................................ 
+	http://www.grid.ac/institutes/grid.421830.c....... Montgomery County Community College............... 
+	http://risis.eu/orgref_20170703/resource/594981... http://en.wikipedia.org/wiki?curid=594981......... 
+	http://risis.eu/orgref_20170703/resource/594981... http://www.wikidata.org/wiki/Q5508483............. 
+	http://risis.eu/orgref_20170703/resource/594981... http://www.fmcc.suny.edu.......................... 
+	http://risis.eu/orgref_20170703/resource/594981... Fulton–Montgomery Community College............. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:7432303', '1:grid.462241.7'), ('2:7432303', '4:grid.421830.c'), ('2:7432303', '5:594981'), ('3:1945495', '2:7432303'), ('4:grid.421830.c', '3:1945495'), ('5:594981', '1:grid.462241.7')]
+	MAX DISTANCE:                   : 0.6
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 1.6
+	AVERAGE NODE CONNECTIVITY RATIO : 0.4
+	BRIDGES                         : 0
+	CLOSURE                         : 0.6
+	DIAMETER                        : 2
+	QUALITY                         : 0.244
+	QUALITY USED                    : 0.262
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.4 DIAMETER 0.333 QUALITY 0.244 QUALITY USED 0.262
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.4 DIAMETER 0.385 QUALITY 0.244 QUALITY USED 0.262

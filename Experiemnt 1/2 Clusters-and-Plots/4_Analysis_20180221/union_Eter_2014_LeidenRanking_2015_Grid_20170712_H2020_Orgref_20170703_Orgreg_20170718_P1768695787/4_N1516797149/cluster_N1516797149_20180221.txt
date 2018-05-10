@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 1618 
+NAME    N1516797149
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.34517.34>
+	<http://risis.eu/eter_2014/resource/TR0005>
+	<http://risis.eu/leidenRanking_2015/resource/1032>
+	<http://risis.eu/orgref_20170703/resource/13564461>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.34517.34........ http://risis.eu/orgref_20170703/resource/13564461.. 1.................................................. [Adnan Menderes University] was compared to [Adnan Menderes University] 
+	http://risis.eu/orgref_20170703/resource/13564461.. http://www.grid.ac/institutes/grid.34517.34........ 1.................................................. [Adnan Menderes University] was compared to [Adnan Menderes University] 
+	http://www.grid.ac/institutes/grid.34517.34........ http://risis.eu/leidenRanking_2015/resource/1032... 1.................................................. [Adnan Menderes University] was compared to [Adnan Menderes University] 
+	http://risis.eu/leidenRanking_2015/resource/1032... http://www.grid.ac/institutes/grid.34517.34........ 1.................................................. [Adnan Menderes University] was compared to [Adnan Menderes University] 
+	http://www.grid.ac/institutes/grid.34517.34........ http://risis.eu/eter_2014/resource/TR0005.......... 0.888888888889..................................... [Adnan Menderes University] was compared to [ADNAN MENDERES ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0005.......... http://www.grid.ac/institutes/grid.34517.34........ 0.888888888889..................................... [Adnan Menderes University] was compared to [ADNAN MENDERES ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0005.......... http://risis.eu/orgref_20170703/resource/13564461.. 0.888888888889..................................... [Adnan Menderes University] was compared to [ADNAN MENDERES ÜNIVERSITESI] 
+	http://risis.eu/orgref_20170703/resource/13564461.. http://risis.eu/eter_2014/resource/TR0005.......... 0.888888888889..................................... [Adnan Menderes University] was compared to [ADNAN MENDERES ÜNIVERSITESI] 
+	http://risis.eu/leidenRanking_2015/resource/1032... http://risis.eu/orgref_20170703/resource/13564461.. 1.................................................. [Adnan Menderes University] was compared to [Adnan Menderes University] 
+	http://risis.eu/orgref_20170703/resource/13564461.. http://risis.eu/leidenRanking_2015/resource/1032... 1.................................................. [Adnan Menderes University] was compared to [Adnan Menderes University] 
+	http://risis.eu/eter_2014/resource/TR0005.......... http://risis.eu/leidenRanking_2015/resource/1032... 0.888888888889..................................... [ADNAN MENDERES ÜNIVERSITESI] was compared to [Adnan Menderes University] 
+	http://risis.eu/leidenRanking_2015/resource/1032... http://risis.eu/eter_2014/resource/TR0005.......... 0.888888888889..................................... [ADNAN MENDERES ÜNIVERSITESI] was compared to [Adnan Menderes University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.34517.34........ 27.8547............................................ 
+	http://www.grid.ac/institutes/grid.34517.34........ 37.8547............................................ 
+	http://www.grid.ac/institutes/grid.34517.34........ http://www.adu.edu.tr/tr/.......................... 
+	http://www.grid.ac/institutes/grid.34517.34........ Adnan Menderes Üniversitesi....................... 
+	http://www.grid.ac/institutes/grid.34517.34........ Adnan Menderes University.......................... 
+	http://risis.eu/eter_2014/resource/TR0005.......... 37,916963.......................................... 
+	http://risis.eu/eter_2014/resource/TR0005.......... 27,854587.......................................... 
+	http://risis.eu/eter_2014/resource/TR0005.......... http://www.adu.edu.tr.............................. 
+	http://risis.eu/eter_2014/resource/TR0005.......... a.................................................. 
+	http://risis.eu/eter_2014/resource/TR0005.......... Adnan Menderes University.......................... 
+	http://risis.eu/eter_2014/resource/TR0005.......... ADNAN MENDERES ÜNIVERSITESI....................... 
+	http://risis.eu/leidenRanking_2015/resource/1032... Adnan Menderes University.......................... 
+	http://risis.eu/orgref_20170703/resource/13564461.. http://en.wikipedia.org/wiki?curid=13564461........ 
+	http://risis.eu/orgref_20170703/resource/13564461.. http://www.wikidata.org/wiki/Q359735............... 
+	http://risis.eu/orgref_20170703/resource/13564461.. http://www.adu.edu.tr.............................. 
+	http://risis.eu/orgref_20170703/resource/13564461.. Adnan Menderes University.......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:TR0005', '1:grid.34517.34'), ('3:1032', '1:grid.34517.34'), ('3:1032', '2:TR0005'), ('3:1032', '4:13564461'), ('4:13564461', '1:grid.34517.34'), ('4:13564461', '2:TR0005')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

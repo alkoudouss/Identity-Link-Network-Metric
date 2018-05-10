@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 2110 
+NAME    N1348481447
+
+RESOURCES INVOLVED
+	<http://risis.eu/cordisH2020/resource/participant_998794063>
+	<http://risis.eu/leidenRanking_2015/resource/15852>
+	<http://risis.eu/orgref_20170703/resource/102918>
+	<http://www.grid.ac/institutes/grid.56466.37>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/102918............. http://www.grid.ac/institutes/grid.56466.37................. 1........................................................... [Woods Hole Oceanographic Institution] was compared to [Woods Hole Oceanographic Institution] 
+	http://www.grid.ac/institutes/grid.56466.37................. http://risis.eu/orgref_20170703/resource/102918............. 1........................................................... [Woods Hole Oceanographic Institution] was compared to [Woods Hole Oceanographic Institution] 
+	http://risis.eu/leidenRanking_2015/resource/15852........... http://www.grid.ac/institutes/grid.56466.37................. 1........................................................... [Woods Hole Oceanographic Institution] was compared to [Woods Hole Oceanographic Institution] 
+	http://www.grid.ac/institutes/grid.56466.37................. http://risis.eu/leidenRanking_2015/resource/15852........... 1........................................................... [Woods Hole Oceanographic Institution] was compared to [Woods Hole Oceanographic Institution] 
+	http://risis.eu/cordisH2020/resource/participant_998794063.. http://www.grid.ac/institutes/grid.56466.37................. 1........................................................... [Woods Hole Oceanographic Institution] was compared to [WOODS HOLE OCEANOGRAPHIC INSTITUTION] 
+	http://www.grid.ac/institutes/grid.56466.37................. http://risis.eu/cordisH2020/resource/participant_998794063.. 1........................................................... [Woods Hole Oceanographic Institution] was compared to [WOODS HOLE OCEANOGRAPHIC INSTITUTION] 
+	http://risis.eu/leidenRanking_2015/resource/15852........... http://risis.eu/orgref_20170703/resource/102918............. 1........................................................... [Woods Hole Oceanographic Institution] was compared to [Woods Hole Oceanographic Institution] 
+	http://risis.eu/orgref_20170703/resource/102918............. http://risis.eu/leidenRanking_2015/resource/15852........... 1........................................................... [Woods Hole Oceanographic Institution] was compared to [Woods Hole Oceanographic Institution] 
+	http://risis.eu/cordisH2020/resource/participant_998794063.. http://risis.eu/orgref_20170703/resource/102918............. 1........................................................... [Woods Hole Oceanographic Institution] was compared to [WOODS HOLE OCEANOGRAPHIC INSTITUTION] 
+	http://risis.eu/orgref_20170703/resource/102918............. http://risis.eu/cordisH2020/resource/participant_998794063.. 1........................................................... [Woods Hole Oceanographic Institution] was compared to [WOODS HOLE OCEANOGRAPHIC INSTITUTION] 
+	http://risis.eu/cordisH2020/resource/participant_998794063.. http://risis.eu/leidenRanking_2015/resource/15852........... 1........................................................... [WOODS HOLE OCEANOGRAPHIC INSTITUTION] was compared to [Woods Hole Oceanographic Institution] 
+	http://risis.eu/leidenRanking_2015/resource/15852........... http://risis.eu/cordisH2020/resource/participant_998794063.. 1........................................................... [WOODS HOLE OCEANOGRAPHIC INSTITUTION] was compared to [Woods Hole Oceanographic Institution] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_998794063.. http://risis.eu/cordisH2020/resource/www.whoi.edu........... 
+	http://risis.eu/cordisH2020/resource/participant_998794063.. WOODS HOLE OCEANOGRAPHIC INSTITUTION........................ 
+	http://risis.eu/leidenRanking_2015/resource/15852........... Woods Hole Oceanographic Institution........................ 
+	http://risis.eu/orgref_20170703/resource/102918............. http://en.wikipedia.org/wiki?curid=102918................... 
+	http://risis.eu/orgref_20170703/resource/102918............. http://www.wikidata.org/wiki/Q1404053....................... 
+	http://risis.eu/orgref_20170703/resource/102918............. http://www.whoi.edu......................................... 
+	http://risis.eu/orgref_20170703/resource/102918............. Woods Hole Oceanographic Institution........................ 
+	http://www.grid.ac/institutes/grid.56466.37................. -70.670975.................................................. 
+	http://www.grid.ac/institutes/grid.56466.37................. 41.524517................................................... 
+	http://www.grid.ac/institutes/grid.56466.37................. http://www.whoi.edu/........................................ 
+	http://www.grid.ac/institutes/grid.56466.37................. Woods Hole Oceanographic Institution........................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:participant_998794063', '4:grid.56466.37'), ('2:15852', '1:participant_998794063'), ('2:15852', '3:102918'), ('3:102918', '1:participant_998794063'), ('3:102918', '4:grid.56466.37'), ('4:grid.56466.37', '2:15852')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

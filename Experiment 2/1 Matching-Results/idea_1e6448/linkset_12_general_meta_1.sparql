@@ -1,0 +1,274 @@
+INSERT
+
+{
+	<http://risis.eu/linkset/refined_eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866_exactStrSim_Country_Code_N730070400> a <http://rdfs.org/ns/void#Linkset> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "refined_eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866_exactStrSim_Country_Code_N730070400" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "Linking <http://risis.eu/dataset/eter_2014> to <http://risis.eu/dataset/grid_20170712> by aligning <http://risis.eu/eter_2014/ontology/predicate/Country_Code> with \"<http://www.grid.ac/ontology/hasAddress>/<http://www.grid.ac/ontology/countryCode>\" using the mechanism: exactStrSim" ;
+		<http://rdfs.org/ns/void#triples> 390 ;
+		<http://risis.eu/alignment/predicate/sameAsCount> 13 ;
+		<http://risis.eu/alignment/predicate/alignsMechanism> <http://risis.eu/mechanism/exactStrSim> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/eter_2014> ;
+		<http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/grid_20170712> ;
+		<http://rdfs.org/ns/void#linkPredicate> <http://risis.eu/alignment/predicate/exactStrSim13> .
+	
+	<http://risis.eu/alignment/predicate/exactStrSim13> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://risis.eu/linkset/predicate/approxStrSim> ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "The predicate <http://risis.eu/alignment/predicate/exactStrSim13> used in this linkset is a property that reflects an entity linking approach based on the <http://risis.eu/mechanism/approxStrSim> mechanism." ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "Approximate String Similarity 13" ;
+		<http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://risis.eu/linkset/predicate/exactStrSim> , <http://risis.eu/linkset/predicate/nearbyGeoSim> ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "The predicate <http://risis.eu/alignment/predicate/exactStrSim13> used in this linkset is a property that reflects an entity linking approach based on the <http://risis.eu/mechanism/exactStrSim> mechanism." ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "Exact String Similarity 13" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "The predicate <http://risis.eu/alignment/predicate/exactStrSim13> used in this linkset is a property that reflects an entity linking approach based on the <http://risis.eu/mechanism/nearbyGeoSim> mechanism." ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "Near by Geo-Similarity 13" .
+	
+	<http://risis.eu/linkset/refined_eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866_exactStrSim_Country_Code_N730070400> <http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/eter_2014/ontology/class/University> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/refined_eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866_exactStrSim_Country_Code_N730070400> ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/refined_eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866_exactStrSim_Country_Code_N730070400> .
+	
+	<http://risis.eu/method/refined_eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866_exactStrSim_Country_Code_N730070400> <http://risis.eu/alignment/predicate/sparql> """
+    PREFIX prov:        <http://www.w3.org/ns/prov#>
+    PREFIX rdf:         <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+    PREFIX alivocab:    <http://risis.eu/alignment/predicate/>
+    INSERT
+    {
+        ### REFINED LINKSET
+        GRAPH <http://risis.eu/linkset/refined_eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866_exactStrSim_Country_Code_N730070400>
+        {
+            ?subject ?newSingletons ?object .
+        }
+
+        ### SINGLETONS' METADATA
+        GRAPH <http://risis.eu/singletons/refined_eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866_exactStrSim_Country_Code_N730070400>
+        {
+            ?newSingletons
+                rdf:singletonPropertyOf     alivocab:exactStrSim13 ;
+
+                ## THIS IS THE TRAIL
+                prov:wasDerivedFrom         ?singleton ;
+
+                ## BUT THIS IS ADDED FOR QUERY SIMPLICITY AND EFFICIENCY
+                ?sP ?sO ;
+
+                ## THIS IS ITS OWN EVIDENCE
+                alivocab:hasEvidence        ?trimmed .
+        }
+    }
+    WHERE
+    {
+        ### LINKSET
+        GRAPH <http://risis.eu/linkset/eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866>
+        {
+            ?subject ?singleton ?object .
+             bind( iri(replace(\"http://risis.eu/alignment/predicate/exactStrSim13_#\", \"#\",  strafter(str(uuid()), \"uuid:\") )) as ?newSingletons )
+        }
+
+        ### METADATA
+        graph <http://risis.eu/singletons/eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866>
+        {
+            ?singleton ?sP ?sO .
+        }
+
+        ### SOURCE DATASET
+        GRAPH <http://risis.eu/dataset/eter_2014>
+        {
+            ?subject
+                a   <http://risis.eu/eter_2014/ontology/class/University> ;
+                <http://risis.eu/eter_2014/ontology/predicate/Country_Code> 	?s_label .
+            BIND(lcase(str(?s_label)) as ?label1)
+
+            # VALUE TRIMMING
+            BIND('^\\s+(.*?)\\s*$|^(.*?)\\s+$' AS ?regexp)
+            BIND(REPLACE(?label1, ?regexp, '$1$2') AS ?trimmed)
+        }
+
+        ### TARGET DATASET
+        GRAPH <http://risis.eu/dataset/grid_20170712>
+        {
+            ?object
+                a   <http://xmlns.com/foaf/0.1/Organization> ;
+                <http://www.grid.ac/ontology/hasAddress>/<http://www.grid.ac/ontology/countryCode> 	?o_label .
+            BIND(lcase(str(?o_label)) as ?label2)
+
+            # VALUE TRIMMING
+            BIND('^\\s+(.*?)\\s*$|^(.*?)\\s+$' AS ?regexp)
+            BIND(REPLACE(?label2, ?regexp, '$1$2') AS ?trimmed)
+        }
+    }
+    """ .
+	
+	<http://risis.eu/linkset/refined_eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866_exactStrSim_Country_Code_N730070400> <http://vocabularies.bridgedb.org/ops#linksetJustification> <http://risis.eu/justification/refined_eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866_exactStrSim_Country_Code_N730070400> .
+	
+	<http://risis.eu/justification/refined_eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866_exactStrSim_Country_Code_N730070400> <http://www.w3.org/2000/01/rdf-schema#comment> "We assume that entities with the aligned predicates sharing the exact same content are same. This assumption applies when dealing with entities such as Organisation." .
+	
+	<http://risis.eu/linkset/refined_eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866_exactStrSim_Country_Code_N730070400> <http://risis.eu/alignment/predicate/alignsSubjects> <http://risis.eu/eter_2014/ontology/predicate/Country_Code> ;
+		<http://risis.eu/alignment/predicate/alignsObjects> ?LINK_1 ;
+		<http://www.w3.org/ns/prov#wasDerivedFrom> <http://risis.eu/linkset/eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866> .
+	
+	<http://risis.eu/linkset/eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866> <http://rdfs.org/ns/void#objectsTarget> <http://risis.eu/dataset/grid_20170712> ;
+		<http://vocabularies.bridgedb.org/ops#objectsDatatype> <http://xmlns.com/foaf/0.1/Organization> ;
+		<http://risis.eu/alignment/predicate/crossCheckObject> <http://www.w3.org/2000/01/rdf-schema#label> ;
+		<http://vocabularies.bridgedb.org/ops#subjectsDatatype> <http://risis.eu/eter_2014/ontology/class/University> ;
+		<http://rdfs.org/ns/void#subjectsTarget> <http://risis.eu/dataset/eter_2014> ;
+		<http://risis.eu/alignment/predicate/crossCheckSubject> <http://risis.eu/eter_2014/ontology/predicate/Institution_Name> ;
+		a <http://rdfs.org/ns/void#Linkset> ;
+		<http://rdfs.org/ns/void#linkPredicate> <http://risis.eu/alignment/predicate/exactStrSim6> .
+	
+	<http://risis.eu/alignment/predicate/exactStrSim6> <http://www.w3.org/2000/01/rdf-schema#label> "Approximate String Similarity 6" , "Exact String Similarity 6" , "Near by Geo-Similarity 6" ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "The predicate <http://risis.eu/alignment/predicate/exactStrSim6> used in this linkset is a property that reflects an entity linking approach based on the <http://risis.eu/mechanism/approxStrSim> mechanism." , "The predicate <http://risis.eu/alignment/predicate/exactStrSim6> used in this linkset is a property that reflects an entity linking approach based on the <http://risis.eu/mechanism/exactStrSim> mechanism." , "The predicate <http://risis.eu/alignment/predicate/exactStrSim6> used in this linkset is a property that reflects an entity linking approach based on the <http://risis.eu/mechanism/nearbyGeoSim> mechanism." ;
+		<http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://risis.eu/linkset/predicate/approxStrSim> , <http://risis.eu/linkset/predicate/exactStrSim> , <http://risis.eu/linkset/predicate/nearbyGeoSim> .
+	
+	<http://risis.eu/linkset/eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866> <http://risis.eu/alignment/predicate/alignsMechanism> <http://risis.eu/mechanism/nearbyGeoSim> ;
+		<http://www.w3.org/2000/01/rdf-schema#comment> "Linking <http://risis.eu/dataset/eter_2014> to <http://risis.eu/dataset/grid_20170712> based on their nearby Geo-Similarity using the mechanism: nearbyGeoSim" ;
+		<http://risis.eu/alignment/predicate/unit> <http://qudt.org/vocab/unit#Meter> ;
+		<http://risis.eu/alignment/predicate/singletonGraph> <http://risis.eu/singletons/eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866> ;
+		<http://www.w3.org/2000/01/rdf-schema#label> "eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866" ;
+		<http://vocabularies.bridgedb.org/ops#assertionMethod> <http://risis.eu/method/eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866> .
+	
+	<http://risis.eu/method/eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866> <http://risis.eu/alignment/predicate/sparql> """
+    ######################################################################
+    ### INSERTING DATA FROM THE SOURCE
+    ######################################################################
+    PREFIX geof: <http://www.opengis.net/def/function/geosparql/>
+    PREFIX wgs:  <http://www.w3.org/2003/01/geo/wgs84_pos#>
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load_1>
+        {
+            ?resource  wgs:long  ?longitude .
+            ?resource  wgs:lat   ?latitude .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/dataset/eter_2014>
+        {
+            ### LOCATION COORDINATES
+            ?resource  a  <http://risis.eu/eter_2014/ontology/class/University> .
+            ?resource  <http://risis.eu/eter_2014/ontology/predicate/Geographic_coordinates__longitude>  ?long .
+            ?resource  <http://risis.eu/eter_2014/ontology/predicate/Geographic_coordinates__latitude>  ?lat .
+
+            ### MAKING SURE THE COORDINATES ARE WELL FORMATTED
+            BIND( STRDT(REPLACE(STR(?long), \",\", \".\"), xsd:float)  as ?longitude )
+            BIND( STRDT(REPLACE(STR(?lat), \",\", \".\"), xsd:float)  as ?latitude )
+
+            ### MAKING SURE THE COORDINATES AT DIGITS AND NOT LITERALS
+            Filter (?longitude >= 0 || ?longitude <= 0 )
+            Filter (?latitude  >= 0 || ?latitude  <= 0 )
+
+            ### GENERATE A LOCATION URI
+            BIND( replace(\"http://risis.eu/#\",\"#\", STRAFTER(str(UUID()),\"uuid:\")) as ?name )
+            BIND(iri(?name) as ?location)
+        }
+    }
+     ;
+
+    ######################################################################
+    ### INSERTING MESSAGE FROM THE TARGET
+    ######################################################################
+    PREFIX geof: <http://www.opengis.net/def/function/geosparql/>
+    PREFIX wgs:  <http://www.w3.org/2003/01/geo/wgs84_pos#>
+    INSERT
+    {
+        GRAPH <http://risis.eu/alignment/temp-match/load_2>
+        {
+            ?resource  wgs:long  ?longitude .
+            ?resource  wgs:lat   ?latitude .
+        }
+    }
+    WHERE
+    {
+        GRAPH <http://risis.eu/dataset/grid_20170712>
+        {
+            ### LOCATION COORDINATES
+            ?resource  a  <http://xmlns.com/foaf/0.1/Organization> .
+            ?resource  <http://www.grid.ac/ontology/hasAddress>/<http://www.w3.org/2003/01/geo/wgs84_pos#long>  ?long .
+            ?resource  <http://www.grid.ac/ontology/hasAddress>/<http://www.w3.org/2003/01/geo/wgs84_pos#lat>  ?lat .
+
+            ### MAKING SURE THE COORDINATES ARE WELL FORMATTED
+            BIND( STRDT(REPLACE(STR(?long), \",\", \".\"), xsd:float)  as ?longitude )
+            BIND( STRDT(REPLACE(STR(?lat), \",\", \".\"), xsd:float)  as ?latitude )
+
+            ### MAKING SURE THE COORDINATES AT DIGITS AND NOT LITERALS
+            Filter (?longitude >= 0 || ?longitude <= 0 )
+            Filter (?latitude  >= 0 || ?latitude  <= 0 )
+
+            ### GENERATE A LOCATION URI
+            BIND( replace(\"http://risis.eu/#\",\"#\", STRAFTER(str(UUID()),\"uuid:\")) as ?name )
+            BIND(iri(?name) as ?location)
+        }
+    }
+    ;
+
+    ######################################################################
+    ### INSETTING MATCH FOUND IN A TEMPORARY GRAPH
+    ######################################################################
+    PREFIX ll:          <http://risis.eu/alignment/predicate/>
+    PREFIX tmpvocab:    <http://risis.eu/alignment/predicate/>
+    PREFIX tmpgraph:    <http://risis.eu/alignment/temp-match/>
+    prefix linkset:     <http://risis.eu/linkset/>
+    prefix singleton:   <http://risis.eu/singletons/>
+    PREFIX geof:        <http://www.opengis.net/def/function/geosparql/>
+    PREFIX wgs:         <http://www.w3.org/2003/01/geo/wgs84_pos#>
+    INSERT
+    {
+
+        GRAPH linkset:eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866
+        {
+            ?src_resource  ?singPre  ?trg_resource .
+        }
+
+        GRAPH singleton:eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866
+        {
+            ?singPre rdf:singletonPropertyOf     ll:nearbyGeoSim6 .
+            ?singPre ll:hasEvidence             \"Near each other by at most 50 meter(s)\" .
+            ?singPre ll:hasStrength             1 .
+        }
+    }
+    WHERE
+    {
+        ### SOURCE DATASET WITH GEO-COORDINATES
+        GRAPH tmpgraph:load_1
+        {
+            ?src_resource  wgs:long  ?src_longitude .
+            ?src_resource  wgs:lat   ?src_latitude .
+            ### Create A SINGLETON URI
+            BIND( replace(\"http://risis.eu/alignment/predicate/nearbyGeoSim_#\", \"#\", STRAFTER(str(UUID()),\"uuid:\")) as ?pre )
+            BIND( iri(?pre) as ?singPre )
+        }
+        ### TARGET DATASET WITH GEO-COORDINATES
+        GRAPH tmpgraph:load_2
+        {
+            ?trg_resource  wgs:long  ?trg_longitude .
+            ?trg_resource  wgs:lat   ?trg_latitude .
+        }
+        ### MATCHING TARGETS NEAR BY SOURCE
+        ?src_resource  geof:nearby (?trg_resource 50 <http://qudt.org/vocab/unit#Meter>).
+    }
+    """ .
+	
+	<http://risis.eu/linkset/eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866> <http://vocabularies.bridgedb.org/ops#linksetJustification> <http://risis.eu/justification/eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866> .
+	
+	<http://risis.eu/justification/eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866> <http://www.w3.org/2000/01/rdf-schema#comment> "This includes entities near each other by at most 50 <http://qudt.org/vocab/unit#Meter>." .
+	
+	<http://risis.eu/linkset/eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866> <http://risis.eu/alignment/predicate/alignsSubjects> _:bnode_7571de33_c1c9_43fa_a517_b68e5f43021c_37 .
+	
+	_:bnode_7571de33_c1c9_43fa_a517_b68e5f43021c_37 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://risis.eu/eter_2014/ontology/predicate/Geographic_coordinates__longitude> ;
+		<http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode_7571de33_c1c9_43fa_a517_b68e5f43021c_38 .
+	
+	<http://risis.eu/linkset/eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866> <http://risis.eu/alignment/predicate/alignsObjects> _:bnode_7571de33_c1c9_43fa_a517_b68e5f43021c_39 .
+	
+	_:bnode_7571de33_c1c9_43fa_a517_b68e5f43021c_39 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> ?LINK_0 ;
+		<http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode_7571de33_c1c9_43fa_a517_b68e5f43021c_40 .
+	
+	<http://risis.eu/linkset/eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866> <http://risis.eu/alignment/predicate/sameAsCount> 6 ;
+		<http://risis.eu/alignment/predicate/unitValue> 50 ;
+		<http://rdfs.org/ns/void#triples> 466 .
+	
+	<http://risis.eu/linkset/refined_eter_2014_grid_20170712_nearbyGeoSim50Meter_University_LatitudeLongitude_N1822375866_exactStrSim_Country_Code_N730070400> <http://risis.eu/alignment/predicate/subjectsExtended> <http://risis.eu/dataset/eter_2014> ;
+		<http://risis.eu/alignment/predicate/objectsExtended> <http://risis.eu/dataset/grid_20170712> .
+}
+WHERE {
+	### BINDING THIS BECAUSE STARDOG MESSES UP THE RESULT WHEN USING PROPERTY PATH
+	BIND( IRI("<http://www.grid.ac/ontology/hasAddress>/<http://www.w3.org/2003/01/geo/wgs84_pos#long>") AS ?LINK_0 )
+	BIND( IRI("<http://www.grid.ac/ontology/hasAddress>/<http://www.grid.ac/ontology/countryCode>") AS ?LINK_1 )
+}

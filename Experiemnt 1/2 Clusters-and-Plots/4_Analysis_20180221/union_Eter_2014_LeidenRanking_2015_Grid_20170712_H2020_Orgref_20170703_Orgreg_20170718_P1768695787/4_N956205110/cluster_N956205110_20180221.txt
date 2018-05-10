@@ -1,0 +1,69 @@
+SIZE    4   
+CLUSTER 7807 
+NAME    N956205110
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.4562.5>
+	<http://risis.eu/orgreg_20170718/resource/DE0106>
+	<http://risis.eu/orgref_20170703/resource/9857257>
+	<http://risis.eu/eter_2014/resource/DE0106>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.4562.5......... http://risis.eu/orgref_20170703/resource/9857257.. 1................................................. [University of Lubeck] was compared to [University of Lübeck] 
+	http://risis.eu/orgref_20170703/resource/9857257.. http://www.grid.ac/institutes/grid.4562.5......... 1................................................. [University of Lubeck] was compared to [University of Lübeck] 
+	http://www.grid.ac/institutes/grid.4562.5......... http://risis.eu/eter_2014/resource/DE0106......... 0.888888888889.................................... [University of Lubeck] was compared to [Universität Lübeck] 
+	http://risis.eu/eter_2014/resource/DE0106......... http://www.grid.ac/institutes/grid.4562.5......... 0.888888888889.................................... [University of Lubeck] was compared to [Universität Lübeck] 
+	http://risis.eu/orgref_20170703/resource/9857257.. http://risis.eu/eter_2014/resource/DE0106......... 0.888888888889.................................... [University of Lübeck] was compared to [Universität Lübeck] 
+	http://risis.eu/eter_2014/resource/DE0106......... http://risis.eu/orgref_20170703/resource/9857257.. 0.888888888889.................................... [University of Lübeck] was compared to [Universität Lübeck] 
+	http://risis.eu/orgreg_20170718/resource/DE0106... http://risis.eu/eter_2014/resource/DE0106......... 0.888888888889.................................... [University of Lübeck] was compared to [Universität Lübeck] 
+	http://risis.eu/eter_2014/resource/DE0106......... http://risis.eu/orgreg_20170718/resource/DE0106... 0.888888888889.................................... [University of Lübeck] was compared to [Universität Lübeck] 
+	http://risis.eu/orgreg_20170718/resource/DE0106... http://risis.eu/orgref_20170703/resource/9857257.. 1................................................. [University of Lübeck] was compared to [University of Lübeck] 
+	http://risis.eu/orgref_20170703/resource/9857257.. http://risis.eu/orgreg_20170718/resource/DE0106... 1................................................. [University of Lübeck] was compared to [University of Lübeck] 
+	http://www.grid.ac/institutes/grid.4562.5......... http://risis.eu/orgreg_20170718/resource/DE0106... 1................................................. [University of Lubeck] was compared to [University of Lübeck] 
+	http://risis.eu/orgreg_20170718/resource/DE0106... http://www.grid.ac/institutes/grid.4562.5......... 1................................................. [University of Lubeck] was compared to [University of Lübeck] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.4562.5......... 10.705833......................................... 
+	http://www.grid.ac/institutes/grid.4562.5......... 53.836945......................................... 
+	http://www.grid.ac/institutes/grid.4562.5......... http://www.uni-luebeck.de/........................ 
+	http://www.grid.ac/institutes/grid.4562.5......... University of Lubeck.............................. 
+	http://risis.eu/orgreg_20170718/resource/DE0106... 53.830152......................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0106... 10.70893.......................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0106... www.uni-lübeck.de................................ 
+	http://risis.eu/orgreg_20170718/resource/DE0106... University of Lübeck............................. 
+	http://risis.eu/orgref_20170703/resource/9857257.. http://en.wikipedia.org/wiki?curid=9857257........ 
+	http://risis.eu/orgref_20170703/resource/9857257.. http://www.wikidata.org/wiki/Q317087.............. 
+	http://risis.eu/orgref_20170703/resource/9857257.. http://www.uni-luebeck.de......................... 
+	http://risis.eu/orgref_20170703/resource/9857257.. University of Lübeck............................. 
+	http://risis.eu/eter_2014/resource/DE0106......... 53,830152......................................... 
+	http://risis.eu/eter_2014/resource/DE0106......... 10,70893.......................................... 
+	http://risis.eu/eter_2014/resource/DE0106......... www.uni-lübeck.de................................ 
+	http://risis.eu/eter_2014/resource/DE0106......... a................................................. 
+	http://risis.eu/eter_2014/resource/DE0106......... University of Lübeck............................. 
+	http://risis.eu/eter_2014/resource/DE0106......... Universität Lübeck.............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:DE0106', '1:grid.4562.5'), ('2:DE0106', '3:9857257'), ('3:9857257', '1:grid.4562.5'), ('4:DE0106', '1:grid.4562.5'), ('4:DE0106', '2:DE0106'), ('4:DE0106', '3:9857257')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

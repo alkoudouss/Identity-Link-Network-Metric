@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 9066 
+NAME    N1509984804
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.258598.b>
+	<http://risis.eu/orgref_20170703/resource/210016>
+	<http://www.grid.ac/institutes/grid.438856.4>
+	<http://risis.eu/orgref_20170703/resource/6710029>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.258598.b....... http://www.grid.ac/institutes/grid.438856.4....... 1................................................. [King's University College] was compared to [University of King's College] 
+	http://www.grid.ac/institutes/grid.438856.4....... http://www.grid.ac/institutes/grid.258598.b....... 1................................................. [King's University College] was compared to [University of King's College] 
+	http://www.grid.ac/institutes/grid.258598.b....... http://risis.eu/orgref_20170703/resource/210016... 1................................................. [King's University College] was compared to [University of King's College] 
+	http://risis.eu/orgref_20170703/resource/210016... http://www.grid.ac/institutes/grid.258598.b....... 1................................................. [King's University College] was compared to [University of King's College] 
+	http://www.grid.ac/institutes/grid.258598.b....... http://risis.eu/orgref_20170703/resource/6710029.. 1................................................. [King's University College] was compared to [King's University College (University of Western Ontario)] 
+	http://risis.eu/orgref_20170703/resource/6710029.. http://www.grid.ac/institutes/grid.258598.b....... 1................................................. [King's University College] was compared to [King's University College (University of Western Ontario)] 
+	http://risis.eu/orgref_20170703/resource/210016... http://www.grid.ac/institutes/grid.438856.4....... 1................................................. [University of King's College] was compared to [University of King's College] 
+	http://www.grid.ac/institutes/grid.438856.4....... http://risis.eu/orgref_20170703/resource/210016... 1................................................. [University of King's College] was compared to [University of King's College] 
+	http://www.grid.ac/institutes/grid.438856.4....... http://risis.eu/orgref_20170703/resource/6710029.. 1................................................. [University of King's College] was compared to [King's University College (University of Western Ontario)] 
+	http://risis.eu/orgref_20170703/resource/6710029.. http://www.grid.ac/institutes/grid.438856.4....... 1................................................. [University of King's College] was compared to [King's University College (University of Western Ontario)] 
+	http://risis.eu/orgref_20170703/resource/210016... http://risis.eu/orgref_20170703/resource/6710029.. 1................................................. [University of King's College] was compared to [King's University College (University of Western Ontario)] 
+	http://risis.eu/orgref_20170703/resource/6710029.. http://risis.eu/orgref_20170703/resource/210016... 1................................................. [University of King's College] was compared to [King's University College (University of Western Ontario)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.258598.b....... -113.4175......................................... 
+	http://www.grid.ac/institutes/grid.258598.b....... 53.525276......................................... 
+	http://www.grid.ac/institutes/grid.258598.b....... http://www.kingsu.ca/............................. 
+	http://www.grid.ac/institutes/grid.258598.b....... King's University College......................... 
+	http://risis.eu/orgref_20170703/resource/210016... http://en.wikipedia.org/wiki?curid=210016......... 
+	http://risis.eu/orgref_20170703/resource/210016... http://www.wikidata.org/wiki/Q3551609............. 
+	http://risis.eu/orgref_20170703/resource/210016... http://www.ukings.ca.............................. 
+	http://risis.eu/orgref_20170703/resource/210016... University of King's College...................... 
+	http://www.grid.ac/institutes/grid.438856.4....... -63.59528......................................... 
+	http://www.grid.ac/institutes/grid.438856.4....... 44.6375........................................... 
+	http://www.grid.ac/institutes/grid.438856.4....... http://www.ukings.ca/............................. 
+	http://www.grid.ac/institutes/grid.438856.4....... University of King's College...................... 
+	http://risis.eu/orgref_20170703/resource/6710029.. http://en.wikipedia.org/wiki?curid=6710029........ 
+	http://risis.eu/orgref_20170703/resource/6710029.. http://www.wikidata.org/wiki/Q6411130............. 
+	http://risis.eu/orgref_20170703/resource/6710029.. http://kings.uwo.ca............................... 
+	http://risis.eu/orgref_20170703/resource/6710029.. King's University College (University of Western Ontario) 
+
+NETWORK ANALYSIS
+	NETWORK [('2:210016', '1:grid.258598.b'), ('2:210016', '3:grid.438856.4'), ('3:grid.438856.4', '1:grid.258598.b'), ('4:6710029', '1:grid.258598.b'), ('4:6710029', '2:210016'), ('4:6710029', '3:grid.438856.4')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

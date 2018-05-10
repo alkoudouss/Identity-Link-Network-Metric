@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 115 
+NAME    N161086304
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/BE0042>
+	<http://risis.eu/eter_2014/resource/BE0042>
+	<http://risis.eu/eter_2014/resource/BE0094>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/BE0042.. http://risis.eu/eter_2014/resource/BE0042........ 1................................................ [ecole superieure arts saintluc liege] was compared to [ecole superieure arts saintluc liege] 
+	http://risis.eu/orgreg_20170718/resource/BE0042.. http://risis.eu/eter_2014/resource/BE0094........ 0.825............................................ [ecole superieure arts saintluc liege] was compared to [ecole superieure arts saintluc bruxelles] 
+	http://risis.eu/eter_2014/resource/BE0042........ http://risis.eu/orgreg_20170718/resource/BE0042.. 1................................................ [ecole superieure arts saintluc liege] was compared to [ecole superieure arts saintluc liege] 
+	http://risis.eu/eter_2014/resource/BE0094........ http://risis.eu/orgreg_20170718/resource/BE0042.. 0.825............................................ [ecole superieure arts saintluc liege] was compared to [ecole superieure arts saintluc bruxelles] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/BE0042.. 4.3464309........................................ 
+	http://risis.eu/orgreg_20170718/resource/BE0042.. 50.8299126....................................... 
+	http://risis.eu/orgreg_20170718/resource/BE0042.. http://www.saintluc-liege.be/.................... 
+	http://risis.eu/orgreg_20170718/resource/BE0042.. Ecole Supérieure des Arts Saint-Luc Liège...... 
+	http://risis.eu/eter_2014/resource/BE0042........ 50,8299126....................................... 
+	http://risis.eu/eter_2014/resource/BE0042........ 4,3464309........................................ 
+	http://risis.eu/eter_2014/resource/BE0042........ http://www.saintluc-liege.be/.................... 
+	http://risis.eu/eter_2014/resource/BE0042........ a................................................ 
+	http://risis.eu/eter_2014/resource/BE0042........ Ecole Supérieure des Arts Saint-Luc Liège...... 
+	http://risis.eu/eter_2014/resource/BE0094........ 50,8266104....................................... 
+	http://risis.eu/eter_2014/resource/BE0094........ 4,3490068........................................ 
+	http://risis.eu/eter_2014/resource/BE0094........ http://www.stluc-bruxelles-esa.be................ 
+	http://risis.eu/eter_2014/resource/BE0094........ a................................................ 
+	http://risis.eu/eter_2014/resource/BE0094........ Ecole supérieure des Arts Saint-Luc de Bruxelles 
+
+NETWORK ANALYSIS
+	NETWORK [('P2064748089-BE0042', 'N161086304-BE0042'), ('P1210742990-BE0094', 'N161086304-BE0042')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

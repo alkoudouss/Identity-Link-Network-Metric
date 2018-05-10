@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 2257 
+NAME    N1049324258
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.454589.1>
+	<http://risis.eu/orgref_20170703/resource/2208115>
+	<http://www.grid.ac/institutes/grid.260334.0>
+	<http://risis.eu/orgref_20170703/resource/1107279>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.260334.0....... http://risis.eu/orgref_20170703/resource/1107279.. 1................................................. [Muhlenberg College] was compared to [Muhlenberg College] 
+	http://risis.eu/orgref_20170703/resource/1107279.. http://www.grid.ac/institutes/grid.260334.0....... 1................................................. [Muhlenberg College] was compared to [Muhlenberg College] 
+	http://www.grid.ac/institutes/grid.454589.1....... http://risis.eu/orgref_20170703/resource/2208115.. 1................................................. [Gutenberg College] was compared to [Gutenberg College] 
+	http://risis.eu/orgref_20170703/resource/2208115.. http://www.grid.ac/institutes/grid.454589.1....... 1................................................. [Gutenberg College] was compared to [Gutenberg College] 
+	http://risis.eu/orgref_20170703/resource/2208115.. http://risis.eu/orgref_20170703/resource/1107279.. 0.833333333333.................................... [Muhlenberg College] was compared to [Gutenberg College] 
+	http://risis.eu/orgref_20170703/resource/1107279.. http://risis.eu/orgref_20170703/resource/2208115.. 0.833333333333.................................... [Muhlenberg College] was compared to [Gutenberg College] 
+	http://www.grid.ac/institutes/grid.454589.1....... http://www.grid.ac/institutes/grid.260334.0....... 0.833333333333.................................... [Muhlenberg College] was compared to [Gutenberg College] 
+	http://www.grid.ac/institutes/grid.260334.0....... http://www.grid.ac/institutes/grid.454589.1....... 0.833333333333.................................... [Muhlenberg College] was compared to [Gutenberg College] 
+	http://risis.eu/orgref_20170703/resource/2208115.. http://www.grid.ac/institutes/grid.260334.0....... 0.833333333333.................................... [Muhlenberg College] was compared to [Gutenberg College] 
+	http://www.grid.ac/institutes/grid.260334.0....... http://risis.eu/orgref_20170703/resource/2208115.. 0.833333333333.................................... [Muhlenberg College] was compared to [Gutenberg College] 
+	http://www.grid.ac/institutes/grid.454589.1....... http://risis.eu/orgref_20170703/resource/1107279.. 0.833333333333.................................... [Gutenberg College] was compared to [Muhlenberg College] 
+	http://risis.eu/orgref_20170703/resource/1107279.. http://www.grid.ac/institutes/grid.454589.1....... 0.833333333333.................................... [Gutenberg College] was compared to [Muhlenberg College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.454589.1....... -123.074196....................................... 
+	http://www.grid.ac/institutes/grid.454589.1....... 44.03913.......................................... 
+	http://www.grid.ac/institutes/grid.454589.1....... http://hello.gutenberg.edu/....................... 
+	http://www.grid.ac/institutes/grid.454589.1....... Gutenberg College................................. 
+	http://risis.eu/orgref_20170703/resource/2208115.. http://en.wikipedia.org/wiki?curid=2208115........ 
+	http://risis.eu/orgref_20170703/resource/2208115.. http://www.wikidata.org/wiki/Q5621715............. 
+	http://risis.eu/orgref_20170703/resource/2208115.. http://www.gutenberg.edu/home..................... 
+	http://risis.eu/orgref_20170703/resource/2208115.. Gutenberg College................................. 
+	http://www.grid.ac/institutes/grid.260334.0....... -75.510704........................................ 
+	http://www.grid.ac/institutes/grid.260334.0....... 40.59768.......................................... 
+	http://www.grid.ac/institutes/grid.260334.0....... http://www.muhlenberg.edu/........................ 
+	http://www.grid.ac/institutes/grid.260334.0....... Muhlenberg College................................ 
+	http://risis.eu/orgref_20170703/resource/1107279.. http://en.wikipedia.org/wiki?curid=1107279........ 
+	http://risis.eu/orgref_20170703/resource/1107279.. http://www.wikidata.org/wiki/Q1951942............. 
+	http://risis.eu/orgref_20170703/resource/1107279.. http://www.muhlenberg.edu......................... 
+	http://risis.eu/orgref_20170703/resource/1107279.. Muhlenberg College................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.454589.1', '3:grid.260334.0'), ('2:2208115', '1:grid.454589.1'), ('2:2208115', '4:1107279'), ('3:grid.260334.0', '2:2208115'), ('4:1107279', '1:grid.454589.1'), ('4:1107279', '3:grid.260334.0')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

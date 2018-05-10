@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 5307 
+NAME    N1595973895
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/29431359>
+	<http://risis.eu/eter_2014/resource/TR0079>
+	<http://www.grid.ac/institutes/grid.412006.1>
+	<http://risis.eu/leidenRanking_2015/resource/18165>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/29431359.. http://www.grid.ac/institutes/grid.412006.1........ 1.................................................. [Namık Kemal University] was compared to [Namık Kemal University] 
+	http://www.grid.ac/institutes/grid.412006.1........ http://risis.eu/orgref_20170703/resource/29431359.. 1.................................................. [Namık Kemal University] was compared to [Namık Kemal University] 
+	http://www.grid.ac/institutes/grid.412006.1........ http://risis.eu/leidenRanking_2015/resource/18165.. 1.................................................. [Namık Kemal University] was compared to [Namik Kemal University] 
+	http://risis.eu/leidenRanking_2015/resource/18165.. http://www.grid.ac/institutes/grid.412006.1........ 1.................................................. [Namık Kemal University] was compared to [Namik Kemal University] 
+	http://risis.eu/eter_2014/resource/TR0079.......... http://www.grid.ac/institutes/grid.412006.1........ 0.875.............................................. [Namık Kemal University] was compared to [NAMIK KEMAL ÜNIVERSITESI] 
+	http://www.grid.ac/institutes/grid.412006.1........ http://risis.eu/eter_2014/resource/TR0079.......... 0.875.............................................. [Namık Kemal University] was compared to [NAMIK KEMAL ÜNIVERSITESI] 
+	http://risis.eu/orgref_20170703/resource/29431359.. http://risis.eu/eter_2014/resource/TR0079.......... 0.875.............................................. [Namık Kemal University] was compared to [NAMIK KEMAL ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0079.......... http://risis.eu/orgref_20170703/resource/29431359.. 0.875.............................................. [Namık Kemal University] was compared to [NAMIK KEMAL ÜNIVERSITESI] 
+	http://risis.eu/orgref_20170703/resource/29431359.. http://risis.eu/leidenRanking_2015/resource/18165.. 1.................................................. [Namık Kemal University] was compared to [Namik Kemal University] 
+	http://risis.eu/leidenRanking_2015/resource/18165.. http://risis.eu/orgref_20170703/resource/29431359.. 1.................................................. [Namık Kemal University] was compared to [Namik Kemal University] 
+	http://risis.eu/eter_2014/resource/TR0079.......... http://risis.eu/leidenRanking_2015/resource/18165.. 0.875.............................................. [NAMIK KEMAL ÜNIVERSITESI] was compared to [Namik Kemal University] 
+	http://risis.eu/leidenRanking_2015/resource/18165.. http://risis.eu/eter_2014/resource/TR0079.......... 0.875.............................................. [NAMIK KEMAL ÜNIVERSITESI] was compared to [Namik Kemal University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/29431359.. http://en.wikipedia.org/wiki?curid=29431359........ 
+	http://risis.eu/orgref_20170703/resource/29431359.. http://www.wikidata.org/wiki/Q1964403.............. 
+	http://risis.eu/orgref_20170703/resource/29431359.. http://nkuen.nku.edu.tr............................ 
+	http://risis.eu/orgref_20170703/resource/29431359.. Namık Kemal University............................ 
+	http://risis.eu/eter_2014/resource/TR0079.......... 40,990116.......................................... 
+	http://risis.eu/eter_2014/resource/TR0079.......... 27,587737.......................................... 
+	http://risis.eu/eter_2014/resource/TR0079.......... http://www.nku.edu.tr.............................. 
+	http://risis.eu/eter_2014/resource/TR0079.......... a.................................................. 
+	http://risis.eu/eter_2014/resource/TR0079.......... Namik Kemal University............................. 
+	http://risis.eu/eter_2014/resource/TR0079.......... NAMIK KEMAL ÜNIVERSITESI.......................... 
+	http://www.grid.ac/institutes/grid.412006.1........ 27.581846.......................................... 
+	http://www.grid.ac/institutes/grid.412006.1........ 40.9946............................................ 
+	http://www.grid.ac/institutes/grid.412006.1........ http://www.nku.edu.tr/en........................... 
+	http://www.grid.ac/institutes/grid.412006.1........ Namık Kemal Üniversitesi......................... 
+	http://www.grid.ac/institutes/grid.412006.1........ Namık Kemal University............................ 
+	http://risis.eu/leidenRanking_2015/resource/18165.. Namik Kemal University............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:TR0079', '1:29431359'), ('2:TR0079', '3:grid.412006.1'), ('3:grid.412006.1', '1:29431359'), ('4:18165', '1:29431359'), ('4:18165', '2:TR0079'), ('4:18165', '3:grid.412006.1')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

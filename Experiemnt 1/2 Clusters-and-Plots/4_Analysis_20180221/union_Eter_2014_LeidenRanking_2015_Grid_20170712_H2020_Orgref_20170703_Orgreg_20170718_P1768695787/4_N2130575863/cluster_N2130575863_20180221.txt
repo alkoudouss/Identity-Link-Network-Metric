@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 1416 
+NAME    N2130575863
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/30000832>
+	<http://risis.eu/orgref_20170703/resource/31644897>
+	<http://www.grid.ac/institutes/grid.464862.a>
+	<http://risis.eu/orgref_20170703/resource/29979735>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.464862.a........ http://risis.eu/orgref_20170703/resource/29979735.. 1.................................................. [Indian Institute of Management Kashipur] was compared to [Indian Institute of Management Kashipur] 
+	http://risis.eu/orgref_20170703/resource/29979735.. http://www.grid.ac/institutes/grid.464862.a........ 1.................................................. [Indian Institute of Management Kashipur] was compared to [Indian Institute of Management Kashipur] 
+	http://risis.eu/orgref_20170703/resource/30000832.. http://risis.eu/orgref_20170703/resource/29979735.. 0.916666666667..................................... [Indian Institute of Management Kashipur] was compared to [Indian Institute of Management Raipur] 
+	http://risis.eu/orgref_20170703/resource/29979735.. http://risis.eu/orgref_20170703/resource/30000832.. 0.916666666667..................................... [Indian Institute of Management Kashipur] was compared to [Indian Institute of Management Raipur] 
+	http://risis.eu/orgref_20170703/resource/30000832.. http://risis.eu/orgref_20170703/resource/31644897.. 0.942857142857..................................... [Indian Institute of Management Raipur] was compared to [Indian Institute of Management Udaipur] 
+	http://risis.eu/orgref_20170703/resource/31644897.. http://risis.eu/orgref_20170703/resource/30000832.. 0.942857142857..................................... [Indian Institute of Management Raipur] was compared to [Indian Institute of Management Udaipur] 
+	http://risis.eu/orgref_20170703/resource/30000832.. http://www.grid.ac/institutes/grid.464862.a........ 0.916666666667..................................... [Indian Institute of Management Kashipur] was compared to [Indian Institute of Management Raipur] 
+	http://www.grid.ac/institutes/grid.464862.a........ http://risis.eu/orgref_20170703/resource/30000832.. 0.916666666667..................................... [Indian Institute of Management Kashipur] was compared to [Indian Institute of Management Raipur] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/30000832.. http://en.wikipedia.org/wiki?curid=30000832........ 
+	http://risis.eu/orgref_20170703/resource/30000832.. http://www.wikidata.org/wiki/Q6020635.............. 
+	http://risis.eu/orgref_20170703/resource/30000832.. http://www.iimraipur.ac.in......................... 
+	http://risis.eu/orgref_20170703/resource/30000832.. Indian Institute of Management Raipur.............. 
+	http://risis.eu/orgref_20170703/resource/31644897.. http://en.wikipedia.org/wiki?curid=31644897........ 
+	http://risis.eu/orgref_20170703/resource/31644897.. http://www.wikidata.org/wiki/Q6020647.............. 
+	http://risis.eu/orgref_20170703/resource/31644897.. http://www.iimu.ac.in.............................. 
+	http://risis.eu/orgref_20170703/resource/31644897.. Indian Institute of Management Udaipur............. 
+	http://www.grid.ac/institutes/grid.464862.a........ 79.00003........................................... 
+	http://www.grid.ac/institutes/grid.464862.a........ 29.184675.......................................... 
+	http://www.grid.ac/institutes/grid.464862.a........ http://www.iimkashipur.ac.in/...................... 
+	http://www.grid.ac/institutes/grid.464862.a........ IIM Kashipur....................................... 
+	http://www.grid.ac/institutes/grid.464862.a........ Indian Institute of Management Kashipur............ 
+	http://risis.eu/orgref_20170703/resource/29979735.. http://en.wikipedia.org/wiki?curid=29979735........ 
+	http://risis.eu/orgref_20170703/resource/29979735.. http://www.wikidata.org/wiki/Q6020630.............. 
+	http://risis.eu/orgref_20170703/resource/29979735.. http://www.iimkashipur.ac.in....................... 
+	http://risis.eu/orgref_20170703/resource/29979735.. Indian Institute of Management Kashipur............ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:31644897', '1:30000832'), ('3:grid.464862.a', '1:30000832'), ('4:29979735', '1:30000832'), ('4:29979735', '3:grid.464862.a')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

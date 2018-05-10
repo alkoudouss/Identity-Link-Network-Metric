@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 15869 
+NAME    N786994304
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.258644.9>
+	<http://risis.eu/orgref_20170703/resource/505899>
+	<http://www.grid.ac/institutes/grid.417733.5>
+	<http://risis.eu/orgref_20170703/resource/699000>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.258644.9...... http://risis.eu/orgref_20170703/resource/699000.. 1................................................ [Knoxville College] was compared to [Knoxville College] 
+	http://risis.eu/orgref_20170703/resource/699000.. http://www.grid.ac/institutes/grid.258644.9...... 1................................................ [Knoxville College] was compared to [Knoxville College] 
+	http://risis.eu/orgref_20170703/resource/505899.. http://www.grid.ac/institutes/grid.417733.5...... 1................................................ [D'Youville College] was compared to [D'Youville College] 
+	http://www.grid.ac/institutes/grid.417733.5...... http://risis.eu/orgref_20170703/resource/505899.. 1................................................ [D'Youville College] was compared to [D'Youville College] 
+	http://risis.eu/orgref_20170703/resource/505899.. http://risis.eu/orgref_20170703/resource/699000.. 0.823529411765................................... [D'Youville College] was compared to [Knoxville College] 
+	http://risis.eu/orgref_20170703/resource/699000.. http://risis.eu/orgref_20170703/resource/505899.. 0.823529411765................................... [D'Youville College] was compared to [Knoxville College] 
+	http://www.grid.ac/institutes/grid.258644.9...... http://www.grid.ac/institutes/grid.417733.5...... 0.823529411765................................... [Knoxville College] was compared to [D'Youville College] 
+	http://www.grid.ac/institutes/grid.417733.5...... http://www.grid.ac/institutes/grid.258644.9...... 0.823529411765................................... [Knoxville College] was compared to [D'Youville College] 
+	http://www.grid.ac/institutes/grid.258644.9...... http://risis.eu/orgref_20170703/resource/505899.. 0.823529411765................................... [Knoxville College] was compared to [D'Youville College] 
+	http://risis.eu/orgref_20170703/resource/505899.. http://www.grid.ac/institutes/grid.258644.9...... 0.823529411765................................... [Knoxville College] was compared to [D'Youville College] 
+	http://www.grid.ac/institutes/grid.417733.5...... http://risis.eu/orgref_20170703/resource/699000.. 0.823529411765................................... [D'Youville College] was compared to [Knoxville College] 
+	http://risis.eu/orgref_20170703/resource/699000.. http://www.grid.ac/institutes/grid.417733.5...... 0.823529411765................................... [D'Youville College] was compared to [Knoxville College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.258644.9...... -83.943535....................................... 
+	http://www.grid.ac/institutes/grid.258644.9...... 35.970345........................................ 
+	http://www.grid.ac/institutes/grid.258644.9...... http://www.knoxvillecollege.edu/................. 
+	http://www.grid.ac/institutes/grid.258644.9...... Knoxville College................................ 
+	http://risis.eu/orgref_20170703/resource/505899.. http://en.wikipedia.org/wiki?curid=505899........ 
+	http://risis.eu/orgref_20170703/resource/505899.. http://www.wikidata.org/wiki/Q5203187............ 
+	http://risis.eu/orgref_20170703/resource/505899.. http://www.dyc.edu............................... 
+	http://risis.eu/orgref_20170703/resource/505899.. D'Youville College............................... 
+	http://www.grid.ac/institutes/grid.417733.5...... -78.89146........................................ 
+	http://www.grid.ac/institutes/grid.417733.5...... 42.90365......................................... 
+	http://www.grid.ac/institutes/grid.417733.5...... http://www.dyc.edu/.............................. 
+	http://www.grid.ac/institutes/grid.417733.5...... D'Youville College............................... 
+	http://risis.eu/orgref_20170703/resource/699000.. http://en.wikipedia.org/wiki?curid=699000........ 
+	http://risis.eu/orgref_20170703/resource/699000.. http://www.wikidata.org/wiki/Q6423659............ 
+	http://risis.eu/orgref_20170703/resource/699000.. http://www.knoxvillecollege.edu.................. 
+	http://risis.eu/orgref_20170703/resource/699000.. Knoxville College................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:505899', '1:grid.258644.9'), ('2:505899', '3:grid.417733.5'), ('3:grid.417733.5', '1:grid.258644.9'), ('4:699000', '1:grid.258644.9'), ('4:699000', '2:505899'), ('4:699000', '3:grid.417733.5')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

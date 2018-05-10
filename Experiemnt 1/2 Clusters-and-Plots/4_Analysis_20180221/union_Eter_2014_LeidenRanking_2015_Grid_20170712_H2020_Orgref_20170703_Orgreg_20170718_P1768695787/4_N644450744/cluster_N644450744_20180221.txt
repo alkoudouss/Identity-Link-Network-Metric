@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 14444 
+NAME    N644450744
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.425651.1>
+	<http://www.grid.ac/institutes/grid.471050.7>
+	<http://www.grid.ac/institutes/grid.434172.7>
+	<http://www.grid.ac/institutes/grid.474697.f>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.471050.7.. http://www.grid.ac/institutes/grid.434172.7.. 1............................................ [Micron (United States)] was compared to [Micron (Japan)] 
+	http://www.grid.ac/institutes/grid.434172.7.. http://www.grid.ac/institutes/grid.471050.7.. 1............................................ [Micron (United States)] was compared to [Micron (Japan)] 
+	http://www.grid.ac/institutes/grid.434172.7.. http://www.grid.ac/institutes/grid.474697.f.. 1............................................ [Micron (United States)] was compared to [Micron (Singapore)] 
+	http://www.grid.ac/institutes/grid.474697.f.. http://www.grid.ac/institutes/grid.434172.7.. 1............................................ [Micron (United States)] was compared to [Micron (Singapore)] 
+	http://www.grid.ac/institutes/grid.425651.1.. http://www.grid.ac/institutes/grid.434172.7.. 1............................................ [Micron (Italy)] was compared to [Micron (United States)] 
+	http://www.grid.ac/institutes/grid.434172.7.. http://www.grid.ac/institutes/grid.425651.1.. 1............................................ [Micron (Italy)] was compared to [Micron (United States)] 
+	http://www.grid.ac/institutes/grid.425651.1.. http://www.grid.ac/institutes/grid.471050.7.. 1............................................ [Micron (Italy)] was compared to [Micron (Japan)] 
+	http://www.grid.ac/institutes/grid.471050.7.. http://www.grid.ac/institutes/grid.425651.1.. 1............................................ [Micron (Italy)] was compared to [Micron (Japan)] 
+	http://www.grid.ac/institutes/grid.425651.1.. http://www.grid.ac/institutes/grid.474697.f.. 1............................................ [Micron (Italy)] was compared to [Micron (Singapore)] 
+	http://www.grid.ac/institutes/grid.474697.f.. http://www.grid.ac/institutes/grid.425651.1.. 1............................................ [Micron (Italy)] was compared to [Micron (Singapore)] 
+	http://www.grid.ac/institutes/grid.471050.7.. http://www.grid.ac/institutes/grid.474697.f.. 1............................................ [Micron (Japan)] was compared to [Micron (Singapore)] 
+	http://www.grid.ac/institutes/grid.474697.f.. http://www.grid.ac/institutes/grid.471050.7.. 1............................................ [Micron (Japan)] was compared to [Micron (Singapore)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.425651.1.. Micron (Italy)............................... 
+	http://www.grid.ac/institutes/grid.471050.7.. 139.76889.................................... 
+	http://www.grid.ac/institutes/grid.471050.7.. 35.67957..................................... 
+	http://www.grid.ac/institutes/grid.471050.7.. https://www.micron.com....................... 
+	http://www.grid.ac/institutes/grid.471050.7.. Micron (Japan)............................... 
+	http://www.grid.ac/institutes/grid.434172.7.. -116.536224.................................. 
+	http://www.grid.ac/institutes/grid.434172.7.. 43.597046.................................... 
+	http://www.grid.ac/institutes/grid.434172.7.. https://www.micron.com/...................... 
+	http://www.grid.ac/institutes/grid.434172.7.. Micron (United States)....................... 
+	http://www.grid.ac/institutes/grid.474697.f.. 103.7675..................................... 
+	http://www.grid.ac/institutes/grid.474697.f.. 1.432186..................................... 
+	http://www.grid.ac/institutes/grid.474697.f.. https://sg.micron.com/....................... 
+	http://www.grid.ac/institutes/grid.474697.f.. Micron (Singapore)........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.471050.7', '1:grid.425651.1'), ('2:grid.471050.7', '3:grid.434172.7'), ('3:grid.434172.7', '1:grid.425651.1'), ('4:grid.474697.f', '1:grid.425651.1'), ('4:grid.474697.f', '2:grid.471050.7'), ('4:grid.474697.f', '3:grid.434172.7')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

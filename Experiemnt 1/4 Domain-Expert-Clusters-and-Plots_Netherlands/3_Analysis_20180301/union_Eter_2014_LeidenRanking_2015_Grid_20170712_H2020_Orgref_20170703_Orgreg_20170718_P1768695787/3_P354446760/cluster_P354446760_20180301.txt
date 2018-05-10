@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 5550 
+NAME    P354446760
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.481630.8>
+	<http://www.grid.ac/institutes/grid.467554.1>
+	<http://www.grid.ac/institutes/grid.471269.f>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.481630.8.. http://www.grid.ac/institutes/grid.467554.1.. 1............................................ [Saudi Arabia Basic Industries (Saudi Arabia)] was compared to [Saudi Arabia Basic Industries (United States)] 
+	http://www.grid.ac/institutes/grid.481630.8.. http://www.grid.ac/institutes/grid.471269.f.. 1............................................ [Saudi Arabia Basic Industries (Netherlands)] was compared to [Saudi Arabia Basic Industries (United States)] 
+	http://www.grid.ac/institutes/grid.467554.1.. http://www.grid.ac/institutes/grid.471269.f.. 1............................................ [Saudi Arabia Basic Industries (Saudi Arabia)] was compared to [Saudi Arabia Basic Industries (Netherlands)] 
+	http://www.grid.ac/institutes/grid.467554.1.. http://www.grid.ac/institutes/grid.481630.8.. 1............................................ [Saudi Arabia Basic Industries (Saudi Arabia)] was compared to [Saudi Arabia Basic Industries (United States)] 
+	http://www.grid.ac/institutes/grid.471269.f.. http://www.grid.ac/institutes/grid.481630.8.. 1............................................ [Saudi Arabia Basic Industries (Netherlands)] was compared to [Saudi Arabia Basic Industries (United States)] 
+	http://www.grid.ac/institutes/grid.471269.f.. http://www.grid.ac/institutes/grid.467554.1.. 1............................................ [Saudi Arabia Basic Industries (Saudi Arabia)] was compared to [Saudi Arabia Basic Industries (Netherlands)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.481630.8.. -83.53913.................................... 
+	http://www.grid.ac/institutes/grid.481630.8.. 42.526615.................................... 
+	http://www.grid.ac/institutes/grid.481630.8.. https://www.sabic.com/en..................... 
+	http://www.grid.ac/institutes/grid.481630.8.. Saudi Arabia Basic Industries (United States) 
+	http://www.grid.ac/institutes/grid.467554.1.. 46.6694...................................... 
+	http://www.grid.ac/institutes/grid.467554.1.. 24.72059..................................... 
+	http://www.grid.ac/institutes/grid.467554.1.. http://www.sabic.com/corporate/en/........... 
+	http://www.grid.ac/institutes/grid.467554.1.. Saudi Arabia Basic Industries (Saudi Arabia). 
+	http://www.grid.ac/institutes/grid.471269.f.. 5.850772..................................... 
+	http://www.grid.ac/institutes/grid.471269.f.. 50.99711..................................... 
+	http://www.grid.ac/institutes/grid.471269.f.. https://www.sabic.com/europe/en/............. 
+	http://www.grid.ac/institutes/grid.471269.f.. Saudi Arabia Basic Industries (Netherlands).. 
+
+NETWORK ANALYSIS
+	NETWORK [('P582359292-grid.467554.1', 'P1040805117-grid.471269.f'), ('P1040805117-grid.471269.f', 'P354446760-grid.481630.8'), ('P582359292-grid.467554.1', 'P354446760-grid.481630.8')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

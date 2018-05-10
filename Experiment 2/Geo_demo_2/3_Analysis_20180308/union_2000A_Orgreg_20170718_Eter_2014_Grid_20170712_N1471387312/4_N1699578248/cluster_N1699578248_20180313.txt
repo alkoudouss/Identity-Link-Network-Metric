@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 1558 
+NAME    N1699578248
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/DE0263>
+	<http://risis.eu/eter_2014/resource/DE0248>
+	<http://www.grid.ac/institutes/grid.410722.2>
+	<http://www.grid.ac/institutes/grid.465920.c>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/DE0263.... http://www.grid.ac/institutes/grid.410722.2.. 0.813953488372............................... [catholic university applied sciences berlin] was compared to [htw berlin  university applied sciences] 
+	http://risis.eu/eter_2014/resource/DE0263.... http://www.grid.ac/institutes/grid.465920.c.. 0.860465116279............................... [catholic university applied sciences berlin] was compared to [catholic university applied social sciences] 
+	http://risis.eu/eter_2014/resource/DE0248.... http://www.grid.ac/institutes/grid.410722.2.. 0.871794871795............................... [berlin university applied sciences] was compared to [htw berlin  university applied sciences] 
+	http://www.grid.ac/institutes/grid.410722.2.. http://risis.eu/eter_2014/resource/DE0248.... 0.871794871795............................... [berlin university applied sciences] was compared to [htw berlin  university applied sciences] 
+	http://www.grid.ac/institutes/grid.410722.2.. http://risis.eu/eter_2014/resource/DE0263.... 0.813953488372............................... [catholic university applied sciences berlin] was compared to [htw berlin  university applied sciences] 
+	http://www.grid.ac/institutes/grid.465920.c.. http://risis.eu/eter_2014/resource/DE0263.... 0.860465116279............................... [catholic university applied sciences berlin] was compared to [catholic university applied social sciences] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 21 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/DE0263.... 52,481036.................................... 
+	http://risis.eu/eter_2014/resource/DE0263.... 13,518647.................................... 
+	http://risis.eu/eter_2014/resource/DE0263.... www.khsb-berlin.de........................... 
+	http://risis.eu/eter_2014/resource/DE0263.... a............................................ 
+	http://risis.eu/eter_2014/resource/DE0263.... Catholic University for Applied Sciences Berlin 
+	http://risis.eu/eter_2014/resource/DE0263.... Katholische Hochschule für Sozialwesen Berlin (FH) 
+	http://risis.eu/eter_2014/resource/DE0248.... 52,481036.................................... 
+	http://risis.eu/eter_2014/resource/DE0248.... 13,518647.................................... 
+	http://risis.eu/eter_2014/resource/DE0248.... www.htw-berlin.de............................ 
+	http://risis.eu/eter_2014/resource/DE0248.... a............................................ 
+	http://risis.eu/eter_2014/resource/DE0248.... Berlin University of Applied Sciences........ 
+	http://risis.eu/eter_2014/resource/DE0248.... Hochschule für Technik und Wirtschaft Berlin 
+	http://www.grid.ac/institutes/grid.410722.2.. 13.52537..................................... 
+	http://www.grid.ac/institutes/grid.410722.2.. 52.493187.................................... 
+	http://www.grid.ac/institutes/grid.410722.2.. http://www-en.htw-berlin.de/................. 
+	http://www.grid.ac/institutes/grid.410722.2.. HTW Berlin................................... 
+	http://www.grid.ac/institutes/grid.410722.2.. HTW Berlin - University of Applied Sciences.. 
+	http://www.grid.ac/institutes/grid.465920.c.. 13.534081.................................... 
+	http://www.grid.ac/institutes/grid.465920.c.. 52.488255.................................... 
+	http://www.grid.ac/institutes/grid.465920.c.. http://www.khsb-berlin.de/................... 
+	http://www.grid.ac/institutes/grid.465920.c.. Catholic University of Applied Social Sciences 
+
+NETWORK ANALYSIS
+	NETWORK [('P1253629435-DE0248', 'N1279868476-grid.410722.2'), ('N1699578248-DE0263', 'P1723156239-grid.465920.c'), ('N1699578248-DE0263', 'N1279868476-grid.410722.2')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 15200 
+NAME    N1829926454
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.427377.2>
+	<http://www.grid.ac/institutes/grid.436549.9>
+	<http://www.grid.ac/institutes/grid.472844.9>
+	<http://www.grid.ac/institutes/grid.473984.5>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.472844.9.. http://www.grid.ac/institutes/grid.473984.5.. 1............................................ [United Technologies (United Kingdom)] was compared to [United Technologies (Canada)] 
+	http://www.grid.ac/institutes/grid.473984.5.. http://www.grid.ac/institutes/grid.472844.9.. 1............................................ [United Technologies (United Kingdom)] was compared to [United Technologies (Canada)] 
+	http://www.grid.ac/institutes/grid.427377.2.. http://www.grid.ac/institutes/grid.473984.5.. 1............................................ [United Technologies (United States)] was compared to [United Technologies (Canada)] 
+	http://www.grid.ac/institutes/grid.473984.5.. http://www.grid.ac/institutes/grid.427377.2.. 1............................................ [United Technologies (United States)] was compared to [United Technologies (Canada)] 
+	http://www.grid.ac/institutes/grid.427377.2.. http://www.grid.ac/institutes/grid.472844.9.. 1............................................ [United Technologies (United States)] was compared to [United Technologies (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.472844.9.. http://www.grid.ac/institutes/grid.427377.2.. 1............................................ [United Technologies (United States)] was compared to [United Technologies (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.427377.2.. http://www.grid.ac/institutes/grid.436549.9.. 1............................................ [United Technologies (United States)] was compared to [United Technologies (Germany)] 
+	http://www.grid.ac/institutes/grid.436549.9.. http://www.grid.ac/institutes/grid.427377.2.. 1............................................ [United Technologies (United States)] was compared to [United Technologies (Germany)] 
+	http://www.grid.ac/institutes/grid.436549.9.. http://www.grid.ac/institutes/grid.473984.5.. 1............................................ [United Technologies (Germany)] was compared to [United Technologies (Canada)] 
+	http://www.grid.ac/institutes/grid.473984.5.. http://www.grid.ac/institutes/grid.436549.9.. 1............................................ [United Technologies (Germany)] was compared to [United Technologies (Canada)] 
+	http://www.grid.ac/institutes/grid.436549.9.. http://www.grid.ac/institutes/grid.472844.9.. 1............................................ [United Technologies (Germany)] was compared to [United Technologies (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.472844.9.. http://www.grid.ac/institutes/grid.436549.9.. 1............................................ [United Technologies (Germany)] was compared to [United Technologies (United Kingdom)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.427377.2.. -72.674034................................... 
+	http://www.grid.ac/institutes/grid.427377.2.. 41.765472.................................... 
+	http://www.grid.ac/institutes/grid.427377.2.. http://www.utc.com/Pages/Home.aspx........... 
+	http://www.grid.ac/institutes/grid.427377.2.. United Technologies Corporation.............. 
+	http://www.grid.ac/institutes/grid.427377.2.. United Technologies (United States).......... 
+	http://www.grid.ac/institutes/grid.436549.9.. United Technologies (Germany)................ 
+	http://www.grid.ac/institutes/grid.472844.9.. -0.098847.................................... 
+	http://www.grid.ac/institutes/grid.472844.9.. 50.99588..................................... 
+	http://www.grid.ac/institutes/grid.472844.9.. http://www.utc.com/Pages/Home.aspx........... 
+	http://www.grid.ac/institutes/grid.472844.9.. United Technologies (United Kingdom)......... 
+	http://www.grid.ac/institutes/grid.473984.5.. -73.495636................................... 
+	http://www.grid.ac/institutes/grid.473984.5.. 45.55257..................................... 
+	http://www.grid.ac/institutes/grid.473984.5.. http://utcaerospacesystems.com/Pages/Default.aspx 
+	http://www.grid.ac/institutes/grid.473984.5.. United Technologies (Canada)................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.436549.9', '1:grid.427377.2'), ('3:grid.472844.9', '1:grid.427377.2'), ('3:grid.472844.9', '2:grid.436549.9'), ('4:grid.473984.5', '1:grid.427377.2'), ('4:grid.473984.5', '2:grid.436549.9'), ('4:grid.473984.5', '3:grid.472844.9')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

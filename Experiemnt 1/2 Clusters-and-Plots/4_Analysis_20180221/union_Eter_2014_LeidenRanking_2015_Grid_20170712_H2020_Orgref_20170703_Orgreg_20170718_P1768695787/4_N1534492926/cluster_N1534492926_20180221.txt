@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 1219 
+NAME    N1534492926
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/4933941>
+	<http://risis.eu/orgreg_20170718/resource/IT0039>
+	<http://risis.eu/cordisH2020/resource/participant_999854467>
+	<http://www.grid.ac/institutes/grid.15496.3f>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/4933941............ http://www.grid.ac/institutes/grid.15496.3f................. 1........................................................... [Vita-Salute San Raffaele University] was compared to [Vita-Salute San Raffaele University] 
+	http://www.grid.ac/institutes/grid.15496.3f................. http://risis.eu/orgref_20170703/resource/4933941............ 1........................................................... [Vita-Salute San Raffaele University] was compared to [Vita-Salute San Raffaele University] 
+	http://risis.eu/orgreg_20170718/resource/IT0039............. http://risis.eu/cordisH2020/resource/participant_999854467.. 0.970588235294.............................................. [Vita-Salute San Raffaele University] was compared to [UNIVERSITA VITA-SALUTE SAN RAFFAELE] 
+	http://risis.eu/cordisH2020/resource/participant_999854467.. http://risis.eu/orgreg_20170718/resource/IT0039............. 0.970588235294.............................................. [Vita-Salute San Raffaele University] was compared to [UNIVERSITA VITA-SALUTE SAN RAFFAELE] 
+	http://risis.eu/orgref_20170703/resource/4933941............ http://risis.eu/orgreg_20170718/resource/IT0039............. 1........................................................... [Vita-Salute San Raffaele University] was compared to [Vita-Salute San Raffaele University] 
+	http://risis.eu/orgreg_20170718/resource/IT0039............. http://risis.eu/orgref_20170703/resource/4933941............ 1........................................................... [Vita-Salute San Raffaele University] was compared to [Vita-Salute San Raffaele University] 
+	http://risis.eu/orgreg_20170718/resource/IT0039............. http://www.grid.ac/institutes/grid.15496.3f................. 1........................................................... [Vita-Salute San Raffaele University] was compared to [Vita-Salute San Raffaele University] 
+	http://www.grid.ac/institutes/grid.15496.3f................. http://risis.eu/orgreg_20170718/resource/IT0039............. 1........................................................... [Vita-Salute San Raffaele University] was compared to [Vita-Salute San Raffaele University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/4933941............ http://en.wikipedia.org/wiki?curid=4933941.................. 
+	http://risis.eu/orgref_20170703/resource/4933941............ http://www.wikidata.org/wiki/Q3551506....................... 
+	http://risis.eu/orgref_20170703/resource/4933941............ http://www.unisr.it......................................... 
+	http://risis.eu/orgref_20170703/resource/4933941............ Vita-Salute San Raffaele University......................... 
+	http://risis.eu/orgreg_20170718/resource/IT0039............. 45.507473................................................... 
+	http://risis.eu/orgreg_20170718/resource/IT0039............. 9.25311..................................................... 
+	http://risis.eu/orgreg_20170718/resource/IT0039............. http://www.unisr.it......................................... 
+	http://risis.eu/orgreg_20170718/resource/IT0039............. Vita-Salute San Raffaele University......................... 
+	http://risis.eu/cordisH2020/resource/participant_999854467.. http://risis.eu/cordisH2020/resource/www.unisr.it........... 
+	http://risis.eu/cordisH2020/resource/participant_999854467.. UNIVERSITA VITA-SALUTE SAN RAFFAELE......................... 
+	http://www.grid.ac/institutes/grid.15496.3f................. 9.267318.................................................... 
+	http://www.grid.ac/institutes/grid.15496.3f................. 45.507076................................................... 
+	http://www.grid.ac/institutes/grid.15496.3f................. http://www.unisr.it/........................................ 
+	http://www.grid.ac/institutes/grid.15496.3f................. Vita-Salute San Raffaele University......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:IT0039', '1:4933941'), ('2:IT0039', '4:grid.15496.3f'), ('3:participant_999854467', '2:IT0039'), ('4:grid.15496.3f', '1:4933941')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

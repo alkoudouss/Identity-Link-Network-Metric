@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 8058 
+NAME    N1743701732
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.65862.3f>
+	<http://risis.eu/orgref_20170703/resource/29096295>
+	<http://risis.eu/eter_2014/resource/TR0136>
+	<http://risis.eu/cordisH2020/resource/participant_985914403>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.65862.3f................. http://risis.eu/orgref_20170703/resource/29096295........... 1........................................................... [Istanbul Şehir University] was compared to [Istanbul Şehir University] 
+	http://risis.eu/orgref_20170703/resource/29096295........... http://www.grid.ac/institutes/grid.65862.3f................. 1........................................................... [Istanbul Şehir University] was compared to [Istanbul Şehir University] 
+	http://www.grid.ac/institutes/grid.65862.3f................. http://risis.eu/eter_2014/resource/TR0136................... 0.888888888889.............................................. [Istanbul Şehir University] was compared to [ISTANBUL SEHIR ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0136................... http://www.grid.ac/institutes/grid.65862.3f................. 0.888888888889.............................................. [Istanbul Şehir University] was compared to [ISTANBUL SEHIR ÜNIVERSITESI] 
+	http://www.grid.ac/institutes/grid.65862.3f................. http://risis.eu/cordisH2020/resource/participant_985914403.. 0.888888888889.............................................. [Istanbul Şehir University] was compared to [ISTANBUL SEHIR UNIVERSITESI] 
+	http://risis.eu/cordisH2020/resource/participant_985914403.. http://www.grid.ac/institutes/grid.65862.3f................. 0.888888888889.............................................. [Istanbul Şehir University] was compared to [ISTANBUL SEHIR UNIVERSITESI] 
+	http://risis.eu/orgref_20170703/resource/29096295........... http://risis.eu/eter_2014/resource/TR0136................... 0.888888888889.............................................. [Istanbul Şehir University] was compared to [ISTANBUL SEHIR ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0136................... http://risis.eu/orgref_20170703/resource/29096295........... 0.888888888889.............................................. [Istanbul Şehir University] was compared to [ISTANBUL SEHIR ÜNIVERSITESI] 
+	http://risis.eu/orgref_20170703/resource/29096295........... http://risis.eu/cordisH2020/resource/participant_985914403.. 0.888888888889.............................................. [Istanbul Şehir University] was compared to [ISTANBUL SEHIR UNIVERSITESI] 
+	http://risis.eu/cordisH2020/resource/participant_985914403.. http://risis.eu/orgref_20170703/resource/29096295........... 0.888888888889.............................................. [Istanbul Şehir University] was compared to [ISTANBUL SEHIR UNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0136................... http://risis.eu/cordisH2020/resource/participant_985914403.. 1........................................................... [ISTANBUL SEHIR UNIVERSITESI] was compared to [ISTANBUL SEHIR ÜNIVERSITESI] 
+	http://risis.eu/cordisH2020/resource/participant_985914403.. http://risis.eu/eter_2014/resource/TR0136................... 1........................................................... [ISTANBUL SEHIR UNIVERSITESI] was compared to [ISTANBUL SEHIR ÜNIVERSITESI] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.65862.3f................. 29.045074................................................... 
+	http://www.grid.ac/institutes/grid.65862.3f................. 41.026695................................................... 
+	http://www.grid.ac/institutes/grid.65862.3f................. http://www.sehir.edu.tr/en/Pages/home.aspx.................. 
+	http://www.grid.ac/institutes/grid.65862.3f................. İstanbul Şehir Üniversitesi.............................. 
+	http://www.grid.ac/institutes/grid.65862.3f................. Istanbul Şehir University.................................. 
+	http://risis.eu/orgref_20170703/resource/29096295........... http://en.wikipedia.org/wiki?curid=29096295................. 
+	http://risis.eu/orgref_20170703/resource/29096295........... http://www.wikidata.org/wiki/Q6088707....................... 
+	http://risis.eu/orgref_20170703/resource/29096295........... http://www.sehir.edu.tr/en/pages/home.aspx.................. 
+	http://risis.eu/orgref_20170703/resource/29096295........... Istanbul Şehir University.................................. 
+	http://risis.eu/eter_2014/resource/TR0136................... 41,015994................................................... 
+	http://risis.eu/eter_2014/resource/TR0136................... 29,043083................................................... 
+	http://risis.eu/eter_2014/resource/TR0136................... http://www.sehir.edu.tr..................................... 
+	http://risis.eu/eter_2014/resource/TR0136................... a........................................................... 
+	http://risis.eu/eter_2014/resource/TR0136................... Istanbul Sehir University................................... 
+	http://risis.eu/eter_2014/resource/TR0136................... ISTANBUL SEHIR ÜNIVERSITESI................................ 
+	http://risis.eu/cordisH2020/resource/participant_985914403.. http://risis.eu/cordisH2020/resource/www.sehir.edu.tr....... 
+	http://risis.eu/cordisH2020/resource/participant_985914403.. ISTANBUL SEHIR UNIVERSITESI................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:29096295', '1:grid.65862.3f'), ('3:TR0136', '1:grid.65862.3f'), ('3:TR0136', '2:29096295'), ('4:participant_985914403', '1:grid.65862.3f'), ('4:participant_985914403', '2:29096295'), ('4:participant_985914403', '3:TR0136')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

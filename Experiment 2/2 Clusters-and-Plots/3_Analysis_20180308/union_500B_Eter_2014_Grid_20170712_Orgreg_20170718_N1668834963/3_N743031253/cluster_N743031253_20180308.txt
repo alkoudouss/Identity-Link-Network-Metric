@@ -1,0 +1,54 @@
+SIZE    3   
+CLUSTER 1099 
+NAME    N743031253
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/RO0056>
+	<http://www.grid.ac/institutes/grid.29254.38>
+	<http://risis.eu/orgreg_20170718/resource/RO0002>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/RO0056.. http://www.grid.ac/institutes/grid.29254.38...... 1................................................ Near each other by at most 500 meter(s).......... 
+	http://www.grid.ac/institutes/grid.29254.38...... http://risis.eu/orgreg_20170718/resource/RO0002.. 1................................................ Near each other by at most 500 meter(s).......... 
+	http://www.grid.ac/institutes/grid.29254.38...... http://risis.eu/orgreg_20170718/resource/RO0056.. 1................................................ Near each other by at most 500 meter(s).......... 
+	http://risis.eu/orgreg_20170718/resource/RO0002.. http://www.grid.ac/institutes/grid.29254.38...... 1................................................ Near each other by at most 500 meter(s).......... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/RO0056.. 21.315953........................................ 
+	http://risis.eu/orgreg_20170718/resource/RO0056.. 46.173294........................................ 
+	http://risis.eu/orgreg_20170718/resource/RO0056.. www.uvvg.ro...................................... 
+	http://risis.eu/orgreg_20170718/resource/RO0056.. “VASILE GOLDIŞ” WESTERN UNIVERSITY OF ARAD.. 
+	http://www.grid.ac/institutes/grid.29254.38...... 21.317286........................................ 
+	http://www.grid.ac/institutes/grid.29254.38...... 46.17343......................................... 
+	http://www.grid.ac/institutes/grid.29254.38...... http://www.uav.ro/en/index....................... 
+	http://www.grid.ac/institutes/grid.29254.38...... Aurel Vlaicu University of Arad.................. 
+	http://risis.eu/orgreg_20170718/resource/RO0002.. 21.319056........................................ 
+	http://risis.eu/orgreg_20170718/resource/RO0002.. 46.174975........................................ 
+	http://risis.eu/orgreg_20170718/resource/RO0002.. www.uav.ro....................................... 
+	http://risis.eu/orgreg_20170718/resource/RO0002.. Aurel Vlaicu University of Arad.................. 
+
+NETWORK ANALYSIS
+	NETWORK [('P1421108614-RO0002', 'P965441507-grid.29254.38'), ('N743031253-RO0056', 'P965441507-grid.29254.38')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

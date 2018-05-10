@@ -1,0 +1,72 @@
+SIZE    5   
+CLUSTER 223 
+NAME    N1568170358
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.430567.3>
+	<http://www.grid.ac/institutes/grid.430569.d>
+	<http://www.grid.ac/institutes/grid.452898.a>
+	<http://www.grid.ac/institutes/grid.430573.6>
+	<http://www.grid.ac/institutes/grid.430572.7>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 20 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.430567.3.. http://www.grid.ac/institutes/grid.430569.d.. 1............................................ [United Nations Population Fund] was compared to [United Nations Population Fund] 
+	http://www.grid.ac/institutes/grid.430569.d.. http://www.grid.ac/institutes/grid.430567.3.. 1............................................ [United Nations Population Fund] was compared to [United Nations Population Fund] 
+	http://www.grid.ac/institutes/grid.430567.3.. http://www.grid.ac/institutes/grid.430572.7.. 1............................................ [United Nations Population Fund] was compared to [United Nations Population Fund] 
+	http://www.grid.ac/institutes/grid.430572.7.. http://www.grid.ac/institutes/grid.430567.3.. 1............................................ [United Nations Population Fund] was compared to [United Nations Population Fund] 
+	http://www.grid.ac/institutes/grid.430567.3.. http://www.grid.ac/institutes/grid.430573.6.. 1............................................ [United Nations Population Fund] was compared to [United Nations Population Fund] 
+	http://www.grid.ac/institutes/grid.430573.6.. http://www.grid.ac/institutes/grid.430567.3.. 1............................................ [United Nations Population Fund] was compared to [United Nations Population Fund] 
+	http://www.grid.ac/institutes/grid.430567.3.. http://www.grid.ac/institutes/grid.452898.a.. 1............................................ [United Nations Population Fund] was compared to [United Nations Population Fund] 
+	http://www.grid.ac/institutes/grid.452898.a.. http://www.grid.ac/institutes/grid.430567.3.. 1............................................ [United Nations Population Fund] was compared to [United Nations Population Fund] 
+	http://www.grid.ac/institutes/grid.430569.d.. http://www.grid.ac/institutes/grid.430572.7.. 1............................................ [United Nations Population Fund] was compared to [United Nations Population Fund] 
+	http://www.grid.ac/institutes/grid.430572.7.. http://www.grid.ac/institutes/grid.430569.d.. 1............................................ [United Nations Population Fund] was compared to [United Nations Population Fund] 
+	http://www.grid.ac/institutes/grid.430569.d.. http://www.grid.ac/institutes/grid.430573.6.. 1............................................ [United Nations Population Fund] was compared to [United Nations Population Fund] 
+	http://www.grid.ac/institutes/grid.430573.6.. http://www.grid.ac/institutes/grid.430569.d.. 1............................................ [United Nations Population Fund] was compared to [United Nations Population Fund] 
+	http://www.grid.ac/institutes/grid.430569.d.. http://www.grid.ac/institutes/grid.452898.a.. 1............................................ [United Nations Population Fund] was compared to [United Nations Population Fund] 
+	http://www.grid.ac/institutes/grid.452898.a.. http://www.grid.ac/institutes/grid.430569.d.. 1............................................ [United Nations Population Fund] was compared to [United Nations Population Fund] 
+	http://www.grid.ac/institutes/grid.430573.6.. http://www.grid.ac/institutes/grid.430572.7.. 1............................................ [United Nations Population Fund] was compared to [United Nations Population Fund] 
+	http://www.grid.ac/institutes/grid.430572.7.. http://www.grid.ac/institutes/grid.430573.6.. 1............................................ [United Nations Population Fund] was compared to [United Nations Population Fund] 
+	http://www.grid.ac/institutes/grid.452898.a.. http://www.grid.ac/institutes/grid.430572.7.. 1............................................ [United Nations Population Fund] was compared to [United Nations Population Fund] 
+	http://www.grid.ac/institutes/grid.430572.7.. http://www.grid.ac/institutes/grid.452898.a.. 1............................................ [United Nations Population Fund] was compared to [United Nations Population Fund] 
+	http://www.grid.ac/institutes/grid.452898.a.. http://www.grid.ac/institutes/grid.430573.6.. 1............................................ [United Nations Population Fund] was compared to [United Nations Population Fund] 
+	http://www.grid.ac/institutes/grid.430573.6.. http://www.grid.ac/institutes/grid.452898.a.. 1............................................ [United Nations Population Fund] was compared to [United Nations Population Fund] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.430567.3.. 58.320312.................................... 
+	http://www.grid.ac/institutes/grid.430567.3.. 37.95717..................................... 
+	http://www.grid.ac/institutes/grid.430567.3.. http://www.unfpa.org.tm/en/.................. 
+	http://www.grid.ac/institutes/grid.430567.3.. United Nations Fund for Population Activities 
+	http://www.grid.ac/institutes/grid.430567.3.. United Nations Population Fund............... 
+	http://www.grid.ac/institutes/grid.430569.d.. United Nations Population Fund............... 
+	http://www.grid.ac/institutes/grid.452898.a.. -73.97537.................................... 
+	http://www.grid.ac/institutes/grid.452898.a.. 40.74966..................................... 
+	http://www.grid.ac/institutes/grid.452898.a.. http://www.unfpa.org/........................ 
+	http://www.grid.ac/institutes/grid.452898.a.. United Nations Population Fund............... 
+	http://www.grid.ac/institutes/grid.430573.6.. United Nations Population Fund............... 
+	http://www.grid.ac/institutes/grid.430572.7.. United Nations Population Fund............... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.430569.d', '1:grid.430567.3'), ('3:grid.452898.a', '1:grid.430567.3'), ('3:grid.452898.a', '2:grid.430569.d'), ('3:grid.452898.a', '5:grid.430572.7'), ('4:grid.430573.6', '1:grid.430567.3'), ('4:grid.430573.6', '2:grid.430569.d'), ('4:grid.430573.6', '3:grid.452898.a'), ('5:grid.430572.7', '1:grid.430567.3'), ('5:grid.430572.7', '2:grid.430569.d'), ('5:grid.430572.7', '4:grid.430573.6')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 4.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

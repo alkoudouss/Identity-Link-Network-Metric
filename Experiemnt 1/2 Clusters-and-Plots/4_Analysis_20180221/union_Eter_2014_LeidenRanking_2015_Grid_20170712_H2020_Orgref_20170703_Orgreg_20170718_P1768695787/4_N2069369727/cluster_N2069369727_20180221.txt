@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 8985 
+NAME    N2069369727
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/IT0170>
+	<http://risis.eu/eter_2014/resource/IT0170>
+	<http://www.grid.ac/institutes/grid.466082.e>
+	<http://www.grid.ac/institutes/grid.466081.d>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.466082.e...... http://www.grid.ac/institutes/grid.466081.d...... 0.863636363636................................... [Conservatorio State Di Musica Giuseppe Verdi] was compared to [Conservatorio di Musica Giuseppe Verdi] 
+	http://www.grid.ac/institutes/grid.466081.d...... http://www.grid.ac/institutes/grid.466082.e...... 0.863636363636................................... [Conservatorio State Di Musica Giuseppe Verdi] was compared to [Conservatorio di Musica Giuseppe Verdi] 
+	http://risis.eu/eter_2014/resource/IT0170........ http://www.grid.ac/institutes/grid.466082.e...... 0.868421052632................................... [Conservatorio di Musica Giuseppe Verdi] was compared to [Conservatorio di MILANO Giuseppe Verdi] 
+	http://www.grid.ac/institutes/grid.466082.e...... http://risis.eu/eter_2014/resource/IT0170........ 0.868421052632................................... [Conservatorio di Musica Giuseppe Verdi] was compared to [Conservatorio di MILANO Giuseppe Verdi] 
+	http://risis.eu/orgreg_20170718/resource/IT0170.. http://risis.eu/eter_2014/resource/IT0170........ 0.85............................................. [Music Conservatory of MILANO Giuseppe Verdi] was compared to [Conservatorio di MILANO Giuseppe Verdi] 
+	http://risis.eu/eter_2014/resource/IT0170........ http://risis.eu/orgreg_20170718/resource/IT0170.. 0.85............................................. [Music Conservatory of MILANO Giuseppe Verdi] was compared to [Conservatorio di MILANO Giuseppe Verdi] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/IT0170.. 45.459792........................................ 
+	http://risis.eu/orgreg_20170718/resource/IT0170.. 9.196806......................................... 
+	http://risis.eu/orgreg_20170718/resource/IT0170.. http://www.consmilano.it/........................ 
+	http://risis.eu/orgreg_20170718/resource/IT0170.. Music Conservatory of MILANO Giuseppe Verdi...... 
+	http://risis.eu/eter_2014/resource/IT0170........ 45,459792........................................ 
+	http://risis.eu/eter_2014/resource/IT0170........ 9,196806......................................... 
+	http://risis.eu/eter_2014/resource/IT0170........ http://www.consmilano.it/........................ 
+	http://risis.eu/eter_2014/resource/IT0170........ a................................................ 
+	http://risis.eu/eter_2014/resource/IT0170........ Music Conservatory of MILANO Giuseppe Verdi...... 
+	http://risis.eu/eter_2014/resource/IT0170........ Conservatorio di MILANO Giuseppe Verdi........... 
+	http://www.grid.ac/institutes/grid.466082.e...... 9.203073......................................... 
+	http://www.grid.ac/institutes/grid.466082.e...... 45.465065........................................ 
+	http://www.grid.ac/institutes/grid.466082.e...... http://www.consmilano.it/........................ 
+	http://www.grid.ac/institutes/grid.466082.e...... Conservatorio di Musica Giuseppe Verdi........... 
+	http://www.grid.ac/institutes/grid.466081.d...... 7.684532......................................... 
+	http://www.grid.ac/institutes/grid.466081.d...... 45.06303......................................... 
+	http://www.grid.ac/institutes/grid.466081.d...... http://www.conservatoriotorino.gov.it/........... 
+	http://www.grid.ac/institutes/grid.466081.d...... Conservatorio State Di Musica Giuseppe Verdi..... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:IT0170', '1:IT0170'), ('3:grid.466082.e', '2:IT0170'), ('4:grid.466081.d', '3:grid.466082.e')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

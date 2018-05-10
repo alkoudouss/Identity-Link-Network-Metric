@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 17862 
+NAME    N1096190221
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.449815.5>
+	<http://risis.eu/orgref_20170703/resource/102123>
+	<http://risis.eu/orgref_20170703/resource/23263593>
+	<http://www.grid.ac/institutes/grid.268302.d>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.449815.5........ http://risis.eu/orgref_20170703/resource/102123.... 0.952380952381..................................... [Wittenborg University] was compared to [Wittenberg University] 
+	http://www.grid.ac/institutes/grid.449815.5........ http://risis.eu/orgref_20170703/resource/23263593.. 1.................................................. [Wittenborg University] was compared to [Wittenborg University] 
+	http://www.grid.ac/institutes/grid.449815.5........ http://www.grid.ac/institutes/grid.268302.d........ 0.952380952381..................................... [Wittenberg University] was compared to [Wittenborg University] 
+	http://risis.eu/orgref_20170703/resource/102123.... http://risis.eu/orgref_20170703/resource/23263593.. 0.952380952381..................................... [Wittenberg University] was compared to [Wittenborg University] 
+	http://risis.eu/orgref_20170703/resource/102123.... http://www.grid.ac/institutes/grid.268302.d........ 1.................................................. [Wittenberg University] was compared to [Wittenberg University] 
+	http://risis.eu/orgref_20170703/resource/102123.... http://www.grid.ac/institutes/grid.449815.5........ 0.952380952381..................................... [Wittenborg University] was compared to [Wittenberg University] 
+	http://risis.eu/orgref_20170703/resource/23263593.. http://www.grid.ac/institutes/grid.268302.d........ 0.952380952381..................................... [Wittenberg University] was compared to [Wittenborg University] 
+	http://risis.eu/orgref_20170703/resource/23263593.. http://www.grid.ac/institutes/grid.449815.5........ 1.................................................. [Wittenborg University] was compared to [Wittenborg University] 
+	http://risis.eu/orgref_20170703/resource/23263593.. http://risis.eu/orgref_20170703/resource/102123.... 0.952380952381..................................... [Wittenberg University] was compared to [Wittenborg University] 
+	http://www.grid.ac/institutes/grid.268302.d........ http://www.grid.ac/institutes/grid.449815.5........ 0.952380952381..................................... [Wittenberg University] was compared to [Wittenborg University] 
+	http://www.grid.ac/institutes/grid.268302.d........ http://risis.eu/orgref_20170703/resource/102123.... 1.................................................. [Wittenberg University] was compared to [Wittenberg University] 
+	http://www.grid.ac/institutes/grid.268302.d........ http://risis.eu/orgref_20170703/resource/23263593.. 0.952380952381..................................... [Wittenberg University] was compared to [Wittenborg University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.449815.5........ Wittenborg University.............................. 
+	http://risis.eu/orgref_20170703/resource/102123.... http://en.wikipedia.org/wiki?curid=102123.......... 
+	http://risis.eu/orgref_20170703/resource/102123.... http://www.wikidata.org/wiki/Q8028571.............. 
+	http://risis.eu/orgref_20170703/resource/102123.... http://www.wittenberg.edu.......................... 
+	http://risis.eu/orgref_20170703/resource/102123.... Wittenberg University.............................. 
+	http://risis.eu/orgref_20170703/resource/23263593.. http://en.wikipedia.org/wiki?curid=23263593........ 
+	http://risis.eu/orgref_20170703/resource/23263593.. http://www.wikidata.org/wiki/Q2788956.............. 
+	http://risis.eu/orgref_20170703/resource/23263593.. http://www.wittenborg.eu........................... 
+	http://risis.eu/orgref_20170703/resource/23263593.. Wittenborg University.............................. 
+	http://www.grid.ac/institutes/grid.268302.d........ -83.81415.......................................... 
+	http://www.grid.ac/institutes/grid.268302.d........ 39.93314........................................... 
+	http://www.grid.ac/institutes/grid.268302.d........ http://www.wittenberg.edu/......................... 
+	http://www.grid.ac/institutes/grid.268302.d........ Wittenberg University.............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('P1757967761-102123', 'N1096190221-23263593'), ('P1757967761-102123', 'P439531616-grid.449815.5'), ('P1757967761-102123', 'P1151666827-grid.268302.d'), ('P1151666827-grid.268302.d', 'P439531616-grid.449815.5'), ('N1096190221-23263593', 'P439531616-grid.449815.5'), ('N1096190221-23263593', 'P1151666827-grid.268302.d')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

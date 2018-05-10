@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 5722 
+NAME    N983001299
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.419719.3>
+	<http://www.grid.ac/institutes/grid.473184.d>
+	<http://www.grid.ac/institutes/grid.481672.e>
+	<http://www.grid.ac/institutes/grid.473185.c>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.419719.3.. http://www.grid.ac/institutes/grid.481672.e.. 1............................................ [Kao Corporation (Japan)] was compared to [Kao Corporation (Spain)] 
+	http://www.grid.ac/institutes/grid.481672.e.. http://www.grid.ac/institutes/grid.419719.3.. 1............................................ [Kao Corporation (Japan)] was compared to [Kao Corporation (Spain)] 
+	http://www.grid.ac/institutes/grid.419719.3.. http://www.grid.ac/institutes/grid.473184.d.. 1............................................ [Kao Corporation (Japan)] was compared to [Kao Corporation (Germany)] 
+	http://www.grid.ac/institutes/grid.473184.d.. http://www.grid.ac/institutes/grid.419719.3.. 1............................................ [Kao Corporation (Japan)] was compared to [Kao Corporation (Germany)] 
+	http://www.grid.ac/institutes/grid.419719.3.. http://www.grid.ac/institutes/grid.473185.c.. 1............................................ [Kao Corporation (Japan)] was compared to [Kao Corporation (United States)] 
+	http://www.grid.ac/institutes/grid.473185.c.. http://www.grid.ac/institutes/grid.419719.3.. 1............................................ [Kao Corporation (Japan)] was compared to [Kao Corporation (United States)] 
+	http://www.grid.ac/institutes/grid.473184.d.. http://www.grid.ac/institutes/grid.481672.e.. 1............................................ [Kao Corporation (Germany)] was compared to [Kao Corporation (Spain)] 
+	http://www.grid.ac/institutes/grid.481672.e.. http://www.grid.ac/institutes/grid.473184.d.. 1............................................ [Kao Corporation (Germany)] was compared to [Kao Corporation (Spain)] 
+	http://www.grid.ac/institutes/grid.473184.d.. http://www.grid.ac/institutes/grid.473185.c.. 1............................................ [Kao Corporation (Germany)] was compared to [Kao Corporation (United States)] 
+	http://www.grid.ac/institutes/grid.473185.c.. http://www.grid.ac/institutes/grid.473184.d.. 1............................................ [Kao Corporation (Germany)] was compared to [Kao Corporation (United States)] 
+	http://www.grid.ac/institutes/grid.481672.e.. http://www.grid.ac/institutes/grid.473185.c.. 1............................................ [Kao Corporation (United States)] was compared to [Kao Corporation (Spain)] 
+	http://www.grid.ac/institutes/grid.473185.c.. http://www.grid.ac/institutes/grid.481672.e.. 1............................................ [Kao Corporation (United States)] was compared to [Kao Corporation (Spain)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.419719.3.. 139.7664..................................... 
+	http://www.grid.ac/institutes/grid.419719.3.. 35.674957.................................... 
+	http://www.grid.ac/institutes/grid.419719.3.. http://www.kao.com/jp/....................... 
+	http://www.grid.ac/institutes/grid.419719.3.. Kao Kabushiki Gaisha......................... 
+	http://www.grid.ac/institutes/grid.419719.3.. Kao Corporation (Japan)...................... 
+	http://www.grid.ac/institutes/grid.473184.d.. 8.633959..................................... 
+	http://www.grid.ac/institutes/grid.473184.d.. 49.815758.................................... 
+	http://www.grid.ac/institutes/grid.473184.d.. http://www.kao.com/group/ja/group/europe_02.html 
+	http://www.grid.ac/institutes/grid.473184.d.. Kao Corporation (Germany).................... 
+	http://www.grid.ac/institutes/grid.481672.e.. 2.171425..................................... 
+	http://www.grid.ac/institutes/grid.481672.e.. 41.398373.................................... 
+	http://www.grid.ac/institutes/grid.481672.e.. http://www.kaochemicals-eu.com/.............. 
+	http://www.grid.ac/institutes/grid.481672.e.. Kao Corporation (Spain)...................... 
+	http://www.grid.ac/institutes/grid.473185.c.. -84.53685.................................... 
+	http://www.grid.ac/institutes/grid.473185.c.. 39.12895..................................... 
+	http://www.grid.ac/institutes/grid.473185.c.. http://www.kaocareers.com/................... 
+	http://www.grid.ac/institutes/grid.473185.c.. Kao Corporation (United States).............. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.473184.d', '1:grid.419719.3'), ('3:grid.481672.e', '1:grid.419719.3'), ('3:grid.481672.e', '2:grid.473184.d'), ('4:grid.473185.c', '1:grid.419719.3'), ('4:grid.473185.c', '2:grid.473184.d'), ('4:grid.473185.c', '3:grid.481672.e')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

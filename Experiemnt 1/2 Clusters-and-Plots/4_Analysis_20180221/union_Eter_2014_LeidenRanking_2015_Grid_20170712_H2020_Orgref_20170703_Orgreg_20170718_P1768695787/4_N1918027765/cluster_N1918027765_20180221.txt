@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 8489 
+NAME    N1918027765
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.421171.0>
+	<http://www.grid.ac/institutes/grid.451635.0>
+	<http://www.grid.ac/institutes/grid.450729.d>
+	<http://www.grid.ac/institutes/grid.448043.f>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.421171.0.. http://www.grid.ac/institutes/grid.448043.f.. 1............................................ [ESI (France)] was compared to [ESI (Czech Republic)] 
+	http://www.grid.ac/institutes/grid.448043.f.. http://www.grid.ac/institutes/grid.421171.0.. 1............................................ [ESI (France)] was compared to [ESI (Czech Republic)] 
+	http://www.grid.ac/institutes/grid.421171.0.. http://www.grid.ac/institutes/grid.451635.0.. 1............................................ [ESI (France)] was compared to [ESI (Sweden)] 
+	http://www.grid.ac/institutes/grid.451635.0.. http://www.grid.ac/institutes/grid.421171.0.. 1............................................ [ESI (France)] was compared to [ESI (Sweden)] 
+	http://www.grid.ac/institutes/grid.421171.0.. http://www.grid.ac/institutes/grid.450729.d.. 1............................................ [ESI (France)] was compared to [ESI (United States)] 
+	http://www.grid.ac/institutes/grid.450729.d.. http://www.grid.ac/institutes/grid.421171.0.. 1............................................ [ESI (France)] was compared to [ESI (United States)] 
+	http://www.grid.ac/institutes/grid.451635.0.. http://www.grid.ac/institutes/grid.448043.f.. 1............................................ [ESI (Czech Republic)] was compared to [ESI (Sweden)] 
+	http://www.grid.ac/institutes/grid.448043.f.. http://www.grid.ac/institutes/grid.451635.0.. 1............................................ [ESI (Czech Republic)] was compared to [ESI (Sweden)] 
+	http://www.grid.ac/institutes/grid.450729.d.. http://www.grid.ac/institutes/grid.448043.f.. 1............................................ [ESI (Czech Republic)] was compared to [ESI (United States)] 
+	http://www.grid.ac/institutes/grid.448043.f.. http://www.grid.ac/institutes/grid.450729.d.. 1............................................ [ESI (Czech Republic)] was compared to [ESI (United States)] 
+	http://www.grid.ac/institutes/grid.451635.0.. http://www.grid.ac/institutes/grid.450729.d.. 1............................................ [ESI (United States)] was compared to [ESI (Sweden)] 
+	http://www.grid.ac/institutes/grid.450729.d.. http://www.grid.ac/institutes/grid.451635.0.. 1............................................ [ESI (United States)] was compared to [ESI (Sweden)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.421171.0.. 2.302391..................................... 
+	http://www.grid.ac/institutes/grid.421171.0.. 48.84952..................................... 
+	http://www.grid.ac/institutes/grid.421171.0.. https://www.esi-group.com/................... 
+	http://www.grid.ac/institutes/grid.421171.0.. ESI (France)................................. 
+	http://www.grid.ac/institutes/grid.451635.0.. 17.922873.................................... 
+	http://www.grid.ac/institutes/grid.451635.0.. 59.461376.................................... 
+	http://www.grid.ac/institutes/grid.451635.0.. https://www.esi-group.com/................... 
+	http://www.grid.ac/institutes/grid.451635.0.. Engineering Systems International............ 
+	http://www.grid.ac/institutes/grid.451635.0.. ESI (Sweden)................................. 
+	http://www.grid.ac/institutes/grid.450729.d.. -83.37113.................................... 
+	http://www.grid.ac/institutes/grid.450729.d.. 42.496685.................................... 
+	http://www.grid.ac/institutes/grid.450729.d.. https://www.esi-group.com/................... 
+	http://www.grid.ac/institutes/grid.450729.d.. Engineering Systems International............ 
+	http://www.grid.ac/institutes/grid.450729.d.. ESI (United States).......................... 
+	http://www.grid.ac/institutes/grid.448043.f.. ESI (Czech Republic)......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.451635.0', '1:grid.421171.0'), ('2:grid.451635.0', '3:grid.450729.d'), ('2:grid.451635.0', '4:grid.448043.f'), ('3:grid.450729.d', '1:grid.421171.0'), ('3:grid.450729.d', '4:grid.448043.f'), ('4:grid.448043.f', '1:grid.421171.0')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

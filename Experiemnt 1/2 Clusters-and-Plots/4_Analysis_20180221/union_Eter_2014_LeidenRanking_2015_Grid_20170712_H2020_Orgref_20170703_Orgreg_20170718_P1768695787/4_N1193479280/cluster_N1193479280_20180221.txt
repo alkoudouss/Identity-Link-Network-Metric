@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 2118 
+NAME    N1193479280
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.420221.7>
+	<http://www.grid.ac/institutes/grid.435620.6>
+	<http://risis.eu/orgref_20170703/resource/14984>
+	<http://risis.eu/leidenRanking_2015/resource/15294>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.420221.7........ http://www.grid.ac/institutes/grid.435620.6........ 1.................................................. [International Atomic Energy Agency] was compared to [International Atomic Energy Agency] 
+	http://www.grid.ac/institutes/grid.435620.6........ http://www.grid.ac/institutes/grid.420221.7........ 1.................................................. [International Atomic Energy Agency] was compared to [International Atomic Energy Agency] 
+	http://www.grid.ac/institutes/grid.420221.7........ http://risis.eu/orgref_20170703/resource/14984..... 1.................................................. [International Atomic Energy Agency] was compared to [International Atomic Energy Agency] 
+	http://risis.eu/orgref_20170703/resource/14984..... http://www.grid.ac/institutes/grid.420221.7........ 1.................................................. [International Atomic Energy Agency] was compared to [International Atomic Energy Agency] 
+	http://www.grid.ac/institutes/grid.435620.6........ http://risis.eu/orgref_20170703/resource/14984..... 1.................................................. [International Atomic Energy Agency] was compared to [International Atomic Energy Agency] 
+	http://risis.eu/orgref_20170703/resource/14984..... http://www.grid.ac/institutes/grid.435620.6........ 1.................................................. [International Atomic Energy Agency] was compared to [International Atomic Energy Agency] 
+	http://www.grid.ac/institutes/grid.420221.7........ http://risis.eu/leidenRanking_2015/resource/15294.. 1.................................................. [International Atomic Energy Agency] was compared to [International Atomic Energy Agency] 
+	http://risis.eu/leidenRanking_2015/resource/15294.. http://www.grid.ac/institutes/grid.420221.7........ 1.................................................. [International Atomic Energy Agency] was compared to [International Atomic Energy Agency] 
+	http://www.grid.ac/institutes/grid.435620.6........ http://risis.eu/leidenRanking_2015/resource/15294.. 1.................................................. [International Atomic Energy Agency] was compared to [International Atomic Energy Agency] 
+	http://risis.eu/leidenRanking_2015/resource/15294.. http://www.grid.ac/institutes/grid.435620.6........ 1.................................................. [International Atomic Energy Agency] was compared to [International Atomic Energy Agency] 
+	http://risis.eu/orgref_20170703/resource/14984..... http://risis.eu/leidenRanking_2015/resource/15294.. 1.................................................. [International Atomic Energy Agency] was compared to [International Atomic Energy Agency] 
+	http://risis.eu/leidenRanking_2015/resource/15294.. http://risis.eu/orgref_20170703/resource/14984..... 1.................................................. [International Atomic Energy Agency] was compared to [International Atomic Energy Agency] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.420221.7........ 16.416111.......................................... 
+	http://www.grid.ac/institutes/grid.420221.7........ 48.23389........................................... 
+	http://www.grid.ac/institutes/grid.420221.7........ https://www.iaea.org/.............................. 
+	http://www.grid.ac/institutes/grid.420221.7........ International Atomic Energy Agency................. 
+	http://www.grid.ac/institutes/grid.435620.6........ 13.71789........................................... 
+	http://www.grid.ac/institutes/grid.435620.6........ 45.703014.......................................... 
+	http://www.grid.ac/institutes/grid.435620.6........ https://www.iaea.org/.............................. 
+	http://www.grid.ac/institutes/grid.435620.6........ International Atomic Energy Agency................. 
+	http://risis.eu/orgref_20170703/resource/14984..... http://en.wikipedia.org/wiki?curid=14984........... 
+	http://risis.eu/orgref_20170703/resource/14984..... http://www.wikidata.org/wiki/Q41984................ 
+	http://risis.eu/orgref_20170703/resource/14984..... http://www.iaea.org................................ 
+	http://risis.eu/orgref_20170703/resource/14984..... International Atomic Energy Agency................. 
+	http://risis.eu/leidenRanking_2015/resource/15294.. International Atomic Energy Agency................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.435620.6', '1:grid.420221.7'), ('3:14984', '1:grid.420221.7'), ('3:14984', '2:grid.435620.6'), ('4:15294', '1:grid.420221.7'), ('4:15294', '2:grid.435620.6'), ('4:15294', '3:14984')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

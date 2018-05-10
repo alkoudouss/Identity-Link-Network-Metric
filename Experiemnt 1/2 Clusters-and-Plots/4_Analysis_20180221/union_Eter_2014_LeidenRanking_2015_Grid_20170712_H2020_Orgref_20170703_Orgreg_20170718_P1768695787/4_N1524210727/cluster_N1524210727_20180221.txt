@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 9271 
+NAME    N1524210727
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.19680.36>
+	<http://risis.eu/orgref_20170703/resource/10524746>
+	<http://risis.eu/eter_2014/resource/TR0117>
+	<http://risis.eu/leidenRanking_2015/resource/1005>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.19680.36........ http://risis.eu/orgref_20170703/resource/10524746.. 1.................................................. [Doğuş University] was compared to [Doğuş University] 
+	http://risis.eu/orgref_20170703/resource/10524746.. http://www.grid.ac/institutes/grid.19680.36........ 1.................................................. [Doğuş University] was compared to [Doğuş University] 
+	http://www.grid.ac/institutes/grid.19680.36........ http://risis.eu/leidenRanking_2015/resource/1005... 1.................................................. [Doğuş University] was compared to [Dogus University] 
+	http://risis.eu/leidenRanking_2015/resource/1005... http://www.grid.ac/institutes/grid.19680.36........ 1.................................................. [Doğuş University] was compared to [Dogus University] 
+	http://risis.eu/orgref_20170703/resource/10524746.. http://risis.eu/leidenRanking_2015/resource/1005... 1.................................................. [Doğuş University] was compared to [Dogus University] 
+	http://risis.eu/leidenRanking_2015/resource/1005... http://risis.eu/orgref_20170703/resource/10524746.. 1.................................................. [Doğuş University] was compared to [Dogus University] 
+	http://risis.eu/eter_2014/resource/TR0117.......... http://risis.eu/leidenRanking_2015/resource/1005... 0.833333333333..................................... [DOĞUŞ ÜNIVERSITESI] was compared to [Dogus University] 
+	http://risis.eu/leidenRanking_2015/resource/1005... http://risis.eu/eter_2014/resource/TR0117.......... 0.833333333333..................................... [DOĞUŞ ÜNIVERSITESI] was compared to [Dogus University] 
+	http://risis.eu/orgref_20170703/resource/10524746.. http://risis.eu/eter_2014/resource/TR0117.......... 0.833333333333..................................... [Doğuş University] was compared to [DOĞUŞ ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0117.......... http://risis.eu/orgref_20170703/resource/10524746.. 0.833333333333..................................... [Doğuş University] was compared to [DOĞUŞ ÜNIVERSITESI] 
+	http://www.grid.ac/institutes/grid.19680.36........ http://risis.eu/eter_2014/resource/TR0117.......... 0.833333333333..................................... [Doğuş University] was compared to [DOĞUŞ ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0117.......... http://www.grid.ac/institutes/grid.19680.36........ 0.833333333333..................................... [Doğuş University] was compared to [DOĞUŞ ÜNIVERSITESI] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.19680.36........ 29.046944.......................................... 
+	http://www.grid.ac/institutes/grid.19680.36........ 41.00028........................................... 
+	http://www.grid.ac/institutes/grid.19680.36........ http://dogus.edu.tr/tr/............................ 
+	http://www.grid.ac/institutes/grid.19680.36........ Doğuş University................................. 
+	http://risis.eu/orgref_20170703/resource/10524746.. http://en.wikipedia.org/wiki?curid=10524746........ 
+	http://risis.eu/orgref_20170703/resource/10524746.. http://www.wikidata.org/wiki/Q2254240.............. 
+	http://risis.eu/orgref_20170703/resource/10524746.. http://dogus.edu.tr................................ 
+	http://risis.eu/orgref_20170703/resource/10524746.. Doğuş University................................. 
+	http://risis.eu/eter_2014/resource/TR0117.......... 40,991268.......................................... 
+	http://risis.eu/eter_2014/resource/TR0117.......... 29,044538.......................................... 
+	http://risis.eu/eter_2014/resource/TR0117.......... http://www.dogus.edu.tr............................ 
+	http://risis.eu/eter_2014/resource/TR0117.......... a.................................................. 
+	http://risis.eu/eter_2014/resource/TR0117.......... Dogus University................................... 
+	http://risis.eu/eter_2014/resource/TR0117.......... DOĞUŞ ÜNIVERSITESI.............................. 
+	http://risis.eu/leidenRanking_2015/resource/1005... Dogus University................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:10524746', '1:grid.19680.36'), ('3:TR0117', '1:grid.19680.36'), ('3:TR0117', '2:10524746'), ('4:1005', '1:grid.19680.36'), ('4:1005', '2:10524746'), ('4:1005', '3:TR0117')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

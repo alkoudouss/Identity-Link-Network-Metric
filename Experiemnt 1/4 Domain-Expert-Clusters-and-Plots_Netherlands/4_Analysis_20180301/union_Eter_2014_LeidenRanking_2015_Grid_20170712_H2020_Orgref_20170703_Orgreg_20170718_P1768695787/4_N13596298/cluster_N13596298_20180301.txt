@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 8353 
+NAME    N13596298
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.431864.c>
+	<http://www.grid.ac/institutes/grid.473103.2>
+	<http://www.grid.ac/institutes/grid.431860.8>
+	<http://www.grid.ac/institutes/grid.472795.a>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.431864.c.. http://www.grid.ac/institutes/grid.472795.a.. 1............................................ [AT&T (Netherlands)] was compared to [AT&T (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.431864.c.. http://www.grid.ac/institutes/grid.473103.2.. 1............................................ [AT&T (Netherlands)] was compared to [AT&T (Israel)] 
+	http://www.grid.ac/institutes/grid.431864.c.. http://www.grid.ac/institutes/grid.431860.8.. 1............................................ [AT&T (United States)] was compared to [AT&T (Netherlands)] 
+	http://www.grid.ac/institutes/grid.473103.2.. http://www.grid.ac/institutes/grid.431860.8.. 1............................................ [AT&T (United States)] was compared to [AT&T (Israel)] 
+	http://www.grid.ac/institutes/grid.473103.2.. http://www.grid.ac/institutes/grid.431864.c.. 1............................................ [AT&T (Netherlands)] was compared to [AT&T (Israel)] 
+	http://www.grid.ac/institutes/grid.473103.2.. http://www.grid.ac/institutes/grid.472795.a.. 1............................................ [AT&T (United Kingdom)] was compared to [AT&T (Israel)] 
+	http://www.grid.ac/institutes/grid.431860.8.. http://www.grid.ac/institutes/grid.431864.c.. 1............................................ [AT&T (United States)] was compared to [AT&T (Netherlands)] 
+	http://www.grid.ac/institutes/grid.431860.8.. http://www.grid.ac/institutes/grid.472795.a.. 1............................................ [AT&T (United States)] was compared to [AT&T (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.431860.8.. http://www.grid.ac/institutes/grid.473103.2.. 1............................................ [AT&T (United States)] was compared to [AT&T (Israel)] 
+	http://www.grid.ac/institutes/grid.472795.a.. http://www.grid.ac/institutes/grid.473103.2.. 1............................................ [AT&T (United Kingdom)] was compared to [AT&T (Israel)] 
+	http://www.grid.ac/institutes/grid.472795.a.. http://www.grid.ac/institutes/grid.431860.8.. 1............................................ [AT&T (United States)] was compared to [AT&T (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.472795.a.. http://www.grid.ac/institutes/grid.431864.c.. 1............................................ [AT&T (Netherlands)] was compared to [AT&T (United Kingdom)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.431864.c.. AT&T (Netherlands)........................... 
+	http://www.grid.ac/institutes/grid.473103.2.. 34.870342.................................... 
+	http://www.grid.ac/institutes/grid.473103.2.. 32.18456..................................... 
+	http://www.grid.ac/institutes/grid.473103.2.. https://www.att.com/......................... 
+	http://www.grid.ac/institutes/grid.473103.2.. AT&T (Israel)................................ 
+	http://www.grid.ac/institutes/grid.431860.8.. -74.63647.................................... 
+	http://www.grid.ac/institutes/grid.431860.8.. 40.66958..................................... 
+	http://www.grid.ac/institutes/grid.431860.8.. https://www.att.com/......................... 
+	http://www.grid.ac/institutes/grid.431860.8.. American Telephone and Telegraph Company..... 
+	http://www.grid.ac/institutes/grid.431860.8.. AT&T (United States)......................... 
+	http://www.grid.ac/institutes/grid.472795.a.. -1.942189.................................... 
+	http://www.grid.ac/institutes/grid.472795.a.. 52.309402.................................... 
+	http://www.grid.ac/institutes/grid.472795.a.. http://www.att.com/.......................... 
+	http://www.grid.ac/institutes/grid.472795.a.. AT&T (United Kingdom)........................ 
+
+NETWORK ANALYSIS
+	NETWORK [('N13596298-grid.431860.8', 'P946830358-grid.473103.2'), ('P770916203-grid.431864.c', 'P1388103583-grid.472795.a'), ('P770916203-grid.431864.c', 'P946830358-grid.473103.2'), ('P1388103583-grid.472795.a', 'P946830358-grid.473103.2'), ('N13596298-grid.431860.8', 'P770916203-grid.431864.c'), ('N13596298-grid.431860.8', 'P1388103583-grid.472795.a')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

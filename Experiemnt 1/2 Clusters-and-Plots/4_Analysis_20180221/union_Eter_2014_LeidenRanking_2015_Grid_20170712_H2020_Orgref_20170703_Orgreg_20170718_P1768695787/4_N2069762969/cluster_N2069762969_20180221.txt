@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 13068 
+NAME    N2069762969
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.238491.5>
+	<http://risis.eu/orgref_20170703/resource/20351735>
+	<http://www.grid.ac/institutes/grid.447320.6>
+	<http://www.grid.ac/institutes/grid.448524.b>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.238491.5........ http://www.grid.ac/institutes/grid.448524.b........ 0.875.............................................. [New York State Department of Health] was compared to [New York State Department of State] 
+	http://www.grid.ac/institutes/grid.448524.b........ http://www.grid.ac/institutes/grid.238491.5........ 0.875.............................................. [New York State Department of Health] was compared to [New York State Department of State] 
+	http://www.grid.ac/institutes/grid.447320.6........ http://www.grid.ac/institutes/grid.448524.b........ 0.8................................................ [New York State Education Department] was compared to [New York State Department of State] 
+	http://www.grid.ac/institutes/grid.448524.b........ http://www.grid.ac/institutes/grid.447320.6........ 0.8................................................ [New York State Education Department] was compared to [New York State Department of State] 
+	http://www.grid.ac/institutes/grid.238491.5........ http://risis.eu/orgref_20170703/resource/20351735.. 1.................................................. [New York State Department of Health] was compared to [New York State Department of Health] 
+	http://risis.eu/orgref_20170703/resource/20351735.. http://www.grid.ac/institutes/grid.238491.5........ 1.................................................. [New York State Department of Health] was compared to [New York State Department of Health] 
+	http://risis.eu/orgref_20170703/resource/20351735.. http://www.grid.ac/institutes/grid.448524.b........ 0.875.............................................. [New York State Department of State] was compared to [New York State Department of Health] 
+	http://www.grid.ac/institutes/grid.448524.b........ http://risis.eu/orgref_20170703/resource/20351735.. 0.875.............................................. [New York State Department of State] was compared to [New York State Department of Health] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.238491.5........ -73.76442.......................................... 
+	http://www.grid.ac/institutes/grid.238491.5........ 42.65197........................................... 
+	http://www.grid.ac/institutes/grid.238491.5........ https://www.health.ny.gov/......................... 
+	http://www.grid.ac/institutes/grid.238491.5........ New York State Department of Health................ 
+	http://risis.eu/orgref_20170703/resource/20351735.. http://en.wikipedia.org/wiki?curid=20351735........ 
+	http://risis.eu/orgref_20170703/resource/20351735.. http://www.wikidata.org/wiki/Q7014077.............. 
+	http://risis.eu/orgref_20170703/resource/20351735.. http://www.health.ny.gov........................... 
+	http://risis.eu/orgref_20170703/resource/20351735.. New York State Department of Health................ 
+	http://www.grid.ac/institutes/grid.447320.6........ -73.75742.......................................... 
+	http://www.grid.ac/institutes/grid.447320.6........ 42.653908.......................................... 
+	http://www.grid.ac/institutes/grid.447320.6........ http://www.nysed.gov/.............................. 
+	http://www.grid.ac/institutes/grid.447320.6........ New York State Education Department................ 
+	http://www.grid.ac/institutes/grid.448524.b........ -73.75934.......................................... 
+	http://www.grid.ac/institutes/grid.448524.b........ 42.654873.......................................... 
+	http://www.grid.ac/institutes/grid.448524.b........ http://www.dos.ny.gov/............................. 
+	http://www.grid.ac/institutes/grid.448524.b........ New York State Department of State................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:20351735', '1:grid.238491.5'), ('2:20351735', '4:grid.448524.b'), ('4:grid.448524.b', '1:grid.238491.5'), ('4:grid.448524.b', '3:grid.447320.6')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

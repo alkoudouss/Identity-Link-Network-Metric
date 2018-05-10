@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 17935 
+NAME    N1512889627
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.16117.30>
+	<http://www.grid.ac/institutes/grid.473396.c>
+	<http://risis.eu/orgref_20170703/resource/41278036>
+	<http://risis.eu/cordisH2020/resource/participant_999993662>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.16117.30................. http://www.grid.ac/institutes/grid.473396.c................. 0.837209302326.............................................. [Bureau de Recherches Géologiques et Minières] was compared to [Institut de Recherches Géologiques et Minières] 
+	http://www.grid.ac/institutes/grid.473396.c................. http://www.grid.ac/institutes/grid.16117.30................. 0.837209302326.............................................. [Bureau de Recherches Géologiques et Minières] was compared to [Institut de Recherches Géologiques et Minières] 
+	http://www.grid.ac/institutes/grid.16117.30................. http://risis.eu/orgref_20170703/resource/41278036........... 1........................................................... [Bureau de Recherches Géologiques et Minières] was compared to [Bureau de Recherches Géologiques et Minières] 
+	http://risis.eu/orgref_20170703/resource/41278036........... http://www.grid.ac/institutes/grid.16117.30................. 1........................................................... [Bureau de Recherches Géologiques et Minières] was compared to [Bureau de Recherches Géologiques et Minières] 
+	http://www.grid.ac/institutes/grid.473396.c................. http://risis.eu/orgref_20170703/resource/41278036........... 0.837209302326.............................................. [Institut de Recherches Géologiques et Minières] was compared to [Bureau de Recherches Géologiques et Minières] 
+	http://risis.eu/orgref_20170703/resource/41278036........... http://www.grid.ac/institutes/grid.473396.c................. 0.837209302326.............................................. [Institut de Recherches Géologiques et Minières] was compared to [Bureau de Recherches Géologiques et Minières] 
+	http://www.grid.ac/institutes/grid.16117.30................. http://risis.eu/cordisH2020/resource/participant_999993662.. 1........................................................... [Bureau de Recherches Géologiques et Minières] was compared to [BUREAU DE RECHERCHES GEOLOGIQUES ET MINIERES] 
+	http://risis.eu/cordisH2020/resource/participant_999993662.. http://www.grid.ac/institutes/grid.16117.30................. 1........................................................... [Bureau de Recherches Géologiques et Minières] was compared to [BUREAU DE RECHERCHES GEOLOGIQUES ET MINIERES] 
+	http://risis.eu/orgref_20170703/resource/41278036........... http://risis.eu/cordisH2020/resource/participant_999993662.. 1........................................................... [Bureau de Recherches Géologiques et Minières] was compared to [BUREAU DE RECHERCHES GEOLOGIQUES ET MINIERES] 
+	http://risis.eu/cordisH2020/resource/participant_999993662.. http://risis.eu/orgref_20170703/resource/41278036........... 1........................................................... [Bureau de Recherches Géologiques et Minières] was compared to [BUREAU DE RECHERCHES GEOLOGIQUES ET MINIERES] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.16117.30................. 1.938281.................................................... 
+	http://www.grid.ac/institutes/grid.16117.30................. 47.82994.................................................... 
+	http://www.grid.ac/institutes/grid.16117.30................. http://www.brgm.eu/......................................... 
+	http://www.grid.ac/institutes/grid.16117.30................. Geological and mining research bureau....................... 
+	http://www.grid.ac/institutes/grid.16117.30................. Bureau de Recherches Géologiques et Minières.............. 
+	http://www.grid.ac/institutes/grid.473396.c................. 11.515249................................................... 
+	http://www.grid.ac/institutes/grid.473396.c................. 3.863864.................................................... 
+	http://www.grid.ac/institutes/grid.473396.c................. http://www.irgm-cameroun.org/............................... 
+	http://www.grid.ac/institutes/grid.473396.c................. Institut de Recherches Géologiques et Minières............ 
+	http://risis.eu/orgref_20170703/resource/41278036........... http://en.wikipedia.org/wiki?curid=41278036................. 
+	http://risis.eu/orgref_20170703/resource/41278036........... http://www.wikidata.org/wiki/Q138691........................ 
+	http://risis.eu/orgref_20170703/resource/41278036........... http://www.brgm.eu.......................................... 
+	http://risis.eu/orgref_20170703/resource/41278036........... Bureau de Recherches Géologiques et Minières.............. 
+	http://risis.eu/cordisH2020/resource/participant_999993662.. http://risis.eu/cordisH2020/resource/www.brgm.fr............ 
+	http://risis.eu/cordisH2020/resource/participant_999993662.. BUREAU DE RECHERCHES GEOLOGIQUES ET MINIERES................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.473396.c', '1:grid.16117.30'), ('3:41278036', '1:grid.16117.30'), ('3:41278036', '2:grid.473396.c'), ('4:participant_999993662', '1:grid.16117.30'), ('4:participant_999993662', '3:41278036')]
+	MAX DISTANCE:                   : 0.833
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 2.16666666667
+	AVERAGE NODE CONNECTIVITY RATIO : 0.722222222222
+	BRIDGES                         : 0
+	CLOSURE                         : 0.833
+	DIAMETER                        : 2
+	QUALITY                         : 0.223
+	QUALITY USED                    : 0.223
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223

@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 13071 
+NAME    N1200112428
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/1977031>
+	<http://risis.eu/leidenRanking_2015/resource/431>
+	<http://www.grid.ac/institutes/grid.7548.e>
+	<http://risis.eu/orgreg_20170718/resource/IT0042>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/1977031.. http://www.grid.ac/institutes/grid.7548.e......... 1................................................. [University of Modena and Reggio Emilia] was compared to [University of Modena and Reggio Emilia] 
+	http://www.grid.ac/institutes/grid.7548.e......... http://risis.eu/orgref_20170703/resource/1977031.. 1................................................. [University of Modena and Reggio Emilia] was compared to [University of Modena and Reggio Emilia] 
+	http://risis.eu/leidenRanking_2015/resource/431... http://www.grid.ac/institutes/grid.7548.e......... 1................................................. [University of Modena and Reggio Emilia] was compared to [University of Modena and Reggio Emilia] 
+	http://www.grid.ac/institutes/grid.7548.e......... http://risis.eu/leidenRanking_2015/resource/431... 1................................................. [University of Modena and Reggio Emilia] was compared to [University of Modena and Reggio Emilia] 
+	http://risis.eu/orgref_20170703/resource/1977031.. http://risis.eu/leidenRanking_2015/resource/431... 1................................................. [University of Modena and Reggio Emilia] was compared to [University of Modena and Reggio Emilia] 
+	http://risis.eu/leidenRanking_2015/resource/431... http://risis.eu/orgref_20170703/resource/1977031.. 1................................................. [University of Modena and Reggio Emilia] was compared to [University of Modena and Reggio Emilia] 
+	http://risis.eu/leidenRanking_2015/resource/431... http://risis.eu/orgreg_20170718/resource/IT0042... 1................................................. [University of Modena and Reggio Emilia (UNIMORE)] was compared to [University of Modena and Reggio Emilia] 
+	http://risis.eu/orgreg_20170718/resource/IT0042... http://risis.eu/leidenRanking_2015/resource/431... 1................................................. [University of Modena and Reggio Emilia (UNIMORE)] was compared to [University of Modena and Reggio Emilia] 
+	http://risis.eu/orgref_20170703/resource/1977031.. http://risis.eu/orgreg_20170718/resource/IT0042... 1................................................. [University of Modena and Reggio Emilia] was compared to [University of Modena and Reggio Emilia (UNIMORE)] 
+	http://risis.eu/orgreg_20170718/resource/IT0042... http://risis.eu/orgref_20170703/resource/1977031.. 1................................................. [University of Modena and Reggio Emilia] was compared to [University of Modena and Reggio Emilia (UNIMORE)] 
+	http://www.grid.ac/institutes/grid.7548.e......... http://risis.eu/orgreg_20170718/resource/IT0042... 1................................................. [University of Modena and Reggio Emilia] was compared to [University of Modena and Reggio Emilia (UNIMORE)] 
+	http://risis.eu/orgreg_20170718/resource/IT0042... http://www.grid.ac/institutes/grid.7548.e......... 1................................................. [University of Modena and Reggio Emilia] was compared to [University of Modena and Reggio Emilia (UNIMORE)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/1977031.. http://en.wikipedia.org/wiki?curid=1977031........ 
+	http://risis.eu/orgref_20170703/resource/1977031.. http://www.wikidata.org/wiki/Q1243705............. 
+	http://risis.eu/orgref_20170703/resource/1977031.. http://www.unimore.it............................. 
+	http://risis.eu/orgref_20170703/resource/1977031.. University of Modena and Reggio Emilia............ 
+	http://risis.eu/leidenRanking_2015/resource/431... University of Modena and Reggio Emilia............ 
+	http://www.grid.ac/institutes/grid.7548.e......... 10.944234......................................... 
+	http://www.grid.ac/institutes/grid.7548.e......... 44.631924......................................... 
+	http://www.grid.ac/institutes/grid.7548.e......... http://www.unimore.it/............................ 
+	http://www.grid.ac/institutes/grid.7548.e......... University of Modena and Reggio Emilia............ 
+	http://risis.eu/orgreg_20170718/resource/IT0042... 44.631968......................................... 
+	http://risis.eu/orgreg_20170718/resource/IT0042... 10.943805......................................... 
+	http://risis.eu/orgreg_20170718/resource/IT0042... http://www.unimo.it............................... 
+	http://risis.eu/orgreg_20170718/resource/IT0042... University of Modena and Reggio Emilia (UNIMORE).. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:1977031', '3:grid.7548.e'), ('2:431', '1:1977031'), ('2:431', '4:IT0042'), ('3:grid.7548.e', '2:431'), ('4:IT0042', '1:1977031'), ('4:IT0042', '3:grid.7548.e')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

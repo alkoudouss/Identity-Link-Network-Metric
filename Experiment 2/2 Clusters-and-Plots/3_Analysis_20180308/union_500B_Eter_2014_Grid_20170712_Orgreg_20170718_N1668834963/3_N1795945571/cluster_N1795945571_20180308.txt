@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 712 
+NAME    N1795945571
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/DE0088>
+	<http://www.grid.ac/institutes/grid.434484.b>
+	<http://www.grid.ac/institutes/grid.461816.c>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/DE0088.... http://www.grid.ac/institutes/grid.434484.b.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/DE0088.... http://www.grid.ac/institutes/grid.461816.c.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.434484.b.. http://risis.eu/eter_2014/resource/DE0088.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.461816.c.. http://risis.eu/eter_2014/resource/DE0088.... 1............................................ Near each other by at most 500 meter(s)...... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/DE0088.... 49,988924.................................... 
+	http://risis.eu/eter_2014/resource/DE0088.... 8,271669..................................... 
+	http://risis.eu/eter_2014/resource/DE0088.... www.unimedizin-mainz.de...................... 
+	http://risis.eu/eter_2014/resource/DE0088.... a............................................ 
+	http://risis.eu/eter_2014/resource/DE0088.... University Medical Center of the Johannes Gutenberg University Mainz 
+	http://risis.eu/eter_2014/resource/DE0088.... Universitätsmedizin der Johannes Gutenberg-Universität Mainz 
+	http://www.grid.ac/institutes/grid.434484.b.. 8.271412..................................... 
+	http://www.grid.ac/institutes/grid.434484.b.. 49.987717.................................... 
+	http://www.grid.ac/institutes/grid.434484.b.. http://biontech.de/.......................... 
+	http://www.grid.ac/institutes/grid.434484.b.. BioNTech (Germany)........................... 
+	http://www.grid.ac/institutes/grid.461816.c.. 8.269348..................................... 
+	http://www.grid.ac/institutes/grid.461816.c.. 49.988995.................................... 
+	http://www.grid.ac/institutes/grid.461816.c.. http://tron-mainz.de/........................ 
+	http://www.grid.ac/institutes/grid.461816.c.. Translational Oncology....................... 
+
+NETWORK ANALYSIS
+	NETWORK [('N1536860695-DE0088', 'N1795945571-grid.461816.c'), ('N1536860695-DE0088', 'N1430189037-grid.434484.b')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

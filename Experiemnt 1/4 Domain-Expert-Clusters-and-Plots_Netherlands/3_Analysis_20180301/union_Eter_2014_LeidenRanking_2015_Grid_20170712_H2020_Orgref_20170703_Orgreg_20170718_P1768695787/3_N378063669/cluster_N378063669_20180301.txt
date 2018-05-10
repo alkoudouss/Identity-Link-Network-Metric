@@ -1,0 +1,50 @@
+SIZE    3   
+CLUSTER 16649 
+NAME    N378063669
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.421684.d>
+	<http://www.grid.ac/institutes/grid.443889.a>
+	<http://www.grid.ac/institutes/grid.424683.f>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.421684.d.. http://www.grid.ac/institutes/grid.424683.f.. 1............................................ [Fugro (United States)] was compared to [Fugro (Netherlands)] 
+	http://www.grid.ac/institutes/grid.421684.d.. http://www.grid.ac/institutes/grid.443889.a.. 1............................................ [Fugro (United States)] was compared to [Fugro (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.443889.a.. http://www.grid.ac/institutes/grid.421684.d.. 1............................................ [Fugro (United States)] was compared to [Fugro (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.443889.a.. http://www.grid.ac/institutes/grid.424683.f.. 1............................................ [Fugro (Netherlands)] was compared to [Fugro (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.424683.f.. http://www.grid.ac/institutes/grid.443889.a.. 1............................................ [Fugro (Netherlands)] was compared to [Fugro (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.424683.f.. http://www.grid.ac/institutes/grid.421684.d.. 1............................................ [Fugro (United States)] was compared to [Fugro (Netherlands)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.421684.d.. -95.49684.................................... 
+	http://www.grid.ac/institutes/grid.421684.d.. 29.714579.................................... 
+	http://www.grid.ac/institutes/grid.421684.d.. https://www.fugro.com/....................... 
+	http://www.grid.ac/institutes/grid.421684.d.. Fugro (United States)........................ 
+	http://www.grid.ac/institutes/grid.443889.a.. Fugro (United Kingdom)....................... 
+	http://www.grid.ac/institutes/grid.424683.f.. Fugro (Netherlands).......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('N181459535-grid.421684.d', 'N239896101-grid.424683.f'), ('N181459535-grid.421684.d', 'N378063669-grid.443889.a'), ('N239896101-grid.424683.f', 'N378063669-grid.443889.a')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

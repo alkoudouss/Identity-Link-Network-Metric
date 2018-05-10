@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 8308 
+NAME    N737566577
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.250514.7>
+	<http://risis.eu/leidenRanking_2015/resource/9879>
+	<http://risis.eu/orgref_20170703/resource/11007310>
+	<http://www.grid.ac/institutes/grid.481106.a>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.250514.7........ http://www.grid.ac/institutes/grid.481106.a........ 0.80487804878...................................... [Pennington Biomedical Research Center] was compared to [Pennington Biomedical Research Foundation] 
+	http://www.grid.ac/institutes/grid.481106.a........ http://www.grid.ac/institutes/grid.250514.7........ 0.80487804878...................................... [Pennington Biomedical Research Center] was compared to [Pennington Biomedical Research Foundation] 
+	http://www.grid.ac/institutes/grid.250514.7........ http://risis.eu/orgref_20170703/resource/11007310.. 1.................................................. [Pennington Biomedical Research Center] was compared to [Pennington Biomedical Research Center] 
+	http://risis.eu/orgref_20170703/resource/11007310.. http://www.grid.ac/institutes/grid.250514.7........ 1.................................................. [Pennington Biomedical Research Center] was compared to [Pennington Biomedical Research Center] 
+	http://risis.eu/orgref_20170703/resource/11007310.. http://www.grid.ac/institutes/grid.481106.a........ 0.80487804878...................................... [Pennington Biomedical Research Foundation] was compared to [Pennington Biomedical Research Center] 
+	http://www.grid.ac/institutes/grid.481106.a........ http://risis.eu/orgref_20170703/resource/11007310.. 0.80487804878...................................... [Pennington Biomedical Research Foundation] was compared to [Pennington Biomedical Research Center] 
+	http://www.grid.ac/institutes/grid.250514.7........ http://risis.eu/leidenRanking_2015/resource/9879... 1.................................................. [Pennington Biomedical Research Center] was compared to [Pennington Biomedical Research Center] 
+	http://risis.eu/leidenRanking_2015/resource/9879... http://www.grid.ac/institutes/grid.250514.7........ 1.................................................. [Pennington Biomedical Research Center] was compared to [Pennington Biomedical Research Center] 
+	http://risis.eu/leidenRanking_2015/resource/9879... http://www.grid.ac/institutes/grid.481106.a........ 0.80487804878...................................... [Pennington Biomedical Research Foundation] was compared to [Pennington Biomedical Research Center] 
+	http://www.grid.ac/institutes/grid.481106.a........ http://risis.eu/leidenRanking_2015/resource/9879... 0.80487804878...................................... [Pennington Biomedical Research Foundation] was compared to [Pennington Biomedical Research Center] 
+	http://risis.eu/leidenRanking_2015/resource/9879... http://risis.eu/orgref_20170703/resource/11007310.. 1.................................................. [Pennington Biomedical Research Center] was compared to [Pennington Biomedical Research Center] 
+	http://risis.eu/orgref_20170703/resource/11007310.. http://risis.eu/leidenRanking_2015/resource/9879... 1.................................................. [Pennington Biomedical Research Center] was compared to [Pennington Biomedical Research Center] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.250514.7........ -91.12266.......................................... 
+	http://www.grid.ac/institutes/grid.250514.7........ 30.403193.......................................... 
+	http://www.grid.ac/institutes/grid.250514.7........ http://www.pbrc.edu/............................... 
+	http://www.grid.ac/institutes/grid.250514.7........ Pennington Biomedical Research Center.............. 
+	http://risis.eu/leidenRanking_2015/resource/9879... Pennington Biomedical Research Center.............. 
+	http://risis.eu/orgref_20170703/resource/11007310.. http://en.wikipedia.org/wiki?curid=11007310........ 
+	http://risis.eu/orgref_20170703/resource/11007310.. http://www.wikidata.org/wiki/Q7163465.............. 
+	http://risis.eu/orgref_20170703/resource/11007310.. http://www.pbrc.edu/default.asp.................... 
+	http://risis.eu/orgref_20170703/resource/11007310.. Pennington Biomedical Research Center.............. 
+	http://www.grid.ac/institutes/grid.481106.a........ -91.12289.......................................... 
+	http://www.grid.ac/institutes/grid.481106.a........ 30.40292........................................... 
+	http://www.grid.ac/institutes/grid.481106.a........ https://pbrf.org/.................................. 
+	http://www.grid.ac/institutes/grid.481106.a........ Pennington Biomedical Research Foundation.......... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:9879', '1:grid.250514.7'), ('2:9879', '4:grid.481106.a'), ('3:11007310', '1:grid.250514.7'), ('3:11007310', '2:9879'), ('3:11007310', '4:grid.481106.a'), ('4:grid.481106.a', '1:grid.250514.7')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

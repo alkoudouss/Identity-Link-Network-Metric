@@ -1,0 +1,64 @@
+SIZE    3   
+CLUSTER 1713 
+NAME    N1763801832
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/PT0006>
+	<http://risis.eu/orgreg_20170718/resource/PT0006>
+	<http://www.grid.ac/institutes/grid.8389.a>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/eter_2014/resource/PT0006........ http://www.grid.ac/institutes/grid.8389.a........ 1................................................ [university evora] was compared to [university evora] 
+	http://risis.eu/eter_2014/resource/PT0006........ http://www.grid.ac/institutes/grid.8389.a........ 0.777777777778................................... [universidade evora] was compared to [university evora] 
+	http://risis.eu/eter_2014/resource/PT0006........ http://risis.eu/orgreg_20170718/resource/PT0006.. 1................................................ [university evora] was compared to [university evora] 
+	http://risis.eu/eter_2014/resource/PT0006........ http://risis.eu/orgreg_20170718/resource/PT0006.. 0.777777777778................................... [university evora] was compared to [universidade evora] 
+	http://risis.eu/orgreg_20170718/resource/PT0006.. http://www.grid.ac/institutes/grid.8389.a........ 1................................................ [design academy eindhoven] was compared to [design academy eindhoven] 
+	http://risis.eu/orgreg_20170718/resource/PT0006.. http://www.grid.ac/institutes/grid.8389.a........ 1................................................ [university evora] was compared to [university evora] 
+	http://risis.eu/orgreg_20170718/resource/PT0006.. http://risis.eu/eter_2014/resource/PT0006........ 1................................................ [university evora] was compared to [university evora] 
+	http://risis.eu/orgreg_20170718/resource/PT0006.. http://risis.eu/eter_2014/resource/PT0006........ 0.777777777778................................... [university evora] was compared to [universidade evora] 
+	http://www.grid.ac/institutes/grid.8389.a........ http://risis.eu/eter_2014/resource/PT0006........ 1................................................ [university evora] was compared to [university evora] 
+	http://www.grid.ac/institutes/grid.8389.a........ http://risis.eu/eter_2014/resource/PT0006........ 0.777777777778................................... [universidade evora] was compared to [university evora] 
+	http://www.grid.ac/institutes/grid.8389.a........ http://risis.eu/orgreg_20170718/resource/PT0006.. 1................................................ [design academy eindhoven] was compared to [design academy eindhoven] 
+	http://www.grid.ac/institutes/grid.8389.a........ http://risis.eu/orgreg_20170718/resource/PT0006.. 1................................................ [university evora] was compared to [university evora] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/eter_2014/resource/PT0006........ 38,5707119....................................... 
+	http://risis.eu/eter_2014/resource/PT0006........ -7,9093074....................................... 
+	http://risis.eu/eter_2014/resource/PT0006........ http://www.uevora.pt/............................ 
+	http://risis.eu/eter_2014/resource/PT0006........ a................................................ 
+	http://risis.eu/eter_2014/resource/PT0006........ University of Évora............................. 
+	http://risis.eu/eter_2014/resource/PT0006........ Universidade de Évora........................... 
+	http://risis.eu/orgreg_20170718/resource/PT0006.. -7.9093074....................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0006.. 38.5707119....................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0006.. http://www.uevora.pt/............................ 
+	http://risis.eu/orgreg_20170718/resource/PT0006.. University of Évora............................. 
+	http://www.grid.ac/institutes/grid.8389.a........ -7.9044.......................................... 
+	http://www.grid.ac/institutes/grid.8389.a........ 38.5731.......................................... 
+	http://www.grid.ac/institutes/grid.8389.a........ http://www.uevora.pt/............................ 
+	http://www.grid.ac/institutes/grid.8389.a........ University of Évora............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('N1763801832-PT0006', 'N703980495-PT0006'), ('N1763801832-PT0006', 'P1204429071-grid.8389.a'), ('N703980495-PT0006', 'P1204429071-grid.8389.a')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

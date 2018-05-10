@@ -1,0 +1,56 @@
+SIZE    4   
+CLUSTER 8425 
+NAME    N376700534
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.441238.8>
+	<http://risis.eu/orgref_20170703/resource/1557139>
+	<http://www.grid.ac/institutes/grid.10729.3d>
+	<http://risis.eu/orgref_20170703/resource/2773699>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.10729.3d....... http://risis.eu/orgref_20170703/resource/2773699.. 1................................................. [National University of Costa Rica] was compared to [National University of Costa Rica] 
+	http://risis.eu/orgref_20170703/resource/2773699.. http://www.grid.ac/institutes/grid.10729.3d....... 1................................................. [National University of Costa Rica] was compared to [National University of Costa Rica] 
+	http://www.grid.ac/institutes/grid.441238.8....... http://risis.eu/orgref_20170703/resource/1557139.. 1................................................. [Latin University of Costa Rica] was compared to [Latin University of Costa Rica] 
+	http://risis.eu/orgref_20170703/resource/1557139.. http://www.grid.ac/institutes/grid.441238.8....... 1................................................. [Latin University of Costa Rica] was compared to [Latin University of Costa Rica] 
+	http://risis.eu/orgref_20170703/resource/1557139.. http://risis.eu/orgref_20170703/resource/2773699.. 0.866666666667.................................... [Latin University of Costa Rica] was compared to [National University of Costa Rica] 
+	http://risis.eu/orgref_20170703/resource/2773699.. http://risis.eu/orgref_20170703/resource/1557139.. 0.866666666667.................................... [Latin University of Costa Rica] was compared to [National University of Costa Rica] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.441238.8....... Latin University of Costa Rica.................... 
+	http://risis.eu/orgref_20170703/resource/1557139.. http://en.wikipedia.org/wiki?curid=1557139........ 
+	http://risis.eu/orgref_20170703/resource/1557139.. http://www.wikidata.org/wiki/Q6496487............. 
+	http://risis.eu/orgref_20170703/resource/1557139.. Latin University of Costa Rica.................... 
+	http://www.grid.ac/institutes/grid.10729.3d....... -84.1115.......................................... 
+	http://www.grid.ac/institutes/grid.10729.3d....... 9.999............................................. 
+	http://www.grid.ac/institutes/grid.10729.3d....... http://www.una.ac.cr/............................. 
+	http://www.grid.ac/institutes/grid.10729.3d....... National University of Costa Rica................. 
+	http://risis.eu/orgref_20170703/resource/2773699.. http://en.wikipedia.org/wiki?curid=2773699........ 
+	http://risis.eu/orgref_20170703/resource/2773699.. http://www.wikidata.org/wiki/Q31867............... 
+	http://risis.eu/orgref_20170703/resource/2773699.. National University of Costa Rica................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1557139', '1:grid.441238.8'), ('4:2773699', '2:1557139'), ('4:2773699', '3:grid.10729.3d')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

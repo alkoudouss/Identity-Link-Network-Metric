@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 9362 
+NAME    N760626266
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/IL2006>
+	<http://risis.eu/leidenRanking_2015/resource/1936>
+	<http://www.grid.ac/institutes/grid.415593.f>
+	<http://risis.eu/cordisH2020/resource/participant_925740550>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/leidenRanking_2015/resource/1936............ http://www.grid.ac/institutes/grid.415593.f................. 1........................................................... [Shaare Zedek Medical Center] was compared to [Shaare Zedek Medical Center] 
+	http://www.grid.ac/institutes/grid.415593.f................. http://risis.eu/leidenRanking_2015/resource/1936............ 1........................................................... [Shaare Zedek Medical Center] was compared to [Shaare Zedek Medical Center] 
+	http://www.grid.ac/institutes/grid.415593.f................. http://risis.eu/cordisH2020/resource/participant_925740550.. 1........................................................... [Shaare Zedek Medical Center] was compared to [SHAARE ZEDEK MEDICAL CENTER] 
+	http://risis.eu/cordisH2020/resource/participant_925740550.. http://www.grid.ac/institutes/grid.415593.f................. 1........................................................... [Shaare Zedek Medical Center] was compared to [SHAARE ZEDEK MEDICAL CENTER] 
+	http://risis.eu/leidenRanking_2015/resource/1936............ http://risis.eu/cordisH2020/resource/participant_925740550.. 1........................................................... [SHAARE ZEDEK MEDICAL CENTER] was compared to [Shaare Zedek Medical Center] 
+	http://risis.eu/cordisH2020/resource/participant_925740550.. http://risis.eu/leidenRanking_2015/resource/1936............ 1........................................................... [SHAARE ZEDEK MEDICAL CENTER] was compared to [Shaare Zedek Medical Center] 
+	http://risis.eu/orgreg_20170718/resource/IL2006............. http://risis.eu/leidenRanking_2015/resource/1936............ 1........................................................... [Shaare Zedek Medical Center] was compared to [Shaare Zedek Medical Center] 
+	http://risis.eu/leidenRanking_2015/resource/1936............ http://risis.eu/orgreg_20170718/resource/IL2006............. 1........................................................... [Shaare Zedek Medical Center] was compared to [Shaare Zedek Medical Center] 
+	http://risis.eu/orgreg_20170718/resource/IL2006............. http://risis.eu/cordisH2020/resource/participant_925740550.. 1........................................................... [Shaare Zedek Medical Center] was compared to [SHAARE ZEDEK MEDICAL CENTER] 
+	http://risis.eu/cordisH2020/resource/participant_925740550.. http://risis.eu/orgreg_20170718/resource/IL2006............. 1........................................................... [Shaare Zedek Medical Center] was compared to [SHAARE ZEDEK MEDICAL CENTER] 
+	http://risis.eu/orgreg_20170718/resource/IL2006............. http://www.grid.ac/institutes/grid.415593.f................. 1........................................................... [Shaare Zedek Medical Center] was compared to [Shaare Zedek Medical Center] 
+	http://www.grid.ac/institutes/grid.415593.f................. http://risis.eu/orgreg_20170718/resource/IL2006............. 1........................................................... [Shaare Zedek Medical Center] was compared to [Shaare Zedek Medical Center] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgreg_20170718/resource/IL2006............. m........................................................... 
+	http://risis.eu/orgreg_20170718/resource/IL2006............. https://www.szmc.org.il/eng/home/........................... 
+	http://risis.eu/orgreg_20170718/resource/IL2006............. Shaare Zedek Medical Center................................. 
+	http://risis.eu/leidenRanking_2015/resource/1936............ Shaare Zedek Medical Center................................. 
+	http://www.grid.ac/institutes/grid.415593.f................. 35.185...................................................... 
+	http://www.grid.ac/institutes/grid.415593.f................. 31.773056................................................... 
+	http://www.grid.ac/institutes/grid.415593.f................. http://www.szmc.org.il/Default.aspx?alias=www.szmc.org.il/en 
+	http://www.grid.ac/institutes/grid.415593.f................. Merkaz Refu'i Sha'arei Tzedek............................... 
+	http://www.grid.ac/institutes/grid.415593.f................. Shaare Zedek Medical Center................................. 
+	http://risis.eu/cordisH2020/resource/participant_925740550.. SHAARE ZEDEK MEDICAL CENTER................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:IL2006', '3:grid.415593.f'), ('2:1936', '1:IL2006'), ('2:1936', '3:grid.415593.f'), ('2:1936', '4:participant_925740550'), ('4:participant_925740550', '1:IL2006'), ('4:participant_925740550', '3:grid.415593.f')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

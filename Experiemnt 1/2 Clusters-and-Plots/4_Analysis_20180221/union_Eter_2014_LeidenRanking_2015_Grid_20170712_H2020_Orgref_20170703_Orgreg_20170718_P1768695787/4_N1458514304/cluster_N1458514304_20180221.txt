@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 14771 
+NAME    N1458514304
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/30858067>
+	<http://risis.eu/orgreg_20170718/resource/IT0040>
+	<http://risis.eu/leidenRanking_2015/resource/430>
+	<http://www.grid.ac/institutes/grid.7563.7>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/30858067.. http://www.grid.ac/institutes/grid.7563.7.......... 1.................................................. [University of Milano-Bicocca] was compared to [University of Milano-Bicocca] 
+	http://www.grid.ac/institutes/grid.7563.7.......... http://risis.eu/orgref_20170703/resource/30858067.. 1.................................................. [University of Milano-Bicocca] was compared to [University of Milano-Bicocca] 
+	http://risis.eu/leidenRanking_2015/resource/430.... http://www.grid.ac/institutes/grid.7563.7.......... 1.................................................. [University of Milano-Bicocca] was compared to [University of Milano-Bicocca] 
+	http://www.grid.ac/institutes/grid.7563.7.......... http://risis.eu/leidenRanking_2015/resource/430.... 1.................................................. [University of Milano-Bicocca] was compared to [University of Milano-Bicocca] 
+	http://risis.eu/orgref_20170703/resource/30858067.. http://risis.eu/leidenRanking_2015/resource/430.... 1.................................................. [University of Milano-Bicocca] was compared to [University of Milano-Bicocca] 
+	http://risis.eu/leidenRanking_2015/resource/430.... http://risis.eu/orgref_20170703/resource/30858067.. 1.................................................. [University of Milano-Bicocca] was compared to [University of Milano-Bicocca] 
+	http://risis.eu/orgreg_20170718/resource/IT0040.... http://risis.eu/leidenRanking_2015/resource/430.... 1.................................................. [University of Milano-Bicocca] was compared to [University of Milano-Bicocca] 
+	http://risis.eu/leidenRanking_2015/resource/430.... http://risis.eu/orgreg_20170718/resource/IT0040.... 1.................................................. [University of Milano-Bicocca] was compared to [University of Milano-Bicocca] 
+	http://risis.eu/orgref_20170703/resource/30858067.. http://risis.eu/orgreg_20170718/resource/IT0040.... 1.................................................. [University of Milano-Bicocca] was compared to [University of Milano-Bicocca] 
+	http://risis.eu/orgreg_20170718/resource/IT0040.... http://risis.eu/orgref_20170703/resource/30858067.. 1.................................................. [University of Milano-Bicocca] was compared to [University of Milano-Bicocca] 
+	http://risis.eu/orgreg_20170718/resource/IT0040.... http://www.grid.ac/institutes/grid.7563.7.......... 1.................................................. [University of Milano-Bicocca] was compared to [University of Milano-Bicocca] 
+	http://www.grid.ac/institutes/grid.7563.7.......... http://risis.eu/orgreg_20170718/resource/IT0040.... 1.................................................. [University of Milano-Bicocca] was compared to [University of Milano-Bicocca] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/30858067.. http://en.wikipedia.org/wiki?curid=30858067........ 
+	http://risis.eu/orgref_20170703/resource/30858067.. http://www.wikidata.org/wiki/Q1073674.............. 
+	http://risis.eu/orgref_20170703/resource/30858067.. http://www.unimib.it............................... 
+	http://risis.eu/orgref_20170703/resource/30858067.. University of Milano-Bicocca....................... 
+	http://risis.eu/orgreg_20170718/resource/IT0040.... 45.517424.......................................... 
+	http://risis.eu/orgreg_20170718/resource/IT0040.... 9.218408........................................... 
+	http://risis.eu/orgreg_20170718/resource/IT0040.... http://www.unimib.it............................... 
+	http://risis.eu/orgreg_20170718/resource/IT0040.... University of Milano-Bicocca....................... 
+	http://risis.eu/leidenRanking_2015/resource/430.... University of Milano-Bicocca....................... 
+	http://www.grid.ac/institutes/grid.7563.7.......... 9.213232........................................... 
+	http://www.grid.ac/institutes/grid.7563.7.......... 45.518158.......................................... 
+	http://www.grid.ac/institutes/grid.7563.7.......... http://www.unimib.it/go/102/Home/English........... 
+	http://www.grid.ac/institutes/grid.7563.7.......... University of Milano-Bicocca....................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:30858067', '4:grid.7563.7'), ('2:IT0040', '1:30858067'), ('3:430', '1:30858067'), ('3:430', '2:IT0040'), ('3:430', '4:grid.7563.7'), ('4:grid.7563.7', '2:IT0040')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

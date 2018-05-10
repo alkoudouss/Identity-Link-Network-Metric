@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 745 
+NAME    N2091411187
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/3394421>
+	<http://risis.eu/orgref_20170703/resource/38885792>
+	<http://www.grid.ac/institutes/grid.412782.a>
+	<http://www.grid.ac/institutes/grid.449586.2>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/3394421... http://www.grid.ac/institutes/grid.412782.a........ 1.................................................. [University of Sargodha] was compared to [University of Sargodha] 
+	http://www.grid.ac/institutes/grid.412782.a........ http://risis.eu/orgref_20170703/resource/3394421... 1.................................................. [University of Sargodha] was compared to [University of Sargodha] 
+	http://risis.eu/orgref_20170703/resource/38885792.. http://www.grid.ac/institutes/grid.449586.2........ 1.................................................. [Sarguja University] was compared to [Sarguja University] 
+	http://www.grid.ac/institutes/grid.449586.2........ http://risis.eu/orgref_20170703/resource/38885792.. 1.................................................. [Sarguja University] was compared to [Sarguja University] 
+	http://risis.eu/orgref_20170703/resource/3394421... http://risis.eu/orgref_20170703/resource/38885792.. 0.842105263158..................................... [University of Sargodha] was compared to [Sarguja University] 
+	http://risis.eu/orgref_20170703/resource/38885792.. http://risis.eu/orgref_20170703/resource/3394421... 0.842105263158..................................... [University of Sargodha] was compared to [Sarguja University] 
+	http://www.grid.ac/institutes/grid.412782.a........ http://www.grid.ac/institutes/grid.449586.2........ 0.842105263158..................................... [University of Sargodha] was compared to [Sarguja University] 
+	http://www.grid.ac/institutes/grid.449586.2........ http://www.grid.ac/institutes/grid.412782.a........ 0.842105263158..................................... [University of Sargodha] was compared to [Sarguja University] 
+	http://risis.eu/orgref_20170703/resource/38885792.. http://www.grid.ac/institutes/grid.412782.a........ 0.842105263158..................................... [University of Sargodha] was compared to [Sarguja University] 
+	http://www.grid.ac/institutes/grid.412782.a........ http://risis.eu/orgref_20170703/resource/38885792.. 0.842105263158..................................... [University of Sargodha] was compared to [Sarguja University] 
+	http://risis.eu/orgref_20170703/resource/3394421... http://www.grid.ac/institutes/grid.449586.2........ 0.842105263158..................................... [Sarguja University] was compared to [University of Sargodha] 
+	http://www.grid.ac/institutes/grid.449586.2........ http://risis.eu/orgref_20170703/resource/3394421... 0.842105263158..................................... [Sarguja University] was compared to [University of Sargodha] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/3394421... http://en.wikipedia.org/wiki?curid=3394421......... 
+	http://risis.eu/orgref_20170703/resource/3394421... http://www.wikidata.org/wiki/Q7896271.............. 
+	http://risis.eu/orgref_20170703/resource/3394421... http://www.uos.edu.pk.............................. 
+	http://risis.eu/orgref_20170703/resource/3394421... University of Sargodha............................. 
+	http://risis.eu/orgref_20170703/resource/38885792.. http://en.wikipedia.org/wiki?curid=38885792........ 
+	http://risis.eu/orgref_20170703/resource/38885792.. http://www.wikidata.org/wiki/Q14957042............. 
+	http://risis.eu/orgref_20170703/resource/38885792.. http://www.sargujauniversity.in.................... 
+	http://risis.eu/orgref_20170703/resource/38885792.. Sarguja University................................. 
+	http://www.grid.ac/institutes/grid.412782.a........ 72.6838............................................ 
+	http://www.grid.ac/institutes/grid.412782.a........ 32.07437........................................... 
+	http://www.grid.ac/institutes/grid.412782.a........ http://uos.edu.pk/................................. 
+	http://www.grid.ac/institutes/grid.412782.a........ University of Sargodha............................. 
+	http://www.grid.ac/institutes/grid.449586.2........ Sarguja University................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:3394421', '4:grid.449586.2'), ('2:38885792', '1:3394421'), ('2:38885792', '3:grid.412782.a'), ('2:38885792', '4:grid.449586.2'), ('3:grid.412782.a', '1:3394421'), ('4:grid.449586.2', '3:grid.412782.a')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

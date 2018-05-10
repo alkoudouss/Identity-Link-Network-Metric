@@ -1,0 +1,50 @@
+SIZE    3   
+CLUSTER 1204 
+NAME    N2032825682
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.9691.7>
+	<http://www.grid.ac/institutes/grid.423744.2>
+	<http://www.grid.ac/institutes/grid.423742.4>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.9691.7.... http://www.grid.ac/institutes/grid.423742.4.. 1............................................ [Ricardo AEA (Germany)] was compared to [Ricardo AEA (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.9691.7.... http://www.grid.ac/institutes/grid.423744.2.. 1............................................ [Ricardo AEA (Netherlands)] was compared to [Ricardo AEA (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.423744.2.. http://www.grid.ac/institutes/grid.9691.7.... 1............................................ [Ricardo AEA (Netherlands)] was compared to [Ricardo AEA (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.423744.2.. http://www.grid.ac/institutes/grid.423742.4.. 1............................................ [Ricardo AEA (Germany)] was compared to [Ricardo AEA (Netherlands)] 
+	http://www.grid.ac/institutes/grid.423742.4.. http://www.grid.ac/institutes/grid.9691.7.... 1............................................ [Ricardo AEA (Germany)] was compared to [Ricardo AEA (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.423742.4.. http://www.grid.ac/institutes/grid.423744.2.. 1............................................ [Ricardo AEA (Germany)] was compared to [Ricardo AEA (Netherlands)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.9691.7.... -1.307025.................................... 
+	http://www.grid.ac/institutes/grid.9691.7.... 51.5775...................................... 
+	http://www.grid.ac/institutes/grid.9691.7.... http://ee.ricardo.com/cms/................... 
+	http://www.grid.ac/institutes/grid.9691.7.... Ricardo AEA (United Kingdom)................. 
+	http://www.grid.ac/institutes/grid.423744.2.. Ricardo AEA (Netherlands).................... 
+	http://www.grid.ac/institutes/grid.423742.4.. Ricardo AEA (Germany)........................ 
+
+NETWORK ANALYSIS
+	NETWORK [('N892408450-grid.423742.4', 'P666110298-grid.9691.7'), ('N892408450-grid.423742.4', 'N2032825682-grid.423744.2'), ('N2032825682-grid.423744.2', 'P666110298-grid.9691.7')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 10316 
+NAME    N1883700149
+
+RESOURCES INVOLVED
+	<http://risis.eu/cordisH2020/resource/participant_998341461>
+	<http://risis.eu/leidenRanking_2015/resource/7389>
+	<http://www.grid.ac/institutes/grid.424414.3>
+	<http://risis.eu/orgreg_20170718/resource/IT4014>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/leidenRanking_2015/resource/7389............ http://www.grid.ac/institutes/grid.424414.3................. 0.863636363636.............................................. [Fondazione Edmund Mach] was compared to [Edmund Mach Foundation] 
+	http://www.grid.ac/institutes/grid.424414.3................. http://risis.eu/leidenRanking_2015/resource/7389............ 0.863636363636.............................................. [Fondazione Edmund Mach] was compared to [Edmund Mach Foundation] 
+	http://risis.eu/cordisH2020/resource/participant_998341461.. http://www.grid.ac/institutes/grid.424414.3................. 1........................................................... [Fondazione Edmund Mach] was compared to [FONDAZIONE EDMUND MACH] 
+	http://www.grid.ac/institutes/grid.424414.3................. http://risis.eu/cordisH2020/resource/participant_998341461.. 1........................................................... [Fondazione Edmund Mach] was compared to [FONDAZIONE EDMUND MACH] 
+	http://risis.eu/cordisH2020/resource/participant_998341461.. http://risis.eu/leidenRanking_2015/resource/7389............ 0.863636363636.............................................. [FONDAZIONE EDMUND MACH] was compared to [Edmund Mach Foundation] 
+	http://risis.eu/leidenRanking_2015/resource/7389............ http://risis.eu/cordisH2020/resource/participant_998341461.. 0.863636363636.............................................. [FONDAZIONE EDMUND MACH] was compared to [Edmund Mach Foundation] 
+	http://risis.eu/leidenRanking_2015/resource/7389............ http://risis.eu/orgreg_20170718/resource/IT4014............. 1........................................................... [Edmund Mach Foundation] was compared to [Edmund Mach Foundation] 
+	http://risis.eu/orgreg_20170718/resource/IT4014............. http://risis.eu/leidenRanking_2015/resource/7389............ 1........................................................... [Edmund Mach Foundation] was compared to [Edmund Mach Foundation] 
+	http://risis.eu/cordisH2020/resource/participant_998341461.. http://risis.eu/orgreg_20170718/resource/IT4014............. 0.863636363636.............................................. [Edmund Mach Foundation] was compared to [FONDAZIONE EDMUND MACH] 
+	http://risis.eu/orgreg_20170718/resource/IT4014............. http://risis.eu/cordisH2020/resource/participant_998341461.. 0.863636363636.............................................. [Edmund Mach Foundation] was compared to [FONDAZIONE EDMUND MACH] 
+	http://www.grid.ac/institutes/grid.424414.3................. http://risis.eu/orgreg_20170718/resource/IT4014............. 0.863636363636.............................................. [Fondazione Edmund Mach] was compared to [Edmund Mach Foundation] 
+	http://risis.eu/orgreg_20170718/resource/IT4014............. http://www.grid.ac/institutes/grid.424414.3................. 0.863636363636.............................................. [Fondazione Edmund Mach] was compared to [Edmund Mach Foundation] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_998341461.. http://risis.eu/cordisH2020/resource/http%3A%2F%2Fcri.fmach.eu%3B+www.fmach.eu 
+	http://risis.eu/cordisH2020/resource/participant_998341461.. FONDAZIONE EDMUND MACH...................................... 
+	http://risis.eu/leidenRanking_2015/resource/7389............ Edmund Mach Foundation...................................... 
+	http://www.grid.ac/institutes/grid.424414.3................. 11.136234................................................... 
+	http://www.grid.ac/institutes/grid.424414.3................. 46.19536.................................................... 
+	http://www.grid.ac/institutes/grid.424414.3................. http://www.fmach.it/eng..................................... 
+	http://www.grid.ac/institutes/grid.424414.3................. Istituto Agrario di San Michele all’Adige................. 
+	http://www.grid.ac/institutes/grid.424414.3................. Fondazione Edmund Mach...................................... 
+	http://risis.eu/orgreg_20170718/resource/IT4014............. m........................................................... 
+	http://risis.eu/orgreg_20170718/resource/IT4014............. http://www.fmach.it/eng..................................... 
+	http://risis.eu/orgreg_20170718/resource/IT4014............. Edmund Mach Foundation...................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:7389', '1:participant_998341461'), ('2:7389', '3:grid.424414.3'), ('2:7389', '4:IT4014'), ('3:grid.424414.3', '1:participant_998341461'), ('4:IT4014', '1:participant_998341461'), ('4:IT4014', '3:grid.424414.3')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

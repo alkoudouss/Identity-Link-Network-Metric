@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 16802 
+NAME    P570937762
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.412744.0>
+	<http://risis.eu/orgref_20170703/resource/1255803>
+	<http://www.grid.ac/institutes/grid.421226.1>
+	<http://risis.eu/leidenRanking_2015/resource/1606>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.412744.0....... http://www.grid.ac/institutes/grid.421226.1....... 1................................................. [Princess Alexandra Hospital] was compared to [Princess Alexandra Hospital] 
+	http://www.grid.ac/institutes/grid.421226.1....... http://www.grid.ac/institutes/grid.412744.0....... 1................................................. [Princess Alexandra Hospital] was compared to [Princess Alexandra Hospital] 
+	http://www.grid.ac/institutes/grid.412744.0....... http://risis.eu/orgref_20170703/resource/1255803.. 1................................................. [Princess Alexandra Hospital] was compared to [Princess Alexandra Hospital] 
+	http://risis.eu/orgref_20170703/resource/1255803.. http://www.grid.ac/institutes/grid.412744.0....... 1................................................. [Princess Alexandra Hospital] was compared to [Princess Alexandra Hospital] 
+	http://risis.eu/orgref_20170703/resource/1255803.. http://www.grid.ac/institutes/grid.421226.1....... 1................................................. [Princess Alexandra Hospital] was compared to [Princess Alexandra Hospital] 
+	http://www.grid.ac/institutes/grid.421226.1....... http://risis.eu/orgref_20170703/resource/1255803.. 1................................................. [Princess Alexandra Hospital] was compared to [Princess Alexandra Hospital] 
+	http://www.grid.ac/institutes/grid.412744.0....... http://risis.eu/leidenRanking_2015/resource/1606.. 1................................................. [Princess Alexandra Hospital] was compared to [Princess Alexandra Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1606.. http://www.grid.ac/institutes/grid.412744.0....... 1................................................. [Princess Alexandra Hospital] was compared to [Princess Alexandra Hospital] 
+	http://www.grid.ac/institutes/grid.421226.1....... http://risis.eu/leidenRanking_2015/resource/1606.. 1................................................. [Princess Alexandra Hospital] was compared to [Princess Alexandra Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1606.. http://www.grid.ac/institutes/grid.421226.1....... 1................................................. [Princess Alexandra Hospital] was compared to [Princess Alexandra Hospital] 
+	http://risis.eu/orgref_20170703/resource/1255803.. http://risis.eu/leidenRanking_2015/resource/1606.. 1................................................. [Princess Alexandra Hospital] was compared to [Princess Alexandra Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1606.. http://risis.eu/orgref_20170703/resource/1255803.. 1................................................. [Princess Alexandra Hospital] was compared to [Princess Alexandra Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.412744.0....... 153.0332.......................................... 
+	http://www.grid.ac/institutes/grid.412744.0....... -27.4993.......................................... 
+	http://www.grid.ac/institutes/grid.412744.0....... http://metrosouth.health.qld.gov.au/princess-alexandra-hospital 
+	http://www.grid.ac/institutes/grid.412744.0....... Princess Alexandra Hospital....................... 
+	http://risis.eu/orgref_20170703/resource/1255803.. http://en.wikipedia.org/wiki?curid=1255803........ 
+	http://risis.eu/orgref_20170703/resource/1255803.. http://www.wikidata.org/wiki/Q7244522............. 
+	http://risis.eu/orgref_20170703/resource/1255803.. http://metrosouth.health.qld.gov.au/princess-alexandra-hospital 
+	http://risis.eu/orgref_20170703/resource/1255803.. Princess Alexandra Hospital....................... 
+	http://www.grid.ac/institutes/grid.421226.1....... 0.0853............................................ 
+	http://www.grid.ac/institutes/grid.421226.1....... 51.7712........................................... 
+	http://www.grid.ac/institutes/grid.421226.1....... http://www.nhs.uk/Services/hospitals/Overview/DefaultView.aspx?id=2013 
+	http://www.grid.ac/institutes/grid.421226.1....... http://www.pah.nhs.uk/............................ 
+	http://www.grid.ac/institutes/grid.421226.1....... Princess Alexandra Hospital....................... 
+	http://risis.eu/leidenRanking_2015/resource/1606.. Princess Alexandra Hospital....................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1255803', '1:grid.412744.0'), ('2:1255803', '3:grid.421226.1'), ('3:grid.421226.1', '1:grid.412744.0'), ('4:1606', '1:grid.412744.0'), ('4:1606', '2:1255803'), ('4:1606', '3:grid.421226.1')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

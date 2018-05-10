@@ -1,0 +1,71 @@
+SIZE    5   
+CLUSTER 6195 
+NAME    N1898672617
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/633572>
+	<http://risis.eu/leidenRanking_2015/resource/3504>
+	<http://www.grid.ac/institutes/grid.261128.e>
+	<http://www.grid.ac/institutes/grid.411026.0>
+	<http://risis.eu/orgref_20170703/resource/788576>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/633572... http://www.grid.ac/institutes/grid.261128.e....... 1................................................. [Northern Illinois University] was compared to [Northern Illinois University] 
+	http://www.grid.ac/institutes/grid.261128.e....... http://risis.eu/orgref_20170703/resource/633572... 1................................................. [Northern Illinois University] was compared to [Northern Illinois University] 
+	http://www.grid.ac/institutes/grid.411026.0....... http://risis.eu/orgref_20170703/resource/788576... 0.8............................................... [Southern Illinois University System] was compared to [Southern Illinois University] 
+	http://risis.eu/orgref_20170703/resource/788576... http://www.grid.ac/institutes/grid.411026.0....... 0.8............................................... [Southern Illinois University System] was compared to [Southern Illinois University] 
+	http://risis.eu/leidenRanking_2015/resource/3504.. http://www.grid.ac/institutes/grid.261128.e....... 1................................................. [Northern Illinois University] was compared to [Northern Illinois University] 
+	http://www.grid.ac/institutes/grid.261128.e....... http://risis.eu/leidenRanking_2015/resource/3504.. 1................................................. [Northern Illinois University] was compared to [Northern Illinois University] 
+	http://risis.eu/orgref_20170703/resource/633572... http://risis.eu/leidenRanking_2015/resource/3504.. 1................................................. [Northern Illinois University] was compared to [Northern Illinois University] 
+	http://risis.eu/leidenRanking_2015/resource/3504.. http://risis.eu/orgref_20170703/resource/633572... 1................................................. [Northern Illinois University] was compared to [Northern Illinois University] 
+	http://risis.eu/orgref_20170703/resource/633572... http://risis.eu/orgref_20170703/resource/788576... 0.928571428571.................................... [Northern Illinois University] was compared to [Southern Illinois University] 
+	http://risis.eu/orgref_20170703/resource/788576... http://risis.eu/orgref_20170703/resource/633572... 0.928571428571.................................... [Northern Illinois University] was compared to [Southern Illinois University] 
+	http://risis.eu/leidenRanking_2015/resource/3504.. http://risis.eu/orgref_20170703/resource/788576... 0.928571428571.................................... [Southern Illinois University] was compared to [Northern Illinois University] 
+	http://risis.eu/orgref_20170703/resource/788576... http://risis.eu/leidenRanking_2015/resource/3504.. 0.928571428571.................................... [Southern Illinois University] was compared to [Northern Illinois University] 
+	http://www.grid.ac/institutes/grid.261128.e....... http://risis.eu/orgref_20170703/resource/788576... 0.928571428571.................................... [Northern Illinois University] was compared to [Southern Illinois University] 
+	http://risis.eu/orgref_20170703/resource/788576... http://www.grid.ac/institutes/grid.261128.e....... 0.928571428571.................................... [Northern Illinois University] was compared to [Southern Illinois University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/633572... http://en.wikipedia.org/wiki?curid=633572......... 
+	http://risis.eu/orgref_20170703/resource/633572... http://www.wikidata.org/wiki/Q1191344............. 
+	http://risis.eu/orgref_20170703/resource/633572... http://www.niu.edu................................ 
+	http://risis.eu/orgref_20170703/resource/633572... Northern Illinois University...................... 
+	http://risis.eu/leidenRanking_2015/resource/3504.. Northern Illinois University...................... 
+	http://www.grid.ac/institutes/grid.261128.e....... -88.77778......................................... 
+	http://www.grid.ac/institutes/grid.261128.e....... 41.933887......................................... 
+	http://www.grid.ac/institutes/grid.261128.e....... http://www.niu.edu/index.shtml.................... 
+	http://www.grid.ac/institutes/grid.261128.e....... Northern Illinois University...................... 
+	http://www.grid.ac/institutes/grid.411026.0....... -89.211655........................................ 
+	http://www.grid.ac/institutes/grid.411026.0....... 37.713802......................................... 
+	http://www.grid.ac/institutes/grid.411026.0....... http://www.siusystem.edu/......................... 
+	http://www.grid.ac/institutes/grid.411026.0....... Southern Illinois University System............... 
+	http://risis.eu/orgref_20170703/resource/788576... http://en.wikipedia.org/wiki?curid=788576......... 
+	http://risis.eu/orgref_20170703/resource/788576... http://www.wikidata.org/wiki/Q1472474............. 
+	http://risis.eu/orgref_20170703/resource/788576... http://www.siusystem.edu.......................... 
+	http://risis.eu/orgref_20170703/resource/788576... Southern Illinois University...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:633572', '3:grid.261128.e'), ('2:3504', '1:633572'), ('2:3504', '5:788576'), ('3:grid.261128.e', '2:3504'), ('5:788576', '1:633572'), ('5:788576', '3:grid.261128.e'), ('5:788576', '4:grid.411026.0')]
+	MAX DISTANCE:                   : 0.7
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 2.2
+	AVERAGE NODE CONNECTIVITY RATIO : 0.55
+	BRIDGES                         : 1
+	CLOSURE                         : 0.7
+	DIAMETER                        : 2
+	QUALITY                         : 0.294
+	QUALITY USED                    : 0.357
+	SUMMARY 1: BRIDGE 0.25 CLOSURE 0.3 DIAMETER 0.333 QUALITY 0.294 QUALITY USED 0.357
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.3 DIAMETER 0.385 QUALITY 0.294 QUALITY USED 0.357

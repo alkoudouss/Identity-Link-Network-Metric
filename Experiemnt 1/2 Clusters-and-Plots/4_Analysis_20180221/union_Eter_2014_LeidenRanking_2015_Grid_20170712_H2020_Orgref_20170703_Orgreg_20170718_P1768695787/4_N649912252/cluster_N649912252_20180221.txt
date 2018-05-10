@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 7646 
+NAME    N649912252
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.462797.9>
+	<http://www.grid.ac/institutes/grid.462901.8>
+	<http://risis.eu/orgref_20170703/resource/3109965>
+	<http://risis.eu/orgref_20170703/resource/1008851>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.462797.9....... http://www.grid.ac/institutes/grid.462901.8....... 0.951219512195.................................... [Southwestern Baptist Theological Seminary] was compared to [Southeastern Baptist Theological Seminary] 
+	http://www.grid.ac/institutes/grid.462901.8....... http://www.grid.ac/institutes/grid.462797.9....... 0.951219512195.................................... [Southwestern Baptist Theological Seminary] was compared to [Southeastern Baptist Theological Seminary] 
+	http://www.grid.ac/institutes/grid.462797.9....... http://risis.eu/orgref_20170703/resource/1008851.. 1................................................. [Southwestern Baptist Theological Seminary] was compared to [Southwestern Baptist Theological Seminary] 
+	http://risis.eu/orgref_20170703/resource/1008851.. http://www.grid.ac/institutes/grid.462797.9....... 1................................................. [Southwestern Baptist Theological Seminary] was compared to [Southwestern Baptist Theological Seminary] 
+	http://www.grid.ac/institutes/grid.462797.9....... http://risis.eu/orgref_20170703/resource/3109965.. 0.951219512195.................................... [Southwestern Baptist Theological Seminary] was compared to [Southeastern Baptist Theological Seminary] 
+	http://risis.eu/orgref_20170703/resource/3109965.. http://www.grid.ac/institutes/grid.462797.9....... 0.951219512195.................................... [Southwestern Baptist Theological Seminary] was compared to [Southeastern Baptist Theological Seminary] 
+	http://www.grid.ac/institutes/grid.462901.8....... http://risis.eu/orgref_20170703/resource/1008851.. 0.951219512195.................................... [Southeastern Baptist Theological Seminary] was compared to [Southwestern Baptist Theological Seminary] 
+	http://risis.eu/orgref_20170703/resource/1008851.. http://www.grid.ac/institutes/grid.462901.8....... 0.951219512195.................................... [Southeastern Baptist Theological Seminary] was compared to [Southwestern Baptist Theological Seminary] 
+	http://www.grid.ac/institutes/grid.462901.8....... http://risis.eu/orgref_20170703/resource/3109965.. 1................................................. [Southeastern Baptist Theological Seminary] was compared to [Southeastern Baptist Theological Seminary] 
+	http://risis.eu/orgref_20170703/resource/3109965.. http://www.grid.ac/institutes/grid.462901.8....... 1................................................. [Southeastern Baptist Theological Seminary] was compared to [Southeastern Baptist Theological Seminary] 
+	http://risis.eu/orgref_20170703/resource/3109965.. http://risis.eu/orgref_20170703/resource/1008851.. 0.951219512195.................................... [Southwestern Baptist Theological Seminary] was compared to [Southeastern Baptist Theological Seminary] 
+	http://risis.eu/orgref_20170703/resource/1008851.. http://risis.eu/orgref_20170703/resource/3109965.. 0.951219512195.................................... [Southwestern Baptist Theological Seminary] was compared to [Southeastern Baptist Theological Seminary] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.462797.9....... -97.348434........................................ 
+	http://www.grid.ac/institutes/grid.462797.9....... 32.682037......................................... 
+	http://www.grid.ac/institutes/grid.462797.9....... http://swbts.edu/................................. 
+	http://www.grid.ac/institutes/grid.462797.9....... Southwestern Baptist Theological Seminary......... 
+	http://www.grid.ac/institutes/grid.462901.8....... -78.51245......................................... 
+	http://www.grid.ac/institutes/grid.462901.8....... 35.98074.......................................... 
+	http://www.grid.ac/institutes/grid.462901.8....... http://www.sebts.edu/............................. 
+	http://www.grid.ac/institutes/grid.462901.8....... Southeastern Baptist Theological Seminary......... 
+	http://risis.eu/orgref_20170703/resource/3109965.. http://en.wikipedia.org/wiki?curid=3109965........ 
+	http://risis.eu/orgref_20170703/resource/3109965.. http://www.wikidata.org/wiki/Q7569414............. 
+	http://risis.eu/orgref_20170703/resource/3109965.. http://www.sebts.edu.............................. 
+	http://risis.eu/orgref_20170703/resource/3109965.. Southeastern Baptist Theological Seminary......... 
+	http://risis.eu/orgref_20170703/resource/1008851.. http://en.wikipedia.org/wiki?curid=1008851........ 
+	http://risis.eu/orgref_20170703/resource/1008851.. http://www.wikidata.org/wiki/Q7571391............. 
+	http://risis.eu/orgref_20170703/resource/1008851.. http://www.swbts.edu.............................. 
+	http://risis.eu/orgref_20170703/resource/1008851.. Southwestern Baptist Theological Seminary......... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.462901.8', '1:grid.462797.9'), ('3:3109965', '1:grid.462797.9'), ('3:3109965', '2:grid.462901.8'), ('3:3109965', '4:1008851'), ('4:1008851', '1:grid.462797.9'), ('4:1008851', '2:grid.462901.8')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

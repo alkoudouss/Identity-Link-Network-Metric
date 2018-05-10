@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 16916 
+NAME    N2052972613
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/317558>
+	<http://risis.eu/cordisH2020/resource/participant_999806355>
+	<http://www.grid.ac/institutes/grid.17423.33>
+	<http://risis.eu/leidenRanking_2015/resource/3256>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/317558............. http://www.grid.ac/institutes/grid.17423.33................. 1........................................................... [Instituto de Astrofísica de Canarias] was compared to [Instituto de Astrofísica de Canarias] 
+	http://www.grid.ac/institutes/grid.17423.33................. http://risis.eu/orgref_20170703/resource/317558............. 1........................................................... [Instituto de Astrofísica de Canarias] was compared to [Instituto de Astrofísica de Canarias] 
+	http://www.grid.ac/institutes/grid.17423.33................. http://risis.eu/leidenRanking_2015/resource/3256............ 1........................................................... [Instituto de Astrofísica de Canarias] was compared to [Instituto de Astrofisica de Canarias] 
+	http://risis.eu/leidenRanking_2015/resource/3256............ http://www.grid.ac/institutes/grid.17423.33................. 1........................................................... [Instituto de Astrofísica de Canarias] was compared to [Instituto de Astrofisica de Canarias] 
+	http://risis.eu/cordisH2020/resource/participant_999806355.. http://www.grid.ac/institutes/grid.17423.33................. 1........................................................... [Instituto de Astrofísica de Canarias] was compared to [INSTITUTO DE ASTROFISICA DE CANARIAS] 
+	http://www.grid.ac/institutes/grid.17423.33................. http://risis.eu/cordisH2020/resource/participant_999806355.. 1........................................................... [Instituto de Astrofísica de Canarias] was compared to [INSTITUTO DE ASTROFISICA DE CANARIAS] 
+	http://risis.eu/orgref_20170703/resource/317558............. http://risis.eu/leidenRanking_2015/resource/3256............ 1........................................................... [Instituto de Astrofísica de Canarias] was compared to [Instituto de Astrofisica de Canarias] 
+	http://risis.eu/leidenRanking_2015/resource/3256............ http://risis.eu/orgref_20170703/resource/317558............. 1........................................................... [Instituto de Astrofísica de Canarias] was compared to [Instituto de Astrofisica de Canarias] 
+	http://risis.eu/orgref_20170703/resource/317558............. http://risis.eu/cordisH2020/resource/participant_999806355.. 1........................................................... [Instituto de Astrofísica de Canarias] was compared to [INSTITUTO DE ASTROFISICA DE CANARIAS] 
+	http://risis.eu/cordisH2020/resource/participant_999806355.. http://risis.eu/orgref_20170703/resource/317558............. 1........................................................... [Instituto de Astrofísica de Canarias] was compared to [INSTITUTO DE ASTROFISICA DE CANARIAS] 
+	http://risis.eu/cordisH2020/resource/participant_999806355.. http://risis.eu/leidenRanking_2015/resource/3256............ 1........................................................... [INSTITUTO DE ASTROFISICA DE CANARIAS] was compared to [Instituto de Astrofisica de Canarias] 
+	http://risis.eu/leidenRanking_2015/resource/3256............ http://risis.eu/cordisH2020/resource/participant_999806355.. 1........................................................... [INSTITUTO DE ASTROFISICA DE CANARIAS] was compared to [Instituto de Astrofisica de Canarias] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/317558............. http://en.wikipedia.org/wiki?curid=317558................... 
+	http://risis.eu/orgref_20170703/resource/317558............. http://www.wikidata.org/wiki/Q1583495....................... 
+	http://risis.eu/orgref_20170703/resource/317558............. Instituto de Astrofísica de Canarias....................... 
+	http://risis.eu/cordisH2020/resource/participant_999806355.. http://risis.eu/cordisH2020/resource/www.iac.es............. 
+	http://risis.eu/cordisH2020/resource/participant_999806355.. INSTITUTO DE ASTROFISICA DE CANARIAS........................ 
+	http://www.grid.ac/institutes/grid.17423.33................. -16.30809................................................... 
+	http://www.grid.ac/institutes/grid.17423.33................. 28.474762................................................... 
+	http://www.grid.ac/institutes/grid.17423.33................. http://www.iac.es/?lang=en.................................. 
+	http://www.grid.ac/institutes/grid.17423.33................. Instituto de Astrofísica de Canarias....................... 
+	http://risis.eu/leidenRanking_2015/resource/3256............ Instituto de Astrofisica de Canarias........................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:317558', '3:grid.17423.33'), ('2:participant_999806355', '1:317558'), ('2:participant_999806355', '3:grid.17423.33'), ('4:3256', '1:317558'), ('4:3256', '2:participant_999806355'), ('4:3256', '3:grid.17423.33')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

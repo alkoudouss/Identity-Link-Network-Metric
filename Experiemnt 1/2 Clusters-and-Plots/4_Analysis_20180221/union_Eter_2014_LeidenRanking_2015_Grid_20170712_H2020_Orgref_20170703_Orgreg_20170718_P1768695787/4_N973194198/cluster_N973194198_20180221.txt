@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 8951 
+NAME    N973194198
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.4793.9>
+	<http://risis.eu/orgreg_20170718/resource/GR0021>
+	<http://risis.eu/orgref_20170703/resource/715160>
+	<http://risis.eu/leidenRanking_2015/resource/371>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.4793.9........ http://risis.eu/orgref_20170703/resource/715160.. 1................................................ [Aristotle University of Thessaloniki] was compared to [Aristotle University of Thessaloniki] 
+	http://risis.eu/orgref_20170703/resource/715160.. http://www.grid.ac/institutes/grid.4793.9........ 1................................................ [Aristotle University of Thessaloniki] was compared to [Aristotle University of Thessaloniki] 
+	http://www.grid.ac/institutes/grid.4793.9........ http://risis.eu/leidenRanking_2015/resource/371.. 1................................................ [Aristotle University of Thessaloniki] was compared to [Aristotle University of Thessaloniki] 
+	http://risis.eu/leidenRanking_2015/resource/371.. http://www.grid.ac/institutes/grid.4793.9........ 1................................................ [Aristotle University of Thessaloniki] was compared to [Aristotle University of Thessaloniki] 
+	http://risis.eu/orgref_20170703/resource/715160.. http://risis.eu/leidenRanking_2015/resource/371.. 1................................................ [Aristotle University of Thessaloniki] was compared to [Aristotle University of Thessaloniki] 
+	http://risis.eu/leidenRanking_2015/resource/371.. http://risis.eu/orgref_20170703/resource/715160.. 1................................................ [Aristotle University of Thessaloniki] was compared to [Aristotle University of Thessaloniki] 
+	http://risis.eu/orgreg_20170718/resource/GR0021.. http://risis.eu/leidenRanking_2015/resource/371.. 1................................................ [ARISTOTLE UNIVERSITY OF THESSALONIKI] was compared to [Aristotle University of Thessaloniki] 
+	http://risis.eu/leidenRanking_2015/resource/371.. http://risis.eu/orgreg_20170718/resource/GR0021.. 1................................................ [ARISTOTLE UNIVERSITY OF THESSALONIKI] was compared to [Aristotle University of Thessaloniki] 
+	http://risis.eu/orgreg_20170718/resource/GR0021.. http://risis.eu/orgref_20170703/resource/715160.. 1................................................ [Aristotle University of Thessaloniki] was compared to [ARISTOTLE UNIVERSITY OF THESSALONIKI] 
+	http://risis.eu/orgref_20170703/resource/715160.. http://risis.eu/orgreg_20170718/resource/GR0021.. 1................................................ [Aristotle University of Thessaloniki] was compared to [ARISTOTLE UNIVERSITY OF THESSALONIKI] 
+	http://www.grid.ac/institutes/grid.4793.9........ http://risis.eu/orgreg_20170718/resource/GR0021.. 1................................................ [Aristotle University of Thessaloniki] was compared to [ARISTOTLE UNIVERSITY OF THESSALONIKI] 
+	http://risis.eu/orgreg_20170718/resource/GR0021.. http://www.grid.ac/institutes/grid.4793.9........ 1................................................ [Aristotle University of Thessaloniki] was compared to [ARISTOTLE UNIVERSITY OF THESSALONIKI] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.4793.9........ 22.958055........................................ 
+	http://www.grid.ac/institutes/grid.4793.9........ 40.63............................................ 
+	http://www.grid.ac/institutes/grid.4793.9........ https://www.auth.gr/en........................... 
+	http://www.grid.ac/institutes/grid.4793.9........ Aristotelian University.......................... 
+	http://www.grid.ac/institutes/grid.4793.9........ Aristotle University of Thessaloniki............. 
+	http://risis.eu/orgreg_20170718/resource/GR0021.. http://www.auth.gr/.............................. 
+	http://risis.eu/orgreg_20170718/resource/GR0021.. ARISTOTLE UNIVERSITY OF THESSALONIKI............. 
+	http://risis.eu/orgref_20170703/resource/715160.. http://en.wikipedia.org/wiki?curid=715160........ 
+	http://risis.eu/orgref_20170703/resource/715160.. http://www.wikidata.org/wiki/Q667568............. 
+	http://risis.eu/orgref_20170703/resource/715160.. https://www.auth.gr/en........................... 
+	http://risis.eu/orgref_20170703/resource/715160.. Aristotle University of Thessaloniki............. 
+	http://risis.eu/leidenRanking_2015/resource/371.. Aristotle University of Thessaloniki............. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:GR0021', '1:grid.4793.9'), ('2:GR0021', '3:715160'), ('3:715160', '1:grid.4793.9'), ('4:371', '1:grid.4793.9'), ('4:371', '2:GR0021'), ('4:371', '3:715160')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

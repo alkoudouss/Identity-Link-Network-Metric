@@ -1,0 +1,55 @@
+SIZE    3   
+CLUSTER 153 
+NAME    N2127844932
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.435365.2>
+	<http://risis.eu/eter_2014/resource/FR0257>
+	<http://www.grid.ac/institutes/grid.454310.7>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.435365.2.. http://risis.eu/eter_2014/resource/FR0257.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/FR0257.... http://www.grid.ac/institutes/grid.435365.2.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/FR0257.... http://www.grid.ac/institutes/grid.454310.7.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.454310.7.. http://risis.eu/eter_2014/resource/FR0257.... 1............................................ Near each other by at most 500 meter(s)...... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.435365.2.. 2.303178..................................... 
+	http://www.grid.ac/institutes/grid.435365.2.. 48.824295.................................... 
+	http://www.grid.ac/institutes/grid.435365.2.. http://insee.fr/............................. 
+	http://www.grid.ac/institutes/grid.435365.2.. National Institute of Statistics and Economic Studies 
+	http://risis.eu/eter_2014/resource/FR0257.... 48,824356.................................... 
+	http://risis.eu/eter_2014/resource/FR0257.... 2,302459..................................... 
+	http://risis.eu/eter_2014/resource/FR0257.... http://www.ensae.fr/......................... 
+	http://risis.eu/eter_2014/resource/FR0257.... m............................................ 
+	http://risis.eu/eter_2014/resource/FR0257.... École Nationale de la Statistique et de l’Administration Économique 
+	http://www.grid.ac/institutes/grid.454310.7.. 2.3024....................................... 
+	http://www.grid.ac/institutes/grid.454310.7.. 48.8243...................................... 
+	http://www.grid.ac/institutes/grid.454310.7.. http://www.ensae.fr/......................... 
+	http://www.grid.ac/institutes/grid.454310.7.. Ecole Nationale de la Statistique et de l'Administration Economique 
+
+NETWORK ANALYSIS
+	NETWORK [('N2127844932-FR0257', 'P447552042-grid.435365.2'), ('N2127844932-FR0257', 'N829764306-grid.454310.7')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

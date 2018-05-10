@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 12751 
+NAME    N1346889510
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/1687481>
+	<http://risis.eu/cordisH2020/resource/participant_926918615>
+	<http://www.grid.ac/institutes/grid.411596.e>
+	<http://risis.eu/orgreg_20170718/resource/IE2006>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/1687481............ http://www.grid.ac/institutes/grid.411596.e................. 1........................................................... [Mater Misericordiae University Hospital] was compared to [Mater Misericordiae University Hospital] 
+	http://www.grid.ac/institutes/grid.411596.e................. http://risis.eu/orgref_20170703/resource/1687481............ 1........................................................... [Mater Misericordiae University Hospital] was compared to [Mater Misericordiae University Hospital] 
+	http://risis.eu/cordisH2020/resource/participant_926918615.. http://www.grid.ac/institutes/grid.411596.e................. 0.829787234043.............................................. [Mater Misericordiae University Hospital] was compared to [MATER MISERICORDIAE UNIVERSITY HOSPITAL LIMITED] 
+	http://www.grid.ac/institutes/grid.411596.e................. http://risis.eu/cordisH2020/resource/participant_926918615.. 0.829787234043.............................................. [Mater Misericordiae University Hospital] was compared to [MATER MISERICORDIAE UNIVERSITY HOSPITAL LIMITED] 
+	http://risis.eu/orgref_20170703/resource/1687481............ http://risis.eu/cordisH2020/resource/participant_926918615.. 0.829787234043.............................................. [Mater Misericordiae University Hospital] was compared to [MATER MISERICORDIAE UNIVERSITY HOSPITAL LIMITED] 
+	http://risis.eu/cordisH2020/resource/participant_926918615.. http://risis.eu/orgref_20170703/resource/1687481............ 0.829787234043.............................................. [Mater Misericordiae University Hospital] was compared to [MATER MISERICORDIAE UNIVERSITY HOSPITAL LIMITED] 
+	http://risis.eu/cordisH2020/resource/participant_926918615.. http://risis.eu/orgreg_20170718/resource/IE2006............. 0.829787234043.............................................. [Mater Misericordiae University Hospital] was compared to [MATER MISERICORDIAE UNIVERSITY HOSPITAL LIMITED] 
+	http://risis.eu/orgreg_20170718/resource/IE2006............. http://risis.eu/cordisH2020/resource/participant_926918615.. 0.829787234043.............................................. [Mater Misericordiae University Hospital] was compared to [MATER MISERICORDIAE UNIVERSITY HOSPITAL LIMITED] 
+	http://risis.eu/orgref_20170703/resource/1687481............ http://risis.eu/orgreg_20170718/resource/IE2006............. 1........................................................... [Mater Misericordiae University Hospital] was compared to [Mater Misericordiae University Hospital] 
+	http://risis.eu/orgreg_20170718/resource/IE2006............. http://risis.eu/orgref_20170703/resource/1687481............ 1........................................................... [Mater Misericordiae University Hospital] was compared to [Mater Misericordiae University Hospital] 
+	http://www.grid.ac/institutes/grid.411596.e................. http://risis.eu/orgreg_20170718/resource/IE2006............. 1........................................................... [Mater Misericordiae University Hospital] was compared to [Mater Misericordiae University Hospital] 
+	http://risis.eu/orgreg_20170718/resource/IE2006............. http://www.grid.ac/institutes/grid.411596.e................. 1........................................................... [Mater Misericordiae University Hospital] was compared to [Mater Misericordiae University Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/1687481............ http://en.wikipedia.org/wiki?curid=1687481.................. 
+	http://risis.eu/orgref_20170703/resource/1687481............ http://www.wikidata.org/wiki/Q6786523....................... 
+	http://risis.eu/orgref_20170703/resource/1687481............ http://www.mater.ie......................................... 
+	http://risis.eu/orgref_20170703/resource/1687481............ Mater Misericordiae University Hospital..................... 
+	http://risis.eu/cordisH2020/resource/participant_926918615.. MATER MISERICORDIAE UNIVERSITY HOSPITAL LIMITED............. 
+	http://www.grid.ac/institutes/grid.411596.e................. -6.268956................................................... 
+	http://www.grid.ac/institutes/grid.411596.e................. 53.359276................................................... 
+	http://www.grid.ac/institutes/grid.411596.e................. http://www.mater.ie/........................................ 
+	http://www.grid.ac/institutes/grid.411596.e................. Ospidéal an Mater Misercordiae............................. 
+	http://www.grid.ac/institutes/grid.411596.e................. The Mater................................................... 
+	http://www.grid.ac/institutes/grid.411596.e................. Mater Misericordiae University Hospital..................... 
+	http://risis.eu/orgreg_20170718/resource/IE2006............. -6.263769................................................... 
+	http://risis.eu/orgreg_20170718/resource/IE2006............. 53.358527................................................... 
+	http://risis.eu/orgreg_20170718/resource/IE2006............. http://www.mater.ie/........................................ 
+	http://risis.eu/orgreg_20170718/resource/IE2006............. Mater Misericordiae University Hospital..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_926918615', '1:1687481'), ('2:participant_926918615', '3:grid.411596.e'), ('2:participant_926918615', '4:IE2006'), ('3:grid.411596.e', '1:1687481'), ('4:IE2006', '1:1687481'), ('4:IE2006', '3:grid.411596.e')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

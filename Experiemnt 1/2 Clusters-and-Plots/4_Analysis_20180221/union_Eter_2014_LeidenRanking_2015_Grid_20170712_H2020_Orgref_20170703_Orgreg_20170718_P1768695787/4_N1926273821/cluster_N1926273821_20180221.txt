@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 1220 
+NAME    N1926273821
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.411082.e>
+	<http://risis.eu/leidenRanking_2015/resource/1008>
+	<http://risis.eu/orgref_20170703/resource/4261634>
+	<http://risis.eu/eter_2014/resource/TR0001>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.411082.e....... http://risis.eu/orgref_20170703/resource/4261634.. 1................................................. [Abant Izzet Baysal University] was compared to [Abant Izzet Baysal University] 
+	http://risis.eu/orgref_20170703/resource/4261634.. http://www.grid.ac/institutes/grid.411082.e....... 1................................................. [Abant Izzet Baysal University] was compared to [Abant Izzet Baysal University] 
+	http://www.grid.ac/institutes/grid.411082.e....... http://risis.eu/leidenRanking_2015/resource/1008.. 1................................................. [Abant Izzet Baysal University] was compared to [Abant Izzet Baysal University] 
+	http://risis.eu/leidenRanking_2015/resource/1008.. http://www.grid.ac/institutes/grid.411082.e....... 1................................................. [Abant Izzet Baysal University] was compared to [Abant Izzet Baysal University] 
+	http://www.grid.ac/institutes/grid.411082.e....... http://risis.eu/eter_2014/resource/TR0001......... 0.903225806452.................................... [Abant Izzet Baysal University] was compared to [ABANT İZZET BAYSAL ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0001......... http://www.grid.ac/institutes/grid.411082.e....... 0.903225806452.................................... [Abant Izzet Baysal University] was compared to [ABANT İZZET BAYSAL ÜNIVERSITESI] 
+	http://risis.eu/orgref_20170703/resource/4261634.. http://risis.eu/eter_2014/resource/TR0001......... 0.903225806452.................................... [Abant Izzet Baysal University] was compared to [ABANT İZZET BAYSAL ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0001......... http://risis.eu/orgref_20170703/resource/4261634.. 0.903225806452.................................... [Abant Izzet Baysal University] was compared to [ABANT İZZET BAYSAL ÜNIVERSITESI] 
+	http://risis.eu/leidenRanking_2015/resource/1008.. http://risis.eu/orgref_20170703/resource/4261634.. 1................................................. [Abant Izzet Baysal University] was compared to [Abant Izzet Baysal University] 
+	http://risis.eu/orgref_20170703/resource/4261634.. http://risis.eu/leidenRanking_2015/resource/1008.. 1................................................. [Abant Izzet Baysal University] was compared to [Abant Izzet Baysal University] 
+	http://risis.eu/leidenRanking_2015/resource/1008.. http://risis.eu/eter_2014/resource/TR0001......... 0.903225806452.................................... [ABANT İZZET BAYSAL ÜNIVERSITESI] was compared to [Abant Izzet Baysal University] 
+	http://risis.eu/eter_2014/resource/TR0001......... http://risis.eu/leidenRanking_2015/resource/1008.. 0.903225806452.................................... [ABANT İZZET BAYSAL ÜNIVERSITESI] was compared to [Abant Izzet Baysal University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.411082.e....... 31.5128........................................... 
+	http://www.grid.ac/institutes/grid.411082.e....... 40.7142........................................... 
+	http://www.grid.ac/institutes/grid.411082.e....... http://www.ibu.edu.tr/............................ 
+	http://www.grid.ac/institutes/grid.411082.e....... Abant Izzet Baysal University..................... 
+	http://risis.eu/leidenRanking_2015/resource/1008.. Abant Izzet Baysal University..................... 
+	http://risis.eu/orgref_20170703/resource/4261634.. http://en.wikipedia.org/wiki?curid=4261634........ 
+	http://risis.eu/orgref_20170703/resource/4261634.. http://www.wikidata.org/wiki/Q305507.............. 
+	http://risis.eu/orgref_20170703/resource/4261634.. http://www.ibu.edu.tr............................. 
+	http://risis.eu/orgref_20170703/resource/4261634.. Abant Izzet Baysal University..................... 
+	http://risis.eu/eter_2014/resource/TR0001......... 40,713667......................................... 
+	http://risis.eu/eter_2014/resource/TR0001......... 31,511482......................................... 
+	http://risis.eu/eter_2014/resource/TR0001......... http://www.ibu.edu.tr/............................ 
+	http://risis.eu/eter_2014/resource/TR0001......... a................................................. 
+	http://risis.eu/eter_2014/resource/TR0001......... Abant Izzet Baysal University..................... 
+	http://risis.eu/eter_2014/resource/TR0001......... ABANT İZZET BAYSAL ÜNIVERSITESI................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1008', '1:grid.411082.e'), ('2:1008', '3:4261634'), ('2:1008', '4:TR0001'), ('3:4261634', '1:grid.411082.e'), ('4:TR0001', '1:grid.411082.e'), ('4:TR0001', '3:4261634')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

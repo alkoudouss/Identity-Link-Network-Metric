@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 18080 
+NAME    N1762537149
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.425381.9>
+	<http://risis.eu/orgref_20170703/resource/405440>
+	<http://www.grid.ac/institutes/grid.435130.0>
+	<http://risis.eu/orgref_20170703/resource/39365470>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.425381.9........ http://www.grid.ac/institutes/grid.435130.0........ 1.................................................. [National Institute of Statistics] was compared to [National Institute of Statistics] 
+	http://www.grid.ac/institutes/grid.435130.0........ http://www.grid.ac/institutes/grid.425381.9........ 1.................................................. [National Institute of Statistics] was compared to [National Institute of Statistics] 
+	http://www.grid.ac/institutes/grid.425381.9........ http://risis.eu/orgref_20170703/resource/405440.... 1.................................................. [National Institute of Statistics] was compared to [National Institute of Statistics (Italy)] 
+	http://risis.eu/orgref_20170703/resource/405440.... http://www.grid.ac/institutes/grid.425381.9........ 1.................................................. [National Institute of Statistics] was compared to [National Institute of Statistics (Italy)] 
+	http://www.grid.ac/institutes/grid.425381.9........ http://risis.eu/orgref_20170703/resource/39365470.. 1.................................................. [National Institute of Statistics] was compared to [National Institute of Statistics (Tunisia)] 
+	http://risis.eu/orgref_20170703/resource/39365470.. http://www.grid.ac/institutes/grid.425381.9........ 1.................................................. [National Institute of Statistics] was compared to [National Institute of Statistics (Tunisia)] 
+	http://risis.eu/orgref_20170703/resource/405440.... http://www.grid.ac/institutes/grid.435130.0........ 1.................................................. [National Institute of Statistics] was compared to [National Institute of Statistics (Italy)] 
+	http://www.grid.ac/institutes/grid.435130.0........ http://risis.eu/orgref_20170703/resource/405440.... 1.................................................. [National Institute of Statistics] was compared to [National Institute of Statistics (Italy)] 
+	http://www.grid.ac/institutes/grid.435130.0........ http://risis.eu/orgref_20170703/resource/39365470.. 1.................................................. [National Institute of Statistics] was compared to [National Institute of Statistics (Tunisia)] 
+	http://risis.eu/orgref_20170703/resource/39365470.. http://www.grid.ac/institutes/grid.435130.0........ 1.................................................. [National Institute of Statistics] was compared to [National Institute of Statistics (Tunisia)] 
+	http://risis.eu/orgref_20170703/resource/405440.... http://risis.eu/orgref_20170703/resource/39365470.. 1.................................................. [National Institute of Statistics (Tunisia)] was compared to [National Institute of Statistics (Italy)] 
+	http://risis.eu/orgref_20170703/resource/39365470.. http://risis.eu/orgref_20170703/resource/405440.... 1.................................................. [National Institute of Statistics (Tunisia)] was compared to [National Institute of Statistics (Italy)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.425381.9........ 12.495875.......................................... 
+	http://www.grid.ac/institutes/grid.425381.9........ 41.89921........................................... 
+	http://www.grid.ac/institutes/grid.425381.9........ http://en.istat.it/................................ 
+	http://www.grid.ac/institutes/grid.425381.9........ National Institute of Statistics................... 
+	http://risis.eu/orgref_20170703/resource/405440.... http://en.wikipedia.org/wiki?curid=405440.......... 
+	http://risis.eu/orgref_20170703/resource/405440.... http://www.wikidata.org/wiki/Q214195............... 
+	http://risis.eu/orgref_20170703/resource/405440.... http://www.istat.it/en............................. 
+	http://risis.eu/orgref_20170703/resource/405440.... National Institute of Statistics (Italy)........... 
+	http://www.grid.ac/institutes/grid.435130.0........ -3.690191.......................................... 
+	http://www.grid.ac/institutes/grid.435130.0........ 40.463932.......................................... 
+	http://www.grid.ac/institutes/grid.435130.0........ http://www.ine.es/en/welcome.shtml................. 
+	http://www.grid.ac/institutes/grid.435130.0........ National Institute of Statistics................... 
+	http://risis.eu/orgref_20170703/resource/39365470.. http://en.wikipedia.org/wiki?curid=39365470........ 
+	http://risis.eu/orgref_20170703/resource/39365470.. http://www.wikidata.org/wiki/Q3152411.............. 
+	http://risis.eu/orgref_20170703/resource/39365470.. http://www.ins.nat.tn/en........................... 
+	http://risis.eu/orgref_20170703/resource/39365470.. National Institute of Statistics (Tunisia)......... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:405440', '1:grid.425381.9'), ('2:405440', '3:grid.435130.0'), ('2:405440', '4:39365470'), ('3:grid.435130.0', '1:grid.425381.9'), ('4:39365470', '1:grid.425381.9'), ('4:39365470', '3:grid.435130.0')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

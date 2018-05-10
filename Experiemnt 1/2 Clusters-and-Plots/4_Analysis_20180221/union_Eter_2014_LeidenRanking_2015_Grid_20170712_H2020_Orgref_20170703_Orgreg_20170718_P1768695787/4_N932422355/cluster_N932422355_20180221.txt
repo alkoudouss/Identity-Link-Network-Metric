@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 12204 
+NAME    N932422355
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/1608724>
+	<http://risis.eu/leidenRanking_2015/resource/2048>
+	<http://www.grid.ac/institutes/grid.62560.37>
+	<http://www.grid.ac/institutes/grid.423077.5>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/1608724.. http://www.grid.ac/institutes/grid.62560.37....... 1................................................. [Brigham and Women's Hospital] was compared to [Brigham and Women's Hospital] 
+	http://www.grid.ac/institutes/grid.62560.37....... http://risis.eu/orgref_20170703/resource/1608724.. 1................................................. [Brigham and Women's Hospital] was compared to [Brigham and Women's Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/2048.. http://www.grid.ac/institutes/grid.62560.37....... 0.92.............................................. [Brigham and Women's Hospital] was compared to [Brigham & Women's Hospital] 
+	http://www.grid.ac/institutes/grid.62560.37....... http://risis.eu/leidenRanking_2015/resource/2048.. 0.92.............................................. [Brigham and Women's Hospital] was compared to [Brigham & Women's Hospital] 
+	http://risis.eu/orgref_20170703/resource/1608724.. http://risis.eu/leidenRanking_2015/resource/2048.. 0.92.............................................. [Brigham and Women's Hospital] was compared to [Brigham & Women's Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/2048.. http://risis.eu/orgref_20170703/resource/1608724.. 0.92.............................................. [Brigham and Women's Hospital] was compared to [Brigham & Women's Hospital] 
+	http://www.grid.ac/institutes/grid.62560.37....... http://www.grid.ac/institutes/grid.423077.5....... 0.884615384615.................................... [Birmingham Women's Hospital] was compared to [Brigham and Women's Hospital] 
+	http://www.grid.ac/institutes/grid.423077.5....... http://www.grid.ac/institutes/grid.62560.37....... 0.884615384615.................................... [Birmingham Women's Hospital] was compared to [Brigham and Women's Hospital] 
+	http://risis.eu/orgref_20170703/resource/1608724.. http://www.grid.ac/institutes/grid.423077.5....... 0.884615384615.................................... [Birmingham Women's Hospital] was compared to [Brigham and Women's Hospital] 
+	http://www.grid.ac/institutes/grid.423077.5....... http://risis.eu/orgref_20170703/resource/1608724.. 0.884615384615.................................... [Birmingham Women's Hospital] was compared to [Brigham and Women's Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/2048.. http://www.grid.ac/institutes/grid.423077.5....... 0.807692307692.................................... [Birmingham Women's Hospital] was compared to [Brigham & Women's Hospital] 
+	http://www.grid.ac/institutes/grid.423077.5....... http://risis.eu/leidenRanking_2015/resource/2048.. 0.807692307692.................................... [Birmingham Women's Hospital] was compared to [Brigham & Women's Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/1608724.. http://en.wikipedia.org/wiki?curid=1608724........ 
+	http://risis.eu/orgref_20170703/resource/1608724.. http://www.wikidata.org/wiki/Q2900977............. 
+	http://risis.eu/orgref_20170703/resource/1608724.. http://brighamandwomens.org....................... 
+	http://risis.eu/orgref_20170703/resource/1608724.. Brigham and Women's Hospital...................... 
+	http://risis.eu/leidenRanking_2015/resource/2048.. Brigham & Women's Hospital........................ 
+	http://www.grid.ac/institutes/grid.62560.37....... -71.106415........................................ 
+	http://www.grid.ac/institutes/grid.62560.37....... 42.3356........................................... 
+	http://www.grid.ac/institutes/grid.62560.37....... http://www.brighamandwomens.org/.................. 
+	http://www.grid.ac/institutes/grid.62560.37....... The Brigham....................................... 
+	http://www.grid.ac/institutes/grid.62560.37....... Brigham and Women's Hospital...................... 
+	http://www.grid.ac/institutes/grid.423077.5....... -1.942743......................................... 
+	http://www.grid.ac/institutes/grid.423077.5....... 52.45324.......................................... 
+	http://www.grid.ac/institutes/grid.423077.5....... http://www.nhs.uk/Services/hospitals/Overview/DefaultView.aspx?id=128358 
+	http://www.grid.ac/institutes/grid.423077.5....... Birmingham Women's Hospital....................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:1608724', '3:grid.62560.37'), ('2:2048', '1:1608724'), ('2:2048', '4:grid.423077.5'), ('3:grid.62560.37', '2:2048'), ('3:grid.62560.37', '4:grid.423077.5'), ('4:grid.423077.5', '1:1608724')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

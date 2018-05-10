@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 6107 
+NAME    N1880929533
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.416115.6>
+	<http://risis.eu/orgref_20170703/resource/5206378>
+	<http://risis.eu/orgref_20170703/resource/8250537>
+	<http://www.grid.ac/institutes/grid.416116.5>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.416115.6....... http://risis.eu/orgref_20170703/resource/5206378.. 1................................................. [Royal Cornhill Hospital] was compared to [Royal Cornhill Hospital] 
+	http://risis.eu/orgref_20170703/resource/5206378.. http://www.grid.ac/institutes/grid.416115.6....... 1................................................. [Royal Cornhill Hospital] was compared to [Royal Cornhill Hospital] 
+	http://risis.eu/orgref_20170703/resource/8250537.. http://www.grid.ac/institutes/grid.416116.5....... 1................................................. [Royal Cornwall Hospital] was compared to [Royal Cornwall Hospital] 
+	http://www.grid.ac/institutes/grid.416116.5....... http://risis.eu/orgref_20170703/resource/8250537.. 1................................................. [Royal Cornwall Hospital] was compared to [Royal Cornwall Hospital] 
+	http://risis.eu/orgref_20170703/resource/5206378.. http://risis.eu/orgref_20170703/resource/8250537.. 0.913043478261.................................... [Royal Cornhill Hospital] was compared to [Royal Cornwall Hospital] 
+	http://risis.eu/orgref_20170703/resource/8250537.. http://risis.eu/orgref_20170703/resource/5206378.. 0.913043478261.................................... [Royal Cornhill Hospital] was compared to [Royal Cornwall Hospital] 
+	http://www.grid.ac/institutes/grid.416115.6....... http://www.grid.ac/institutes/grid.416116.5....... 0.913043478261.................................... [Royal Cornhill Hospital] was compared to [Royal Cornwall Hospital] 
+	http://www.grid.ac/institutes/grid.416116.5....... http://www.grid.ac/institutes/grid.416115.6....... 0.913043478261.................................... [Royal Cornhill Hospital] was compared to [Royal Cornwall Hospital] 
+	http://www.grid.ac/institutes/grid.416115.6....... http://risis.eu/orgref_20170703/resource/8250537.. 0.913043478261.................................... [Royal Cornhill Hospital] was compared to [Royal Cornwall Hospital] 
+	http://risis.eu/orgref_20170703/resource/8250537.. http://www.grid.ac/institutes/grid.416115.6....... 0.913043478261.................................... [Royal Cornhill Hospital] was compared to [Royal Cornwall Hospital] 
+	http://risis.eu/orgref_20170703/resource/5206378.. http://www.grid.ac/institutes/grid.416116.5....... 0.913043478261.................................... [Royal Cornwall Hospital] was compared to [Royal Cornhill Hospital] 
+	http://www.grid.ac/institutes/grid.416116.5....... http://risis.eu/orgref_20170703/resource/5206378.. 0.913043478261.................................... [Royal Cornwall Hospital] was compared to [Royal Cornhill Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.416115.6....... -2.116379......................................... 
+	http://www.grid.ac/institutes/grid.416115.6....... 57.154213......................................... 
+	http://www.grid.ac/institutes/grid.416115.6....... http://www.nhsgrampian.org/nhsgrampian/gra_display_hospital.jsp?p_applic=CCC&pContentID=407&p_service=Content.show& 
+	http://www.grid.ac/institutes/grid.416115.6....... Royal Cornhill Hospital........................... 
+	http://risis.eu/orgref_20170703/resource/5206378.. http://en.wikipedia.org/wiki?curid=5206378........ 
+	http://risis.eu/orgref_20170703/resource/5206378.. http://www.wikidata.org/wiki/Q7374066............. 
+	http://risis.eu/orgref_20170703/resource/5206378.. http://www.nhsgrampian.org/nhsgrampian/gra_display_hospital.jsp?pcontentid=407&p_applic=ccc&p_service=content.show 
+	http://risis.eu/orgref_20170703/resource/5206378.. Royal Cornhill Hospital........................... 
+	http://risis.eu/orgref_20170703/resource/8250537.. http://en.wikipedia.org/wiki?curid=8250537........ 
+	http://risis.eu/orgref_20170703/resource/8250537.. http://www.wikidata.org/wiki/Q7374067............. 
+	http://risis.eu/orgref_20170703/resource/8250537.. http://www.royalcornwall.nhs.uk................... 
+	http://risis.eu/orgref_20170703/resource/8250537.. Royal Cornwall Hospital........................... 
+	http://www.grid.ac/institutes/grid.416116.5....... -5.094309......................................... 
+	http://www.grid.ac/institutes/grid.416116.5....... 50.26655.......................................... 
+	http://www.grid.ac/institutes/grid.416116.5....... http://www.rcht.nhs.uk/RoyalCornwallHospitalsTrust/OurServices/OurServicesHome.aspx 
+	http://www.grid.ac/institutes/grid.416116.5....... Treliske Hospital................................. 
+	http://www.grid.ac/institutes/grid.416116.5....... Royal Cornwall Hospital........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:5206378', '1:grid.416115.6'), ('2:5206378', '4:grid.416116.5'), ('3:8250537', '1:grid.416115.6'), ('3:8250537', '2:5206378'), ('3:8250537', '4:grid.416116.5'), ('4:grid.416116.5', '1:grid.416115.6')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

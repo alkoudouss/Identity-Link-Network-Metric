@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 7788 
+NAME    N2099124639
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.429171.8>
+	<http://risis.eu/orgref_20170703/resource/6761673>
+	<http://www.grid.ac/institutes/grid.419639.0>
+	<http://risis.eu/orgref_20170703/resource/3529897>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.429171.8....... http://www.grid.ac/institutes/grid.419639.0....... 0.8............................................... [Jaypee Institute of Information Technology] was compared to [Jaypee University of Information Technology] 
+	http://www.grid.ac/institutes/grid.419639.0....... http://www.grid.ac/institutes/grid.429171.8....... 0.8............................................... [Jaypee Institute of Information Technology] was compared to [Jaypee University of Information Technology] 
+	http://www.grid.ac/institutes/grid.419639.0....... http://risis.eu/orgref_20170703/resource/3529897.. 1................................................. [Jaypee Institute of Information Technology] was compared to [Jaypee Institute of Information Technology] 
+	http://risis.eu/orgref_20170703/resource/3529897.. http://www.grid.ac/institutes/grid.419639.0....... 1................................................. [Jaypee Institute of Information Technology] was compared to [Jaypee Institute of Information Technology] 
+	http://risis.eu/orgref_20170703/resource/6761673.. http://www.grid.ac/institutes/grid.419639.0....... 0.8............................................... [Jaypee Institute of Information Technology] was compared to [Jaypee University of Information Technology] 
+	http://www.grid.ac/institutes/grid.419639.0....... http://risis.eu/orgref_20170703/resource/6761673.. 0.8............................................... [Jaypee Institute of Information Technology] was compared to [Jaypee University of Information Technology] 
+	http://www.grid.ac/institutes/grid.429171.8....... http://risis.eu/orgref_20170703/resource/3529897.. 0.8............................................... [Jaypee University of Information Technology] was compared to [Jaypee Institute of Information Technology] 
+	http://risis.eu/orgref_20170703/resource/3529897.. http://www.grid.ac/institutes/grid.429171.8....... 0.8............................................... [Jaypee University of Information Technology] was compared to [Jaypee Institute of Information Technology] 
+	http://www.grid.ac/institutes/grid.429171.8....... http://risis.eu/orgref_20170703/resource/6761673.. 1................................................. [Jaypee University of Information Technology] was compared to [Jaypee University of Information Technology] 
+	http://risis.eu/orgref_20170703/resource/6761673.. http://www.grid.ac/institutes/grid.429171.8....... 1................................................. [Jaypee University of Information Technology] was compared to [Jaypee University of Information Technology] 
+	http://risis.eu/orgref_20170703/resource/6761673.. http://risis.eu/orgref_20170703/resource/3529897.. 0.8............................................... [Jaypee Institute of Information Technology] was compared to [Jaypee University of Information Technology] 
+	http://risis.eu/orgref_20170703/resource/3529897.. http://risis.eu/orgref_20170703/resource/6761673.. 0.8............................................... [Jaypee Institute of Information Technology] was compared to [Jaypee University of Information Technology] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.429171.8....... Jaypee University of Information Technology....... 
+	http://risis.eu/orgref_20170703/resource/6761673.. http://en.wikipedia.org/wiki?curid=6761673........ 
+	http://risis.eu/orgref_20170703/resource/6761673.. http://www.wikidata.org/wiki/Q6167953............. 
+	http://risis.eu/orgref_20170703/resource/6761673.. http://www.juit.ac.in............................. 
+	http://risis.eu/orgref_20170703/resource/6761673.. Jaypee University of Information Technology....... 
+	http://www.grid.ac/institutes/grid.419639.0....... 77.37212.......................................... 
+	http://www.grid.ac/institutes/grid.419639.0....... 28.630392......................................... 
+	http://www.grid.ac/institutes/grid.419639.0....... http://www.jiit.ac.in/............................ 
+	http://www.grid.ac/institutes/grid.419639.0....... Jaypee Institute of Information Technology........ 
+	http://risis.eu/orgref_20170703/resource/3529897.. http://en.wikipedia.org/wiki?curid=3529897........ 
+	http://risis.eu/orgref_20170703/resource/3529897.. http://www.wikidata.org/wiki/Q6167945............. 
+	http://risis.eu/orgref_20170703/resource/3529897.. http://www.jiit.ac.in............................. 
+	http://risis.eu/orgref_20170703/resource/3529897.. Jaypee Institute of Information Technology........ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.429171.8', '3:grid.419639.0'), ('2:6761673', '1:grid.429171.8'), ('2:6761673', '3:grid.419639.0'), ('2:6761673', '4:3529897'), ('4:3529897', '1:grid.429171.8'), ('4:3529897', '3:grid.419639.0')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

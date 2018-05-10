@@ -1,0 +1,71 @@
+SIZE    5   
+CLUSTER 18003 
+NAME    N1974024441
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/ES0064>
+	<http://risis.eu/eter_2014/resource/ES0064>
+	<http://risis.eu/orgref_20170703/resource/18037015>
+	<http://www.grid.ac/institutes/grid.13825.3d>
+	<http://www.grid.ac/institutes/grid.441659.b>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/18037015.. http://www.grid.ac/institutes/grid.441659.b........ 1.................................................. [National University of La Rioja] was compared to [National University of La Rioja] 
+	http://www.grid.ac/institutes/grid.441659.b........ http://risis.eu/orgref_20170703/resource/18037015.. 1.................................................. [National University of La Rioja] was compared to [National University of La Rioja] 
+	http://risis.eu/eter_2014/resource/ES0064.......... http://www.grid.ac/institutes/grid.13825.3d........ 1.................................................. [Universidad Internacional De La Rioja] was compared to [Universidad Internacional de la Rioja] 
+	http://www.grid.ac/institutes/grid.13825.3d........ http://risis.eu/eter_2014/resource/ES0064.......... 1.................................................. [Universidad Internacional De La Rioja] was compared to [Universidad Internacional de la Rioja] 
+	http://risis.eu/orgreg_20170718/resource/ES0064.... http://risis.eu/eter_2014/resource/ES0064.......... 0.870967741935..................................... [International University of La Rioja] was compared to [Universidad Internacional de la Rioja] 
+	http://risis.eu/eter_2014/resource/ES0064.......... http://risis.eu/orgreg_20170718/resource/ES0064.... 0.870967741935..................................... [International University of La Rioja] was compared to [Universidad Internacional de la Rioja] 
+	http://risis.eu/orgreg_20170718/resource/ES0064.... http://risis.eu/orgref_20170703/resource/18037015.. 0.833333333333..................................... [National University of La Rioja] was compared to [International University of La Rioja] 
+	http://risis.eu/orgref_20170703/resource/18037015.. http://risis.eu/orgreg_20170718/resource/ES0064.... 0.833333333333..................................... [National University of La Rioja] was compared to [International University of La Rioja] 
+	http://risis.eu/orgreg_20170718/resource/ES0064.... http://www.grid.ac/institutes/grid.13825.3d........ 0.870967741935..................................... [Universidad Internacional De La Rioja] was compared to [International University of La Rioja] 
+	http://www.grid.ac/institutes/grid.13825.3d........ http://risis.eu/orgreg_20170718/resource/ES0064.... 0.870967741935..................................... [Universidad Internacional De La Rioja] was compared to [International University of La Rioja] 
+	http://risis.eu/orgreg_20170718/resource/ES0064.... http://www.grid.ac/institutes/grid.441659.b........ 0.833333333333..................................... [National University of La Rioja] was compared to [International University of La Rioja] 
+	http://www.grid.ac/institutes/grid.441659.b........ http://risis.eu/orgreg_20170718/resource/ES0064.... 0.833333333333..................................... [National University of La Rioja] was compared to [International University of La Rioja] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 19 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgreg_20170718/resource/ES0064.... 42.459877.......................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0064.... -2.44929........................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0064.... http://www.unir.net................................ 
+	http://risis.eu/orgreg_20170718/resource/ES0064.... International University of La Rioja............... 
+	http://risis.eu/eter_2014/resource/ES0064.......... 42,459877.......................................... 
+	http://risis.eu/eter_2014/resource/ES0064.......... -2,44929........................................... 
+	http://risis.eu/eter_2014/resource/ES0064.......... http://www.unir.net................................ 
+	http://risis.eu/eter_2014/resource/ES0064.......... a.................................................. 
+	http://risis.eu/eter_2014/resource/ES0064.......... International University of La Rioja............... 
+	http://risis.eu/eter_2014/resource/ES0064.......... Universidad Internacional de la Rioja.............. 
+	http://risis.eu/orgref_20170703/resource/18037015.. http://en.wikipedia.org/wiki?curid=18037015........ 
+	http://risis.eu/orgref_20170703/resource/18037015.. http://www.wikidata.org/wiki/Q6979253.............. 
+	http://risis.eu/orgref_20170703/resource/18037015.. http://www.unlar.edu.ar............................ 
+	http://risis.eu/orgref_20170703/resource/18037015.. National University of La Rioja.................... 
+	http://www.grid.ac/institutes/grid.13825.3d........ -2.450232.......................................... 
+	http://www.grid.ac/institutes/grid.13825.3d........ 42.464462.......................................... 
+	http://www.grid.ac/institutes/grid.13825.3d........ http://www.unir.net/............................... 
+	http://www.grid.ac/institutes/grid.13825.3d........ Universidad Internacional De La Rioja.............. 
+	http://www.grid.ac/institutes/grid.441659.b........ National University of La Rioja.................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:ES0064', '4:grid.13825.3d'), ('1:ES0064', '5:grid.441659.b'), ('2:ES0064', '1:ES0064'), ('3:18037015', '1:ES0064'), ('4:grid.13825.3d', '2:ES0064'), ('5:grid.441659.b', '3:18037015')]
+	MAX DISTANCE:                   : 0.6
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 1.6
+	AVERAGE NODE CONNECTIVITY RATIO : 0.4
+	BRIDGES                         : 0
+	CLOSURE                         : 0.6
+	DIAMETER                        : 2
+	QUALITY                         : 0.244
+	QUALITY USED                    : 0.262
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.4 DIAMETER 0.333 QUALITY 0.244 QUALITY USED 0.262
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.4 DIAMETER 0.385 QUALITY 0.244 QUALITY USED 0.262

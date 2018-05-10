@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 5786 
+NAME    N1058931603
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.263379.a>
+	<http://risis.eu/orgref_20170703/resource/241070>
+	<http://www.grid.ac/institutes/grid.422129.e>
+	<http://risis.eu/orgref_20170703/resource/233492>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.263379.a...... http://risis.eu/orgref_20170703/resource/241070.. 1................................................ [Seton Hall University] was compared to [Seton Hall University] 
+	http://risis.eu/orgref_20170703/resource/241070.. http://www.grid.ac/institutes/grid.263379.a...... 1................................................ [Seton Hall University] was compared to [Seton Hall University] 
+	http://www.grid.ac/institutes/grid.422129.e...... http://risis.eu/orgref_20170703/resource/233492.. 1................................................ [Seton Hill University] was compared to [Seton Hill University] 
+	http://risis.eu/orgref_20170703/resource/233492.. http://www.grid.ac/institutes/grid.422129.e...... 1................................................ [Seton Hill University] was compared to [Seton Hill University] 
+	http://risis.eu/orgref_20170703/resource/241070.. http://risis.eu/orgref_20170703/resource/233492.. 0.952380952381................................... [Seton Hill University] was compared to [Seton Hall University] 
+	http://risis.eu/orgref_20170703/resource/233492.. http://risis.eu/orgref_20170703/resource/241070.. 0.952380952381................................... [Seton Hill University] was compared to [Seton Hall University] 
+	http://www.grid.ac/institutes/grid.263379.a...... http://www.grid.ac/institutes/grid.422129.e...... 0.952380952381................................... [Seton Hall University] was compared to [Seton Hill University] 
+	http://www.grid.ac/institutes/grid.422129.e...... http://www.grid.ac/institutes/grid.263379.a...... 0.952380952381................................... [Seton Hall University] was compared to [Seton Hill University] 
+	http://www.grid.ac/institutes/grid.263379.a...... http://risis.eu/orgref_20170703/resource/233492.. 0.952380952381................................... [Seton Hall University] was compared to [Seton Hill University] 
+	http://risis.eu/orgref_20170703/resource/233492.. http://www.grid.ac/institutes/grid.263379.a...... 0.952380952381................................... [Seton Hall University] was compared to [Seton Hill University] 
+	http://risis.eu/orgref_20170703/resource/241070.. http://www.grid.ac/institutes/grid.422129.e...... 0.952380952381................................... [Seton Hill University] was compared to [Seton Hall University] 
+	http://www.grid.ac/institutes/grid.422129.e...... http://risis.eu/orgref_20170703/resource/241070.. 0.952380952381................................... [Seton Hill University] was compared to [Seton Hall University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.263379.a...... -74.246635....................................... 
+	http://www.grid.ac/institutes/grid.263379.a...... 40.743145........................................ 
+	http://www.grid.ac/institutes/grid.263379.a...... http://www.shu.edu/.............................. 
+	http://www.grid.ac/institutes/grid.263379.a...... Seton Hall University............................ 
+	http://risis.eu/orgref_20170703/resource/241070.. http://en.wikipedia.org/wiki?curid=241070........ 
+	http://risis.eu/orgref_20170703/resource/241070.. http://www.wikidata.org/wiki/Q585828............. 
+	http://risis.eu/orgref_20170703/resource/241070.. http://www.shu.edu............................... 
+	http://risis.eu/orgref_20170703/resource/241070.. Seton Hall University............................ 
+	http://www.grid.ac/institutes/grid.422129.e...... -79.556.......................................... 
+	http://www.grid.ac/institutes/grid.422129.e...... 40.309........................................... 
+	http://www.grid.ac/institutes/grid.422129.e...... http://www.setonhill.edu/........................ 
+	http://www.grid.ac/institutes/grid.422129.e...... Seton Hill University............................ 
+	http://risis.eu/orgref_20170703/resource/233492.. http://en.wikipedia.org/wiki?curid=233492........ 
+	http://risis.eu/orgref_20170703/resource/233492.. http://www.wikidata.org/wiki/Q1949773............ 
+	http://risis.eu/orgref_20170703/resource/233492.. http://www.setonhill.edu......................... 
+	http://risis.eu/orgref_20170703/resource/233492.. Seton Hill University............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:241070', '1:grid.263379.a'), ('2:241070', '3:grid.422129.e'), ('2:241070', '4:233492'), ('3:grid.422129.e', '1:grid.263379.a'), ('4:233492', '1:grid.263379.a'), ('4:233492', '3:grid.422129.e')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

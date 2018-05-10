@@ -1,0 +1,63 @@
+SIZE    6   
+CLUSTER 17017 
+NAME    N1382363874
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.429629.2>
+	<http://www.grid.ac/institutes/grid.471049.f>
+	<http://risis.eu/cordisH2020/resource/participant_999783657>
+	<http://www.grid.ac/institutes/grid.420947.c>
+	<http://risis.eu/cordisH2020/resource/participant_951721224>
+	<http://risis.eu/cordisH2020/resource/participant_969251355>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_999783657.. http://risis.eu/cordisH2020/resource/participant_969251355.. 0.809523809524.............................................. [INTEL CORPORATION SAS] was compared to [INTEL CORPORATION]. 
+	http://risis.eu/cordisH2020/resource/participant_969251355.. http://risis.eu/cordisH2020/resource/participant_999783657.. 0.809523809524.............................................. [INTEL CORPORATION SAS] was compared to [INTEL CORPORATION]. 
+	http://risis.eu/cordisH2020/resource/participant_951721224.. http://risis.eu/cordisH2020/resource/participant_969251355.. 0.818181818182.............................................. [INTENS CORPORATION SRO] was compared to [INTEL CORPORATION SAS] 
+	http://risis.eu/cordisH2020/resource/participant_969251355.. http://risis.eu/cordisH2020/resource/participant_951721224.. 0.818181818182.............................................. [INTENS CORPORATION SRO] was compared to [INTEL CORPORATION SAS] 
+	http://www.grid.ac/institutes/grid.429629.2................. http://www.grid.ac/institutes/grid.471049.f................. 0.888888888889.............................................. [Linnet Corporation (United States)] was compared to [Lintec Corporation (Japan)] 
+	http://www.grid.ac/institutes/grid.471049.f................. http://www.grid.ac/institutes/grid.429629.2................. 0.888888888889.............................................. [Linnet Corporation (United States)] was compared to [Lintec Corporation (Japan)] 
+	http://risis.eu/cordisH2020/resource/participant_999783657.. http://www.grid.ac/institutes/grid.420947.c................. 0.888888888889.............................................. [Incell Corporation (United States)] was compared to [INTEL CORPORATION] 
+	http://www.grid.ac/institutes/grid.420947.c................. http://risis.eu/cordisH2020/resource/participant_999783657.. 0.888888888889.............................................. [Incell Corporation (United States)] was compared to [INTEL CORPORATION] 
+	http://www.grid.ac/institutes/grid.471049.f................. http://risis.eu/cordisH2020/resource/participant_999783657.. 0.888888888889.............................................. [Lintec Corporation (Japan)] was compared to [INTEL CORPORATION] 
+	http://risis.eu/cordisH2020/resource/participant_999783657.. http://www.grid.ac/institutes/grid.471049.f................. 0.888888888889.............................................. [Lintec Corporation (Japan)] was compared to [INTEL CORPORATION] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.429629.2................. Linnet Corporation (United States).......................... 
+	http://www.grid.ac/institutes/grid.471049.f................. 139.7458.................................................... 
+	http://www.grid.ac/institutes/grid.471049.f................. 35.703457................................................... 
+	http://www.grid.ac/institutes/grid.471049.f................. http://www.lintec.co.jp/.................................... 
+	http://www.grid.ac/institutes/grid.471049.f................. Lintec Corporation (Japan).................................. 
+	http://risis.eu/cordisH2020/resource/participant_999783657.. INTEL CORPORATION........................................... 
+	http://www.grid.ac/institutes/grid.420947.c................. -98.598274.................................................. 
+	http://www.grid.ac/institutes/grid.420947.c................. 29.55936.................................................... 
+	http://www.grid.ac/institutes/grid.420947.c................. http://www.incell.com/#..................................... 
+	http://www.grid.ac/institutes/grid.420947.c................. Incell Corporation (United States).......................... 
+	http://risis.eu/cordisH2020/resource/participant_951721224.. INTENS CORPORATION SRO...................................... 
+	http://risis.eu/cordisH2020/resource/participant_969251355.. INTEL CORPORATION SAS....................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.471049.f', '1:grid.429629.2'), ('3:participant_999783657', '2:grid.471049.f'), ('3:participant_999783657', '6:participant_969251355'), ('4:grid.420947.c', '3:participant_999783657'), ('6:participant_969251355', '5:participant_951721224')]
+	MAX DISTANCE:                   : 0.333
+	MAXIMUM POSSIBLE CONNECTIVITY   : 5
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.2
+	BRIDGES                         : 5
+	CLOSURE                         : 0.333
+	DIAMETER                        : 4
+	QUALITY                         : 0.807
+	QUALITY USED                    : 0.807
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.67 DIAMETER 0.75 QUALITY 0.807 QUALITY USED 0.807
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.67 DIAMETER 0.75 QUALITY 0.807 QUALITY USED 0.807

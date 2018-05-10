@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 18032 
+NAME    P51835872
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.415757.5>
+	<http://risis.eu/orgref_20170703/resource/29806637>
+	<http://www.grid.ac/institutes/grid.459497.2>
+	<http://www.grid.ac/institutes/grid.461136.7>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/29806637.. http://www.grid.ac/institutes/grid.461136.7........ 1.................................................. [Medina General Hospital] was compared to [Medina General Hospital] 
+	http://www.grid.ac/institutes/grid.461136.7........ http://risis.eu/orgref_20170703/resource/29806637.. 1.................................................. [Medina General Hospital] was compared to [Medina General Hospital] 
+	http://www.grid.ac/institutes/grid.415757.5........ http://www.grid.ac/institutes/grid.461136.7........ 0.913043478261..................................... [Regina General Hospital] was compared to [Medina General Hospital] 
+	http://www.grid.ac/institutes/grid.461136.7........ http://www.grid.ac/institutes/grid.415757.5........ 0.913043478261..................................... [Regina General Hospital] was compared to [Medina General Hospital] 
+	http://www.grid.ac/institutes/grid.415757.5........ http://www.grid.ac/institutes/grid.459497.2........ 0.913043478261..................................... [Regina General Hospital] was compared to [Ebina General Hospital] 
+	http://www.grid.ac/institutes/grid.459497.2........ http://www.grid.ac/institutes/grid.415757.5........ 0.913043478261..................................... [Regina General Hospital] was compared to [Ebina General Hospital] 
+	http://www.grid.ac/institutes/grid.459497.2........ http://www.grid.ac/institutes/grid.461136.7........ 0.913043478261..................................... [Ebina General Hospital] was compared to [Medina General Hospital] 
+	http://www.grid.ac/institutes/grid.461136.7........ http://www.grid.ac/institutes/grid.459497.2........ 0.913043478261..................................... [Ebina General Hospital] was compared to [Medina General Hospital] 
+	http://www.grid.ac/institutes/grid.415757.5........ http://risis.eu/orgref_20170703/resource/29806637.. 0.913043478261..................................... [Regina General Hospital] was compared to [Medina General Hospital] 
+	http://risis.eu/orgref_20170703/resource/29806637.. http://www.grid.ac/institutes/grid.415757.5........ 0.913043478261..................................... [Regina General Hospital] was compared to [Medina General Hospital] 
+	http://risis.eu/orgref_20170703/resource/29806637.. http://www.grid.ac/institutes/grid.459497.2........ 0.913043478261..................................... [Ebina General Hospital] was compared to [Medina General Hospital] 
+	http://www.grid.ac/institutes/grid.459497.2........ http://risis.eu/orgref_20170703/resource/29806637.. 0.913043478261..................................... [Ebina General Hospital] was compared to [Medina General Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.415757.5........ -104.60114......................................... 
+	http://www.grid.ac/institutes/grid.415757.5........ 50.44352........................................... 
+	http://www.grid.ac/institutes/grid.415757.5........ http://www.rqhealth.ca/facilities/regina-general-hospital 
+	http://www.grid.ac/institutes/grid.415757.5........ Regina General Hospital............................ 
+	http://risis.eu/orgref_20170703/resource/29806637.. http://en.wikipedia.org/wiki?curid=29806637........ 
+	http://risis.eu/orgref_20170703/resource/29806637.. http://www.wikidata.org/wiki/Q14956809............. 
+	http://risis.eu/orgref_20170703/resource/29806637.. Medina General Hospital............................ 
+	http://www.grid.ac/institutes/grid.459497.2........ 139.38571.......................................... 
+	http://www.grid.ac/institutes/grid.459497.2........ 35.447697.......................................... 
+	http://www.grid.ac/institutes/grid.459497.2........ http://ebina.jinai.jp/index.php.................... 
+	http://www.grid.ac/institutes/grid.459497.2........ Ebina General Hospital............................. 
+	http://www.grid.ac/institutes/grid.461136.7........ 123.848854......................................... 
+	http://www.grid.ac/institutes/grid.461136.7........ 8.145807........................................... 
+	http://www.grid.ac/institutes/grid.461136.7........ Medina General Hospital............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:29806637', '1:grid.415757.5'), ('2:29806637', '4:grid.461136.7'), ('3:grid.459497.2', '1:grid.415757.5'), ('3:grid.459497.2', '2:29806637'), ('4:grid.461136.7', '1:grid.415757.5'), ('4:grid.461136.7', '3:grid.459497.2')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

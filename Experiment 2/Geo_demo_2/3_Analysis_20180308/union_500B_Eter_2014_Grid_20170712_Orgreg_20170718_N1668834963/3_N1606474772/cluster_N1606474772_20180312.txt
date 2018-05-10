@@ -1,0 +1,55 @@
+SIZE    3   
+CLUSTER 61 
+NAME    N1606474772
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.5884.1>
+	<http://www.grid.ac/institutes/grid.470635.3>
+	<http://risis.eu/eter_2014/resource/UK0111>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.5884.1.... http://risis.eu/eter_2014/resource/UK0111.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.470635.3.. http://risis.eu/eter_2014/resource/UK0111.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/UK0111.... http://www.grid.ac/institutes/grid.5884.1.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/UK0111.... http://www.grid.ac/institutes/grid.470635.3.. 1............................................ Near each other by at most 500 meter(s)...... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.5884.1.... -1.465633.................................... 
+	http://www.grid.ac/institutes/grid.5884.1.... 53.3786...................................... 
+	http://www.grid.ac/institutes/grid.5884.1.... http://www.shu.ac.uk/........................ 
+	http://www.grid.ac/institutes/grid.5884.1.... Sheffield Hallam University.................. 
+	http://www.grid.ac/institutes/grid.470635.3.. -1.468565.................................... 
+	http://www.grid.ac/institutes/grid.470635.3.. 53.3813...................................... 
+	http://www.grid.ac/institutes/grid.470635.3.. http://smartcomptech.com/.................... 
+	http://www.grid.ac/institutes/grid.470635.3.. Smart Component Technologies (United Kingdom) 
+	http://risis.eu/eter_2014/resource/UK0111.... 53,379194.................................... 
+	http://risis.eu/eter_2014/resource/UK0111.... -1,465255.................................... 
+	http://risis.eu/eter_2014/resource/UK0111.... http://www.shu.ac.uk/........................ 
+	http://risis.eu/eter_2014/resource/UK0111.... a............................................ 
+	http://risis.eu/eter_2014/resource/UK0111.... Sheffield Hallam University.................. 
+
+NETWORK ANALYSIS
+	NETWORK [('N504455697-UK0111', 'N1606474772-grid.5884.1'), ('N504455697-UK0111', 'N623029602-grid.470635.3')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 2465 
+NAME    N1823025517
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/5014305>
+	<http://risis.eu/orgref_20170703/resource/910252>
+	<http://www.grid.ac/institutes/grid.468795.1>
+	<http://risis.eu/orgref_20170703/resource/529687>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.468795.1....... http://risis.eu/orgref_20170703/resource/529687... 1................................................. [College of St. Joseph] was compared to [College of St. Joseph] 
+	http://risis.eu/orgref_20170703/resource/529687... http://www.grid.ac/institutes/grid.468795.1....... 1................................................. [College of St. Joseph] was compared to [College of St. Joseph] 
+	http://risis.eu/orgref_20170703/resource/910252... http://www.grid.ac/institutes/grid.468795.1....... 0.944444444444.................................... [College of St. Joseph] was compared to [St. Joseph's College (New York)] 
+	http://www.grid.ac/institutes/grid.468795.1....... http://risis.eu/orgref_20170703/resource/910252... 0.944444444444.................................... [College of St. Joseph] was compared to [St. Joseph's College (New York)] 
+	http://risis.eu/orgref_20170703/resource/5014305.. http://www.grid.ac/institutes/grid.468795.1....... 0.944444444444.................................... [College of St. Joseph] was compared to [St. Joseph's College (Pakistan)] 
+	http://www.grid.ac/institutes/grid.468795.1....... http://risis.eu/orgref_20170703/resource/5014305.. 0.944444444444.................................... [College of St. Joseph] was compared to [St. Joseph's College (Pakistan)] 
+	http://risis.eu/orgref_20170703/resource/910252... http://risis.eu/orgref_20170703/resource/529687... 0.944444444444.................................... [College of St. Joseph] was compared to [St. Joseph's College (New York)] 
+	http://risis.eu/orgref_20170703/resource/529687... http://risis.eu/orgref_20170703/resource/910252... 0.944444444444.................................... [College of St. Joseph] was compared to [St. Joseph's College (New York)] 
+	http://risis.eu/orgref_20170703/resource/5014305.. http://risis.eu/orgref_20170703/resource/910252... 1................................................. [St. Joseph's College (Pakistan)] was compared to [St. Joseph's College (New York)] 
+	http://risis.eu/orgref_20170703/resource/910252... http://risis.eu/orgref_20170703/resource/5014305.. 1................................................. [St. Joseph's College (Pakistan)] was compared to [St. Joseph's College (New York)] 
+	http://risis.eu/orgref_20170703/resource/5014305.. http://risis.eu/orgref_20170703/resource/529687... 0.944444444444.................................... [St. Joseph's College (Pakistan)] was compared to [College of St. Joseph] 
+	http://risis.eu/orgref_20170703/resource/529687... http://risis.eu/orgref_20170703/resource/5014305.. 0.944444444444.................................... [St. Joseph's College (Pakistan)] was compared to [College of St. Joseph] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/5014305.. http://en.wikipedia.org/wiki?curid=5014305........ 
+	http://risis.eu/orgref_20170703/resource/5014305.. http://www.wikidata.org/wiki/Q15982519............ 
+	http://risis.eu/orgref_20170703/resource/5014305.. http://www.stjosephscollege.edu.pk................ 
+	http://risis.eu/orgref_20170703/resource/5014305.. St. Joseph's College (Pakistan)................... 
+	http://risis.eu/orgref_20170703/resource/910252... http://en.wikipedia.org/wiki?curid=910252......... 
+	http://risis.eu/orgref_20170703/resource/910252... http://www.wikidata.org/wiki/Q3463909............. 
+	http://risis.eu/orgref_20170703/resource/910252... http://www.sjcny.edu.............................. 
+	http://risis.eu/orgref_20170703/resource/910252... St. Joseph's College (New York)................... 
+	http://www.grid.ac/institutes/grid.468795.1....... -73.00131......................................... 
+	http://www.grid.ac/institutes/grid.468795.1....... 43.60074.......................................... 
+	http://www.grid.ac/institutes/grid.468795.1....... http://www.csj.edu/............................... 
+	http://www.grid.ac/institutes/grid.468795.1....... College of St. Joseph............................. 
+	http://risis.eu/orgref_20170703/resource/529687... http://en.wikipedia.org/wiki?curid=529687......... 
+	http://risis.eu/orgref_20170703/resource/529687... http://www.wikidata.org/wiki/Q5146842............. 
+	http://risis.eu/orgref_20170703/resource/529687... http://www.csj.edu................................ 
+	http://risis.eu/orgref_20170703/resource/529687... College of St. Joseph............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:910252', '1:5014305'), ('2:910252', '3:grid.468795.1'), ('2:910252', '4:529687'), ('3:grid.468795.1', '1:5014305'), ('4:529687', '1:5014305'), ('4:529687', '3:grid.468795.1')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

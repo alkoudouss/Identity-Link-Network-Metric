@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 7187 
+NAME    N1814722355
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/585749>
+	<http://risis.eu/orgreg_20170718/resource/PT0007>
+	<http://www.grid.ac/institutes/grid.9983.b>
+	<http://risis.eu/leidenRanking_2015/resource/557>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/585749.. http://www.grid.ac/institutes/grid.9983.b........ 1................................................ [University of Lisbon] was compared to [University of Lisbon] 
+	http://www.grid.ac/institutes/grid.9983.b........ http://risis.eu/orgref_20170703/resource/585749.. 1................................................ [University of Lisbon] was compared to [University of Lisbon] 
+	http://www.grid.ac/institutes/grid.9983.b........ http://risis.eu/leidenRanking_2015/resource/557.. 1................................................ [University of Lisbon] was compared to [University of Lisbon] 
+	http://risis.eu/leidenRanking_2015/resource/557.. http://www.grid.ac/institutes/grid.9983.b........ 1................................................ [University of Lisbon] was compared to [University of Lisbon] 
+	http://risis.eu/orgref_20170703/resource/585749.. http://risis.eu/leidenRanking_2015/resource/557.. 1................................................ [University of Lisbon] was compared to [University of Lisbon] 
+	http://risis.eu/leidenRanking_2015/resource/557.. http://risis.eu/orgref_20170703/resource/585749.. 1................................................ [University of Lisbon] was compared to [University of Lisbon] 
+	http://risis.eu/orgreg_20170718/resource/PT0007.. http://risis.eu/leidenRanking_2015/resource/557.. 1................................................ [University of Lisbon] was compared to [University of Lisbon] 
+	http://risis.eu/leidenRanking_2015/resource/557.. http://risis.eu/orgreg_20170718/resource/PT0007.. 1................................................ [University of Lisbon] was compared to [University of Lisbon] 
+	http://risis.eu/orgref_20170703/resource/585749.. http://risis.eu/orgreg_20170718/resource/PT0007.. 1................................................ [University of Lisbon] was compared to [University of Lisbon] 
+	http://risis.eu/orgreg_20170718/resource/PT0007.. http://risis.eu/orgref_20170703/resource/585749.. 1................................................ [University of Lisbon] was compared to [University of Lisbon] 
+	http://risis.eu/orgreg_20170718/resource/PT0007.. http://www.grid.ac/institutes/grid.9983.b........ 1................................................ [University of Lisbon] was compared to [University of Lisbon] 
+	http://www.grid.ac/institutes/grid.9983.b........ http://risis.eu/orgreg_20170718/resource/PT0007.. 1................................................ [University of Lisbon] was compared to [University of Lisbon] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/585749.. http://en.wikipedia.org/wiki?curid=585749........ 
+	http://risis.eu/orgref_20170703/resource/585749.. http://www.wikidata.org/wiki/Q1122926............ 
+	http://risis.eu/orgref_20170703/resource/585749.. http://www.ulisboa.pt............................ 
+	http://risis.eu/orgref_20170703/resource/585749.. University of Lisbon............................. 
+	http://risis.eu/orgreg_20170718/resource/PT0007.. -9.1393366....................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0007.. 38.7222524....................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0007.. http://www.ulisboa.pt............................ 
+	http://risis.eu/orgreg_20170718/resource/PT0007.. University of Lisbon............................. 
+	http://www.grid.ac/institutes/grid.9983.b........ -9.156779........................................ 
+	http://www.grid.ac/institutes/grid.9983.b........ 38.753227........................................ 
+	http://www.grid.ac/institutes/grid.9983.b........ http://www.ulisboa.pt/........................... 
+	http://www.grid.ac/institutes/grid.9983.b........ University of Lisbon............................. 
+	http://risis.eu/leidenRanking_2015/resource/557.. University of Lisbon............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:585749', '3:grid.9983.b'), ('2:PT0007', '1:585749'), ('3:grid.9983.b', '2:PT0007'), ('4:557', '1:585749'), ('4:557', '2:PT0007'), ('4:557', '3:grid.9983.b')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

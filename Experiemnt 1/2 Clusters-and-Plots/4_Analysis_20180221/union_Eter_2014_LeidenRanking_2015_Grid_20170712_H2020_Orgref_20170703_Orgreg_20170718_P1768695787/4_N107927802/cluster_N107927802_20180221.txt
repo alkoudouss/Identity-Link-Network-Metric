@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 17994 
+NAME    N107927802
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.420560.5>
+	<http://www.grid.ac/institutes/grid.437915.d>
+	<http://www.grid.ac/institutes/grid.425972.f>
+	<http://www.grid.ac/institutes/grid.448591.5>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.420560.5.. http://www.grid.ac/institutes/grid.437915.d.. 1............................................ [Skanska (United Kingdom)] was compared to [Skanska (Sweden)] 
+	http://www.grid.ac/institutes/grid.437915.d.. http://www.grid.ac/institutes/grid.420560.5.. 1............................................ [Skanska (United Kingdom)] was compared to [Skanska (Sweden)] 
+	http://www.grid.ac/institutes/grid.420560.5.. http://www.grid.ac/institutes/grid.425972.f.. 1............................................ [Skanska (United Kingdom)] was compared to [Skanska (Norway)] 
+	http://www.grid.ac/institutes/grid.425972.f.. http://www.grid.ac/institutes/grid.420560.5.. 1............................................ [Skanska (United Kingdom)] was compared to [Skanska (Norway)] 
+	http://www.grid.ac/institutes/grid.420560.5.. http://www.grid.ac/institutes/grid.448591.5.. 1............................................ [Skanska (United Kingdom)] was compared to [Skanska (Czech Republic)] 
+	http://www.grid.ac/institutes/grid.448591.5.. http://www.grid.ac/institutes/grid.420560.5.. 1............................................ [Skanska (United Kingdom)] was compared to [Skanska (Czech Republic)] 
+	http://www.grid.ac/institutes/grid.437915.d.. http://www.grid.ac/institutes/grid.425972.f.. 1............................................ [Skanska (Norway)] was compared to [Skanska (Sweden)] 
+	http://www.grid.ac/institutes/grid.425972.f.. http://www.grid.ac/institutes/grid.437915.d.. 1............................................ [Skanska (Norway)] was compared to [Skanska (Sweden)] 
+	http://www.grid.ac/institutes/grid.425972.f.. http://www.grid.ac/institutes/grid.448591.5.. 1............................................ [Skanska (Norway)] was compared to [Skanska (Czech Republic)] 
+	http://www.grid.ac/institutes/grid.448591.5.. http://www.grid.ac/institutes/grid.425972.f.. 1............................................ [Skanska (Norway)] was compared to [Skanska (Czech Republic)] 
+	http://www.grid.ac/institutes/grid.437915.d.. http://www.grid.ac/institutes/grid.448591.5.. 1............................................ [Skanska (Sweden)] was compared to [Skanska (Czech Republic)] 
+	http://www.grid.ac/institutes/grid.448591.5.. http://www.grid.ac/institutes/grid.437915.d.. 1............................................ [Skanska (Sweden)] was compared to [Skanska (Czech Republic)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.420560.5.. -0.507639.................................... 
+	http://www.grid.ac/institutes/grid.420560.5.. 51.625305.................................... 
+	http://www.grid.ac/institutes/grid.420560.5.. http://www.skanska.co.uk/.................... 
+	http://www.grid.ac/institutes/grid.420560.5.. Aktiebolaget Skånska Cementgjuteriet........ 
+	http://www.grid.ac/institutes/grid.420560.5.. Skanska (United Kingdom)..................... 
+	http://www.grid.ac/institutes/grid.437915.d.. Skanska (Sweden)............................. 
+	http://www.grid.ac/institutes/grid.425972.f.. 10.764702.................................... 
+	http://www.grid.ac/institutes/grid.425972.f.. 59.909355.................................... 
+	http://www.grid.ac/institutes/grid.425972.f.. http://www.skanska.no/....................... 
+	http://www.grid.ac/institutes/grid.425972.f.. Skanska (Norway)............................. 
+	http://www.grid.ac/institutes/grid.448591.5.. Skanska (Czech Republic)..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.437915.d', '1:grid.420560.5'), ('2:grid.437915.d', '3:grid.425972.f'), ('3:grid.425972.f', '1:grid.420560.5'), ('4:grid.448591.5', '1:grid.420560.5'), ('4:grid.448591.5', '2:grid.437915.d'), ('4:grid.448591.5', '3:grid.425972.f')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

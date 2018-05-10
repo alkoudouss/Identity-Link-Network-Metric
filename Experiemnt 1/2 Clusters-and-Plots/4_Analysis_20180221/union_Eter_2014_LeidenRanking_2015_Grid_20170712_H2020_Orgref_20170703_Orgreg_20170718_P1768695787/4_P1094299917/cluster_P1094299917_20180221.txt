@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 4212 
+NAME    P1094299917
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.418655.b>
+	<http://www.grid.ac/institutes/grid.448327.e>
+	<http://www.grid.ac/institutes/grid.459598.c>
+	<http://www.grid.ac/institutes/grid.425059.f>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.418655.b.. http://www.grid.ac/institutes/grid.448327.e.. 1............................................ [Intertek (Canada)] was compared to [Intertek (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.448327.e.. http://www.grid.ac/institutes/grid.418655.b.. 1............................................ [Intertek (Canada)] was compared to [Intertek (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.418655.b.. http://www.grid.ac/institutes/grid.425059.f.. 1............................................ [Intertek (Canada)] was compared to [Intertek (Sweden)] 
+	http://www.grid.ac/institutes/grid.425059.f.. http://www.grid.ac/institutes/grid.418655.b.. 1............................................ [Intertek (Canada)] was compared to [Intertek (Sweden)] 
+	http://www.grid.ac/institutes/grid.418655.b.. http://www.grid.ac/institutes/grid.459598.c.. 1............................................ [Intertek (Canada)] was compared to [Intertek (Switzerland)] 
+	http://www.grid.ac/institutes/grid.459598.c.. http://www.grid.ac/institutes/grid.418655.b.. 1............................................ [Intertek (Canada)] was compared to [Intertek (Switzerland)] 
+	http://www.grid.ac/institutes/grid.448327.e.. http://www.grid.ac/institutes/grid.425059.f.. 1............................................ [Intertek (Sweden)] was compared to [Intertek (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.425059.f.. http://www.grid.ac/institutes/grid.448327.e.. 1............................................ [Intertek (Sweden)] was compared to [Intertek (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.459598.c.. http://www.grid.ac/institutes/grid.425059.f.. 1............................................ [Intertek (Sweden)] was compared to [Intertek (Switzerland)] 
+	http://www.grid.ac/institutes/grid.425059.f.. http://www.grid.ac/institutes/grid.459598.c.. 1............................................ [Intertek (Sweden)] was compared to [Intertek (Switzerland)] 
+	http://www.grid.ac/institutes/grid.448327.e.. http://www.grid.ac/institutes/grid.459598.c.. 1............................................ [Intertek (United Kingdom)] was compared to [Intertek (Switzerland)] 
+	http://www.grid.ac/institutes/grid.459598.c.. http://www.grid.ac/institutes/grid.448327.e.. 1............................................ [Intertek (United Kingdom)] was compared to [Intertek (Switzerland)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.418655.b.. -79.74569.................................... 
+	http://www.grid.ac/institutes/grid.418655.b.. 43.597588.................................... 
+	http://www.grid.ac/institutes/grid.418655.b.. http://www.intertek.com/canada/.............. 
+	http://www.grid.ac/institutes/grid.418655.b.. Intertek (Canada)............................ 
+	http://www.grid.ac/institutes/grid.448327.e.. Intertek (United Kingdom).................... 
+	http://www.grid.ac/institutes/grid.459598.c.. 8.455371..................................... 
+	http://www.grid.ac/institutes/grid.459598.c.. 47.39883..................................... 
+	http://www.grid.ac/institutes/grid.459598.c.. http://www.intertek.ch/...................... 
+	http://www.grid.ac/institutes/grid.459598.c.. Intertek (Switzerland)....................... 
+	http://www.grid.ac/institutes/grid.425059.f.. Intertek (Sweden)............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.448327.e', '1:grid.418655.b'), ('3:grid.459598.c', '1:grid.418655.b'), ('3:grid.459598.c', '2:grid.448327.e'), ('3:grid.459598.c', '4:grid.425059.f'), ('4:grid.425059.f', '1:grid.418655.b'), ('4:grid.425059.f', '2:grid.448327.e')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

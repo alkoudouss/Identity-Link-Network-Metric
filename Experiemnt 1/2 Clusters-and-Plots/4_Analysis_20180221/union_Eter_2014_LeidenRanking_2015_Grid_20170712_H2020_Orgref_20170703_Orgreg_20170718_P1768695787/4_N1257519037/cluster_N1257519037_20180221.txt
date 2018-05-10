@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 15364 
+NAME    N1257519037
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.411020.6>
+	<http://risis.eu/orgref_20170703/resource/2111956>
+	<http://risis.eu/orgref_20170703/resource/624245>
+	<http://www.grid.ac/institutes/grid.469273.d>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/2111956.. http://www.grid.ac/institutes/grid.469273.d....... 0.862068965517.................................... [Texas State University System] was compared to [University of North Texas System] 
+	http://www.grid.ac/institutes/grid.469273.d....... http://risis.eu/orgref_20170703/resource/2111956.. 0.862068965517.................................... [Texas State University System] was compared to [University of North Texas System] 
+	http://risis.eu/orgref_20170703/resource/624245... http://www.grid.ac/institutes/grid.469273.d....... 1................................................. [Texas State University System] was compared to [Texas State University System] 
+	http://www.grid.ac/institutes/grid.469273.d....... http://risis.eu/orgref_20170703/resource/624245... 1................................................. [Texas State University System] was compared to [Texas State University System] 
+	http://www.grid.ac/institutes/grid.411020.6....... http://risis.eu/orgref_20170703/resource/2111956.. 1................................................. [University of North Texas System] was compared to [University of North Texas System] 
+	http://risis.eu/orgref_20170703/resource/2111956.. http://www.grid.ac/institutes/grid.411020.6....... 1................................................. [University of North Texas System] was compared to [University of North Texas System] 
+	http://www.grid.ac/institutes/grid.411020.6....... http://risis.eu/orgref_20170703/resource/624245... 0.862068965517.................................... [University of North Texas System] was compared to [Texas State University System] 
+	http://risis.eu/orgref_20170703/resource/624245... http://www.grid.ac/institutes/grid.411020.6....... 0.862068965517.................................... [University of North Texas System] was compared to [Texas State University System] 
+	http://risis.eu/orgref_20170703/resource/2111956.. http://risis.eu/orgref_20170703/resource/624245... 0.862068965517.................................... [University of North Texas System] was compared to [Texas State University System] 
+	http://risis.eu/orgref_20170703/resource/624245... http://risis.eu/orgref_20170703/resource/2111956.. 0.862068965517.................................... [University of North Texas System] was compared to [Texas State University System] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.411020.6....... -96.79515......................................... 
+	http://www.grid.ac/institutes/grid.411020.6....... 32.782875......................................... 
+	http://www.grid.ac/institutes/grid.411020.6....... https://www.untsystem.edu/........................ 
+	http://www.grid.ac/institutes/grid.411020.6....... UNT System........................................ 
+	http://www.grid.ac/institutes/grid.411020.6....... University of North Texas System.................. 
+	http://risis.eu/orgref_20170703/resource/2111956.. http://en.wikipedia.org/wiki?curid=2111956........ 
+	http://risis.eu/orgref_20170703/resource/2111956.. http://www.wikidata.org/wiki/Q385046.............. 
+	http://risis.eu/orgref_20170703/resource/2111956.. http://www.untsystem.edu.......................... 
+	http://risis.eu/orgref_20170703/resource/2111956.. University of North Texas System.................. 
+	http://risis.eu/orgref_20170703/resource/624245... http://en.wikipedia.org/wiki?curid=624245......... 
+	http://risis.eu/orgref_20170703/resource/624245... http://www.wikidata.org/wiki/Q623581.............. 
+	http://risis.eu/orgref_20170703/resource/624245... http://www.tsus.edu............................... 
+	http://risis.eu/orgref_20170703/resource/624245... Texas State University System..................... 
+	http://www.grid.ac/institutes/grid.469273.d....... -97.73952......................................... 
+	http://www.grid.ac/institutes/grid.469273.d....... 30.27157.......................................... 
+	http://www.grid.ac/institutes/grid.469273.d....... http://www.tsus.edu/.............................. 
+	http://www.grid.ac/institutes/grid.469273.d....... Texas State University System..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:2111956', '1:grid.411020.6'), ('3:624245', '1:grid.411020.6'), ('3:624245', '2:2111956'), ('3:624245', '4:grid.469273.d'), ('4:grid.469273.d', '2:2111956')]
+	MAX DISTANCE:                   : 0.833
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 2.16666666667
+	AVERAGE NODE CONNECTIVITY RATIO : 0.722222222222
+	BRIDGES                         : 0
+	CLOSURE                         : 0.833
+	DIAMETER                        : 2
+	QUALITY                         : 0.223
+	QUALITY USED                    : 0.223
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223

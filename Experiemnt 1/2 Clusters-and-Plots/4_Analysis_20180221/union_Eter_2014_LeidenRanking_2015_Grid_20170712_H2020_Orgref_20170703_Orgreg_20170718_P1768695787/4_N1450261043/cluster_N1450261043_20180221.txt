@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 6724 
+NAME    N1450261043
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.476576.1>
+	<http://www.grid.ac/institutes/grid.476582.a>
+	<http://www.grid.ac/institutes/grid.476579.e>
+	<http://risis.eu/orgref_20170703/resource/25138094>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.476576.1........ http://www.grid.ac/institutes/grid.476579.e........ 1.................................................. [Octapharma (Switzerland)] was compared to [Octapharma (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.476579.e........ http://www.grid.ac/institutes/grid.476576.1........ 1.................................................. [Octapharma (Switzerland)] was compared to [Octapharma (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.476576.1........ http://www.grid.ac/institutes/grid.476582.a........ 1.................................................. [Octapharma (Switzerland)] was compared to [Octapharma (Austria)] 
+	http://www.grid.ac/institutes/grid.476582.a........ http://www.grid.ac/institutes/grid.476576.1........ 1.................................................. [Octapharma (Switzerland)] was compared to [Octapharma (Austria)] 
+	http://www.grid.ac/institutes/grid.476582.a........ http://www.grid.ac/institutes/grid.476579.e........ 1.................................................. [Octapharma (United Kingdom)] was compared to [Octapharma (Austria)] 
+	http://www.grid.ac/institutes/grid.476579.e........ http://www.grid.ac/institutes/grid.476582.a........ 1.................................................. [Octapharma (United Kingdom)] was compared to [Octapharma (Austria)] 
+	http://www.grid.ac/institutes/grid.476576.1........ http://risis.eu/orgref_20170703/resource/25138094.. 1.................................................. [Octapharma (Switzerland)] was compared to [Octapharma] 
+	http://risis.eu/orgref_20170703/resource/25138094.. http://www.grid.ac/institutes/grid.476576.1........ 1.................................................. [Octapharma (Switzerland)] was compared to [Octapharma] 
+	http://www.grid.ac/institutes/grid.476579.e........ http://risis.eu/orgref_20170703/resource/25138094.. 1.................................................. [Octapharma (United Kingdom)] was compared to [Octapharma] 
+	http://risis.eu/orgref_20170703/resource/25138094.. http://www.grid.ac/institutes/grid.476579.e........ 1.................................................. [Octapharma (United Kingdom)] was compared to [Octapharma] 
+	http://www.grid.ac/institutes/grid.476582.a........ http://risis.eu/orgref_20170703/resource/25138094.. 1.................................................. [Octapharma (Austria)] was compared to [Octapharma] 
+	http://risis.eu/orgref_20170703/resource/25138094.. http://www.grid.ac/institutes/grid.476582.a........ 1.................................................. [Octapharma (Austria)] was compared to [Octapharma] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.476576.1........ 8.854119........................................... 
+	http://www.grid.ac/institutes/grid.476576.1........ 47.191612.......................................... 
+	http://www.grid.ac/institutes/grid.476576.1........ http://www.octapharma.com/en.html.................. 
+	http://www.grid.ac/institutes/grid.476576.1........ Octapharma (Switzerland)........................... 
+	http://www.grid.ac/institutes/grid.476582.a........ 16.376894.......................................... 
+	http://www.grid.ac/institutes/grid.476582.a........ 48.14336........................................... 
+	http://www.grid.ac/institutes/grid.476582.a........ http://www.octapharma.com/en.html.................. 
+	http://www.grid.ac/institutes/grid.476582.a........ Octapharma (Austria)............................... 
+	http://www.grid.ac/institutes/grid.476579.e........ -2.241673.......................................... 
+	http://www.grid.ac/institutes/grid.476579.e........ 53.481655.......................................... 
+	http://www.grid.ac/institutes/grid.476579.e........ http://www.octapharma.co.uk/en.html................ 
+	http://www.grid.ac/institutes/grid.476579.e........ Octapharma (United Kingdom)........................ 
+	http://risis.eu/orgref_20170703/resource/25138094.. http://en.wikipedia.org/wiki?curid=25138094........ 
+	http://risis.eu/orgref_20170703/resource/25138094.. http://www.wikidata.org/wiki/Q2013806.............. 
+	http://risis.eu/orgref_20170703/resource/25138094.. http://www.octapharma.com.......................... 
+	http://risis.eu/orgref_20170703/resource/25138094.. Octapharma......................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.476582.a', '1:grid.476576.1'), ('2:grid.476582.a', '3:grid.476579.e'), ('3:grid.476579.e', '1:grid.476576.1'), ('4:25138094', '1:grid.476576.1'), ('4:25138094', '2:grid.476582.a'), ('4:25138094', '3:grid.476579.e')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

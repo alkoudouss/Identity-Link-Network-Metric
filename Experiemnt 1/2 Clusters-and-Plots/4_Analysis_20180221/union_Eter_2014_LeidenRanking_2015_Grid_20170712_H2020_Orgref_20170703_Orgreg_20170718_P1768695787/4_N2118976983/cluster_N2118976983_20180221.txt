@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 16503 
+NAME    N2118976983
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.447694.c>
+	<http://risis.eu/orgref_20170703/resource/6265863>
+	<http://www.grid.ac/institutes/grid.14003.36>
+	<http://risis.eu/orgref_20170703/resource/23536538>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.14003.36........ http://risis.eu/orgref_20170703/resource/23536538.. 1.................................................. [University of Wisconsin–Madison] was compared to [University of Wisconsin–Madison] 
+	http://risis.eu/orgref_20170703/resource/23536538.. http://www.grid.ac/institutes/grid.14003.36........ 1.................................................. [University of Wisconsin–Madison] was compared to [University of Wisconsin–Madison] 
+	http://www.grid.ac/institutes/grid.447694.c........ http://risis.eu/orgref_20170703/resource/6265863... 1.................................................. [University of Wisconsin–Manitowoc] was compared to [University of Wisconsin–Manitowoc] 
+	http://risis.eu/orgref_20170703/resource/6265863... http://www.grid.ac/institutes/grid.447694.c........ 1.................................................. [University of Wisconsin–Manitowoc] was compared to [University of Wisconsin–Manitowoc] 
+	http://risis.eu/orgref_20170703/resource/6265863... http://risis.eu/orgref_20170703/resource/23536538.. 0.827586206897..................................... [University of Wisconsin–Madison] was compared to [University of Wisconsin–Manitowoc] 
+	http://risis.eu/orgref_20170703/resource/23536538.. http://risis.eu/orgref_20170703/resource/6265863... 0.827586206897..................................... [University of Wisconsin–Madison] was compared to [University of Wisconsin–Manitowoc] 
+	http://www.grid.ac/institutes/grid.447694.c........ http://www.grid.ac/institutes/grid.14003.36........ 0.827586206897..................................... [University of Wisconsin–Madison] was compared to [University of Wisconsin–Manitowoc] 
+	http://www.grid.ac/institutes/grid.14003.36........ http://www.grid.ac/institutes/grid.447694.c........ 0.827586206897..................................... [University of Wisconsin–Madison] was compared to [University of Wisconsin–Manitowoc] 
+	http://risis.eu/orgref_20170703/resource/6265863... http://www.grid.ac/institutes/grid.14003.36........ 0.827586206897..................................... [University of Wisconsin–Madison] was compared to [University of Wisconsin–Manitowoc] 
+	http://www.grid.ac/institutes/grid.14003.36........ http://risis.eu/orgref_20170703/resource/6265863... 0.827586206897..................................... [University of Wisconsin–Madison] was compared to [University of Wisconsin–Manitowoc] 
+	http://www.grid.ac/institutes/grid.447694.c........ http://risis.eu/orgref_20170703/resource/23536538.. 0.827586206897..................................... [University of Wisconsin–Manitowoc] was compared to [University of Wisconsin–Madison] 
+	http://risis.eu/orgref_20170703/resource/23536538.. http://www.grid.ac/institutes/grid.447694.c........ 0.827586206897..................................... [University of Wisconsin–Manitowoc] was compared to [University of Wisconsin–Madison] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.447694.c........ University of Wisconsin–Manitowoc................ 
+	http://risis.eu/orgref_20170703/resource/6265863... http://en.wikipedia.org/wiki?curid=6265863......... 
+	http://risis.eu/orgref_20170703/resource/6265863... http://www.wikidata.org/wiki/Q7896652.............. 
+	http://risis.eu/orgref_20170703/resource/6265863... http://www.uwmanitowoc.uwc.edu..................... 
+	http://risis.eu/orgref_20170703/resource/6265863... University of Wisconsin–Manitowoc................ 
+	http://www.grid.ac/institutes/grid.14003.36........ -89.41244.......................................... 
+	http://www.grid.ac/institutes/grid.14003.36........ 43.076694.......................................... 
+	http://www.grid.ac/institutes/grid.14003.36........ http://www.wisc.edu/............................... 
+	http://www.grid.ac/institutes/grid.14003.36........ University of Wisconsin, Wisconsin................. 
+	http://www.grid.ac/institutes/grid.14003.36........ UW–Madison....................................... 
+	http://www.grid.ac/institutes/grid.14003.36........ University of Wisconsin–Madison.................. 
+	http://risis.eu/orgref_20170703/resource/23536538.. http://en.wikipedia.org/wiki?curid=23536538........ 
+	http://risis.eu/orgref_20170703/resource/23536538.. http://www.wikidata.org/wiki/Q838330............... 
+	http://risis.eu/orgref_20170703/resource/23536538.. http://www.wisc.edu................................ 
+	http://risis.eu/orgref_20170703/resource/23536538.. University of Wisconsin–Madison.................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.447694.c', '3:grid.14003.36'), ('2:6265863', '1:grid.447694.c'), ('2:6265863', '4:23536538'), ('3:grid.14003.36', '2:6265863'), ('4:23536538', '1:grid.447694.c'), ('4:23536538', '3:grid.14003.36')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

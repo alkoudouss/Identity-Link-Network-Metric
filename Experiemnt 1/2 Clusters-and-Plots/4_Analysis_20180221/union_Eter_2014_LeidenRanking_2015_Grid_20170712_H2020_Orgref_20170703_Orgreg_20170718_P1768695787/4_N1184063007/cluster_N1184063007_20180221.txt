@@ -1,0 +1,52 @@
+SIZE    4   
+CLUSTER 8384 
+NAME    N1184063007
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.412661.6>
+	<http://risis.eu/cordisH2020/resource/participant_999836910>
+	<http://risis.eu/orgref_20170703/resource/47000359>
+	<http://risis.eu/leidenRanking_2015/resource/9752>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.412661.6................. http://risis.eu/orgref_20170703/resource/47000359........... 0.95........................................................ [Université de Yaoundé I] was compared to [University of Yaounde I] 
+	http://risis.eu/orgref_20170703/resource/47000359........... http://www.grid.ac/institutes/grid.412661.6................. 0.95........................................................ [Université de Yaoundé I] was compared to [University of Yaounde I] 
+	http://www.grid.ac/institutes/grid.412661.6................. http://risis.eu/cordisH2020/resource/participant_999836910.. 1........................................................... [Université de Yaoundé I] was compared to [UNIVERSITE DE YAOUNDE I] 
+	http://risis.eu/cordisH2020/resource/participant_999836910.. http://www.grid.ac/institutes/grid.412661.6................. 1........................................................... [Université de Yaoundé I] was compared to [UNIVERSITE DE YAOUNDE I] 
+	http://risis.eu/orgref_20170703/resource/47000359........... http://risis.eu/leidenRanking_2015/resource/9752............ 0.95........................................................ [University of Yaounde I] was compared to [University of Yaound� I] 
+	http://risis.eu/leidenRanking_2015/resource/9752............ http://risis.eu/orgref_20170703/resource/47000359........... 0.95........................................................ [University of Yaounde I] was compared to [University of Yaound� I] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 7 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.412661.6................. 11.501418................................................... 
+	http://www.grid.ac/institutes/grid.412661.6................. 3.857427.................................................... 
+	http://www.grid.ac/institutes/grid.412661.6................. http://www.uy1.uninet.cm/................................... 
+	http://www.grid.ac/institutes/grid.412661.6................. Université de Yaoundé I................................... 
+	http://risis.eu/cordisH2020/resource/participant_999836910.. UNIVERSITE DE YAOUNDE I..................................... 
+	http://risis.eu/orgref_20170703/resource/47000359........... University of Yaounde I..................................... 
+	http://risis.eu/leidenRanking_2015/resource/9752............ University of Yaound� I................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_999836910', '1:grid.412661.6'), ('3:47000359', '1:grid.412661.6'), ('4:9752', '3:47000359')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

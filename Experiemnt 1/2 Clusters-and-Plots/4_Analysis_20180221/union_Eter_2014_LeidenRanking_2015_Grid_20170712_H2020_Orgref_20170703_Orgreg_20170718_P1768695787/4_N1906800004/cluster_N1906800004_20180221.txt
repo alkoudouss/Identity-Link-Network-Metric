@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 15737 
+NAME    N1906800004
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.11480.3c>
+	<http://risis.eu/orgreg_20170718/resource/ES0046>
+	<http://risis.eu/orgref_20170703/resource/4174231>
+	<http://risis.eu/leidenRanking_2015/resource/644>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.11480.3c....... http://risis.eu/orgref_20170703/resource/4174231.. 1................................................. [University of the Basque Country] was compared to [University of the Basque Country] 
+	http://risis.eu/orgref_20170703/resource/4174231.. http://www.grid.ac/institutes/grid.11480.3c....... 1................................................. [University of the Basque Country] was compared to [University of the Basque Country] 
+	http://www.grid.ac/institutes/grid.11480.3c....... http://risis.eu/leidenRanking_2015/resource/644... 1................................................. [University of the Basque Country] was compared to [University of the Basque Country] 
+	http://risis.eu/leidenRanking_2015/resource/644... http://www.grid.ac/institutes/grid.11480.3c....... 1................................................. [University of the Basque Country] was compared to [University of the Basque Country] 
+	http://risis.eu/orgref_20170703/resource/4174231.. http://risis.eu/leidenRanking_2015/resource/644... 1................................................. [University of the Basque Country] was compared to [University of the Basque Country] 
+	http://risis.eu/leidenRanking_2015/resource/644... http://risis.eu/orgref_20170703/resource/4174231.. 1................................................. [University of the Basque Country] was compared to [University of the Basque Country] 
+	http://risis.eu/orgreg_20170718/resource/ES0046... http://risis.eu/leidenRanking_2015/resource/644... 1................................................. [University of the Basque Country] was compared to [University of the Basque Country] 
+	http://risis.eu/leidenRanking_2015/resource/644... http://risis.eu/orgreg_20170718/resource/ES0046... 1................................................. [University of the Basque Country] was compared to [University of the Basque Country] 
+	http://risis.eu/orgreg_20170718/resource/ES0046... http://risis.eu/orgref_20170703/resource/4174231.. 1................................................. [University of the Basque Country] was compared to [University of the Basque Country] 
+	http://risis.eu/orgref_20170703/resource/4174231.. http://risis.eu/orgreg_20170718/resource/ES0046... 1................................................. [University of the Basque Country] was compared to [University of the Basque Country] 
+	http://www.grid.ac/institutes/grid.11480.3c....... http://risis.eu/orgreg_20170718/resource/ES0046... 1................................................. [University of the Basque Country] was compared to [University of the Basque Country] 
+	http://risis.eu/orgreg_20170718/resource/ES0046... http://www.grid.ac/institutes/grid.11480.3c....... 1................................................. [University of the Basque Country] was compared to [University of the Basque Country] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.11480.3c....... -2.978333......................................... 
+	http://www.grid.ac/institutes/grid.11480.3c....... 43.335556......................................... 
+	http://www.grid.ac/institutes/grid.11480.3c....... http://www.ehu.eus/en/en-home..................... 
+	http://www.grid.ac/institutes/grid.11480.3c....... Euskal Herriko Unibertsitatea..................... 
+	http://www.grid.ac/institutes/grid.11480.3c....... University of the Basque Country.................. 
+	http://risis.eu/orgreg_20170718/resource/ES0046... 43.334135......................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0046... -2.982556......................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0046... http://www.ehu.es................................. 
+	http://risis.eu/orgreg_20170718/resource/ES0046... University of the Basque Country.................. 
+	http://risis.eu/orgref_20170703/resource/4174231.. http://en.wikipedia.org/wiki?curid=4174231........ 
+	http://risis.eu/orgref_20170703/resource/4174231.. http://www.wikidata.org/wiki/Q1232428............. 
+	http://risis.eu/orgref_20170703/resource/4174231.. http://www.ehu.eus................................ 
+	http://risis.eu/orgref_20170703/resource/4174231.. University of the Basque Country.................. 
+	http://risis.eu/leidenRanking_2015/resource/644... University of the Basque Country.................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:ES0046', '1:grid.11480.3c'), ('2:ES0046', '3:4174231'), ('3:4174231', '1:grid.11480.3c'), ('4:644', '1:grid.11480.3c'), ('4:644', '2:ES0046'), ('4:644', '3:4174231')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

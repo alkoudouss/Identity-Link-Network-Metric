@@ -1,0 +1,70 @@
+SIZE    4   
+CLUSTER 4581 
+NAME    N1927179731
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.467239.d>
+	<http://www.grid.ac/institutes/grid.481842.3>
+	<http://www.grid.ac/institutes/grid.472779.8>
+	<http://www.grid.ac/institutes/grid.472780.e>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.467239.d.. http://www.grid.ac/institutes/grid.481842.3.. 1............................................ [Zimmer Biomet (United States)] was compared to [Zimmer Biomet (France)] 
+	http://www.grid.ac/institutes/grid.481842.3.. http://www.grid.ac/institutes/grid.467239.d.. 1............................................ [Zimmer Biomet (United States)] was compared to [Zimmer Biomet (France)] 
+	http://www.grid.ac/institutes/grid.467239.d.. http://www.grid.ac/institutes/grid.472779.8.. 1............................................ [Zimmer Biomet (United States)] was compared to [Zimmer Biomet (Germany)] 
+	http://www.grid.ac/institutes/grid.472779.8.. http://www.grid.ac/institutes/grid.467239.d.. 1............................................ [Zimmer Biomet (United States)] was compared to [Zimmer Biomet (Germany)] 
+	http://www.grid.ac/institutes/grid.467239.d.. http://www.grid.ac/institutes/grid.472780.e.. 1............................................ [Zimmer Biomet (United States)] was compared to [Zimmer Biomet (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.472780.e.. http://www.grid.ac/institutes/grid.467239.d.. 1............................................ [Zimmer Biomet (United States)] was compared to [Zimmer Biomet (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.481842.3.. http://www.grid.ac/institutes/grid.472779.8.. 1............................................ [Zimmer Biomet (Germany)] was compared to [Zimmer Biomet (France)] 
+	http://www.grid.ac/institutes/grid.472779.8.. http://www.grid.ac/institutes/grid.481842.3.. 1............................................ [Zimmer Biomet (Germany)] was compared to [Zimmer Biomet (France)] 
+	http://www.grid.ac/institutes/grid.472779.8.. http://www.grid.ac/institutes/grid.472780.e.. 1............................................ [Zimmer Biomet (Germany)] was compared to [Zimmer Biomet (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.472780.e.. http://www.grid.ac/institutes/grid.472779.8.. 1............................................ [Zimmer Biomet (Germany)] was compared to [Zimmer Biomet (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.481842.3.. http://www.grid.ac/institutes/grid.472780.e.. 1............................................ [Zimmer Biomet (United Kingdom)] was compared to [Zimmer Biomet (France)] 
+	http://www.grid.ac/institutes/grid.472780.e.. http://www.grid.ac/institutes/grid.481842.3.. 1............................................ [Zimmer Biomet (United Kingdom)] was compared to [Zimmer Biomet (France)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 19 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.467239.d.. -85.84074.................................... 
+	http://www.grid.ac/institutes/grid.467239.d.. 41.266308.................................... 
+	http://www.grid.ac/institutes/grid.467239.d.. http://www.zimmer.com/....................... 
+	http://www.grid.ac/institutes/grid.467239.d.. Biomet....................................... 
+	http://www.grid.ac/institutes/grid.467239.d.. Zimmer Biomet (United States)................ 
+	http://www.grid.ac/institutes/grid.481842.3.. 6.871572..................................... 
+	http://www.grid.ac/institutes/grid.481842.3.. 47.524673.................................... 
+	http://www.grid.ac/institutes/grid.481842.3.. http://www.zimmerbiomet.fr/.................. 
+	http://www.grid.ac/institutes/grid.481842.3.. Zimmer Biomet (France)....................... 
+	http://www.grid.ac/institutes/grid.472779.8.. 13.270167.................................... 
+	http://www.grid.ac/institutes/grid.472779.8.. 52.40947..................................... 
+	http://www.grid.ac/institutes/grid.472779.8.. http://www.zimmerbiomet.in/.................. 
+	http://www.grid.ac/institutes/grid.472779.8.. Biomet....................................... 
+	http://www.grid.ac/institutes/grid.472779.8.. Zimmer Biomet (Germany)...................... 
+	http://www.grid.ac/institutes/grid.472780.e.. -3.532672.................................... 
+	http://www.grid.ac/institutes/grid.472780.e.. 51.49844..................................... 
+	http://www.grid.ac/institutes/grid.472780.e.. http://www.zimmerbiomet.co.uk/............... 
+	http://www.grid.ac/institutes/grid.472780.e.. Biomet....................................... 
+	http://www.grid.ac/institutes/grid.472780.e.. Zimmer Biomet (United Kingdom)............... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.481842.3', '1:grid.467239.d'), ('2:grid.481842.3', '3:grid.472779.8'), ('2:grid.481842.3', '4:grid.472780.e'), ('3:grid.472779.8', '1:grid.467239.d'), ('4:grid.472780.e', '1:grid.467239.d'), ('4:grid.472780.e', '3:grid.472779.8')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

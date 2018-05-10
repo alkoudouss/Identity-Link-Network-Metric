@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 1330 
+NAME    N947949088
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.424704.1>
+	<http://risis.eu/eter_2014/resource/DE0273>
+	<http://www.grid.ac/institutes/grid.470062.7>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.424704.1.. http://risis.eu/eter_2014/resource/DE0273.... 0.805555555556............................... [university applied sciences appollon] was compared to [bremen university applied sciences] 
+	http://risis.eu/eter_2014/resource/DE0273.... http://www.grid.ac/institutes/grid.424704.1.. 0.805555555556............................... [university applied sciences appollon] was compared to [bremen university applied sciences] 
+	http://risis.eu/eter_2014/resource/DE0273.... http://www.grid.ac/institutes/grid.470062.7.. 1............................................ [university applied sciences appollon] was compared to [university applied sciences appollon] 
+	http://www.grid.ac/institutes/grid.470062.7.. http://risis.eu/eter_2014/resource/DE0273.... 1............................................ [university applied sciences appollon] was compared to [university applied sciences appollon] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.424704.1.. 8.853611..................................... 
+	http://www.grid.ac/institutes/grid.424704.1.. 53.108612.................................... 
+	http://www.grid.ac/institutes/grid.424704.1.. http://www.hs-bremen.de/internet/de/......... 
+	http://www.grid.ac/institutes/grid.424704.1.. Bremen University of Applied Sciences........ 
+	http://risis.eu/eter_2014/resource/DE0273.... 53,101348.................................... 
+	http://risis.eu/eter_2014/resource/DE0273.... 8,861163..................................... 
+	http://risis.eu/eter_2014/resource/DE0273.... www.apollon-hochschule.de.................... 
+	http://risis.eu/eter_2014/resource/DE0273.... a............................................ 
+	http://risis.eu/eter_2014/resource/DE0273.... University of Applied Sciences Appollon...... 
+	http://risis.eu/eter_2014/resource/DE0273.... APOLLON Hochschule der Gesundheitswirtschaft Bremen (Priv. FH) 
+	http://www.grid.ac/institutes/grid.470062.7.. 8.859799..................................... 
+	http://www.grid.ac/institutes/grid.470062.7.. 53.103146.................................... 
+	http://www.grid.ac/institutes/grid.470062.7.. https://www.apollon-hochschule.de/die-hochschule/die-hochschule/ 
+	http://www.grid.ac/institutes/grid.470062.7.. University of Applied Sciences Appollon...... 
+
+NETWORK ANALYSIS
+	NETWORK [('P1868009073-DE0273', 'N947949088-grid.424704.1'), ('P1868009073-DE0273', 'P2027249500-grid.470062.7')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

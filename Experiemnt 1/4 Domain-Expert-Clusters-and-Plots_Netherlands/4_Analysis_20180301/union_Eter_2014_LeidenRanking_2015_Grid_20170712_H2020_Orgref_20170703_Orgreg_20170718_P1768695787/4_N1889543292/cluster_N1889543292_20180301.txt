@@ -1,0 +1,57 @@
+SIZE    4   
+CLUSTER 2597 
+NAME    N1889543292
+
+RESOURCES INVOLVED
+	<http://risis.eu/cordisH2020/resource/participant_954068430>
+	<http://www.grid.ac/institutes/grid.423974.f>
+	<http://www.grid.ac/institutes/grid.426008.8>
+	<http://risis.eu/cordisH2020/resource/participant_998223412>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_954068430.. http://risis.eu/cordisH2020/resource/participant_998223412.. 0.9......................................................... [BAYER CROPSCIENCE NV] was compared to [BAYER CROPSCIENCE AG] 
+	http://risis.eu/cordisH2020/resource/participant_954068430.. http://www.grid.ac/institutes/grid.423974.f................. 0.85........................................................ [Bayer CropScience (Belgium)] was compared to [BAYER CROPSCIENCE NV] 
+	http://risis.eu/cordisH2020/resource/participant_954068430.. http://www.grid.ac/institutes/grid.426008.8................. 0.85........................................................ [Bayer CropScience (Netherlands)] was compared to [BAYER CROPSCIENCE NV] 
+	http://www.grid.ac/institutes/grid.423974.f................. http://www.grid.ac/institutes/grid.426008.8................. 1........................................................... [Bayer CropScience (Belgium)] was compared to [Bayer CropScience (Netherlands)] 
+	http://www.grid.ac/institutes/grid.423974.f................. http://risis.eu/cordisH2020/resource/participant_954068430.. 0.85........................................................ [Bayer CropScience (Belgium)] was compared to [BAYER CROPSCIENCE NV] 
+	http://www.grid.ac/institutes/grid.423974.f................. http://risis.eu/cordisH2020/resource/participant_998223412.. 0.85........................................................ [Bayer CropScience (Belgium)] was compared to [BAYER CROPSCIENCE AG] 
+	http://www.grid.ac/institutes/grid.426008.8................. http://risis.eu/cordisH2020/resource/participant_954068430.. 0.85........................................................ [Bayer CropScience (Netherlands)] was compared to [BAYER CROPSCIENCE NV] 
+	http://www.grid.ac/institutes/grid.426008.8................. http://risis.eu/cordisH2020/resource/participant_998223412.. 0.85........................................................ [Bayer CropScience (Netherlands)] was compared to [BAYER CROPSCIENCE AG] 
+	http://www.grid.ac/institutes/grid.426008.8................. http://www.grid.ac/institutes/grid.423974.f................. 1........................................................... [Bayer CropScience (Belgium)] was compared to [Bayer CropScience (Netherlands)] 
+	http://risis.eu/cordisH2020/resource/participant_998223412.. http://www.grid.ac/institutes/grid.423974.f................. 0.85........................................................ [Bayer CropScience (Belgium)] was compared to [BAYER CROPSCIENCE AG] 
+	http://risis.eu/cordisH2020/resource/participant_998223412.. http://www.grid.ac/institutes/grid.426008.8................. 0.85........................................................ [Bayer CropScience (Netherlands)] was compared to [BAYER CROPSCIENCE AG] 
+	http://risis.eu/cordisH2020/resource/participant_998223412.. http://risis.eu/cordisH2020/resource/participant_954068430.. 0.9......................................................... [BAYER CROPSCIENCE NV] was compared to [BAYER CROPSCIENCE AG] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_954068430.. http://risis.eu/cordisH2020/resource/www.bayercropscience.com 
+	http://risis.eu/cordisH2020/resource/participant_954068430.. BAYER CROPSCIENCE NV........................................ 
+	http://www.grid.ac/institutes/grid.423974.f................. Bayer CropScience (Belgium)................................. 
+	http://www.grid.ac/institutes/grid.426008.8................. Bayer CropScience (Netherlands)............................. 
+	http://risis.eu/cordisH2020/resource/participant_998223412.. http://www.bayercropscience.com............................. 
+	http://risis.eu/cordisH2020/resource/participant_998223412.. BAYER CROPSCIENCE AG........................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('P1748947807-participant_998223412', 'N24842901-grid.423974.f'), ('N24842901-grid.423974.f', 'N1889543292-grid.426008.8'), ('P1748947807-participant_998223412', 'N1889543292-grid.426008.8'), ('N506845262-participant_954068430', 'N1889543292-grid.426008.8'), ('N506845262-participant_954068430', 'P1748947807-participant_998223412'), ('N506845262-participant_954068430', 'N24842901-grid.423974.f')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

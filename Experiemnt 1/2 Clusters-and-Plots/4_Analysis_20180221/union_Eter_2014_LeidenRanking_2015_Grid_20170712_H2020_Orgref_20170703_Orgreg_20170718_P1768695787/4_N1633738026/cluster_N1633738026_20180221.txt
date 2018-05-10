@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 16899 
+NAME    N1633738026
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.264352.4>
+	<http://risis.eu/orgref_20170703/resource/322889>
+	<http://www.grid.ac/institutes/grid.449668.1>
+	<http://risis.eu/orgref_20170703/resource/4813869>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.264352.4....... http://www.grid.ac/institutes/grid.449668.1....... 1................................................. [Suffolk University] was compared to [University of Suffolk] 
+	http://www.grid.ac/institutes/grid.449668.1....... http://www.grid.ac/institutes/grid.264352.4....... 1................................................. [Suffolk University] was compared to [University of Suffolk] 
+	http://www.grid.ac/institutes/grid.264352.4....... http://risis.eu/orgref_20170703/resource/322889... 1................................................. [Suffolk University] was compared to [Suffolk University] 
+	http://risis.eu/orgref_20170703/resource/322889... http://www.grid.ac/institutes/grid.264352.4....... 1................................................. [Suffolk University] was compared to [Suffolk University] 
+	http://www.grid.ac/institutes/grid.264352.4....... http://risis.eu/orgref_20170703/resource/4813869.. 1................................................. [Suffolk University] was compared to [University of Suffolk] 
+	http://risis.eu/orgref_20170703/resource/4813869.. http://www.grid.ac/institutes/grid.264352.4....... 1................................................. [Suffolk University] was compared to [University of Suffolk] 
+	http://risis.eu/orgref_20170703/resource/322889... http://www.grid.ac/institutes/grid.449668.1....... 1................................................. [University of Suffolk] was compared to [Suffolk University] 
+	http://www.grid.ac/institutes/grid.449668.1....... http://risis.eu/orgref_20170703/resource/322889... 1................................................. [University of Suffolk] was compared to [Suffolk University] 
+	http://www.grid.ac/institutes/grid.449668.1....... http://risis.eu/orgref_20170703/resource/4813869.. 1................................................. [University of Suffolk] was compared to [University of Suffolk] 
+	http://risis.eu/orgref_20170703/resource/4813869.. http://www.grid.ac/institutes/grid.449668.1....... 1................................................. [University of Suffolk] was compared to [University of Suffolk] 
+	http://risis.eu/orgref_20170703/resource/322889... http://risis.eu/orgref_20170703/resource/4813869.. 1................................................. [Suffolk University] was compared to [University of Suffolk] 
+	http://risis.eu/orgref_20170703/resource/4813869.. http://risis.eu/orgref_20170703/resource/322889... 1................................................. [Suffolk University] was compared to [University of Suffolk] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.264352.4....... -71.0618.......................................... 
+	http://www.grid.ac/institutes/grid.264352.4....... 42.35886.......................................... 
+	http://www.grid.ac/institutes/grid.264352.4....... https://www.suffolk.edu/.......................... 
+	http://www.grid.ac/institutes/grid.264352.4....... Suffolk University................................ 
+	http://risis.eu/orgref_20170703/resource/322889... http://en.wikipedia.org/wiki?curid=322889......... 
+	http://risis.eu/orgref_20170703/resource/322889... http://www.wikidata.org/wiki/Q1056123............. 
+	http://risis.eu/orgref_20170703/resource/322889... http://www.suffolk.edu............................ 
+	http://risis.eu/orgref_20170703/resource/322889... Suffolk University................................ 
+	http://www.grid.ac/institutes/grid.449668.1....... 1.1635............................................ 
+	http://www.grid.ac/institutes/grid.449668.1....... 52.0525........................................... 
+	http://www.grid.ac/institutes/grid.449668.1....... http://www.ucs.ac.uk/home.aspx.................... 
+	http://www.grid.ac/institutes/grid.449668.1....... University Campus Suffolk......................... 
+	http://www.grid.ac/institutes/grid.449668.1....... University of Suffolk............................. 
+	http://risis.eu/orgref_20170703/resource/4813869.. http://en.wikipedia.org/wiki?curid=4813869........ 
+	http://risis.eu/orgref_20170703/resource/4813869.. http://www.wikidata.org/wiki/Q24661246............ 
+	http://risis.eu/orgref_20170703/resource/4813869.. http://www.ucs.ac.uk.............................. 
+	http://risis.eu/orgref_20170703/resource/4813869.. University of Suffolk............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:322889', '1:grid.264352.4'), ('2:322889', '3:grid.449668.1'), ('3:grid.449668.1', '1:grid.264352.4'), ('4:4813869', '1:grid.264352.4'), ('4:4813869', '2:322889'), ('4:4813869', '3:grid.449668.1')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

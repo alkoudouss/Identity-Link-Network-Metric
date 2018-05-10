@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 12568 
+NAME    N1896776423
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/1572485>
+	<http://risis.eu/orgref_20170703/resource/1659942>
+	<http://www.grid.ac/institutes/grid.469313.a>
+	<http://www.grid.ac/institutes/grid.469314.d>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.469313.a....... http://www.grid.ac/institutes/grid.469314.d....... 1................................................. [York College] was compared to [York College]..... 
+	http://www.grid.ac/institutes/grid.469314.d....... http://www.grid.ac/institutes/grid.469313.a....... 1................................................. [York College] was compared to [York College]..... 
+	http://risis.eu/orgref_20170703/resource/1572485.. http://www.grid.ac/institutes/grid.469313.a....... 1................................................. [York College] was compared to [York College (Nebraska)] 
+	http://www.grid.ac/institutes/grid.469313.a....... http://risis.eu/orgref_20170703/resource/1572485.. 1................................................. [York College] was compared to [York College (Nebraska)] 
+	http://risis.eu/orgref_20170703/resource/1659942.. http://www.grid.ac/institutes/grid.469313.a....... 1................................................. [York College] was compared to [York College (York)] 
+	http://www.grid.ac/institutes/grid.469313.a....... http://risis.eu/orgref_20170703/resource/1659942.. 1................................................. [York College] was compared to [York College (York)] 
+	http://risis.eu/orgref_20170703/resource/1572485.. http://www.grid.ac/institutes/grid.469314.d....... 1................................................. [York College] was compared to [York College (Nebraska)] 
+	http://www.grid.ac/institutes/grid.469314.d....... http://risis.eu/orgref_20170703/resource/1572485.. 1................................................. [York College] was compared to [York College (Nebraska)] 
+	http://risis.eu/orgref_20170703/resource/1659942.. http://www.grid.ac/institutes/grid.469314.d....... 1................................................. [York College] was compared to [York College (York)] 
+	http://www.grid.ac/institutes/grid.469314.d....... http://risis.eu/orgref_20170703/resource/1659942.. 1................................................. [York College] was compared to [York College (York)] 
+	http://risis.eu/orgref_20170703/resource/1572485.. http://risis.eu/orgref_20170703/resource/1659942.. 1................................................. [York College (Nebraska)] was compared to [York College (York)] 
+	http://risis.eu/orgref_20170703/resource/1659942.. http://risis.eu/orgref_20170703/resource/1572485.. 1................................................. [York College (Nebraska)] was compared to [York College (York)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/1572485.. http://en.wikipedia.org/wiki?curid=1572485........ 
+	http://risis.eu/orgref_20170703/resource/1572485.. http://www.wikidata.org/wiki/Q8055402............. 
+	http://risis.eu/orgref_20170703/resource/1572485.. http://www.york.edu............................... 
+	http://risis.eu/orgref_20170703/resource/1572485.. York College (Nebraska)........................... 
+	http://risis.eu/orgref_20170703/resource/1659942.. http://en.wikipedia.org/wiki?curid=1659942........ 
+	http://risis.eu/orgref_20170703/resource/1659942.. http://www.wikidata.org/wiki/Q8055404............. 
+	http://risis.eu/orgref_20170703/resource/1659942.. https://www.yorkcollege.ac.uk..................... 
+	http://risis.eu/orgref_20170703/resource/1659942.. York College (York)............................... 
+	http://www.grid.ac/institutes/grid.469313.a....... -97.58............................................ 
+	http://www.grid.ac/institutes/grid.469313.a....... 40.86972.......................................... 
+	http://www.grid.ac/institutes/grid.469313.a....... https://www.york.edu/............................. 
+	http://www.grid.ac/institutes/grid.469313.a....... York College...................................... 
+	http://www.grid.ac/institutes/grid.469314.d....... -1.11376.......................................... 
+	http://www.grid.ac/institutes/grid.469314.d....... 53.929688......................................... 
+	http://www.grid.ac/institutes/grid.469314.d....... https://www.yorkcollege.ac.uk/.................... 
+	http://www.grid.ac/institutes/grid.469314.d....... York College...................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1659942', '1:1572485'), ('2:1659942', '3:grid.469313.a'), ('2:1659942', '4:grid.469314.d'), ('3:grid.469313.a', '1:1572485'), ('4:grid.469314.d', '1:1572485'), ('4:grid.469314.d', '3:grid.469313.a')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

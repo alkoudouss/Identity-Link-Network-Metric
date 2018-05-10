@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 9185 
+NAME    N2059689796
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.471044.2>
+	<http://www.grid.ac/institutes/grid.473021.3>
+	<http://www.grid.ac/institutes/grid.474528.8>
+	<http://www.grid.ac/institutes/grid.473046.2>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.471044.2.. http://www.grid.ac/institutes/grid.473021.3.. 1............................................ [EchoStar (United States)] was compared to [EchoStar (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.473021.3.. http://www.grid.ac/institutes/grid.471044.2.. 1............................................ [EchoStar (United States)] was compared to [EchoStar (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.471044.2.. http://www.grid.ac/institutes/grid.474528.8.. 1............................................ [EchoStar (United States)] was compared to [EchoStar (India)] 
+	http://www.grid.ac/institutes/grid.474528.8.. http://www.grid.ac/institutes/grid.471044.2.. 1............................................ [EchoStar (United States)] was compared to [EchoStar (India)] 
+	http://www.grid.ac/institutes/grid.471044.2.. http://www.grid.ac/institutes/grid.473046.2.. 1............................................ [EchoStar (United States)] was compared to [Echostar (Ukraine)] 
+	http://www.grid.ac/institutes/grid.473046.2.. http://www.grid.ac/institutes/grid.471044.2.. 1............................................ [EchoStar (United States)] was compared to [Echostar (Ukraine)] 
+	http://www.grid.ac/institutes/grid.473021.3.. http://www.grid.ac/institutes/grid.474528.8.. 1............................................ [EchoStar (United Kingdom)] was compared to [EchoStar (India)] 
+	http://www.grid.ac/institutes/grid.474528.8.. http://www.grid.ac/institutes/grid.473021.3.. 1............................................ [EchoStar (United Kingdom)] was compared to [EchoStar (India)] 
+	http://www.grid.ac/institutes/grid.473021.3.. http://www.grid.ac/institutes/grid.473046.2.. 1............................................ [EchoStar (United Kingdom)] was compared to [Echostar (Ukraine)] 
+	http://www.grid.ac/institutes/grid.473046.2.. http://www.grid.ac/institutes/grid.473021.3.. 1............................................ [EchoStar (United Kingdom)] was compared to [Echostar (Ukraine)] 
+	http://www.grid.ac/institutes/grid.474528.8.. http://www.grid.ac/institutes/grid.473046.2.. 1............................................ [Echostar (Ukraine)] was compared to [EchoStar (India)] 
+	http://www.grid.ac/institutes/grid.473046.2.. http://www.grid.ac/institutes/grid.474528.8.. 1............................................ [Echostar (Ukraine)] was compared to [EchoStar (India)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.471044.2.. -104.8675.................................... 
+	http://www.grid.ac/institutes/grid.471044.2.. 39.57626..................................... 
+	http://www.grid.ac/institutes/grid.471044.2.. http://www.echostar.com/..................... 
+	http://www.grid.ac/institutes/grid.471044.2.. EchoStar (United States)..................... 
+	http://www.grid.ac/institutes/grid.473021.3.. -0.757047.................................... 
+	http://www.grid.ac/institutes/grid.473021.3.. 52.056328.................................... 
+	http://www.grid.ac/institutes/grid.473021.3.. http://www.echostar.com/..................... 
+	http://www.grid.ac/institutes/grid.473021.3.. EchoStar (United Kingdom).................... 
+	http://www.grid.ac/institutes/grid.474528.8.. 77.58905..................................... 
+	http://www.grid.ac/institutes/grid.474528.8.. 12.973403.................................... 
+	http://www.grid.ac/institutes/grid.474528.8.. http://www.echostar.com/..................... 
+	http://www.grid.ac/institutes/grid.474528.8.. EchoStar (India)............................. 
+	http://www.grid.ac/institutes/grid.473046.2.. 36.226826.................................... 
+	http://www.grid.ac/institutes/grid.473046.2.. 50.022583.................................... 
+	http://www.grid.ac/institutes/grid.473046.2.. http://www.echostareurope.com/............... 
+	http://www.grid.ac/institutes/grid.473046.2.. Echostar (Ukraine)........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.473021.3', '1:grid.471044.2'), ('3:grid.474528.8', '1:grid.471044.2'), ('3:grid.474528.8', '2:grid.473021.3'), ('3:grid.474528.8', '4:grid.473046.2'), ('4:grid.473046.2', '1:grid.471044.2'), ('4:grid.473046.2', '2:grid.473021.3')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

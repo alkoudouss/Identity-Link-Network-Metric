@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 11024 
+NAME    N667002166
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.424700.5>
+	<http://risis.eu/eter_2014/resource/FR0061>
+	<http://risis.eu/cordisH2020/resource/participant_999611482>
+	<http://risis.eu/orgref_20170703/resource/2202640>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.424700.5................. http://risis.eu/orgref_20170703/resource/2202640............ 1........................................................... [Institut National des Sciences Appliquées de Rennes] was compared to [Institut national des sciences appliquées de Rennes] 
+	http://risis.eu/orgref_20170703/resource/2202640............ http://www.grid.ac/institutes/grid.424700.5................. 1........................................................... [Institut National des Sciences Appliquées de Rennes] was compared to [Institut national des sciences appliquées de Rennes] 
+	http://www.grid.ac/institutes/grid.424700.5................. http://risis.eu/eter_2014/resource/FR0061................... 1........................................................... [Institut National des Sciences Appliquées de Rennes] was compared to [Institut national des sciences appliquées de Rennes] 
+	http://risis.eu/eter_2014/resource/FR0061................... http://www.grid.ac/institutes/grid.424700.5................. 1........................................................... [Institut National des Sciences Appliquées de Rennes] was compared to [Institut national des sciences appliquées de Rennes] 
+	http://www.grid.ac/institutes/grid.424700.5................. http://risis.eu/cordisH2020/resource/participant_999611482.. 1........................................................... [Institut National des Sciences Appliquées de Rennes] was compared to [INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE RENNES] 
+	http://risis.eu/cordisH2020/resource/participant_999611482.. http://www.grid.ac/institutes/grid.424700.5................. 1........................................................... [Institut National des Sciences Appliquées de Rennes] was compared to [INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE RENNES] 
+	http://risis.eu/eter_2014/resource/FR0061................... http://risis.eu/orgref_20170703/resource/2202640............ 1........................................................... [Institut national des sciences appliquées de Rennes] was compared to [Institut national des sciences appliquées de Rennes] 
+	http://risis.eu/orgref_20170703/resource/2202640............ http://risis.eu/eter_2014/resource/FR0061................... 1........................................................... [Institut national des sciences appliquées de Rennes] was compared to [Institut national des sciences appliquées de Rennes] 
+	http://risis.eu/cordisH2020/resource/participant_999611482.. http://risis.eu/orgref_20170703/resource/2202640............ 1........................................................... [Institut national des sciences appliquées de Rennes] was compared to [INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE RENNES] 
+	http://risis.eu/orgref_20170703/resource/2202640............ http://risis.eu/cordisH2020/resource/participant_999611482.. 1........................................................... [Institut national des sciences appliquées de Rennes] was compared to [INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE RENNES] 
+	http://risis.eu/eter_2014/resource/FR0061................... http://risis.eu/cordisH2020/resource/participant_999611482.. 1........................................................... [INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE RENNES] was compared to [Institut national des sciences appliquées de Rennes] 
+	http://risis.eu/cordisH2020/resource/participant_999611482.. http://risis.eu/eter_2014/resource/FR0061................... 1........................................................... [INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE RENNES] was compared to [Institut national des sciences appliquées de Rennes] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.424700.5................. -1.634722................................................... 
+	http://www.grid.ac/institutes/grid.424700.5................. 48.121387................................................... 
+	http://www.grid.ac/institutes/grid.424700.5................. http://www.insa-rennes.fr/en.html........................... 
+	http://www.grid.ac/institutes/grid.424700.5................. INSA de Rennes.............................................. 
+	http://www.grid.ac/institutes/grid.424700.5................. Institut National des Sciences Appliquées de Rennes........ 
+	http://risis.eu/eter_2014/resource/FR0061................... 48,117732................................................... 
+	http://risis.eu/eter_2014/resource/FR0061................... -1,633959................................................... 
+	http://risis.eu/eter_2014/resource/FR0061................... http://www.insa-rennes.fr/.................................. 
+	http://risis.eu/eter_2014/resource/FR0061................... m........................................................... 
+	http://risis.eu/eter_2014/resource/FR0061................... Institut national des sciences appliquées de Rennes........ 
+	http://risis.eu/cordisH2020/resource/participant_999611482.. INSTITUT NATIONAL DES SCIENCES APPLIQUEES DE RENNES......... 
+	http://risis.eu/orgref_20170703/resource/2202640............ http://en.wikipedia.org/wiki?curid=2202640.................. 
+	http://risis.eu/orgref_20170703/resource/2202640............ http://www.wikidata.org/wiki/Q1934614....................... 
+	http://risis.eu/orgref_20170703/resource/2202640............ http://www.insa-rennes.fr................................... 
+	http://risis.eu/orgref_20170703/resource/2202640............ Institut national des sciences appliquées de Rennes........ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:FR0061', '1:grid.424700.5'), ('2:FR0061', '3:participant_999611482'), ('2:FR0061', '4:2202640'), ('3:participant_999611482', '1:grid.424700.5'), ('3:participant_999611482', '4:2202640'), ('4:2202640', '1:grid.424700.5')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 3570 
+NAME    N1966653185
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.11500.35>
+	<http://risis.eu/orgreg_20170718/resource/DE0274>
+	<http://risis.eu/orgref_20170703/resource/5422196>
+	<http://www.grid.ac/institutes/grid.452086.d>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.11500.35....... http://risis.eu/orgref_20170703/resource/5422196.. 1................................................. [Hamburg University of Applied Sciences] was compared to [Hamburg University of Applied Sciences] 
+	http://risis.eu/orgref_20170703/resource/5422196.. http://www.grid.ac/institutes/grid.11500.35....... 1................................................. [Hamburg University of Applied Sciences] was compared to [Hamburg University of Applied Sciences] 
+	http://risis.eu/orgreg_20170718/resource/DE0274... http://risis.eu/orgref_20170703/resource/5422196.. 1................................................. [Hamburg University of Applied Sciences] was compared to [Hamburg University of Applied Sciences] 
+	http://risis.eu/orgref_20170703/resource/5422196.. http://risis.eu/orgreg_20170718/resource/DE0274... 1................................................. [Hamburg University of Applied Sciences] was compared to [Hamburg University of Applied Sciences] 
+	http://www.grid.ac/institutes/grid.11500.35....... http://www.grid.ac/institutes/grid.452086.d....... 0.916666666667.................................... [Hamburg University of Applied Sciences] was compared to [Salzburg University of Applied Sciences] 
+	http://www.grid.ac/institutes/grid.452086.d....... http://www.grid.ac/institutes/grid.11500.35....... 0.916666666667.................................... [Hamburg University of Applied Sciences] was compared to [Salzburg University of Applied Sciences] 
+	http://risis.eu/orgref_20170703/resource/5422196.. http://www.grid.ac/institutes/grid.452086.d....... 0.916666666667.................................... [Salzburg University of Applied Sciences] was compared to [Hamburg University of Applied Sciences] 
+	http://www.grid.ac/institutes/grid.452086.d....... http://risis.eu/orgref_20170703/resource/5422196.. 0.916666666667.................................... [Salzburg University of Applied Sciences] was compared to [Hamburg University of Applied Sciences] 
+	http://www.grid.ac/institutes/grid.11500.35....... http://risis.eu/orgreg_20170718/resource/DE0274... 1................................................. [Hamburg University of Applied Sciences] was compared to [Hamburg University of Applied Sciences] 
+	http://risis.eu/orgreg_20170718/resource/DE0274... http://www.grid.ac/institutes/grid.11500.35....... 1................................................. [Hamburg University of Applied Sciences] was compared to [Hamburg University of Applied Sciences] 
+	http://risis.eu/orgreg_20170718/resource/DE0274... http://www.grid.ac/institutes/grid.452086.d....... 0.916666666667.................................... [Salzburg University of Applied Sciences] was compared to [Hamburg University of Applied Sciences] 
+	http://www.grid.ac/institutes/grid.452086.d....... http://risis.eu/orgreg_20170718/resource/DE0274... 0.916666666667.................................... [Salzburg University of Applied Sciences] was compared to [Hamburg University of Applied Sciences] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.11500.35....... 10.022053......................................... 
+	http://www.grid.ac/institutes/grid.11500.35....... 53.555954......................................... 
+	http://www.grid.ac/institutes/grid.11500.35....... http://www.haw-hamburg.de/english.html............ 
+	http://www.grid.ac/institutes/grid.11500.35....... Fachhochschule Hamburg............................ 
+	http://www.grid.ac/institutes/grid.11500.35....... Hamburg University of Applied Sciences............ 
+	http://risis.eu/orgreg_20170718/resource/DE0274... 53.558085......................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0274... 10.011979......................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0274... www.haw-hamburg.de................................ 
+	http://risis.eu/orgreg_20170718/resource/DE0274... Hamburg University of Applied Sciences............ 
+	http://risis.eu/orgref_20170703/resource/5422196.. http://en.wikipedia.org/wiki?curid=5422196........ 
+	http://risis.eu/orgref_20170703/resource/5422196.. http://www.wikidata.org/wiki/Q913987.............. 
+	http://risis.eu/orgref_20170703/resource/5422196.. http://www.haw-hamburg.de......................... 
+	http://risis.eu/orgref_20170703/resource/5422196.. Hamburg University of Applied Sciences............ 
+	http://www.grid.ac/institutes/grid.452086.d....... 13.087098......................................... 
+	http://www.grid.ac/institutes/grid.452086.d....... 47.72343.......................................... 
+	http://www.grid.ac/institutes/grid.452086.d....... http://www.fh-salzburg.ac.at/en/.................. 
+	http://www.grid.ac/institutes/grid.452086.d....... Salzburg University of Applied Sciences........... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:DE0274', '1:grid.11500.35'), ('2:DE0274', '4:grid.452086.d'), ('3:5422196', '1:grid.11500.35'), ('3:5422196', '2:DE0274'), ('4:grid.452086.d', '1:grid.11500.35'), ('4:grid.452086.d', '3:5422196')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

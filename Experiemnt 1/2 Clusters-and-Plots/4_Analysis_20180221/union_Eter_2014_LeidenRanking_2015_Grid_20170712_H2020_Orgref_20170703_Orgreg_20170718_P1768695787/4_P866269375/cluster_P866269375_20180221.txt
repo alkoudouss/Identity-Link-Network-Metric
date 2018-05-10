@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 8962 
+NAME    P866269375
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.430747.3>
+	<http://risis.eu/orgref_20170703/resource/1676248>
+	<http://www.grid.ac/institutes/grid.461543.1>
+	<http://www.grid.ac/institutes/grid.461540.2>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.461543.1....... http://www.grid.ac/institutes/grid.461540.2....... 1................................................. [St. Helena Hospital] was compared to [St. Helena Hospital] 
+	http://www.grid.ac/institutes/grid.461540.2....... http://www.grid.ac/institutes/grid.461543.1....... 1................................................. [St. Helena Hospital] was compared to [St. Helena Hospital] 
+	http://www.grid.ac/institutes/grid.430747.3....... http://www.grid.ac/institutes/grid.461543.1....... 0.944444444444.................................... [St Helens Hospital] was compared to [St. Helena Hospital] 
+	http://www.grid.ac/institutes/grid.461543.1....... http://www.grid.ac/institutes/grid.430747.3....... 0.944444444444.................................... [St Helens Hospital] was compared to [St. Helena Hospital] 
+	http://www.grid.ac/institutes/grid.430747.3....... http://www.grid.ac/institutes/grid.461540.2....... 0.944444444444.................................... [St Helens Hospital] was compared to [St. Helena Hospital] 
+	http://www.grid.ac/institutes/grid.461540.2....... http://www.grid.ac/institutes/grid.430747.3....... 0.944444444444.................................... [St Helens Hospital] was compared to [St. Helena Hospital] 
+	http://risis.eu/orgref_20170703/resource/1676248.. http://www.grid.ac/institutes/grid.461543.1....... 1................................................. [St. Helena Hospital] was compared to [St. Helena Hospital] 
+	http://www.grid.ac/institutes/grid.461543.1....... http://risis.eu/orgref_20170703/resource/1676248.. 1................................................. [St. Helena Hospital] was compared to [St. Helena Hospital] 
+	http://risis.eu/orgref_20170703/resource/1676248.. http://www.grid.ac/institutes/grid.461540.2....... 1................................................. [St. Helena Hospital] was compared to [St. Helena Hospital] 
+	http://www.grid.ac/institutes/grid.461540.2....... http://risis.eu/orgref_20170703/resource/1676248.. 1................................................. [St. Helena Hospital] was compared to [St. Helena Hospital] 
+	http://www.grid.ac/institutes/grid.430747.3....... http://risis.eu/orgref_20170703/resource/1676248.. 0.944444444444.................................... [St Helens Hospital] was compared to [St. Helena Hospital] 
+	http://risis.eu/orgref_20170703/resource/1676248.. http://www.grid.ac/institutes/grid.430747.3....... 0.944444444444.................................... [St Helens Hospital] was compared to [St. Helena Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.430747.3....... St Helens Hospital................................ 
+	http://risis.eu/orgref_20170703/resource/1676248.. http://en.wikipedia.org/wiki?curid=1676248........ 
+	http://risis.eu/orgref_20170703/resource/1676248.. http://www.wikidata.org/wiki/Q3145294............. 
+	http://risis.eu/orgref_20170703/resource/1676248.. http://www.sthelenahospital.org................... 
+	http://risis.eu/orgref_20170703/resource/1676248.. St. Helena Hospital............................... 
+	http://www.grid.ac/institutes/grid.461543.1....... -122.61697........................................ 
+	http://www.grid.ac/institutes/grid.461543.1....... 38.936012......................................... 
+	http://www.grid.ac/institutes/grid.461543.1....... https://www.adventisthealth.org/clear-lake/news/st-helena-hospital-clear-lake-remains-open 
+	http://www.grid.ac/institutes/grid.461543.1....... St. Helena Hospital............................... 
+	http://www.grid.ac/institutes/grid.461540.2....... -122.47518........................................ 
+	http://www.grid.ac/institutes/grid.461540.2....... 38.54283.......................................... 
+	http://www.grid.ac/institutes/grid.461540.2....... https://www.adventisthealth.org/napa-valley/pages/default.aspx 
+	http://www.grid.ac/institutes/grid.461540.2....... St. Helena Hospital............................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1676248', '1:grid.430747.3'), ('2:1676248', '3:grid.461543.1'), ('3:grid.461543.1', '1:grid.430747.3'), ('3:grid.461543.1', '4:grid.461540.2'), ('4:grid.461540.2', '1:grid.430747.3'), ('4:grid.461540.2', '2:1676248')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

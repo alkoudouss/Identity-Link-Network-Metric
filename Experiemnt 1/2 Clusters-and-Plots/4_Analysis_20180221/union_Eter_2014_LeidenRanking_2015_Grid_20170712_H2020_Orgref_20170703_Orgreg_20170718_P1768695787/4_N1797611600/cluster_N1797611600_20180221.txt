@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 1675 
+NAME    N1797611600
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/19145450>
+	<http://risis.eu/eter_2014/resource/BE0036>
+	<http://risis.eu/orgreg_20170718/resource/BE0036>
+	<http://www.grid.ac/institutes/grid.466287.9>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/19145450.. http://www.grid.ac/institutes/grid.466287.9........ 1.................................................. [Royal Conservatory of Liège] was compared to [Royal Conservatory of Liège] 
+	http://www.grid.ac/institutes/grid.466287.9........ http://risis.eu/orgref_20170703/resource/19145450.. 1.................................................. [Royal Conservatory of Liège] was compared to [Royal Conservatory of Liège] 
+	http://risis.eu/orgref_20170703/resource/19145450.. http://risis.eu/eter_2014/resource/BE0036.......... 0.92............................................... [Royal Conservatory of Liège] was compared to [Conservatoire royal de Liège] 
+	http://risis.eu/eter_2014/resource/BE0036.......... http://risis.eu/orgref_20170703/resource/19145450.. 0.92............................................... [Royal Conservatory of Liège] was compared to [Conservatoire royal de Liège] 
+	http://risis.eu/eter_2014/resource/BE0036.......... http://risis.eu/orgreg_20170718/resource/BE0036.... 1.................................................. [Conservatoire royal de Liège] was compared to [Conservatoire royal de Liège] 
+	http://risis.eu/orgreg_20170718/resource/BE0036.... http://risis.eu/eter_2014/resource/BE0036.......... 1.................................................. [Conservatoire royal de Liège] was compared to [Conservatoire royal de Liège] 
+	http://risis.eu/orgref_20170703/resource/19145450.. http://risis.eu/orgreg_20170718/resource/BE0036.... 0.92............................................... [Royal Conservatory of Liège] was compared to [Conservatoire royal de Liège] 
+	http://risis.eu/orgreg_20170718/resource/BE0036.... http://risis.eu/orgref_20170703/resource/19145450.. 0.92............................................... [Royal Conservatory of Liège] was compared to [Conservatoire royal de Liège] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/19145450.. http://en.wikipedia.org/wiki?curid=19145450........ 
+	http://risis.eu/orgref_20170703/resource/19145450.. http://www.wikidata.org/wiki/Q2009714.............. 
+	http://risis.eu/orgref_20170703/resource/19145450.. http://www.crlg.be................................. 
+	http://risis.eu/orgref_20170703/resource/19145450.. Royal Conservatory of Liège....................... 
+	http://risis.eu/eter_2014/resource/BE0036.......... 50,635076.......................................... 
+	http://risis.eu/eter_2014/resource/BE0036.......... 5,562887........................................... 
+	http://risis.eu/eter_2014/resource/BE0036.......... http://www.crlg.be................................. 
+	http://risis.eu/eter_2014/resource/BE0036.......... a.................................................. 
+	http://risis.eu/eter_2014/resource/BE0036.......... Conservatoire royal de Liège...................... 
+	http://risis.eu/orgreg_20170718/resource/BE0036.... 5.562887........................................... 
+	http://risis.eu/orgreg_20170718/resource/BE0036.... 50.635076.......................................... 
+	http://risis.eu/orgreg_20170718/resource/BE0036.... http://www.crlg.be................................. 
+	http://risis.eu/orgreg_20170718/resource/BE0036.... Conservatoire royal de Liège...................... 
+	http://www.grid.ac/institutes/grid.466287.9........ 5.570884........................................... 
+	http://www.grid.ac/institutes/grid.466287.9........ 50.63474........................................... 
+	http://www.grid.ac/institutes/grid.466287.9........ http://www.crlg.be/................................ 
+	http://www.grid.ac/institutes/grid.466287.9........ Royal Conservatory of Liège....................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:BE0036', '1:19145450'), ('2:BE0036', '3:BE0036'), ('3:BE0036', '1:19145450'), ('4:grid.466287.9', '1:19145450')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

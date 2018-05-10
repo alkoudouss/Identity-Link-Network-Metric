@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 10708 
+NAME    N1546708514
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.426325.4>
+	<http://www.grid.ac/institutes/grid.459132.8>
+	<http://www.grid.ac/institutes/grid.426330.0>
+	<http://www.grid.ac/institutes/grid.439032.f>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.426325.4.. http://www.grid.ac/institutes/grid.426330.0.. 1............................................ [Wärtsilä (Finland)] was compared to [Wärtsilä (Switzerland)] 
+	http://www.grid.ac/institutes/grid.426330.0.. http://www.grid.ac/institutes/grid.426325.4.. 1............................................ [Wärtsilä (Finland)] was compared to [Wärtsilä (Switzerland)] 
+	http://www.grid.ac/institutes/grid.426325.4.. http://www.grid.ac/institutes/grid.459132.8.. 1............................................ [Wärtsilä (Finland)] was compared to [Wärtsilä (Norway)] 
+	http://www.grid.ac/institutes/grid.459132.8.. http://www.grid.ac/institutes/grid.426325.4.. 1............................................ [Wärtsilä (Finland)] was compared to [Wärtsilä (Norway)] 
+	http://www.grid.ac/institutes/grid.426325.4.. http://www.grid.ac/institutes/grid.439032.f.. 1............................................ [Wärtsilä (Finland)] was compared to [Wärtsilä (Netherlands)] 
+	http://www.grid.ac/institutes/grid.439032.f.. http://www.grid.ac/institutes/grid.426325.4.. 1............................................ [Wärtsilä (Finland)] was compared to [Wärtsilä (Netherlands)] 
+	http://www.grid.ac/institutes/grid.459132.8.. http://www.grid.ac/institutes/grid.426330.0.. 1............................................ [Wärtsilä (Switzerland)] was compared to [Wärtsilä (Norway)] 
+	http://www.grid.ac/institutes/grid.426330.0.. http://www.grid.ac/institutes/grid.459132.8.. 1............................................ [Wärtsilä (Switzerland)] was compared to [Wärtsilä (Norway)] 
+	http://www.grid.ac/institutes/grid.426330.0.. http://www.grid.ac/institutes/grid.439032.f.. 1............................................ [Wärtsilä (Switzerland)] was compared to [Wärtsilä (Netherlands)] 
+	http://www.grid.ac/institutes/grid.439032.f.. http://www.grid.ac/institutes/grid.426330.0.. 1............................................ [Wärtsilä (Switzerland)] was compared to [Wärtsilä (Netherlands)] 
+	http://www.grid.ac/institutes/grid.459132.8.. http://www.grid.ac/institutes/grid.439032.f.. 1............................................ [Wärtsilä (Netherlands)] was compared to [Wärtsilä (Norway)] 
+	http://www.grid.ac/institutes/grid.439032.f.. http://www.grid.ac/institutes/grid.459132.8.. 1............................................ [Wärtsilä (Netherlands)] was compared to [Wärtsilä (Norway)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.426325.4.. 21.610666.................................... 
+	http://www.grid.ac/institutes/grid.426325.4.. 63.102734.................................... 
+	http://www.grid.ac/institutes/grid.426325.4.. http://www.wartsila.com/fin.................. 
+	http://www.grid.ac/institutes/grid.426325.4.. Wärtsilä (Finland)......................... 
+	http://www.grid.ac/institutes/grid.459132.8.. 5.26584...................................... 
+	http://www.grid.ac/institutes/grid.459132.8.. 59.816647.................................... 
+	http://www.grid.ac/institutes/grid.459132.8.. http://www.wartsila.com/nor/................. 
+	http://www.grid.ac/institutes/grid.459132.8.. Wärtsilä (Norway).......................... 
+	http://www.grid.ac/institutes/grid.426330.0.. Wärtsilä (Switzerland)..................... 
+	http://www.grid.ac/institutes/grid.439032.f.. 6.084529..................................... 
+	http://www.grid.ac/institutes/grid.439032.f.. 52.505676.................................... 
+	http://www.grid.ac/institutes/grid.439032.f.. http://www.wartsila.com/nld.................. 
+	http://www.grid.ac/institutes/grid.439032.f.. Wärtsilä (Netherlands)..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.459132.8', '1:grid.426325.4'), ('2:grid.459132.8', '3:grid.426330.0'), ('2:grid.459132.8', '4:grid.439032.f'), ('3:grid.426330.0', '1:grid.426325.4'), ('4:grid.439032.f', '1:grid.426325.4'), ('4:grid.439032.f', '3:grid.426330.0')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

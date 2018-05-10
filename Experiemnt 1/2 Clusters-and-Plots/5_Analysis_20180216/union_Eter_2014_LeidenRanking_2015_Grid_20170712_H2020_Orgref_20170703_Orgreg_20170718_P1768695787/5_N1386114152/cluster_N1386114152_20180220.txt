@@ -1,0 +1,71 @@
+SIZE    5   
+CLUSTER 165 
+NAME    N1386114152
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.435112.0>
+	<http://risis.eu/orgref_20170703/resource/17621239>
+	<http://risis.eu/orgref_20170703/resource/16242263>
+	<http://risis.eu/orgref_20170703/resource/1239988>
+	<http://risis.eu/orgref_20170703/resource/23106989>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.435112.0........ http://risis.eu/orgref_20170703/resource/16242263.. 0.928571428571..................................... [Harlow College] was compared to [Hadlow College].. 
+	http://risis.eu/orgref_20170703/resource/16242263.. http://www.grid.ac/institutes/grid.435112.0........ 0.928571428571..................................... [Harlow College] was compared to [Hadlow College].. 
+	http://www.grid.ac/institutes/grid.435112.0........ http://risis.eu/orgref_20170703/resource/17621239.. 1.................................................. [Harlow College] was compared to [Harlow College].. 
+	http://risis.eu/orgref_20170703/resource/17621239.. http://www.grid.ac/institutes/grid.435112.0........ 1.................................................. [Harlow College] was compared to [Harlow College].. 
+	http://www.grid.ac/institutes/grid.435112.0........ http://risis.eu/orgref_20170703/resource/1239988... 0.928571428571..................................... [Harlow College] was compared to [Harrow College].. 
+	http://risis.eu/orgref_20170703/resource/1239988... http://www.grid.ac/institutes/grid.435112.0........ 0.928571428571..................................... [Harlow College] was compared to [Harrow College].. 
+	http://risis.eu/orgref_20170703/resource/17621239.. http://risis.eu/orgref_20170703/resource/16242263.. 0.928571428571..................................... [Hadlow College] was compared to [Harlow College].. 
+	http://risis.eu/orgref_20170703/resource/16242263.. http://risis.eu/orgref_20170703/resource/17621239.. 0.928571428571..................................... [Hadlow College] was compared to [Harlow College].. 
+	http://risis.eu/orgref_20170703/resource/17621239.. http://risis.eu/orgref_20170703/resource/1239988... 0.928571428571..................................... [Harrow College] was compared to [Harlow College].. 
+	http://risis.eu/orgref_20170703/resource/1239988... http://risis.eu/orgref_20170703/resource/17621239.. 0.928571428571..................................... [Harrow College] was compared to [Harlow College].. 
+	http://risis.eu/orgref_20170703/resource/16242263.. http://risis.eu/orgref_20170703/resource/1239988... 0.857142857143..................................... [Harrow College] was compared to [Hadlow College].. 
+	http://risis.eu/orgref_20170703/resource/1239988... http://risis.eu/orgref_20170703/resource/16242263.. 0.857142857143..................................... [Harrow College] was compared to [Hadlow College].. 
+	http://risis.eu/orgref_20170703/resource/1239988... http://risis.eu/orgref_20170703/resource/23106989.. 0.8125............................................. [Harrow College] was compared to [Harrison College (Indiana)] 
+	http://risis.eu/orgref_20170703/resource/23106989.. http://risis.eu/orgref_20170703/resource/1239988... 0.8125............................................. [Harrow College] was compared to [Harrison College (Indiana)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.435112.0........ Harlow College..................................... 
+	http://risis.eu/orgref_20170703/resource/17621239.. http://en.wikipedia.org/wiki?curid=17621239........ 
+	http://risis.eu/orgref_20170703/resource/17621239.. http://www.wikidata.org/wiki/Q5658944.............. 
+	http://risis.eu/orgref_20170703/resource/17621239.. http://www.harlow-college.ac.uk.................... 
+	http://risis.eu/orgref_20170703/resource/17621239.. Harlow College..................................... 
+	http://risis.eu/orgref_20170703/resource/16242263.. http://en.wikipedia.org/wiki?curid=16242263........ 
+	http://risis.eu/orgref_20170703/resource/16242263.. http://www.wikidata.org/wiki/Q5638009.............. 
+	http://risis.eu/orgref_20170703/resource/16242263.. http://www.hadlow.ac.uk............................ 
+	http://risis.eu/orgref_20170703/resource/16242263.. Hadlow College..................................... 
+	http://risis.eu/orgref_20170703/resource/1239988... http://en.wikipedia.org/wiki?curid=1239988......... 
+	http://risis.eu/orgref_20170703/resource/1239988... http://www.wikidata.org/wiki/Q5666519.............. 
+	http://risis.eu/orgref_20170703/resource/1239988... http://www.harrow.ac.uk............................ 
+	http://risis.eu/orgref_20170703/resource/1239988... Harrow College..................................... 
+	http://risis.eu/orgref_20170703/resource/23106989.. http://en.wikipedia.org/wiki?curid=23106989........ 
+	http://risis.eu/orgref_20170703/resource/23106989.. http://www.wikidata.org/wiki/Q16983349............. 
+	http://risis.eu/orgref_20170703/resource/23106989.. http://www.harrison.edu............................ 
+	http://risis.eu/orgref_20170703/resource/23106989.. Harrison College (Indiana)......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:17621239', '1:grid.435112.0'), ('2:17621239', '3:16242263'), ('2:17621239', '4:1239988'), ('3:16242263', '1:grid.435112.0'), ('3:16242263', '4:1239988'), ('4:1239988', '1:grid.435112.0'), ('5:23106989', '4:1239988')]
+	MAX DISTANCE:                   : 0.7
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 2.2
+	AVERAGE NODE CONNECTIVITY RATIO : 0.55
+	BRIDGES                         : 1
+	CLOSURE                         : 0.7
+	DIAMETER                        : 2
+	QUALITY                         : 0.294
+	QUALITY USED                    : 0.357
+	SUMMARY 1: BRIDGE 0.25 CLOSURE 0.3 DIAMETER 0.333 QUALITY 0.294 QUALITY USED 0.357
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.3 DIAMETER 0.385 QUALITY 0.294 QUALITY USED 0.357

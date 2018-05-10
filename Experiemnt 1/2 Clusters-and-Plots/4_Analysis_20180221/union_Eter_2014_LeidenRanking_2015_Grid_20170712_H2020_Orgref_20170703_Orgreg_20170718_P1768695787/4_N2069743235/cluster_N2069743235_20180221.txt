@@ -1,0 +1,69 @@
+SIZE    4   
+CLUSTER 16769 
+NAME    N2069743235
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.91714.3a>
+	<http://risis.eu/eter_2014/resource/PT0076>
+	<http://risis.eu/orgreg_20170718/resource/PT0076>
+	<http://risis.eu/orgref_20170703/resource/12948715>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.91714.3a........ http://risis.eu/orgref_20170703/resource/12948715.. 1.................................................. [Fernando Pessoa University] was compared to [Fernando Pessoa University] 
+	http://risis.eu/orgref_20170703/resource/12948715.. http://www.grid.ac/institutes/grid.91714.3a........ 1.................................................. [Fernando Pessoa University] was compared to [Fernando Pessoa University] 
+	http://www.grid.ac/institutes/grid.91714.3a........ http://risis.eu/eter_2014/resource/PT0076.......... 0.857142857143..................................... [Fernando Pessoa University] was compared to [Universidade Fernando Pessoa] 
+	http://risis.eu/eter_2014/resource/PT0076.......... http://www.grid.ac/institutes/grid.91714.3a........ 0.857142857143..................................... [Fernando Pessoa University] was compared to [Universidade Fernando Pessoa] 
+	http://risis.eu/eter_2014/resource/PT0076.......... http://risis.eu/orgref_20170703/resource/12948715.. 0.857142857143..................................... [Fernando Pessoa University] was compared to [Universidade Fernando Pessoa] 
+	http://risis.eu/orgref_20170703/resource/12948715.. http://risis.eu/eter_2014/resource/PT0076.......... 0.857142857143..................................... [Fernando Pessoa University] was compared to [Universidade Fernando Pessoa] 
+	http://risis.eu/eter_2014/resource/PT0076.......... http://risis.eu/orgreg_20170718/resource/PT0076.... 0.857142857143..................................... [Fernando Pessoa University] was compared to [Universidade Fernando Pessoa] 
+	http://risis.eu/orgreg_20170718/resource/PT0076.... http://risis.eu/eter_2014/resource/PT0076.......... 0.857142857143..................................... [Fernando Pessoa University] was compared to [Universidade Fernando Pessoa] 
+	http://risis.eu/orgreg_20170718/resource/PT0076.... http://risis.eu/orgref_20170703/resource/12948715.. 1.................................................. [Fernando Pessoa University] was compared to [Fernando Pessoa University] 
+	http://risis.eu/orgref_20170703/resource/12948715.. http://risis.eu/orgreg_20170718/resource/PT0076.... 1.................................................. [Fernando Pessoa University] was compared to [Fernando Pessoa University] 
+	http://www.grid.ac/institutes/grid.91714.3a........ http://risis.eu/orgreg_20170718/resource/PT0076.... 1.................................................. [Fernando Pessoa University] was compared to [Fernando Pessoa University] 
+	http://risis.eu/orgreg_20170718/resource/PT0076.... http://www.grid.ac/institutes/grid.91714.3a........ 1.................................................. [Fernando Pessoa University] was compared to [Fernando Pessoa University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.91714.3a........ -8.61135........................................... 
+	http://www.grid.ac/institutes/grid.91714.3a........ 41.173367.......................................... 
+	http://www.grid.ac/institutes/grid.91714.3a........ http://www.ufp.pt/en/.............................. 
+	http://www.grid.ac/institutes/grid.91714.3a........ Fernando Pessoa University......................... 
+	http://risis.eu/eter_2014/resource/PT0076.......... 41,1679725......................................... 
+	http://risis.eu/eter_2014/resource/PT0076.......... -8,6270628......................................... 
+	http://risis.eu/eter_2014/resource/PT0076.......... http://www.ufp.pt/................................. 
+	http://risis.eu/eter_2014/resource/PT0076.......... a.................................................. 
+	http://risis.eu/eter_2014/resource/PT0076.......... Fernando Pessoa University......................... 
+	http://risis.eu/eter_2014/resource/PT0076.......... Universidade Fernando Pessoa....................... 
+	http://risis.eu/orgreg_20170718/resource/PT0076.... -8.6270628......................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0076.... 41.1679725......................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0076.... http://www.ufp.pt/................................. 
+	http://risis.eu/orgreg_20170718/resource/PT0076.... Fernando Pessoa University......................... 
+	http://risis.eu/orgref_20170703/resource/12948715.. http://en.wikipedia.org/wiki?curid=12948715........ 
+	http://risis.eu/orgref_20170703/resource/12948715.. http://www.wikidata.org/wiki/Q634834............... 
+	http://risis.eu/orgref_20170703/resource/12948715.. http://www.ufp.pt.................................. 
+	http://risis.eu/orgref_20170703/resource/12948715.. Fernando Pessoa University......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:PT0076', '1:grid.91714.3a'), ('2:PT0076', '4:12948715'), ('3:PT0076', '1:grid.91714.3a'), ('3:PT0076', '2:PT0076'), ('3:PT0076', '4:12948715'), ('4:12948715', '1:grid.91714.3a')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

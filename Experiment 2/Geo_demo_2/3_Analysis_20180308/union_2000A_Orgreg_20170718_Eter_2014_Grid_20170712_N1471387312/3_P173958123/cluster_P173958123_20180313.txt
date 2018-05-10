@@ -1,0 +1,71 @@
+SIZE    3   
+CLUSTER 646 
+NAME    P173958123
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/CH0005>
+	<http://www.grid.ac/institutes/grid.9851.5>
+	<http://risis.eu/eter_2014/resource/CH0005>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/CH0005.. http://www.grid.ac/institutes/grid.9851.5........ 1................................................ [university lausanne] was compared to [university lausanne] 
+	http://risis.eu/orgreg_20170718/resource/CH0005.. http://risis.eu/eter_2014/resource/CH0005........ 1................................................ [university lausanne] was compared to [university lausanne] 
+	http://risis.eu/orgreg_20170718/resource/CH0005.. http://risis.eu/eter_2014/resource/CH0005........ 0.947368421053................................... [university lausanne] was compared to [university lausanne] 
+	http://risis.eu/orgreg_20170718/resource/CH0005.. http://risis.eu/eter_2014/resource/CH0005........ 0.947368421053................................... [university lausanne] was compared to [universite lausanne] 
+	http://risis.eu/orgreg_20170718/resource/CH0005.. http://risis.eu/eter_2014/resource/CH0005........ 1................................................ [university lausanne] was compared to [universite lausanne] 
+	http://www.grid.ac/institutes/grid.9851.5........ http://risis.eu/eter_2014/resource/CH0005........ 1................................................ [university lausanne] was compared to [university lausanne] 
+	http://www.grid.ac/institutes/grid.9851.5........ http://risis.eu/eter_2014/resource/CH0005........ 0.947368421053................................... [university lausanne] was compared to [university lausanne] 
+	http://www.grid.ac/institutes/grid.9851.5........ http://risis.eu/eter_2014/resource/CH0005........ 0.947368421053................................... [universite lausanne] was compared to [university lausanne] 
+	http://www.grid.ac/institutes/grid.9851.5........ http://risis.eu/eter_2014/resource/CH0005........ 1................................................ [universite lausanne] was compared to [university lausanne] 
+	http://www.grid.ac/institutes/grid.9851.5........ http://risis.eu/orgreg_20170718/resource/CH0005.. 1................................................ [university lausanne] was compared to [university lausanne] 
+	http://risis.eu/eter_2014/resource/CH0005........ http://www.grid.ac/institutes/grid.9851.5........ 1................................................ [university lausanne] was compared to [university lausanne] 
+	http://risis.eu/eter_2014/resource/CH0005........ http://www.grid.ac/institutes/grid.9851.5........ 0.947368421053................................... [university lausanne] was compared to [university lausanne] 
+	http://risis.eu/eter_2014/resource/CH0005........ http://www.grid.ac/institutes/grid.9851.5........ 0.947368421053................................... [universite lausanne] was compared to [university lausanne] 
+	http://risis.eu/eter_2014/resource/CH0005........ http://www.grid.ac/institutes/grid.9851.5........ 1................................................ [universite lausanne] was compared to [university lausanne] 
+	http://risis.eu/eter_2014/resource/CH0005........ http://risis.eu/orgreg_20170718/resource/CH0005.. 1................................................ [university lausanne] was compared to [university lausanne] 
+	http://risis.eu/eter_2014/resource/CH0005........ http://risis.eu/orgreg_20170718/resource/CH0005.. 0.947368421053................................... [university lausanne] was compared to [university lausanne] 
+	http://risis.eu/eter_2014/resource/CH0005........ http://risis.eu/orgreg_20170718/resource/CH0005.. 0.947368421053................................... [university lausanne] was compared to [universite lausanne] 
+	http://risis.eu/eter_2014/resource/CH0005........ http://risis.eu/orgreg_20170718/resource/CH0005.. 1................................................ [university lausanne] was compared to [universite lausanne] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/CH0005.. 6.568492......................................... 
+	http://risis.eu/orgreg_20170718/resource/CH0005.. 46.519599........................................ 
+	http://risis.eu/orgreg_20170718/resource/CH0005.. http://www.unil.ch............................... 
+	http://risis.eu/orgreg_20170718/resource/CH0005.. University of Lausanne........................... 
+	http://www.grid.ac/institutes/grid.9851.5........ 6.580157......................................... 
+	http://www.grid.ac/institutes/grid.9851.5........ 46.521095........................................ 
+	http://www.grid.ac/institutes/grid.9851.5........ http://www.unil.ch/central/en/home.html.......... 
+	http://www.grid.ac/institutes/grid.9851.5........ Schola Lausannensis.............................. 
+	http://www.grid.ac/institutes/grid.9851.5........ University of Lausanne........................... 
+	http://risis.eu/eter_2014/resource/CH0005........ 46,519599........................................ 
+	http://risis.eu/eter_2014/resource/CH0005........ 6,568492......................................... 
+	http://risis.eu/eter_2014/resource/CH0005........ http://www.unil.ch............................... 
+	http://risis.eu/eter_2014/resource/CH0005........ a................................................ 
+	http://risis.eu/eter_2014/resource/CH0005........ University of Lausanne........................... 
+	http://risis.eu/eter_2014/resource/CH0005........ Université de Lausanne.......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('P361676222-CH0005', 'P173958123-CH0005'), ('P173958123-CH0005', 'P874990286-grid.9851.5'), ('P361676222-CH0005', 'P874990286-grid.9851.5')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

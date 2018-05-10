@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 11106 
+NAME    N1197112405
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.17682.3a>
+	<http://risis.eu/orgreg_20170718/resource/IT0047>
+	<http://risis.eu/leidenRanking_2015/resource/434>
+	<http://risis.eu/orgref_20170703/resource/4932507>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.17682.3a....... http://risis.eu/orgref_20170703/resource/4932507.. 1................................................. [Parthenope University of Naples] was compared to [Parthenope University of Naples] 
+	http://risis.eu/orgref_20170703/resource/4932507.. http://www.grid.ac/institutes/grid.17682.3a....... 1................................................. [Parthenope University of Naples] was compared to [Parthenope University of Naples] 
+	http://www.grid.ac/institutes/grid.17682.3a....... http://risis.eu/leidenRanking_2015/resource/434... 0.964285714286.................................... [Parthenope University of Naples] was compared to [Partenope University of Naples] 
+	http://risis.eu/leidenRanking_2015/resource/434... http://www.grid.ac/institutes/grid.17682.3a....... 0.964285714286.................................... [Parthenope University of Naples] was compared to [Partenope University of Naples] 
+	http://risis.eu/leidenRanking_2015/resource/434... http://risis.eu/orgref_20170703/resource/4932507.. 0.964285714286.................................... [Parthenope University of Naples] was compared to [Partenope University of Naples] 
+	http://risis.eu/orgref_20170703/resource/4932507.. http://risis.eu/leidenRanking_2015/resource/434... 0.964285714286.................................... [Parthenope University of Naples] was compared to [Partenope University of Naples] 
+	http://risis.eu/orgreg_20170718/resource/IT0047... http://risis.eu/leidenRanking_2015/resource/434... 0.964285714286.................................... [University of Naples Parthenope] was compared to [Partenope University of Naples] 
+	http://risis.eu/leidenRanking_2015/resource/434... http://risis.eu/orgreg_20170718/resource/IT0047... 0.964285714286.................................... [University of Naples Parthenope] was compared to [Partenope University of Naples] 
+	http://risis.eu/orgreg_20170718/resource/IT0047... http://risis.eu/orgref_20170703/resource/4932507.. 1................................................. [Parthenope University of Naples] was compared to [University of Naples Parthenope] 
+	http://risis.eu/orgref_20170703/resource/4932507.. http://risis.eu/orgreg_20170718/resource/IT0047... 1................................................. [Parthenope University of Naples] was compared to [University of Naples Parthenope] 
+	http://www.grid.ac/institutes/grid.17682.3a....... http://risis.eu/orgreg_20170718/resource/IT0047... 1................................................. [Parthenope University of Naples] was compared to [University of Naples Parthenope] 
+	http://risis.eu/orgreg_20170718/resource/IT0047... http://www.grid.ac/institutes/grid.17682.3a....... 1................................................. [Parthenope University of Naples] was compared to [University of Naples Parthenope] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.17682.3a....... 14.253195......................................... 
+	http://www.grid.ac/institutes/grid.17682.3a....... 40.83726.......................................... 
+	http://www.grid.ac/institutes/grid.17682.3a....... http://www.uniparthenope.it/...................... 
+	http://www.grid.ac/institutes/grid.17682.3a....... Parthenope University of Naples................... 
+	http://risis.eu/orgreg_20170718/resource/IT0047... 40.841073......................................... 
+	http://risis.eu/orgreg_20170718/resource/IT0047... 14.255583......................................... 
+	http://risis.eu/orgreg_20170718/resource/IT0047... http://www.uniparthenope.it....................... 
+	http://risis.eu/orgreg_20170718/resource/IT0047... University of Naples Parthenope................... 
+	http://risis.eu/leidenRanking_2015/resource/434... Partenope University of Naples.................... 
+	http://risis.eu/orgref_20170703/resource/4932507.. http://en.wikipedia.org/wiki?curid=4932507........ 
+	http://risis.eu/orgref_20170703/resource/4932507.. http://www.wikidata.org/wiki/Q3551650............. 
+	http://risis.eu/orgref_20170703/resource/4932507.. http://www.uniparthenope.it....................... 
+	http://risis.eu/orgref_20170703/resource/4932507.. Parthenope University of Naples................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:IT0047', '1:grid.17682.3a'), ('2:IT0047', '4:4932507'), ('3:434', '1:grid.17682.3a'), ('3:434', '2:IT0047'), ('4:4932507', '1:grid.17682.3a'), ('4:4932507', '3:434')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

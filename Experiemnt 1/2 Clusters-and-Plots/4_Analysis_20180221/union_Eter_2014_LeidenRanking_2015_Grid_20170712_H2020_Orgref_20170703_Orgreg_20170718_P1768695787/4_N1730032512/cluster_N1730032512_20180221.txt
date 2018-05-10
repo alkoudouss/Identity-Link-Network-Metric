@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 12037 
+NAME    N1730032512
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.10334.35>
+	<http://risis.eu/orgref_20170703/resource/1706717>
+	<http://risis.eu/leidenRanking_2015/resource/388>
+	<http://risis.eu/orgreg_20170718/resource/HU0008>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.10334.35....... http://risis.eu/orgref_20170703/resource/1706717.. 1................................................. [University of Miskolc] was compared to [University of Miskolc] 
+	http://risis.eu/orgref_20170703/resource/1706717.. http://www.grid.ac/institutes/grid.10334.35....... 1................................................. [University of Miskolc] was compared to [University of Miskolc] 
+	http://www.grid.ac/institutes/grid.10334.35....... http://risis.eu/leidenRanking_2015/resource/388... 1................................................. [University of Miskolc] was compared to [University of Miskolc] 
+	http://risis.eu/leidenRanking_2015/resource/388... http://www.grid.ac/institutes/grid.10334.35....... 1................................................. [University of Miskolc] was compared to [University of Miskolc] 
+	http://risis.eu/orgref_20170703/resource/1706717.. http://risis.eu/leidenRanking_2015/resource/388... 1................................................. [University of Miskolc] was compared to [University of Miskolc] 
+	http://risis.eu/leidenRanking_2015/resource/388... http://risis.eu/orgref_20170703/resource/1706717.. 1................................................. [University of Miskolc] was compared to [University of Miskolc] 
+	http://risis.eu/leidenRanking_2015/resource/388... http://risis.eu/orgreg_20170718/resource/HU0008... 1................................................. [University of Miskolc] was compared to [University of Miskolc] 
+	http://risis.eu/orgreg_20170718/resource/HU0008... http://risis.eu/leidenRanking_2015/resource/388... 1................................................. [University of Miskolc] was compared to [University of Miskolc] 
+	http://risis.eu/orgref_20170703/resource/1706717.. http://risis.eu/orgreg_20170718/resource/HU0008... 1................................................. [University of Miskolc] was compared to [University of Miskolc] 
+	http://risis.eu/orgreg_20170718/resource/HU0008... http://risis.eu/orgref_20170703/resource/1706717.. 1................................................. [University of Miskolc] was compared to [University of Miskolc] 
+	http://www.grid.ac/institutes/grid.10334.35....... http://risis.eu/orgreg_20170718/resource/HU0008... 1................................................. [University of Miskolc] was compared to [University of Miskolc] 
+	http://risis.eu/orgreg_20170718/resource/HU0008... http://www.grid.ac/institutes/grid.10334.35....... 1................................................. [University of Miskolc] was compared to [University of Miskolc] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.10334.35....... 20.766605......................................... 
+	http://www.grid.ac/institutes/grid.10334.35....... 48.079933......................................... 
+	http://www.grid.ac/institutes/grid.10334.35....... http://www.uni-miskolc.hu/........................ 
+	http://www.grid.ac/institutes/grid.10334.35....... Technical University of Heavy Industry............ 
+	http://www.grid.ac/institutes/grid.10334.35....... Miskolci Egyetem.................................. 
+	http://www.grid.ac/institutes/grid.10334.35....... University of Miskolc............................. 
+	http://risis.eu/orgref_20170703/resource/1706717.. http://en.wikipedia.org/wiki?curid=1706717........ 
+	http://risis.eu/orgref_20170703/resource/1706717.. http://www.wikidata.org/wiki/Q729786.............. 
+	http://risis.eu/orgref_20170703/resource/1706717.. http://www.uni-miskolc.hu......................... 
+	http://risis.eu/orgref_20170703/resource/1706717.. University of Miskolc............................. 
+	http://risis.eu/leidenRanking_2015/resource/388... University of Miskolc............................. 
+	http://risis.eu/orgreg_20170718/resource/HU0008... 20.765396......................................... 
+	http://risis.eu/orgreg_20170718/resource/HU0008... 48.079351......................................... 
+	http://risis.eu/orgreg_20170718/resource/HU0008... www.uni-miskolc.hu................................ 
+	http://risis.eu/orgreg_20170718/resource/HU0008... University of Miskolc............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1706717', '1:grid.10334.35'), ('3:388', '1:grid.10334.35'), ('3:388', '2:1706717'), ('4:HU0008', '1:grid.10334.35'), ('4:HU0008', '2:1706717'), ('4:HU0008', '3:388')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

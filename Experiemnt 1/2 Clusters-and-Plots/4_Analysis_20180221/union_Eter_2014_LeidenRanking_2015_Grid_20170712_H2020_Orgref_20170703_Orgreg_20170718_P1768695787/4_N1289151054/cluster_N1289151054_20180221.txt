@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 13871 
+NAME    N1289151054
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/2736758>
+	<http://risis.eu/leidenRanking_2015/resource/1053>
+	<http://www.grid.ac/institutes/grid.9499.d>
+	<http://risis.eu/cordisH2020/resource/participant_999858638>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/2736758............ http://www.grid.ac/institutes/grid.9499.d................... 1........................................................... [National University of La Plata] was compared to [National University of La Plata] 
+	http://www.grid.ac/institutes/grid.9499.d................... http://risis.eu/orgref_20170703/resource/2736758............ 1........................................................... [National University of La Plata] was compared to [National University of La Plata] 
+	http://risis.eu/leidenRanking_2015/resource/1053............ http://www.grid.ac/institutes/grid.9499.d................... 0.846153846154.............................................. [National University of La Plata] was compared to [Universidad Nacional de La Plata] 
+	http://www.grid.ac/institutes/grid.9499.d................... http://risis.eu/leidenRanking_2015/resource/1053............ 0.846153846154.............................................. [National University of La Plata] was compared to [Universidad Nacional de La Plata] 
+	http://www.grid.ac/institutes/grid.9499.d................... http://risis.eu/cordisH2020/resource/participant_999858638.. 0.846153846154.............................................. [National University of La Plata] was compared to [UNIVERSIDAD NACIONAL DE LA PLATA] 
+	http://risis.eu/cordisH2020/resource/participant_999858638.. http://www.grid.ac/institutes/grid.9499.d................... 0.846153846154.............................................. [National University of La Plata] was compared to [UNIVERSIDAD NACIONAL DE LA PLATA] 
+	http://risis.eu/orgref_20170703/resource/2736758............ http://risis.eu/leidenRanking_2015/resource/1053............ 0.846153846154.............................................. [National University of La Plata] was compared to [Universidad Nacional de La Plata] 
+	http://risis.eu/leidenRanking_2015/resource/1053............ http://risis.eu/orgref_20170703/resource/2736758............ 0.846153846154.............................................. [National University of La Plata] was compared to [Universidad Nacional de La Plata] 
+	http://risis.eu/orgref_20170703/resource/2736758............ http://risis.eu/cordisH2020/resource/participant_999858638.. 0.846153846154.............................................. [National University of La Plata] was compared to [UNIVERSIDAD NACIONAL DE LA PLATA] 
+	http://risis.eu/cordisH2020/resource/participant_999858638.. http://risis.eu/orgref_20170703/resource/2736758............ 0.846153846154.............................................. [National University of La Plata] was compared to [UNIVERSIDAD NACIONAL DE LA PLATA] 
+	http://risis.eu/leidenRanking_2015/resource/1053............ http://risis.eu/cordisH2020/resource/participant_999858638.. 1........................................................... [UNIVERSIDAD NACIONAL DE LA PLATA] was compared to [Universidad Nacional de La Plata] 
+	http://risis.eu/cordisH2020/resource/participant_999858638.. http://risis.eu/leidenRanking_2015/resource/1053............ 1........................................................... [UNIVERSIDAD NACIONAL DE LA PLATA] was compared to [Universidad Nacional de La Plata] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/2736758............ http://en.wikipedia.org/wiki?curid=2736758.................. 
+	http://risis.eu/orgref_20170703/resource/2736758............ http://www.wikidata.org/wiki/Q784171........................ 
+	http://risis.eu/orgref_20170703/resource/2736758............ http://www.unlp.edu.ar...................................... 
+	http://risis.eu/orgref_20170703/resource/2736758............ National University of La Plata............................. 
+	http://risis.eu/leidenRanking_2015/resource/1053............ Universidad Nacional de La Plata............................ 
+	http://www.grid.ac/institutes/grid.9499.d................... -57.951286.................................................. 
+	http://www.grid.ac/institutes/grid.9499.d................... -34.912125.................................................. 
+	http://www.grid.ac/institutes/grid.9499.d................... http://www.unlp.edu.ar/..................................... 
+	http://www.grid.ac/institutes/grid.9499.d................... National University of La Plata............................. 
+	http://risis.eu/cordisH2020/resource/participant_999858638.. UNIVERSIDAD NACIONAL DE LA PLATA............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:2736758', '3:grid.9499.d'), ('2:1053', '1:2736758'), ('2:1053', '4:participant_999858638'), ('3:grid.9499.d', '2:1053'), ('4:participant_999858638', '1:2736758'), ('4:participant_999858638', '3:grid.9499.d')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 8347 
+NAME    N1209832943
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/163157>
+	<http://risis.eu/leidenRanking_2015/resource/319>
+	<http://risis.eu/eter_2014/resource/UK0073>
+	<http://www.grid.ac/institutes/grid.23231.31>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/163157.. http://www.grid.ac/institutes/grid.23231.31...... 1................................................ [London Metropolitan University] was compared to [London Metropolitan University] 
+	http://www.grid.ac/institutes/grid.23231.31...... http://risis.eu/orgref_20170703/resource/163157.. 1................................................ [London Metropolitan University] was compared to [London Metropolitan University] 
+	http://risis.eu/leidenRanking_2015/resource/319.. http://www.grid.ac/institutes/grid.23231.31...... 1................................................ [London Metropolitan University] was compared to [London Metropolitan University] 
+	http://www.grid.ac/institutes/grid.23231.31...... http://risis.eu/leidenRanking_2015/resource/319.. 1................................................ [London Metropolitan University] was compared to [London Metropolitan University] 
+	http://risis.eu/eter_2014/resource/UK0073........ http://www.grid.ac/institutes/grid.23231.31...... 1................................................ [London Metropolitan University] was compared to [London Metropolitan University] 
+	http://www.grid.ac/institutes/grid.23231.31...... http://risis.eu/eter_2014/resource/UK0073........ 1................................................ [London Metropolitan University] was compared to [London Metropolitan University] 
+	http://risis.eu/orgref_20170703/resource/163157.. http://risis.eu/eter_2014/resource/UK0073........ 1................................................ [London Metropolitan University] was compared to [London Metropolitan University] 
+	http://risis.eu/eter_2014/resource/UK0073........ http://risis.eu/orgref_20170703/resource/163157.. 1................................................ [London Metropolitan University] was compared to [London Metropolitan University] 
+	http://risis.eu/orgref_20170703/resource/163157.. http://risis.eu/leidenRanking_2015/resource/319.. 1................................................ [London Metropolitan University] was compared to [London Metropolitan University] 
+	http://risis.eu/leidenRanking_2015/resource/319.. http://risis.eu/orgref_20170703/resource/163157.. 1................................................ [London Metropolitan University] was compared to [London Metropolitan University] 
+	http://risis.eu/leidenRanking_2015/resource/319.. http://risis.eu/eter_2014/resource/UK0073........ 1................................................ [London Metropolitan University] was compared to [London Metropolitan University] 
+	http://risis.eu/eter_2014/resource/UK0073........ http://risis.eu/leidenRanking_2015/resource/319.. 1................................................ [London Metropolitan University] was compared to [London Metropolitan University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/163157.. http://en.wikipedia.org/wiki?curid=163157........ 
+	http://risis.eu/orgref_20170703/resource/163157.. http://www.wikidata.org/wiki/Q1869028............ 
+	http://risis.eu/orgref_20170703/resource/163157.. http://www.londonmet.ac.uk....................... 
+	http://risis.eu/orgref_20170703/resource/163157.. London Metropolitan University................... 
+	http://risis.eu/leidenRanking_2015/resource/319.. London Metropolitan University................... 
+	http://risis.eu/eter_2014/resource/UK0073........ 51,551819........................................ 
+	http://risis.eu/eter_2014/resource/UK0073........ -0,110236........................................ 
+	http://risis.eu/eter_2014/resource/UK0073........ http://www.londonmet.ac.uk/...................... 
+	http://risis.eu/eter_2014/resource/UK0073........ a................................................ 
+	http://risis.eu/eter_2014/resource/UK0073........ London Metropolitan University................... 
+	http://www.grid.ac/institutes/grid.23231.31...... -0.110687........................................ 
+	http://www.grid.ac/institutes/grid.23231.31...... 51.551575........................................ 
+	http://www.grid.ac/institutes/grid.23231.31...... http://www.londonmet.ac.uk/...................... 
+	http://www.grid.ac/institutes/grid.23231.31...... London Met....................................... 
+	http://www.grid.ac/institutes/grid.23231.31...... London Metropolitan University................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:163157', '4:grid.23231.31'), ('2:319', '1:163157'), ('2:319', '4:grid.23231.31'), ('3:UK0073', '1:163157'), ('3:UK0073', '2:319'), ('4:grid.23231.31', '3:UK0073')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

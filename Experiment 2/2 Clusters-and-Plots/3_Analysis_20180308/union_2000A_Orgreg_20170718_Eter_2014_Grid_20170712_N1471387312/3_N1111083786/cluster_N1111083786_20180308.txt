@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 627 
+NAME    N1111083786
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.469451.b>
+	<http://risis.eu/eter_2014/resource/CH0023>
+	<http://risis.eu/orgreg_20170718/resource/CH0023>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.469451.b...... http://risis.eu/eter_2014/resource/CH0023........ 0.761904761905................................... [haute ecole pedagogique du canton fribourg] was compared to [haute ecole pedagogique fribourg] 
+	http://risis.eu/eter_2014/resource/CH0023........ http://www.grid.ac/institutes/grid.469451.b...... 0.761904761905................................... [haute ecole pedagogique du canton fribourg] was compared to [haute ecole pedagogique fribourg] 
+	http://risis.eu/eter_2014/resource/CH0023........ http://risis.eu/orgreg_20170718/resource/CH0023.. 1................................................ [fribourg university teacher education] was compared to [fribourg university teacher education] 
+	http://risis.eu/orgreg_20170718/resource/CH0023.. http://risis.eu/eter_2014/resource/CH0023........ 1................................................ [fribourg university teacher education] was compared to [fribourg university teacher education] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.469451.b...... 7.159176......................................... 
+	http://www.grid.ac/institutes/grid.469451.b...... 46.811176........................................ 
+	http://www.grid.ac/institutes/grid.469451.b...... https://www.hepfr.ch/............................ 
+	http://www.grid.ac/institutes/grid.469451.b...... Haute Ecole Pédagogique Fribourg................ 
+	http://risis.eu/eter_2014/resource/CH0023........ 46,809782........................................ 
+	http://risis.eu/eter_2014/resource/CH0023........ 7,166843......................................... 
+	http://risis.eu/eter_2014/resource/CH0023........ http://www.hepfr.ch.............................. 
+	http://risis.eu/eter_2014/resource/CH0023........ a................................................ 
+	http://risis.eu/eter_2014/resource/CH0023........ Fribourg University of Teacher Education......... 
+	http://risis.eu/eter_2014/resource/CH0023........ Haute école pédagogique du Canton de Fribourg.. 
+	http://risis.eu/orgreg_20170718/resource/CH0023.. 7.166843......................................... 
+	http://risis.eu/orgreg_20170718/resource/CH0023.. 46.809782........................................ 
+	http://risis.eu/orgreg_20170718/resource/CH0023.. http://www.hepfr.ch.............................. 
+	http://risis.eu/orgreg_20170718/resource/CH0023.. Fribourg University of Teacher Education......... 
+
+NETWORK ANALYSIS
+	NETWORK [('N1111083786-CH0023', 'P175027683-grid.469451.b'), ('N1111083786-CH0023', 'P1610718031-CH0023')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

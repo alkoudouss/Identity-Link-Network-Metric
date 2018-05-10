@@ -1,0 +1,52 @@
+SIZE    3   
+CLUSTER 1840 
+NAME    P1381728782
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.425891.3>
+	<http://www.grid.ac/institutes/grid.427404.1>
+	<http://www.grid.ac/institutes/grid.460613.6>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.425891.3.. http://www.grid.ac/institutes/grid.427404.1.. 1............................................ [Science and Technology Corporation (Netherlands)] was compared to [Science and Technology Corporation (United States)] 
+	http://www.grid.ac/institutes/grid.425891.3.. http://www.grid.ac/institutes/grid.460613.6.. 1............................................ [Science and Technology Corporation (Netherlands)] was compared to [Science and Technology Corporation (Norway)] 
+	http://www.grid.ac/institutes/grid.427404.1.. http://www.grid.ac/institutes/grid.460613.6.. 1............................................ [Science and Technology Corporation (United States)] was compared to [Science and Technology Corporation (Norway)] 
+	http://www.grid.ac/institutes/grid.427404.1.. http://www.grid.ac/institutes/grid.425891.3.. 1............................................ [Science and Technology Corporation (Netherlands)] was compared to [Science and Technology Corporation (United States)] 
+	http://www.grid.ac/institutes/grid.460613.6.. http://www.grid.ac/institutes/grid.425891.3.. 1............................................ [Science and Technology Corporation (Netherlands)] was compared to [Science and Technology Corporation (Norway)] 
+	http://www.grid.ac/institutes/grid.460613.6.. http://www.grid.ac/institutes/grid.427404.1.. 1............................................ [Science and Technology Corporation (United States)] was compared to [Science and Technology Corporation (Norway)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.425891.3.. Science and Technology Corporation (Netherlands) 
+	http://www.grid.ac/institutes/grid.427404.1.. Science and Technology Corporation (United States) 
+	http://www.grid.ac/institutes/grid.460613.6.. 10.75215..................................... 
+	http://www.grid.ac/institutes/grid.460613.6.. 59.916847.................................... 
+	http://www.grid.ac/institutes/grid.460613.6.. http://www.stcorp.no/........................ 
+	http://www.grid.ac/institutes/grid.460613.6.. Science [&] Technology....................... 
+	http://www.grid.ac/institutes/grid.460613.6.. S[&]T........................................ 
+	http://www.grid.ac/institutes/grid.460613.6.. Science and Technology Corporation (Norway).. 
+
+NETWORK ANALYSIS
+	NETWORK [('P1870415424-grid.425891.3', 'P1381728782-grid.460613.6'), ('P1504221058-grid.427404.1', 'P1381728782-grid.460613.6'), ('P1870415424-grid.425891.3', 'P1504221058-grid.427404.1')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

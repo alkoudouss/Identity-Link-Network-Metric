@@ -1,0 +1,68 @@
+SIZE    5   
+CLUSTER 802 
+NAME    N531898836
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.427937.c>
+	<http://risis.eu/orgref_20170703/resource/40666425>
+	<http://www.grid.ac/institutes/grid.438824.1>
+	<http://www.grid.ac/institutes/grid.481810.4>
+	<http://www.grid.ac/institutes/grid.482389.c>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.438824.1........ http://www.grid.ac/institutes/grid.481810.4........ 1.................................................. [Cardinal Health (United States)] was compared to [Cardinal Health (Australia)] 
+	http://www.grid.ac/institutes/grid.481810.4........ http://www.grid.ac/institutes/grid.438824.1........ 1.................................................. [Cardinal Health (United States)] was compared to [Cardinal Health (Australia)] 
+	http://www.grid.ac/institutes/grid.438824.1........ http://www.grid.ac/institutes/grid.482389.c........ 1.................................................. [Cardinal Health (United States)] was compared to [Cardinal Health (Switzerland)] 
+	http://www.grid.ac/institutes/grid.482389.c........ http://www.grid.ac/institutes/grid.438824.1........ 1.................................................. [Cardinal Health (United States)] was compared to [Cardinal Health (Switzerland)] 
+	http://www.grid.ac/institutes/grid.481810.4........ http://www.grid.ac/institutes/grid.482389.c........ 1.................................................. [Cardinal Health (Australia)] was compared to [Cardinal Health (Switzerland)] 
+	http://www.grid.ac/institutes/grid.482389.c........ http://www.grid.ac/institutes/grid.481810.4........ 1.................................................. [Cardinal Health (Australia)] was compared to [Cardinal Health (Switzerland)] 
+	http://www.grid.ac/institutes/grid.427937.c........ http://www.grid.ac/institutes/grid.481810.4........ 0.8................................................ [Cariam Health] was compared to [Cardinal Health (Australia)] 
+	http://www.grid.ac/institutes/grid.481810.4........ http://www.grid.ac/institutes/grid.427937.c........ 0.8................................................ [Cariam Health] was compared to [Cardinal Health (Australia)] 
+	http://www.grid.ac/institutes/grid.427937.c........ http://www.grid.ac/institutes/grid.438824.1........ 0.8................................................ [Cariam Health] was compared to [Cardinal Health (United States)] 
+	http://www.grid.ac/institutes/grid.438824.1........ http://www.grid.ac/institutes/grid.427937.c........ 0.8................................................ [Cariam Health] was compared to [Cardinal Health (United States)] 
+	http://www.grid.ac/institutes/grid.427937.c........ http://www.grid.ac/institutes/grid.482389.c........ 0.8................................................ [Cariam Health] was compared to [Cardinal Health (Switzerland)] 
+	http://www.grid.ac/institutes/grid.482389.c........ http://www.grid.ac/institutes/grid.427937.c........ 0.8................................................ [Cariam Health] was compared to [Cardinal Health (Switzerland)] 
+	http://www.grid.ac/institutes/grid.427937.c........ http://risis.eu/orgref_20170703/resource/40666425.. 0.846153846154..................................... [Cariam Health] was compared to [Aria Health]...... 
+	http://risis.eu/orgref_20170703/resource/40666425.. http://www.grid.ac/institutes/grid.427937.c........ 0.846153846154..................................... [Cariam Health] was compared to [Aria Health]...... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.427937.c........ Cariam Health...................................... 
+	http://risis.eu/orgref_20170703/resource/40666425.. http://en.wikipedia.org/wiki?curid=40666425........ 
+	http://risis.eu/orgref_20170703/resource/40666425.. http://www.wikidata.org/wiki/Q16975298............. 
+	http://risis.eu/orgref_20170703/resource/40666425.. http://www.ariahealth.org.......................... 
+	http://risis.eu/orgref_20170703/resource/40666425.. Aria Health........................................ 
+	http://www.grid.ac/institutes/grid.438824.1........ Cardinal Health (United States).................... 
+	http://www.grid.ac/institutes/grid.481810.4........ 145.12485.......................................... 
+	http://www.grid.ac/institutes/grid.481810.4........ -38.000256......................................... 
+	http://www.grid.ac/institutes/grid.481810.4........ http://www.cardinalhealth.com/en/.................. 
+	http://www.grid.ac/institutes/grid.481810.4........ Cardinal Health (Australia)........................ 
+	http://www.grid.ac/institutes/grid.482389.c........ 6.33498............................................ 
+	http://www.grid.ac/institutes/grid.482389.c........ 46.46273........................................... 
+	http://www.grid.ac/institutes/grid.482389.c........ http://www.cardinalhealth.com/en.html.............. 
+	http://www.grid.ac/institutes/grid.482389.c........ Cardinal Health (Switzerland)...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:40666425', '1:grid.427937.c'), ('3:grid.438824.1', '1:grid.427937.c'), ('4:grid.481810.4', '1:grid.427937.c'), ('4:grid.481810.4', '3:grid.438824.1'), ('5:grid.482389.c', '1:grid.427937.c'), ('5:grid.482389.c', '3:grid.438824.1'), ('5:grid.482389.c', '4:grid.481810.4')]
+	MAX DISTANCE:                   : 0.7
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 2.2
+	AVERAGE NODE CONNECTIVITY RATIO : 0.55
+	BRIDGES                         : 1
+	CLOSURE                         : 0.7
+	DIAMETER                        : 2
+	QUALITY                         : 0.294
+	QUALITY USED                    : 0.357
+	SUMMARY 1: BRIDGE 0.25 CLOSURE 0.3 DIAMETER 0.333 QUALITY 0.294 QUALITY USED 0.357
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.3 DIAMETER 0.385 QUALITY 0.294 QUALITY USED 0.357

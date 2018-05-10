@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 2761 
+NAME    N687718721
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.14004.31>
+	<http://risis.eu/orgref_20170703/resource/5325875>
+	<http://risis.eu/orgreg_20170718/resource/RO0038>
+	<http://risis.eu/leidenRanking_2015/resource/585>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.14004.31....... http://risis.eu/orgref_20170703/resource/5325875.. 1................................................. [West University of Timişoara] was compared to [West University of Timișoara] 
+	http://risis.eu/orgref_20170703/resource/5325875.. http://www.grid.ac/institutes/grid.14004.31....... 1................................................. [West University of Timişoara] was compared to [West University of Timișoara] 
+	http://www.grid.ac/institutes/grid.14004.31....... http://risis.eu/leidenRanking_2015/resource/585... 0.96.............................................. [West University of Timişoara] was compared to [West University of Timi?oara] 
+	http://risis.eu/leidenRanking_2015/resource/585... http://www.grid.ac/institutes/grid.14004.31....... 0.96.............................................. [West University of Timişoara] was compared to [West University of Timi?oara] 
+	http://risis.eu/orgref_20170703/resource/5325875.. http://risis.eu/leidenRanking_2015/resource/585... 0.96.............................................. [West University of Timișoara] was compared to [West University of Timi?oara] 
+	http://risis.eu/leidenRanking_2015/resource/585... http://risis.eu/orgref_20170703/resource/5325875.. 0.96.............................................. [West University of Timișoara] was compared to [West University of Timi?oara] 
+	http://risis.eu/orgreg_20170718/resource/RO0038... http://risis.eu/leidenRanking_2015/resource/585... 0.96.............................................. [West University of Timişoara] was compared to [West University of Timi?oara] 
+	http://risis.eu/leidenRanking_2015/resource/585... http://risis.eu/orgreg_20170718/resource/RO0038... 0.96.............................................. [West University of Timişoara] was compared to [West University of Timi?oara] 
+	http://risis.eu/orgref_20170703/resource/5325875.. http://risis.eu/orgreg_20170718/resource/RO0038... 1................................................. [West University of Timișoara] was compared to [West University of Timişoara] 
+	http://risis.eu/orgreg_20170718/resource/RO0038... http://risis.eu/orgref_20170703/resource/5325875.. 1................................................. [West University of Timișoara] was compared to [West University of Timişoara] 
+	http://www.grid.ac/institutes/grid.14004.31....... http://risis.eu/orgreg_20170718/resource/RO0038... 1................................................. [West University of Timişoara] was compared to [West University of Timişoara] 
+	http://risis.eu/orgreg_20170718/resource/RO0038... http://www.grid.ac/institutes/grid.14004.31....... 1................................................. [West University of Timişoara] was compared to [West University of Timişoara] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.14004.31....... 21.231504......................................... 
+	http://www.grid.ac/institutes/grid.14004.31....... 45.747116......................................... 
+	http://www.grid.ac/institutes/grid.14004.31....... http://www.uvt.ro/en/............................. 
+	http://www.grid.ac/institutes/grid.14004.31....... Universitatea de Vest din Timișoara.............. 
+	http://www.grid.ac/institutes/grid.14004.31....... West University of Timişoara..................... 
+	http://risis.eu/orgref_20170703/resource/5325875.. http://en.wikipedia.org/wiki?curid=5325875........ 
+	http://risis.eu/orgref_20170703/resource/5325875.. http://www.wikidata.org/wiki/Q837657.............. 
+	http://risis.eu/orgref_20170703/resource/5325875.. http://www.uvt.ro................................. 
+	http://risis.eu/orgref_20170703/resource/5325875.. West University of Timișoara..................... 
+	http://risis.eu/orgreg_20170718/resource/RO0038... 21.231905......................................... 
+	http://risis.eu/orgreg_20170718/resource/RO0038... 45.747263......................................... 
+	http://risis.eu/orgreg_20170718/resource/RO0038... www.uvt.ro........................................ 
+	http://risis.eu/orgreg_20170718/resource/RO0038... West University of Timişoara..................... 
+	http://risis.eu/leidenRanking_2015/resource/585... West University of Timi?oara...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:5325875', '1:grid.14004.31'), ('3:RO0038', '1:grid.14004.31'), ('3:RO0038', '2:5325875'), ('4:585', '1:grid.14004.31'), ('4:585', '2:5325875'), ('4:585', '3:RO0038')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

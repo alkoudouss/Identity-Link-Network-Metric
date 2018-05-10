@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 16442 
+NAME    N1805869236
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.481652.c>
+	<http://www.grid.ac/institutes/grid.481653.d>
+	<http://www.grid.ac/institutes/grid.425182.8>
+	<http://risis.eu/cordisH2020/resource/participant_937130484>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.481652.c................. http://www.grid.ac/institutes/grid.425182.8................. 1........................................................... [Hottinger Baldwin Messtechnik (Portugal)] was compared to [Hottinger Baldwin Messtechnik (Germany)] 
+	http://www.grid.ac/institutes/grid.425182.8................. http://www.grid.ac/institutes/grid.481652.c................. 1........................................................... [Hottinger Baldwin Messtechnik (Portugal)] was compared to [Hottinger Baldwin Messtechnik (Germany)] 
+	http://www.grid.ac/institutes/grid.481653.d................. http://www.grid.ac/institutes/grid.425182.8................. 1........................................................... [Hottinger Baldwin Messtechnik (Portugal)] was compared to [Hottinger Baldwin Messtechnik (United States)] 
+	http://www.grid.ac/institutes/grid.425182.8................. http://www.grid.ac/institutes/grid.481653.d................. 1........................................................... [Hottinger Baldwin Messtechnik (Portugal)] was compared to [Hottinger Baldwin Messtechnik (United States)] 
+	http://www.grid.ac/institutes/grid.481652.c................. http://www.grid.ac/institutes/grid.481653.d................. 1........................................................... [Hottinger Baldwin Messtechnik (Germany)] was compared to [Hottinger Baldwin Messtechnik (United States)] 
+	http://www.grid.ac/institutes/grid.481653.d................. http://www.grid.ac/institutes/grid.481652.c................. 1........................................................... [Hottinger Baldwin Messtechnik (Germany)] was compared to [Hottinger Baldwin Messtechnik (United States)] 
+	http://www.grid.ac/institutes/grid.425182.8................. http://risis.eu/cordisH2020/resource/participant_937130484.. 0.852941176471.............................................. [Hottinger Baldwin Messtechnik (Portugal)] was compared to [HOTTINGER BALDWIN MESSTECHNIK GMBH] 
+	http://risis.eu/cordisH2020/resource/participant_937130484.. http://www.grid.ac/institutes/grid.425182.8................. 0.852941176471.............................................. [Hottinger Baldwin Messtechnik (Portugal)] was compared to [HOTTINGER BALDWIN MESSTECHNIK GMBH] 
+	http://www.grid.ac/institutes/grid.481653.d................. http://risis.eu/cordisH2020/resource/participant_937130484.. 0.852941176471.............................................. [Hottinger Baldwin Messtechnik (United States)] was compared to [HOTTINGER BALDWIN MESSTECHNIK GMBH] 
+	http://risis.eu/cordisH2020/resource/participant_937130484.. http://www.grid.ac/institutes/grid.481653.d................. 0.852941176471.............................................. [Hottinger Baldwin Messtechnik (United States)] was compared to [HOTTINGER BALDWIN MESSTECHNIK GMBH] 
+	http://www.grid.ac/institutes/grid.481652.c................. http://risis.eu/cordisH2020/resource/participant_937130484.. 0.852941176471.............................................. [Hottinger Baldwin Messtechnik (Germany)] was compared to [HOTTINGER BALDWIN MESSTECHNIK GMBH] 
+	http://risis.eu/cordisH2020/resource/participant_937130484.. http://www.grid.ac/institutes/grid.481652.c................. 0.852941176471.............................................. [Hottinger Baldwin Messtechnik (Germany)] was compared to [HOTTINGER BALDWIN MESSTECHNIK GMBH] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.481652.c................. 8.64303..................................................... 
+	http://www.grid.ac/institutes/grid.481652.c................. 49.88529.................................................... 
+	http://www.grid.ac/institutes/grid.481652.c................. https://www.hbm.com/en/..................................... 
+	http://www.grid.ac/institutes/grid.481652.c................. Hottinger Baldwin Messtechnik (Germany)..................... 
+	http://www.grid.ac/institutes/grid.481653.d................. -71.592255.................................................. 
+	http://www.grid.ac/institutes/grid.481653.d................. 42.324512................................................... 
+	http://www.grid.ac/institutes/grid.481653.d................. https://www.hbm.com/en/..................................... 
+	http://www.grid.ac/institutes/grid.481653.d................. Hottinger Baldwin Messtechnik (United States)............... 
+	http://www.grid.ac/institutes/grid.425182.8................. Hottinger Baldwin Messtechnik (Portugal).................... 
+	http://risis.eu/cordisH2020/resource/participant_937130484.. HOTTINGER BALDWIN MESSTECHNIK GMBH.......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.481652.c', '3:grid.425182.8'), ('2:grid.481653.d', '1:grid.481652.c'), ('2:grid.481653.d', '3:grid.425182.8'), ('4:participant_937130484', '1:grid.481652.c'), ('4:participant_937130484', '2:grid.481653.d'), ('4:participant_937130484', '3:grid.425182.8')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

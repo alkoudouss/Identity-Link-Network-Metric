@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 7255 
+NAME    N2138769466
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.108126.c>
+	<http://risis.eu/orgref_20170703/resource/24587346>
+	<http://risis.eu/orgref_20170703/resource/18177837>
+	<http://www.grid.ac/institutes/grid.411744.3>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.108126.c........ http://risis.eu/orgref_20170703/resource/24587346.. 0.95............................................... [Srivijaya University] was compared to [Sriwijaya University] 
+	http://risis.eu/orgref_20170703/resource/24587346.. http://www.grid.ac/institutes/grid.108126.c........ 0.95............................................... [Srivijaya University] was compared to [Sriwijaya University] 
+	http://risis.eu/orgref_20170703/resource/18177837.. http://www.grid.ac/institutes/grid.411744.3........ 1.................................................. [University of Brawijaya] was compared to [University of Brawijaya] 
+	http://www.grid.ac/institutes/grid.411744.3........ http://risis.eu/orgref_20170703/resource/18177837.. 1.................................................. [University of Brawijaya] was compared to [University of Brawijaya] 
+	http://risis.eu/orgref_20170703/resource/24587346.. http://risis.eu/orgref_20170703/resource/18177837.. 0.9................................................ [University of Brawijaya] was compared to [Sriwijaya University] 
+	http://risis.eu/orgref_20170703/resource/18177837.. http://risis.eu/orgref_20170703/resource/24587346.. 0.9................................................ [University of Brawijaya] was compared to [Sriwijaya University] 
+	http://www.grid.ac/institutes/grid.108126.c........ http://www.grid.ac/institutes/grid.411744.3........ 0.85............................................... [Srivijaya University] was compared to [University of Brawijaya] 
+	http://www.grid.ac/institutes/grid.411744.3........ http://www.grid.ac/institutes/grid.108126.c........ 0.85............................................... [Srivijaya University] was compared to [University of Brawijaya] 
+	http://www.grid.ac/institutes/grid.108126.c........ http://risis.eu/orgref_20170703/resource/18177837.. 0.85............................................... [Srivijaya University] was compared to [University of Brawijaya] 
+	http://risis.eu/orgref_20170703/resource/18177837.. http://www.grid.ac/institutes/grid.108126.c........ 0.85............................................... [Srivijaya University] was compared to [University of Brawijaya] 
+	http://risis.eu/orgref_20170703/resource/24587346.. http://www.grid.ac/institutes/grid.411744.3........ 0.9................................................ [University of Brawijaya] was compared to [Sriwijaya University] 
+	http://www.grid.ac/institutes/grid.411744.3........ http://risis.eu/orgref_20170703/resource/24587346.. 0.9................................................ [University of Brawijaya] was compared to [Sriwijaya University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.108126.c........ Srivijaya University............................... 
+	http://risis.eu/orgref_20170703/resource/24587346.. http://en.wikipedia.org/wiki?curid=24587346........ 
+	http://risis.eu/orgref_20170703/resource/24587346.. http://www.wikidata.org/wiki/Q4200297.............. 
+	http://risis.eu/orgref_20170703/resource/24587346.. http://www.unsri.ac.id............................. 
+	http://risis.eu/orgref_20170703/resource/24587346.. Sriwijaya University............................... 
+	http://risis.eu/orgref_20170703/resource/18177837.. http://en.wikipedia.org/wiki?curid=18177837........ 
+	http://risis.eu/orgref_20170703/resource/18177837.. http://www.wikidata.org/wiki/Q1336952.............. 
+	http://risis.eu/orgref_20170703/resource/18177837.. http://www.ub.ac.id................................ 
+	http://risis.eu/orgref_20170703/resource/18177837.. University of Brawijaya............................ 
+	http://www.grid.ac/institutes/grid.411744.3........ 112.61582.......................................... 
+	http://www.grid.ac/institutes/grid.411744.3........ -7.954835.......................................... 
+	http://www.grid.ac/institutes/grid.411744.3........ http://www.ub.ac.id/............................... 
+	http://www.grid.ac/institutes/grid.411744.3........ Universitas Brawijaya.............................. 
+	http://www.grid.ac/institutes/grid.411744.3........ University of Brawijaya............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:24587346', '1:grid.108126.c'), ('3:18177837', '1:grid.108126.c'), ('3:18177837', '2:24587346'), ('3:18177837', '4:grid.411744.3'), ('4:grid.411744.3', '1:grid.108126.c'), ('4:grid.411744.3', '2:24587346')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

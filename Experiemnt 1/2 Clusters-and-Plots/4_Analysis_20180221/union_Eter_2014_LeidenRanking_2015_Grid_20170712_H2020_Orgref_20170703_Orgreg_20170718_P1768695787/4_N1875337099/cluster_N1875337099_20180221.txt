@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 2469 
+NAME    N1875337099
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.412139.c>
+	<http://risis.eu/cordisH2020/resource/participant_972567785>
+	<http://risis.eu/orgref_20170703/resource/881536>
+	<http://risis.eu/leidenRanking_2015/resource/1321>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.412139.c................. http://risis.eu/orgref_20170703/resource/881536............. 1........................................................... [Nelson Mandela Metropolitan University] was compared to [Nelson Mandela Metropolitan University] 
+	http://risis.eu/orgref_20170703/resource/881536............. http://www.grid.ac/institutes/grid.412139.c................. 1........................................................... [Nelson Mandela Metropolitan University] was compared to [Nelson Mandela Metropolitan University] 
+	http://www.grid.ac/institutes/grid.412139.c................. http://risis.eu/leidenRanking_2015/resource/1321............ 1........................................................... [Nelson Mandela Metropolitan University] was compared to [Nelson Mandela Metropolitan University] 
+	http://risis.eu/leidenRanking_2015/resource/1321............ http://www.grid.ac/institutes/grid.412139.c................. 1........................................................... [Nelson Mandela Metropolitan University] was compared to [Nelson Mandela Metropolitan University] 
+	http://www.grid.ac/institutes/grid.412139.c................. http://risis.eu/cordisH2020/resource/participant_972567785.. 1........................................................... [Nelson Mandela Metropolitan University] was compared to [NELSON MANDELA METROPOLITAN UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_972567785.. http://www.grid.ac/institutes/grid.412139.c................. 1........................................................... [Nelson Mandela Metropolitan University] was compared to [NELSON MANDELA METROPOLITAN UNIVERSITY] 
+	http://risis.eu/orgref_20170703/resource/881536............. http://risis.eu/leidenRanking_2015/resource/1321............ 1........................................................... [Nelson Mandela Metropolitan University] was compared to [Nelson Mandela Metropolitan University] 
+	http://risis.eu/leidenRanking_2015/resource/1321............ http://risis.eu/orgref_20170703/resource/881536............. 1........................................................... [Nelson Mandela Metropolitan University] was compared to [Nelson Mandela Metropolitan University] 
+	http://risis.eu/cordisH2020/resource/participant_972567785.. http://risis.eu/orgref_20170703/resource/881536............. 1........................................................... [Nelson Mandela Metropolitan University] was compared to [NELSON MANDELA METROPOLITAN UNIVERSITY] 
+	http://risis.eu/orgref_20170703/resource/881536............. http://risis.eu/cordisH2020/resource/participant_972567785.. 1........................................................... [Nelson Mandela Metropolitan University] was compared to [NELSON MANDELA METROPOLITAN UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_972567785.. http://risis.eu/leidenRanking_2015/resource/1321............ 1........................................................... [NELSON MANDELA METROPOLITAN UNIVERSITY] was compared to [Nelson Mandela Metropolitan University] 
+	http://risis.eu/leidenRanking_2015/resource/1321............ http://risis.eu/cordisH2020/resource/participant_972567785.. 1........................................................... [NELSON MANDELA METROPOLITAN UNIVERSITY] was compared to [Nelson Mandela Metropolitan University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.412139.c................. 25.67....................................................... 
+	http://www.grid.ac/institutes/grid.412139.c................. -34.009..................................................... 
+	http://www.grid.ac/institutes/grid.412139.c................. http://www.nmmu.ac.za/...................................... 
+	http://www.grid.ac/institutes/grid.412139.c................. Nelson Mandela Metropolitan University...................... 
+	http://risis.eu/cordisH2020/resource/participant_972567785.. NELSON MANDELA METROPOLITAN UNIVERSITY...................... 
+	http://risis.eu/orgref_20170703/resource/881536............. http://en.wikipedia.org/wiki?curid=881536................... 
+	http://risis.eu/orgref_20170703/resource/881536............. http://www.wikidata.org/wiki/Q1331614....................... 
+	http://risis.eu/orgref_20170703/resource/881536............. http://nmmu.ac.za........................................... 
+	http://risis.eu/orgref_20170703/resource/881536............. Nelson Mandela Metropolitan University...................... 
+	http://risis.eu/leidenRanking_2015/resource/1321............ Nelson Mandela Metropolitan University...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_972567785', '1:grid.412139.c'), ('2:participant_972567785', '3:881536'), ('3:881536', '1:grid.412139.c'), ('4:1321', '1:grid.412139.c'), ('4:1321', '2:participant_972567785'), ('4:1321', '3:881536')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

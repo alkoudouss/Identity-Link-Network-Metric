@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 293 
+NAME    N52620357
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/BG0029>
+	<http://risis.eu/orgreg_20170718/resource/BG0029>
+	<http://risis.eu/eter_2014/resource/BG0033>
+	<http://risis.eu/orgreg_20170718/resource/BG0033>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/eter_2014/resource/BG0029........ http://risis.eu/orgreg_20170718/resource/BG0029.. 1................................................ [technical university sofia] was compared to [technical university sofia] 
+	http://risis.eu/eter_2014/resource/BG0029........ http://risis.eu/orgreg_20170718/resource/BG0033.. 0.807692307692................................... [medical university  sofia] was compared to [technical university sofia] 
+	http://risis.eu/orgreg_20170718/resource/BG0029.. http://risis.eu/eter_2014/resource/BG0029........ 1................................................ [technical university sofia] was compared to [technical university sofia] 
+	http://risis.eu/orgreg_20170718/resource/BG0029.. http://risis.eu/eter_2014/resource/BG0033........ 0.807692307692................................... [technical university sofia] was compared to [medical university  sofia] 
+	http://risis.eu/eter_2014/resource/BG0033........ http://risis.eu/orgreg_20170718/resource/BG0029.. 0.807692307692................................... [technical university sofia] was compared to [medical university  sofia] 
+	http://risis.eu/eter_2014/resource/BG0033........ http://risis.eu/orgreg_20170718/resource/BG0033.. 1................................................ [medical university  sofia] was compared to [medical university  sofia] 
+	http://risis.eu/orgreg_20170718/resource/BG0033.. http://risis.eu/eter_2014/resource/BG0029........ 0.807692307692................................... [medical university  sofia] was compared to [technical university sofia] 
+	http://risis.eu/orgreg_20170718/resource/BG0033.. http://risis.eu/eter_2014/resource/BG0033........ 1................................................ [medical university  sofia] was compared to [medical university  sofia] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 20 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/eter_2014/resource/BG0029........ 42,697821........................................ 
+	http://risis.eu/eter_2014/resource/BG0029........ 23,324564........................................ 
+	http://risis.eu/eter_2014/resource/BG0029........ http://www.tu-sofia.bg/.......................... 
+	http://risis.eu/eter_2014/resource/BG0029........ a................................................ 
+	http://risis.eu/eter_2014/resource/BG0029........ Technical University of Sofia.................... 
+	http://risis.eu/eter_2014/resource/BG0029........ Технически Университет - София 
+	http://risis.eu/orgreg_20170718/resource/BG0029.. 23.324564........................................ 
+	http://risis.eu/orgreg_20170718/resource/BG0029.. 42.697821........................................ 
+	http://risis.eu/orgreg_20170718/resource/BG0029.. http://www.tu-sofia.bg/.......................... 
+	http://risis.eu/orgreg_20170718/resource/BG0029.. Technical University of Sofia.................... 
+	http://risis.eu/eter_2014/resource/BG0033........ 42,697821........................................ 
+	http://risis.eu/eter_2014/resource/BG0033........ 23,324564........................................ 
+	http://risis.eu/eter_2014/resource/BG0033........ http://www.mu-sofia.bg/en........................ 
+	http://risis.eu/eter_2014/resource/BG0033........ a................................................ 
+	http://risis.eu/eter_2014/resource/BG0033........ Medical university - Sofia....................... 
+	http://risis.eu/eter_2014/resource/BG0033........ Медицински университет - София 
+	http://risis.eu/orgreg_20170718/resource/BG0033.. 23.324564........................................ 
+	http://risis.eu/orgreg_20170718/resource/BG0033.. 42.697821........................................ 
+	http://risis.eu/orgreg_20170718/resource/BG0033.. http://www.mu-sofia.bg/en........................ 
+	http://risis.eu/orgreg_20170718/resource/BG0033.. Medical university - Sofia....................... 
+
+NETWORK ANALYSIS
+	NETWORK [('P676759592-BG0029', 'P432669921-BG0029'), ('P676759592-BG0029', 'P1150049878-BG0033'), ('N52620357-BG0033', 'P432669921-BG0029'), ('N52620357-BG0033', 'P1150049878-BG0033')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.666666666667
+	BRIDGES                         : 0
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.277
+	QUALITY USED                    : 0.277
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.277 QUALITY USED 0.277
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.277 QUALITY USED 0.277

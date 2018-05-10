@@ -1,0 +1,52 @@
+SIZE    3   
+CLUSTER 1421 
+NAME    N1435817110
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/NL1013>
+	<http://www.grid.ac/institutes/grid.425326.4>
+	<http://risis.eu/cordisH2020/resource/participant_998530417>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgreg_20170718/resource/NL1013............. http://risis.eu/cordisH2020/resource/participant_998530417.. 0.9......................................................... [Louis Bolk Institute] was compared to [LOUIS BOLK INSTITUUT] 
+	http://www.grid.ac/institutes/grid.425326.4................. http://risis.eu/cordisH2020/resource/participant_998530417.. 1........................................................... [Louis Bolk Instituut] was compared to [LOUIS BOLK INSTITUUT] 
+	http://risis.eu/cordisH2020/resource/participant_998530417.. http://www.grid.ac/institutes/grid.425326.4................. 1........................................................... [Louis Bolk Instituut] was compared to [LOUIS BOLK INSTITUUT] 
+	http://risis.eu/cordisH2020/resource/participant_998530417.. http://risis.eu/orgreg_20170718/resource/NL1013............. 0.9......................................................... [Louis Bolk Institute] was compared to [LOUIS BOLK INSTITUUT] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgreg_20170718/resource/NL1013............. 5........................................................... 
+	http://risis.eu/orgreg_20170718/resource/NL1013............. 52.......................................................... 
+	http://risis.eu/orgreg_20170718/resource/NL1013............. http://www.louisbolk.org/................................... 
+	http://risis.eu/orgreg_20170718/resource/NL1013............. Louis Bolk Institute........................................ 
+	http://www.grid.ac/institutes/grid.425326.4................. 5.26116..................................................... 
+	http://www.grid.ac/institutes/grid.425326.4................. 52.061916................................................... 
+	http://www.grid.ac/institutes/grid.425326.4................. http://www.louisbolk.org/................................... 
+	http://www.grid.ac/institutes/grid.425326.4................. Louis Bolk Instituut........................................ 
+	http://risis.eu/cordisH2020/resource/participant_998530417.. http://risis.eu/cordisH2020/resource/www.louisbolk.nl....... 
+	http://risis.eu/cordisH2020/resource/participant_998530417.. LOUIS BOLK INSTITUUT........................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('P1457266167-participant_998530417', 'N201918560-NL1013'), ('P1457266167-participant_998530417', 'N1435817110-grid.425326.4')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

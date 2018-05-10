@@ -1,0 +1,58 @@
+SIZE    3   
+CLUSTER 949 
+NAME    N711794104
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/GR0005>
+	<http://www.grid.ac/institutes/grid.184212.c>
+	<http://risis.eu/eter_2014/resource/GR0032>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/GR0005.... http://www.grid.ac/institutes/grid.184212.c.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.184212.c.. http://risis.eu/eter_2014/resource/GR0005.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.184212.c.. http://risis.eu/eter_2014/resource/GR0032.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/GR0032.... http://www.grid.ac/institutes/grid.184212.c.. 1............................................ Near each other by at most 500 meter(s)...... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/GR0005.... 40,300581.................................... 
+	http://risis.eu/eter_2014/resource/GR0005.... 21,789813.................................... 
+	http://risis.eu/eter_2014/resource/GR0005.... http://www.uowm.gr/.......................... 
+	http://risis.eu/eter_2014/resource/GR0005.... a............................................ 
+	http://risis.eu/eter_2014/resource/GR0005.... UNIVERSITY OF WESTERN MACEDONIA.............. 
+	http://risis.eu/eter_2014/resource/GR0005.... ΠΑΝΕΠΙΣΤΗΜΙΟ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ 
+	http://www.grid.ac/institutes/grid.184212.c.. 21.793158.................................... 
+	http://www.grid.ac/institutes/grid.184212.c.. 40.303787.................................... 
+	http://www.grid.ac/institutes/grid.184212.c.. http://www.uowm.gr/index..................... 
+	http://www.grid.ac/institutes/grid.184212.c.. University of Western Macedonia.............. 
+	http://risis.eu/eter_2014/resource/GR0032.... 40,300581.................................... 
+	http://risis.eu/eter_2014/resource/GR0032.... 21,789813.................................... 
+	http://risis.eu/eter_2014/resource/GR0032.... http://www.teiwm.gr/index.php?lang=el........ 
+	http://risis.eu/eter_2014/resource/GR0032.... a............................................ 
+	http://risis.eu/eter_2014/resource/GR0032.... TECHNOLOGICAL EDUCATIONAL INSTITUTE OF WEST MACEDONIA 
+	http://risis.eu/eter_2014/resource/GR0032.... ΤΕΧΝΟΛΟΓΙΚΟ ΕΚΠΑΙΔΕΥΤΙΚΟ ΙΔΡΥΜΑ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ 
+
+NETWORK ANALYSIS
+	NETWORK [('N711794104-GR0005', 'P1701462361-grid.184212.c'), ('P2585834-GR0032', 'P1701462361-grid.184212.c')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 12631 
+NAME    N873006012
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.443863.e>
+	<http://www.grid.ac/institutes/grid.473130.2>
+	<http://www.grid.ac/institutes/grid.424724.3>
+	<http://www.grid.ac/institutes/grid.473131.3>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.443863.e.. http://www.grid.ac/institutes/grid.424724.3.. 1............................................ [Horiba (France)] was compared to [Horiba (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.424724.3.. http://www.grid.ac/institutes/grid.443863.e.. 1............................................ [Horiba (France)] was compared to [Horiba (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.473130.2.. http://www.grid.ac/institutes/grid.424724.3.. 1............................................ [Horiba (France)] was compared to [Horiba (Germany)] 
+	http://www.grid.ac/institutes/grid.424724.3.. http://www.grid.ac/institutes/grid.473130.2.. 1............................................ [Horiba (France)] was compared to [Horiba (Germany)] 
+	http://www.grid.ac/institutes/grid.424724.3.. http://www.grid.ac/institutes/grid.473131.3.. 1............................................ [Horiba (France)] was compared to [Horiba (Japan)] 
+	http://www.grid.ac/institutes/grid.473131.3.. http://www.grid.ac/institutes/grid.424724.3.. 1............................................ [Horiba (France)] was compared to [Horiba (Japan)] 
+	http://www.grid.ac/institutes/grid.443863.e.. http://www.grid.ac/institutes/grid.473130.2.. 1............................................ [Horiba (United Kingdom)] was compared to [Horiba (Germany)] 
+	http://www.grid.ac/institutes/grid.473130.2.. http://www.grid.ac/institutes/grid.443863.e.. 1............................................ [Horiba (United Kingdom)] was compared to [Horiba (Germany)] 
+	http://www.grid.ac/institutes/grid.443863.e.. http://www.grid.ac/institutes/grid.473131.3.. 1............................................ [Horiba (United Kingdom)] was compared to [Horiba (Japan)] 
+	http://www.grid.ac/institutes/grid.473131.3.. http://www.grid.ac/institutes/grid.443863.e.. 1............................................ [Horiba (United Kingdom)] was compared to [Horiba (Japan)] 
+	http://www.grid.ac/institutes/grid.473130.2.. http://www.grid.ac/institutes/grid.473131.3.. 1............................................ [Horiba (Germany)] was compared to [Horiba (Japan)] 
+	http://www.grid.ac/institutes/grid.473131.3.. http://www.grid.ac/institutes/grid.473130.2.. 1............................................ [Horiba (Germany)] was compared to [Horiba (Japan)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.443863.e.. Horiba (United Kingdom)...................... 
+	http://www.grid.ac/institutes/grid.473130.2.. 8.654814..................................... 
+	http://www.grid.ac/institutes/grid.473130.2.. 49.88618..................................... 
+	http://www.grid.ac/institutes/grid.473130.2.. http://www.horiba.com/de/.................... 
+	http://www.grid.ac/institutes/grid.473130.2.. Horiba (Germany)............................. 
+	http://www.grid.ac/institutes/grid.424724.3.. 2.289833..................................... 
+	http://www.grid.ac/institutes/grid.424724.3.. 48.69582..................................... 
+	http://www.grid.ac/institutes/grid.424724.3.. http://www.horiba.com/fr/.................... 
+	http://www.grid.ac/institutes/grid.424724.3.. Horiba (France).............................. 
+	http://www.grid.ac/institutes/grid.473131.3.. 131.08865.................................... 
+	http://www.grid.ac/institutes/grid.473131.3.. 32.96281..................................... 
+	http://www.grid.ac/institutes/grid.473131.3.. http://www.horiba.com/jp/.................... 
+	http://www.grid.ac/institutes/grid.473131.3.. Horiba (Japan)............................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.443863.e', '3:grid.424724.3'), ('2:grid.473130.2', '1:grid.443863.e'), ('3:grid.424724.3', '2:grid.473130.2'), ('4:grid.473131.3', '1:grid.443863.e'), ('4:grid.473131.3', '2:grid.473130.2'), ('4:grid.473131.3', '3:grid.424724.3')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

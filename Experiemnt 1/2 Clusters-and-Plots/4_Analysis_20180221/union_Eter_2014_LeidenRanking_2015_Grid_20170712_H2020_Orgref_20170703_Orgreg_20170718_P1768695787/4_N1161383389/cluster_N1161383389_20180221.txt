@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 3907 
+NAME    N1161383389
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/412677>
+	<http://risis.eu/leidenRanking_2015/resource/9866>
+	<http://risis.eu/cordisH2020/resource/participant_937217105>
+	<http://www.grid.ac/institutes/grid.217197.b>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/412677............. http://www.grid.ac/institutes/grid.217197.b................. 0.923076923077.............................................. [University of North Carolina Wilmington] was compared to [University of North Carolina at Wilmington] 
+	http://www.grid.ac/institutes/grid.217197.b................. http://risis.eu/orgref_20170703/resource/412677............. 0.923076923077.............................................. [University of North Carolina Wilmington] was compared to [University of North Carolina at Wilmington] 
+	http://risis.eu/leidenRanking_2015/resource/9866............ http://www.grid.ac/institutes/grid.217197.b................. 0.923076923077.............................................. [University of North Carolina Wilmington] was compared to [University of North Carolina at Wilmington] 
+	http://www.grid.ac/institutes/grid.217197.b................. http://risis.eu/leidenRanking_2015/resource/9866............ 0.923076923077.............................................. [University of North Carolina Wilmington] was compared to [University of North Carolina at Wilmington] 
+	http://risis.eu/cordisH2020/resource/participant_937217105.. http://www.grid.ac/institutes/grid.217197.b................. 0.923076923077.............................................. [University of North Carolina Wilmington] was compared to [UNIVERSITY OF NORTH CAROLINA AT WILMINGTON] 
+	http://www.grid.ac/institutes/grid.217197.b................. http://risis.eu/cordisH2020/resource/participant_937217105.. 0.923076923077.............................................. [University of North Carolina Wilmington] was compared to [UNIVERSITY OF NORTH CAROLINA AT WILMINGTON] 
+	http://risis.eu/orgref_20170703/resource/412677............. http://risis.eu/leidenRanking_2015/resource/9866............ 1........................................................... [University of North Carolina at Wilmington] was compared to [University of North Carolina at Wilmington] 
+	http://risis.eu/leidenRanking_2015/resource/9866............ http://risis.eu/orgref_20170703/resource/412677............. 1........................................................... [University of North Carolina at Wilmington] was compared to [University of North Carolina at Wilmington] 
+	http://risis.eu/orgref_20170703/resource/412677............. http://risis.eu/cordisH2020/resource/participant_937217105.. 1........................................................... [University of North Carolina at Wilmington] was compared to [UNIVERSITY OF NORTH CAROLINA AT WILMINGTON] 
+	http://risis.eu/cordisH2020/resource/participant_937217105.. http://risis.eu/orgref_20170703/resource/412677............. 1........................................................... [University of North Carolina at Wilmington] was compared to [UNIVERSITY OF NORTH CAROLINA AT WILMINGTON] 
+	http://risis.eu/leidenRanking_2015/resource/9866............ http://risis.eu/cordisH2020/resource/participant_937217105.. 1........................................................... [UNIVERSITY OF NORTH CAROLINA AT WILMINGTON] was compared to [University of North Carolina at Wilmington] 
+	http://risis.eu/cordisH2020/resource/participant_937217105.. http://risis.eu/leidenRanking_2015/resource/9866............ 1........................................................... [UNIVERSITY OF NORTH CAROLINA AT WILMINGTON] was compared to [University of North Carolina at Wilmington] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/412677............. http://en.wikipedia.org/wiki?curid=412677................... 
+	http://risis.eu/orgref_20170703/resource/412677............. http://www.wikidata.org/wiki/Q2092214....................... 
+	http://risis.eu/orgref_20170703/resource/412677............. http://www.uncw.edu......................................... 
+	http://risis.eu/orgref_20170703/resource/412677............. University of North Carolina at Wilmington.................. 
+	http://risis.eu/leidenRanking_2015/resource/9866............ University of North Carolina at Wilmington.................. 
+	http://risis.eu/cordisH2020/resource/participant_937217105.. UNIVERSITY OF NORTH CAROLINA AT WILMINGTON.................. 
+	http://www.grid.ac/institutes/grid.217197.b................. -77.86325................................................... 
+	http://www.grid.ac/institutes/grid.217197.b................. 34.226982................................................... 
+	http://www.grid.ac/institutes/grid.217197.b................. http://uncw.edu/............................................ 
+	http://www.grid.ac/institutes/grid.217197.b................. University of North Carolina Wilmington..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:412677', '4:grid.217197.b'), ('2:9866', '1:412677'), ('2:9866', '3:participant_937217105'), ('2:9866', '4:grid.217197.b'), ('3:participant_937217105', '1:412677'), ('4:grid.217197.b', '3:participant_937217105')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

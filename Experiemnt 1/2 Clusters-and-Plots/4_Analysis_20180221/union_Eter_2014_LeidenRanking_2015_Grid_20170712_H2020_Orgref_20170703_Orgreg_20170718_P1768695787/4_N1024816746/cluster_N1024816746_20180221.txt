@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 14544 
+NAME    N1024816746
+
+RESOURCES INVOLVED
+	<http://risis.eu/cordisH2020/resource/participant_999869696>
+	<http://risis.eu/leidenRanking_2015/resource/1145>
+	<http://risis.eu/orgref_20170703/resource/286880>
+	<http://www.grid.ac/institutes/grid.4280.e>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/286880............. http://www.grid.ac/institutes/grid.4280.e................... 1........................................................... [National University of Singapore] was compared to [National University of Singapore] 
+	http://www.grid.ac/institutes/grid.4280.e................... http://risis.eu/orgref_20170703/resource/286880............. 1........................................................... [National University of Singapore] was compared to [National University of Singapore] 
+	http://risis.eu/leidenRanking_2015/resource/1145............ http://www.grid.ac/institutes/grid.4280.e................... 1........................................................... [National University of Singapore] was compared to [National University of Singapore] 
+	http://www.grid.ac/institutes/grid.4280.e................... http://risis.eu/leidenRanking_2015/resource/1145............ 1........................................................... [National University of Singapore] was compared to [National University of Singapore] 
+	http://risis.eu/cordisH2020/resource/participant_999869696.. http://www.grid.ac/institutes/grid.4280.e................... 1........................................................... [National University of Singapore] was compared to [NATIONAL UNIVERSITY OF SINGAPORE] 
+	http://www.grid.ac/institutes/grid.4280.e................... http://risis.eu/cordisH2020/resource/participant_999869696.. 1........................................................... [National University of Singapore] was compared to [NATIONAL UNIVERSITY OF SINGAPORE] 
+	http://risis.eu/leidenRanking_2015/resource/1145............ http://risis.eu/orgref_20170703/resource/286880............. 1........................................................... [National University of Singapore] was compared to [National University of Singapore] 
+	http://risis.eu/orgref_20170703/resource/286880............. http://risis.eu/leidenRanking_2015/resource/1145............ 1........................................................... [National University of Singapore] was compared to [National University of Singapore] 
+	http://risis.eu/cordisH2020/resource/participant_999869696.. http://risis.eu/orgref_20170703/resource/286880............. 1........................................................... [National University of Singapore] was compared to [NATIONAL UNIVERSITY OF SINGAPORE] 
+	http://risis.eu/orgref_20170703/resource/286880............. http://risis.eu/cordisH2020/resource/participant_999869696.. 1........................................................... [National University of Singapore] was compared to [NATIONAL UNIVERSITY OF SINGAPORE] 
+	http://risis.eu/cordisH2020/resource/participant_999869696.. http://risis.eu/leidenRanking_2015/resource/1145............ 1........................................................... [NATIONAL UNIVERSITY OF SINGAPORE] was compared to [National University of Singapore] 
+	http://risis.eu/leidenRanking_2015/resource/1145............ http://risis.eu/cordisH2020/resource/participant_999869696.. 1........................................................... [NATIONAL UNIVERSITY OF SINGAPORE] was compared to [National University of Singapore] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_999869696.. http://risis.eu/cordisH2020/resource/www.nus.edu.sg......... 
+	http://risis.eu/cordisH2020/resource/participant_999869696.. NATIONAL UNIVERSITY OF SINGAPORE............................ 
+	http://risis.eu/leidenRanking_2015/resource/1145............ National University of Singapore............................ 
+	http://risis.eu/orgref_20170703/resource/286880............. http://en.wikipedia.org/wiki?curid=286880................... 
+	http://risis.eu/orgref_20170703/resource/286880............. http://www.wikidata.org/wiki/Q738236........................ 
+	http://risis.eu/orgref_20170703/resource/286880............. http://www.nus.edu.sg....................................... 
+	http://risis.eu/orgref_20170703/resource/286880............. National University of Singapore............................ 
+	http://www.grid.ac/institutes/grid.4280.e................... 103.776665.................................................. 
+	http://www.grid.ac/institutes/grid.4280.e................... 1.295556.................................................... 
+	http://www.grid.ac/institutes/grid.4280.e................... http://www.nus.edu.sg/...................................... 
+	http://www.grid.ac/institutes/grid.4280.e................... University of Malaya........................................ 
+	http://www.grid.ac/institutes/grid.4280.e................... King Edward VII College of Medicine......................... 
+	http://www.grid.ac/institutes/grid.4280.e................... Universiti Kebangsaan Singapura............................. 
+	http://www.grid.ac/institutes/grid.4280.e................... National University of Singapore............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:participant_999869696', '3:286880'), ('2:1145', '1:participant_999869696'), ('2:1145', '4:grid.4280.e'), ('3:286880', '2:1145'), ('3:286880', '4:grid.4280.e'), ('4:grid.4280.e', '1:participant_999869696')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

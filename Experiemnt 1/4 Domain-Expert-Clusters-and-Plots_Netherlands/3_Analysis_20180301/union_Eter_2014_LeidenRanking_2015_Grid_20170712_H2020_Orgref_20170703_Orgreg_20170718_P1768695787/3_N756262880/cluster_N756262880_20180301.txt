@@ -1,0 +1,50 @@
+SIZE    3   
+CLUSTER 11240 
+NAME    N756262880
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.436001.0>
+	<http://www.grid.ac/institutes/grid.425257.3>
+	<http://www.grid.ac/institutes/grid.451013.2>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.436001.0.. http://www.grid.ac/institutes/grid.451013.2.. 1............................................ [SGS (France)] was compared to [SGS (Canada)] 
+	http://www.grid.ac/institutes/grid.436001.0.. http://www.grid.ac/institutes/grid.425257.3.. 1............................................ [SGS (Netherlands)] was compared to [SGS (France)] 
+	http://www.grid.ac/institutes/grid.425257.3.. http://www.grid.ac/institutes/grid.436001.0.. 1............................................ [SGS (Netherlands)] was compared to [SGS (France)] 
+	http://www.grid.ac/institutes/grid.425257.3.. http://www.grid.ac/institutes/grid.451013.2.. 1............................................ [SGS (Netherlands)] was compared to [SGS (Canada)] 
+	http://www.grid.ac/institutes/grid.451013.2.. http://www.grid.ac/institutes/grid.425257.3.. 1............................................ [SGS (Netherlands)] was compared to [SGS (Canada)] 
+	http://www.grid.ac/institutes/grid.451013.2.. http://www.grid.ac/institutes/grid.436001.0.. 1............................................ [SGS (France)] was compared to [SGS (Canada)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.436001.0.. SGS (France)................................. 
+	http://www.grid.ac/institutes/grid.425257.3.. SGS (Netherlands)............................ 
+	http://www.grid.ac/institutes/grid.451013.2.. -79.66524.................................... 
+	http://www.grid.ac/institutes/grid.451013.2.. 43.66153..................................... 
+	http://www.grid.ac/institutes/grid.451013.2.. http://www.sgs.com/en........................ 
+	http://www.grid.ac/institutes/grid.451013.2.. SGS (Canada)................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('P1717796516-grid.425257.3', 'N756262880-grid.436001.0'), ('P1717796516-grid.425257.3', 'P1187524492-grid.451013.2'), ('N756262880-grid.436001.0', 'P1187524492-grid.451013.2')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

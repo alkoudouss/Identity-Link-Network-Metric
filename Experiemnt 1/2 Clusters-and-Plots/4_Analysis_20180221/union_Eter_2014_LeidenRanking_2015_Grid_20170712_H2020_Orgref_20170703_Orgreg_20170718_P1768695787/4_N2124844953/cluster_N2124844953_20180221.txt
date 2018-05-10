@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 16393 
+NAME    N2124844953
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/18423546>
+	<http://risis.eu/eter_2014/resource/FR0252>
+	<http://www.grid.ac/institutes/grid.434223.0>
+	<http://risis.eu/eter_2014/resource/FR0025>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/eter_2014/resource/FR0252.......... http://www.grid.ac/institutes/grid.434223.0........ 1.................................................. [Ecole Nationale Superieure de Techniques Avancees] was compared to [École nationale supérieure de techniques avancées] 
+	http://www.grid.ac/institutes/grid.434223.0........ http://risis.eu/eter_2014/resource/FR0252.......... 1.................................................. [Ecole Nationale Superieure de Techniques Avancees] was compared to [École nationale supérieure de techniques avancées] 
+	http://risis.eu/orgref_20170703/resource/18423546.. http://risis.eu/eter_2014/resource/FR0252.......... 0.836363636364..................................... [École nationale supérieure de techniques avancées Bretagne] was compared to [École nationale supérieure de techniques avancées] 
+	http://risis.eu/eter_2014/resource/FR0252.......... http://risis.eu/orgref_20170703/resource/18423546.. 0.836363636364..................................... [École nationale supérieure de techniques avancées Bretagne] was compared to [École nationale supérieure de techniques avancées] 
+	http://risis.eu/orgref_20170703/resource/18423546.. http://risis.eu/eter_2014/resource/FR0025.......... 1.................................................. [École nationale supérieure de techniques avancées Bretagne] was compared to [École nationale supérieure de techniques avancées Bretagne] 
+	http://risis.eu/eter_2014/resource/FR0025.......... http://risis.eu/orgref_20170703/resource/18423546.. 1.................................................. [École nationale supérieure de techniques avancées Bretagne] was compared to [École nationale supérieure de techniques avancées Bretagne] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 19 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/18423546.. http://en.wikipedia.org/wiki?curid=18423546........ 
+	http://risis.eu/orgref_20170703/resource/18423546.. http://www.wikidata.org/wiki/Q3578240.............. 
+	http://risis.eu/orgref_20170703/resource/18423546.. http://www.ensta-bretagne.fr....................... 
+	http://risis.eu/orgref_20170703/resource/18423546.. École nationale supérieure de techniques avancées Bretagne 
+	http://risis.eu/eter_2014/resource/FR0252.......... 46,583968.......................................... 
+	http://risis.eu/eter_2014/resource/FR0252.......... -0,671034.......................................... 
+	http://risis.eu/eter_2014/resource/FR0252.......... http://www.ensta-paristech.fr/..................... 
+	http://risis.eu/eter_2014/resource/FR0252.......... a.................................................. 
+	http://risis.eu/eter_2014/resource/FR0252.......... École nationale supérieure de techniques avancées 
+	http://www.grid.ac/institutes/grid.434223.0........ 2.219269........................................... 
+	http://www.grid.ac/institutes/grid.434223.0........ 48.710705.......................................... 
+	http://www.grid.ac/institutes/grid.434223.0........ https://www.ensta-paristech.fr/en/home............. 
+	http://www.grid.ac/institutes/grid.434223.0........ ENSTA ParisTech.................................... 
+	http://www.grid.ac/institutes/grid.434223.0........ Ecole Nationale Superieure de Techniques Avancees.. 
+	http://risis.eu/eter_2014/resource/FR0025.......... 48,418859.......................................... 
+	http://risis.eu/eter_2014/resource/FR0025.......... -4,472028.......................................... 
+	http://risis.eu/eter_2014/resource/FR0025.......... http://www.ensta-bretagne.fr/...................... 
+	http://risis.eu/eter_2014/resource/FR0025.......... m.................................................. 
+	http://risis.eu/eter_2014/resource/FR0025.......... École nationale supérieure de techniques avancées Bretagne 
+
+NETWORK ANALYSIS
+	NETWORK [('2:FR0252', '1:18423546'), ('3:grid.434223.0', '2:FR0252'), ('4:FR0025', '1:18423546')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

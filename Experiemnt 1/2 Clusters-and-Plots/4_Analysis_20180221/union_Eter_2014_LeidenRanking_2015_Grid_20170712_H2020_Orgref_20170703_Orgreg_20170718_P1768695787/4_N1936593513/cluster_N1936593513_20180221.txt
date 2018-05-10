@@ -1,0 +1,55 @@
+SIZE    4   
+CLUSTER 18307 
+NAME    N1936593513
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.440493.e>
+	<http://risis.eu/orgref_20170703/resource/18036990>
+	<http://www.grid.ac/institutes/grid.441733.6>
+	<http://risis.eu/orgref_20170703/resource/30471978>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.440493.e........ http://risis.eu/orgref_20170703/resource/18036990.. 1.................................................. [National University of Santiago del Estero] was compared to [National University of Santiago del Estero] 
+	http://risis.eu/orgref_20170703/resource/18036990.. http://www.grid.ac/institutes/grid.440493.e........ 1.................................................. [National University of Santiago del Estero] was compared to [National University of Santiago del Estero] 
+	http://www.grid.ac/institutes/grid.441733.6........ http://risis.eu/orgref_20170703/resource/30471978.. 1.................................................. [Catholic University of Santiago del Estero] was compared to [Catholic University of Santiago del Estero] 
+	http://risis.eu/orgref_20170703/resource/30471978.. http://www.grid.ac/institutes/grid.441733.6........ 1.................................................. [Catholic University of Santiago del Estero] was compared to [Catholic University of Santiago del Estero] 
+	http://risis.eu/orgref_20170703/resource/18036990.. http://risis.eu/orgref_20170703/resource/30471978.. 0.871794871795..................................... [National University of Santiago del Estero] was compared to [Catholic University of Santiago del Estero] 
+	http://risis.eu/orgref_20170703/resource/30471978.. http://risis.eu/orgref_20170703/resource/18036990.. 0.871794871795..................................... [National University of Santiago del Estero] was compared to [Catholic University of Santiago del Estero] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.440493.e........ National University of Santiago del Estero......... 
+	http://risis.eu/orgref_20170703/resource/18036990.. http://en.wikipedia.org/wiki?curid=18036990........ 
+	http://risis.eu/orgref_20170703/resource/18036990.. http://www.wikidata.org/wiki/Q9091578.............. 
+	http://risis.eu/orgref_20170703/resource/18036990.. http://www.unse.edu.ar............................. 
+	http://risis.eu/orgref_20170703/resource/18036990.. National University of Santiago del Estero......... 
+	http://www.grid.ac/institutes/grid.441733.6........ Catholic University of Santiago del Estero......... 
+	http://risis.eu/orgref_20170703/resource/30471978.. http://en.wikipedia.org/wiki?curid=30471978........ 
+	http://risis.eu/orgref_20170703/resource/30471978.. http://www.wikidata.org/wiki/Q5053267.............. 
+	http://risis.eu/orgref_20170703/resource/30471978.. http://www.ucse.edu.ar/web/presentacion_info.htm... 
+	http://risis.eu/orgref_20170703/resource/30471978.. Catholic University of Santiago del Estero......... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:18036990', '1:grid.440493.e'), ('4:30471978', '2:18036990'), ('4:30471978', '3:grid.441733.6')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

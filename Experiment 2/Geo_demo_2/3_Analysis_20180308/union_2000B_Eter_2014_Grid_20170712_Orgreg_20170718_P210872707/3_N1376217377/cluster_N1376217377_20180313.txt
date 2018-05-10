@@ -1,0 +1,58 @@
+SIZE    3   
+CLUSTER 380 
+NAME    N1376217377
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/PL0052>
+	<http://www.grid.ac/institutes/grid.466997.3>
+	<http://risis.eu/eter_2014/resource/PL0106>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/PL0052.... http://www.grid.ac/institutes/grid.466997.3.. 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://www.grid.ac/institutes/grid.466997.3.. http://risis.eu/eter_2014/resource/PL0052.... 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://www.grid.ac/institutes/grid.466997.3.. http://risis.eu/eter_2014/resource/PL0106.... 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/PL0106.... http://www.grid.ac/institutes/grid.466997.3.. 1............................................ Near each other by at most 2000 meter(s)..... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/PL0052.... 54,167599.................................... 
+	http://risis.eu/eter_2014/resource/PL0052.... 19,423708.................................... 
+	http://risis.eu/eter_2014/resource/PL0052.... http://www.euh-e.edu.pl...................... 
+	http://risis.eu/eter_2014/resource/PL0052.... a............................................ 
+	http://risis.eu/eter_2014/resource/PL0052.... The Elblag University of Humanities and Economy 
+	http://risis.eu/eter_2014/resource/PL0052.... Elbląska Uczelnia Humanistyczno-Ekonomiczna. 
+	http://www.grid.ac/institutes/grid.466997.3.. 19.418728.................................... 
+	http://www.grid.ac/institutes/grid.466997.3.. 54.155563.................................... 
+	http://www.grid.ac/institutes/grid.466997.3.. http://www.pwsz.elblag.pl/university.html.... 
+	http://www.grid.ac/institutes/grid.466997.3.. State University of Applied Sciences in Elbląg 
+	http://risis.eu/eter_2014/resource/PL0106.... 54,167599.................................... 
+	http://risis.eu/eter_2014/resource/PL0106.... 19,423708.................................... 
+	http://risis.eu/eter_2014/resource/PL0106.... http://www.pwsz.elblag.pl/................... 
+	http://risis.eu/eter_2014/resource/PL0106.... a............................................ 
+	http://risis.eu/eter_2014/resource/PL0106.... State Higher Vocational School in Elbląg.... 
+	http://risis.eu/eter_2014/resource/PL0106.... Państwowa Wyższa Szkoła Zawodowa w Elblągu 
+
+NETWORK ANALYSIS
+	NETWORK [('P1298506205-PL0052', 'P453955870-grid.466997.3'), ('N1376217377-PL0106', 'P453955870-grid.466997.3')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

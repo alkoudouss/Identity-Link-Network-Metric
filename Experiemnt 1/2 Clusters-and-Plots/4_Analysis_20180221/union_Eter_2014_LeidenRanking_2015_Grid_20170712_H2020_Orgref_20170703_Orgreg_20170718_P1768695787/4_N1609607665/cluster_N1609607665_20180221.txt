@@ -1,0 +1,60 @@
+SIZE    4   
+CLUSTER 15205 
+NAME    N1609607665
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/35430993>
+	<http://risis.eu/cordisH2020/resource/participant_998250378>
+	<http://risis.eu/orgref_20170703/resource/31315521>
+	<http://www.grid.ac/institutes/grid.436222.3>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/31315521........... http://www.grid.ac/institutes/grid.436222.3................. 1........................................................... [Ministry of Water Resources and Irrigation] was compared to [Ministry of Water Resources and Irrigation (Egypt)] 
+	http://www.grid.ac/institutes/grid.436222.3................. http://risis.eu/orgref_20170703/resource/31315521........... 1........................................................... [Ministry of Water Resources and Irrigation] was compared to [Ministry of Water Resources and Irrigation (Egypt)] 
+	http://risis.eu/orgref_20170703/resource/35430993........... http://www.grid.ac/institutes/grid.436222.3................. 1........................................................... [Ministry of Water Resources and Irrigation] was compared to [Ministry of Irrigation and Water Resources (South Sudan)] 
+	http://www.grid.ac/institutes/grid.436222.3................. http://risis.eu/orgref_20170703/resource/35430993........... 1........................................................... [Ministry of Water Resources and Irrigation] was compared to [Ministry of Irrigation and Water Resources (South Sudan)] 
+	http://risis.eu/cordisH2020/resource/participant_998250378.. http://www.grid.ac/institutes/grid.436222.3................. 1........................................................... [Ministry of Water Resources and Irrigation] was compared to [MINISTRY OF WATER RESOURCES AND IRRIGATION] 
+	http://www.grid.ac/institutes/grid.436222.3................. http://risis.eu/cordisH2020/resource/participant_998250378.. 1........................................................... [Ministry of Water Resources and Irrigation] was compared to [MINISTRY OF WATER RESOURCES AND IRRIGATION] 
+	http://risis.eu/orgref_20170703/resource/35430993........... http://risis.eu/cordisH2020/resource/participant_998250378.. 1........................................................... [Ministry of Irrigation and Water Resources (South Sudan)] was compared to [MINISTRY OF WATER RESOURCES AND IRRIGATION] 
+	http://risis.eu/cordisH2020/resource/participant_998250378.. http://risis.eu/orgref_20170703/resource/35430993........... 1........................................................... [Ministry of Irrigation and Water Resources (South Sudan)] was compared to [MINISTRY OF WATER RESOURCES AND IRRIGATION] 
+	http://risis.eu/cordisH2020/resource/participant_998250378.. http://risis.eu/orgref_20170703/resource/31315521........... 1........................................................... [Ministry of Water Resources and Irrigation (Egypt)] was compared to [MINISTRY OF WATER RESOURCES AND IRRIGATION] 
+	http://risis.eu/orgref_20170703/resource/31315521........... http://risis.eu/cordisH2020/resource/participant_998250378.. 1........................................................... [Ministry of Water Resources and Irrigation (Egypt)] was compared to [MINISTRY OF WATER RESOURCES AND IRRIGATION] 
+	http://risis.eu/orgref_20170703/resource/35430993........... http://risis.eu/orgref_20170703/resource/31315521........... 1........................................................... [Ministry of Water Resources and Irrigation (Egypt)] was compared to [Ministry of Irrigation and Water Resources (South Sudan)] 
+	http://risis.eu/orgref_20170703/resource/31315521........... http://risis.eu/orgref_20170703/resource/35430993........... 1........................................................... [Ministry of Water Resources and Irrigation (Egypt)] was compared to [Ministry of Irrigation and Water Resources (South Sudan)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 9 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/35430993........... http://en.wikipedia.org/wiki?curid=35430993................. 
+	http://risis.eu/orgref_20170703/resource/35430993........... http://www.wikidata.org/wiki/Q17010443...................... 
+	http://risis.eu/orgref_20170703/resource/35430993........... Ministry of Irrigation and Water Resources (South Sudan).... 
+	http://risis.eu/cordisH2020/resource/participant_998250378.. MINISTRY OF WATER RESOURCES AND IRRIGATION.................. 
+	http://risis.eu/orgref_20170703/resource/31315521........... http://en.wikipedia.org/wiki?curid=31315521................. 
+	http://risis.eu/orgref_20170703/resource/31315521........... http://www.wikidata.org/wiki/Q4118582....................... 
+	http://risis.eu/orgref_20170703/resource/31315521........... http://www.mwri.gov.eg...................................... 
+	http://risis.eu/orgref_20170703/resource/31315521........... Ministry of Water Resources and Irrigation (Egypt).......... 
+	http://www.grid.ac/institutes/grid.436222.3................. Ministry of Water Resources and Irrigation.................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:35430993', '3:31315521'), ('1:35430993', '4:grid.436222.3'), ('2:participant_998250378', '1:35430993'), ('2:participant_998250378', '4:grid.436222.3'), ('3:31315521', '2:participant_998250378'), ('4:grid.436222.3', '3:31315521')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,57 @@
+SIZE    3   
+CLUSTER 597 
+NAME    N1975653236
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.415896.7>
+	<http://risis.eu/eter_2014/resource/DE0237>
+	<http://www.grid.ac/institutes/grid.437938.2>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.415896.7.. http://risis.eu/eter_2014/resource/DE0237.... 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/DE0237.... http://www.grid.ac/institutes/grid.415896.7.. 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/DE0237.... http://www.grid.ac/institutes/grid.437938.2.. 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://www.grid.ac/institutes/grid.437938.2.. http://risis.eu/eter_2014/resource/DE0237.... 1............................................ Near each other by at most 2000 meter(s)..... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.415896.7.. 10.244347.................................... 
+	http://www.grid.ac/institutes/grid.415896.7.. 50.051994.................................... 
+	http://www.grid.ac/institutes/grid.415896.7.. http://www.leopoldina-krankenhaus.com/home/.. 
+	http://www.grid.ac/institutes/grid.415896.7.. Leopoldina Krankenhaus Schweinfurt........... 
+	http://risis.eu/eter_2014/resource/DE0237.... 50,044488.................................... 
+	http://risis.eu/eter_2014/resource/DE0237.... 10,22584..................................... 
+	http://risis.eu/eter_2014/resource/DE0237.... www.fhws.de.................................. 
+	http://risis.eu/eter_2014/resource/DE0237.... a............................................ 
+	http://risis.eu/eter_2014/resource/DE0237.... University of Applied Sciences Würzburg-Schweinfurt 
+	http://risis.eu/eter_2014/resource/DE0237.... Hochschule für angewandte Wissenschafte Würzburg-Schweinfurt 
+	http://www.grid.ac/institutes/grid.437938.2.. 10.224883.................................... 
+	http://www.grid.ac/institutes/grid.437938.2.. 50.03919..................................... 
+	http://www.grid.ac/institutes/grid.437938.2.. http://www.skf.com/de/index.html?switch=y.... 
+	http://www.grid.ac/institutes/grid.437938.2.. Svenska Kullagerfabriken AB.................. 
+	http://www.grid.ac/institutes/grid.437938.2.. SKF (Germany)................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('P462561625-DE0237', 'N36896688-grid.415896.7'), ('P462561625-DE0237', 'N1975653236-grid.437938.2')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

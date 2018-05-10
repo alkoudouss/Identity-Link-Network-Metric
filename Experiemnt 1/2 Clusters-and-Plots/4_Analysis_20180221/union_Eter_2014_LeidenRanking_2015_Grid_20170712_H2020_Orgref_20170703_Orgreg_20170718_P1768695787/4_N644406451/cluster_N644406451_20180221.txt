@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 17407 
+NAME    N644406451
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.412816.8>
+	<http://risis.eu/orgref_20170703/resource/13907045>
+	<http://www.grid.ac/institutes/grid.443132.3>
+	<http://risis.eu/orgref_20170703/resource/2038157>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.412816.8........ http://risis.eu/orgref_20170703/resource/13907045.. 1.................................................. [Tsurumi University] was compared to [Tsurumi University] 
+	http://risis.eu/orgref_20170703/resource/13907045.. http://www.grid.ac/institutes/grid.412816.8........ 1.................................................. [Tsurumi University] was compared to [Tsurumi University] 
+	http://www.grid.ac/institutes/grid.443132.3........ http://risis.eu/orgref_20170703/resource/2038157... 1.................................................. [Tsuru University] was compared to [Tsuru University] 
+	http://risis.eu/orgref_20170703/resource/2038157... http://www.grid.ac/institutes/grid.443132.3........ 1.................................................. [Tsuru University] was compared to [Tsuru University] 
+	http://risis.eu/orgref_20170703/resource/13907045.. http://risis.eu/orgref_20170703/resource/2038157... 0.888888888889..................................... [Tsurumi University] was compared to [Tsuru University] 
+	http://risis.eu/orgref_20170703/resource/2038157... http://risis.eu/orgref_20170703/resource/13907045.. 0.888888888889..................................... [Tsurumi University] was compared to [Tsuru University] 
+	http://www.grid.ac/institutes/grid.412816.8........ http://www.grid.ac/institutes/grid.443132.3........ 0.888888888889..................................... [Tsurumi University] was compared to [Tsuru University] 
+	http://www.grid.ac/institutes/grid.443132.3........ http://www.grid.ac/institutes/grid.412816.8........ 0.888888888889..................................... [Tsurumi University] was compared to [Tsuru University] 
+	http://www.grid.ac/institutes/grid.412816.8........ http://risis.eu/orgref_20170703/resource/2038157... 0.888888888889..................................... [Tsurumi University] was compared to [Tsuru University] 
+	http://risis.eu/orgref_20170703/resource/2038157... http://www.grid.ac/institutes/grid.412816.8........ 0.888888888889..................................... [Tsurumi University] was compared to [Tsuru University] 
+	http://risis.eu/orgref_20170703/resource/13907045.. http://www.grid.ac/institutes/grid.443132.3........ 0.888888888889..................................... [Tsuru University] was compared to [Tsurumi University] 
+	http://www.grid.ac/institutes/grid.443132.3........ http://risis.eu/orgref_20170703/resource/13907045.. 0.888888888889..................................... [Tsuru University] was compared to [Tsurumi University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.412816.8........ 139.67389.......................................... 
+	http://www.grid.ac/institutes/grid.412816.8........ 35.505554.......................................... 
+	http://www.grid.ac/institutes/grid.412816.8........ http://www.tsurumi-u.ac.jp/e/index.html............ 
+	http://www.grid.ac/institutes/grid.412816.8........ Tsurumi daigaku.................................... 
+	http://www.grid.ac/institutes/grid.412816.8........ Tsurumi University................................. 
+	http://risis.eu/orgref_20170703/resource/13907045.. http://en.wikipedia.org/wiki?curid=13907045........ 
+	http://risis.eu/orgref_20170703/resource/13907045.. http://www.wikidata.org/wiki/Q7850294.............. 
+	http://risis.eu/orgref_20170703/resource/13907045.. http://www.tsurumi-u.ac.jp/e/index.html............ 
+	http://risis.eu/orgref_20170703/resource/13907045.. Tsurumi University................................. 
+	http://www.grid.ac/institutes/grid.443132.3........ Tsuru University................................... 
+	http://risis.eu/orgref_20170703/resource/2038157... http://en.wikipedia.org/wiki?curid=2038157......... 
+	http://risis.eu/orgref_20170703/resource/2038157... http://www.wikidata.org/wiki/Q205061............... 
+	http://risis.eu/orgref_20170703/resource/2038157... http://www.tsuru.ac.jp............................. 
+	http://risis.eu/orgref_20170703/resource/2038157... Tsuru University................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:13907045', '1:grid.412816.8'), ('2:13907045', '3:grid.443132.3'), ('3:grid.443132.3', '1:grid.412816.8'), ('4:2038157', '1:grid.412816.8'), ('4:2038157', '2:13907045'), ('4:2038157', '3:grid.443132.3')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

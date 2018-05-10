@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 5166 
+NAME    N1972130257
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.418733.a>
+	<http://www.grid.ac/institutes/grid.481850.0>
+	<http://www.grid.ac/institutes/grid.420231.6>
+	<http://www.grid.ac/institutes/grid.450634.0>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.418733.a.. http://www.grid.ac/institutes/grid.420231.6.. 1............................................ [Cochlear (United States)] was compared to [Cochlear (Switzerland)] 
+	http://www.grid.ac/institutes/grid.420231.6.. http://www.grid.ac/institutes/grid.418733.a.. 1............................................ [Cochlear (United States)] was compared to [Cochlear (Switzerland)] 
+	http://www.grid.ac/institutes/grid.418733.a.. http://www.grid.ac/institutes/grid.450634.0.. 1............................................ [Cochlear (United States)] was compared to [Cochlear (Australia)] 
+	http://www.grid.ac/institutes/grid.450634.0.. http://www.grid.ac/institutes/grid.418733.a.. 1............................................ [Cochlear (United States)] was compared to [Cochlear (Australia)] 
+	http://www.grid.ac/institutes/grid.418733.a.. http://www.grid.ac/institutes/grid.481850.0.. 1............................................ [Cochlear (United States)] was compared to [Cochlear (France)] 
+	http://www.grid.ac/institutes/grid.481850.0.. http://www.grid.ac/institutes/grid.418733.a.. 1............................................ [Cochlear (United States)] was compared to [Cochlear (France)] 
+	http://www.grid.ac/institutes/grid.420231.6.. http://www.grid.ac/institutes/grid.450634.0.. 1............................................ [Cochlear (Switzerland)] was compared to [Cochlear (Australia)] 
+	http://www.grid.ac/institutes/grid.450634.0.. http://www.grid.ac/institutes/grid.420231.6.. 1............................................ [Cochlear (Switzerland)] was compared to [Cochlear (Australia)] 
+	http://www.grid.ac/institutes/grid.481850.0.. http://www.grid.ac/institutes/grid.420231.6.. 1............................................ [Cochlear (Switzerland)] was compared to [Cochlear (France)] 
+	http://www.grid.ac/institutes/grid.420231.6.. http://www.grid.ac/institutes/grid.481850.0.. 1............................................ [Cochlear (Switzerland)] was compared to [Cochlear (France)] 
+	http://www.grid.ac/institutes/grid.481850.0.. http://www.grid.ac/institutes/grid.450634.0.. 1............................................ [Cochlear (Australia)] was compared to [Cochlear (France)] 
+	http://www.grid.ac/institutes/grid.450634.0.. http://www.grid.ac/institutes/grid.481850.0.. 1............................................ [Cochlear (Australia)] was compared to [Cochlear (France)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.418733.a.. -104.85619................................... 
+	http://www.grid.ac/institutes/grid.418733.a.. 39.579075.................................... 
+	http://www.grid.ac/institutes/grid.418733.a.. http://www.cochlear.com/wps/wcm/connect/intl/home 
+	http://www.grid.ac/institutes/grid.418733.a.. Cochlear (United States)..................... 
+	http://www.grid.ac/institutes/grid.481850.0.. 2.141227..................................... 
+	http://www.grid.ac/institutes/grid.481850.0.. 48.714554.................................... 
+	http://www.grid.ac/institutes/grid.481850.0.. http://www.cochlear.com/wps/wcm/connect/fr/home 
+	http://www.grid.ac/institutes/grid.481850.0.. Cochlear (France)............................ 
+	http://www.grid.ac/institutes/grid.420231.6.. 7.596843..................................... 
+	http://www.grid.ac/institutes/grid.420231.6.. 47.54523..................................... 
+	http://www.grid.ac/institutes/grid.420231.6.. http://www.cochlear.com/..................... 
+	http://www.grid.ac/institutes/grid.420231.6.. Cochlear (Switzerland)....................... 
+	http://www.grid.ac/institutes/grid.450634.0.. 151.1137..................................... 
+	http://www.grid.ac/institutes/grid.450634.0.. -33.77719.................................... 
+	http://www.grid.ac/institutes/grid.450634.0.. http://www.cochlear.com/wps/wcm/connect/au/home 
+	http://www.grid.ac/institutes/grid.450634.0.. Cochlear (Australia)......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.481850.0', '1:grid.418733.a'), ('2:grid.481850.0', '3:grid.420231.6'), ('2:grid.481850.0', '4:grid.450634.0'), ('3:grid.420231.6', '1:grid.418733.a'), ('4:grid.450634.0', '1:grid.418733.a'), ('4:grid.450634.0', '3:grid.420231.6')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

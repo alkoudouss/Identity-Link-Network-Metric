@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 16426 
+NAME    P254060309
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.471871.c>
+	<http://www.grid.ac/institutes/grid.474836.a>
+	<http://www.grid.ac/institutes/grid.471789.4>
+	<http://www.grid.ac/institutes/grid.440408.c>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.471871.c.. http://www.grid.ac/institutes/grid.474836.a.. 0.833333333333............................... [Tokushima hospital] was compared to [Tamashima Hospital] 
+	http://www.grid.ac/institutes/grid.474836.a.. http://www.grid.ac/institutes/grid.471871.c.. 0.833333333333............................... [Tokushima hospital] was compared to [Tamashima Hospital] 
+	http://www.grid.ac/institutes/grid.471871.c.. http://www.grid.ac/institutes/grid.440408.c.. 0.8.......................................... [Fukushimura Hospital] was compared to [Tokushima hospital] 
+	http://www.grid.ac/institutes/grid.440408.c.. http://www.grid.ac/institutes/grid.471871.c.. 0.8.......................................... [Fukushimura Hospital] was compared to [Tokushima hospital] 
+	http://www.grid.ac/institutes/grid.474836.a.. http://www.grid.ac/institutes/grid.471789.4.. 0.888888888889............................... [Nagashima Hospital] was compared to [Tamashima Hospital] 
+	http://www.grid.ac/institutes/grid.471789.4.. http://www.grid.ac/institutes/grid.474836.a.. 0.888888888889............................... [Nagashima Hospital] was compared to [Tamashima Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.471871.c.. 134.33853.................................... 
+	http://www.grid.ac/institutes/grid.471871.c.. 34.056217.................................... 
+	http://www.grid.ac/institutes/grid.471871.c.. http://www.hosp.go.jp/~tokusimahosp-nho/index.html 
+	http://www.grid.ac/institutes/grid.471871.c.. National Hospital Organization Tokushima hospital 
+	http://www.grid.ac/institutes/grid.471871.c.. Tokushima hospital........................... 
+	http://www.grid.ac/institutes/grid.474836.a.. 133.68044.................................... 
+	http://www.grid.ac/institutes/grid.474836.a.. 34.5416...................................... 
+	http://www.grid.ac/institutes/grid.474836.a.. http://www.tamashimahosp.or.jp/.............. 
+	http://www.grid.ac/institutes/grid.474836.a.. Tamashima Hospital........................... 
+	http://www.grid.ac/institutes/grid.471789.4.. 134.03801.................................... 
+	http://www.grid.ac/institutes/grid.471789.4.. 34.73333..................................... 
+	http://www.grid.ac/institutes/grid.471789.4.. http://www.nagashimahp.or.jp/................ 
+	http://www.grid.ac/institutes/grid.471789.4.. Nagashima Hospital........................... 
+	http://www.grid.ac/institutes/grid.440408.c.. 137.40173.................................... 
+	http://www.grid.ac/institutes/grid.440408.c.. 34.700294.................................... 
+	http://www.grid.ac/institutes/grid.440408.c.. http://www.fukushimura.net/hp/index.html..... 
+	http://www.grid.ac/institutes/grid.440408.c.. Fukushimura Hospital......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.474836.a', '1:grid.471871.c'), ('3:grid.471789.4', '2:grid.474836.a'), ('4:grid.440408.c', '1:grid.471871.c')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

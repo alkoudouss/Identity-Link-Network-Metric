@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 5232 
+NAME    N556431703
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.415820.a>
+	<http://www.grid.ac/institutes/grid.466907.a>
+	<http://risis.eu/orgref_20170703/resource/32573072>
+	<http://risis.eu/orgref_20170703/resource/40314029>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.415820.a........ http://www.grid.ac/institutes/grid.466907.a........ 1.................................................. [Ministry of Health and Family Welfare] was compared to [Ministry of Health and Family Welfare] 
+	http://www.grid.ac/institutes/grid.466907.a........ http://www.grid.ac/institutes/grid.415820.a........ 1.................................................. [Ministry of Health and Family Welfare] was compared to [Ministry of Health and Family Welfare] 
+	http://www.grid.ac/institutes/grid.415820.a........ http://risis.eu/orgref_20170703/resource/32573072.. 0.9375............................................. [Ministry of Health and Family Welfare] was compared to [Ministry of Health & Family Welfare (West Bengal)] 
+	http://risis.eu/orgref_20170703/resource/32573072.. http://www.grid.ac/institutes/grid.415820.a........ 0.9375............................................. [Ministry of Health and Family Welfare] was compared to [Ministry of Health & Family Welfare (West Bengal)] 
+	http://www.grid.ac/institutes/grid.415820.a........ http://risis.eu/orgref_20170703/resource/40314029.. 1.................................................. [Ministry of Health and Family Welfare] was compared to [Ministry of Health and Family Welfare (Bangladesh)] 
+	http://risis.eu/orgref_20170703/resource/40314029.. http://www.grid.ac/institutes/grid.415820.a........ 1.................................................. [Ministry of Health and Family Welfare] was compared to [Ministry of Health and Family Welfare (Bangladesh)] 
+	http://www.grid.ac/institutes/grid.466907.a........ http://risis.eu/orgref_20170703/resource/32573072.. 0.9375............................................. [Ministry of Health and Family Welfare] was compared to [Ministry of Health & Family Welfare (West Bengal)] 
+	http://risis.eu/orgref_20170703/resource/32573072.. http://www.grid.ac/institutes/grid.466907.a........ 0.9375............................................. [Ministry of Health and Family Welfare] was compared to [Ministry of Health & Family Welfare (West Bengal)] 
+	http://www.grid.ac/institutes/grid.466907.a........ http://risis.eu/orgref_20170703/resource/40314029.. 1.................................................. [Ministry of Health and Family Welfare] was compared to [Ministry of Health and Family Welfare (Bangladesh)] 
+	http://risis.eu/orgref_20170703/resource/40314029.. http://www.grid.ac/institutes/grid.466907.a........ 1.................................................. [Ministry of Health and Family Welfare] was compared to [Ministry of Health and Family Welfare (Bangladesh)] 
+	http://risis.eu/orgref_20170703/resource/32573072.. http://risis.eu/orgref_20170703/resource/40314029.. 0.9375............................................. [Ministry of Health & Family Welfare (West Bengal)] was compared to [Ministry of Health and Family Welfare (Bangladesh)] 
+	http://risis.eu/orgref_20170703/resource/40314029.. http://risis.eu/orgref_20170703/resource/32573072.. 0.9375............................................. [Ministry of Health & Family Welfare (West Bengal)] was compared to [Ministry of Health and Family Welfare (Bangladesh)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.415820.a........ 77.21405........................................... 
+	http://www.grid.ac/institutes/grid.415820.a........ 28.612827.......................................... 
+	http://www.grid.ac/institutes/grid.415820.a........ http://www.mohfw.nic.in/........................... 
+	http://www.grid.ac/institutes/grid.415820.a........ Ministry of Health and Family Welfare.............. 
+	http://www.grid.ac/institutes/grid.466907.a........ 90.41176........................................... 
+	http://www.grid.ac/institutes/grid.466907.a........ 23.820152.......................................... 
+	http://www.grid.ac/institutes/grid.466907.a........ http://www.mohfw.gov.bd/........................... 
+	http://www.grid.ac/institutes/grid.466907.a........ Sbāsthya ō paribār kalyāṇ Montronaloya....... 
+	http://www.grid.ac/institutes/grid.466907.a........ Ministry of Health and Family Welfare.............. 
+	http://risis.eu/orgref_20170703/resource/32573072.. http://en.wikipedia.org/wiki?curid=32573072........ 
+	http://risis.eu/orgref_20170703/resource/32573072.. http://www.wikidata.org/wiki/Q6867087.............. 
+	http://risis.eu/orgref_20170703/resource/32573072.. http://wbhealth.gov.in............................. 
+	http://risis.eu/orgref_20170703/resource/32573072.. Ministry of Health & Family Welfare (West Bengal).. 
+	http://risis.eu/orgref_20170703/resource/40314029.. http://en.wikipedia.org/wiki?curid=40314029........ 
+	http://risis.eu/orgref_20170703/resource/40314029.. http://www.wikidata.org/wiki/Q16952233............. 
+	http://risis.eu/orgref_20170703/resource/40314029.. http://www.mohfw.gov.bd............................ 
+	http://risis.eu/orgref_20170703/resource/40314029.. Ministry of Health and Family Welfare (Bangladesh). 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.466907.a', '1:grid.415820.a'), ('3:32573072', '1:grid.415820.a'), ('3:32573072', '2:grid.466907.a'), ('4:40314029', '1:grid.415820.a'), ('4:40314029', '2:grid.466907.a'), ('4:40314029', '3:32573072')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

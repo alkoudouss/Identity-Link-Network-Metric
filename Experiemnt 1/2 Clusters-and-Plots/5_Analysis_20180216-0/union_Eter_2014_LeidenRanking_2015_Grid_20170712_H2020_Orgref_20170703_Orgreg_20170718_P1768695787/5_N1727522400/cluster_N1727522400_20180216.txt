@@ -1,0 +1,74 @@
+SIZE    5   
+CLUSTER 4193 
+NAME    N1727522400
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.433343.0>
+	<http://risis.eu/orgreg_20170718/resource/AT1019>
+	<http://www.grid.ac/institutes/grid.426445.5>
+	<http://www.grid.ac/institutes/grid.15683.39>
+	<http://www.grid.ac/institutes/grid.281569.1>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.433343.0...... http://www.grid.ac/institutes/grid.15683.39...... 0.916666666667................................... [Centre for Social Innovation] was compared to [Center For Social Innovation] 
+	http://www.grid.ac/institutes/grid.15683.39...... http://www.grid.ac/institutes/grid.433343.0...... 0.916666666667................................... [Centre for Social Innovation] was compared to [Center For Social Innovation] 
+	http://www.grid.ac/institutes/grid.426445.5...... http://www.grid.ac/institutes/grid.15683.39...... 1................................................ [Centre for Social Innovation] was compared to [Centre for Social Innovation] 
+	http://www.grid.ac/institutes/grid.15683.39...... http://www.grid.ac/institutes/grid.426445.5...... 1................................................ [Centre for Social Innovation] was compared to [Centre for Social Innovation] 
+	http://www.grid.ac/institutes/grid.433343.0...... http://www.grid.ac/institutes/grid.281569.1...... 0.814814814815................................... [Social Sciences Innovations] was compared to [Center For Social Innovation] 
+	http://www.grid.ac/institutes/grid.281569.1...... http://www.grid.ac/institutes/grid.433343.0...... 0.814814814815................................... [Social Sciences Innovations] was compared to [Center For Social Innovation] 
+	http://www.grid.ac/institutes/grid.433343.0...... http://www.grid.ac/institutes/grid.426445.5...... 0.916666666667................................... [Centre for Social Innovation] was compared to [Center For Social Innovation] 
+	http://www.grid.ac/institutes/grid.426445.5...... http://www.grid.ac/institutes/grid.433343.0...... 0.916666666667................................... [Centre for Social Innovation] was compared to [Center For Social Innovation] 
+	http://risis.eu/orgreg_20170718/resource/AT1019.. http://www.grid.ac/institutes/grid.15683.39...... 1................................................ [Centre for Social Innovation] was compared to [Centre for Social Innovation] 
+	http://www.grid.ac/institutes/grid.15683.39...... http://risis.eu/orgreg_20170718/resource/AT1019.. 1................................................ [Centre for Social Innovation] was compared to [Centre for Social Innovation] 
+	http://risis.eu/orgreg_20170718/resource/AT1019.. http://www.grid.ac/institutes/grid.426445.5...... 1................................................ [Centre for Social Innovation] was compared to [Centre for Social Innovation] 
+	http://www.grid.ac/institutes/grid.426445.5...... http://risis.eu/orgreg_20170718/resource/AT1019.. 1................................................ [Centre for Social Innovation] was compared to [Centre for Social Innovation] 
+	http://www.grid.ac/institutes/grid.433343.0...... http://risis.eu/orgreg_20170718/resource/AT1019.. 0.916666666667................................... [Center For Social Innovation] was compared to [Centre for Social Innovation] 
+	http://risis.eu/orgreg_20170718/resource/AT1019.. http://www.grid.ac/institutes/grid.433343.0...... 0.916666666667................................... [Center For Social Innovation] was compared to [Centre for Social Innovation] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 20 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.433343.0...... -71.2262......................................... 
+	http://www.grid.ac/institutes/grid.433343.0...... 42.310925........................................ 
+	http://www.grid.ac/institutes/grid.433343.0...... http://center4si.com/............................ 
+	http://www.grid.ac/institutes/grid.433343.0...... C4............................................... 
+	http://www.grid.ac/institutes/grid.433343.0...... Center For Social Innovation..................... 
+	http://risis.eu/orgreg_20170718/resource/AT1019.. will be computed at later stage.................. 
+	http://risis.eu/orgreg_20170718/resource/AT1019.. http://www.zsi.at/............................... 
+	http://risis.eu/orgreg_20170718/resource/AT1019.. Centre for Social Innovation..................... 
+	http://www.grid.ac/institutes/grid.426445.5...... 30.744408........................................ 
+	http://www.grid.ac/institutes/grid.426445.5...... 50.063717........................................ 
+	http://www.grid.ac/institutes/grid.426445.5...... http://www.cntei.kiev.ua/........................ 
+	http://www.grid.ac/institutes/grid.426445.5...... Centre for Social Innovation..................... 
+	http://www.grid.ac/institutes/grid.15683.39...... 16.331175........................................ 
+	http://www.grid.ac/institutes/grid.15683.39...... 48.18436......................................... 
+	http://www.grid.ac/institutes/grid.15683.39...... https://www.zsi.at/en/home....................... 
+	http://www.grid.ac/institutes/grid.15683.39...... Centre for Social Innovation..................... 
+	http://www.grid.ac/institutes/grid.281569.1...... -73.99235........................................ 
+	http://www.grid.ac/institutes/grid.281569.1...... 40.742767........................................ 
+	http://www.grid.ac/institutes/grid.281569.1...... http://www.ssicproducts.com/..................... 
+	http://www.grid.ac/institutes/grid.281569.1...... Social Sciences Innovations...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.433343.0', '3:grid.426445.5'), ('1:grid.433343.0', '4:grid.15683.39'), ('2:AT1019', '1:grid.433343.0'), ('2:AT1019', '4:grid.15683.39'), ('3:grid.426445.5', '2:AT1019'), ('4:grid.15683.39', '3:grid.426445.5'), ('5:grid.281569.1', '1:grid.433343.0')]
+	MAX DISTANCE:                   : 0.7
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 2.2
+	AVERAGE NODE CONNECTIVITY RATIO : 0.55
+	BRIDGES                         : 1
+	CLOSURE                         : 0.7
+	DIAMETER                        : 2
+	QUALITY                         : 0.294
+	QUALITY USED                    : 0.357
+	SUMMARY 1: BRIDGE 0.25 CLOSURE 0.3 DIAMETER 0.333 QUALITY 0.294 QUALITY USED 0.357
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.3 DIAMETER 0.385 QUALITY 0.294 QUALITY USED 0.357

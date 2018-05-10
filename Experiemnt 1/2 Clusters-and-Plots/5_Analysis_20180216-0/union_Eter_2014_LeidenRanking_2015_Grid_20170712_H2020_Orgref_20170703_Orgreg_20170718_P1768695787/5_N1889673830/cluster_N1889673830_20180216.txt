@@ -1,0 +1,69 @@
+SIZE    5   
+CLUSTER 18307 
+NAME    N1889673830
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.478131.8>
+	<http://www.grid.ac/institutes/grid.478138.1>
+	<http://risis.eu/orgref_20170703/resource/36956163>
+	<http://www.grid.ac/institutes/grid.470137.6>
+	<http://www.grid.ac/institutes/grid.460754.4>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.478131.8........ http://www.grid.ac/institutes/grid.478138.1........ 0.958333333333..................................... [Xingtai People's Hospital] was compared to [Xintai People's Hospital] 
+	http://www.grid.ac/institutes/grid.478138.1........ http://www.grid.ac/institutes/grid.478131.8........ 0.958333333333..................................... [Xingtai People's Hospital] was compared to [Xintai People's Hospital] 
+	http://risis.eu/orgref_20170703/resource/36956163.. http://www.grid.ac/institutes/grid.460754.4........ 1.................................................. [Xinhui People's Hospital] was compared to [Xinhui People's Hospital] 
+	http://www.grid.ac/institutes/grid.460754.4........ http://risis.eu/orgref_20170703/resource/36956163.. 1.................................................. [Xinhui People's Hospital] was compared to [Xinhui People's Hospital] 
+	http://www.grid.ac/institutes/grid.478138.1........ http://www.grid.ac/institutes/grid.470137.6........ 0.913043478261..................................... [Jintan People's Hospital] was compared to [Xintai People's Hospital] 
+	http://www.grid.ac/institutes/grid.470137.6........ http://www.grid.ac/institutes/grid.478138.1........ 0.913043478261..................................... [Jintan People's Hospital] was compared to [Xintai People's Hospital] 
+	http://www.grid.ac/institutes/grid.478138.1........ http://www.grid.ac/institutes/grid.460754.4........ 0.913043478261..................................... [Xinhui People's Hospital] was compared to [Xintai People's Hospital] 
+	http://www.grid.ac/institutes/grid.460754.4........ http://www.grid.ac/institutes/grid.478138.1........ 0.913043478261..................................... [Xinhui People's Hospital] was compared to [Xintai People's Hospital] 
+	http://www.grid.ac/institutes/grid.478138.1........ http://risis.eu/orgref_20170703/resource/36956163.. 0.913043478261..................................... [Xintai People's Hospital] was compared to [Xinhui People's Hospital] 
+	http://risis.eu/orgref_20170703/resource/36956163.. http://www.grid.ac/institutes/grid.478138.1........ 0.913043478261..................................... [Xintai People's Hospital] was compared to [Xinhui People's Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 19 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.478131.8........ 114.498695......................................... 
+	http://www.grid.ac/institutes/grid.478131.8........ 37.06966........................................... 
+	http://www.grid.ac/institutes/grid.478131.8........ http://www.xtrmyy.cn/.............................. 
+	http://www.grid.ac/institutes/grid.478131.8........ Xingtai People's Hospital.......................... 
+	http://www.grid.ac/institutes/grid.478138.1........ 117.77165.......................................... 
+	http://www.grid.ac/institutes/grid.478138.1........ 35.91446........................................... 
+	http://www.grid.ac/institutes/grid.478138.1........ http://www.xtsrmyy.com.cn/......................... 
+	http://www.grid.ac/institutes/grid.478138.1........ Xintai People's Hospital........................... 
+	http://risis.eu/orgref_20170703/resource/36956163.. http://en.wikipedia.org/wiki?curid=36956163........ 
+	http://risis.eu/orgref_20170703/resource/36956163.. http://www.wikidata.org/wiki/Q8044598.............. 
+	http://risis.eu/orgref_20170703/resource/36956163.. Xinhui People's Hospital........................... 
+	http://www.grid.ac/institutes/grid.470137.6........ 119.57572.......................................... 
+	http://www.grid.ac/institutes/grid.470137.6........ 31.740376.......................................... 
+	http://www.grid.ac/institutes/grid.470137.6........ http://www.jtrmyy.com/index.php.................... 
+	http://www.grid.ac/institutes/grid.470137.6........ Jintan People's Hospital........................... 
+	http://www.grid.ac/institutes/grid.460754.4........ 113.03009.......................................... 
+	http://www.grid.ac/institutes/grid.460754.4........ 22.537518.......................................... 
+	http://www.grid.ac/institutes/grid.460754.4........ http://www.xhph.com/zh-CN/index.html............... 
+	http://www.grid.ac/institutes/grid.460754.4........ Xinhui People's Hospital........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.478138.1', '1:grid.478131.8'), ('3:36956163', '2:grid.478138.1'), ('3:36956163', '5:grid.460754.4'), ('4:grid.470137.6', '2:grid.478138.1'), ('5:grid.460754.4', '2:grid.478138.1')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 1.3
+	AVERAGE NODE CONNECTIVITY RATIO : 0.325
+	BRIDGES                         : 2
+	CLOSURE                         : 0.5
+	DIAMETER                        : 2
+	QUALITY                         : 0.444
+	QUALITY USED                    : 0.48
+	SUMMARY 1: BRIDGE 0.5 CLOSURE 0.5 DIAMETER 0.333 QUALITY 0.444 QUALITY USED 0.48
+	SUMMARY 2: BRIDGE 0.556 CLOSURE 0.5 DIAMETER 0.385 QUALITY 0.444 QUALITY USED 0.48

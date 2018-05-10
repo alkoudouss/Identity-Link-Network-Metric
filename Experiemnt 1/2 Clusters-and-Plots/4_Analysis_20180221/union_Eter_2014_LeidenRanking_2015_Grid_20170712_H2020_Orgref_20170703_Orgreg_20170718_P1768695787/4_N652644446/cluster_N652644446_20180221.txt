@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 12281 
+NAME    N652644446
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/220549>
+	<http://risis.eu/orgreg_20170718/resource/FI0003>
+	<http://risis.eu/leidenRanking_2015/resource/118>
+	<http://www.grid.ac/institutes/grid.13797.3b>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/220549.. http://www.grid.ac/institutes/grid.13797.3b...... 1................................................ [Åbo Akademi University] was compared to [Åbo Akademi University] 
+	http://www.grid.ac/institutes/grid.13797.3b...... http://risis.eu/orgref_20170703/resource/220549.. 1................................................ [Åbo Akademi University] was compared to [Åbo Akademi University] 
+	http://risis.eu/orgreg_20170718/resource/FI0003.. http://risis.eu/leidenRanking_2015/resource/118.. 0.954545454545................................... [Åbo Akademi University] was compared to [�bo Akademi University] 
+	http://risis.eu/leidenRanking_2015/resource/118.. http://risis.eu/orgreg_20170718/resource/FI0003.. 0.954545454545................................... [Åbo Akademi University] was compared to [�bo Akademi University] 
+	http://risis.eu/orgref_20170703/resource/220549.. http://risis.eu/orgreg_20170718/resource/FI0003.. 1................................................ [Åbo Akademi University] was compared to [Åbo Akademi University] 
+	http://risis.eu/orgreg_20170718/resource/FI0003.. http://risis.eu/orgref_20170703/resource/220549.. 1................................................ [Åbo Akademi University] was compared to [Åbo Akademi University] 
+	http://risis.eu/orgref_20170703/resource/220549.. http://risis.eu/leidenRanking_2015/resource/118.. 0.954545454545................................... [Åbo Akademi University] was compared to [�bo Akademi University] 
+	http://risis.eu/leidenRanking_2015/resource/118.. http://risis.eu/orgref_20170703/resource/220549.. 0.954545454545................................... [Åbo Akademi University] was compared to [�bo Akademi University] 
+	http://risis.eu/leidenRanking_2015/resource/118.. http://www.grid.ac/institutes/grid.13797.3b...... 0.954545454545................................... [Åbo Akademi University] was compared to [�bo Akademi University] 
+	http://www.grid.ac/institutes/grid.13797.3b...... http://risis.eu/leidenRanking_2015/resource/118.. 0.954545454545................................... [Åbo Akademi University] was compared to [�bo Akademi University] 
+	http://risis.eu/orgreg_20170718/resource/FI0003.. http://www.grid.ac/institutes/grid.13797.3b...... 1................................................ [Åbo Akademi University] was compared to [Åbo Akademi University] 
+	http://www.grid.ac/institutes/grid.13797.3b...... http://risis.eu/orgreg_20170718/resource/FI0003.. 1................................................ [Åbo Akademi University] was compared to [Åbo Akademi University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/220549.. http://en.wikipedia.org/wiki?curid=220549........ 
+	http://risis.eu/orgref_20170703/resource/220549.. http://www.wikidata.org/wiki/Q917874............. 
+	http://risis.eu/orgref_20170703/resource/220549.. https://www.abo.fi/?lang=en...................... 
+	http://risis.eu/orgref_20170703/resource/220549.. Åbo Akademi University.......................... 
+	http://risis.eu/orgreg_20170718/resource/FI0003.. 22.283301........................................ 
+	http://risis.eu/orgreg_20170718/resource/FI0003.. 60.453884........................................ 
+	http://risis.eu/orgreg_20170718/resource/FI0003.. http://www.abo.fi/?lang=en....................... 
+	http://risis.eu/orgreg_20170718/resource/FI0003.. Åbo Akademi University.......................... 
+	http://risis.eu/leidenRanking_2015/resource/118.. �bo Akademi University......................... 
+	http://www.grid.ac/institutes/grid.13797.3b...... 22.279917........................................ 
+	http://www.grid.ac/institutes/grid.13797.3b...... 60.451008........................................ 
+	http://www.grid.ac/institutes/grid.13797.3b...... http://www.abo.fi/public/en/..................... 
+	http://www.grid.ac/institutes/grid.13797.3b...... Åbo Akademi..................................... 
+	http://www.grid.ac/institutes/grid.13797.3b...... Åbo Akademi University.......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:220549', '4:grid.13797.3b'), ('2:FI0003', '1:220549'), ('3:118', '1:220549'), ('3:118', '2:FI0003'), ('3:118', '4:grid.13797.3b'), ('4:grid.13797.3b', '2:FI0003')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

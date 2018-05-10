@@ -1,0 +1,63 @@
+SIZE    3   
+CLUSTER 834 
+NAME    N15512383
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/NO0007>
+	<http://www.grid.ac/institutes/grid.23048.3d>
+	<http://risis.eu/eter_2014/resource/NO0007>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/NO0007.. http://www.grid.ac/institutes/grid.23048.3d...... 1................................................ [university agder] was compared to [university agder] 
+	http://risis.eu/orgreg_20170718/resource/NO0007.. http://risis.eu/eter_2014/resource/NO0007........ 1................................................ [university agder] was compared to [university agder] 
+	http://risis.eu/orgreg_20170718/resource/NO0007.. http://risis.eu/eter_2014/resource/NO0007........ 0.714285714286................................... [university agder] was compared to [universitetet i agder] 
+	http://www.grid.ac/institutes/grid.23048.3d...... http://risis.eu/eter_2014/resource/NO0007........ 1................................................ [university agder] was compared to [university agder] 
+	http://www.grid.ac/institutes/grid.23048.3d...... http://risis.eu/eter_2014/resource/NO0007........ 0.714285714286................................... [universitetet i agder] was compared to [university agder] 
+	http://www.grid.ac/institutes/grid.23048.3d...... http://risis.eu/orgreg_20170718/resource/NO0007.. 1................................................ [university agder] was compared to [university agder] 
+	http://risis.eu/eter_2014/resource/NO0007........ http://www.grid.ac/institutes/grid.23048.3d...... 1................................................ [university agder] was compared to [university agder] 
+	http://risis.eu/eter_2014/resource/NO0007........ http://www.grid.ac/institutes/grid.23048.3d...... 0.714285714286................................... [universitetet i agder] was compared to [university agder] 
+	http://risis.eu/eter_2014/resource/NO0007........ http://risis.eu/orgreg_20170718/resource/NO0007.. 1................................................ [university agder] was compared to [university agder] 
+	http://risis.eu/eter_2014/resource/NO0007........ http://risis.eu/orgreg_20170718/resource/NO0007.. 0.714285714286................................... [university agder] was compared to [universitetet i agder] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/NO0007.. 8.0036573........................................ 
+	http://risis.eu/orgreg_20170718/resource/NO0007.. 58.1588608....................................... 
+	http://risis.eu/orgreg_20170718/resource/NO0007.. http://www.uia.no/en............................. 
+	http://risis.eu/orgreg_20170718/resource/NO0007.. University of Agder.............................. 
+	http://www.grid.ac/institutes/grid.23048.3d...... 8.003429......................................... 
+	http://www.grid.ac/institutes/grid.23048.3d...... 58.1639.......................................... 
+	http://www.grid.ac/institutes/grid.23048.3d...... http://www.uia.no/en............................. 
+	http://www.grid.ac/institutes/grid.23048.3d...... Universitetet i Agder............................ 
+	http://www.grid.ac/institutes/grid.23048.3d...... University of Agder.............................. 
+	http://risis.eu/eter_2014/resource/NO0007........ 58,1588608....................................... 
+	http://risis.eu/eter_2014/resource/NO0007........ 8,0036573........................................ 
+	http://risis.eu/eter_2014/resource/NO0007........ http://www.uia.no/en............................. 
+	http://risis.eu/eter_2014/resource/NO0007........ a................................................ 
+	http://risis.eu/eter_2014/resource/NO0007........ University of Agder.............................. 
+	http://risis.eu/eter_2014/resource/NO0007........ Universitetet i Agder............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('P1565745924-NO0007', 'P1826937724-grid.23048.3d'), ('P1565745924-NO0007', 'N15512383-NO0007'), ('N15512383-NO0007', 'P1826937724-grid.23048.3d')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

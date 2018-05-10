@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 3107 
+NAME    N1547067407
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/1120186>
+	<http://risis.eu/leidenRanking_2015/resource/711>
+	<http://www.grid.ac/institutes/grid.14442.37>
+	<http://risis.eu/eter_2014/resource/TR0050>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/1120186.. http://www.grid.ac/institutes/grid.14442.37....... 1................................................. [Hacettepe University] was compared to [Hacettepe University] 
+	http://www.grid.ac/institutes/grid.14442.37....... http://risis.eu/orgref_20170703/resource/1120186.. 1................................................. [Hacettepe University] was compared to [Hacettepe University] 
+	http://risis.eu/leidenRanking_2015/resource/711... http://www.grid.ac/institutes/grid.14442.37....... 1................................................. [Hacettepe University] was compared to [Hacettepe University] 
+	http://www.grid.ac/institutes/grid.14442.37....... http://risis.eu/leidenRanking_2015/resource/711... 1................................................. [Hacettepe University] was compared to [Hacettepe University] 
+	http://risis.eu/orgref_20170703/resource/1120186.. http://risis.eu/leidenRanking_2015/resource/711... 1................................................. [Hacettepe University] was compared to [Hacettepe University] 
+	http://risis.eu/leidenRanking_2015/resource/711... http://risis.eu/orgref_20170703/resource/1120186.. 1................................................. [Hacettepe University] was compared to [Hacettepe University] 
+	http://risis.eu/leidenRanking_2015/resource/711... http://risis.eu/eter_2014/resource/TR0050......... 0.863636363636.................................... [HACETTEPE ÜNIVERSITESI] was compared to [Hacettepe University] 
+	http://risis.eu/eter_2014/resource/TR0050......... http://risis.eu/leidenRanking_2015/resource/711... 0.863636363636.................................... [HACETTEPE ÜNIVERSITESI] was compared to [Hacettepe University] 
+	http://risis.eu/orgref_20170703/resource/1120186.. http://risis.eu/eter_2014/resource/TR0050......... 0.863636363636.................................... [Hacettepe University] was compared to [HACETTEPE ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0050......... http://risis.eu/orgref_20170703/resource/1120186.. 0.863636363636.................................... [Hacettepe University] was compared to [HACETTEPE ÜNIVERSITESI] 
+	http://www.grid.ac/institutes/grid.14442.37....... http://risis.eu/eter_2014/resource/TR0050......... 0.863636363636.................................... [Hacettepe University] was compared to [HACETTEPE ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0050......... http://www.grid.ac/institutes/grid.14442.37....... 0.863636363636.................................... [Hacettepe University] was compared to [HACETTEPE ÜNIVERSITESI] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/1120186.. http://en.wikipedia.org/wiki?curid=1120186........ 
+	http://risis.eu/orgref_20170703/resource/1120186.. http://www.wikidata.org/wiki/Q1567050............. 
+	http://risis.eu/orgref_20170703/resource/1120186.. http://www.hacettepe.edu.tr....................... 
+	http://risis.eu/orgref_20170703/resource/1120186.. Hacettepe University.............................. 
+	http://risis.eu/leidenRanking_2015/resource/711... Hacettepe University.............................. 
+	http://www.grid.ac/institutes/grid.14442.37....... 32.735687......................................... 
+	http://www.grid.ac/institutes/grid.14442.37....... 39.865517......................................... 
+	http://www.grid.ac/institutes/grid.14442.37....... https://www.hacettepe.edu.tr/english/............. 
+	http://www.grid.ac/institutes/grid.14442.37....... Hacettepe Üniversitesi........................... 
+	http://www.grid.ac/institutes/grid.14442.37....... Hacettepe University.............................. 
+	http://risis.eu/eter_2014/resource/TR0050......... 39,871272......................................... 
+	http://risis.eu/eter_2014/resource/TR0050......... 32,752014......................................... 
+	http://risis.eu/eter_2014/resource/TR0050......... http://hacettepe.edu.tr........................... 
+	http://risis.eu/eter_2014/resource/TR0050......... a................................................. 
+	http://risis.eu/eter_2014/resource/TR0050......... Hacettepe University.............................. 
+	http://risis.eu/eter_2014/resource/TR0050......... HACETTEPE ÜNIVERSITESI........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:1120186', '3:grid.14442.37'), ('2:711', '1:1120186'), ('2:711', '3:grid.14442.37'), ('2:711', '4:TR0050'), ('4:TR0050', '1:1120186'), ('4:TR0050', '3:grid.14442.37')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

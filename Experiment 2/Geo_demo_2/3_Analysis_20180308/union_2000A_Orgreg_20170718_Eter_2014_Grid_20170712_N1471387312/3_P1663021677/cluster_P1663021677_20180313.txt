@@ -1,0 +1,63 @@
+SIZE    3   
+CLUSTER 16 
+NAME    P1663021677
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/DE0098>
+	<http://risis.eu/eter_2014/resource/DE0097>
+	<http://www.grid.ac/institutes/grid.9647.c>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                      object                                      Strength                                    Evidence                                    
+	########################################### ########################################### ########################################### ########################################### 
+	http://risis.eu/eter_2014/resource/DE0098.. http://www.grid.ac/institutes/grid.9647.c.. 0.894736842105............................. [universitat leipzig] was compared to [university leipzig] 
+	http://risis.eu/eter_2014/resource/DE0097.. http://www.grid.ac/institutes/grid.9647.c.. 1.......................................... [leipzig university] was compared to [university leipzig] 
+	http://risis.eu/eter_2014/resource/DE0097.. http://www.grid.ac/institutes/grid.9647.c.. 0.894736842105............................. [leipzig university] was compared to [university leipzig] 
+	http://risis.eu/eter_2014/resource/DE0097.. http://www.grid.ac/institutes/grid.9647.c.. 0.894736842105............................. [universitat leipzig] was compared to [university leipzig] 
+	http://risis.eu/eter_2014/resource/DE0097.. http://www.grid.ac/institutes/grid.9647.c.. 1.......................................... [universitat leipzig] was compared to [university leipzig] 
+	http://www.grid.ac/institutes/grid.9647.c.. http://risis.eu/eter_2014/resource/DE0097.. 1.......................................... [leipzig university] was compared to [university leipzig] 
+	http://www.grid.ac/institutes/grid.9647.c.. http://risis.eu/eter_2014/resource/DE0097.. 0.894736842105............................. [leipzig university] was compared to [university leipzig] 
+	http://www.grid.ac/institutes/grid.9647.c.. http://risis.eu/eter_2014/resource/DE0097.. 0.894736842105............................. [universitat leipzig] was compared to [university leipzig] 
+	http://www.grid.ac/institutes/grid.9647.c.. http://risis.eu/eter_2014/resource/DE0097.. 1.......................................... [universitat leipzig] was compared to [university leipzig] 
+	http://www.grid.ac/institutes/grid.9647.c.. http://risis.eu/eter_2014/resource/DE0098.. 0.894736842105............................. [universitat leipzig] was compared to [university leipzig] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                     object                                      
+	########################################### ########################################### 
+	http://risis.eu/eter_2014/resource/DE0098.. 51,330273.................................. 
+	http://risis.eu/eter_2014/resource/DE0098.. 12,389182.................................. 
+	http://risis.eu/eter_2014/resource/DE0098.. www.uniklinikum-leipzig.de................. 
+	http://risis.eu/eter_2014/resource/DE0098.. a.......................................... 
+	http://risis.eu/eter_2014/resource/DE0098.. Universität Leipzig (Med. Fakultät)...... 
+	http://risis.eu/eter_2014/resource/DE0097.. 51,33835................................... 
+	http://risis.eu/eter_2014/resource/DE0097.. 12,363448.................................. 
+	http://risis.eu/eter_2014/resource/DE0097.. www.uni-leipzig.de......................... 
+	http://risis.eu/eter_2014/resource/DE0097.. a.......................................... 
+	http://risis.eu/eter_2014/resource/DE0097.. Leipzig University......................... 
+	http://risis.eu/eter_2014/resource/DE0097.. Universität Leipzig....................... 
+	http://www.grid.ac/institutes/grid.9647.c.. 12.379..................................... 
+	http://www.grid.ac/institutes/grid.9647.c.. 51.339..................................... 
+	http://www.grid.ac/institutes/grid.9647.c.. https://www.zv.uni-leipzig.de/en/.......... 
+	http://www.grid.ac/institutes/grid.9647.c.. University of Leipzig...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('P2036726672-DE0098', 'P1663021677-grid.9647.c'), ('P2037726685-DE0097', 'P1663021677-grid.9647.c')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

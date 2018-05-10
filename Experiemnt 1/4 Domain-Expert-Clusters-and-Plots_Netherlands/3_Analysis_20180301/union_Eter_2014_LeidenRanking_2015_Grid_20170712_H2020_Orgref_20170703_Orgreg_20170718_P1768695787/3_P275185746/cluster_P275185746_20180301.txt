@@ -1,0 +1,57 @@
+SIZE    3   
+CLUSTER 10123 
+NAME    P275185746
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/NL2007>
+	<http://www.grid.ac/institutes/grid.4494.d>
+	<http://risis.eu/orgref_20170703/resource/10637920>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgreg_20170718/resource/NL2007.... http://www.grid.ac/institutes/grid.4494.d.......... 1.................................................. [University Medical Center Groningen] was compared to [University Medical Center Groningen] 
+	http://risis.eu/orgreg_20170718/resource/NL2007.... http://risis.eu/orgref_20170703/resource/10637920.. 1.................................................. [University Medical Center Groningen] was compared to [University Medical Center Groningen] 
+	http://www.grid.ac/institutes/grid.4494.d.......... http://risis.eu/orgref_20170703/resource/10637920.. 1.................................................. [University Medical Center Groningen] was compared to [University Medical Center Groningen] 
+	http://www.grid.ac/institutes/grid.4494.d.......... http://risis.eu/orgreg_20170718/resource/NL2007.... 1.................................................. [University Medical Center Groningen] was compared to [University Medical Center Groningen] 
+	http://risis.eu/orgref_20170703/resource/10637920.. http://risis.eu/orgreg_20170718/resource/NL2007.... 1.................................................. [University Medical Center Groningen] was compared to [University Medical Center Groningen] 
+	http://risis.eu/orgref_20170703/resource/10637920.. http://www.grid.ac/institutes/grid.4494.d.......... 1.................................................. [University Medical Center Groningen] was compared to [University Medical Center Groningen] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgreg_20170718/resource/NL2007.... 6.................................................. 
+	http://risis.eu/orgreg_20170718/resource/NL2007.... 53................................................. 
+	http://risis.eu/orgreg_20170718/resource/NL2007.... https://www.umcg.nl/............................... 
+	http://risis.eu/orgreg_20170718/resource/NL2007.... University Medical Center Groningen................ 
+	http://www.grid.ac/institutes/grid.4494.d.......... 6.574039........................................... 
+	http://www.grid.ac/institutes/grid.4494.d.......... 53.222794.......................................... 
+	http://www.grid.ac/institutes/grid.4494.d.......... http://www.umcg.nl/EN.............................. 
+	http://www.grid.ac/institutes/grid.4494.d.......... Groningen University Hospital...................... 
+	http://www.grid.ac/institutes/grid.4494.d.......... University Medical Center Groningen................ 
+	http://risis.eu/orgref_20170703/resource/10637920.. http://en.wikipedia.org/wiki?curid=10637920........ 
+	http://risis.eu/orgref_20170703/resource/10637920.. http://www.wikidata.org/wiki/Q2057113.............. 
+	http://risis.eu/orgref_20170703/resource/10637920.. http://www.umcg.nl/en/corporate/pages/default.aspx. 
+	http://risis.eu/orgref_20170703/resource/10637920.. University Medical Center Groningen................ 
+
+NETWORK ANALYSIS
+	NETWORK [('P418715932-10637920', 'P275185746-NL2007'), ('P275185746-NL2007', 'P1966337483-grid.4494.d'), ('P418715932-10637920', 'P1966337483-grid.4494.d')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

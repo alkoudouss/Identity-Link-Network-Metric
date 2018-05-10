@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 9733 
+NAME    N1752342928
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.476603.0>
+	<http://www.grid.ac/institutes/grid.480348.3>
+	<http://www.grid.ac/institutes/grid.480345.e>
+	<http://www.grid.ac/institutes/grid.476613.1>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.476603.0.. http://www.grid.ac/institutes/grid.480345.e.. 1............................................ [Reckitt Benckiser (United Kingdom)] was compared to [Reckitt Benckiser (United States)] 
+	http://www.grid.ac/institutes/grid.480345.e.. http://www.grid.ac/institutes/grid.476603.0.. 1............................................ [Reckitt Benckiser (United Kingdom)] was compared to [Reckitt Benckiser (United States)] 
+	http://www.grid.ac/institutes/grid.476603.0.. http://www.grid.ac/institutes/grid.480348.3.. 1............................................ [Reckitt Benckiser (United Kingdom)] was compared to [Reckitt Benckiser (Netherlands)] 
+	http://www.grid.ac/institutes/grid.480348.3.. http://www.grid.ac/institutes/grid.476603.0.. 1............................................ [Reckitt Benckiser (United Kingdom)] was compared to [Reckitt Benckiser (Netherlands)] 
+	http://www.grid.ac/institutes/grid.476603.0.. http://www.grid.ac/institutes/grid.476613.1.. 1............................................ [Reckitt Benckiser (United Kingdom)] was compared to [Reckitt Benckiser (Germany)] 
+	http://www.grid.ac/institutes/grid.476613.1.. http://www.grid.ac/institutes/grid.476603.0.. 1............................................ [Reckitt Benckiser (United Kingdom)] was compared to [Reckitt Benckiser (Germany)] 
+	http://www.grid.ac/institutes/grid.480345.e.. http://www.grid.ac/institutes/grid.476613.1.. 1............................................ [Reckitt Benckiser (Germany)] was compared to [Reckitt Benckiser (United States)] 
+	http://www.grid.ac/institutes/grid.476613.1.. http://www.grid.ac/institutes/grid.480345.e.. 1............................................ [Reckitt Benckiser (Germany)] was compared to [Reckitt Benckiser (United States)] 
+	http://www.grid.ac/institutes/grid.480348.3.. http://www.grid.ac/institutes/grid.476613.1.. 1............................................ [Reckitt Benckiser (Germany)] was compared to [Reckitt Benckiser (Netherlands)] 
+	http://www.grid.ac/institutes/grid.476613.1.. http://www.grid.ac/institutes/grid.480348.3.. 1............................................ [Reckitt Benckiser (Germany)] was compared to [Reckitt Benckiser (Netherlands)] 
+	http://www.grid.ac/institutes/grid.480348.3.. http://www.grid.ac/institutes/grid.480345.e.. 1............................................ [Reckitt Benckiser (United States)] was compared to [Reckitt Benckiser (Netherlands)] 
+	http://www.grid.ac/institutes/grid.480345.e.. http://www.grid.ac/institutes/grid.480348.3.. 1............................................ [Reckitt Benckiser (United States)] was compared to [Reckitt Benckiser (Netherlands)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.476603.0.. -0.610125.................................... 
+	http://www.grid.ac/institutes/grid.476603.0.. 51.511913.................................... 
+	http://www.grid.ac/institutes/grid.476603.0.. http://www.rb.com/........................... 
+	http://www.grid.ac/institutes/grid.476603.0.. Reckitt Benckiser (United Kingdom)........... 
+	http://www.grid.ac/institutes/grid.480348.3.. 4.711377..................................... 
+	http://www.grid.ac/institutes/grid.480348.3.. 52.29123..................................... 
+	http://www.grid.ac/institutes/grid.480348.3.. https://www.rb.com/.......................... 
+	http://www.grid.ac/institutes/grid.480348.3.. Reckitt Benckiser (Netherlands).............. 
+	http://www.grid.ac/institutes/grid.480345.e.. -74.453094................................... 
+	http://www.grid.ac/institutes/grid.480345.e.. 40.869595.................................... 
+	http://www.grid.ac/institutes/grid.480345.e.. https://www.rb.com/.......................... 
+	http://www.grid.ac/institutes/grid.480345.e.. Reckitt Benckiser (United States)............ 
+	http://www.grid.ac/institutes/grid.476613.1.. 8.671545..................................... 
+	http://www.grid.ac/institutes/grid.476613.1.. 49.40079..................................... 
+	http://www.grid.ac/institutes/grid.476613.1.. http://www.rb.com/........................... 
+	http://www.grid.ac/institutes/grid.476613.1.. Reckitt Benckiser (Germany).................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.480348.3', '1:grid.476603.0'), ('2:grid.480348.3', '4:grid.476613.1'), ('3:grid.480345.e', '1:grid.476603.0'), ('3:grid.480345.e', '2:grid.480348.3'), ('3:grid.480345.e', '4:grid.476613.1'), ('4:grid.476613.1', '1:grid.476603.0')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

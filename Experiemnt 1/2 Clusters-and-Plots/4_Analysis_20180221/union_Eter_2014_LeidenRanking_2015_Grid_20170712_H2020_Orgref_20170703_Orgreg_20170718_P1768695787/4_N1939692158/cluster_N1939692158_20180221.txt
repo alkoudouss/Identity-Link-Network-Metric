@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 14089 
+NAME    N1939692158
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/2820785>
+	<http://risis.eu/orgreg_20170718/resource/ES0025>
+	<http://risis.eu/leidenRanking_2015/resource/1003>
+	<http://www.grid.ac/institutes/grid.9612.c>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/2820785.. http://www.grid.ac/institutes/grid.9612.c......... 1................................................. [Jaume I University] was compared to [Jaume I University] 
+	http://www.grid.ac/institutes/grid.9612.c......... http://risis.eu/orgref_20170703/resource/2820785.. 1................................................. [Jaume I University] was compared to [Jaume I University] 
+	http://risis.eu/leidenRanking_2015/resource/1003.. http://www.grid.ac/institutes/grid.9612.c......... 1................................................. [Jaume I University] was compared to [Jaume I University] 
+	http://www.grid.ac/institutes/grid.9612.c......... http://risis.eu/leidenRanking_2015/resource/1003.. 1................................................. [Jaume I University] was compared to [Jaume I University] 
+	http://risis.eu/orgref_20170703/resource/2820785.. http://risis.eu/leidenRanking_2015/resource/1003.. 1................................................. [Jaume I University] was compared to [Jaume I University] 
+	http://risis.eu/leidenRanking_2015/resource/1003.. http://risis.eu/orgref_20170703/resource/2820785.. 1................................................. [Jaume I University] was compared to [Jaume I University] 
+	http://risis.eu/orgreg_20170718/resource/ES0025... http://risis.eu/leidenRanking_2015/resource/1003.. 1................................................. [Jaume I University] was compared to [Jaume I University] 
+	http://risis.eu/leidenRanking_2015/resource/1003.. http://risis.eu/orgreg_20170718/resource/ES0025... 1................................................. [Jaume I University] was compared to [Jaume I University] 
+	http://risis.eu/orgref_20170703/resource/2820785.. http://risis.eu/orgreg_20170718/resource/ES0025... 1................................................. [Jaume I University] was compared to [Jaume I University] 
+	http://risis.eu/orgreg_20170718/resource/ES0025... http://risis.eu/orgref_20170703/resource/2820785.. 1................................................. [Jaume I University] was compared to [Jaume I University] 
+	http://risis.eu/orgreg_20170718/resource/ES0025... http://www.grid.ac/institutes/grid.9612.c......... 1................................................. [Jaume I University] was compared to [Jaume I University] 
+	http://www.grid.ac/institutes/grid.9612.c......... http://risis.eu/orgreg_20170718/resource/ES0025... 1................................................. [Jaume I University] was compared to [Jaume I University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/2820785.. http://en.wikipedia.org/wiki?curid=2820785........ 
+	http://risis.eu/orgref_20170703/resource/2820785.. http://www.wikidata.org/wiki/Q29718............... 
+	http://risis.eu/orgref_20170703/resource/2820785.. http://ujiapps.uji.es............................. 
+	http://risis.eu/orgref_20170703/resource/2820785.. Jaume I University................................ 
+	http://risis.eu/orgreg_20170718/resource/ES0025... 39.887356......................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0025... -0.573071......................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0025... http://www.uji.es................................. 
+	http://risis.eu/orgreg_20170718/resource/ES0025... Jaume I University................................ 
+	http://risis.eu/leidenRanking_2015/resource/1003.. Jaume I University................................ 
+	http://www.grid.ac/institutes/grid.9612.c......... -0.069994......................................... 
+	http://www.grid.ac/institutes/grid.9612.c......... 39.99371.......................................... 
+	http://www.grid.ac/institutes/grid.9612.c......... https://ujiapps.uji.es/........................... 
+	http://www.grid.ac/institutes/grid.9612.c......... Universitat Jaume I............................... 
+	http://www.grid.ac/institutes/grid.9612.c......... Jaume I University................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:2820785', '4:grid.9612.c'), ('2:ES0025', '1:2820785'), ('2:ES0025', '4:grid.9612.c'), ('3:1003', '1:2820785'), ('3:1003', '2:ES0025'), ('4:grid.9612.c', '3:1003')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

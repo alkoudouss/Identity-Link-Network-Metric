@@ -1,0 +1,71 @@
+SIZE    4   
+CLUSTER 3406 
+NAME    N1751272307
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.452940.e>
+	<http://www.grid.ac/institutes/grid.454740.6>
+	<http://risis.eu/orgref_20170703/resource/6306595>
+	<http://risis.eu/orgref_20170703/resource/21053336>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.452940.e........ http://www.grid.ac/institutes/grid.454740.6........ 1.................................................. [Ministry of Health and Welfare] was compared to [Ministry of Health and Welfare] 
+	http://www.grid.ac/institutes/grid.454740.6........ http://www.grid.ac/institutes/grid.452940.e........ 1.................................................. [Ministry of Health and Welfare] was compared to [Ministry of Health and Welfare] 
+	http://www.grid.ac/institutes/grid.452940.e........ http://risis.eu/orgref_20170703/resource/6306595... 1.................................................. [Ministry of Health and Welfare] was compared to [Ministry of Health and Welfare (South Korea)] 
+	http://risis.eu/orgref_20170703/resource/6306595... http://www.grid.ac/institutes/grid.452940.e........ 1.................................................. [Ministry of Health and Welfare] was compared to [Ministry of Health and Welfare (South Korea)] 
+	http://www.grid.ac/institutes/grid.452940.e........ http://risis.eu/orgref_20170703/resource/21053336.. 1.................................................. [Ministry of Health and Welfare] was compared to [Ministry of Health and Welfare (Taiwan)] 
+	http://risis.eu/orgref_20170703/resource/21053336.. http://www.grid.ac/institutes/grid.452940.e........ 1.................................................. [Ministry of Health and Welfare] was compared to [Ministry of Health and Welfare (Taiwan)] 
+	http://www.grid.ac/institutes/grid.454740.6........ http://risis.eu/orgref_20170703/resource/6306595... 1.................................................. [Ministry of Health and Welfare] was compared to [Ministry of Health and Welfare (South Korea)] 
+	http://risis.eu/orgref_20170703/resource/6306595... http://www.grid.ac/institutes/grid.454740.6........ 1.................................................. [Ministry of Health and Welfare] was compared to [Ministry of Health and Welfare (South Korea)] 
+	http://www.grid.ac/institutes/grid.454740.6........ http://risis.eu/orgref_20170703/resource/21053336.. 1.................................................. [Ministry of Health and Welfare] was compared to [Ministry of Health and Welfare (Taiwan)] 
+	http://risis.eu/orgref_20170703/resource/21053336.. http://www.grid.ac/institutes/grid.454740.6........ 1.................................................. [Ministry of Health and Welfare] was compared to [Ministry of Health and Welfare (Taiwan)] 
+	http://risis.eu/orgref_20170703/resource/6306595... http://risis.eu/orgref_20170703/resource/21053336.. 1.................................................. [Ministry of Health and Welfare (Taiwan)] was compared to [Ministry of Health and Welfare (South Korea)] 
+	http://risis.eu/orgref_20170703/resource/21053336.. http://risis.eu/orgref_20170703/resource/6306595... 1.................................................. [Ministry of Health and Welfare (Taiwan)] was compared to [Ministry of Health and Welfare (South Korea)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 20 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.452940.e........ 127.26203.......................................... 
+	http://www.grid.ac/institutes/grid.452940.e........ 36.50256........................................... 
+	http://www.grid.ac/institutes/grid.452940.e........ http://english.mw.go.kr/front_eng/index.jsp........ 
+	http://www.grid.ac/institutes/grid.452940.e........ Ministry for Health, Welfare and Family Affairs.... 
+	http://www.grid.ac/institutes/grid.452940.e........ Ministry of Health and Welfare..................... 
+	http://www.grid.ac/institutes/grid.454740.6........ 121.609116......................................... 
+	http://www.grid.ac/institutes/grid.454740.6........ 25.043602.......................................... 
+	http://www.grid.ac/institutes/grid.454740.6........ http://www.mohw.gov.tw/EN/Ministry/Index.aspx...... 
+	http://www.grid.ac/institutes/grid.454740.6........ Department of Health............................... 
+	http://www.grid.ac/institutes/grid.454740.6........ Wèishēng Shǔ.................................... 
+	http://www.grid.ac/institutes/grid.454740.6........ Zhōnghuá Mínguó Wèishēng Fúlì Bù.......... 
+	http://www.grid.ac/institutes/grid.454740.6........ Ministry of Health and Welfare..................... 
+	http://risis.eu/orgref_20170703/resource/6306595... http://en.wikipedia.org/wiki?curid=6306595......... 
+	http://risis.eu/orgref_20170703/resource/6306595... http://www.wikidata.org/wiki/Q482921............... 
+	http://risis.eu/orgref_20170703/resource/6306595... http://english.mw.go.kr/front_eng/index.jsp........ 
+	http://risis.eu/orgref_20170703/resource/6306595... Ministry of Health and Welfare (South Korea)....... 
+	http://risis.eu/orgref_20170703/resource/21053336.. http://en.wikipedia.org/wiki?curid=21053336........ 
+	http://risis.eu/orgref_20170703/resource/21053336.. http://www.wikidata.org/wiki/Q697240............... 
+	http://risis.eu/orgref_20170703/resource/21053336.. http://www.mohw.gov.tw/mp-2.html................... 
+	http://risis.eu/orgref_20170703/resource/21053336.. Ministry of Health and Welfare (Taiwan)............ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.454740.6', '1:grid.452940.e'), ('3:6306595', '1:grid.452940.e'), ('3:6306595', '2:grid.454740.6'), ('3:6306595', '4:21053336'), ('4:21053336', '1:grid.452940.e'), ('4:21053336', '2:grid.454740.6')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

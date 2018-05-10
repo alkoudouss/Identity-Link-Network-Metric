@@ -1,0 +1,53 @@
+SIZE    3   
+CLUSTER 1023 
+NAME    N1162798702
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/9179715>
+	<http://www.grid.ac/institutes/grid.449791.6>
+	<http://risis.eu/orgreg_20170718/resource/NL0033>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/9179715.. http://risis.eu/orgreg_20170718/resource/NL0033... 1................................................. [The Hague University of Applied Sciences] was compared to [The Hague University of Applied Sciences] 
+	http://risis.eu/orgref_20170703/resource/9179715.. http://www.grid.ac/institutes/grid.449791.6....... 1................................................. [Hague University of Applied Sciences] was compared to [The Hague University of Applied Sciences] 
+	http://www.grid.ac/institutes/grid.449791.6....... http://risis.eu/orgref_20170703/resource/9179715.. 1................................................. [Hague University of Applied Sciences] was compared to [The Hague University of Applied Sciences] 
+	http://www.grid.ac/institutes/grid.449791.6....... http://risis.eu/orgreg_20170718/resource/NL0033... 1................................................. [Hague University of Applied Sciences] was compared to [The Hague University of Applied Sciences] 
+	http://risis.eu/orgreg_20170718/resource/NL0033... http://www.grid.ac/institutes/grid.449791.6....... 1................................................. [Hague University of Applied Sciences] was compared to [The Hague University of Applied Sciences] 
+	http://risis.eu/orgreg_20170718/resource/NL0033... http://risis.eu/orgref_20170703/resource/9179715.. 1................................................. [The Hague University of Applied Sciences] was compared to [The Hague University of Applied Sciences] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 9 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/9179715.. http://en.wikipedia.org/wiki?curid=9179715........ 
+	http://risis.eu/orgref_20170703/resource/9179715.. http://www.wikidata.org/wiki/Q2693497............. 
+	http://risis.eu/orgref_20170703/resource/9179715.. http://www.thehagueuniversity.com................. 
+	http://risis.eu/orgref_20170703/resource/9179715.. The Hague University of Applied Sciences.......... 
+	http://www.grid.ac/institutes/grid.449791.6....... Hague University of Applied Sciences.............. 
+	http://risis.eu/orgreg_20170718/resource/NL0033... 4.322597.......................................... 
+	http://risis.eu/orgreg_20170718/resource/NL0033... 52.067961......................................... 
+	http://risis.eu/orgreg_20170718/resource/NL0033... http://www.dehaagsehogeschool.nl/................. 
+	http://risis.eu/orgreg_20170718/resource/NL0033... The Hague University of Applied Sciences.......... 
+
+NETWORK ANALYSIS
+	NETWORK [('P1320450391-NL0033', 'P1750273860-grid.449791.6'), ('N1162798702-9179715', 'P1320450391-NL0033'), ('N1162798702-9179715', 'P1750273860-grid.449791.6')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

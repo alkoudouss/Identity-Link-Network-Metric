@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 10514 
+NAME    N1614250372
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.434766.4>
+	<http://www.grid.ac/institutes/grid.463454.4>
+	<http://www.grid.ac/institutes/grid.434812.8>
+	<http://www.grid.ac/institutes/grid.463453.3>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.434766.4.. http://www.grid.ac/institutes/grid.463453.3.. 0.933333333333............................... [Ministère de la Santé] was compared to [Ministre de la Santé] 
+	http://www.grid.ac/institutes/grid.463453.3.. http://www.grid.ac/institutes/grid.434766.4.. 0.933333333333............................... [Ministère de la Santé] was compared to [Ministre de la Santé] 
+	http://www.grid.ac/institutes/grid.434766.4.. http://www.grid.ac/institutes/grid.463454.4.. 1............................................ [Ministère de la Santé] was compared to [Ministère de la Santé] 
+	http://www.grid.ac/institutes/grid.463454.4.. http://www.grid.ac/institutes/grid.434766.4.. 1............................................ [Ministère de la Santé] was compared to [Ministère de la Santé] 
+	http://www.grid.ac/institutes/grid.434766.4.. http://www.grid.ac/institutes/grid.434812.8.. 1............................................ [Ministère de la Santé] was compared to [Ministère de la Santé] 
+	http://www.grid.ac/institutes/grid.434812.8.. http://www.grid.ac/institutes/grid.434766.4.. 1............................................ [Ministère de la Santé] was compared to [Ministère de la Santé] 
+	http://www.grid.ac/institutes/grid.434812.8.. http://www.grid.ac/institutes/grid.463453.3.. 0.933333333333............................... [Ministère de la Santé] was compared to [Ministre de la Santé] 
+	http://www.grid.ac/institutes/grid.463453.3.. http://www.grid.ac/institutes/grid.434812.8.. 0.933333333333............................... [Ministère de la Santé] was compared to [Ministre de la Santé] 
+	http://www.grid.ac/institutes/grid.463454.4.. http://www.grid.ac/institutes/grid.434812.8.. 1............................................ [Ministère de la Santé] was compared to [Ministère de la Santé] 
+	http://www.grid.ac/institutes/grid.434812.8.. http://www.grid.ac/institutes/grid.463454.4.. 1............................................ [Ministère de la Santé] was compared to [Ministère de la Santé] 
+	http://www.grid.ac/institutes/grid.463454.4.. http://www.grid.ac/institutes/grid.463453.3.. 0.933333333333............................... [Ministre de la Santé] was compared to [Ministère de la Santé] 
+	http://www.grid.ac/institutes/grid.463453.3.. http://www.grid.ac/institutes/grid.463454.4.. 0.933333333333............................... [Ministre de la Santé] was compared to [Ministère de la Santé] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.434766.4.. -6.828338.................................... 
+	http://www.grid.ac/institutes/grid.434766.4.. 34.01108..................................... 
+	http://www.grid.ac/institutes/grid.434766.4.. http://www.sante.gov.ma/Pages/Accueil.aspx... 
+	http://www.grid.ac/institutes/grid.434766.4.. Ministère de la Santé...................... 
+	http://www.grid.ac/institutes/grid.463454.4.. 10.159072.................................... 
+	http://www.grid.ac/institutes/grid.463454.4.. 36.808643.................................... 
+	http://www.grid.ac/institutes/grid.463454.4.. http://www.santetunisie.rns.tn/fr/........... 
+	http://www.grid.ac/institutes/grid.463454.4.. Ministère de la Santé...................... 
+	http://www.grid.ac/institutes/grid.434812.8.. 3.063475..................................... 
+	http://www.grid.ac/institutes/grid.434812.8.. 36.74741..................................... 
+	http://www.grid.ac/institutes/grid.434812.8.. http://www.sante.dz/......................... 
+	http://www.grid.ac/institutes/grid.434812.8.. Ministère de la Santé...................... 
+	http://www.grid.ac/institutes/grid.463453.3.. 2.462128..................................... 
+	http://www.grid.ac/institutes/grid.463453.3.. 6.364221..................................... 
+	http://www.grid.ac/institutes/grid.463453.3.. http://www.sante.gouv.bj/.................... 
+	http://www.grid.ac/institutes/grid.463453.3.. Ministre de la Santé........................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.463454.4', '1:grid.434766.4'), ('2:grid.463454.4', '3:grid.434812.8'), ('2:grid.463454.4', '4:grid.463453.3'), ('3:grid.434812.8', '1:grid.434766.4'), ('4:grid.463453.3', '1:grid.434766.4'), ('4:grid.463453.3', '3:grid.434812.8')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

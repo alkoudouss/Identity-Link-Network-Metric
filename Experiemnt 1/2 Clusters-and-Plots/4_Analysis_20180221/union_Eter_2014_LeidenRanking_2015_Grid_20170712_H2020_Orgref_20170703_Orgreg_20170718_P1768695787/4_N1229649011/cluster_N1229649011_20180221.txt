@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 1884 
+NAME    N1229649011
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.48769.34>
+	<http://risis.eu/orgreg_20170718/resource/BE2007>
+	<http://risis.eu/cordisH2020/resource/participant_998753226>
+	<http://risis.eu/orgref_20170703/resource/11377768>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.48769.34................. http://risis.eu/orgref_20170703/resource/11377768........... 1........................................................... [Cliniques Universitaires Saint-Luc] was compared to [Cliniques Universitaires Saint-Luc] 
+	http://risis.eu/orgref_20170703/resource/11377768........... http://www.grid.ac/institutes/grid.48769.34................. 1........................................................... [Cliniques Universitaires Saint-Luc] was compared to [Cliniques Universitaires Saint-Luc] 
+	http://www.grid.ac/institutes/grid.48769.34................. http://risis.eu/cordisH2020/resource/participant_998753226.. 1........................................................... [Cliniques Universitaires Saint-Luc] was compared to [CLINIQUES UNIVERSITAIRES SAINT-LUC] 
+	http://risis.eu/cordisH2020/resource/participant_998753226.. http://www.grid.ac/institutes/grid.48769.34................. 1........................................................... [Cliniques Universitaires Saint-Luc] was compared to [CLINIQUES UNIVERSITAIRES SAINT-LUC] 
+	http://risis.eu/cordisH2020/resource/participant_998753226.. http://risis.eu/orgref_20170703/resource/11377768........... 1........................................................... [Cliniques Universitaires Saint-Luc] was compared to [CLINIQUES UNIVERSITAIRES SAINT-LUC] 
+	http://risis.eu/orgref_20170703/resource/11377768........... http://risis.eu/cordisH2020/resource/participant_998753226.. 1........................................................... [Cliniques Universitaires Saint-Luc] was compared to [CLINIQUES UNIVERSITAIRES SAINT-LUC] 
+	http://risis.eu/orgreg_20170718/resource/BE2007............. http://risis.eu/cordisH2020/resource/participant_998753226.. 1........................................................... [Cliniques universitaires Saint-Luc] was compared to [CLINIQUES UNIVERSITAIRES SAINT-LUC] 
+	http://risis.eu/cordisH2020/resource/participant_998753226.. http://risis.eu/orgreg_20170718/resource/BE2007............. 1........................................................... [Cliniques universitaires Saint-Luc] was compared to [CLINIQUES UNIVERSITAIRES SAINT-LUC] 
+	http://risis.eu/orgreg_20170718/resource/BE2007............. http://risis.eu/orgref_20170703/resource/11377768........... 1........................................................... [Cliniques Universitaires Saint-Luc] was compared to [Cliniques universitaires Saint-Luc] 
+	http://risis.eu/orgref_20170703/resource/11377768........... http://risis.eu/orgreg_20170718/resource/BE2007............. 1........................................................... [Cliniques Universitaires Saint-Luc] was compared to [Cliniques universitaires Saint-Luc] 
+	http://www.grid.ac/institutes/grid.48769.34................. http://risis.eu/orgreg_20170718/resource/BE2007............. 1........................................................... [Cliniques Universitaires Saint-Luc] was compared to [Cliniques universitaires Saint-Luc] 
+	http://risis.eu/orgreg_20170718/resource/BE2007............. http://www.grid.ac/institutes/grid.48769.34................. 1........................................................... [Cliniques Universitaires Saint-Luc] was compared to [Cliniques universitaires Saint-Luc] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.48769.34................. 4.452361.................................................... 
+	http://www.grid.ac/institutes/grid.48769.34................. 50.852055................................................... 
+	http://www.grid.ac/institutes/grid.48769.34................. http://www.saintluc.be/..................................... 
+	http://www.grid.ac/institutes/grid.48769.34................. Cliniques Universitaires Saint-Luc.......................... 
+	http://risis.eu/orgreg_20170718/resource/BE2007............. 4.452361.................................................... 
+	http://risis.eu/orgreg_20170718/resource/BE2007............. 50.852056................................................... 
+	http://risis.eu/orgreg_20170718/resource/BE2007............. http://www.saintluc.be/..................................... 
+	http://risis.eu/orgreg_20170718/resource/BE2007............. Cliniques universitaires Saint-Luc.......................... 
+	http://risis.eu/cordisH2020/resource/participant_998753226.. http://www.saintluc.be...................................... 
+	http://risis.eu/cordisH2020/resource/participant_998753226.. CLINIQUES UNIVERSITAIRES SAINT-LUC.......................... 
+	http://risis.eu/orgref_20170703/resource/11377768........... http://en.wikipedia.org/wiki?curid=11377768................. 
+	http://risis.eu/orgref_20170703/resource/11377768........... http://www.wikidata.org/wiki/Q2979314....................... 
+	http://risis.eu/orgref_20170703/resource/11377768........... http://www.saintluc.be...................................... 
+	http://risis.eu/orgref_20170703/resource/11377768........... Cliniques Universitaires Saint-Luc.......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:BE2007', '1:grid.48769.34'), ('3:participant_998753226', '1:grid.48769.34'), ('3:participant_998753226', '2:BE2007'), ('3:participant_998753226', '4:11377768'), ('4:11377768', '1:grid.48769.34'), ('4:11377768', '2:BE2007')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

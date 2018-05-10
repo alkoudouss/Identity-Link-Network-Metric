@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 1859 
+NAME    N788814388
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.292522.c>
+	<http://www.grid.ac/institutes/grid.474479.d>
+	<http://www.grid.ac/institutes/grid.481869.a>
+	<http://www.grid.ac/institutes/grid.474744.0>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.292522.c.. http://www.grid.ac/institutes/grid.474744.0.. 1............................................ [Teleflex (Canada)] was compared to [Teleflex (United States)] 
+	http://www.grid.ac/institutes/grid.474744.0.. http://www.grid.ac/institutes/grid.292522.c.. 1............................................ [Teleflex (Canada)] was compared to [Teleflex (United States)] 
+	http://www.grid.ac/institutes/grid.292522.c.. http://www.grid.ac/institutes/grid.481869.a.. 1............................................ [Teleflex (Canada)] was compared to [Teleflex (Australia)] 
+	http://www.grid.ac/institutes/grid.481869.a.. http://www.grid.ac/institutes/grid.292522.c.. 1............................................ [Teleflex (Canada)] was compared to [Teleflex (Australia)] 
+	http://www.grid.ac/institutes/grid.292522.c.. http://www.grid.ac/institutes/grid.474479.d.. 1............................................ [Teleflex (Canada)] was compared to [Teleflex (Germany)] 
+	http://www.grid.ac/institutes/grid.474479.d.. http://www.grid.ac/institutes/grid.292522.c.. 1............................................ [Teleflex (Canada)] was compared to [Teleflex (Germany)] 
+	http://www.grid.ac/institutes/grid.474479.d.. http://www.grid.ac/institutes/grid.474744.0.. 1............................................ [Teleflex (Germany)] was compared to [Teleflex (United States)] 
+	http://www.grid.ac/institutes/grid.474744.0.. http://www.grid.ac/institutes/grid.474479.d.. 1............................................ [Teleflex (Germany)] was compared to [Teleflex (United States)] 
+	http://www.grid.ac/institutes/grid.474479.d.. http://www.grid.ac/institutes/grid.481869.a.. 1............................................ [Teleflex (Germany)] was compared to [Teleflex (Australia)] 
+	http://www.grid.ac/institutes/grid.481869.a.. http://www.grid.ac/institutes/grid.474479.d.. 1............................................ [Teleflex (Germany)] was compared to [Teleflex (Australia)] 
+	http://www.grid.ac/institutes/grid.481869.a.. http://www.grid.ac/institutes/grid.474744.0.. 1............................................ [Teleflex (United States)] was compared to [Teleflex (Australia)] 
+	http://www.grid.ac/institutes/grid.474744.0.. http://www.grid.ac/institutes/grid.481869.a.. 1............................................ [Teleflex (United States)] was compared to [Teleflex (Australia)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.292522.c.. -79.33064.................................... 
+	http://www.grid.ac/institutes/grid.292522.c.. 43.822468.................................... 
+	http://www.grid.ac/institutes/grid.292522.c.. http://www.teleflex.com/en/ca/............... 
+	http://www.grid.ac/institutes/grid.292522.c.. Teleflex (Canada)............................ 
+	http://www.grid.ac/institutes/grid.474479.d.. 8.752354..................................... 
+	http://www.grid.ac/institutes/grid.474479.d.. 48.770824.................................... 
+	http://www.grid.ac/institutes/grid.474479.d.. http://www.teleflex-homecare.de/............. 
+	http://www.grid.ac/institutes/grid.474479.d.. Teleflex (Germany)........................... 
+	http://www.grid.ac/institutes/grid.481869.a.. 145.00826.................................... 
+	http://www.grid.ac/institutes/grid.481869.a.. -37.827023................................... 
+	http://www.grid.ac/institutes/grid.481869.a.. http://www.teleflex.com/..................... 
+	http://www.grid.ac/institutes/grid.481869.a.. Teleflex (Australia)......................... 
+	http://www.grid.ac/institutes/grid.474744.0.. -75.42015.................................... 
+	http://www.grid.ac/institutes/grid.474744.0.. 40.0772...................................... 
+	http://www.grid.ac/institutes/grid.474744.0.. http://www.teleflex.com/usa/?language_id=1... 
+	http://www.grid.ac/institutes/grid.474744.0.. Teleflex (United States)..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.474479.d', '1:grid.292522.c'), ('3:grid.481869.a', '1:grid.292522.c'), ('3:grid.481869.a', '2:grid.474479.d'), ('4:grid.474744.0', '1:grid.292522.c'), ('4:grid.474744.0', '2:grid.474479.d'), ('4:grid.474744.0', '3:grid.481869.a')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

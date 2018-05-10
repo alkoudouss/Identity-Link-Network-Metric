@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 11983 
+NAME    N1332006850
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.48815.30>
+	<http://risis.eu/eter_2014/resource/UK0035>
+	<http://risis.eu/orgref_20170703/resource/197959>
+	<http://risis.eu/cordisH2020/resource/participant_999847968>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.48815.30................. http://risis.eu/orgref_20170703/resource/197959............. 1........................................................... [De Montfort University] was compared to [De Montfort University] 
+	http://risis.eu/orgref_20170703/resource/197959............. http://www.grid.ac/institutes/grid.48815.30................. 1........................................................... [De Montfort University] was compared to [De Montfort University] 
+	http://www.grid.ac/institutes/grid.48815.30................. http://risis.eu/eter_2014/resource/UK0035................... 1........................................................... [De Montfort University] was compared to [De Montfort University] 
+	http://risis.eu/eter_2014/resource/UK0035................... http://www.grid.ac/institutes/grid.48815.30................. 1........................................................... [De Montfort University] was compared to [De Montfort University] 
+	http://www.grid.ac/institutes/grid.48815.30................. http://risis.eu/cordisH2020/resource/participant_999847968.. 1........................................................... [De Montfort University] was compared to [DE MONTFORT UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_999847968.. http://www.grid.ac/institutes/grid.48815.30................. 1........................................................... [De Montfort University] was compared to [DE MONTFORT UNIVERSITY] 
+	http://risis.eu/eter_2014/resource/UK0035................... http://risis.eu/orgref_20170703/resource/197959............. 1........................................................... [De Montfort University] was compared to [De Montfort University] 
+	http://risis.eu/orgref_20170703/resource/197959............. http://risis.eu/eter_2014/resource/UK0035................... 1........................................................... [De Montfort University] was compared to [De Montfort University] 
+	http://risis.eu/orgref_20170703/resource/197959............. http://risis.eu/cordisH2020/resource/participant_999847968.. 1........................................................... [De Montfort University] was compared to [DE MONTFORT UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_999847968.. http://risis.eu/orgref_20170703/resource/197959............. 1........................................................... [De Montfort University] was compared to [DE MONTFORT UNIVERSITY] 
+	http://risis.eu/eter_2014/resource/UK0035................... http://risis.eu/cordisH2020/resource/participant_999847968.. 1........................................................... [DE MONTFORT UNIVERSITY] was compared to [De Montfort University] 
+	http://risis.eu/cordisH2020/resource/participant_999847968.. http://risis.eu/eter_2014/resource/UK0035................... 1........................................................... [DE MONTFORT UNIVERSITY] was compared to [De Montfort University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.48815.30................. -1.13897.................................................... 
+	http://www.grid.ac/institutes/grid.48815.30................. 52.62973.................................................... 
+	http://www.grid.ac/institutes/grid.48815.30................. http://www.dmu.ac.uk/home.aspx.............................. 
+	http://www.grid.ac/institutes/grid.48815.30................. De Montfort University...................................... 
+	http://risis.eu/eter_2014/resource/UK0035................... 52,629467................................................... 
+	http://risis.eu/eter_2014/resource/UK0035................... -1,138035................................................... 
+	http://risis.eu/eter_2014/resource/UK0035................... http://www.dmu.ac.uk/....................................... 
+	http://risis.eu/eter_2014/resource/UK0035................... a........................................................... 
+	http://risis.eu/eter_2014/resource/UK0035................... De Montfort University...................................... 
+	http://risis.eu/orgref_20170703/resource/197959............. http://en.wikipedia.org/wiki?curid=197959................... 
+	http://risis.eu/orgref_20170703/resource/197959............. http://www.wikidata.org/wiki/Q3551402....................... 
+	http://risis.eu/orgref_20170703/resource/197959............. http://www.dmu.ac.uk........................................ 
+	http://risis.eu/orgref_20170703/resource/197959............. De Montfort University...................................... 
+	http://risis.eu/cordisH2020/resource/participant_999847968.. http://risis.eu/cordisH2020/resource/www.dmu.ac.uk.......... 
+	http://risis.eu/cordisH2020/resource/participant_999847968.. DE MONTFORT UNIVERSITY...................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:UK0035', '1:grid.48815.30'), ('3:197959', '1:grid.48815.30'), ('3:197959', '2:UK0035'), ('4:participant_999847968', '1:grid.48815.30'), ('4:participant_999847968', '2:UK0035'), ('4:participant_999847968', '3:197959')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

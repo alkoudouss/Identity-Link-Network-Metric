@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 4035 
+NAME    N1731823892
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.414023.0>
+	<http://risis.eu/orgref_20170703/resource/16665324>
+	<http://www.grid.ac/institutes/grid.414022.1>
+	<http://risis.eu/orgref_20170703/resource/26668004>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.414023.0........ http://www.grid.ac/institutes/grid.414022.1........ 1.................................................. [Doctors Hospital] was compared to [Doctors Hospital] 
+	http://www.grid.ac/institutes/grid.414022.1........ http://www.grid.ac/institutes/grid.414023.0........ 1.................................................. [Doctors Hospital] was compared to [Doctors Hospital] 
+	http://risis.eu/orgref_20170703/resource/16665324.. http://www.grid.ac/institutes/grid.414022.1........ 1.................................................. [Doctors Hospital] was compared to [Doctors Hospital (Augusta, Georgia)] 
+	http://www.grid.ac/institutes/grid.414022.1........ http://risis.eu/orgref_20170703/resource/16665324.. 1.................................................. [Doctors Hospital] was compared to [Doctors Hospital (Augusta, Georgia)] 
+	http://www.grid.ac/institutes/grid.414022.1........ http://risis.eu/orgref_20170703/resource/26668004.. 1.................................................. [Doctors Hospital] was compared to [Doctors Hospital (Columbus, Ohio)] 
+	http://risis.eu/orgref_20170703/resource/26668004.. http://www.grid.ac/institutes/grid.414022.1........ 1.................................................. [Doctors Hospital] was compared to [Doctors Hospital (Columbus, Ohio)] 
+	http://www.grid.ac/institutes/grid.414023.0........ http://risis.eu/orgref_20170703/resource/16665324.. 1.................................................. [Doctors Hospital] was compared to [Doctors Hospital (Augusta, Georgia)] 
+	http://risis.eu/orgref_20170703/resource/16665324.. http://www.grid.ac/institutes/grid.414023.0........ 1.................................................. [Doctors Hospital] was compared to [Doctors Hospital (Augusta, Georgia)] 
+	http://www.grid.ac/institutes/grid.414023.0........ http://risis.eu/orgref_20170703/resource/26668004.. 1.................................................. [Doctors Hospital] was compared to [Doctors Hospital (Columbus, Ohio)] 
+	http://risis.eu/orgref_20170703/resource/26668004.. http://www.grid.ac/institutes/grid.414023.0........ 1.................................................. [Doctors Hospital] was compared to [Doctors Hospital (Columbus, Ohio)] 
+	http://risis.eu/orgref_20170703/resource/16665324.. http://risis.eu/orgref_20170703/resource/26668004.. 1.................................................. [Doctors Hospital (Augusta, Georgia)] was compared to [Doctors Hospital (Columbus, Ohio)] 
+	http://risis.eu/orgref_20170703/resource/26668004.. http://risis.eu/orgref_20170703/resource/16665324.. 1.................................................. [Doctors Hospital (Augusta, Georgia)] was compared to [Doctors Hospital (Columbus, Ohio)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.414023.0........ -82.09467.......................................... 
+	http://www.grid.ac/institutes/grid.414023.0........ 33.48625........................................... 
+	http://www.grid.ac/institutes/grid.414023.0........ http://doctors-hospital.net/....................... 
+	http://www.grid.ac/institutes/grid.414023.0........ Doctors Hospital................................... 
+	http://risis.eu/orgref_20170703/resource/16665324.. http://en.wikipedia.org/wiki?curid=16665324........ 
+	http://risis.eu/orgref_20170703/resource/16665324.. http://www.wikidata.org/wiki/Q5287550.............. 
+	http://risis.eu/orgref_20170703/resource/16665324.. http://www.doctors-hospital.net.................... 
+	http://risis.eu/orgref_20170703/resource/16665324.. Doctors Hospital (Augusta, Georgia)................ 
+	http://www.grid.ac/institutes/grid.414022.1........ -83.13803.......................................... 
+	http://www.grid.ac/institutes/grid.414022.1........ 39.953114.......................................... 
+	http://www.grid.ac/institutes/grid.414022.1........ https://www.ohiohealth.com/doctors/................ 
+	http://www.grid.ac/institutes/grid.414022.1........ Doctors Hospital................................... 
+	http://risis.eu/orgref_20170703/resource/26668004.. http://en.wikipedia.org/wiki?curid=26668004........ 
+	http://risis.eu/orgref_20170703/resource/26668004.. http://www.wikidata.org/wiki/Q5287552.............. 
+	http://risis.eu/orgref_20170703/resource/26668004.. http://www.ohiohealth.com/doctors.................. 
+	http://risis.eu/orgref_20170703/resource/26668004.. Doctors Hospital (Columbus, Ohio).................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.414023.0', '3:grid.414022.1'), ('2:16665324', '1:grid.414023.0'), ('3:grid.414022.1', '2:16665324'), ('4:26668004', '1:grid.414023.0'), ('4:26668004', '2:16665324'), ('4:26668004', '3:grid.414022.1')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

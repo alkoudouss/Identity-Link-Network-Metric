@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 12079 
+NAME    N1308061760
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/47010421>
+	<http://risis.eu/cordisH2020/resource/participant_995356092>
+	<http://risis.eu/leidenRanking_2015/resource/16182>
+	<http://www.grid.ac/institutes/grid.29869.3c>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/47010421........... http://www.grid.ac/institutes/grid.29869.3c................. 1........................................................... [Korea Research Institute of Chemical Technology] was compared to [Korea Research Institute of Chemical Technology] 
+	http://www.grid.ac/institutes/grid.29869.3c................. http://risis.eu/orgref_20170703/resource/47010421........... 1........................................................... [Korea Research Institute of Chemical Technology] was compared to [Korea Research Institute of Chemical Technology] 
+	http://risis.eu/leidenRanking_2015/resource/16182........... http://www.grid.ac/institutes/grid.29869.3c................. 1........................................................... [Korea Research Institute of Chemical Technology] was compared to [Korea Research Institute of Chemical Technology] 
+	http://www.grid.ac/institutes/grid.29869.3c................. http://risis.eu/leidenRanking_2015/resource/16182........... 1........................................................... [Korea Research Institute of Chemical Technology] was compared to [Korea Research Institute of Chemical Technology] 
+	http://risis.eu/cordisH2020/resource/participant_995356092.. http://www.grid.ac/institutes/grid.29869.3c................. 1........................................................... [Korea Research Institute of Chemical Technology] was compared to [KOREA RESEARCH INSTITUTE OF CHEMICAL TECHNOLOGY] 
+	http://www.grid.ac/institutes/grid.29869.3c................. http://risis.eu/cordisH2020/resource/participant_995356092.. 1........................................................... [Korea Research Institute of Chemical Technology] was compared to [KOREA RESEARCH INSTITUTE OF CHEMICAL TECHNOLOGY] 
+	http://risis.eu/orgref_20170703/resource/47010421........... http://risis.eu/leidenRanking_2015/resource/16182........... 1........................................................... [Korea Research Institute of Chemical Technology] was compared to [Korea Research Institute of Chemical Technology] 
+	http://risis.eu/leidenRanking_2015/resource/16182........... http://risis.eu/orgref_20170703/resource/47010421........... 1........................................................... [Korea Research Institute of Chemical Technology] was compared to [Korea Research Institute of Chemical Technology] 
+	http://risis.eu/orgref_20170703/resource/47010421........... http://risis.eu/cordisH2020/resource/participant_995356092.. 1........................................................... [Korea Research Institute of Chemical Technology] was compared to [KOREA RESEARCH INSTITUTE OF CHEMICAL TECHNOLOGY] 
+	http://risis.eu/cordisH2020/resource/participant_995356092.. http://risis.eu/orgref_20170703/resource/47010421........... 1........................................................... [Korea Research Institute of Chemical Technology] was compared to [KOREA RESEARCH INSTITUTE OF CHEMICAL TECHNOLOGY] 
+	http://risis.eu/cordisH2020/resource/participant_995356092.. http://risis.eu/leidenRanking_2015/resource/16182........... 1........................................................... [KOREA RESEARCH INSTITUTE OF CHEMICAL TECHNOLOGY] was compared to [Korea Research Institute of Chemical Technology] 
+	http://risis.eu/leidenRanking_2015/resource/16182........... http://risis.eu/cordisH2020/resource/participant_995356092.. 1........................................................... [KOREA RESEARCH INSTITUTE OF CHEMICAL TECHNOLOGY] was compared to [Korea Research Institute of Chemical Technology] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/47010421........... http://en.wikipedia.org/wiki?curid=13951705................. 
+	http://risis.eu/orgref_20170703/resource/47010421........... http://www.wikidata.org/wiki/Q25212523...................... 
+	http://risis.eu/orgref_20170703/resource/47010421........... http://www.krict.re.kr/eng.................................. 
+	http://risis.eu/orgref_20170703/resource/47010421........... Korea Research Institute of Chemical Technology............. 
+	http://risis.eu/cordisH2020/resource/participant_995356092.. http://risis.eu/cordisH2020/resource/www.krict.re.kr........ 
+	http://risis.eu/cordisH2020/resource/participant_995356092.. KOREA RESEARCH INSTITUTE OF CHEMICAL TECHNOLOGY............. 
+	http://risis.eu/leidenRanking_2015/resource/16182........... Korea Research Institute of Chemical Technology............. 
+	http://www.grid.ac/institutes/grid.29869.3c................. 127.3598.................................................... 
+	http://www.grid.ac/institutes/grid.29869.3c................. 36.388718................................................... 
+	http://www.grid.ac/institutes/grid.29869.3c................. http://english.krict.re.kr/eng/............................. 
+	http://www.grid.ac/institutes/grid.29869.3c................. Korea Research Institute of Chemical Technology............. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:47010421', '4:grid.29869.3c'), ('2:participant_995356092', '1:47010421'), ('3:16182', '1:47010421'), ('3:16182', '2:participant_995356092'), ('3:16182', '4:grid.29869.3c'), ('4:grid.29869.3c', '2:participant_995356092')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

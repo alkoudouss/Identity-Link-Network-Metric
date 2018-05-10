@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 5011 
+NAME    N1239170293
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.419167.c>
+	<http://www.grid.ac/institutes/grid.419169.2>
+	<http://www.grid.ac/institutes/grid.419171.b>
+	<http://www.grid.ac/institutes/grid.419172.8>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.419167.c.. http://www.grid.ac/institutes/grid.419169.2.. 1............................................ [Instituto Nacional de Cancerología] was compared to [Instituto Nacional de Cancerología] 
+	http://www.grid.ac/institutes/grid.419169.2.. http://www.grid.ac/institutes/grid.419167.c.. 1............................................ [Instituto Nacional de Cancerología] was compared to [Instituto Nacional de Cancerología] 
+	http://www.grid.ac/institutes/grid.419171.b.. http://www.grid.ac/institutes/grid.419172.8.. 1............................................ [Instituto Nacional de Cardiologia] was compared to [Instituto Nacional de Cardiología] 
+	http://www.grid.ac/institutes/grid.419172.8.. http://www.grid.ac/institutes/grid.419171.b.. 1............................................ [Instituto Nacional de Cardiologia] was compared to [Instituto Nacional de Cardiología] 
+	http://www.grid.ac/institutes/grid.419167.c.. http://www.grid.ac/institutes/grid.419171.b.. 0.870967741935............................... [Instituto Nacional de Cancerología] was compared to [Instituto Nacional de Cardiologia] 
+	http://www.grid.ac/institutes/grid.419171.b.. http://www.grid.ac/institutes/grid.419167.c.. 0.870967741935............................... [Instituto Nacional de Cancerología] was compared to [Instituto Nacional de Cardiologia] 
+	http://www.grid.ac/institutes/grid.419167.c.. http://www.grid.ac/institutes/grid.419172.8.. 0.870967741935............................... [Instituto Nacional de Cancerología] was compared to [Instituto Nacional de Cardiología] 
+	http://www.grid.ac/institutes/grid.419172.8.. http://www.grid.ac/institutes/grid.419167.c.. 0.870967741935............................... [Instituto Nacional de Cancerología] was compared to [Instituto Nacional de Cardiología] 
+	http://www.grid.ac/institutes/grid.419169.2.. http://www.grid.ac/institutes/grid.419171.b.. 0.870967741935............................... [Instituto Nacional de Cancerología] was compared to [Instituto Nacional de Cardiologia] 
+	http://www.grid.ac/institutes/grid.419171.b.. http://www.grid.ac/institutes/grid.419169.2.. 0.870967741935............................... [Instituto Nacional de Cancerología] was compared to [Instituto Nacional de Cardiologia] 
+	http://www.grid.ac/institutes/grid.419169.2.. http://www.grid.ac/institutes/grid.419172.8.. 0.870967741935............................... [Instituto Nacional de Cancerología] was compared to [Instituto Nacional de Cardiología] 
+	http://www.grid.ac/institutes/grid.419172.8.. http://www.grid.ac/institutes/grid.419169.2.. 0.870967741935............................... [Instituto Nacional de Cancerología] was compared to [Instituto Nacional de Cardiología] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.419167.c.. -99.15814.................................... 
+	http://www.grid.ac/institutes/grid.419167.c.. 19.28932..................................... 
+	http://www.grid.ac/institutes/grid.419167.c.. http://www.cancer.gov.co/.................... 
+	http://www.grid.ac/institutes/grid.419167.c.. Instituto Nacional de Cancerología.......... 
+	http://www.grid.ac/institutes/grid.419169.2.. -74.08423.................................... 
+	http://www.grid.ac/institutes/grid.419169.2.. 4.589252..................................... 
+	http://www.grid.ac/institutes/grid.419169.2.. http://www.incan.salud.gob.mx/............... 
+	http://www.grid.ac/institutes/grid.419169.2.. Instituto Nacional de Cancerología.......... 
+	http://www.grid.ac/institutes/grid.419171.b.. -43.19038.................................... 
+	http://www.grid.ac/institutes/grid.419171.b.. -22.93693.................................... 
+	http://www.grid.ac/institutes/grid.419171.b.. http://www.inc.saude.gov.br/................. 
+	http://www.grid.ac/institutes/grid.419171.b.. Instituto Nacional de Cardiologia............ 
+	http://www.grid.ac/institutes/grid.419172.8.. -99.15428.................................... 
+	http://www.grid.ac/institutes/grid.419172.8.. 19.290607.................................... 
+	http://www.grid.ac/institutes/grid.419172.8.. https://www.cardiologia.org.mx/english/...... 
+	http://www.grid.ac/institutes/grid.419172.8.. Instituto Nacional de Cardiología........... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.419169.2', '1:grid.419167.c'), ('3:grid.419171.b', '1:grid.419167.c'), ('3:grid.419171.b', '2:grid.419169.2'), ('4:grid.419172.8', '1:grid.419167.c'), ('4:grid.419172.8', '2:grid.419169.2'), ('4:grid.419172.8', '3:grid.419171.b')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

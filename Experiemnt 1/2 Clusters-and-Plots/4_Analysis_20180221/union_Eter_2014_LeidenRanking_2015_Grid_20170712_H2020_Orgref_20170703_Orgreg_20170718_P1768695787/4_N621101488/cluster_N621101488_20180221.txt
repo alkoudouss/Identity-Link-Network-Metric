@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 2906 
+NAME    N621101488
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.185006.a>
+	<http://risis.eu/orgref_20170703/resource/17119868>
+	<http://risis.eu/cordisH2020/resource/participant_919273463>
+	<http://risis.eu/leidenRanking_2015/resource/15864>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.185006.a................. http://risis.eu/orgref_20170703/resource/17119868........... 0.939393939394.............................................. [La Jolla Institute For Allergy & Immunology] was compared to [La Jolla Institute for Allergy and Immunology] 
+	http://risis.eu/orgref_20170703/resource/17119868........... http://www.grid.ac/institutes/grid.185006.a................. 0.939393939394.............................................. [La Jolla Institute For Allergy & Immunology] was compared to [La Jolla Institute for Allergy and Immunology] 
+	http://www.grid.ac/institutes/grid.185006.a................. http://risis.eu/leidenRanking_2015/resource/15864........... 0.939393939394.............................................. [La Jolla Institute For Allergy & Immunology] was compared to [La Jolla Institute for Allergy and Immunology] 
+	http://risis.eu/leidenRanking_2015/resource/15864........... http://www.grid.ac/institutes/grid.185006.a................. 0.939393939394.............................................. [La Jolla Institute For Allergy & Immunology] was compared to [La Jolla Institute for Allergy and Immunology] 
+	http://www.grid.ac/institutes/grid.185006.a................. http://risis.eu/cordisH2020/resource/participant_919273463.. 0.939393939394.............................................. [La Jolla Institute For Allergy & Immunology] was compared to [LA JOLLA INSTITUTE FOR ALLERGY AND IMMUNOLOGY] 
+	http://risis.eu/cordisH2020/resource/participant_919273463.. http://www.grid.ac/institutes/grid.185006.a................. 0.939393939394.............................................. [La Jolla Institute For Allergy & Immunology] was compared to [LA JOLLA INSTITUTE FOR ALLERGY AND IMMUNOLOGY] 
+	http://risis.eu/orgref_20170703/resource/17119868........... http://risis.eu/leidenRanking_2015/resource/15864........... 1........................................................... [La Jolla Institute for Allergy and Immunology] was compared to [La Jolla Institute for Allergy and Immunology] 
+	http://risis.eu/leidenRanking_2015/resource/15864........... http://risis.eu/orgref_20170703/resource/17119868........... 1........................................................... [La Jolla Institute for Allergy and Immunology] was compared to [La Jolla Institute for Allergy and Immunology] 
+	http://risis.eu/orgref_20170703/resource/17119868........... http://risis.eu/cordisH2020/resource/participant_919273463.. 1........................................................... [La Jolla Institute for Allergy and Immunology] was compared to [LA JOLLA INSTITUTE FOR ALLERGY AND IMMUNOLOGY] 
+	http://risis.eu/cordisH2020/resource/participant_919273463.. http://risis.eu/orgref_20170703/resource/17119868........... 1........................................................... [La Jolla Institute for Allergy and Immunology] was compared to [LA JOLLA INSTITUTE FOR ALLERGY AND IMMUNOLOGY] 
+	http://risis.eu/cordisH2020/resource/participant_919273463.. http://risis.eu/leidenRanking_2015/resource/15864........... 1........................................................... [LA JOLLA INSTITUTE FOR ALLERGY AND IMMUNOLOGY] was compared to [La Jolla Institute for Allergy and Immunology] 
+	http://risis.eu/leidenRanking_2015/resource/15864........... http://risis.eu/cordisH2020/resource/participant_919273463.. 1........................................................... [LA JOLLA INSTITUTE FOR ALLERGY AND IMMUNOLOGY] was compared to [La Jolla Institute for Allergy and Immunology] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.185006.a................. -117.22032.................................................. 
+	http://www.grid.ac/institutes/grid.185006.a................. 32.877243................................................... 
+	http://www.grid.ac/institutes/grid.185006.a................. http://www.liai.org/........................................ 
+	http://www.grid.ac/institutes/grid.185006.a................. La Jolla Institute For Allergy & Immunology................. 
+	http://risis.eu/orgref_20170703/resource/17119868........... http://en.wikipedia.org/wiki?curid=17119868................. 
+	http://risis.eu/orgref_20170703/resource/17119868........... http://www.wikidata.org/wiki/Q6463245....................... 
+	http://risis.eu/orgref_20170703/resource/17119868........... http://www.lji.org.......................................... 
+	http://risis.eu/orgref_20170703/resource/17119868........... La Jolla Institute for Allergy and Immunology............... 
+	http://risis.eu/cordisH2020/resource/participant_919273463.. LA JOLLA INSTITUTE FOR ALLERGY AND IMMUNOLOGY............... 
+	http://risis.eu/leidenRanking_2015/resource/15864........... La Jolla Institute for Allergy and Immunology............... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:17119868', '1:grid.185006.a'), ('3:participant_919273463', '1:grid.185006.a'), ('3:participant_919273463', '2:17119868'), ('4:15864', '1:grid.185006.a'), ('4:15864', '2:17119868'), ('4:15864', '3:participant_919273463')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

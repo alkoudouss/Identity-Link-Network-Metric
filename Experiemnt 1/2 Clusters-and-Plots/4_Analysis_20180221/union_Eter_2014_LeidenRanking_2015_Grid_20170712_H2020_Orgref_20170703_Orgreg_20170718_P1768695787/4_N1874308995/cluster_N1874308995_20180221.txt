@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 9024 
+NAME    N1874308995
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/GR0013>
+	<http://risis.eu/leidenRanking_2015/resource/360>
+	<http://www.grid.ac/institutes/grid.16299.35>
+	<http://risis.eu/orgref_20170703/resource/203463>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.16299.35...... http://risis.eu/orgref_20170703/resource/203463.. 1................................................ [Athens University of Economics and Business] was compared to [Athens University of Economics and Business] 
+	http://risis.eu/orgref_20170703/resource/203463.. http://www.grid.ac/institutes/grid.16299.35...... 1................................................ [Athens University of Economics and Business] was compared to [Athens University of Economics and Business] 
+	http://risis.eu/leidenRanking_2015/resource/360.. http://www.grid.ac/institutes/grid.16299.35...... 1................................................ [Athens University of Economics and Business] was compared to [Athens University of Economics and Business] 
+	http://www.grid.ac/institutes/grid.16299.35...... http://risis.eu/leidenRanking_2015/resource/360.. 1................................................ [Athens University of Economics and Business] was compared to [Athens University of Economics and Business] 
+	http://risis.eu/leidenRanking_2015/resource/360.. http://risis.eu/orgref_20170703/resource/203463.. 1................................................ [Athens University of Economics and Business] was compared to [Athens University of Economics and Business] 
+	http://risis.eu/orgref_20170703/resource/203463.. http://risis.eu/leidenRanking_2015/resource/360.. 1................................................ [Athens University of Economics and Business] was compared to [Athens University of Economics and Business] 
+	http://risis.eu/orgreg_20170718/resource/GR0013.. http://risis.eu/leidenRanking_2015/resource/360.. 1................................................ [ATHENS UNIVERSITY OF ECONOMICS AND BUSINESS] was compared to [Athens University of Economics and Business] 
+	http://risis.eu/leidenRanking_2015/resource/360.. http://risis.eu/orgreg_20170718/resource/GR0013.. 1................................................ [ATHENS UNIVERSITY OF ECONOMICS AND BUSINESS] was compared to [Athens University of Economics and Business] 
+	http://risis.eu/orgreg_20170718/resource/GR0013.. http://risis.eu/orgref_20170703/resource/203463.. 1................................................ [Athens University of Economics and Business] was compared to [ATHENS UNIVERSITY OF ECONOMICS AND BUSINESS] 
+	http://risis.eu/orgref_20170703/resource/203463.. http://risis.eu/orgreg_20170718/resource/GR0013.. 1................................................ [Athens University of Economics and Business] was compared to [ATHENS UNIVERSITY OF ECONOMICS AND BUSINESS] 
+	http://risis.eu/orgreg_20170718/resource/GR0013.. http://www.grid.ac/institutes/grid.16299.35...... 1................................................ [Athens University of Economics and Business] was compared to [ATHENS UNIVERSITY OF ECONOMICS AND BUSINESS] 
+	http://www.grid.ac/institutes/grid.16299.35...... http://risis.eu/orgreg_20170718/resource/GR0013.. 1................................................ [Athens University of Economics and Business] was compared to [ATHENS UNIVERSITY OF ECONOMICS AND BUSINESS] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/GR0013.. http://www.aueb.gr/.............................. 
+	http://risis.eu/orgreg_20170718/resource/GR0013.. ATHENS UNIVERSITY OF ECONOMICS AND BUSINESS...... 
+	http://risis.eu/leidenRanking_2015/resource/360.. Athens University of Economics and Business...... 
+	http://www.grid.ac/institutes/grid.16299.35...... 23.73398......................................... 
+	http://www.grid.ac/institutes/grid.16299.35...... 37.993996........................................ 
+	http://www.grid.ac/institutes/grid.16299.35...... http://www.aueb.gr/index_en.php.................. 
+	http://www.grid.ac/institutes/grid.16299.35...... Oikonomiko Panepistimio Athinon.................. 
+	http://www.grid.ac/institutes/grid.16299.35...... Athens University of Economics and Business...... 
+	http://risis.eu/orgref_20170703/resource/203463.. http://en.wikipedia.org/wiki?curid=203463........ 
+	http://risis.eu/orgref_20170703/resource/203463.. http://www.wikidata.org/wiki/Q1474656............ 
+	http://risis.eu/orgref_20170703/resource/203463.. http://www.aueb.gr............................... 
+	http://risis.eu/orgref_20170703/resource/203463.. Athens University of Economics and Business...... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:GR0013', '3:grid.16299.35'), ('2:360', '1:GR0013'), ('2:360', '4:203463'), ('3:grid.16299.35', '2:360'), ('4:203463', '1:GR0013'), ('4:203463', '3:grid.16299.35')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

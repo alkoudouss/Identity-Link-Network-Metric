@@ -1,0 +1,57 @@
+SIZE    3   
+CLUSTER 1564 
+NAME    N1535533637
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/BE0007>
+	<http://risis.eu/orgreg_20170718/resource/BE0007>
+	<http://www.grid.ac/institutes/grid.7942.8>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/eter_2014/resource/BE0007........ http://www.grid.ac/institutes/grid.7942.8........ 1................................................ [universite catholique louvain] was compared to [universite catholique louvain] 
+	http://risis.eu/eter_2014/resource/BE0007........ http://risis.eu/orgreg_20170718/resource/BE0007.. 1................................................ [universite catholique louvain] was compared to [universite catholique louvain] 
+	http://risis.eu/orgreg_20170718/resource/BE0007.. http://www.grid.ac/institutes/grid.7942.8........ 1................................................ [universite catholique louvain] was compared to [universite catholique louvain] 
+	http://risis.eu/orgreg_20170718/resource/BE0007.. http://risis.eu/eter_2014/resource/BE0007........ 1................................................ [universite catholique louvain] was compared to [universite catholique louvain] 
+	http://www.grid.ac/institutes/grid.7942.8........ http://risis.eu/eter_2014/resource/BE0007........ 1................................................ [universite catholique louvain] was compared to [universite catholique louvain] 
+	http://www.grid.ac/institutes/grid.7942.8........ http://risis.eu/orgreg_20170718/resource/BE0007.. 1................................................ [universite catholique louvain] was compared to [universite catholique louvain] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/eter_2014/resource/BE0007........ 50,673857........................................ 
+	http://risis.eu/eter_2014/resource/BE0007........ 4,615169......................................... 
+	http://risis.eu/eter_2014/resource/BE0007........ http://www.uclouvain.be.......................... 
+	http://risis.eu/eter_2014/resource/BE0007........ a................................................ 
+	http://risis.eu/eter_2014/resource/BE0007........ Université Catholique de Louvain (UCL).......... 
+	http://risis.eu/orgreg_20170718/resource/BE0007.. 4.615169......................................... 
+	http://risis.eu/orgreg_20170718/resource/BE0007.. 50.673857........................................ 
+	http://risis.eu/orgreg_20170718/resource/BE0007.. http://www.uclouvain.be.......................... 
+	http://risis.eu/orgreg_20170718/resource/BE0007.. Université Catholique de Louvain (UCL).......... 
+	http://www.grid.ac/institutes/grid.7942.8........ 4.612264......................................... 
+	http://www.grid.ac/institutes/grid.7942.8........ 50.669613........................................ 
+	http://www.grid.ac/institutes/grid.7942.8........ http://www.uclouvain.be/en-index.html............ 
+	http://www.grid.ac/institutes/grid.7942.8........ Université Catholique de Louvain................ 
+
+NETWORK ANALYSIS
+	NETWORK [('N847771862-BE0007', 'N1535533637-BE0007'), ('N1535533637-BE0007', 'N718045076-grid.7942.8'), ('N847771862-BE0007', 'N718045076-grid.7942.8')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

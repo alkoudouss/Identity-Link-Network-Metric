@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 14918 
+NAME    N1702401157
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.447940.a>
+	<http://www.grid.ac/institutes/grid.481611.b>
+	<http://www.grid.ac/institutes/grid.433980.5>
+	<http://www.grid.ac/institutes/grid.457655.0>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.447940.a.. http://www.grid.ac/institutes/grid.433980.5.. 1............................................ [CoorsTek (United Kingdom)] was compared to [CoorsTek (Czech Republic)] 
+	http://www.grid.ac/institutes/grid.433980.5.. http://www.grid.ac/institutes/grid.447940.a.. 1............................................ [CoorsTek (United Kingdom)] was compared to [CoorsTek (Czech Republic)] 
+	http://www.grid.ac/institutes/grid.481611.b.. http://www.grid.ac/institutes/grid.433980.5.. 1............................................ [CoorsTek (United Kingdom)] was compared to [Coorstek (Japan)] 
+	http://www.grid.ac/institutes/grid.433980.5.. http://www.grid.ac/institutes/grid.481611.b.. 1............................................ [CoorsTek (United Kingdom)] was compared to [Coorstek (Japan)] 
+	http://www.grid.ac/institutes/grid.433980.5.. http://www.grid.ac/institutes/grid.457655.0.. 1............................................ [CoorsTek (United Kingdom)] was compared to [CoorsTek (Norway)] 
+	http://www.grid.ac/institutes/grid.457655.0.. http://www.grid.ac/institutes/grid.433980.5.. 1............................................ [CoorsTek (United Kingdom)] was compared to [CoorsTek (Norway)] 
+	http://www.grid.ac/institutes/grid.447940.a.. http://www.grid.ac/institutes/grid.481611.b.. 1............................................ [CoorsTek (Czech Republic)] was compared to [Coorstek (Japan)] 
+	http://www.grid.ac/institutes/grid.481611.b.. http://www.grid.ac/institutes/grid.447940.a.. 1............................................ [CoorsTek (Czech Republic)] was compared to [Coorstek (Japan)] 
+	http://www.grid.ac/institutes/grid.447940.a.. http://www.grid.ac/institutes/grid.457655.0.. 1............................................ [CoorsTek (Czech Republic)] was compared to [CoorsTek (Norway)] 
+	http://www.grid.ac/institutes/grid.457655.0.. http://www.grid.ac/institutes/grid.447940.a.. 1............................................ [CoorsTek (Czech Republic)] was compared to [CoorsTek (Norway)] 
+	http://www.grid.ac/institutes/grid.481611.b.. http://www.grid.ac/institutes/grid.457655.0.. 1............................................ [CoorsTek (Norway)] was compared to [Coorstek (Japan)] 
+	http://www.grid.ac/institutes/grid.457655.0.. http://www.grid.ac/institutes/grid.481611.b.. 1............................................ [CoorsTek (Norway)] was compared to [Coorstek (Japan)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.447940.a.. CoorsTek (Czech Republic).................... 
+	http://www.grid.ac/institutes/grid.481611.b.. 139.72498.................................... 
+	http://www.grid.ac/institutes/grid.481611.b.. 35.618027.................................... 
+	http://www.grid.ac/institutes/grid.481611.b.. http://www.coorstek.co.jp/eng_index.html..... 
+	http://www.grid.ac/institutes/grid.481611.b.. Coorstek (Japan)............................. 
+	http://www.grid.ac/institutes/grid.433980.5.. CoorsTek (United Kingdom).................... 
+	http://www.grid.ac/institutes/grid.457655.0.. 10.750777.................................... 
+	http://www.grid.ac/institutes/grid.457655.0.. 59.92339..................................... 
+	http://www.grid.ac/institutes/grid.457655.0.. http://www.coorstek.com/..................... 
+	http://www.grid.ac/institutes/grid.457655.0.. CoorsTek (Norway)............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.447940.a', '3:grid.433980.5'), ('2:grid.481611.b', '1:grid.447940.a'), ('3:grid.433980.5', '2:grid.481611.b'), ('4:grid.457655.0', '1:grid.447940.a'), ('4:grid.457655.0', '2:grid.481611.b'), ('4:grid.457655.0', '3:grid.433980.5')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

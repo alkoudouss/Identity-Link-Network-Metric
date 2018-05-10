@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 8584 
+NAME    N221408970
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/13692647>
+	<http://risis.eu/orgref_20170703/resource/5819044>
+	<http://risis.eu/orgref_20170703/resource/20210655>
+	<http://www.grid.ac/institutes/grid.454667.2>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/5819044... http://www.grid.ac/institutes/grid.454667.2........ 1.................................................. [Jones College] was compared to [Jones College (Jacksonville)] 
+	http://www.grid.ac/institutes/grid.454667.2........ http://risis.eu/orgref_20170703/resource/5819044... 1.................................................. [Jones College] was compared to [Jones College (Jacksonville)] 
+	http://risis.eu/orgref_20170703/resource/13692647.. http://risis.eu/orgref_20170703/resource/5819044... 0.8125............................................. [Bjørknes College] was compared to [Jones College (Jacksonville)] 
+	http://risis.eu/orgref_20170703/resource/5819044... http://risis.eu/orgref_20170703/resource/13692647.. 0.8125............................................. [Bjørknes College] was compared to [Jones College (Jacksonville)] 
+	http://risis.eu/orgref_20170703/resource/13692647.. http://risis.eu/orgref_20170703/resource/20210655.. 0.8125............................................. [Bjørknes College] was compared to [Orkney College] 
+	http://risis.eu/orgref_20170703/resource/20210655.. http://risis.eu/orgref_20170703/resource/13692647.. 0.8125............................................. [Bjørknes College] was compared to [Orkney College] 
+	http://risis.eu/orgref_20170703/resource/13692647.. http://www.grid.ac/institutes/grid.454667.2........ 0.8125............................................. [Jones College] was compared to [Bjørknes College] 
+	http://www.grid.ac/institutes/grid.454667.2........ http://risis.eu/orgref_20170703/resource/13692647.. 0.8125............................................. [Jones College] was compared to [Bjørknes College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/13692647.. http://en.wikipedia.org/wiki?curid=13692647........ 
+	http://risis.eu/orgref_20170703/resource/13692647.. http://www.wikidata.org/wiki/Q4919825.............. 
+	http://risis.eu/orgref_20170703/resource/13692647.. Bjørknes College.................................. 
+	http://risis.eu/orgref_20170703/resource/5819044... http://en.wikipedia.org/wiki?curid=5819044......... 
+	http://risis.eu/orgref_20170703/resource/5819044... http://www.wikidata.org/wiki/Q6275168.............. 
+	http://risis.eu/orgref_20170703/resource/5819044... http://www.jones.edu............................... 
+	http://risis.eu/orgref_20170703/resource/5819044... Jones College (Jacksonville)....................... 
+	http://risis.eu/orgref_20170703/resource/20210655.. http://en.wikipedia.org/wiki?curid=20210655........ 
+	http://risis.eu/orgref_20170703/resource/20210655.. http://www.wikidata.org/wiki/Q7102950.............. 
+	http://risis.eu/orgref_20170703/resource/20210655.. http://www.orkney.uhi.ac.uk/pages/default.aspx..... 
+	http://risis.eu/orgref_20170703/resource/20210655.. Orkney College..................................... 
+	http://www.grid.ac/institutes/grid.454667.2........ -81.610146......................................... 
+	http://www.grid.ac/institutes/grid.454667.2........ 30.328077.......................................... 
+	http://www.grid.ac/institutes/grid.454667.2........ http://www.jones.edu/.............................. 
+	http://www.grid.ac/institutes/grid.454667.2........ Jones Business College............................. 
+	http://www.grid.ac/institutes/grid.454667.2........ Jones College...................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:13692647', '4:grid.454667.2'), ('2:5819044', '1:13692647'), ('3:20210655', '1:13692647'), ('4:grid.454667.2', '2:5819044')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

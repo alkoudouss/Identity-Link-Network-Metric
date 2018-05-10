@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 485 
+NAME    P468424781
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.437242.4>
+	<http://www.grid.ac/institutes/grid.455785.e>
+	<http://www.grid.ac/institutes/grid.474399.4>
+	<http://www.grid.ac/institutes/grid.481701.b>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.437242.4.. http://www.grid.ac/institutes/grid.481701.b.. 1............................................ [Parker Hannifin (United Kingdom)] was compared to [Parker Hannifin (France)] 
+	http://www.grid.ac/institutes/grid.481701.b.. http://www.grid.ac/institutes/grid.437242.4.. 1............................................ [Parker Hannifin (United Kingdom)] was compared to [Parker Hannifin (France)] 
+	http://www.grid.ac/institutes/grid.437242.4.. http://www.grid.ac/institutes/grid.455785.e.. 1............................................ [Parker Hannifin (United Kingdom)] was compared to [Parker Hannifin (United States)] 
+	http://www.grid.ac/institutes/grid.455785.e.. http://www.grid.ac/institutes/grid.437242.4.. 1............................................ [Parker Hannifin (United Kingdom)] was compared to [Parker Hannifin (United States)] 
+	http://www.grid.ac/institutes/grid.437242.4.. http://www.grid.ac/institutes/grid.474399.4.. 1............................................ [Parker Hannifin (United Kingdom)] was compared to [Parker Hannifin (Germany)] 
+	http://www.grid.ac/institutes/grid.474399.4.. http://www.grid.ac/institutes/grid.437242.4.. 1............................................ [Parker Hannifin (United Kingdom)] was compared to [Parker Hannifin (Germany)] 
+	http://www.grid.ac/institutes/grid.455785.e.. http://www.grid.ac/institutes/grid.481701.b.. 1............................................ [Parker Hannifin (United States)] was compared to [Parker Hannifin (France)] 
+	http://www.grid.ac/institutes/grid.481701.b.. http://www.grid.ac/institutes/grid.455785.e.. 1............................................ [Parker Hannifin (United States)] was compared to [Parker Hannifin (France)] 
+	http://www.grid.ac/institutes/grid.455785.e.. http://www.grid.ac/institutes/grid.474399.4.. 1............................................ [Parker Hannifin (United States)] was compared to [Parker Hannifin (Germany)] 
+	http://www.grid.ac/institutes/grid.474399.4.. http://www.grid.ac/institutes/grid.455785.e.. 1............................................ [Parker Hannifin (United States)] was compared to [Parker Hannifin (Germany)] 
+	http://www.grid.ac/institutes/grid.474399.4.. http://www.grid.ac/institutes/grid.481701.b.. 1............................................ [Parker Hannifin (Germany)] was compared to [Parker Hannifin (France)] 
+	http://www.grid.ac/institutes/grid.481701.b.. http://www.grid.ac/institutes/grid.474399.4.. 1............................................ [Parker Hannifin (Germany)] was compared to [Parker Hannifin (France)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.437242.4.. Parker Hannifin (United Kingdom)............. 
+	http://www.grid.ac/institutes/grid.455785.e.. -81.67321.................................... 
+	http://www.grid.ac/institutes/grid.455785.e.. 41.501335.................................... 
+	http://www.grid.ac/institutes/grid.455785.e.. http://www.parker.com........................ 
+	http://www.grid.ac/institutes/grid.455785.e.. Parker....................................... 
+	http://www.grid.ac/institutes/grid.455785.e.. Parker Appliance Company..................... 
+	http://www.grid.ac/institutes/grid.455785.e.. Parker Hannifin (United States).............. 
+	http://www.grid.ac/institutes/grid.474399.4.. 6.617975..................................... 
+	http://www.grid.ac/institutes/grid.474399.4.. 51.197105.................................... 
+	http://www.grid.ac/institutes/grid.474399.4.. http://www.parker.com........................ 
+	http://www.grid.ac/institutes/grid.474399.4.. Parker....................................... 
+	http://www.grid.ac/institutes/grid.474399.4.. Parker Appliance Company..................... 
+	http://www.grid.ac/institutes/grid.474399.4.. Parker Hannifin (Germany).................... 
+	http://www.grid.ac/institutes/grid.481701.b.. 2.059134..................................... 
+	http://www.grid.ac/institutes/grid.481701.b.. 49.292385.................................... 
+	http://www.grid.ac/institutes/grid.481701.b.. http://www.parker.com/....................... 
+	http://www.grid.ac/institutes/grid.481701.b.. Parker Hannifin (France)..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.455785.e', '1:grid.437242.4'), ('3:grid.474399.4', '1:grid.437242.4'), ('3:grid.474399.4', '2:grid.455785.e'), ('4:grid.481701.b', '1:grid.437242.4'), ('4:grid.481701.b', '2:grid.455785.e'), ('4:grid.481701.b', '3:grid.474399.4')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

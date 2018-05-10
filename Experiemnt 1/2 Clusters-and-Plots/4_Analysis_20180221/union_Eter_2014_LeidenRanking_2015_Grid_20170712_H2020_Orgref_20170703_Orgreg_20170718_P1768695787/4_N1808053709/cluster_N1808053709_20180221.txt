@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 14625 
+NAME    N1808053709
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/1583836>
+	<http://risis.eu/leidenRanking_2015/resource/2847>
+	<http://risis.eu/cordisH2020/resource/participant_994789903>
+	<http://www.grid.ac/institutes/grid.34555.32>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/1583836............ http://www.grid.ac/institutes/grid.34555.32................. 1........................................................... [Taras Shevchenko National University of Kyiv] was compared to [Taras Shevchenko National University of Kyiv] 
+	http://www.grid.ac/institutes/grid.34555.32................. http://risis.eu/orgref_20170703/resource/1583836............ 1........................................................... [Taras Shevchenko National University of Kyiv] was compared to [Taras Shevchenko National University of Kyiv] 
+	http://risis.eu/leidenRanking_2015/resource/2847............ http://www.grid.ac/institutes/grid.34555.32................. 1........................................................... [Taras Shevchenko National University of Kyiv] was compared to [Taras Shevchenko National University of Kyiv] 
+	http://www.grid.ac/institutes/grid.34555.32................. http://risis.eu/leidenRanking_2015/resource/2847............ 1........................................................... [Taras Shevchenko National University of Kyiv] was compared to [Taras Shevchenko National University of Kyiv] 
+	http://risis.eu/cordisH2020/resource/participant_994789903.. http://www.grid.ac/institutes/grid.34555.32................. 1........................................................... [Taras Shevchenko National University of Kyiv] was compared to [TARAS SHEVCHENKO NATIONAL UNIVERSITY OF KYIV] 
+	http://www.grid.ac/institutes/grid.34555.32................. http://risis.eu/cordisH2020/resource/participant_994789903.. 1........................................................... [Taras Shevchenko National University of Kyiv] was compared to [TARAS SHEVCHENKO NATIONAL UNIVERSITY OF KYIV] 
+	http://risis.eu/orgref_20170703/resource/1583836............ http://risis.eu/leidenRanking_2015/resource/2847............ 1........................................................... [Taras Shevchenko National University of Kyiv] was compared to [Taras Shevchenko National University of Kyiv] 
+	http://risis.eu/leidenRanking_2015/resource/2847............ http://risis.eu/orgref_20170703/resource/1583836............ 1........................................................... [Taras Shevchenko National University of Kyiv] was compared to [Taras Shevchenko National University of Kyiv] 
+	http://risis.eu/orgref_20170703/resource/1583836............ http://risis.eu/cordisH2020/resource/participant_994789903.. 1........................................................... [Taras Shevchenko National University of Kyiv] was compared to [TARAS SHEVCHENKO NATIONAL UNIVERSITY OF KYIV] 
+	http://risis.eu/cordisH2020/resource/participant_994789903.. http://risis.eu/orgref_20170703/resource/1583836............ 1........................................................... [Taras Shevchenko National University of Kyiv] was compared to [TARAS SHEVCHENKO NATIONAL UNIVERSITY OF KYIV] 
+	http://risis.eu/leidenRanking_2015/resource/2847............ http://risis.eu/cordisH2020/resource/participant_994789903.. 1........................................................... [TARAS SHEVCHENKO NATIONAL UNIVERSITY OF KYIV] was compared to [Taras Shevchenko National University of Kyiv] 
+	http://risis.eu/cordisH2020/resource/participant_994789903.. http://risis.eu/leidenRanking_2015/resource/2847............ 1........................................................... [TARAS SHEVCHENKO NATIONAL UNIVERSITY OF KYIV] was compared to [Taras Shevchenko National University of Kyiv] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/1583836............ http://en.wikipedia.org/wiki?curid=1583836.................. 
+	http://risis.eu/orgref_20170703/resource/1583836............ http://www.wikidata.org/wiki/Q84151......................... 
+	http://risis.eu/orgref_20170703/resource/1583836............ http://www.univ.kiev.ua..................................... 
+	http://risis.eu/orgref_20170703/resource/1583836............ Taras Shevchenko National University of Kyiv................ 
+	http://risis.eu/leidenRanking_2015/resource/2847............ Taras Shevchenko National University of Kyiv................ 
+	http://risis.eu/cordisH2020/resource/participant_994789903.. http://risis.eu/cordisH2020/resource/www.univ.kiev.ua....... 
+	http://risis.eu/cordisH2020/resource/participant_994789903.. TARAS SHEVCHENKO NATIONAL UNIVERSITY OF KYIV................ 
+	http://www.grid.ac/institutes/grid.34555.32................. 30.511314................................................... 
+	http://www.grid.ac/institutes/grid.34555.32................. 50.441902................................................... 
+	http://www.grid.ac/institutes/grid.34555.32................. http://www.univ.kiev.ua/en/................................. 
+	http://www.grid.ac/institutes/grid.34555.32................. Taras Shevchenko University................................. 
+	http://www.grid.ac/institutes/grid.34555.32................. Taras Shevchenko National University of Kyiv................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:1583836', '4:grid.34555.32'), ('2:2847', '1:1583836'), ('2:2847', '3:participant_994789903'), ('3:participant_994789903', '1:1583836'), ('3:participant_994789903', '4:grid.34555.32'), ('4:grid.34555.32', '2:2847')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

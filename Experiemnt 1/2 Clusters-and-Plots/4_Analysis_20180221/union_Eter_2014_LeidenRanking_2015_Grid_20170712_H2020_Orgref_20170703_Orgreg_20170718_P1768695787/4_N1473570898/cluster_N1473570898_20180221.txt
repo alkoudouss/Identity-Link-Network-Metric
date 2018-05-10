@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 8886 
+NAME    N1473570898
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/176767>
+	<http://risis.eu/leidenRanking_2015/resource/109>
+	<http://risis.eu/orgreg_20170718/resource/DK0001>
+	<http://www.grid.ac/institutes/grid.5254.6>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/176767.. http://www.grid.ac/institutes/grid.5254.6........ 1................................................ [University of Copenhagen] was compared to [University of Copenhagen] 
+	http://www.grid.ac/institutes/grid.5254.6........ http://risis.eu/orgref_20170703/resource/176767.. 1................................................ [University of Copenhagen] was compared to [University of Copenhagen] 
+	http://risis.eu/leidenRanking_2015/resource/109.. http://www.grid.ac/institutes/grid.5254.6........ 1................................................ [University of Copenhagen] was compared to [University of Copenhagen] 
+	http://www.grid.ac/institutes/grid.5254.6........ http://risis.eu/leidenRanking_2015/resource/109.. 1................................................ [University of Copenhagen] was compared to [University of Copenhagen] 
+	http://risis.eu/orgref_20170703/resource/176767.. http://risis.eu/leidenRanking_2015/resource/109.. 1................................................ [University of Copenhagen] was compared to [University of Copenhagen] 
+	http://risis.eu/leidenRanking_2015/resource/109.. http://risis.eu/orgref_20170703/resource/176767.. 1................................................ [University of Copenhagen] was compared to [University of Copenhagen] 
+	http://risis.eu/leidenRanking_2015/resource/109.. http://risis.eu/orgreg_20170718/resource/DK0001.. 1................................................ [University of Copenhagen] was compared to [University of Copenhagen] 
+	http://risis.eu/orgreg_20170718/resource/DK0001.. http://risis.eu/leidenRanking_2015/resource/109.. 1................................................ [University of Copenhagen] was compared to [University of Copenhagen] 
+	http://risis.eu/orgref_20170703/resource/176767.. http://risis.eu/orgreg_20170718/resource/DK0001.. 1................................................ [University of Copenhagen] was compared to [University of Copenhagen] 
+	http://risis.eu/orgreg_20170718/resource/DK0001.. http://risis.eu/orgref_20170703/resource/176767.. 1................................................ [University of Copenhagen] was compared to [University of Copenhagen] 
+	http://risis.eu/orgreg_20170718/resource/DK0001.. http://www.grid.ac/institutes/grid.5254.6........ 1................................................ [University of Copenhagen] was compared to [University of Copenhagen] 
+	http://www.grid.ac/institutes/grid.5254.6........ http://risis.eu/orgreg_20170718/resource/DK0001.. 1................................................ [University of Copenhagen] was compared to [University of Copenhagen] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/176767.. http://en.wikipedia.org/wiki?curid=176767........ 
+	http://risis.eu/orgref_20170703/resource/176767.. http://www.wikidata.org/wiki/Q186285............. 
+	http://risis.eu/orgref_20170703/resource/176767.. http://www.ku.dk/english......................... 
+	http://risis.eu/orgref_20170703/resource/176767.. University of Copenhagen......................... 
+	http://risis.eu/leidenRanking_2015/resource/109.. University of Copenhagen......................... 
+	http://risis.eu/orgreg_20170718/resource/DK0001.. 12.571031........................................ 
+	http://risis.eu/orgreg_20170718/resource/DK0001.. 55.680428........................................ 
+	http://risis.eu/orgreg_20170718/resource/DK0001.. http://www.ku.dk/english......................... 
+	http://risis.eu/orgreg_20170718/resource/DK0001.. University of Copenhagen......................... 
+	http://www.grid.ac/institutes/grid.5254.6........ 12.5725.......................................... 
+	http://www.grid.ac/institutes/grid.5254.6........ 55.67972......................................... 
+	http://www.grid.ac/institutes/grid.5254.6........ http://www.ku.dk/english/........................ 
+	http://www.grid.ac/institutes/grid.5254.6........ Københavns Universitet.......................... 
+	http://www.grid.ac/institutes/grid.5254.6........ University of Copenhagen......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:176767', '4:grid.5254.6'), ('2:109', '1:176767'), ('3:DK0001', '1:176767'), ('3:DK0001', '2:109'), ('3:DK0001', '4:grid.5254.6'), ('4:grid.5254.6', '2:109')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

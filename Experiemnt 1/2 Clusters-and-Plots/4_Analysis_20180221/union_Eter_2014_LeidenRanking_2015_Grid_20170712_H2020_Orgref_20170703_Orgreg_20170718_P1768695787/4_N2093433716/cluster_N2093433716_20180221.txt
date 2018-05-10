@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 17079 
+NAME    N2093433716
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.417796.a>
+	<http://www.grid.ac/institutes/grid.472859.5>
+	<http://www.grid.ac/institutes/grid.423732.3>
+	<http://www.grid.ac/institutes/grid.472858.4>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.417796.a.. http://www.grid.ac/institutes/grid.423732.3.. 1............................................ [Corning (United States)] was compared to [Corning (France)] 
+	http://www.grid.ac/institutes/grid.423732.3.. http://www.grid.ac/institutes/grid.417796.a.. 1............................................ [Corning (United States)] was compared to [Corning (France)] 
+	http://www.grid.ac/institutes/grid.417796.a.. http://www.grid.ac/institutes/grid.472859.5.. 1............................................ [Corning (United States)] was compared to [Corning (South Korea)] 
+	http://www.grid.ac/institutes/grid.472859.5.. http://www.grid.ac/institutes/grid.417796.a.. 1............................................ [Corning (United States)] was compared to [Corning (South Korea)] 
+	http://www.grid.ac/institutes/grid.417796.a.. http://www.grid.ac/institutes/grid.472858.4.. 1............................................ [Corning (United States)] was compared to [Corning (Israel)] 
+	http://www.grid.ac/institutes/grid.472858.4.. http://www.grid.ac/institutes/grid.417796.a.. 1............................................ [Corning (United States)] was compared to [Corning (Israel)] 
+	http://www.grid.ac/institutes/grid.472859.5.. http://www.grid.ac/institutes/grid.423732.3.. 1............................................ [Corning (France)] was compared to [Corning (South Korea)] 
+	http://www.grid.ac/institutes/grid.423732.3.. http://www.grid.ac/institutes/grid.472859.5.. 1............................................ [Corning (France)] was compared to [Corning (South Korea)] 
+	http://www.grid.ac/institutes/grid.423732.3.. http://www.grid.ac/institutes/grid.472858.4.. 1............................................ [Corning (France)] was compared to [Corning (Israel)] 
+	http://www.grid.ac/institutes/grid.472858.4.. http://www.grid.ac/institutes/grid.423732.3.. 1............................................ [Corning (France)] was compared to [Corning (Israel)] 
+	http://www.grid.ac/institutes/grid.472859.5.. http://www.grid.ac/institutes/grid.472858.4.. 1............................................ [Corning (Israel)] was compared to [Corning (South Korea)] 
+	http://www.grid.ac/institutes/grid.472858.4.. http://www.grid.ac/institutes/grid.472859.5.. 1............................................ [Corning (Israel)] was compared to [Corning (South Korea)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.417796.a.. -77.05594.................................... 
+	http://www.grid.ac/institutes/grid.417796.a.. 42.145393.................................... 
+	http://www.grid.ac/institutes/grid.417796.a.. http://www.corning.com/in/en.html............ 
+	http://www.grid.ac/institutes/grid.417796.a.. Corning Glass Works.......................... 
+	http://www.grid.ac/institutes/grid.417796.a.. Corning (United States)...................... 
+	http://www.grid.ac/institutes/grid.472859.5.. 127.03756.................................... 
+	http://www.grid.ac/institutes/grid.472859.5.. 37.50244..................................... 
+	http://www.grid.ac/institutes/grid.472859.5.. http://www.corning.com/in/en.html............ 
+	http://www.grid.ac/institutes/grid.472859.5.. Corning (South Korea)........................ 
+	http://www.grid.ac/institutes/grid.423732.3.. Corning (France)............................. 
+	http://www.grid.ac/institutes/grid.472858.4.. 34.912544.................................... 
+	http://www.grid.ac/institutes/grid.472858.4.. 31.988018.................................... 
+	http://www.grid.ac/institutes/grid.472858.4.. http://www.corning.com/in/en.html............ 
+	http://www.grid.ac/institutes/grid.472858.4.. Corning (Israel)............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.472859.5', '1:grid.417796.a'), ('2:grid.472859.5', '3:grid.423732.3'), ('2:grid.472859.5', '4:grid.472858.4'), ('3:grid.423732.3', '1:grid.417796.a'), ('4:grid.472858.4', '1:grid.417796.a'), ('4:grid.472858.4', '3:grid.423732.3')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

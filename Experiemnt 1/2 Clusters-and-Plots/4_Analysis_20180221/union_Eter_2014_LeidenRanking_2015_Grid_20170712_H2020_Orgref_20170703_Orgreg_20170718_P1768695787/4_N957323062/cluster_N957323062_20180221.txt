@@ -1,0 +1,60 @@
+SIZE    4   
+CLUSTER 13875 
+NAME    N957323062
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.442913.9>
+	<http://www.grid.ac/institutes/grid.448948.d>
+	<http://risis.eu/orgref_20170703/resource/34407962>
+	<http://risis.eu/orgref_20170703/resource/4775192>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.442913.9........ http://risis.eu/orgref_20170703/resource/4775192... 1.................................................. [Ganja State University] was compared to [Ganja State University] 
+	http://risis.eu/orgref_20170703/resource/4775192... http://www.grid.ac/institutes/grid.442913.9........ 1.................................................. [Ganja State University] was compared to [Ganja State University] 
+	http://www.grid.ac/institutes/grid.448948.d........ http://risis.eu/orgref_20170703/resource/34407962.. 1.................................................. [Gwanda State University] was compared to [Gwanda State University] 
+	http://risis.eu/orgref_20170703/resource/34407962.. http://www.grid.ac/institutes/grid.448948.d........ 1.................................................. [Gwanda State University] was compared to [Gwanda State University] 
+	http://risis.eu/orgref_20170703/resource/34407962.. http://risis.eu/orgref_20170703/resource/4775192... 0.913043478261..................................... [Gwanda State University] was compared to [Ganja State University] 
+	http://risis.eu/orgref_20170703/resource/4775192... http://risis.eu/orgref_20170703/resource/34407962.. 0.913043478261..................................... [Gwanda State University] was compared to [Ganja State University] 
+	http://www.grid.ac/institutes/grid.442913.9........ http://www.grid.ac/institutes/grid.448948.d........ 0.913043478261..................................... [Ganja State University] was compared to [Gwanda State University] 
+	http://www.grid.ac/institutes/grid.448948.d........ http://www.grid.ac/institutes/grid.442913.9........ 0.913043478261..................................... [Ganja State University] was compared to [Gwanda State University] 
+	http://www.grid.ac/institutes/grid.442913.9........ http://risis.eu/orgref_20170703/resource/34407962.. 0.913043478261..................................... [Ganja State University] was compared to [Gwanda State University] 
+	http://risis.eu/orgref_20170703/resource/34407962.. http://www.grid.ac/institutes/grid.442913.9........ 0.913043478261..................................... [Ganja State University] was compared to [Gwanda State University] 
+	http://www.grid.ac/institutes/grid.448948.d........ http://risis.eu/orgref_20170703/resource/4775192... 0.913043478261..................................... [Gwanda State University] was compared to [Ganja State University] 
+	http://risis.eu/orgref_20170703/resource/4775192... http://www.grid.ac/institutes/grid.448948.d........ 0.913043478261..................................... [Gwanda State University] was compared to [Ganja State University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 9 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.442913.9........ Ganja State University............................. 
+	http://www.grid.ac/institutes/grid.448948.d........ Gwanda State University............................ 
+	http://risis.eu/orgref_20170703/resource/34407962.. http://en.wikipedia.org/wiki?curid=34407962........ 
+	http://risis.eu/orgref_20170703/resource/34407962.. http://www.wikidata.org/wiki/Q5623285.............. 
+	http://risis.eu/orgref_20170703/resource/34407962.. Gwanda State University............................ 
+	http://risis.eu/orgref_20170703/resource/4775192... http://en.wikipedia.org/wiki?curid=4775192......... 
+	http://risis.eu/orgref_20170703/resource/4775192... http://www.wikidata.org/wiki/Q4153294.............. 
+	http://risis.eu/orgref_20170703/resource/4775192... http://www.gsu.az.................................. 
+	http://risis.eu/orgref_20170703/resource/4775192... Ganja State University............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.448948.d', '1:grid.442913.9'), ('3:34407962', '1:grid.442913.9'), ('3:34407962', '2:grid.448948.d'), ('4:4775192', '1:grid.442913.9'), ('4:4775192', '2:grid.448948.d'), ('4:4775192', '3:34407962')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

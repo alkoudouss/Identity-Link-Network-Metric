@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 17432 
+NAME    P206398381
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/30587127>
+	<http://risis.eu/orgreg_20170718/resource/EE0007>
+	<http://risis.eu/eter_2014/resource/EE0007>
+	<http://www.grid.ac/institutes/grid.445578.f>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/30587127.. http://www.grid.ac/institutes/grid.445578.f........ 1.................................................. [Estonian Business School] was compared to [Estonian Business School] 
+	http://www.grid.ac/institutes/grid.445578.f........ http://risis.eu/orgref_20170703/resource/30587127.. 1.................................................. [Estonian Business School] was compared to [Estonian Business School] 
+	http://risis.eu/eter_2014/resource/EE0007.......... http://www.grid.ac/institutes/grid.445578.f........ 1.................................................. [Estonian Business School] was compared to [Estonian Business School] 
+	http://www.grid.ac/institutes/grid.445578.f........ http://risis.eu/eter_2014/resource/EE0007.......... 1.................................................. [Estonian Business School] was compared to [Estonian Business School] 
+	http://risis.eu/orgref_20170703/resource/30587127.. http://risis.eu/eter_2014/resource/EE0007.......... 1.................................................. [Estonian Business School] was compared to [Estonian Business School] 
+	http://risis.eu/eter_2014/resource/EE0007.......... http://risis.eu/orgref_20170703/resource/30587127.. 1.................................................. [Estonian Business School] was compared to [Estonian Business School] 
+	http://risis.eu/orgreg_20170718/resource/EE0007.... http://risis.eu/eter_2014/resource/EE0007.......... 1.................................................. [Estonian Business School] was compared to [Estonian Business School] 
+	http://risis.eu/eter_2014/resource/EE0007.......... http://risis.eu/orgreg_20170718/resource/EE0007.... 1.................................................. [Estonian Business School] was compared to [Estonian Business School] 
+	http://risis.eu/orgref_20170703/resource/30587127.. http://risis.eu/orgreg_20170718/resource/EE0007.... 1.................................................. [Estonian Business School] was compared to [Estonian Business School] 
+	http://risis.eu/orgreg_20170718/resource/EE0007.... http://risis.eu/orgref_20170703/resource/30587127.. 1.................................................. [Estonian Business School] was compared to [Estonian Business School] 
+	http://risis.eu/orgreg_20170718/resource/EE0007.... http://www.grid.ac/institutes/grid.445578.f........ 1.................................................. [Estonian Business School] was compared to [Estonian Business School] 
+	http://www.grid.ac/institutes/grid.445578.f........ http://risis.eu/orgreg_20170718/resource/EE0007.... 1.................................................. [Estonian Business School] was compared to [Estonian Business School] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/30587127.. http://en.wikipedia.org/wiki?curid=30587127........ 
+	http://risis.eu/orgref_20170703/resource/30587127.. http://www.wikidata.org/wiki/Q3741208.............. 
+	http://risis.eu/orgref_20170703/resource/30587127.. http://www.ebs.ee/en............................... 
+	http://risis.eu/orgref_20170703/resource/30587127.. Estonian Business School........................... 
+	http://risis.eu/orgreg_20170718/resource/EE0007.... 24.754615.......................................... 
+	http://risis.eu/orgreg_20170718/resource/EE0007.... 59.431693.......................................... 
+	http://risis.eu/orgreg_20170718/resource/EE0007.... http://www.ebs.ee.................................. 
+	http://risis.eu/orgreg_20170718/resource/EE0007.... Estonian Business School........................... 
+	http://risis.eu/eter_2014/resource/EE0007.......... 59,431693.......................................... 
+	http://risis.eu/eter_2014/resource/EE0007.......... 24,754615.......................................... 
+	http://risis.eu/eter_2014/resource/EE0007.......... http://www.ebs.ee.................................. 
+	http://risis.eu/eter_2014/resource/EE0007.......... a.................................................. 
+	http://risis.eu/eter_2014/resource/EE0007.......... Estonian Business School........................... 
+	http://www.grid.ac/institutes/grid.445578.f........ Estonian Business School........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:EE0007', '1:30587127'), ('2:EE0007', '4:grid.445578.f'), ('3:EE0007', '1:30587127'), ('3:EE0007', '2:EE0007'), ('3:EE0007', '4:grid.445578.f'), ('4:grid.445578.f', '1:30587127')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 13972 
+NAME    N1554067418
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/13112411>
+	<http://risis.eu/leidenRanking_2015/resource/718>
+	<http://www.grid.ac/institutes/grid.34538.39>
+	<http://risis.eu/eter_2014/resource/TR0098>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/13112411.. http://www.grid.ac/institutes/grid.34538.39........ 1.................................................. [Uludağ University] was compared to [Uludağ University] 
+	http://www.grid.ac/institutes/grid.34538.39........ http://risis.eu/orgref_20170703/resource/13112411.. 1.................................................. [Uludağ University] was compared to [Uludağ University] 
+	http://risis.eu/leidenRanking_2015/resource/718.... http://www.grid.ac/institutes/grid.34538.39........ 1.................................................. [Uludağ University] was compared to [Uludag University] 
+	http://www.grid.ac/institutes/grid.34538.39........ http://risis.eu/leidenRanking_2015/resource/718.... 1.................................................. [Uludağ University] was compared to [Uludag University] 
+	http://risis.eu/orgref_20170703/resource/13112411.. http://risis.eu/leidenRanking_2015/resource/718.... 1.................................................. [Uludağ University] was compared to [Uludag University] 
+	http://risis.eu/leidenRanking_2015/resource/718.... http://risis.eu/orgref_20170703/resource/13112411.. 1.................................................. [Uludağ University] was compared to [Uludag University] 
+	http://risis.eu/leidenRanking_2015/resource/718.... http://risis.eu/eter_2014/resource/TR0098.......... 0.842105263158..................................... [ULUDAG ÜNIVERSITESI] was compared to [Uludag University] 
+	http://risis.eu/eter_2014/resource/TR0098.......... http://risis.eu/leidenRanking_2015/resource/718.... 0.842105263158..................................... [ULUDAG ÜNIVERSITESI] was compared to [Uludag University] 
+	http://risis.eu/orgref_20170703/resource/13112411.. http://risis.eu/eter_2014/resource/TR0098.......... 0.842105263158..................................... [Uludağ University] was compared to [ULUDAG ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0098.......... http://risis.eu/orgref_20170703/resource/13112411.. 0.842105263158..................................... [Uludağ University] was compared to [ULUDAG ÜNIVERSITESI] 
+	http://www.grid.ac/institutes/grid.34538.39........ http://risis.eu/eter_2014/resource/TR0098.......... 0.842105263158..................................... [Uludağ University] was compared to [ULUDAG ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0098.......... http://www.grid.ac/institutes/grid.34538.39........ 0.842105263158..................................... [Uludağ University] was compared to [ULUDAG ÜNIVERSITESI] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/13112411.. http://en.wikipedia.org/wiki?curid=13112411........ 
+	http://risis.eu/orgref_20170703/resource/13112411.. http://www.wikidata.org/wiki/Q3247377.............. 
+	http://risis.eu/orgref_20170703/resource/13112411.. http://www.uludag.edu.tr........................... 
+	http://risis.eu/orgref_20170703/resource/13112411.. Uludağ University................................. 
+	http://risis.eu/leidenRanking_2015/resource/718.... Uludag University.................................. 
+	http://www.grid.ac/institutes/grid.34538.39........ 28.87.............................................. 
+	http://www.grid.ac/institutes/grid.34538.39........ 40.2189............................................ 
+	http://www.grid.ac/institutes/grid.34538.39........ http://www.uludag.edu.tr/.......................... 
+	http://www.grid.ac/institutes/grid.34538.39........ Uludağ Üniversitesi.............................. 
+	http://www.grid.ac/institutes/grid.34538.39........ Uludağ University................................. 
+	http://risis.eu/eter_2014/resource/TR0098.......... 29,34904........................................... 
+	http://risis.eu/eter_2014/resource/TR0098.......... -81,791479......................................... 
+	http://risis.eu/eter_2014/resource/TR0098.......... http://www.uludag.edu.tr/.......................... 
+	http://risis.eu/eter_2014/resource/TR0098.......... a.................................................. 
+	http://risis.eu/eter_2014/resource/TR0098.......... Uludag University.................................. 
+	http://risis.eu/eter_2014/resource/TR0098.......... ULUDAG ÜNIVERSITESI............................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:13112411', '3:grid.34538.39'), ('2:718', '1:13112411'), ('2:718', '3:grid.34538.39'), ('2:718', '4:TR0098'), ('4:TR0098', '1:13112411'), ('4:TR0098', '3:grid.34538.39')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

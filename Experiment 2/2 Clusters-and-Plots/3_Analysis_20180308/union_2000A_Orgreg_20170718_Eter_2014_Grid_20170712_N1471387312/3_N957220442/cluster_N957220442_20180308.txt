@@ -1,0 +1,58 @@
+SIZE    3   
+CLUSTER 1224 
+NAME    N957220442
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/PL0327>
+	<http://www.grid.ac/institutes/grid.466210.7>
+	<http://risis.eu/eter_2014/resource/PL0299>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/PL0327.... http://www.grid.ac/institutes/grid.466210.7.. 0.833333333333............................... [university bydgoszcz bsw] was compared to [university bydgoszcz] 
+	http://www.grid.ac/institutes/grid.466210.7.. http://risis.eu/eter_2014/resource/PL0299.... 0.714285714286............................... [university economy bydgoszcz] was compared to [university bydgoszcz] 
+	http://www.grid.ac/institutes/grid.466210.7.. http://risis.eu/eter_2014/resource/PL0327.... 0.833333333333............................... [university bydgoszcz bsw] was compared to [university bydgoszcz] 
+	http://risis.eu/eter_2014/resource/PL0299.... http://www.grid.ac/institutes/grid.466210.7.. 0.714285714286............................... [university economy bydgoszcz] was compared to [university bydgoszcz] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/PL0327.... 53,132568.................................... 
+	http://risis.eu/eter_2014/resource/PL0327.... 17,989174.................................... 
+	http://risis.eu/eter_2014/resource/PL0327.... http://bsw.edu.pl/........................... 
+	http://risis.eu/eter_2014/resource/PL0327.... a............................................ 
+	http://risis.eu/eter_2014/resource/PL0327.... University of Bydgoszcz BSW.................. 
+	http://risis.eu/eter_2014/resource/PL0327.... Bydgoska Szkoła Wyższa..................... 
+	http://www.grid.ac/institutes/grid.466210.7.. 17.991438.................................... 
+	http://www.grid.ac/institutes/grid.466210.7.. 53.13277..................................... 
+	http://www.grid.ac/institutes/grid.466210.7.. http://bsw.edu.pl/........................... 
+	http://www.grid.ac/institutes/grid.466210.7.. University of Bydgoszcz...................... 
+	http://risis.eu/eter_2014/resource/PL0299.... 53,127623.................................... 
+	http://risis.eu/eter_2014/resource/PL0299.... 17,992622.................................... 
+	http://risis.eu/eter_2014/resource/PL0299.... http://www.wsg.byd.pl/....................... 
+	http://risis.eu/eter_2014/resource/PL0299.... a............................................ 
+	http://risis.eu/eter_2014/resource/PL0299.... The University of Economy Bydgoszcz.......... 
+	http://risis.eu/eter_2014/resource/PL0299.... Wyższa Szkoła Gospodarki w Bydgoszczy...... 
+
+NETWORK ANALYSIS
+	NETWORK [('P1195334956-PL0327', 'P255185686-grid.466210.7'), ('N957220442-PL0299', 'P255185686-grid.466210.7')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

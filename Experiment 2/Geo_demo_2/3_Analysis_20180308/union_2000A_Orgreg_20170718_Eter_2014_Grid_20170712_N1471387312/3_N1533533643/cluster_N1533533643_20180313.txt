@@ -1,0 +1,57 @@
+SIZE    3   
+CLUSTER 1584 
+NAME    N1533533643
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/BE0005>
+	<http://www.grid.ac/institutes/grid.6520.1>
+	<http://risis.eu/orgreg_20170718/resource/BE0005>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/eter_2014/resource/BE0005........ http://www.grid.ac/institutes/grid.6520.1........ 0.9375........................................... [universite namur] was compared to [university namur] 
+	http://risis.eu/eter_2014/resource/BE0005........ http://risis.eu/orgreg_20170718/resource/BE0005.. 1................................................ [universite namur] was compared to [universite namur] 
+	http://www.grid.ac/institutes/grid.6520.1........ http://risis.eu/eter_2014/resource/BE0005........ 0.9375........................................... [universite namur] was compared to [university namur] 
+	http://www.grid.ac/institutes/grid.6520.1........ http://risis.eu/orgreg_20170718/resource/BE0005.. 0.9375........................................... [universite namur] was compared to [university namur] 
+	http://risis.eu/orgreg_20170718/resource/BE0005.. http://www.grid.ac/institutes/grid.6520.1........ 0.9375........................................... [universite namur] was compared to [university namur] 
+	http://risis.eu/orgreg_20170718/resource/BE0005.. http://risis.eu/eter_2014/resource/BE0005........ 1................................................ [universite namur] was compared to [universite namur] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/eter_2014/resource/BE0005........ 50,459267........................................ 
+	http://risis.eu/eter_2014/resource/BE0005........ 4,850457......................................... 
+	http://risis.eu/eter_2014/resource/BE0005........ http://www.unamur.be............................. 
+	http://risis.eu/eter_2014/resource/BE0005........ a................................................ 
+	http://risis.eu/eter_2014/resource/BE0005........ Université de Namur............................. 
+	http://www.grid.ac/institutes/grid.6520.1........ 4.860024......................................... 
+	http://www.grid.ac/institutes/grid.6520.1........ 50.46779......................................... 
+	http://www.grid.ac/institutes/grid.6520.1........ https://www.unamur.be/en......................... 
+	http://www.grid.ac/institutes/grid.6520.1........ University of Namur.............................. 
+	http://risis.eu/orgreg_20170718/resource/BE0005.. 4.850457......................................... 
+	http://risis.eu/orgreg_20170718/resource/BE0005.. 50.459267........................................ 
+	http://risis.eu/orgreg_20170718/resource/BE0005.. http://www.unamur.be............................. 
+	http://risis.eu/orgreg_20170718/resource/BE0005.. Université de Namur............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('N845771824-BE0005', 'N1533533643-BE0005'), ('N1533533643-BE0005', 'P993645802-grid.6520.1'), ('N845771824-BE0005', 'P993645802-grid.6520.1')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

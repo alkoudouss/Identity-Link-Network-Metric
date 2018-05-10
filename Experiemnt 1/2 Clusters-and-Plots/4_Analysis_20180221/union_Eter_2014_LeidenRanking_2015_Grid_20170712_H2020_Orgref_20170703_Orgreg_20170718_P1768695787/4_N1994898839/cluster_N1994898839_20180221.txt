@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 5764 
+NAME    N1994898839
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.449399.a>
+	<http://risis.eu/orgref_20170703/resource/561696>
+	<http://risis.eu/orgref_20170703/resource/22280755>
+	<http://www.grid.ac/institutes/grid.264119.9>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.449399.a........ http://www.grid.ac/institutes/grid.264119.9........ 1.................................................. [St. Lawrence University] was compared to [St. Lawrence University] 
+	http://www.grid.ac/institutes/grid.264119.9........ http://www.grid.ac/institutes/grid.449399.a........ 1.................................................. [St. Lawrence University] was compared to [St. Lawrence University] 
+	http://risis.eu/orgref_20170703/resource/22280755.. http://www.grid.ac/institutes/grid.264119.9........ 1.................................................. [St. Lawrence University] was compared to [St. Lawrence University (Uganda)] 
+	http://www.grid.ac/institutes/grid.264119.9........ http://risis.eu/orgref_20170703/resource/22280755.. 1.................................................. [St. Lawrence University] was compared to [St. Lawrence University (Uganda)] 
+	http://risis.eu/orgref_20170703/resource/561696.... http://www.grid.ac/institutes/grid.264119.9........ 1.................................................. [St. Lawrence University] was compared to [St. Lawrence University] 
+	http://www.grid.ac/institutes/grid.264119.9........ http://risis.eu/orgref_20170703/resource/561696.... 1.................................................. [St. Lawrence University] was compared to [St. Lawrence University] 
+	http://www.grid.ac/institutes/grid.449399.a........ http://risis.eu/orgref_20170703/resource/22280755.. 1.................................................. [St. Lawrence University] was compared to [St. Lawrence University (Uganda)] 
+	http://risis.eu/orgref_20170703/resource/22280755.. http://www.grid.ac/institutes/grid.449399.a........ 1.................................................. [St. Lawrence University] was compared to [St. Lawrence University (Uganda)] 
+	http://www.grid.ac/institutes/grid.449399.a........ http://risis.eu/orgref_20170703/resource/561696.... 1.................................................. [St. Lawrence University] was compared to [St. Lawrence University] 
+	http://risis.eu/orgref_20170703/resource/561696.... http://www.grid.ac/institutes/grid.449399.a........ 1.................................................. [St. Lawrence University] was compared to [St. Lawrence University] 
+	http://risis.eu/orgref_20170703/resource/561696.... http://risis.eu/orgref_20170703/resource/22280755.. 1.................................................. [St. Lawrence University (Uganda)] was compared to [St. Lawrence University] 
+	http://risis.eu/orgref_20170703/resource/22280755.. http://risis.eu/orgref_20170703/resource/561696.... 1.................................................. [St. Lawrence University (Uganda)] was compared to [St. Lawrence University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.449399.a........ St. Lawrence University............................ 
+	http://risis.eu/orgref_20170703/resource/561696.... http://en.wikipedia.org/wiki?curid=561696.......... 
+	http://risis.eu/orgref_20170703/resource/561696.... http://www.wikidata.org/wiki/Q1411093.............. 
+	http://risis.eu/orgref_20170703/resource/561696.... http://www.stlawu.edu.............................. 
+	http://risis.eu/orgref_20170703/resource/561696.... St. Lawrence University............................ 
+	http://risis.eu/orgref_20170703/resource/22280755.. http://en.wikipedia.org/wiki?curid=22280755........ 
+	http://risis.eu/orgref_20170703/resource/22280755.. http://www.wikidata.org/wiki/Q7589504.............. 
+	http://risis.eu/orgref_20170703/resource/22280755.. http://www.slau.ac.ug.............................. 
+	http://risis.eu/orgref_20170703/resource/22280755.. St. Lawrence University (Uganda)................... 
+	http://www.grid.ac/institutes/grid.264119.9........ -75.16028.......................................... 
+	http://www.grid.ac/institutes/grid.264119.9........ 44.592777.......................................... 
+	http://www.grid.ac/institutes/grid.264119.9........ http://www.stlawu.edu/............................. 
+	http://www.grid.ac/institutes/grid.264119.9........ St. Lawrence University............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.449399.a', '4:grid.264119.9'), ('2:561696', '1:grid.449399.a'), ('3:22280755', '1:grid.449399.a'), ('3:22280755', '2:561696'), ('3:22280755', '4:grid.264119.9'), ('4:grid.264119.9', '2:561696')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

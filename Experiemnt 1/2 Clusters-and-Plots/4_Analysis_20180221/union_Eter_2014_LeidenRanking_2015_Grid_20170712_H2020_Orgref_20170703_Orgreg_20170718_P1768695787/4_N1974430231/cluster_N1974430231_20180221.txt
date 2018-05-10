@@ -1,0 +1,60 @@
+SIZE    4   
+CLUSTER 6557 
+NAME    N1974430231
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.417776.4>
+	<http://risis.eu/cordisH2020/resource/participant_999554252>
+	<http://risis.eu/leidenRanking_2015/resource/15100>
+	<http://risis.eu/orgreg_20170718/resource/IT2028>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.417776.4................. http://risis.eu/leidenRanking_2015/resource/15100........... 0.823529411765.............................................. [Istituto Ortopedico Galeazzi] was compared to [IRCCS Istituto Ortopedico Galeazzi] 
+	http://risis.eu/leidenRanking_2015/resource/15100........... http://www.grid.ac/institutes/grid.417776.4................. 0.823529411765.............................................. [Istituto Ortopedico Galeazzi] was compared to [IRCCS Istituto Ortopedico Galeazzi] 
+	http://www.grid.ac/institutes/grid.417776.4................. http://risis.eu/cordisH2020/resource/participant_999554252.. 1........................................................... [Istituto Ortopedico Galeazzi] was compared to [ISTITUTO ORTOPEDICO GALEAZZI] 
+	http://risis.eu/cordisH2020/resource/participant_999554252.. http://www.grid.ac/institutes/grid.417776.4................. 1........................................................... [Istituto Ortopedico Galeazzi] was compared to [ISTITUTO ORTOPEDICO GALEAZZI] 
+	http://risis.eu/cordisH2020/resource/participant_999554252.. http://risis.eu/leidenRanking_2015/resource/15100........... 0.823529411765.............................................. [ISTITUTO ORTOPEDICO GALEAZZI] was compared to [IRCCS Istituto Ortopedico Galeazzi] 
+	http://risis.eu/leidenRanking_2015/resource/15100........... http://risis.eu/cordisH2020/resource/participant_999554252.. 0.823529411765.............................................. [ISTITUTO ORTOPEDICO GALEAZZI] was compared to [IRCCS Istituto Ortopedico Galeazzi] 
+	http://risis.eu/leidenRanking_2015/resource/15100........... http://risis.eu/orgreg_20170718/resource/IT2028............. 0.823529411765.............................................. [Istituto Ortopedico Galeazzi] was compared to [IRCCS Istituto Ortopedico Galeazzi] 
+	http://risis.eu/orgreg_20170718/resource/IT2028............. http://risis.eu/leidenRanking_2015/resource/15100........... 0.823529411765.............................................. [Istituto Ortopedico Galeazzi] was compared to [IRCCS Istituto Ortopedico Galeazzi] 
+	http://risis.eu/cordisH2020/resource/participant_999554252.. http://risis.eu/orgreg_20170718/resource/IT2028............. 1........................................................... [Istituto Ortopedico Galeazzi] was compared to [ISTITUTO ORTOPEDICO GALEAZZI] 
+	http://risis.eu/orgreg_20170718/resource/IT2028............. http://risis.eu/cordisH2020/resource/participant_999554252.. 1........................................................... [Istituto Ortopedico Galeazzi] was compared to [ISTITUTO ORTOPEDICO GALEAZZI] 
+	http://www.grid.ac/institutes/grid.417776.4................. http://risis.eu/orgreg_20170718/resource/IT2028............. 1........................................................... [Istituto Ortopedico Galeazzi] was compared to [Istituto Ortopedico Galeazzi] 
+	http://risis.eu/orgreg_20170718/resource/IT2028............. http://www.grid.ac/institutes/grid.417776.4................. 1........................................................... [Istituto Ortopedico Galeazzi] was compared to [Istituto Ortopedico Galeazzi] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 9 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.417776.4................. 9.173634.................................................... 
+	http://www.grid.ac/institutes/grid.417776.4................. 45.523037................................................... 
+	http://www.grid.ac/institutes/grid.417776.4................. http://www.galeazzi-gsd.it/................................. 
+	http://www.grid.ac/institutes/grid.417776.4................. Istituto Ortopedico Galeazzi................................ 
+	http://risis.eu/cordisH2020/resource/participant_999554252.. ISTITUTO ORTOPEDICO GALEAZZI................................ 
+	http://risis.eu/leidenRanking_2015/resource/15100........... IRCCS Istituto Ortopedico Galeazzi.......................... 
+	http://risis.eu/orgreg_20170718/resource/IT2028............. m........................................................... 
+	http://risis.eu/orgreg_20170718/resource/IT2028............. https://galeazzi.grupposandonato.it/........................ 
+	http://risis.eu/orgreg_20170718/resource/IT2028............. Istituto Ortopedico Galeazzi................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_999554252', '1:grid.417776.4'), ('2:participant_999554252', '4:IT2028'), ('3:15100', '1:grid.417776.4'), ('3:15100', '2:participant_999554252'), ('4:IT2028', '1:grid.417776.4'), ('4:IT2028', '3:15100')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

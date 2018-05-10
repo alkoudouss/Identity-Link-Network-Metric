@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 8406 
+NAME    N1540348062
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.1008.9>
+	<http://risis.eu/orgref_20170703/resource/363594>
+	<http://risis.eu/leidenRanking_2015/resource/1058>
+	<http://risis.eu/cordisH2020/resource/participant_999658818>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.1008.9................... http://risis.eu/orgref_20170703/resource/363594............. 1........................................................... [University of Melbourne] was compared to [University of Melbourne] 
+	http://risis.eu/orgref_20170703/resource/363594............. http://www.grid.ac/institutes/grid.1008.9................... 1........................................................... [University of Melbourne] was compared to [University of Melbourne] 
+	http://www.grid.ac/institutes/grid.1008.9................... http://risis.eu/leidenRanking_2015/resource/1058............ 1........................................................... [University of Melbourne] was compared to [University of Melbourne] 
+	http://risis.eu/leidenRanking_2015/resource/1058............ http://www.grid.ac/institutes/grid.1008.9................... 1........................................................... [University of Melbourne] was compared to [University of Melbourne] 
+	http://www.grid.ac/institutes/grid.1008.9................... http://risis.eu/cordisH2020/resource/participant_999658818.. 1........................................................... [University of Melbourne] was compared to [UNIVERSITY OF MELBOURNE] 
+	http://risis.eu/cordisH2020/resource/participant_999658818.. http://www.grid.ac/institutes/grid.1008.9................... 1........................................................... [University of Melbourne] was compared to [UNIVERSITY OF MELBOURNE] 
+	http://risis.eu/orgref_20170703/resource/363594............. http://risis.eu/leidenRanking_2015/resource/1058............ 1........................................................... [University of Melbourne] was compared to [University of Melbourne] 
+	http://risis.eu/leidenRanking_2015/resource/1058............ http://risis.eu/orgref_20170703/resource/363594............. 1........................................................... [University of Melbourne] was compared to [University of Melbourne] 
+	http://risis.eu/orgref_20170703/resource/363594............. http://risis.eu/cordisH2020/resource/participant_999658818.. 1........................................................... [University of Melbourne] was compared to [UNIVERSITY OF MELBOURNE] 
+	http://risis.eu/cordisH2020/resource/participant_999658818.. http://risis.eu/orgref_20170703/resource/363594............. 1........................................................... [University of Melbourne] was compared to [UNIVERSITY OF MELBOURNE] 
+	http://risis.eu/leidenRanking_2015/resource/1058............ http://risis.eu/cordisH2020/resource/participant_999658818.. 1........................................................... [UNIVERSITY OF MELBOURNE] was compared to [University of Melbourne] 
+	http://risis.eu/cordisH2020/resource/participant_999658818.. http://risis.eu/leidenRanking_2015/resource/1058............ 1........................................................... [UNIVERSITY OF MELBOURNE] was compared to [University of Melbourne] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.1008.9................... 144.95998................................................... 
+	http://www.grid.ac/institutes/grid.1008.9................... -37.797115.................................................. 
+	http://www.grid.ac/institutes/grid.1008.9................... http://www.unimelb.edu.au/.................................. 
+	http://www.grid.ac/institutes/grid.1008.9................... Melbourne University........................................ 
+	http://www.grid.ac/institutes/grid.1008.9................... University of Melbourne..................................... 
+	http://risis.eu/orgref_20170703/resource/363594............. http://en.wikipedia.org/wiki?curid=363594................... 
+	http://risis.eu/orgref_20170703/resource/363594............. http://www.wikidata.org/wiki/Q319078........................ 
+	http://risis.eu/orgref_20170703/resource/363594............. http://unimelb.edu.au....................................... 
+	http://risis.eu/orgref_20170703/resource/363594............. University of Melbourne..................................... 
+	http://risis.eu/leidenRanking_2015/resource/1058............ University of Melbourne..................................... 
+	http://risis.eu/cordisH2020/resource/participant_999658818.. http://risis.eu/cordisH2020/resource/www.unimelb.edu.au..... 
+	http://risis.eu/cordisH2020/resource/participant_999658818.. UNIVERSITY OF MELBOURNE..................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:363594', '1:grid.1008.9'), ('3:1058', '1:grid.1008.9'), ('3:1058', '2:363594'), ('4:participant_999658818', '1:grid.1008.9'), ('4:participant_999658818', '2:363594'), ('4:participant_999658818', '3:1058')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

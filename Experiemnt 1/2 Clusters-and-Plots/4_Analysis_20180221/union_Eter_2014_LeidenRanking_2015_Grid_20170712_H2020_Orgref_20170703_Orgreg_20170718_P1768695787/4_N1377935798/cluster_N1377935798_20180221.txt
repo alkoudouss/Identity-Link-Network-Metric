@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 14201 
+NAME    N1377935798
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.422211.6>
+	<http://risis.eu/orgref_20170703/resource/3851106>
+	<http://www.grid.ac/institutes/grid.423102.6>
+	<http://risis.eu/orgref_20170703/resource/505934>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/3851106.. http://www.grid.ac/institutes/grid.423102.6....... 1................................................. [Piedmont Technical College] was compared to [Piedmont Technical College] 
+	http://www.grid.ac/institutes/grid.423102.6....... http://risis.eu/orgref_20170703/resource/3851106.. 1................................................. [Piedmont Technical College] was compared to [Piedmont Technical College] 
+	http://www.grid.ac/institutes/grid.422211.6....... http://risis.eu/orgref_20170703/resource/505934... 1................................................. [Vermont Technical College] was compared to [Vermont Technical College] 
+	http://risis.eu/orgref_20170703/resource/505934... http://www.grid.ac/institutes/grid.422211.6....... 1................................................. [Vermont Technical College] was compared to [Vermont Technical College] 
+	http://risis.eu/orgref_20170703/resource/3851106.. http://risis.eu/orgref_20170703/resource/505934... 0.884615384615.................................... [Piedmont Technical College] was compared to [Vermont Technical College] 
+	http://risis.eu/orgref_20170703/resource/505934... http://risis.eu/orgref_20170703/resource/3851106.. 0.884615384615.................................... [Piedmont Technical College] was compared to [Vermont Technical College] 
+	http://www.grid.ac/institutes/grid.422211.6....... http://www.grid.ac/institutes/grid.423102.6....... 0.884615384615.................................... [Vermont Technical College] was compared to [Piedmont Technical College] 
+	http://www.grid.ac/institutes/grid.423102.6....... http://www.grid.ac/institutes/grid.422211.6....... 0.884615384615.................................... [Vermont Technical College] was compared to [Piedmont Technical College] 
+	http://www.grid.ac/institutes/grid.423102.6....... http://risis.eu/orgref_20170703/resource/505934... 0.884615384615.................................... [Piedmont Technical College] was compared to [Vermont Technical College] 
+	http://risis.eu/orgref_20170703/resource/505934... http://www.grid.ac/institutes/grid.423102.6....... 0.884615384615.................................... [Piedmont Technical College] was compared to [Vermont Technical College] 
+	http://www.grid.ac/institutes/grid.422211.6....... http://risis.eu/orgref_20170703/resource/3851106.. 0.884615384615.................................... [Vermont Technical College] was compared to [Piedmont Technical College] 
+	http://risis.eu/orgref_20170703/resource/3851106.. http://www.grid.ac/institutes/grid.422211.6....... 0.884615384615.................................... [Vermont Technical College] was compared to [Piedmont Technical College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.422211.6....... -72.60518......................................... 
+	http://www.grid.ac/institutes/grid.422211.6....... 43.93932.......................................... 
+	http://www.grid.ac/institutes/grid.422211.6....... http://www.vtc.edu/............................... 
+	http://www.grid.ac/institutes/grid.422211.6....... Vermont Tech...................................... 
+	http://www.grid.ac/institutes/grid.422211.6....... Vermont Technical College......................... 
+	http://risis.eu/orgref_20170703/resource/3851106.. http://en.wikipedia.org/wiki?curid=3851106........ 
+	http://risis.eu/orgref_20170703/resource/3851106.. http://www.wikidata.org/wiki/Q7191535............. 
+	http://risis.eu/orgref_20170703/resource/3851106.. http://www.ptc.edu................................ 
+	http://risis.eu/orgref_20170703/resource/3851106.. Piedmont Technical College........................ 
+	http://www.grid.ac/institutes/grid.423102.6....... -82.12172......................................... 
+	http://www.grid.ac/institutes/grid.423102.6....... 34.206276......................................... 
+	http://www.grid.ac/institutes/grid.423102.6....... http://www.ptc.edu/............................... 
+	http://www.grid.ac/institutes/grid.423102.6....... Piedmont Technical College........................ 
+	http://risis.eu/orgref_20170703/resource/505934... http://en.wikipedia.org/wiki?curid=505934......... 
+	http://risis.eu/orgref_20170703/resource/505934... http://www.wikidata.org/wiki/Q7921788............. 
+	http://risis.eu/orgref_20170703/resource/505934... http://www.vtc.edu................................ 
+	http://risis.eu/orgref_20170703/resource/505934... Vermont Technical College......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:3851106', '1:grid.422211.6'), ('2:3851106', '3:grid.423102.6'), ('3:grid.423102.6', '1:grid.422211.6'), ('4:505934', '1:grid.422211.6'), ('4:505934', '2:3851106'), ('4:505934', '3:grid.423102.6')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 1379 
+NAME    N1042757822
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/IT0035>
+	<http://risis.eu/eter_2014/resource/IT0035>
+	<http://risis.eu/cordisH2020/resource/participant_999879881>
+	<http://risis.eu/leidenRanking_2015/resource/426>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_999879881.. http://risis.eu/leidenRanking_2015/resource/426............. 1........................................................... [POLITECNICO DI MILANO] was compared to [Politecnico di Milano] 
+	http://risis.eu/leidenRanking_2015/resource/426............. http://risis.eu/cordisH2020/resource/participant_999879881.. 1........................................................... [POLITECNICO DI MILANO] was compared to [Politecnico di Milano] 
+	http://risis.eu/eter_2014/resource/IT0035................... http://risis.eu/cordisH2020/resource/participant_999879881.. 1........................................................... [POLITECNICO DI MILANO] was compared to [Politecnico di MILANO] 
+	http://risis.eu/cordisH2020/resource/participant_999879881.. http://risis.eu/eter_2014/resource/IT0035................... 1........................................................... [POLITECNICO DI MILANO] was compared to [Politecnico di MILANO] 
+	http://risis.eu/eter_2014/resource/IT0035................... http://risis.eu/leidenRanking_2015/resource/426............. 1........................................................... [Politecnico di MILANO] was compared to [Politecnico di Milano] 
+	http://risis.eu/leidenRanking_2015/resource/426............. http://risis.eu/eter_2014/resource/IT0035................... 1........................................................... [Politecnico di MILANO] was compared to [Politecnico di Milano] 
+	http://risis.eu/orgreg_20170718/resource/IT0035............. http://risis.eu/leidenRanking_2015/resource/426............. 1........................................................... [Politecnico di Milano] was compared to [Politecnico di Milano] 
+	http://risis.eu/leidenRanking_2015/resource/426............. http://risis.eu/orgreg_20170718/resource/IT0035............. 1........................................................... [Politecnico di Milano] was compared to [Politecnico di Milano] 
+	http://risis.eu/orgreg_20170718/resource/IT0035............. http://risis.eu/cordisH2020/resource/participant_999879881.. 1........................................................... [Politecnico di Milano] was compared to [POLITECNICO DI MILANO] 
+	http://risis.eu/cordisH2020/resource/participant_999879881.. http://risis.eu/orgreg_20170718/resource/IT0035............. 1........................................................... [Politecnico di Milano] was compared to [POLITECNICO DI MILANO] 
+	http://risis.eu/orgreg_20170718/resource/IT0035............. http://risis.eu/eter_2014/resource/IT0035................... 1........................................................... [Politecnico di Milano] was compared to [Politecnico di MILANO] 
+	http://risis.eu/eter_2014/resource/IT0035................... http://risis.eu/orgreg_20170718/resource/IT0035............. 1........................................................... [Politecnico di Milano] was compared to [Politecnico di MILANO] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgreg_20170718/resource/IT0035............. 45.47137.................................................... 
+	http://risis.eu/orgreg_20170718/resource/IT0035............. 9.229693.................................................... 
+	http://risis.eu/orgreg_20170718/resource/IT0035............. http://www.polimi.it........................................ 
+	http://risis.eu/orgreg_20170718/resource/IT0035............. Politecnico di Milano....................................... 
+	http://risis.eu/eter_2014/resource/IT0035................... 45,47137.................................................... 
+	http://risis.eu/eter_2014/resource/IT0035................... 9,229693.................................................... 
+	http://risis.eu/eter_2014/resource/IT0035................... http://www.polimi.it........................................ 
+	http://risis.eu/eter_2014/resource/IT0035................... a........................................................... 
+	http://risis.eu/eter_2014/resource/IT0035................... Politecnico di Milano....................................... 
+	http://risis.eu/eter_2014/resource/IT0035................... Politecnico di MILANO....................................... 
+	http://risis.eu/cordisH2020/resource/participant_999879881.. http://risis.eu/cordisH2020/resource/www.polimi.it.......... 
+	http://risis.eu/cordisH2020/resource/participant_999879881.. POLITECNICO DI MILANO....................................... 
+	http://risis.eu/leidenRanking_2015/resource/426............. Politecnico di Milano....................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:IT0035', '1:IT0035'), ('3:participant_999879881', '1:IT0035'), ('3:participant_999879881', '2:IT0035'), ('4:426', '1:IT0035'), ('4:426', '2:IT0035'), ('4:426', '3:participant_999879881')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

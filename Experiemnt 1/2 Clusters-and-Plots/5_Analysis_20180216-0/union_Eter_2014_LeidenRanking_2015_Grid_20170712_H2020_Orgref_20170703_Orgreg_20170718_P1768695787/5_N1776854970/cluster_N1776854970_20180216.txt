@@ -1,0 +1,75 @@
+SIZE    5   
+CLUSTER 12083 
+NAME    N1776854970
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.440820.a>
+	<http://risis.eu/eter_2014/resource/ES0073>
+	<http://risis.eu/orgreg_20170718/resource/ES0073>
+	<http://risis.eu/orgref_20170703/resource/2177930>
+	<http://risis.eu/orgref_20170703/resource/42319034>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.440820.a........ http://risis.eu/eter_2014/resource/ES0073.......... 0.866666666667..................................... [University of Vic] was compared to [Universitat de Vic] 
+	http://risis.eu/eter_2014/resource/ES0073.......... http://www.grid.ac/institutes/grid.440820.a........ 0.866666666667..................................... [University of Vic] was compared to [Universitat de Vic] 
+	http://risis.eu/eter_2014/resource/ES0073.......... http://risis.eu/orgreg_20170718/resource/ES0073.... 0.866666666667..................................... [University of Vic] was compared to [Universitat de Vic] 
+	http://risis.eu/orgreg_20170718/resource/ES0073.... http://risis.eu/eter_2014/resource/ES0073.......... 0.866666666667..................................... [University of Vic] was compared to [Universitat de Vic] 
+	http://risis.eu/orgref_20170703/resource/2177930... http://risis.eu/orgref_20170703/resource/42319034.. 0.928571428571..................................... [VIT University] was compared to [DIT University].. 
+	http://risis.eu/orgref_20170703/resource/42319034.. http://risis.eu/orgref_20170703/resource/2177930... 0.928571428571..................................... [VIT University] was compared to [DIT University].. 
+	http://risis.eu/orgreg_20170718/resource/ES0073.... http://risis.eu/orgref_20170703/resource/2177930... 0.928571428571..................................... [VIT University] was compared to [University of Vic] 
+	http://risis.eu/orgref_20170703/resource/2177930... http://risis.eu/orgreg_20170718/resource/ES0073.... 0.928571428571..................................... [VIT University] was compared to [University of Vic] 
+	http://www.grid.ac/institutes/grid.440820.a........ http://risis.eu/orgref_20170703/resource/2177930... 0.928571428571..................................... [University of Vic] was compared to [VIT University] 
+	http://risis.eu/orgref_20170703/resource/2177930... http://www.grid.ac/institutes/grid.440820.a........ 0.928571428571..................................... [University of Vic] was compared to [VIT University] 
+	http://www.grid.ac/institutes/grid.440820.a........ http://risis.eu/orgreg_20170718/resource/ES0073.... 1.................................................. [University of Vic] was compared to [University of Vic] 
+	http://risis.eu/orgreg_20170718/resource/ES0073.... http://www.grid.ac/institutes/grid.440820.a........ 1.................................................. [University of Vic] was compared to [University of Vic] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 23 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.440820.a........ 2.247196........................................... 
+	http://www.grid.ac/institutes/grid.440820.a........ 41.933777.......................................... 
+	http://www.grid.ac/institutes/grid.440820.a........ http://www.uvic-ucc.cat/en......................... 
+	http://www.grid.ac/institutes/grid.440820.a........ University of Vic - Central University of Catalonia 
+	http://www.grid.ac/institutes/grid.440820.a........ University of Vic.................................. 
+	http://risis.eu/eter_2014/resource/ES0073.......... 41,927376.......................................... 
+	http://risis.eu/eter_2014/resource/ES0073.......... 2,253193........................................... 
+	http://risis.eu/eter_2014/resource/ES0073.......... http://www.uvic.es................................. 
+	http://risis.eu/eter_2014/resource/ES0073.......... a.................................................. 
+	http://risis.eu/eter_2014/resource/ES0073.......... University of Vic.................................. 
+	http://risis.eu/eter_2014/resource/ES0073.......... Universitat de Vic................................. 
+	http://risis.eu/orgreg_20170718/resource/ES0073.... 41.927376.......................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0073.... 2.253193........................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0073.... http://www.uvic.es................................. 
+	http://risis.eu/orgreg_20170718/resource/ES0073.... University of Vic.................................. 
+	http://risis.eu/orgref_20170703/resource/2177930... http://en.wikipedia.org/wiki?curid=2177930......... 
+	http://risis.eu/orgref_20170703/resource/2177930... http://www.wikidata.org/wiki/Q3298919.............. 
+	http://risis.eu/orgref_20170703/resource/2177930... http://www.vit.ac.in............................... 
+	http://risis.eu/orgref_20170703/resource/2177930... VIT University..................................... 
+	http://risis.eu/orgref_20170703/resource/42319034.. http://en.wikipedia.org/wiki?curid=42319034........ 
+	http://risis.eu/orgref_20170703/resource/42319034.. http://www.wikidata.org/wiki/Q3633128.............. 
+	http://risis.eu/orgref_20170703/resource/42319034.. http://www.dituniversity.edu.in.................... 
+	http://risis.eu/orgref_20170703/resource/42319034.. DIT University..................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:ES0073', '1:grid.440820.a'), ('3:ES0073', '1:grid.440820.a'), ('3:ES0073', '2:ES0073'), ('3:ES0073', '4:2177930'), ('4:2177930', '1:grid.440820.a'), ('5:42319034', '4:2177930')]
+	MAX DISTANCE:                   : 0.6
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 1.7
+	AVERAGE NODE CONNECTIVITY RATIO : 0.425
+	BRIDGES                         : 1
+	CLOSURE                         : 0.6
+	DIAMETER                        : 3
+	QUALITY                         : 0.439
+	QUALITY USED                    : 0.484
+	SUMMARY 1: BRIDGE 0.25 CLOSURE 0.4 DIAMETER 0.667 QUALITY 0.439 QUALITY USED 0.484
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.4 DIAMETER 0.667 QUALITY 0.439 QUALITY USED 0.484

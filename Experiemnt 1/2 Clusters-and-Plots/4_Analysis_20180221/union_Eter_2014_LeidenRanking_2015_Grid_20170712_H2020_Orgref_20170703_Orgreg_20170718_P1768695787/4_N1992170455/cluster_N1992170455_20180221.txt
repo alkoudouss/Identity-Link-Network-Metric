@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 16696 
+NAME    N1992170455
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.474961.9>
+	<http://www.grid.ac/institutes/grid.478481.6>
+	<http://www.grid.ac/institutes/grid.475516.4>
+	<http://www.grid.ac/institutes/grid.483725.f>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.474961.9.. http://www.grid.ac/institutes/grid.475516.4.. 0.882352941176............................... [Benton Foundation] was compared to [Boston Foundation] 
+	http://www.grid.ac/institutes/grid.475516.4.. http://www.grid.ac/institutes/grid.474961.9.. 0.882352941176............................... [Benton Foundation] was compared to [Boston Foundation] 
+	http://www.grid.ac/institutes/grid.474961.9.. http://www.grid.ac/institutes/grid.478481.6.. 0.882352941176............................... [Benton Foundation] was compared to [Bently Foundation] 
+	http://www.grid.ac/institutes/grid.478481.6.. http://www.grid.ac/institutes/grid.474961.9.. 0.882352941176............................... [Benton Foundation] was compared to [Bently Foundation] 
+	http://www.grid.ac/institutes/grid.475516.4.. http://www.grid.ac/institutes/grid.483725.f.. 0.882352941176............................... [Boston Foundation] was compared to [Botín Foundation] 
+	http://www.grid.ac/institutes/grid.483725.f.. http://www.grid.ac/institutes/grid.475516.4.. 0.882352941176............................... [Boston Foundation] was compared to [Botín Foundation] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.474961.9.. -87.67858.................................... 
+	http://www.grid.ac/institutes/grid.474961.9.. 42.031174.................................... 
+	http://www.grid.ac/institutes/grid.474961.9.. https://www.benton.org/...................... 
+	http://www.grid.ac/institutes/grid.474961.9.. Benton Foundation............................ 
+	http://www.grid.ac/institutes/grid.478481.6.. -117.17071................................... 
+	http://www.grid.ac/institutes/grid.478481.6.. 33.51891..................................... 
+	http://www.grid.ac/institutes/grid.478481.6.. http://bentlyfoundation.org/................. 
+	http://www.grid.ac/institutes/grid.478481.6.. Bently Foundation............................ 
+	http://www.grid.ac/institutes/grid.475516.4.. -71.07044.................................... 
+	http://www.grid.ac/institutes/grid.475516.4.. 42.350506.................................... 
+	http://www.grid.ac/institutes/grid.475516.4.. http://www.tbf.org/.......................... 
+	http://www.grid.ac/institutes/grid.475516.4.. Boston Foundation............................ 
+	http://www.grid.ac/institutes/grid.483725.f.. -3.803571.................................... 
+	http://www.grid.ac/institutes/grid.483725.f.. 43.463257.................................... 
+	http://www.grid.ac/institutes/grid.483725.f.. http://www.fundacionbotin.org/............... 
+	http://www.grid.ac/institutes/grid.483725.f.. Botín Foundation............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.478481.6', '1:grid.474961.9'), ('3:grid.475516.4', '1:grid.474961.9'), ('4:grid.483725.f', '3:grid.475516.4')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

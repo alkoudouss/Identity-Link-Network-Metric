@@ -1,0 +1,54 @@
+SIZE    3   
+CLUSTER 703 
+NAME    N841453606
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.476022.5>
+	<http://www.grid.ac/institutes/grid.411326.3>
+	<http://risis.eu/orgreg_20170718/resource/BE2015>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.476022.5...... http://risis.eu/orgreg_20170718/resource/BE2015.. 1................................................ Near each other by at most 500 meter(s).......... 
+	http://www.grid.ac/institutes/grid.411326.3...... http://risis.eu/orgreg_20170718/resource/BE2015.. 1................................................ Near each other by at most 500 meter(s).......... 
+	http://risis.eu/orgreg_20170718/resource/BE2015.. http://www.grid.ac/institutes/grid.411326.3...... 1................................................ Near each other by at most 500 meter(s).......... 
+	http://risis.eu/orgreg_20170718/resource/BE2015.. http://www.grid.ac/institutes/grid.476022.5...... 1................................................ Near each other by at most 500 meter(s).......... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.476022.5...... 4.308644......................................... 
+	http://www.grid.ac/institutes/grid.476022.5...... 50.886723........................................ 
+	http://www.grid.ac/institutes/grid.476022.5...... http://www.bsmo.be/.............................. 
+	http://www.grid.ac/institutes/grid.476022.5...... Belgian Society of Medical Oncology.............. 
+	http://www.grid.ac/institutes/grid.411326.3...... 4.307746......................................... 
+	http://www.grid.ac/institutes/grid.411326.3...... 50.887264........................................ 
+	http://www.grid.ac/institutes/grid.411326.3...... http://www.uzbrussel.be/u/view/en/17362-Home.html 
+	http://www.grid.ac/institutes/grid.411326.3...... University Hospital Brussels..................... 
+	http://risis.eu/orgreg_20170718/resource/BE2015.. 4.309467......................................... 
+	http://risis.eu/orgreg_20170718/resource/BE2015.. 50.886345........................................ 
+	http://risis.eu/orgreg_20170718/resource/BE2015.. http://www.uzbrussel.be/......................... 
+	http://risis.eu/orgreg_20170718/resource/BE2015.. Universitair Ziekenhuis Brussel.................. 
+
+NETWORK ANALYSIS
+	NETWORK [('N484268978-BE2015', 'N841453606-grid.411326.3'), ('N484268978-BE2015', 'P2115632592-grid.476022.5')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

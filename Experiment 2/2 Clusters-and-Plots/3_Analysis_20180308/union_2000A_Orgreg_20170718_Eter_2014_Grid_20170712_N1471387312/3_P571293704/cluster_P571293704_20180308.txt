@@ -1,0 +1,63 @@
+SIZE    3   
+CLUSTER 106 
+NAME    P571293704
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/BE0059>
+	<http://www.grid.ac/institutes/grid.5284.b>
+	<http://risis.eu/eter_2014/resource/BE0059>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/BE0059.. http://www.grid.ac/institutes/grid.5284.b........ 1................................................ [university antwerp] was compared to [university antwerp] 
+	http://risis.eu/orgreg_20170718/resource/BE0059.. http://risis.eu/eter_2014/resource/BE0059........ 1................................................ [university antwerp] was compared to [university antwerp] 
+	http://risis.eu/orgreg_20170718/resource/BE0059.. http://risis.eu/eter_2014/resource/BE0059........ 0.772727272727................................... [university antwerp] was compared to [universiteit antwerpen] 
+	http://www.grid.ac/institutes/grid.5284.b........ http://risis.eu/eter_2014/resource/BE0059........ 1................................................ [university antwerp] was compared to [university antwerp] 
+	http://www.grid.ac/institutes/grid.5284.b........ http://risis.eu/eter_2014/resource/BE0059........ 0.772727272727................................... [universiteit antwerpen] was compared to [university antwerp] 
+	http://www.grid.ac/institutes/grid.5284.b........ http://risis.eu/orgreg_20170718/resource/BE0059.. 1................................................ [university antwerp] was compared to [university antwerp] 
+	http://risis.eu/eter_2014/resource/BE0059........ http://www.grid.ac/institutes/grid.5284.b........ 1................................................ [university antwerp] was compared to [university antwerp] 
+	http://risis.eu/eter_2014/resource/BE0059........ http://www.grid.ac/institutes/grid.5284.b........ 0.772727272727................................... [universiteit antwerpen] was compared to [university antwerp] 
+	http://risis.eu/eter_2014/resource/BE0059........ http://risis.eu/orgreg_20170718/resource/BE0059.. 1................................................ [university antwerp] was compared to [university antwerp] 
+	http://risis.eu/eter_2014/resource/BE0059........ http://risis.eu/orgreg_20170718/resource/BE0059.. 0.772727272727................................... [university antwerp] was compared to [universiteit antwerpen] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/BE0059.. 4.401136......................................... 
+	http://risis.eu/orgreg_20170718/resource/BE0059.. 51.219877........................................ 
+	http://risis.eu/orgreg_20170718/resource/BE0059.. http://www.uantwerpen.be......................... 
+	http://risis.eu/orgreg_20170718/resource/BE0059.. University of Antwerp............................ 
+	http://www.grid.ac/institutes/grid.5284.b........ 4.40843.......................................... 
+	http://www.grid.ac/institutes/grid.5284.b........ 51.22273......................................... 
+	http://www.grid.ac/institutes/grid.5284.b........ https://www.uantwerpen.be/en/.................... 
+	http://www.grid.ac/institutes/grid.5284.b........ UAntwerp......................................... 
+	http://www.grid.ac/institutes/grid.5284.b........ University of Antwerp............................ 
+	http://risis.eu/eter_2014/resource/BE0059........ 51,219877........................................ 
+	http://risis.eu/eter_2014/resource/BE0059........ 4,401136......................................... 
+	http://risis.eu/eter_2014/resource/BE0059........ http://www.uantwerpen.be......................... 
+	http://risis.eu/eter_2014/resource/BE0059........ a................................................ 
+	http://risis.eu/eter_2014/resource/BE0059........ University of Antwerp............................ 
+	http://risis.eu/eter_2014/resource/BE0059........ Universiteit Antwerpen........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('P571293704-BE0059', 'P711550075-grid.5284.b'), ('P1336368117-BE0059', 'P571293704-BE0059'), ('P1336368117-BE0059', 'P711550075-grid.5284.b')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

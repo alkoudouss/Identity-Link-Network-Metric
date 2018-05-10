@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 11818 
+NAME    N330118225
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.412770.7>
+	<http://risis.eu/orgref_20170703/resource/2605483>
+	<http://risis.eu/orgref_20170703/resource/1895021>
+	<http://www.grid.ac/institutes/grid.262940.b>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.412770.7....... http://www.grid.ac/institutes/grid.262940.b....... 1................................................. [Saint Francis University] was compared to [University of Saint Francis] 
+	http://www.grid.ac/institutes/grid.262940.b....... http://www.grid.ac/institutes/grid.412770.7....... 1................................................. [Saint Francis University] was compared to [University of Saint Francis] 
+	http://risis.eu/orgref_20170703/resource/1895021.. http://www.grid.ac/institutes/grid.262940.b....... 1................................................. [Saint Francis University] was compared to [Saint Francis University] 
+	http://www.grid.ac/institutes/grid.262940.b....... http://risis.eu/orgref_20170703/resource/1895021.. 1................................................. [Saint Francis University] was compared to [Saint Francis University] 
+	http://risis.eu/orgref_20170703/resource/2605483.. http://www.grid.ac/institutes/grid.262940.b....... 1................................................. [Saint Francis University] was compared to [University of Saint Francis (Indiana)] 
+	http://www.grid.ac/institutes/grid.262940.b....... http://risis.eu/orgref_20170703/resource/2605483.. 1................................................. [Saint Francis University] was compared to [University of Saint Francis (Indiana)] 
+	http://www.grid.ac/institutes/grid.412770.7....... http://risis.eu/orgref_20170703/resource/1895021.. 1................................................. [University of Saint Francis] was compared to [Saint Francis University] 
+	http://risis.eu/orgref_20170703/resource/1895021.. http://www.grid.ac/institutes/grid.412770.7....... 1................................................. [University of Saint Francis] was compared to [Saint Francis University] 
+	http://www.grid.ac/institutes/grid.412770.7....... http://risis.eu/orgref_20170703/resource/2605483.. 1................................................. [University of Saint Francis] was compared to [University of Saint Francis (Indiana)] 
+	http://risis.eu/orgref_20170703/resource/2605483.. http://www.grid.ac/institutes/grid.412770.7....... 1................................................. [University of Saint Francis] was compared to [University of Saint Francis (Indiana)] 
+	http://risis.eu/orgref_20170703/resource/2605483.. http://risis.eu/orgref_20170703/resource/1895021.. 1................................................. [Saint Francis University] was compared to [University of Saint Francis (Indiana)] 
+	http://risis.eu/orgref_20170703/resource/1895021.. http://risis.eu/orgref_20170703/resource/2605483.. 1................................................. [Saint Francis University] was compared to [University of Saint Francis (Indiana)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.412770.7....... -85.17548......................................... 
+	http://www.grid.ac/institutes/grid.412770.7....... 41.086594......................................... 
+	http://www.grid.ac/institutes/grid.412770.7....... http://www.sf.edu/................................ 
+	http://www.grid.ac/institutes/grid.412770.7....... University of Saint Francis....................... 
+	http://risis.eu/orgref_20170703/resource/2605483.. http://en.wikipedia.org/wiki?curid=2605483........ 
+	http://risis.eu/orgref_20170703/resource/2605483.. http://www.wikidata.org/wiki/Q1276602............. 
+	http://risis.eu/orgref_20170703/resource/2605483.. http://www.sf.edu................................. 
+	http://risis.eu/orgref_20170703/resource/2605483.. University of Saint Francis (Indiana)............. 
+	http://risis.eu/orgref_20170703/resource/1895021.. http://en.wikipedia.org/wiki?curid=1895021........ 
+	http://risis.eu/orgref_20170703/resource/1895021.. http://www.wikidata.org/wiki/Q7401271............. 
+	http://risis.eu/orgref_20170703/resource/1895021.. http://www.francis.edu............................ 
+	http://risis.eu/orgref_20170703/resource/1895021.. Saint Francis University.......................... 
+	http://www.grid.ac/institutes/grid.262940.b....... -78.63916......................................... 
+	http://www.grid.ac/institutes/grid.262940.b....... 40.50722.......................................... 
+	http://www.grid.ac/institutes/grid.262940.b....... http://www.sfcpa.edu/............................. 
+	http://www.grid.ac/institutes/grid.262940.b....... http://francis.edu/............................... 
+	http://www.grid.ac/institutes/grid.262940.b....... Saint Francis University.......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.412770.7', '4:grid.262940.b'), ('2:2605483', '1:grid.412770.7'), ('2:2605483', '4:grid.262940.b'), ('3:1895021', '1:grid.412770.7'), ('3:1895021', '2:2605483'), ('4:grid.262940.b', '3:1895021')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

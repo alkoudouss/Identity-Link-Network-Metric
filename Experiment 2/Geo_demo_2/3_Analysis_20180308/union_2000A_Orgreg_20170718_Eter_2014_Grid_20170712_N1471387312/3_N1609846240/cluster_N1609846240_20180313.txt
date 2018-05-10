@@ -1,0 +1,58 @@
+SIZE    3   
+CLUSTER 824 
+NAME    N1609846240
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/BE0068>
+	<http://www.grid.ac/institutes/grid.466193.f>
+	<http://risis.eu/eter_2014/resource/BE0068>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/BE0068.. http://www.grid.ac/institutes/grid.466193.f...... 0.705882352941................................... [university college ghent] was compared to [artevelde university college ghent] 
+	http://risis.eu/orgreg_20170718/resource/BE0068.. http://risis.eu/eter_2014/resource/BE0068........ 1................................................ [university college ghent] was compared to [university college ghent] 
+	http://www.grid.ac/institutes/grid.466193.f...... http://risis.eu/eter_2014/resource/BE0068........ 0.705882352941................................... [university college ghent] was compared to [artevelde university college ghent] 
+	http://www.grid.ac/institutes/grid.466193.f...... http://risis.eu/orgreg_20170718/resource/BE0068.. 0.705882352941................................... [university college ghent] was compared to [artevelde university college ghent] 
+	http://risis.eu/eter_2014/resource/BE0068........ http://www.grid.ac/institutes/grid.466193.f...... 0.705882352941................................... [university college ghent] was compared to [artevelde university college ghent] 
+	http://risis.eu/eter_2014/resource/BE0068........ http://risis.eu/orgreg_20170718/resource/BE0068.. 1................................................ [university college ghent] was compared to [university college ghent] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/BE0068.. 3.729091......................................... 
+	http://risis.eu/orgreg_20170718/resource/BE0068.. 51.067831........................................ 
+	http://risis.eu/orgreg_20170718/resource/BE0068.. http://www.hogent.be............................. 
+	http://risis.eu/orgreg_20170718/resource/BE0068.. University College Ghent......................... 
+	http://www.grid.ac/institutes/grid.466193.f...... 3.723248......................................... 
+	http://www.grid.ac/institutes/grid.466193.f...... 51.055546........................................ 
+	http://www.grid.ac/institutes/grid.466193.f...... https://www.arteveldehogeschool.be/en/........... 
+	http://www.grid.ac/institutes/grid.466193.f...... Artevelde University College Ghent............... 
+	http://risis.eu/eter_2014/resource/BE0068........ 51,067831........................................ 
+	http://risis.eu/eter_2014/resource/BE0068........ 3,729091......................................... 
+	http://risis.eu/eter_2014/resource/BE0068........ http://www.hogent.be............................. 
+	http://risis.eu/eter_2014/resource/BE0068........ a................................................ 
+	http://risis.eu/eter_2014/resource/BE0068........ University College Ghent......................... 
+	http://risis.eu/eter_2014/resource/BE0068........ Hogeschool Gent.................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('N1609846240-BE0068', 'N1183320311-grid.466193.f'), ('N777459283-BE0068', 'N1183320311-grid.466193.f'), ('N777459283-BE0068', 'N1609846240-BE0068')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

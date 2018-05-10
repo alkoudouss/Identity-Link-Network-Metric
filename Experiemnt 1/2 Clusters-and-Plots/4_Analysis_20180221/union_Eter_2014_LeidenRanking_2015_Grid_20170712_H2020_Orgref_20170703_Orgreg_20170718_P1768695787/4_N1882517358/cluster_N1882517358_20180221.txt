@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 11446 
+NAME    N1882517358
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/11382524>
+	<http://risis.eu/orgref_20170703/resource/21550605>
+	<http://www.grid.ac/institutes/grid.443991.2>
+	<http://www.grid.ac/institutes/grid.412186.8>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/21550605.. http://www.grid.ac/institutes/grid.412186.8........ 1.................................................. [University of Cauca] was compared to [University of Cauca] 
+	http://www.grid.ac/institutes/grid.412186.8........ http://risis.eu/orgref_20170703/resource/21550605.. 1.................................................. [University of Cauca] was compared to [University of Cauca] 
+	http://risis.eu/orgref_20170703/resource/11382524.. http://www.grid.ac/institutes/grid.443991.2........ 1.................................................. [Caucasus University] was compared to [Caucasus University] 
+	http://www.grid.ac/institutes/grid.443991.2........ http://risis.eu/orgref_20170703/resource/11382524.. 1.................................................. [Caucasus University] was compared to [Caucasus University] 
+	http://risis.eu/orgref_20170703/resource/11382524.. http://risis.eu/orgref_20170703/resource/21550605.. 0.842105263158..................................... [Caucasus University] was compared to [University of Cauca] 
+	http://risis.eu/orgref_20170703/resource/21550605.. http://risis.eu/orgref_20170703/resource/11382524.. 0.842105263158..................................... [Caucasus University] was compared to [University of Cauca] 
+	http://www.grid.ac/institutes/grid.443991.2........ http://www.grid.ac/institutes/grid.412186.8........ 0.842105263158..................................... [University of Cauca] was compared to [Caucasus University] 
+	http://www.grid.ac/institutes/grid.412186.8........ http://www.grid.ac/institutes/grid.443991.2........ 0.842105263158..................................... [University of Cauca] was compared to [Caucasus University] 
+	http://risis.eu/orgref_20170703/resource/11382524.. http://www.grid.ac/institutes/grid.412186.8........ 0.842105263158..................................... [University of Cauca] was compared to [Caucasus University] 
+	http://www.grid.ac/institutes/grid.412186.8........ http://risis.eu/orgref_20170703/resource/11382524.. 0.842105263158..................................... [University of Cauca] was compared to [Caucasus University] 
+	http://risis.eu/orgref_20170703/resource/21550605.. http://www.grid.ac/institutes/grid.443991.2........ 0.842105263158..................................... [Caucasus University] was compared to [University of Cauca] 
+	http://www.grid.ac/institutes/grid.443991.2........ http://risis.eu/orgref_20170703/resource/21550605.. 0.842105263158..................................... [Caucasus University] was compared to [University of Cauca] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/11382524.. http://en.wikipedia.org/wiki?curid=11382524........ 
+	http://risis.eu/orgref_20170703/resource/11382524.. http://www.wikidata.org/wiki/Q5054305.............. 
+	http://risis.eu/orgref_20170703/resource/11382524.. http://www.cu.edu.ge............................... 
+	http://risis.eu/orgref_20170703/resource/11382524.. Caucasus University................................ 
+	http://risis.eu/orgref_20170703/resource/21550605.. http://en.wikipedia.org/wiki?curid=21550605........ 
+	http://risis.eu/orgref_20170703/resource/21550605.. http://www.wikidata.org/wiki/Q1137779.............. 
+	http://risis.eu/orgref_20170703/resource/21550605.. http://www.unicauca.edu.co......................... 
+	http://risis.eu/orgref_20170703/resource/21550605.. University of Cauca................................ 
+	http://www.grid.ac/institutes/grid.443991.2........ Caucasus University................................ 
+	http://www.grid.ac/institutes/grid.412186.8........ -76.60487.......................................... 
+	http://www.grid.ac/institutes/grid.412186.8........ 2.441238........................................... 
+	http://www.grid.ac/institutes/grid.412186.8........ http://www.unicauca.edu.co/portaleningles/......... 
+	http://www.grid.ac/institutes/grid.412186.8........ University of Cauca................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:11382524', '4:grid.412186.8'), ('2:21550605', '1:11382524'), ('2:21550605', '3:grid.443991.2'), ('2:21550605', '4:grid.412186.8'), ('3:grid.443991.2', '1:11382524'), ('4:grid.412186.8', '3:grid.443991.2')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

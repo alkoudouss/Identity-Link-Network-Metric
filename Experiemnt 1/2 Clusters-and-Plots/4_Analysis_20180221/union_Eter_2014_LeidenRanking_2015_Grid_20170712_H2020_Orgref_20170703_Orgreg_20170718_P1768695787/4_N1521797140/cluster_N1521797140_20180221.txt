@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 8511 
+NAME    N1521797140
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.13063.37>
+	<http://risis.eu/eter_2014/resource/UK0075>
+	<http://risis.eu/cordisH2020/resource/participant_999861063>
+	<http://risis.eu/leidenRanking_2015/resource/1037>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.13063.37................. http://risis.eu/leidenRanking_2015/resource/1037............ 1........................................................... [London School of Economics and Political Science] was compared to [London School of Economics and Political Science] 
+	http://risis.eu/leidenRanking_2015/resource/1037............ http://www.grid.ac/institutes/grid.13063.37................. 1........................................................... [London School of Economics and Political Science] was compared to [London School of Economics and Political Science] 
+	http://www.grid.ac/institutes/grid.13063.37................. http://risis.eu/eter_2014/resource/UK0075................... 1........................................................... [London School of Economics and Political Science] was compared to [London School of Economics and Political Science] 
+	http://risis.eu/eter_2014/resource/UK0075................... http://www.grid.ac/institutes/grid.13063.37................. 1........................................................... [London School of Economics and Political Science] was compared to [London School of Economics and Political Science] 
+	http://www.grid.ac/institutes/grid.13063.37................. http://risis.eu/cordisH2020/resource/participant_999861063.. 1........................................................... [London School of Economics and Political Science] was compared to [LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE] 
+	http://risis.eu/cordisH2020/resource/participant_999861063.. http://www.grid.ac/institutes/grid.13063.37................. 1........................................................... [London School of Economics and Political Science] was compared to [LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE] 
+	http://risis.eu/cordisH2020/resource/participant_999861063.. http://risis.eu/leidenRanking_2015/resource/1037............ 1........................................................... [LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE] was compared to [London School of Economics and Political Science] 
+	http://risis.eu/leidenRanking_2015/resource/1037............ http://risis.eu/cordisH2020/resource/participant_999861063.. 1........................................................... [LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE] was compared to [London School of Economics and Political Science] 
+	http://risis.eu/eter_2014/resource/UK0075................... http://risis.eu/cordisH2020/resource/participant_999861063.. 1........................................................... [LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE] was compared to [London School of Economics and Political Science] 
+	http://risis.eu/cordisH2020/resource/participant_999861063.. http://risis.eu/eter_2014/resource/UK0075................... 1........................................................... [LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE] was compared to [London School of Economics and Political Science] 
+	http://risis.eu/eter_2014/resource/UK0075................... http://risis.eu/leidenRanking_2015/resource/1037............ 1........................................................... [London School of Economics and Political Science] was compared to [London School of Economics and Political Science] 
+	http://risis.eu/leidenRanking_2015/resource/1037............ http://risis.eu/eter_2014/resource/UK0075................... 1........................................................... [London School of Economics and Political Science] was compared to [London School of Economics and Political Science] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.13063.37................. -0.11772.................................................... 
+	http://www.grid.ac/institutes/grid.13063.37................. 51.51418.................................................... 
+	http://www.grid.ac/institutes/grid.13063.37................. http://www.lse.ac.uk/home.aspx.............................. 
+	http://www.grid.ac/institutes/grid.13063.37................. London School of Economics.................................. 
+	http://www.grid.ac/institutes/grid.13063.37................. London School of Economics and Political Science............ 
+	http://risis.eu/eter_2014/resource/UK0075................... 51,513966................................................... 
+	http://risis.eu/eter_2014/resource/UK0075................... -0,116732................................................... 
+	http://risis.eu/eter_2014/resource/UK0075................... http://www.lse.ac.uk........................................ 
+	http://risis.eu/eter_2014/resource/UK0075................... a........................................................... 
+	http://risis.eu/eter_2014/resource/UK0075................... London School of Economics and Political Science............ 
+	http://risis.eu/cordisH2020/resource/participant_999861063.. http://www.lse.ac.uk/home.aspx.............................. 
+	http://risis.eu/cordisH2020/resource/participant_999861063.. http://risis.eu/cordisH2020/resource/www.lse.ac.uk.......... 
+	http://risis.eu/cordisH2020/resource/participant_999861063.. LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE............ 
+	http://risis.eu/leidenRanking_2015/resource/1037............ London School of Economics and Political Science............ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:UK0075', '1:grid.13063.37'), ('3:participant_999861063', '1:grid.13063.37'), ('3:participant_999861063', '2:UK0075'), ('4:1037', '1:grid.13063.37'), ('4:1037', '2:UK0075'), ('4:1037', '3:participant_999861063')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

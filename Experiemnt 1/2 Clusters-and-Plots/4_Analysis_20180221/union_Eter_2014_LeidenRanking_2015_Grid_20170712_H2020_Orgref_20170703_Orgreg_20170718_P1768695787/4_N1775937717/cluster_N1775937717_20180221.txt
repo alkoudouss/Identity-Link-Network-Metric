@@ -1,0 +1,58 @@
+SIZE    4   
+CLUSTER 966 
+NAME    N1775937717
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.35937.3b>
+	<http://www.grid.ac/institutes/grid.480655.a>
+	<http://risis.eu/cordisH2020/resource/participant_999642037>
+	<http://risis.eu/leidenRanking_2015/resource/101058>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.35937.3b................. http://www.grid.ac/institutes/grid.480655.a................. 1........................................................... [Natural History Museum] was compared to [Natural History Museum] 
+	http://www.grid.ac/institutes/grid.480655.a................. http://www.grid.ac/institutes/grid.35937.3b................. 1........................................................... [Natural History Museum] was compared to [Natural History Museum] 
+	http://www.grid.ac/institutes/grid.35937.3b................. http://risis.eu/cordisH2020/resource/participant_999642037.. 1........................................................... [Natural History Museum] was compared to [NATURAL HISTORY MUSEUM] 
+	http://risis.eu/cordisH2020/resource/participant_999642037.. http://www.grid.ac/institutes/grid.35937.3b................. 1........................................................... [Natural History Museum] was compared to [NATURAL HISTORY MUSEUM] 
+	http://www.grid.ac/institutes/grid.480655.a................. http://risis.eu/cordisH2020/resource/participant_999642037.. 1........................................................... [Natural History Museum] was compared to [NATURAL HISTORY MUSEUM] 
+	http://risis.eu/cordisH2020/resource/participant_999642037.. http://www.grid.ac/institutes/grid.480655.a................. 1........................................................... [Natural History Museum] was compared to [NATURAL HISTORY MUSEUM] 
+	http://risis.eu/cordisH2020/resource/participant_999642037.. http://risis.eu/leidenRanking_2015/resource/101058.......... 0.869565217391.............................................. [NATURAL HISTORY MUSEUM] was compared to [National History Museum] 
+	http://risis.eu/leidenRanking_2015/resource/101058.......... http://risis.eu/cordisH2020/resource/participant_999642037.. 0.869565217391.............................................. [NATURAL HISTORY MUSEUM] was compared to [National History Museum] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.35937.3b................. -0.176388................................................... 
+	http://www.grid.ac/institutes/grid.35937.3b................. 51.49686.................................................... 
+	http://www.grid.ac/institutes/grid.35937.3b................. http://www.nhm.ac.uk/....................................... 
+	http://www.grid.ac/institutes/grid.35937.3b................. Natural History Museum...................................... 
+	http://www.grid.ac/institutes/grid.480655.a................. 10.19759.................................................... 
+	http://www.grid.ac/institutes/grid.480655.a................. 56.16872.................................................... 
+	http://www.grid.ac/institutes/grid.480655.a................. http://www.naturhistoriskmuseum.dk/......................... 
+	http://www.grid.ac/institutes/grid.480655.a................. Natural History Museum...................................... 
+	http://risis.eu/cordisH2020/resource/participant_999642037.. http://www.nhm.ac.uk/....................................... 
+	http://risis.eu/cordisH2020/resource/participant_999642037.. NATURAL HISTORY MUSEUM...................................... 
+	http://risis.eu/leidenRanking_2015/resource/101058.......... National History Museum..................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.480655.a', '1:grid.35937.3b'), ('3:participant_999642037', '1:grid.35937.3b'), ('3:participant_999642037', '2:grid.480655.a'), ('4:101058', '3:participant_999642037')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

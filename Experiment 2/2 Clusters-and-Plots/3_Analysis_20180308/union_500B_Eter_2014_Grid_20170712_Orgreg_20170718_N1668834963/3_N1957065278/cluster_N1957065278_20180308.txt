@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 548 
+NAME    N1957065278
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/IT0154>
+	<http://www.grid.ac/institutes/grid.417206.6>
+	<http://www.grid.ac/institutes/grid.466032.5>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/IT0154.... http://www.grid.ac/institutes/grid.417206.6.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/IT0154.... http://www.grid.ac/institutes/grid.466032.5.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.417206.6.. http://risis.eu/eter_2014/resource/IT0154.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.466032.5.. http://risis.eu/eter_2014/resource/IT0154.... 1............................................ Near each other by at most 500 meter(s)...... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/IT0154.... 45,80806..................................... 
+	http://risis.eu/eter_2014/resource/IT0154.... 9,085176..................................... 
+	http://risis.eu/eter_2014/resource/IT0154.... http://www.conservatoriocomo.it/............. 
+	http://risis.eu/eter_2014/resource/IT0154.... a............................................ 
+	http://risis.eu/eter_2014/resource/IT0154.... Music Conservatory of COMO Giuseppe Verdi.... 
+	http://risis.eu/eter_2014/resource/IT0154.... Conservatorio di COMO Giuseppe Verdi......... 
+	http://www.grid.ac/institutes/grid.417206.6.. 9.087887..................................... 
+	http://www.grid.ac/institutes/grid.417206.6.. 45.810402.................................... 
+	http://www.grid.ac/institutes/grid.417206.6.. http://www.valduce.it/index.php/ospedale-valduce 
+	http://www.grid.ac/institutes/grid.417206.6.. Ospedale Valduce............................. 
+	http://www.grid.ac/institutes/grid.466032.5.. 9.084163..................................... 
+	http://www.grid.ac/institutes/grid.466032.5.. 45.80504..................................... 
+	http://www.grid.ac/institutes/grid.466032.5.. http://www.conservatoriocomo.it/eng/index.html 
+	http://www.grid.ac/institutes/grid.466032.5.. Conservatorio di Musica "Giuseppe Verdi"..... 
+
+NETWORK ANALYSIS
+	NETWORK [('P140189289-IT0154', 'N1957065278-grid.417206.6'), ('P140189289-IT0154', 'P1953864542-grid.466032.5')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

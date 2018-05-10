@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 7931 
+NAME    N1966944640
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.421081.e>
+	<http://www.grid.ac/institutes/grid.424403.5>
+	<http://www.grid.ac/institutes/grid.426289.3>
+	<http://www.grid.ac/institutes/grid.420792.a>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.424403.5.. http://www.grid.ac/institutes/grid.420792.a.. 1............................................ [E.ON (United Kingdom)] was compared to [E.ON (Germany)] 
+	http://www.grid.ac/institutes/grid.420792.a.. http://www.grid.ac/institutes/grid.424403.5.. 1............................................ [E.ON (United Kingdom)] was compared to [E.ON (Germany)] 
+	http://www.grid.ac/institutes/grid.426289.3.. http://www.grid.ac/institutes/grid.420792.a.. 1............................................ [E.ON (United Kingdom)] was compared to [E.ON (France)] 
+	http://www.grid.ac/institutes/grid.420792.a.. http://www.grid.ac/institutes/grid.426289.3.. 1............................................ [E.ON (United Kingdom)] was compared to [E.ON (France)] 
+	http://www.grid.ac/institutes/grid.421081.e.. http://www.grid.ac/institutes/grid.420792.a.. 1............................................ [E.ON (United Kingdom)] was compared to [E.ON (United States)] 
+	http://www.grid.ac/institutes/grid.420792.a.. http://www.grid.ac/institutes/grid.421081.e.. 1............................................ [E.ON (United Kingdom)] was compared to [E.ON (United States)] 
+	http://www.grid.ac/institutes/grid.421081.e.. http://www.grid.ac/institutes/grid.424403.5.. 1............................................ [E.ON (United States)] was compared to [E.ON (Germany)] 
+	http://www.grid.ac/institutes/grid.424403.5.. http://www.grid.ac/institutes/grid.421081.e.. 1............................................ [E.ON (United States)] was compared to [E.ON (Germany)] 
+	http://www.grid.ac/institutes/grid.421081.e.. http://www.grid.ac/institutes/grid.426289.3.. 1............................................ [E.ON (United States)] was compared to [E.ON (France)] 
+	http://www.grid.ac/institutes/grid.426289.3.. http://www.grid.ac/institutes/grid.421081.e.. 1............................................ [E.ON (United States)] was compared to [E.ON (France)] 
+	http://www.grid.ac/institutes/grid.424403.5.. http://www.grid.ac/institutes/grid.426289.3.. 1............................................ [E.ON (Germany)] was compared to [E.ON (France)] 
+	http://www.grid.ac/institutes/grid.426289.3.. http://www.grid.ac/institutes/grid.424403.5.. 1............................................ [E.ON (Germany)] was compared to [E.ON (France)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.421081.e.. E.ON (United States)......................... 
+	http://www.grid.ac/institutes/grid.424403.5.. 7.274298..................................... 
+	http://www.grid.ac/institutes/grid.424403.5.. 51.68691..................................... 
+	http://www.grid.ac/institutes/grid.424403.5.. http://www.eon.com/en.html................... 
+	http://www.grid.ac/institutes/grid.424403.5.. E.ON AG...................................... 
+	http://www.grid.ac/institutes/grid.424403.5.. E.ON (Germany)............................... 
+	http://www.grid.ac/institutes/grid.426289.3.. 2.382489..................................... 
+	http://www.grid.ac/institutes/grid.426289.3.. 48.869083.................................... 
+	http://www.grid.ac/institutes/grid.426289.3.. http://www.eon.com/en/....................... 
+	http://www.grid.ac/institutes/grid.426289.3.. E.ON (France)................................ 
+	http://www.grid.ac/institutes/grid.420792.a.. -1.576716.................................... 
+	http://www.grid.ac/institutes/grid.420792.a.. 52.38887..................................... 
+	http://www.grid.ac/institutes/grid.420792.a.. http://www.eonenergy.com/.................... 
+	http://www.grid.ac/institutes/grid.420792.a.. Powergen..................................... 
+	http://www.grid.ac/institutes/grid.420792.a.. E.ON (United Kingdom)........................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.421081.e', '4:grid.420792.a'), ('2:grid.424403.5', '1:grid.421081.e'), ('2:grid.424403.5', '4:grid.420792.a'), ('3:grid.426289.3', '1:grid.421081.e'), ('3:grid.426289.3', '2:grid.424403.5'), ('4:grid.420792.a', '3:grid.426289.3')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,71 @@
+SIZE    4   
+CLUSTER 9941 
+NAME    N1272979736
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.463000.1>
+	<http://risis.eu/orgref_20170703/resource/2982865>
+	<http://risis.eu/orgref_20170703/resource/18821129>
+	<http://www.grid.ac/institutes/grid.462994.4>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.463000.1........ http://www.grid.ac/institutes/grid.462994.4........ 0.806451612903..................................... [Wallace Community College] was compared to [Wallace State Community College] 
+	http://www.grid.ac/institutes/grid.462994.4........ http://www.grid.ac/institutes/grid.463000.1........ 0.806451612903..................................... [Wallace Community College] was compared to [Wallace State Community College] 
+	http://risis.eu/orgref_20170703/resource/18821129.. http://www.grid.ac/institutes/grid.462994.4........ 1.................................................. [Wallace Community College] was compared to [Wallace Community College] 
+	http://www.grid.ac/institutes/grid.462994.4........ http://risis.eu/orgref_20170703/resource/18821129.. 1.................................................. [Wallace Community College] was compared to [Wallace Community College] 
+	http://risis.eu/orgref_20170703/resource/2982865... http://www.grid.ac/institutes/grid.462994.4........ 0.806451612903..................................... [Wallace Community College] was compared to [Wallace State Community College] 
+	http://www.grid.ac/institutes/grid.462994.4........ http://risis.eu/orgref_20170703/resource/2982865... 0.806451612903..................................... [Wallace Community College] was compared to [Wallace State Community College] 
+	http://www.grid.ac/institutes/grid.463000.1........ http://risis.eu/orgref_20170703/resource/18821129.. 0.806451612903..................................... [Wallace State Community College] was compared to [Wallace Community College] 
+	http://risis.eu/orgref_20170703/resource/18821129.. http://www.grid.ac/institutes/grid.463000.1........ 0.806451612903..................................... [Wallace State Community College] was compared to [Wallace Community College] 
+	http://www.grid.ac/institutes/grid.463000.1........ http://risis.eu/orgref_20170703/resource/2982865... 1.................................................. [Wallace State Community College] was compared to [Wallace State Community College] 
+	http://risis.eu/orgref_20170703/resource/2982865... http://www.grid.ac/institutes/grid.463000.1........ 1.................................................. [Wallace State Community College] was compared to [Wallace State Community College] 
+	http://risis.eu/orgref_20170703/resource/2982865... http://risis.eu/orgref_20170703/resource/18821129.. 0.806451612903..................................... [Wallace Community College] was compared to [Wallace State Community College] 
+	http://risis.eu/orgref_20170703/resource/18821129.. http://risis.eu/orgref_20170703/resource/2982865... 0.806451612903..................................... [Wallace Community College] was compared to [Wallace State Community College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 20 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.463000.1........ -86.781906......................................... 
+	http://www.grid.ac/institutes/grid.463000.1........ 34.07269........................................... 
+	http://www.grid.ac/institutes/grid.463000.1........ http://www.wallacestate.edu/....................... 
+	http://www.grid.ac/institutes/grid.463000.1........ Wallace State Community College.................... 
+	http://risis.eu/orgref_20170703/resource/2982865... http://en.wikipedia.org/wiki?curid=2982865......... 
+	http://risis.eu/orgref_20170703/resource/2982865... http://www.wikidata.org/wiki/Q7962897.............. 
+	http://risis.eu/orgref_20170703/resource/2982865... http://www.wallacestate.edu........................ 
+	http://risis.eu/orgref_20170703/resource/2982865... Wallace State Community College.................... 
+	http://risis.eu/orgref_20170703/resource/18821129.. http://en.wikipedia.org/wiki?curid=18821129........ 
+	http://risis.eu/orgref_20170703/resource/18821129.. http://www.wikidata.org/wiki/Q7962771.............. 
+	http://risis.eu/orgref_20170703/resource/18821129.. http://www.wallace.edu............................. 
+	http://risis.eu/orgref_20170703/resource/18821129.. Wallace Community College.......................... 
+	http://www.grid.ac/institutes/grid.462994.4........ -85.46583.......................................... 
+	http://www.grid.ac/institutes/grid.462994.4........ 31.314667.......................................... 
+	http://www.grid.ac/institutes/grid.462994.4........ http://www.wallace.edu/............................ 
+	http://www.grid.ac/institutes/grid.462994.4........ George C. Wallace State Technical Junior College... 
+	http://www.grid.ac/institutes/grid.462994.4........ George C. Wallace State Technical Trade School..... 
+	http://www.grid.ac/institutes/grid.462994.4........ George C. Wallace State Community College.......... 
+	http://www.grid.ac/institutes/grid.462994.4........ George C. Wallace State Vocational Trade School.... 
+	http://www.grid.ac/institutes/grid.462994.4........ Wallace Community College.......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.463000.1', '4:grid.462994.4'), ('2:2982865', '1:grid.463000.1'), ('2:2982865', '3:18821129'), ('3:18821129', '1:grid.463000.1'), ('3:18821129', '4:grid.462994.4'), ('4:grid.462994.4', '2:2982865')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

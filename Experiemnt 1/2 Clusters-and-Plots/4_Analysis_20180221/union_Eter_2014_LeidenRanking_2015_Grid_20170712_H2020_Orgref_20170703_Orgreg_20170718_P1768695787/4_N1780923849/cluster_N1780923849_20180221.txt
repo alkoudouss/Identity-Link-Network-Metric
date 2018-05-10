@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 14416 
+NAME    N1780923849
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.443047.0>
+	<http://risis.eu/orgref_20170703/resource/1504126>
+	<http://risis.eu/orgref_20170703/resource/29290423>
+	<http://www.grid.ac/institutes/grid.442652.3>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/29290423.. http://www.grid.ac/institutes/grid.442652.3........ 1.................................................. [Fountain University] was compared to [Fountain University] 
+	http://www.grid.ac/institutes/grid.442652.3........ http://risis.eu/orgref_20170703/resource/29290423.. 1.................................................. [Fountain University] was compared to [Fountain University] 
+	http://www.grid.ac/institutes/grid.443047.0........ http://risis.eu/orgref_20170703/resource/1504126... 1.................................................. [Foundation University] was compared to [Foundation University] 
+	http://risis.eu/orgref_20170703/resource/1504126... http://www.grid.ac/institutes/grid.443047.0........ 1.................................................. [Foundation University] was compared to [Foundation University] 
+	http://risis.eu/orgref_20170703/resource/1504126... http://risis.eu/orgref_20170703/resource/29290423.. 0.857142857143..................................... [Foundation University] was compared to [Fountain University] 
+	http://risis.eu/orgref_20170703/resource/29290423.. http://risis.eu/orgref_20170703/resource/1504126... 0.857142857143..................................... [Foundation University] was compared to [Fountain University] 
+	http://www.grid.ac/institutes/grid.443047.0........ http://www.grid.ac/institutes/grid.442652.3........ 0.857142857143..................................... [Fountain University] was compared to [Foundation University] 
+	http://www.grid.ac/institutes/grid.442652.3........ http://www.grid.ac/institutes/grid.443047.0........ 0.857142857143..................................... [Fountain University] was compared to [Foundation University] 
+	http://risis.eu/orgref_20170703/resource/1504126... http://www.grid.ac/institutes/grid.442652.3........ 0.857142857143..................................... [Fountain University] was compared to [Foundation University] 
+	http://www.grid.ac/institutes/grid.442652.3........ http://risis.eu/orgref_20170703/resource/1504126... 0.857142857143..................................... [Fountain University] was compared to [Foundation University] 
+	http://www.grid.ac/institutes/grid.443047.0........ http://risis.eu/orgref_20170703/resource/29290423.. 0.857142857143..................................... [Foundation University] was compared to [Fountain University] 
+	http://risis.eu/orgref_20170703/resource/29290423.. http://www.grid.ac/institutes/grid.443047.0........ 0.857142857143..................................... [Foundation University] was compared to [Fountain University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.443047.0........ Foundation University.............................. 
+	http://risis.eu/orgref_20170703/resource/1504126... http://en.wikipedia.org/wiki?curid=1504126......... 
+	http://risis.eu/orgref_20170703/resource/1504126... http://www.wikidata.org/wiki/Q5474366.............. 
+	http://risis.eu/orgref_20170703/resource/1504126... http://www.fu.edu.ph............................... 
+	http://risis.eu/orgref_20170703/resource/1504126... Foundation University.............................. 
+	http://risis.eu/orgref_20170703/resource/29290423.. http://en.wikipedia.org/wiki?curid=29290423........ 
+	http://risis.eu/orgref_20170703/resource/29290423.. http://www.wikidata.org/wiki/Q5474772.............. 
+	http://risis.eu/orgref_20170703/resource/29290423.. http://www.fountainuniversity.edu.ng............... 
+	http://risis.eu/orgref_20170703/resource/29290423.. Fountain University................................ 
+	http://www.grid.ac/institutes/grid.442652.3........ Fountain University................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1504126', '1:grid.443047.0'), ('2:1504126', '4:grid.442652.3'), ('3:29290423', '1:grid.443047.0'), ('3:29290423', '2:1504126'), ('3:29290423', '4:grid.442652.3'), ('4:grid.442652.3', '1:grid.443047.0')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

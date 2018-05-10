@@ -1,0 +1,72 @@
+SIZE    5   
+CLUSTER 13090 
+NAME    N1463390112
+
+RESOURCES INVOLVED
+	<http://risis.eu/cordisH2020/resource/participant_999911309>
+	<http://risis.eu/leidenRanking_2015/resource/321>
+	<http://www.grid.ac/institutes/grid.4756.0>
+	<http://risis.eu/orgref_20170703/resource/386181>
+	<http://risis.eu/eter_2014/resource/UK0074>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.4756.0................... http://risis.eu/orgref_20170703/resource/386181............. 1........................................................... [London South Bank University] was compared to [London South Bank University] 
+	http://risis.eu/orgref_20170703/resource/386181............. http://www.grid.ac/institutes/grid.4756.0................... 1........................................................... [London South Bank University] was compared to [London South Bank University] 
+	http://risis.eu/leidenRanking_2015/resource/321............. http://www.grid.ac/institutes/grid.4756.0................... 1........................................................... [London South Bank University] was compared to [London South Bank University] 
+	http://www.grid.ac/institutes/grid.4756.0................... http://risis.eu/leidenRanking_2015/resource/321............. 1........................................................... [London South Bank University] was compared to [London South Bank University] 
+	http://www.grid.ac/institutes/grid.4756.0................... http://risis.eu/eter_2014/resource/UK0074................... 1........................................................... [London South Bank University] was compared to [London South Bank University] 
+	http://risis.eu/eter_2014/resource/UK0074................... http://www.grid.ac/institutes/grid.4756.0................... 1........................................................... [London South Bank University] was compared to [London South Bank University] 
+	http://risis.eu/orgref_20170703/resource/386181............. http://risis.eu/eter_2014/resource/UK0074................... 1........................................................... [London South Bank University] was compared to [London South Bank University] 
+	http://risis.eu/eter_2014/resource/UK0074................... http://risis.eu/orgref_20170703/resource/386181............. 1........................................................... [London South Bank University] was compared to [London South Bank University] 
+	http://risis.eu/leidenRanking_2015/resource/321............. http://risis.eu/orgref_20170703/resource/386181............. 1........................................................... [London South Bank University] was compared to [London South Bank University] 
+	http://risis.eu/orgref_20170703/resource/386181............. http://risis.eu/leidenRanking_2015/resource/321............. 1........................................................... [London South Bank University] was compared to [London South Bank University] 
+	http://risis.eu/cordisH2020/resource/participant_999911309.. http://risis.eu/leidenRanking_2015/resource/321............. 0.875....................................................... [LONDON SOUTH BANK UNIVERSITY LBG] was compared to [London South Bank University] 
+	http://risis.eu/leidenRanking_2015/resource/321............. http://risis.eu/cordisH2020/resource/participant_999911309.. 0.875....................................................... [LONDON SOUTH BANK UNIVERSITY LBG] was compared to [London South Bank University] 
+	http://risis.eu/cordisH2020/resource/participant_999911309.. http://risis.eu/eter_2014/resource/UK0074................... 0.875....................................................... [LONDON SOUTH BANK UNIVERSITY LBG] was compared to [London South Bank University] 
+	http://risis.eu/eter_2014/resource/UK0074................... http://risis.eu/cordisH2020/resource/participant_999911309.. 0.875....................................................... [LONDON SOUTH BANK UNIVERSITY LBG] was compared to [London South Bank University] 
+	http://risis.eu/leidenRanking_2015/resource/321............. http://risis.eu/eter_2014/resource/UK0074................... 1........................................................... [London South Bank University] was compared to [London South Bank University] 
+	http://risis.eu/eter_2014/resource/UK0074................... http://risis.eu/leidenRanking_2015/resource/321............. 1........................................................... [London South Bank University] was compared to [London South Bank University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_999911309.. http://risis.eu/cordisH2020/resource/www.lsbu.ac.uk......... 
+	http://risis.eu/cordisH2020/resource/participant_999911309.. LONDON SOUTH BANK UNIVERSITY LBG............................ 
+	http://risis.eu/leidenRanking_2015/resource/321............. London South Bank University................................ 
+	http://www.grid.ac/institutes/grid.4756.0................... -0.10154.................................................... 
+	http://www.grid.ac/institutes/grid.4756.0................... 51.49814.................................................... 
+	http://www.grid.ac/institutes/grid.4756.0................... http://www.lsbu.ac.uk/...................................... 
+	http://www.grid.ac/institutes/grid.4756.0................... London South Bank University................................ 
+	http://risis.eu/orgref_20170703/resource/386181............. http://en.wikipedia.org/wiki?curid=386181................... 
+	http://risis.eu/orgref_20170703/resource/386181............. http://www.wikidata.org/wiki/Q289348........................ 
+	http://risis.eu/orgref_20170703/resource/386181............. http://www.lsbu.ac.uk....................................... 
+	http://risis.eu/orgref_20170703/resource/386181............. London South Bank University................................ 
+	http://risis.eu/eter_2014/resource/UK0074................... 51,498409................................................... 
+	http://risis.eu/eter_2014/resource/UK0074................... -0,101655................................................... 
+	http://risis.eu/eter_2014/resource/UK0074................... http://www.lsbu.ac.uk/...................................... 
+	http://risis.eu/eter_2014/resource/UK0074................... a........................................................... 
+	http://risis.eu/eter_2014/resource/UK0074................... London South Bank University................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:321', '1:participant_999911309'), ('2:321', '4:386181'), ('2:321', '5:UK0074'), ('3:grid.4756.0', '2:321'), ('4:386181', '3:grid.4756.0'), ('5:UK0074', '1:participant_999911309'), ('5:UK0074', '3:grid.4756.0'), ('5:UK0074', '4:386181')]
+	MAX DISTANCE:                   : 0.8
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 2.7
+	AVERAGE NODE CONNECTIVITY RATIO : 0.675
+	BRIDGES                         : 0
+	CLOSURE                         : 0.8
+	DIAMETER                        : 2
+	QUALITY                         : 0.178
+	QUALITY USED                    : 0.195
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.2 DIAMETER 0.333 QUALITY 0.178 QUALITY USED 0.195
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.2 DIAMETER 0.385 QUALITY 0.178 QUALITY USED 0.195

@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 16870 
+NAME    N1644256424
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.262007.1>
+	<http://risis.eu/leidenRanking_2015/resource/18185>
+	<http://risis.eu/orgref_20170703/resource/187509>
+	<http://risis.eu/orgref_20170703/resource/5115201>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.262007.1........ http://risis.eu/orgref_20170703/resource/187509.... 1.................................................. [Pomona College] was compared to [Pomona College].. 
+	http://risis.eu/orgref_20170703/resource/187509.... http://www.grid.ac/institutes/grid.262007.1........ 1.................................................. [Pomona College] was compared to [Pomona College].. 
+	http://www.grid.ac/institutes/grid.262007.1........ http://risis.eu/orgref_20170703/resource/5115201... 0.928571428571..................................... [Pomona College] was compared to [Poona College]... 
+	http://risis.eu/orgref_20170703/resource/5115201... http://www.grid.ac/institutes/grid.262007.1........ 0.928571428571..................................... [Pomona College] was compared to [Poona College]... 
+	http://www.grid.ac/institutes/grid.262007.1........ http://risis.eu/leidenRanking_2015/resource/18185.. 1.................................................. [Pomona College] was compared to [Pomona College].. 
+	http://risis.eu/leidenRanking_2015/resource/18185.. http://www.grid.ac/institutes/grid.262007.1........ 1.................................................. [Pomona College] was compared to [Pomona College].. 
+	http://risis.eu/leidenRanking_2015/resource/18185.. http://risis.eu/orgref_20170703/resource/187509.... 1.................................................. [Pomona College] was compared to [Pomona College].. 
+	http://risis.eu/orgref_20170703/resource/187509.... http://risis.eu/leidenRanking_2015/resource/18185.. 1.................................................. [Pomona College] was compared to [Pomona College].. 
+	http://risis.eu/leidenRanking_2015/resource/18185.. http://risis.eu/orgref_20170703/resource/5115201... 0.928571428571..................................... [Poona College] was compared to [Pomona College]... 
+	http://risis.eu/orgref_20170703/resource/5115201... http://risis.eu/leidenRanking_2015/resource/18185.. 0.928571428571..................................... [Poona College] was compared to [Pomona College]... 
+	http://risis.eu/orgref_20170703/resource/187509.... http://risis.eu/orgref_20170703/resource/5115201... 0.928571428571..................................... [Pomona College] was compared to [Poona College]... 
+	http://risis.eu/orgref_20170703/resource/5115201... http://risis.eu/orgref_20170703/resource/187509.... 0.928571428571..................................... [Pomona College] was compared to [Poona College]... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.262007.1........ -117.709404........................................ 
+	http://www.grid.ac/institutes/grid.262007.1........ 34.09777........................................... 
+	http://www.grid.ac/institutes/grid.262007.1........ http://www.pomona.edu/............................. 
+	http://www.grid.ac/institutes/grid.262007.1........ Pomona College..................................... 
+	http://risis.eu/leidenRanking_2015/resource/18185.. Pomona College..................................... 
+	http://risis.eu/orgref_20170703/resource/187509.... http://en.wikipedia.org/wiki?curid=187509.......... 
+	http://risis.eu/orgref_20170703/resource/187509.... http://www.wikidata.org/wiki/Q7227384.............. 
+	http://risis.eu/orgref_20170703/resource/187509.... http://www.pomona.edu.............................. 
+	http://risis.eu/orgref_20170703/resource/187509.... Pomona College..................................... 
+	http://risis.eu/orgref_20170703/resource/5115201... http://en.wikipedia.org/wiki?curid=5115201......... 
+	http://risis.eu/orgref_20170703/resource/5115201... http://www.wikidata.org/wiki/Q7228681.............. 
+	http://risis.eu/orgref_20170703/resource/5115201... Poona College...................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:18185', '1:grid.262007.1'), ('2:18185', '3:187509'), ('2:18185', '4:5115201'), ('3:187509', '1:grid.262007.1'), ('4:5115201', '1:grid.262007.1'), ('4:5115201', '3:187509')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

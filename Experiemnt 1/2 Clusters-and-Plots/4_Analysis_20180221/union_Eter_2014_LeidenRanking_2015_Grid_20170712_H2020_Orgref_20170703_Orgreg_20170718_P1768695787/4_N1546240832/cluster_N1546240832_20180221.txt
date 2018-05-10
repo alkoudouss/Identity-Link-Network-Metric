@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 16375 
+NAME    N1546240832
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.462694.b>
+	<http://risis.eu/orgref_20170703/resource/2285280>
+	<http://risis.eu/leidenRanking_2015/resource/15881>
+	<http://www.grid.ac/institutes/grid.481548.4>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.462694.b........ http://www.grid.ac/institutes/grid.481548.4........ 0.847826086957..................................... [French National High Magnetic Field Laboratory] was compared to [National High Magnetic Field Laboratory] 
+	http://www.grid.ac/institutes/grid.481548.4........ http://www.grid.ac/institutes/grid.462694.b........ 0.847826086957..................................... [French National High Magnetic Field Laboratory] was compared to [National High Magnetic Field Laboratory] 
+	http://www.grid.ac/institutes/grid.462694.b........ http://risis.eu/orgref_20170703/resource/2285280... 0.847826086957..................................... [French National High Magnetic Field Laboratory] was compared to [National High Magnetic Field Laboratory] 
+	http://risis.eu/orgref_20170703/resource/2285280... http://www.grid.ac/institutes/grid.462694.b........ 0.847826086957..................................... [French National High Magnetic Field Laboratory] was compared to [National High Magnetic Field Laboratory] 
+	http://risis.eu/orgref_20170703/resource/2285280... http://www.grid.ac/institutes/grid.481548.4........ 1.................................................. [National High Magnetic Field Laboratory] was compared to [National High Magnetic Field Laboratory] 
+	http://www.grid.ac/institutes/grid.481548.4........ http://risis.eu/orgref_20170703/resource/2285280... 1.................................................. [National High Magnetic Field Laboratory] was compared to [National High Magnetic Field Laboratory] 
+	http://www.grid.ac/institutes/grid.462694.b........ http://risis.eu/leidenRanking_2015/resource/15881.. 0.847826086957..................................... [French National High Magnetic Field Laboratory] was compared to [National High Magnetic Field Laboratory] 
+	http://risis.eu/leidenRanking_2015/resource/15881.. http://www.grid.ac/institutes/grid.462694.b........ 0.847826086957..................................... [French National High Magnetic Field Laboratory] was compared to [National High Magnetic Field Laboratory] 
+	http://risis.eu/leidenRanking_2015/resource/15881.. http://www.grid.ac/institutes/grid.481548.4........ 1.................................................. [National High Magnetic Field Laboratory] was compared to [National High Magnetic Field Laboratory] 
+	http://www.grid.ac/institutes/grid.481548.4........ http://risis.eu/leidenRanking_2015/resource/15881.. 1.................................................. [National High Magnetic Field Laboratory] was compared to [National High Magnetic Field Laboratory] 
+	http://risis.eu/orgref_20170703/resource/2285280... http://risis.eu/leidenRanking_2015/resource/15881.. 1.................................................. [National High Magnetic Field Laboratory] was compared to [National High Magnetic Field Laboratory] 
+	http://risis.eu/leidenRanking_2015/resource/15881.. http://risis.eu/orgref_20170703/resource/2285280... 1.................................................. [National High Magnetic Field Laboratory] was compared to [National High Magnetic Field Laboratory] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.462694.b........ 5.700173........................................... 
+	http://www.grid.ac/institutes/grid.462694.b........ 45.203896.......................................... 
+	http://www.grid.ac/institutes/grid.462694.b........ http://lncmi.cnrs.fr/?lang=en...................... 
+	http://www.grid.ac/institutes/grid.462694.b........ National Laboratory for Intense Magnetic Fields.... 
+	http://www.grid.ac/institutes/grid.462694.b........ French National High Magnetic Field Laboratory..... 
+	http://risis.eu/orgref_20170703/resource/2285280... http://en.wikipedia.org/wiki?curid=2285280......... 
+	http://risis.eu/orgref_20170703/resource/2285280... http://www.wikidata.org/wiki/Q6973069.............. 
+	http://risis.eu/orgref_20170703/resource/2285280... https://nationalmaglab.org......................... 
+	http://risis.eu/orgref_20170703/resource/2285280... National High Magnetic Field Laboratory............ 
+	http://risis.eu/leidenRanking_2015/resource/15881.. National High Magnetic Field Laboratory............ 
+	http://www.grid.ac/institutes/grid.481548.4........ -84.32214.......................................... 
+	http://www.grid.ac/institutes/grid.481548.4........ 30.423267.......................................... 
+	http://www.grid.ac/institutes/grid.481548.4........ https://nationalmaglab.org/........................ 
+	http://www.grid.ac/institutes/grid.481548.4........ MagLab............................................. 
+	http://www.grid.ac/institutes/grid.481548.4........ National High Magnetic Field Laboratory............ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:2285280', '1:grid.462694.b'), ('2:2285280', '4:grid.481548.4'), ('3:15881', '1:grid.462694.b'), ('3:15881', '2:2285280'), ('3:15881', '4:grid.481548.4'), ('4:grid.481548.4', '1:grid.462694.b')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

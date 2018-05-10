@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 4818 
+NAME    N1020401629
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.10877.39>
+	<http://risis.eu/orgref_20170703/resource/317443>
+	<http://risis.eu/cordisH2020/resource/participant_999864264>
+	<http://risis.eu/eter_2014/resource/FR0247>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.10877.39................. http://risis.eu/orgref_20170703/resource/317443............. 1........................................................... [École Polytechnique] was compared to [École Polytechnique] 
+	http://risis.eu/orgref_20170703/resource/317443............. http://www.grid.ac/institutes/grid.10877.39................. 1........................................................... [École Polytechnique] was compared to [École Polytechnique] 
+	http://www.grid.ac/institutes/grid.10877.39................. http://risis.eu/eter_2014/resource/FR0247................... 1........................................................... [École Polytechnique] was compared to [École polytechnique] 
+	http://risis.eu/eter_2014/resource/FR0247................... http://www.grid.ac/institutes/grid.10877.39................. 1........................................................... [École Polytechnique] was compared to [École polytechnique] 
+	http://www.grid.ac/institutes/grid.10877.39................. http://risis.eu/cordisH2020/resource/participant_999864264.. 1........................................................... [École Polytechnique] was compared to [ECOLE POLYTECHNIQUE] 
+	http://risis.eu/cordisH2020/resource/participant_999864264.. http://www.grid.ac/institutes/grid.10877.39................. 1........................................................... [École Polytechnique] was compared to [ECOLE POLYTECHNIQUE] 
+	http://risis.eu/orgref_20170703/resource/317443............. http://risis.eu/eter_2014/resource/FR0247................... 1........................................................... [École Polytechnique] was compared to [École polytechnique] 
+	http://risis.eu/eter_2014/resource/FR0247................... http://risis.eu/orgref_20170703/resource/317443............. 1........................................................... [École Polytechnique] was compared to [École polytechnique] 
+	http://risis.eu/orgref_20170703/resource/317443............. http://risis.eu/cordisH2020/resource/participant_999864264.. 1........................................................... [École Polytechnique] was compared to [ECOLE POLYTECHNIQUE] 
+	http://risis.eu/cordisH2020/resource/participant_999864264.. http://risis.eu/orgref_20170703/resource/317443............. 1........................................................... [École Polytechnique] was compared to [ECOLE POLYTECHNIQUE] 
+	http://risis.eu/cordisH2020/resource/participant_999864264.. http://risis.eu/eter_2014/resource/FR0247................... 1........................................................... [ECOLE POLYTECHNIQUE] was compared to [École polytechnique] 
+	http://risis.eu/eter_2014/resource/FR0247................... http://risis.eu/cordisH2020/resource/participant_999864264.. 1........................................................... [ECOLE POLYTECHNIQUE] was compared to [École polytechnique] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.10877.39................. 2.211313.................................................... 
+	http://www.grid.ac/institutes/grid.10877.39................. 48.714294................................................... 
+	http://www.grid.ac/institutes/grid.10877.39................. https://www.polytechnique.edu/en............................ 
+	http://www.grid.ac/institutes/grid.10877.39................. École Polytechnique........................................ 
+	http://risis.eu/orgref_20170703/resource/317443............. http://en.wikipedia.org/wiki?curid=317443................... 
+	http://risis.eu/orgref_20170703/resource/317443............. http://www.wikidata.org/wiki/Q273626........................ 
+	http://risis.eu/orgref_20170703/resource/317443............. http://www.polytechnique.edu/jsp/accueil.jsp?code=36392593&langue=1 
+	http://risis.eu/orgref_20170703/resource/317443............. École Polytechnique........................................ 
+	http://risis.eu/cordisH2020/resource/participant_999864264.. http://www.polytechnique.fr................................. 
+	http://risis.eu/cordisH2020/resource/participant_999864264.. ECOLE POLYTECHNIQUE......................................... 
+	http://risis.eu/eter_2014/resource/FR0247................... 48,714297................................................... 
+	http://risis.eu/eter_2014/resource/FR0247................... 2,211292.................................................... 
+	http://risis.eu/eter_2014/resource/FR0247................... http://www.polytechnique.edu/............................... 
+	http://risis.eu/eter_2014/resource/FR0247................... m........................................................... 
+	http://risis.eu/eter_2014/resource/FR0247................... École polytechnique........................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:317443', '1:grid.10877.39'), ('3:participant_999864264', '1:grid.10877.39'), ('3:participant_999864264', '2:317443'), ('4:FR0247', '1:grid.10877.39'), ('4:FR0247', '2:317443'), ('4:FR0247', '3:participant_999864264')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,70 @@
+SIZE    4   
+CLUSTER 4784 
+NAME    N1650958643
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.432782.8>
+	<http://www.grid.ac/institutes/grid.473201.3>
+	<http://www.grid.ac/institutes/grid.423787.d>
+	<http://www.grid.ac/institutes/grid.471061.5>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.423787.d.. http://www.grid.ac/institutes/grid.471061.5.. 1............................................ [Agfa-Gevaert (Belgium)] was compared to [Agfa-Gevaert (Germany)] 
+	http://www.grid.ac/institutes/grid.471061.5.. http://www.grid.ac/institutes/grid.423787.d.. 1............................................ [Agfa-Gevaert (Belgium)] was compared to [Agfa-Gevaert (Germany)] 
+	http://www.grid.ac/institutes/grid.432782.8.. http://www.grid.ac/institutes/grid.423787.d.. 1............................................ [Agfa-Gevaert (Belgium)] was compared to [Agfa-Gevaert (Canada)] 
+	http://www.grid.ac/institutes/grid.423787.d.. http://www.grid.ac/institutes/grid.432782.8.. 1............................................ [Agfa-Gevaert (Belgium)] was compared to [Agfa-Gevaert (Canada)] 
+	http://www.grid.ac/institutes/grid.473201.3.. http://www.grid.ac/institutes/grid.423787.d.. 1............................................ [Agfa-Gevaert (Belgium)] was compared to [Agfa-Gevaert (United States)] 
+	http://www.grid.ac/institutes/grid.423787.d.. http://www.grid.ac/institutes/grid.473201.3.. 1............................................ [Agfa-Gevaert (Belgium)] was compared to [Agfa-Gevaert (United States)] 
+	http://www.grid.ac/institutes/grid.473201.3.. http://www.grid.ac/institutes/grid.471061.5.. 1............................................ [Agfa-Gevaert (Germany)] was compared to [Agfa-Gevaert (United States)] 
+	http://www.grid.ac/institutes/grid.471061.5.. http://www.grid.ac/institutes/grid.473201.3.. 1............................................ [Agfa-Gevaert (Germany)] was compared to [Agfa-Gevaert (United States)] 
+	http://www.grid.ac/institutes/grid.432782.8.. http://www.grid.ac/institutes/grid.471061.5.. 1............................................ [Agfa-Gevaert (Canada)] was compared to [Agfa-Gevaert (Germany)] 
+	http://www.grid.ac/institutes/grid.471061.5.. http://www.grid.ac/institutes/grid.432782.8.. 1............................................ [Agfa-Gevaert (Canada)] was compared to [Agfa-Gevaert (Germany)] 
+	http://www.grid.ac/institutes/grid.432782.8.. http://www.grid.ac/institutes/grid.473201.3.. 1............................................ [Agfa-Gevaert (Canada)] was compared to [Agfa-Gevaert (United States)] 
+	http://www.grid.ac/institutes/grid.473201.3.. http://www.grid.ac/institutes/grid.432782.8.. 1............................................ [Agfa-Gevaert (Canada)] was compared to [Agfa-Gevaert (United States)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 19 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.432782.8.. -79.5701..................................... 
+	http://www.grid.ac/institutes/grid.432782.8.. 43.703114.................................... 
+	http://www.grid.ac/institutes/grid.432782.8.. http://www.agfa.com/global/en/main/index.jsp. 
+	http://www.grid.ac/institutes/grid.432782.8.. Agfa......................................... 
+	http://www.grid.ac/institutes/grid.432782.8.. Agfa-Gevaert (Canada)........................ 
+	http://www.grid.ac/institutes/grid.473201.3.. -79.9314..................................... 
+	http://www.grid.ac/institutes/grid.473201.3.. 32.99082..................................... 
+	http://www.grid.ac/institutes/grid.473201.3.. https://www.agfa.com/sp/global/en/internet/main/Addresses/index.jsp 
+	http://www.grid.ac/institutes/grid.473201.3.. Agfa-Gevaert (United States)................. 
+	http://www.grid.ac/institutes/grid.423787.d.. 4.444043..................................... 
+	http://www.grid.ac/institutes/grid.423787.d.. 51.178078.................................... 
+	http://www.grid.ac/institutes/grid.423787.d.. http://www.agfa.com/global/en/main/index.jsp. 
+	http://www.grid.ac/institutes/grid.423787.d.. Agfa......................................... 
+	http://www.grid.ac/institutes/grid.423787.d.. Agfa-Gevaert (Belgium)....................... 
+	http://www.grid.ac/institutes/grid.471061.5.. 6.986377..................................... 
+	http://www.grid.ac/institutes/grid.471061.5.. 51.014225.................................... 
+	http://www.grid.ac/institutes/grid.471061.5.. https://www.agfa.com/global/en/main/index.jsp 
+	http://www.grid.ac/institutes/grid.471061.5.. Agfa......................................... 
+	http://www.grid.ac/institutes/grid.471061.5.. Agfa-Gevaert (Germany)....................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.473201.3', '1:grid.432782.8'), ('2:grid.473201.3', '3:grid.423787.d'), ('2:grid.473201.3', '4:grid.471061.5'), ('3:grid.423787.d', '1:grid.432782.8'), ('4:grid.471061.5', '1:grid.432782.8'), ('4:grid.471061.5', '3:grid.423787.d')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

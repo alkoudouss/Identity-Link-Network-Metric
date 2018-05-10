@@ -1,0 +1,58 @@
+SIZE    4   
+CLUSTER 5727 
+NAME    N1423735361
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.431836.b>
+	<http://www.grid.ac/institutes/grid.463143.7>
+	<http://www.grid.ac/institutes/grid.431837.a>
+	<http://www.grid.ac/institutes/grid.423254.6>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.431836.b.. http://www.grid.ac/institutes/grid.423254.6.. 1............................................ [Assystem (Germany)] was compared to [Assystem (France)] 
+	http://www.grid.ac/institutes/grid.423254.6.. http://www.grid.ac/institutes/grid.431836.b.. 1............................................ [Assystem (Germany)] was compared to [Assystem (France)] 
+	http://www.grid.ac/institutes/grid.431837.a.. http://www.grid.ac/institutes/grid.423254.6.. 1............................................ [Assystem (Germany)] was compared to [Assystem (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.423254.6.. http://www.grid.ac/institutes/grid.431837.a.. 1............................................ [Assystem (Germany)] was compared to [Assystem (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.463143.7.. http://www.grid.ac/institutes/grid.423254.6.. 1............................................ [Assystem (Germany)] was compared to [Assystem (Morocco)] 
+	http://www.grid.ac/institutes/grid.423254.6.. http://www.grid.ac/institutes/grid.463143.7.. 1............................................ [Assystem (Germany)] was compared to [Assystem (Morocco)] 
+	http://www.grid.ac/institutes/grid.431836.b.. http://www.grid.ac/institutes/grid.431837.a.. 1............................................ [Assystem (France)] was compared to [Assystem (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.431837.a.. http://www.grid.ac/institutes/grid.431836.b.. 1............................................ [Assystem (France)] was compared to [Assystem (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.431836.b.. http://www.grid.ac/institutes/grid.463143.7.. 1............................................ [Assystem (France)] was compared to [Assystem (Morocco)] 
+	http://www.grid.ac/institutes/grid.463143.7.. http://www.grid.ac/institutes/grid.431836.b.. 1............................................ [Assystem (France)] was compared to [Assystem (Morocco)] 
+	http://www.grid.ac/institutes/grid.463143.7.. http://www.grid.ac/institutes/grid.431837.a.. 1............................................ [Assystem (United Kingdom)] was compared to [Assystem (Morocco)] 
+	http://www.grid.ac/institutes/grid.431837.a.. http://www.grid.ac/institutes/grid.463143.7.. 1............................................ [Assystem (United Kingdom)] was compared to [Assystem (Morocco)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 7 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.431836.b.. Assystem (France)............................ 
+	http://www.grid.ac/institutes/grid.463143.7.. -5.800054.................................... 
+	http://www.grid.ac/institutes/grid.463143.7.. 35.766953.................................... 
+	http://www.grid.ac/institutes/grid.463143.7.. http://www.assystem.com/en/home.html......... 
+	http://www.grid.ac/institutes/grid.463143.7.. Assystem (Morocco)........................... 
+	http://www.grid.ac/institutes/grid.431837.a.. Assystem (United Kingdom).................... 
+	http://www.grid.ac/institutes/grid.423254.6.. Assystem (Germany)........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.431836.b', '4:grid.423254.6'), ('2:grid.463143.7', '1:grid.431836.b'), ('2:grid.463143.7', '4:grid.423254.6'), ('3:grid.431837.a', '1:grid.431836.b'), ('3:grid.431837.a', '2:grid.463143.7'), ('4:grid.423254.6', '3:grid.431837.a')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

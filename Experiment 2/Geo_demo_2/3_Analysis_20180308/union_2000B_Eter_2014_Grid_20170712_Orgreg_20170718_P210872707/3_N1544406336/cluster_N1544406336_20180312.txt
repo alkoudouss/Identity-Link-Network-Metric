@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 300 
+NAME    N1544406336
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.413179.9>
+	<http://www.grid.ac/institutes/grid.466039.e>
+	<http://risis.eu/eter_2014/resource/IT0156>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.413179.9.. http://risis.eu/eter_2014/resource/IT0156.... 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://www.grid.ac/institutes/grid.466039.e.. http://risis.eu/eter_2014/resource/IT0156.... 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/IT0156.... http://www.grid.ac/institutes/grid.413179.9.. 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/IT0156.... http://www.grid.ac/institutes/grid.466039.e.. 1............................................ Near each other by at most 2000 meter(s)..... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.413179.9.. 7.536179..................................... 
+	http://www.grid.ac/institutes/grid.413179.9.. 44.3858...................................... 
+	http://www.grid.ac/institutes/grid.413179.9.. http://www.ospedale.cuneo.it/................ 
+	http://www.grid.ac/institutes/grid.413179.9.. Azienda Sanitaria Ospedaliera S.Croce e Carle Cuneo 
+	http://www.grid.ac/institutes/grid.466039.e.. 7.551739..................................... 
+	http://www.grid.ac/institutes/grid.466039.e.. 44.393314.................................... 
+	http://www.grid.ac/institutes/grid.466039.e.. http://www.conservatoriocuneo.it/............ 
+	http://www.grid.ac/institutes/grid.466039.e.. Conservatorio di Musica G.F. Ghedini......... 
+	http://risis.eu/eter_2014/resource/IT0156.... 44,384477.................................... 
+	http://risis.eu/eter_2014/resource/IT0156.... 7,542671..................................... 
+	http://risis.eu/eter_2014/resource/IT0156.... http://www.conservatoriocuneo.it/............ 
+	http://risis.eu/eter_2014/resource/IT0156.... a............................................ 
+	http://risis.eu/eter_2014/resource/IT0156.... Music Conservatory of CUNEO G.F. Ghedini..... 
+	http://risis.eu/eter_2014/resource/IT0156.... Conservatorio di CUNEO G.F. Ghedini.......... 
+
+NETWORK ANALYSIS
+	NETWORK [('P142189335-IT0156', 'P869111963-grid.466039.e'), ('P142189335-IT0156', 'N1544406336-grid.413179.9')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

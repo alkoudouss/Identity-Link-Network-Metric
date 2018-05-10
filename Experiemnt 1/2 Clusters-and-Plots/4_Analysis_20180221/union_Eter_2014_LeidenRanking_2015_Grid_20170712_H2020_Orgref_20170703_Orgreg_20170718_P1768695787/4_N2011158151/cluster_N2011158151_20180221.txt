@@ -1,0 +1,69 @@
+SIZE    4   
+CLUSTER 1299 
+NAME    N2011158151
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.436149.d>
+	<http://risis.eu/orgref_20170703/resource/47002234>
+	<http://www.grid.ac/institutes/grid.467139.e>
+	<http://www.grid.ac/institutes/grid.462413.6>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.436149.d........ http://www.grid.ac/institutes/grid.467139.e........ 1.................................................. [John Wiley & Sons (United Kingdom)] was compared to [John Wiley & Sons (Germany)] 
+	http://www.grid.ac/institutes/grid.467139.e........ http://www.grid.ac/institutes/grid.436149.d........ 1.................................................. [John Wiley & Sons (United Kingdom)] was compared to [John Wiley & Sons (Germany)] 
+	http://www.grid.ac/institutes/grid.436149.d........ http://www.grid.ac/institutes/grid.462413.6........ 1.................................................. [John Wiley & Sons (United Kingdom)] was compared to [John Wiley & Sons (United States)] 
+	http://www.grid.ac/institutes/grid.462413.6........ http://www.grid.ac/institutes/grid.436149.d........ 1.................................................. [John Wiley & Sons (United Kingdom)] was compared to [John Wiley & Sons (United States)] 
+	http://www.grid.ac/institutes/grid.467139.e........ http://www.grid.ac/institutes/grid.462413.6........ 1.................................................. [John Wiley & Sons (United States)] was compared to [John Wiley & Sons (Germany)] 
+	http://www.grid.ac/institutes/grid.462413.6........ http://www.grid.ac/institutes/grid.467139.e........ 1.................................................. [John Wiley & Sons (United States)] was compared to [John Wiley & Sons (Germany)] 
+	http://www.grid.ac/institutes/grid.436149.d........ http://risis.eu/orgref_20170703/resource/47002234.. 1.................................................. [John Wiley & Sons (United Kingdom)] was compared to [John Wiley & Sons] 
+	http://risis.eu/orgref_20170703/resource/47002234.. http://www.grid.ac/institutes/grid.436149.d........ 1.................................................. [John Wiley & Sons (United Kingdom)] was compared to [John Wiley & Sons] 
+	http://risis.eu/orgref_20170703/resource/47002234.. http://www.grid.ac/institutes/grid.462413.6........ 1.................................................. [John Wiley & Sons (United States)] was compared to [John Wiley & Sons] 
+	http://www.grid.ac/institutes/grid.462413.6........ http://risis.eu/orgref_20170703/resource/47002234.. 1.................................................. [John Wiley & Sons (United States)] was compared to [John Wiley & Sons] 
+	http://risis.eu/orgref_20170703/resource/47002234.. http://www.grid.ac/institutes/grid.467139.e........ 1.................................................. [John Wiley & Sons (Germany)] was compared to [John Wiley & Sons] 
+	http://www.grid.ac/institutes/grid.467139.e........ http://risis.eu/orgref_20170703/resource/47002234.. 1.................................................. [John Wiley & Sons (Germany)] was compared to [John Wiley & Sons] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.436149.d........ -0.782635.......................................... 
+	http://www.grid.ac/institutes/grid.436149.d........ 50.831486.......................................... 
+	http://www.grid.ac/institutes/grid.436149.d........ http://as.wiley.com/WileyCDA/Section/index.html.... 
+	http://www.grid.ac/institutes/grid.436149.d........ Wiley.............................................. 
+	http://www.grid.ac/institutes/grid.436149.d........ John Wiley & Sons (United Kingdom)................. 
+	http://risis.eu/orgref_20170703/resource/47002234.. http://en.wikipedia.org/wiki?curid=537930.......... 
+	http://risis.eu/orgref_20170703/resource/47002234.. http://www.wikidata.org/wiki/Q1479654.............. 
+	http://risis.eu/orgref_20170703/resource/47002234.. John Wiley & Sons.................................. 
+	http://www.grid.ac/institutes/grid.467139.e........ 8.629841........................................... 
+	http://www.grid.ac/institutes/grid.467139.e........ 49.54293........................................... 
+	http://www.grid.ac/institutes/grid.467139.e........ http://www.wiley-vch.de/publish/dt/................ 
+	http://www.grid.ac/institutes/grid.467139.e........ Wiley.............................................. 
+	http://www.grid.ac/institutes/grid.467139.e........ John Wiley & Sons (Germany)........................ 
+	http://www.grid.ac/institutes/grid.462413.6........ -74.02867.......................................... 
+	http://www.grid.ac/institutes/grid.462413.6........ 40.73744........................................... 
+	http://www.grid.ac/institutes/grid.462413.6........ http://as.wiley.com/............................... 
+	http://www.grid.ac/institutes/grid.462413.6........ Wiley.............................................. 
+	http://www.grid.ac/institutes/grid.462413.6........ John Wiley & Sons (United States).................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:47002234', '1:grid.436149.d'), ('2:47002234', '4:grid.462413.6'), ('3:grid.467139.e', '1:grid.436149.d'), ('3:grid.467139.e', '2:47002234'), ('4:grid.462413.6', '1:grid.436149.d'), ('4:grid.462413.6', '3:grid.467139.e')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

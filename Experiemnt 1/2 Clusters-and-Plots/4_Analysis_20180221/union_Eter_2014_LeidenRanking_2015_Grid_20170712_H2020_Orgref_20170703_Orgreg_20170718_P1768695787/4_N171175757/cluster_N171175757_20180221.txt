@@ -1,0 +1,60 @@
+SIZE    4   
+CLUSTER 11802 
+NAME    N171175757
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.418441.c>
+	<http://risis.eu/orgref_20170703/resource/8090892>
+	<http://www.grid.ac/institutes/grid.418390.7>
+	<http://risis.eu/orgref_20170703/resource/10747136>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.418441.c........ http://risis.eu/orgref_20170703/resource/8090892... 1.................................................. [Max Planck Institute of Molecular Physiology] was compared to [Max Planck Institute of Molecular Physiology] 
+	http://risis.eu/orgref_20170703/resource/8090892... http://www.grid.ac/institutes/grid.418441.c........ 1.................................................. [Max Planck Institute of Molecular Physiology] was compared to [Max Planck Institute of Molecular Physiology] 
+	http://www.grid.ac/institutes/grid.418390.7........ http://risis.eu/orgref_20170703/resource/10747136.. 1.................................................. [Max Planck Institute for Molecular Plant Physiology] was compared to [Max Planck Institute of Molecular Plant Physiology] 
+	http://risis.eu/orgref_20170703/resource/10747136.. http://www.grid.ac/institutes/grid.418390.7........ 1.................................................. [Max Planck Institute for Molecular Plant Physiology] was compared to [Max Planck Institute of Molecular Plant Physiology] 
+	http://www.grid.ac/institutes/grid.418441.c........ http://www.grid.ac/institutes/grid.418390.7........ 0.872340425532..................................... [Max Planck Institute for Molecular Plant Physiology] was compared to [Max Planck Institute of Molecular Physiology] 
+	http://www.grid.ac/institutes/grid.418390.7........ http://www.grid.ac/institutes/grid.418441.c........ 0.872340425532..................................... [Max Planck Institute for Molecular Plant Physiology] was compared to [Max Planck Institute of Molecular Physiology] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.418441.c........ 7.409511........................................... 
+	http://www.grid.ac/institutes/grid.418441.c........ 51.48966........................................... 
+	http://www.grid.ac/institutes/grid.418441.c........ http://www.mpi-dortmund.mpg.de/2285/en............. 
+	http://www.grid.ac/institutes/grid.418441.c........ Max Planck Institute of Molecular Physiology....... 
+	http://risis.eu/orgref_20170703/resource/8090892... http://en.wikipedia.org/wiki?curid=8090892......... 
+	http://risis.eu/orgref_20170703/resource/8090892... http://www.wikidata.org/wiki/Q1251781.............. 
+	http://risis.eu/orgref_20170703/resource/8090892... Max Planck Institute of Molecular Physiology....... 
+	http://www.grid.ac/institutes/grid.418390.7........ 12.96892........................................... 
+	http://www.grid.ac/institutes/grid.418390.7........ 52.415688.......................................... 
+	http://www.grid.ac/institutes/grid.418390.7........ http://www.mpimp-golm.mpg.de/2168/en............... 
+	http://www.grid.ac/institutes/grid.418390.7........ Max Planck Institute for Molecular Plant Physiology 
+	http://risis.eu/orgref_20170703/resource/10747136.. http://en.wikipedia.org/wiki?curid=10747136........ 
+	http://risis.eu/orgref_20170703/resource/10747136.. http://www.wikidata.org/wiki/Q910825............... 
+	http://risis.eu/orgref_20170703/resource/10747136.. http://www.mpimp-golm.mpg.de/2168/en............... 
+	http://risis.eu/orgref_20170703/resource/10747136.. Max Planck Institute of Molecular Plant Physiology. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:8090892', '1:grid.418441.c'), ('3:grid.418390.7', '1:grid.418441.c'), ('4:10747136', '3:grid.418390.7')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

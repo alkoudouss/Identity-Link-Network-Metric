@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 16229 
+NAME    N1862489405
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/29570007>
+	<http://risis.eu/eter_2014/resource/RO0068>
+	<http://risis.eu/orgreg_20170718/resource/RO0068>
+	<http://www.grid.ac/institutes/grid.445847.e>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/eter_2014/resource/RO0068.......... http://www.grid.ac/institutes/grid.445847.e........ 0.861111111111..................................... [Universitatea Tibiscus din Timişoara] was compared to [Universitatea  Tibiscus Timisoara] 
+	http://www.grid.ac/institutes/grid.445847.e........ http://risis.eu/eter_2014/resource/RO0068.......... 0.861111111111..................................... [Universitatea Tibiscus din Timişoara] was compared to [Universitatea  Tibiscus Timisoara] 
+	http://risis.eu/orgref_20170703/resource/29570007.. http://risis.eu/eter_2014/resource/RO0068.......... 0.848484848485..................................... [Tibiscus University of Timișoara] was compared to [Universitatea  Tibiscus Timisoara] 
+	http://risis.eu/eter_2014/resource/RO0068.......... http://risis.eu/orgref_20170703/resource/29570007.. 0.848484848485..................................... [Tibiscus University of Timișoara] was compared to [Universitatea  Tibiscus Timisoara] 
+	http://risis.eu/eter_2014/resource/RO0068.......... http://risis.eu/orgreg_20170718/resource/RO0068.... 0.848484848485..................................... [Tibiscus University of Timisoara] was compared to [Universitatea  Tibiscus Timisoara] 
+	http://risis.eu/orgreg_20170718/resource/RO0068.... http://risis.eu/eter_2014/resource/RO0068.......... 0.848484848485..................................... [Tibiscus University of Timisoara] was compared to [Universitatea  Tibiscus Timisoara] 
+	http://risis.eu/orgref_20170703/resource/29570007.. http://risis.eu/orgreg_20170718/resource/RO0068.... 1.................................................. [Tibiscus University of Timișoara] was compared to [Tibiscus University of Timisoara] 
+	http://risis.eu/orgreg_20170718/resource/RO0068.... http://risis.eu/orgref_20170703/resource/29570007.. 1.................................................. [Tibiscus University of Timișoara] was compared to [Tibiscus University of Timisoara] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/29570007.. http://en.wikipedia.org/wiki?curid=29570007........ 
+	http://risis.eu/orgref_20170703/resource/29570007.. http://www.wikidata.org/wiki/Q1128467.............. 
+	http://risis.eu/orgref_20170703/resource/29570007.. http://www.tibiscus.ro............................. 
+	http://risis.eu/orgref_20170703/resource/29570007.. Tibiscus University of Timișoara.................. 
+	http://risis.eu/eter_2014/resource/RO0068.......... m.................................................. 
+	http://risis.eu/eter_2014/resource/RO0068.......... www.tibiscus.ro.................................... 
+	http://risis.eu/eter_2014/resource/RO0068.......... a.................................................. 
+	http://risis.eu/eter_2014/resource/RO0068.......... Tibiscus University of Timisoara................... 
+	http://risis.eu/eter_2014/resource/RO0068.......... Universitatea  Tibiscus Timisoara.................. 
+	http://risis.eu/orgreg_20170718/resource/RO0068.... 26.018779.......................................... 
+	http://risis.eu/orgreg_20170718/resource/RO0068.... 44.426129.......................................... 
+	http://risis.eu/orgreg_20170718/resource/RO0068.... www.tibiscus.ro.................................... 
+	http://risis.eu/orgreg_20170718/resource/RO0068.... Tibiscus University of Timisoara................... 
+	http://www.grid.ac/institutes/grid.445847.e........ Universitatea Tibiscus din Timişoara.............. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:RO0068', '1:29570007'), ('3:RO0068', '1:29570007'), ('3:RO0068', '2:RO0068'), ('4:grid.445847.e', '2:RO0068')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

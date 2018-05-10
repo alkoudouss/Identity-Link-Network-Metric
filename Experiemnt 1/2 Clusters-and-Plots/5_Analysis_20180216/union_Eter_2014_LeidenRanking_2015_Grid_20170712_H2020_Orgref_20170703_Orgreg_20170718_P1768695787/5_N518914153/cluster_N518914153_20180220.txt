@@ -1,0 +1,68 @@
+SIZE    5   
+CLUSTER 7351 
+NAME    N518914153
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.475143.0>
+	<http://www.grid.ac/institutes/grid.479747.e>
+	<http://www.grid.ac/institutes/grid.479712.e>
+	<http://www.grid.ac/institutes/grid.453710.4>
+	<http://www.grid.ac/institutes/grid.483839.d>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.475143.0.. http://www.grid.ac/institutes/grid.453710.4.. 0.882352941176............................... [Foster Foundation] was compared to [Fontes Foundation] 
+	http://www.grid.ac/institutes/grid.453710.4.. http://www.grid.ac/institutes/grid.475143.0.. 0.882352941176............................... [Foster Foundation] was compared to [Fontes Foundation] 
+	http://www.grid.ac/institutes/grid.475143.0.. http://www.grid.ac/institutes/grid.479747.e.. 0.85......................................... [Fontes Foundation] was compared to [Frontiers Foundation] 
+	http://www.grid.ac/institutes/grid.479747.e.. http://www.grid.ac/institutes/grid.475143.0.. 0.85......................................... [Fontes Foundation] was compared to [Frontiers Foundation] 
+	http://www.grid.ac/institutes/grid.475143.0.. http://www.grid.ac/institutes/grid.479712.e.. 0.842105263158............................... [Fontes Foundation] was compared to [Foundation of the Founders] 
+	http://www.grid.ac/institutes/grid.479712.e.. http://www.grid.ac/institutes/grid.475143.0.. 0.842105263158............................... [Fontes Foundation] was compared to [Foundation of the Founders] 
+	http://www.grid.ac/institutes/grid.479712.e.. http://www.grid.ac/institutes/grid.483839.d.. 0.842105263158............................... [Foundation of the Founders] was compared to [Foulkes Foundation] 
+	http://www.grid.ac/institutes/grid.483839.d.. http://www.grid.ac/institutes/grid.479712.e.. 0.842105263158............................... [Foundation of the Founders] was compared to [Foulkes Foundation] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 20 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.475143.0.. 10.687078.................................... 
+	http://www.grid.ac/institutes/grid.475143.0.. 59.9422...................................... 
+	http://www.grid.ac/institutes/grid.475143.0.. http://fontes.no/............................ 
+	http://www.grid.ac/institutes/grid.475143.0.. Fontes Foundation............................ 
+	http://www.grid.ac/institutes/grid.479747.e.. -79.32055.................................... 
+	http://www.grid.ac/institutes/grid.479747.e.. 43.67725..................................... 
+	http://www.grid.ac/institutes/grid.479747.e.. http://www.frontiersfoundation.ca/........... 
+	http://www.grid.ac/institutes/grid.479747.e.. Frontiers Foundation......................... 
+	http://www.grid.ac/institutes/grid.479712.e.. 8.546193..................................... 
+	http://www.grid.ac/institutes/grid.479712.e.. 47.37033..................................... 
+	http://www.grid.ac/institutes/grid.479712.e.. https://www.fondateurs.ch/en/home/........... 
+	http://www.grid.ac/institutes/grid.479712.e.. Foundation of the Founders................... 
+	http://www.grid.ac/institutes/grid.453710.4.. -122.20878................................... 
+	http://www.grid.ac/institutes/grid.453710.4.. 47.676407.................................... 
+	http://www.grid.ac/institutes/grid.453710.4.. http://www.thefosterfoundation.org/.......... 
+	http://www.grid.ac/institutes/grid.453710.4.. Foster Foundation............................ 
+	http://www.grid.ac/institutes/grid.483839.d.. -0.156001.................................... 
+	http://www.grid.ac/institutes/grid.483839.d.. 51.594456.................................... 
+	http://www.grid.ac/institutes/grid.483839.d.. http://www.foulkes-foundation.org/........... 
+	http://www.grid.ac/institutes/grid.483839.d.. Foulkes Foundation........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.479747.e', '1:grid.475143.0'), ('3:grid.479712.e', '1:grid.475143.0'), ('4:grid.453710.4', '1:grid.475143.0'), ('5:grid.483839.d', '3:grid.479712.e')]
+	MAX DISTANCE:                   : 0.4
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.25
+	BRIDGES                         : 4
+	CLOSURE                         : 0.4
+	DIAMETER                        : 3
+	QUALITY                         : 0.756
+	QUALITY USED                    : 0.756
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.6 DIAMETER 0.667 QUALITY 0.756 QUALITY USED 0.756
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.6 DIAMETER 0.667 QUALITY 0.756 QUALITY USED 0.756

@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 17052 
+NAME    N682262992
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.421106.0>
+	<http://risis.eu/orgref_20170703/resource/765942>
+	<http://risis.eu/orgref_20170703/resource/4490968>
+	<http://www.grid.ac/institutes/grid.431536.6>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.421106.0....... http://risis.eu/orgref_20170703/resource/765942... 1................................................. [Erskine College] was compared to [Erskine College] 
+	http://risis.eu/orgref_20170703/resource/765942... http://www.grid.ac/institutes/grid.421106.0....... 1................................................. [Erskine College] was compared to [Erskine College] 
+	http://risis.eu/orgref_20170703/resource/4490968.. http://www.grid.ac/institutes/grid.431536.6....... 1................................................. [Ursuline College] was compared to [Ursuline College] 
+	http://www.grid.ac/institutes/grid.431536.6....... http://risis.eu/orgref_20170703/resource/4490968.. 1................................................. [Ursuline College] was compared to [Ursuline College] 
+	http://risis.eu/orgref_20170703/resource/765942... http://risis.eu/orgref_20170703/resource/4490968.. 0.8125............................................ [Ursuline College] was compared to [Erskine College] 
+	http://risis.eu/orgref_20170703/resource/4490968.. http://risis.eu/orgref_20170703/resource/765942... 0.8125............................................ [Ursuline College] was compared to [Erskine College] 
+	http://www.grid.ac/institutes/grid.421106.0....... http://www.grid.ac/institutes/grid.431536.6....... 0.8125............................................ [Erskine College] was compared to [Ursuline College] 
+	http://www.grid.ac/institutes/grid.431536.6....... http://www.grid.ac/institutes/grid.421106.0....... 0.8125............................................ [Erskine College] was compared to [Ursuline College] 
+	http://www.grid.ac/institutes/grid.421106.0....... http://risis.eu/orgref_20170703/resource/4490968.. 0.8125............................................ [Erskine College] was compared to [Ursuline College] 
+	http://risis.eu/orgref_20170703/resource/4490968.. http://www.grid.ac/institutes/grid.421106.0....... 0.8125............................................ [Erskine College] was compared to [Ursuline College] 
+	http://risis.eu/orgref_20170703/resource/765942... http://www.grid.ac/institutes/grid.431536.6....... 0.8125............................................ [Ursuline College] was compared to [Erskine College] 
+	http://www.grid.ac/institutes/grid.431536.6....... http://risis.eu/orgref_20170703/resource/765942... 0.8125............................................ [Ursuline College] was compared to [Erskine College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.421106.0....... -82.39045......................................... 
+	http://www.grid.ac/institutes/grid.421106.0....... 34.33048.......................................... 
+	http://www.grid.ac/institutes/grid.421106.0....... http://www.erskine.edu/........................... 
+	http://www.grid.ac/institutes/grid.421106.0....... Erskine College................................... 
+	http://risis.eu/orgref_20170703/resource/765942... http://en.wikipedia.org/wiki?curid=765942......... 
+	http://risis.eu/orgref_20170703/resource/765942... http://www.wikidata.org/wiki/Q5395822............. 
+	http://risis.eu/orgref_20170703/resource/765942... http://www.erskine.edu............................ 
+	http://risis.eu/orgref_20170703/resource/765942... Erskine College................................... 
+	http://risis.eu/orgref_20170703/resource/4490968.. http://en.wikipedia.org/wiki?curid=4490968........ 
+	http://risis.eu/orgref_20170703/resource/4490968.. http://www.wikidata.org/wiki/Q7901303............. 
+	http://risis.eu/orgref_20170703/resource/4490968.. http://www.ursuline.edu........................... 
+	http://risis.eu/orgref_20170703/resource/4490968.. Ursuline College.................................. 
+	http://www.grid.ac/institutes/grid.431536.6....... -81.46667......................................... 
+	http://www.grid.ac/institutes/grid.431536.6....... 41.495............................................ 
+	http://www.grid.ac/institutes/grid.431536.6....... http://www.ursuline.edu/.......................... 
+	http://www.grid.ac/institutes/grid.431536.6....... Ursuline College.................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:765942', '1:grid.421106.0'), ('2:765942', '3:4490968'), ('2:765942', '4:grid.431536.6'), ('3:4490968', '1:grid.421106.0'), ('4:grid.431536.6', '1:grid.421106.0'), ('4:grid.431536.6', '3:4490968')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

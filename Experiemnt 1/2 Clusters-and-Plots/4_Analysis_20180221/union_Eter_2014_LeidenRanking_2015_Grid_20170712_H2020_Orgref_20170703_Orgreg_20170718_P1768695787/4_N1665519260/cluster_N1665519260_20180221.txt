@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 16314 
+NAME    N1665519260
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.412128.c>
+	<http://risis.eu/orgref_20170703/resource/497288>
+	<http://www.grid.ac/institutes/grid.248592.0>
+	<http://risis.eu/orgref_20170703/resource/84749>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.248592.0...... http://risis.eu/orgref_20170703/resource/84749... 1................................................ [Western Connecticut State University] was compared to [Western Connecticut State University] 
+	http://risis.eu/orgref_20170703/resource/84749... http://www.grid.ac/institutes/grid.248592.0...... 1................................................ [Western Connecticut State University] was compared to [Western Connecticut State University] 
+	http://www.grid.ac/institutes/grid.412128.c...... http://risis.eu/orgref_20170703/resource/497288.. 1................................................ [Eastern Connecticut State University] was compared to [Eastern Connecticut State University] 
+	http://risis.eu/orgref_20170703/resource/497288.. http://www.grid.ac/institutes/grid.412128.c...... 1................................................ [Eastern Connecticut State University] was compared to [Eastern Connecticut State University] 
+	http://risis.eu/orgref_20170703/resource/497288.. http://risis.eu/orgref_20170703/resource/84749... 0.944444444444................................... [Eastern Connecticut State University] was compared to [Western Connecticut State University] 
+	http://risis.eu/orgref_20170703/resource/84749... http://risis.eu/orgref_20170703/resource/497288.. 0.944444444444................................... [Eastern Connecticut State University] was compared to [Western Connecticut State University] 
+	http://www.grid.ac/institutes/grid.412128.c...... http://www.grid.ac/institutes/grid.248592.0...... 0.944444444444................................... [Western Connecticut State University] was compared to [Eastern Connecticut State University] 
+	http://www.grid.ac/institutes/grid.248592.0...... http://www.grid.ac/institutes/grid.412128.c...... 0.944444444444................................... [Western Connecticut State University] was compared to [Eastern Connecticut State University] 
+	http://risis.eu/orgref_20170703/resource/497288.. http://www.grid.ac/institutes/grid.248592.0...... 0.944444444444................................... [Western Connecticut State University] was compared to [Eastern Connecticut State University] 
+	http://www.grid.ac/institutes/grid.248592.0...... http://risis.eu/orgref_20170703/resource/497288.. 0.944444444444................................... [Western Connecticut State University] was compared to [Eastern Connecticut State University] 
+	http://www.grid.ac/institutes/grid.412128.c...... http://risis.eu/orgref_20170703/resource/84749... 0.944444444444................................... [Eastern Connecticut State University] was compared to [Western Connecticut State University] 
+	http://risis.eu/orgref_20170703/resource/84749... http://www.grid.ac/institutes/grid.412128.c...... 0.944444444444................................... [Eastern Connecticut State University] was compared to [Western Connecticut State University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.412128.c...... -72.21749........................................ 
+	http://www.grid.ac/institutes/grid.412128.c...... 41.71946......................................... 
+	http://www.grid.ac/institutes/grid.412128.c...... http://www.easternct.edu/........................ 
+	http://www.grid.ac/institutes/grid.412128.c...... Eastern Connecticut State University............. 
+	http://risis.eu/orgref_20170703/resource/497288.. http://en.wikipedia.org/wiki?curid=497288........ 
+	http://risis.eu/orgref_20170703/resource/497288.. http://www.wikidata.org/wiki/Q1278152............ 
+	http://risis.eu/orgref_20170703/resource/497288.. http://www.easternct.edu......................... 
+	http://risis.eu/orgref_20170703/resource/497288.. Eastern Connecticut State University............. 
+	http://www.grid.ac/institutes/grid.248592.0...... -73.44358........................................ 
+	http://www.grid.ac/institutes/grid.248592.0...... 41.399956........................................ 
+	http://www.grid.ac/institutes/grid.248592.0...... http://www.wcsu.edu/............................. 
+	http://www.grid.ac/institutes/grid.248592.0...... Western Connecticut State University............. 
+	http://risis.eu/orgref_20170703/resource/84749... http://en.wikipedia.org/wiki?curid=84749......... 
+	http://risis.eu/orgref_20170703/resource/84749... http://www.wikidata.org/wiki/Q1552113............ 
+	http://risis.eu/orgref_20170703/resource/84749... http://www.wcsu.edu.............................. 
+	http://risis.eu/orgref_20170703/resource/84749... Western Connecticut State University............. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.412128.c', '3:grid.248592.0'), ('2:497288', '1:grid.412128.c'), ('3:grid.248592.0', '2:497288'), ('4:84749', '1:grid.412128.c'), ('4:84749', '2:497288'), ('4:84749', '3:grid.248592.0')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

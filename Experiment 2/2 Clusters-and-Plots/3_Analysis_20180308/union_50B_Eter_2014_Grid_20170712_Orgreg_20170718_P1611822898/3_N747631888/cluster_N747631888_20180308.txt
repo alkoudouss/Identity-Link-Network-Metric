@@ -1,0 +1,54 @@
+SIZE    3   
+CLUSTER 566 
+NAME    N747631888
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/CY0041>
+	<http://risis.eu/orgreg_20170718/resource/CY4001>
+	<http://www.grid.ac/institutes/grid.417705.0>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/CY0041.. http://www.grid.ac/institutes/grid.417705.0...... 1................................................ Near each other by at most 50 meter(s)........... 
+	http://risis.eu/orgreg_20170718/resource/CY4001.. http://www.grid.ac/institutes/grid.417705.0...... 1................................................ Near each other by at most 50 meter(s)........... 
+	http://www.grid.ac/institutes/grid.417705.0...... http://risis.eu/orgreg_20170718/resource/CY0041.. 1................................................ Near each other by at most 50 meter(s)........... 
+	http://www.grid.ac/institutes/grid.417705.0...... http://risis.eu/orgreg_20170718/resource/CY4001.. 1................................................ Near each other by at most 50 meter(s)........... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/CY0041.. 33.314369........................................ 
+	http://risis.eu/orgreg_20170718/resource/CY0041.. 35.168574........................................ 
+	http://risis.eu/orgreg_20170718/resource/CY0041.. http://www.cing.ac.cy/csmm/...................... 
+	http://risis.eu/orgreg_20170718/resource/CY0041.. Cyprus School of Molecular Medicine-The Cyprus Institute of Neurology and Genetics 
+	http://risis.eu/orgreg_20170718/resource/CY4001.. 33.314426........................................ 
+	http://risis.eu/orgreg_20170718/resource/CY4001.. 35.16844......................................... 
+	http://risis.eu/orgreg_20170718/resource/CY4001.. http://www.cing.ac.cy............................ 
+	http://risis.eu/orgreg_20170718/resource/CY4001.. The Cyprus Institute of Neurology & Genetics..... 
+	http://www.grid.ac/institutes/grid.417705.0...... 33.314415........................................ 
+	http://www.grid.ac/institutes/grid.417705.0...... 35.168327........................................ 
+	http://www.grid.ac/institutes/grid.417705.0...... http://www.cing.ac.cy/easyconsole.cfm/id/1/uid/0.66093461512 
+	http://www.grid.ac/institutes/grid.417705.0...... Cyprus Institute of Neurology and Genetics....... 
+
+NETWORK ANALYSIS
+	NETWORK [('P358534960-CY0041', 'P1783367626-grid.417705.0'), ('N747631888-CY4001', 'P1783367626-grid.417705.0')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

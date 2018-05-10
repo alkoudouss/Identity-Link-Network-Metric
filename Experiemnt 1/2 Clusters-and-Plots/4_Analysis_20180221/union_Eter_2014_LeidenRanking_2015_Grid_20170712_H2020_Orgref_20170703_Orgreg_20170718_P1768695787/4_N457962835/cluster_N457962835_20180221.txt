@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 2049 
+NAME    N457962835
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.416728.e>
+	<http://risis.eu/orgref_20170703/resource/227123>
+	<http://risis.eu/orgref_20170703/resource/4298382>
+	<http://www.grid.ac/institutes/grid.413315.1>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.416728.e....... http://www.grid.ac/institutes/grid.413315.1....... 0.953488372093.................................... [Administration of Occupational Safety and Health] was compared to [Occupational Safety & Health Administration] 
+	http://www.grid.ac/institutes/grid.413315.1....... http://www.grid.ac/institutes/grid.416728.e....... 0.953488372093.................................... [Administration of Occupational Safety and Health] was compared to [Occupational Safety & Health Administration] 
+	http://risis.eu/orgref_20170703/resource/227123... http://www.grid.ac/institutes/grid.413315.1....... 1................................................. [Administration of Occupational Safety and Health] was compared to [Occupational Safety and Health Administration] 
+	http://www.grid.ac/institutes/grid.413315.1....... http://risis.eu/orgref_20170703/resource/227123... 1................................................. [Administration of Occupational Safety and Health] was compared to [Occupational Safety and Health Administration] 
+	http://www.grid.ac/institutes/grid.416728.e....... http://risis.eu/orgref_20170703/resource/227123... 0.953488372093.................................... [Occupational Safety & Health Administration] was compared to [Occupational Safety and Health Administration] 
+	http://risis.eu/orgref_20170703/resource/227123... http://www.grid.ac/institutes/grid.416728.e....... 0.953488372093.................................... [Occupational Safety & Health Administration] was compared to [Occupational Safety and Health Administration] 
+	http://risis.eu/orgref_20170703/resource/227123... http://risis.eu/orgref_20170703/resource/4298382.. 0.82.............................................. [Occupational Safety and Health Administration] was compared to [Michigan Occupational Safety and Health Administration] 
+	http://risis.eu/orgref_20170703/resource/4298382.. http://risis.eu/orgref_20170703/resource/227123... 0.82.............................................. [Occupational Safety and Health Administration] was compared to [Michigan Occupational Safety and Health Administration] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.416728.e....... -77.01438......................................... 
+	http://www.grid.ac/institutes/grid.416728.e....... 38.893112......................................... 
+	http://www.grid.ac/institutes/grid.416728.e....... https://www.osha.gov/............................. 
+	http://www.grid.ac/institutes/grid.416728.e....... Occupational Safety & Health Administration....... 
+	http://risis.eu/orgref_20170703/resource/227123... http://en.wikipedia.org/wiki?curid=227123......... 
+	http://risis.eu/orgref_20170703/resource/227123... http://www.wikidata.org/wiki/Q746186.............. 
+	http://risis.eu/orgref_20170703/resource/227123... https://www.osha.gov.............................. 
+	http://risis.eu/orgref_20170703/resource/227123... Occupational Safety and Health Administration..... 
+	http://risis.eu/orgref_20170703/resource/4298382.. http://en.wikipedia.org/wiki?curid=4298382........ 
+	http://risis.eu/orgref_20170703/resource/4298382.. http://www.wikidata.org/wiki/Q17069115............ 
+	http://risis.eu/orgref_20170703/resource/4298382.. http://www.michigan.gov/miosha.................... 
+	http://risis.eu/orgref_20170703/resource/4298382.. Michigan Occupational Safety and Health Administration 
+	http://www.grid.ac/institutes/grid.413315.1....... -21.821552........................................ 
+	http://www.grid.ac/institutes/grid.413315.1....... 64.124596......................................... 
+	http://www.grid.ac/institutes/grid.413315.1....... http://www.vinnueftirlit.is/english............... 
+	http://www.grid.ac/institutes/grid.413315.1....... Administration of Occupational Safety and Health.. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:227123', '1:grid.416728.e'), ('2:227123', '4:grid.413315.1'), ('3:4298382', '2:227123'), ('4:grid.413315.1', '1:grid.416728.e')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

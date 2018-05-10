@@ -1,0 +1,69 @@
+SIZE    4   
+CLUSTER 3984 
+NAME    P267084649
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.420760.7>
+	<http://www.grid.ac/institutes/grid.484157.b>
+	<http://risis.eu/orgref_20170703/resource/41421512>
+	<http://www.grid.ac/institutes/grid.476078.a>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.420760.7........ http://www.grid.ac/institutes/grid.476078.a........ 1.................................................. [Jazz Pharmaceuticals (United States)] was compared to [Jazz Pharmaceuticals (France)] 
+	http://www.grid.ac/institutes/grid.476078.a........ http://www.grid.ac/institutes/grid.420760.7........ 1.................................................. [Jazz Pharmaceuticals (United States)] was compared to [Jazz Pharmaceuticals (France)] 
+	http://www.grid.ac/institutes/grid.420760.7........ http://www.grid.ac/institutes/grid.484157.b........ 1.................................................. [Jazz Pharmaceuticals (United States)] was compared to [Jazz Pharmaceuticals (Italy)] 
+	http://www.grid.ac/institutes/grid.484157.b........ http://www.grid.ac/institutes/grid.420760.7........ 1.................................................. [Jazz Pharmaceuticals (United States)] was compared to [Jazz Pharmaceuticals (Italy)] 
+	http://www.grid.ac/institutes/grid.484157.b........ http://www.grid.ac/institutes/grid.476078.a........ 1.................................................. [Jazz Pharmaceuticals (France)] was compared to [Jazz Pharmaceuticals (Italy)] 
+	http://www.grid.ac/institutes/grid.476078.a........ http://www.grid.ac/institutes/grid.484157.b........ 1.................................................. [Jazz Pharmaceuticals (France)] was compared to [Jazz Pharmaceuticals (Italy)] 
+	http://www.grid.ac/institutes/grid.420760.7........ http://risis.eu/orgref_20170703/resource/41421512.. 1.................................................. [Jazz Pharmaceuticals (United States)] was compared to [Jazz Pharmaceuticals] 
+	http://risis.eu/orgref_20170703/resource/41421512.. http://www.grid.ac/institutes/grid.420760.7........ 1.................................................. [Jazz Pharmaceuticals (United States)] was compared to [Jazz Pharmaceuticals] 
+	http://risis.eu/orgref_20170703/resource/41421512.. http://www.grid.ac/institutes/grid.476078.a........ 1.................................................. [Jazz Pharmaceuticals (France)] was compared to [Jazz Pharmaceuticals] 
+	http://www.grid.ac/institutes/grid.476078.a........ http://risis.eu/orgref_20170703/resource/41421512.. 1.................................................. [Jazz Pharmaceuticals (France)] was compared to [Jazz Pharmaceuticals] 
+	http://www.grid.ac/institutes/grid.484157.b........ http://risis.eu/orgref_20170703/resource/41421512.. 1.................................................. [Jazz Pharmaceuticals (Italy)] was compared to [Jazz Pharmaceuticals] 
+	http://risis.eu/orgref_20170703/resource/41421512.. http://www.grid.ac/institutes/grid.484157.b........ 1.................................................. [Jazz Pharmaceuticals (Italy)] was compared to [Jazz Pharmaceuticals] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.420760.7........ -122.14866......................................... 
+	http://www.grid.ac/institutes/grid.420760.7........ 37.40715........................................... 
+	http://www.grid.ac/institutes/grid.420760.7........ https://www.jazzpharma.com/........................ 
+	http://www.grid.ac/institutes/grid.420760.7........ JAZZ............................................... 
+	http://www.grid.ac/institutes/grid.420760.7........ Jazz Pharmaceuticals (United States)............... 
+	http://www.grid.ac/institutes/grid.484157.b........ 9.030243........................................... 
+	http://www.grid.ac/institutes/grid.484157.b........ 45.769585.......................................... 
+	http://www.grid.ac/institutes/grid.484157.b........ https://www.jazzpharma.com/........................ 
+	http://www.grid.ac/institutes/grid.484157.b........ Jazz Pharmaceuticals (Italy)....................... 
+	http://risis.eu/orgref_20170703/resource/41421512.. http://en.wikipedia.org/wiki?curid=41421512........ 
+	http://risis.eu/orgref_20170703/resource/41421512.. http://www.wikidata.org/wiki/Q16255113............. 
+	http://risis.eu/orgref_20170703/resource/41421512.. http://www.jazzpharma.com.......................... 
+	http://risis.eu/orgref_20170703/resource/41421512.. Jazz Pharmaceuticals............................... 
+	http://www.grid.ac/institutes/grid.476078.a........ 4.833059........................................... 
+	http://www.grid.ac/institutes/grid.476078.a........ 45.768475.......................................... 
+	http://www.grid.ac/institutes/grid.476078.a........ https://www.jazzpharma.com/careers/open-positions/. 
+	http://www.grid.ac/institutes/grid.476078.a........ JAZZ............................................... 
+	http://www.grid.ac/institutes/grid.476078.a........ Jazz Pharmaceuticals (France)...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.484157.b', '1:grid.420760.7'), ('2:grid.484157.b', '4:grid.476078.a'), ('3:41421512', '1:grid.420760.7'), ('3:41421512', '2:grid.484157.b'), ('4:grid.476078.a', '1:grid.420760.7'), ('4:grid.476078.a', '3:41421512')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

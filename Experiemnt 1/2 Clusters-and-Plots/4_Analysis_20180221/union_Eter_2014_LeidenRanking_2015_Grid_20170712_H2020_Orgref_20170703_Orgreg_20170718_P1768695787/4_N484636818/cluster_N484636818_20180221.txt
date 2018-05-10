@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 8357 
+NAME    N484636818
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.267188.2>
+	<http://www.grid.ac/institutes/grid.443100.2>
+	<http://risis.eu/orgref_20170703/resource/263077>
+	<http://risis.eu/orgref_20170703/resource/23648399>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.267188.2........ http://risis.eu/orgref_20170703/resource/263077.... 1.................................................. [University of Southern Indiana] was compared to [University of Southern Indiana] 
+	http://risis.eu/orgref_20170703/resource/263077.... http://www.grid.ac/institutes/grid.267188.2........ 1.................................................. [University of Southern Indiana] was compared to [University of Southern Indiana] 
+	http://www.grid.ac/institutes/grid.443100.2........ http://risis.eu/orgref_20170703/resource/23648399.. 1.................................................. [University of Southern Mindanao] was compared to [University of Southern Mindanao] 
+	http://risis.eu/orgref_20170703/resource/23648399.. http://www.grid.ac/institutes/grid.443100.2........ 1.................................................. [University of Southern Mindanao] was compared to [University of Southern Mindanao] 
+	http://risis.eu/orgref_20170703/resource/263077.... http://risis.eu/orgref_20170703/resource/23648399.. 0.892857142857..................................... [University of Southern Mindanao] was compared to [University of Southern Indiana] 
+	http://risis.eu/orgref_20170703/resource/23648399.. http://risis.eu/orgref_20170703/resource/263077.... 0.892857142857..................................... [University of Southern Mindanao] was compared to [University of Southern Indiana] 
+	http://www.grid.ac/institutes/grid.267188.2........ http://www.grid.ac/institutes/grid.443100.2........ 0.892857142857..................................... [University of Southern Indiana] was compared to [University of Southern Mindanao] 
+	http://www.grid.ac/institutes/grid.443100.2........ http://www.grid.ac/institutes/grid.267188.2........ 0.892857142857..................................... [University of Southern Indiana] was compared to [University of Southern Mindanao] 
+	http://www.grid.ac/institutes/grid.267188.2........ http://risis.eu/orgref_20170703/resource/23648399.. 0.892857142857..................................... [University of Southern Indiana] was compared to [University of Southern Mindanao] 
+	http://risis.eu/orgref_20170703/resource/23648399.. http://www.grid.ac/institutes/grid.267188.2........ 0.892857142857..................................... [University of Southern Indiana] was compared to [University of Southern Mindanao] 
+	http://www.grid.ac/institutes/grid.443100.2........ http://risis.eu/orgref_20170703/resource/263077.... 0.892857142857..................................... [University of Southern Mindanao] was compared to [University of Southern Indiana] 
+	http://risis.eu/orgref_20170703/resource/263077.... http://www.grid.ac/institutes/grid.443100.2........ 0.892857142857..................................... [University of Southern Mindanao] was compared to [University of Southern Indiana] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.267188.2........ -87.67571.......................................... 
+	http://www.grid.ac/institutes/grid.267188.2........ 37.95755........................................... 
+	http://www.grid.ac/institutes/grid.267188.2........ http://www.usi.edu/................................ 
+	http://www.grid.ac/institutes/grid.267188.2........ University of Southern Indiana..................... 
+	http://www.grid.ac/institutes/grid.443100.2........ University of Southern Mindanao.................... 
+	http://risis.eu/orgref_20170703/resource/263077.... http://en.wikipedia.org/wiki?curid=263077.......... 
+	http://risis.eu/orgref_20170703/resource/263077.... http://www.wikidata.org/wiki/Q940289............... 
+	http://risis.eu/orgref_20170703/resource/263077.... http://www.usi.edu................................. 
+	http://risis.eu/orgref_20170703/resource/263077.... University of Southern Indiana..................... 
+	http://risis.eu/orgref_20170703/resource/23648399.. http://en.wikipedia.org/wiki?curid=23648399........ 
+	http://risis.eu/orgref_20170703/resource/23648399.. http://www.wikidata.org/wiki/Q7896344.............. 
+	http://risis.eu/orgref_20170703/resource/23648399.. http://www.usm.edu.ph.............................. 
+	http://risis.eu/orgref_20170703/resource/23648399.. University of Southern Mindanao.................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.443100.2', '1:grid.267188.2'), ('3:263077', '1:grid.267188.2'), ('3:263077', '2:grid.443100.2'), ('3:263077', '4:23648399'), ('4:23648399', '1:grid.267188.2'), ('4:23648399', '2:grid.443100.2')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,56 @@
+SIZE    4   
+CLUSTER 16167 
+NAME    N513544568
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.423599.0>
+	<http://www.grid.ac/institutes/grid.425272.4>
+	<http://www.grid.ac/institutes/grid.433304.3>
+	<http://risis.eu/cordisH2020/resource/participant_999928769>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.423599.0................. http://www.grid.ac/institutes/grid.433304.3................. 1........................................................... [Ion Beam Applications (United States)] was compared to [Ion Beam Applications (France)] 
+	http://www.grid.ac/institutes/grid.433304.3................. http://www.grid.ac/institutes/grid.423599.0................. 1........................................................... [Ion Beam Applications (United States)] was compared to [Ion Beam Applications (France)] 
+	http://www.grid.ac/institutes/grid.423599.0................. http://www.grid.ac/institutes/grid.425272.4................. 1........................................................... [Ion Beam Applications (United States)] was compared to [Ion Beam Applications (Belgium)] 
+	http://www.grid.ac/institutes/grid.425272.4................. http://www.grid.ac/institutes/grid.423599.0................. 1........................................................... [Ion Beam Applications (United States)] was compared to [Ion Beam Applications (Belgium)] 
+	http://www.grid.ac/institutes/grid.425272.4................. http://www.grid.ac/institutes/grid.433304.3................. 1........................................................... [Ion Beam Applications (Belgium)] was compared to [Ion Beam Applications (France)] 
+	http://www.grid.ac/institutes/grid.433304.3................. http://www.grid.ac/institutes/grid.425272.4................. 1........................................................... [Ion Beam Applications (Belgium)] was compared to [Ion Beam Applications (France)] 
+	http://www.grid.ac/institutes/grid.423599.0................. http://risis.eu/cordisH2020/resource/participant_999928769.. 0.875....................................................... [Ion Beam Applications (United States)] was compared to [ION BEAM APPLICATIONS SA] 
+	http://risis.eu/cordisH2020/resource/participant_999928769.. http://www.grid.ac/institutes/grid.423599.0................. 0.875....................................................... [Ion Beam Applications (United States)] was compared to [ION BEAM APPLICATIONS SA] 
+	http://www.grid.ac/institutes/grid.425272.4................. http://risis.eu/cordisH2020/resource/participant_999928769.. 0.875....................................................... [Ion Beam Applications (Belgium)] was compared to [ION BEAM APPLICATIONS SA] 
+	http://risis.eu/cordisH2020/resource/participant_999928769.. http://www.grid.ac/institutes/grid.425272.4................. 0.875....................................................... [Ion Beam Applications (Belgium)] was compared to [ION BEAM APPLICATIONS SA] 
+	http://www.grid.ac/institutes/grid.433304.3................. http://risis.eu/cordisH2020/resource/participant_999928769.. 0.875....................................................... [Ion Beam Applications (France)] was compared to [ION BEAM APPLICATIONS SA] 
+	http://risis.eu/cordisH2020/resource/participant_999928769.. http://www.grid.ac/institutes/grid.433304.3................. 0.875....................................................... [Ion Beam Applications (France)] was compared to [ION BEAM APPLICATIONS SA] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 5 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.423599.0................. Ion Beam Applications (United States)....................... 
+	http://www.grid.ac/institutes/grid.425272.4................. Ion Beam Applications (Belgium)............................. 
+	http://www.grid.ac/institutes/grid.433304.3................. Ion Beam Applications (France).............................. 
+	http://risis.eu/cordisH2020/resource/participant_999928769.. http://risis.eu/cordisH2020/resource/www.iba-group.com...... 
+	http://risis.eu/cordisH2020/resource/participant_999928769.. ION BEAM APPLICATIONS SA.................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.425272.4', '1:grid.423599.0'), ('3:grid.433304.3', '1:grid.423599.0'), ('3:grid.433304.3', '2:grid.425272.4'), ('4:participant_999928769', '1:grid.423599.0'), ('4:participant_999928769', '2:grid.425272.4'), ('4:participant_999928769', '3:grid.433304.3')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

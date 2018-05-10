@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 14765 
+NAME    P628607755
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/962714>
+	<http://risis.eu/orgreg_20170718/resource/SK1004>
+	<http://www.grid.ac/institutes/grid.419303.c>
+	<http://risis.eu/leidenRanking_2015/resource/15511>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/962714.... http://www.grid.ac/institutes/grid.419303.c........ 1.................................................. [Slovak Academy of Sciences] was compared to [Slovak Academy of Sciences] 
+	http://www.grid.ac/institutes/grid.419303.c........ http://risis.eu/orgref_20170703/resource/962714.... 1.................................................. [Slovak Academy of Sciences] was compared to [Slovak Academy of Sciences] 
+	http://www.grid.ac/institutes/grid.419303.c........ http://risis.eu/leidenRanking_2015/resource/15511.. 1.................................................. [Slovak Academy of Sciences] was compared to [Slovak Academy of Sciences] 
+	http://risis.eu/leidenRanking_2015/resource/15511.. http://www.grid.ac/institutes/grid.419303.c........ 1.................................................. [Slovak Academy of Sciences] was compared to [Slovak Academy of Sciences] 
+	http://risis.eu/orgref_20170703/resource/962714.... http://risis.eu/leidenRanking_2015/resource/15511.. 1.................................................. [Slovak Academy of Sciences] was compared to [Slovak Academy of Sciences] 
+	http://risis.eu/leidenRanking_2015/resource/15511.. http://risis.eu/orgref_20170703/resource/962714.... 1.................................................. [Slovak Academy of Sciences] was compared to [Slovak Academy of Sciences] 
+	http://risis.eu/orgreg_20170718/resource/SK1004.... http://risis.eu/leidenRanking_2015/resource/15511.. 1.................................................. [Slovak Academy of Sciences] was compared to [Slovak Academy of Sciences] 
+	http://risis.eu/leidenRanking_2015/resource/15511.. http://risis.eu/orgreg_20170718/resource/SK1004.... 1.................................................. [Slovak Academy of Sciences] was compared to [Slovak Academy of Sciences] 
+	http://risis.eu/orgref_20170703/resource/962714.... http://risis.eu/orgreg_20170718/resource/SK1004.... 1.................................................. [Slovak Academy of Sciences] was compared to [Slovak Academy of Sciences] 
+	http://risis.eu/orgreg_20170718/resource/SK1004.... http://risis.eu/orgref_20170703/resource/962714.... 1.................................................. [Slovak Academy of Sciences] was compared to [Slovak Academy of Sciences] 
+	http://risis.eu/orgreg_20170718/resource/SK1004.... http://www.grid.ac/institutes/grid.419303.c........ 1.................................................. [Slovak Academy of Sciences] was compared to [Slovak Academy of Sciences] 
+	http://www.grid.ac/institutes/grid.419303.c........ http://risis.eu/orgreg_20170718/resource/SK1004.... 1.................................................. [Slovak Academy of Sciences] was compared to [Slovak Academy of Sciences] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/962714.... http://en.wikipedia.org/wiki?curid=962714.......... 
+	http://risis.eu/orgref_20170703/resource/962714.... http://www.wikidata.org/wiki/Q1050317.............. 
+	http://risis.eu/orgref_20170703/resource/962714.... http://www.sav.sk.................................. 
+	http://risis.eu/orgref_20170703/resource/962714.... Slovak Academy of Sciences......................... 
+	http://risis.eu/orgreg_20170718/resource/SK1004.... 17.105838.......................................... 
+	http://risis.eu/orgreg_20170718/resource/SK1004.... 48.154961.......................................... 
+	http://risis.eu/orgreg_20170718/resource/SK1004.... https://www.sav.sk/?lang=en........................ 
+	http://risis.eu/orgreg_20170718/resource/SK1004.... Slovak Academy of Sciences......................... 
+	http://www.grid.ac/institutes/grid.419303.c........ 17.105818.......................................... 
+	http://www.grid.ac/institutes/grid.419303.c........ 48.154823.......................................... 
+	http://www.grid.ac/institutes/grid.419303.c........ http://www.sav.sk/................................. 
+	http://www.grid.ac/institutes/grid.419303.c........ Slovak Slovenská akadémia vied................... 
+	http://www.grid.ac/institutes/grid.419303.c........ Slovak Academy of Sciences......................... 
+	http://risis.eu/leidenRanking_2015/resource/15511.. Slovak Academy of Sciences......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:SK1004', '1:962714'), ('2:SK1004', '3:grid.419303.c'), ('3:grid.419303.c', '1:962714'), ('4:15511', '1:962714'), ('4:15511', '2:SK1004'), ('4:15511', '3:grid.419303.c')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

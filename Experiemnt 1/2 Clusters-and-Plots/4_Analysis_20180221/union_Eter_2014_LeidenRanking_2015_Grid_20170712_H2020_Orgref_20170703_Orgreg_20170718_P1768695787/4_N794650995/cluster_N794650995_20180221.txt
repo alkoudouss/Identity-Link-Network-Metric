@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 14213 
+NAME    N794650995
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.170205.1>
+	<http://risis.eu/leidenRanking_2015/resource/1193>
+	<http://risis.eu/cordisH2020/resource/participant_993760054>
+	<http://risis.eu/orgref_20170703/resource/32127>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.170205.1................. http://risis.eu/orgref_20170703/resource/32127.............. 1........................................................... [University of Chicago] was compared to [University of Chicago] 
+	http://risis.eu/orgref_20170703/resource/32127.............. http://www.grid.ac/institutes/grid.170205.1................. 1........................................................... [University of Chicago] was compared to [University of Chicago] 
+	http://www.grid.ac/institutes/grid.170205.1................. http://risis.eu/leidenRanking_2015/resource/1193............ 1........................................................... [University of Chicago] was compared to [University of Chicago] 
+	http://risis.eu/leidenRanking_2015/resource/1193............ http://www.grid.ac/institutes/grid.170205.1................. 1........................................................... [University of Chicago] was compared to [University of Chicago] 
+	http://www.grid.ac/institutes/grid.170205.1................. http://risis.eu/cordisH2020/resource/participant_993760054.. 1........................................................... [University of Chicago] was compared to [THE UNIVERSITY OF CHICAGO] 
+	http://risis.eu/cordisH2020/resource/participant_993760054.. http://www.grid.ac/institutes/grid.170205.1................. 1........................................................... [University of Chicago] was compared to [THE UNIVERSITY OF CHICAGO] 
+	http://risis.eu/leidenRanking_2015/resource/1193............ http://risis.eu/orgref_20170703/resource/32127.............. 1........................................................... [University of Chicago] was compared to [University of Chicago] 
+	http://risis.eu/orgref_20170703/resource/32127.............. http://risis.eu/leidenRanking_2015/resource/1193............ 1........................................................... [University of Chicago] was compared to [University of Chicago] 
+	http://risis.eu/cordisH2020/resource/participant_993760054.. http://risis.eu/orgref_20170703/resource/32127.............. 1........................................................... [University of Chicago] was compared to [THE UNIVERSITY OF CHICAGO] 
+	http://risis.eu/orgref_20170703/resource/32127.............. http://risis.eu/cordisH2020/resource/participant_993760054.. 1........................................................... [University of Chicago] was compared to [THE UNIVERSITY OF CHICAGO] 
+	http://risis.eu/leidenRanking_2015/resource/1193............ http://risis.eu/cordisH2020/resource/participant_993760054.. 1........................................................... [THE UNIVERSITY OF CHICAGO] was compared to [University of Chicago] 
+	http://risis.eu/cordisH2020/resource/participant_993760054.. http://risis.eu/leidenRanking_2015/resource/1193............ 1........................................................... [THE UNIVERSITY OF CHICAGO] was compared to [University of Chicago] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.170205.1................. -87.5987.................................................... 
+	http://www.grid.ac/institutes/grid.170205.1................. 41.78885.................................................... 
+	http://www.grid.ac/institutes/grid.170205.1................. http://www.uchicago.edu/.................................... 
+	http://www.grid.ac/institutes/grid.170205.1................. UChicago.................................................... 
+	http://www.grid.ac/institutes/grid.170205.1................. University of Chicago....................................... 
+	http://risis.eu/leidenRanking_2015/resource/1193............ University of Chicago....................................... 
+	http://risis.eu/cordisH2020/resource/participant_993760054.. http://risis.eu/cordisH2020/resource/www.uchicago.edu....... 
+	http://risis.eu/cordisH2020/resource/participant_993760054.. THE UNIVERSITY OF CHICAGO................................... 
+	http://risis.eu/orgref_20170703/resource/32127.............. http://en.wikipedia.org/wiki?curid=32127.................... 
+	http://risis.eu/orgref_20170703/resource/32127.............. http://www.wikidata.org/wiki/Q131252........................ 
+	http://risis.eu/orgref_20170703/resource/32127.............. https://www.uchicago.edu.................................... 
+	http://risis.eu/orgref_20170703/resource/32127.............. University of Chicago....................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1193', '1:grid.170205.1'), ('2:1193', '3:participant_993760054'), ('2:1193', '4:32127'), ('3:participant_993760054', '1:grid.170205.1'), ('4:32127', '1:grid.170205.1'), ('4:32127', '3:participant_993760054')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

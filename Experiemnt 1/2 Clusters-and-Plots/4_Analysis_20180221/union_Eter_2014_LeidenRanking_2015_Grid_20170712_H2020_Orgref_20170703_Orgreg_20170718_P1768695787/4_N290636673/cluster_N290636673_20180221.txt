@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 540 
+NAME    N290636673
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.413538.8>
+	<http://www.grid.ac/institutes/grid.413613.2>
+	<http://www.grid.ac/institutes/grid.414337.6>
+	<http://risis.eu/orgref_20170703/resource/8833811>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.413613.2....... http://risis.eu/orgref_20170703/resource/8833811.. 1................................................. [Hamilton General Hospital] was compared to [Hamilton General Hospital] 
+	http://risis.eu/orgref_20170703/resource/8833811.. http://www.grid.ac/institutes/grid.413613.2....... 1................................................. [Hamilton General Hospital] was compared to [Hamilton General Hospital] 
+	http://www.grid.ac/institutes/grid.413538.8....... http://www.grid.ac/institutes/grid.414337.6....... 0.913043478261.................................... [Halton General Hospital] was compared to [Horton General Hospital] 
+	http://www.grid.ac/institutes/grid.414337.6....... http://www.grid.ac/institutes/grid.413538.8....... 0.913043478261.................................... [Halton General Hospital] was compared to [Horton General Hospital] 
+	http://www.grid.ac/institutes/grid.413538.8....... http://www.grid.ac/institutes/grid.413613.2....... 0.92.............................................. [Halton General Hospital] was compared to [Hamilton General Hospital] 
+	http://www.grid.ac/institutes/grid.413613.2....... http://www.grid.ac/institutes/grid.413538.8....... 0.92.............................................. [Halton General Hospital] was compared to [Hamilton General Hospital] 
+	http://www.grid.ac/institutes/grid.413538.8....... http://risis.eu/orgref_20170703/resource/8833811.. 0.92.............................................. [Halton General Hospital] was compared to [Hamilton General Hospital] 
+	http://risis.eu/orgref_20170703/resource/8833811.. http://www.grid.ac/institutes/grid.413538.8....... 0.92.............................................. [Halton General Hospital] was compared to [Hamilton General Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.413538.8....... -2.694013......................................... 
+	http://www.grid.ac/institutes/grid.413538.8....... 53.324497......................................... 
+	http://www.grid.ac/institutes/grid.413538.8....... http://www.whh.nhs.uk/page.asp?fldArea=1&fldMenu=1&fldSubMenu=2&fldKey=133 
+	http://www.grid.ac/institutes/grid.413538.8....... Halton General Hospital........................... 
+	http://www.grid.ac/institutes/grid.413613.2....... -79.85472......................................... 
+	http://www.grid.ac/institutes/grid.413613.2....... 43.261944......................................... 
+	http://www.grid.ac/institutes/grid.413613.2....... http://www.hhsc.ca/body.cfm?ID=228................ 
+	http://www.grid.ac/institutes/grid.413613.2....... Hamilton General Hospital......................... 
+	http://www.grid.ac/institutes/grid.414337.6....... -1.334984......................................... 
+	http://www.grid.ac/institutes/grid.414337.6....... 52.053375......................................... 
+	http://www.grid.ac/institutes/grid.414337.6....... http://www.ouh.nhs.uk/hospitals/horton/........... 
+	http://www.grid.ac/institutes/grid.414337.6....... Horton General Hospital........................... 
+	http://risis.eu/orgref_20170703/resource/8833811.. http://en.wikipedia.org/wiki?curid=8833811........ 
+	http://risis.eu/orgref_20170703/resource/8833811.. http://www.wikidata.org/wiki/Q5644951............. 
+	http://risis.eu/orgref_20170703/resource/8833811.. http://www.hhsc.ca/body.cfm?id=228................ 
+	http://risis.eu/orgref_20170703/resource/8833811.. Hamilton General Hospital......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.413613.2', '1:grid.413538.8'), ('3:grid.414337.6', '1:grid.413538.8'), ('4:8833811', '1:grid.413538.8'), ('4:8833811', '2:grid.413613.2')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 272 
+NAME    N924657019
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.8465.f>
+	<http://risis.eu/orgreg_20170718/resource/DE1035>
+	<http://risis.eu/orgref_20170703/resource/6745960>
+	<http://risis.eu/leidenRanking_2015/resource/7233>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.8465.f......... http://risis.eu/orgref_20170703/resource/6745960.. 1................................................. [German Institute for Economic Research] was compared to [German Institute for Economic Research] 
+	http://risis.eu/orgref_20170703/resource/6745960.. http://www.grid.ac/institutes/grid.8465.f......... 1................................................. [German Institute for Economic Research] was compared to [German Institute for Economic Research] 
+	http://www.grid.ac/institutes/grid.8465.f......... http://risis.eu/leidenRanking_2015/resource/7233.. 1................................................. [German Institute for Economic Research] was compared to [German Institute for Economic Research (DIW Berlin)] 
+	http://risis.eu/leidenRanking_2015/resource/7233.. http://www.grid.ac/institutes/grid.8465.f......... 1................................................. [German Institute for Economic Research] was compared to [German Institute for Economic Research (DIW Berlin)] 
+	http://risis.eu/orgref_20170703/resource/6745960.. http://risis.eu/leidenRanking_2015/resource/7233.. 1................................................. [German Institute for Economic Research] was compared to [German Institute for Economic Research (DIW Berlin)] 
+	http://risis.eu/leidenRanking_2015/resource/7233.. http://risis.eu/orgref_20170703/resource/6745960.. 1................................................. [German Institute for Economic Research] was compared to [German Institute for Economic Research (DIW Berlin)] 
+	http://risis.eu/orgreg_20170718/resource/DE1035... http://risis.eu/leidenRanking_2015/resource/7233.. 1................................................. [German Institute for Economic Research] was compared to [German Institute for Economic Research (DIW Berlin)] 
+	http://risis.eu/leidenRanking_2015/resource/7233.. http://risis.eu/orgreg_20170718/resource/DE1035... 1................................................. [German Institute for Economic Research] was compared to [German Institute for Economic Research (DIW Berlin)] 
+	http://risis.eu/orgreg_20170718/resource/DE1035... http://risis.eu/orgref_20170703/resource/6745960.. 1................................................. [German Institute for Economic Research] was compared to [German Institute for Economic Research] 
+	http://risis.eu/orgref_20170703/resource/6745960.. http://risis.eu/orgreg_20170718/resource/DE1035... 1................................................. [German Institute for Economic Research] was compared to [German Institute for Economic Research] 
+	http://www.grid.ac/institutes/grid.8465.f......... http://risis.eu/orgreg_20170718/resource/DE1035... 1................................................. [German Institute for Economic Research] was compared to [German Institute for Economic Research] 
+	http://risis.eu/orgreg_20170718/resource/DE1035... http://www.grid.ac/institutes/grid.8465.f......... 1................................................. [German Institute for Economic Research] was compared to [German Institute for Economic Research] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.8465.f......... 13.388694......................................... 
+	http://www.grid.ac/institutes/grid.8465.f......... 52.512207......................................... 
+	http://www.grid.ac/institutes/grid.8465.f......... http://www.diw.de/en.............................. 
+	http://www.grid.ac/institutes/grid.8465.f......... German Institute for Economic Research............ 
+	http://risis.eu/orgreg_20170718/resource/DE1035... 52.512471......................................... 
+	http://risis.eu/orgreg_20170718/resource/DE1035... 13.388584......................................... 
+	http://risis.eu/orgreg_20170718/resource/DE1035... https://www.diw.de/deutsch........................ 
+	http://risis.eu/orgreg_20170718/resource/DE1035... German Institute for Economic Research............ 
+	http://risis.eu/orgref_20170703/resource/6745960.. http://en.wikipedia.org/wiki?curid=6745960........ 
+	http://risis.eu/orgref_20170703/resource/6745960.. http://www.wikidata.org/wiki/Q155228.............. 
+	http://risis.eu/orgref_20170703/resource/6745960.. http://www.diw.de................................. 
+	http://risis.eu/orgref_20170703/resource/6745960.. German Institute for Economic Research............ 
+	http://risis.eu/leidenRanking_2015/resource/7233.. German Institute for Economic Research (DIW Berlin) 
+
+NETWORK ANALYSIS
+	NETWORK [('2:DE1035', '1:grid.8465.f'), ('2:DE1035', '3:6745960'), ('3:6745960', '1:grid.8465.f'), ('4:7233', '1:grid.8465.f'), ('4:7233', '2:DE1035'), ('4:7233', '3:6745960')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,59 @@
+SIZE    4   
+CLUSTER 5915 
+NAME    N1775760139
+
+RESOURCES INVOLVED
+	<http://risis.eu/cordisH2020/resource/participant_999530778>
+	<http://risis.eu/cordisH2020/resource/participant_999809265>
+	<http://risis.eu/cordisH2020/resource/participant_999699558>
+	<http://risis.eu/cordisH2020/resource/participant_999991819>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_999809265.. http://risis.eu/cordisH2020/resource/participant_999991819.. 0.84........................................................ [AIRBUS DEFENCE AND SPACE SAS] was compared to [AIRBUS DEFENCE AND SPACE GMBH] 
+	http://risis.eu/cordisH2020/resource/participant_999991819.. http://risis.eu/cordisH2020/resource/participant_999809265.. 0.84........................................................ [AIRBUS DEFENCE AND SPACE SAS] was compared to [AIRBUS DEFENCE AND SPACE GMBH] 
+	http://risis.eu/cordisH2020/resource/participant_999530778.. http://risis.eu/cordisH2020/resource/participant_999809265.. 0.875....................................................... [AIRBUS DEFENCE AND SPACE LTD] was compared to [AIRBUS DEFENCE AND SPACE SAS] 
+	http://risis.eu/cordisH2020/resource/participant_999809265.. http://risis.eu/cordisH2020/resource/participant_999530778.. 0.875....................................................... [AIRBUS DEFENCE AND SPACE LTD] was compared to [AIRBUS DEFENCE AND SPACE SAS] 
+	http://risis.eu/cordisH2020/resource/participant_999530778.. http://risis.eu/cordisH2020/resource/participant_999699558.. 0.875....................................................... [AIRBUS DEFENCE AND SPACE LTD] was compared to [AIRBUS DEFENCE AND SPACE SA] 
+	http://risis.eu/cordisH2020/resource/participant_999699558.. http://risis.eu/cordisH2020/resource/participant_999530778.. 0.875....................................................... [AIRBUS DEFENCE AND SPACE LTD] was compared to [AIRBUS DEFENCE AND SPACE SA] 
+	http://risis.eu/cordisH2020/resource/participant_999530778.. http://risis.eu/cordisH2020/resource/participant_999991819.. 0.84........................................................ [AIRBUS DEFENCE AND SPACE LTD] was compared to [AIRBUS DEFENCE AND SPACE GMBH] 
+	http://risis.eu/cordisH2020/resource/participant_999991819.. http://risis.eu/cordisH2020/resource/participant_999530778.. 0.84........................................................ [AIRBUS DEFENCE AND SPACE LTD] was compared to [AIRBUS DEFENCE AND SPACE GMBH] 
+	http://risis.eu/cordisH2020/resource/participant_999809265.. http://risis.eu/cordisH2020/resource/participant_999699558.. 0.958333333333.............................................. [AIRBUS DEFENCE AND SPACE SA] was compared to [AIRBUS DEFENCE AND SPACE SAS] 
+	http://risis.eu/cordisH2020/resource/participant_999699558.. http://risis.eu/cordisH2020/resource/participant_999809265.. 0.958333333333.............................................. [AIRBUS DEFENCE AND SPACE SA] was compared to [AIRBUS DEFENCE AND SPACE SAS] 
+	http://risis.eu/cordisH2020/resource/participant_999699558.. http://risis.eu/cordisH2020/resource/participant_999991819.. 0.84........................................................ [AIRBUS DEFENCE AND SPACE SA] was compared to [AIRBUS DEFENCE AND SPACE GMBH] 
+	http://risis.eu/cordisH2020/resource/participant_999991819.. http://risis.eu/cordisH2020/resource/participant_999699558.. 0.84........................................................ [AIRBUS DEFENCE AND SPACE SA] was compared to [AIRBUS DEFENCE AND SPACE GMBH] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_999530778.. http://risis.eu/cordisH2020/resource/www.astrium.eads.net... 
+	http://risis.eu/cordisH2020/resource/participant_999530778.. AIRBUS DEFENCE AND SPACE LTD................................ 
+	http://risis.eu/cordisH2020/resource/participant_999809265.. http://risis.eu/cordisH2020/resource/www.airbusdefenceandspace.com 
+	http://risis.eu/cordisH2020/resource/participant_999809265.. AIRBUS DEFENCE AND SPACE SAS................................ 
+	http://risis.eu/cordisH2020/resource/participant_999699558.. http://risis.eu/cordisH2020/resource/www.eads.net........... 
+	http://risis.eu/cordisH2020/resource/participant_999699558.. AIRBUS DEFENCE AND SPACE SA................................. 
+	http://risis.eu/cordisH2020/resource/participant_999991819.. http://risis.eu/cordisH2020/resource/www.airbus-group.com... 
+	http://risis.eu/cordisH2020/resource/participant_999991819.. AIRBUS DEFENCE AND SPACE GMBH............................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_999809265', '1:participant_999530778'), ('2:participant_999809265', '3:participant_999699558'), ('3:participant_999699558', '1:participant_999530778'), ('4:participant_999991819', '1:participant_999530778'), ('4:participant_999991819', '2:participant_999809265'), ('4:participant_999991819', '3:participant_999699558')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

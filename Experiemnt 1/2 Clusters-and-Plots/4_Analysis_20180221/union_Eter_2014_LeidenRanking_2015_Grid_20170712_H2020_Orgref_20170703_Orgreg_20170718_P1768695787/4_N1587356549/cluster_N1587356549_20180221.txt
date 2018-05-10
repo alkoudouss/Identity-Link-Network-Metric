@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 17954 
+NAME    N1587356549
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.450623.6>
+	<http://www.grid.ac/institutes/grid.482401.b>
+	<http://www.grid.ac/institutes/grid.473921.a>
+	<http://www.grid.ac/institutes/grid.450626.3>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.450623.6.. http://www.grid.ac/institutes/grid.450626.3.. 1............................................ [Chevron (Canada)] was compared to [Chevron (United States)] 
+	http://www.grid.ac/institutes/grid.450626.3.. http://www.grid.ac/institutes/grid.450623.6.. 1............................................ [Chevron (Canada)] was compared to [Chevron (United States)] 
+	http://www.grid.ac/institutes/grid.450623.6.. http://www.grid.ac/institutes/grid.473921.a.. 1............................................ [Chevron (Canada)] was compared to [Chevron (Australia)] 
+	http://www.grid.ac/institutes/grid.473921.a.. http://www.grid.ac/institutes/grid.450623.6.. 1............................................ [Chevron (Canada)] was compared to [Chevron (Australia)] 
+	http://www.grid.ac/institutes/grid.450623.6.. http://www.grid.ac/institutes/grid.482401.b.. 1............................................ [Chevron (Canada)] was compared to [Chevron (Netherlands)] 
+	http://www.grid.ac/institutes/grid.482401.b.. http://www.grid.ac/institutes/grid.450623.6.. 1............................................ [Chevron (Canada)] was compared to [Chevron (Netherlands)] 
+	http://www.grid.ac/institutes/grid.473921.a.. http://www.grid.ac/institutes/grid.450626.3.. 1............................................ [Chevron (United States)] was compared to [Chevron (Australia)] 
+	http://www.grid.ac/institutes/grid.450626.3.. http://www.grid.ac/institutes/grid.473921.a.. 1............................................ [Chevron (United States)] was compared to [Chevron (Australia)] 
+	http://www.grid.ac/institutes/grid.482401.b.. http://www.grid.ac/institutes/grid.450626.3.. 1............................................ [Chevron (United States)] was compared to [Chevron (Netherlands)] 
+	http://www.grid.ac/institutes/grid.450626.3.. http://www.grid.ac/institutes/grid.482401.b.. 1............................................ [Chevron (United States)] was compared to [Chevron (Netherlands)] 
+	http://www.grid.ac/institutes/grid.482401.b.. http://www.grid.ac/institutes/grid.473921.a.. 1............................................ [Chevron (Australia)] was compared to [Chevron (Netherlands)] 
+	http://www.grid.ac/institutes/grid.473921.a.. http://www.grid.ac/institutes/grid.482401.b.. 1............................................ [Chevron (Australia)] was compared to [Chevron (Netherlands)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.450623.6.. -114.071915.................................. 
+	http://www.grid.ac/institutes/grid.450623.6.. 51.048958.................................... 
+	http://www.grid.ac/institutes/grid.450623.6.. http://www.chevron.ca/....................... 
+	http://www.grid.ac/institutes/grid.450623.6.. Chevron (Canada)............................. 
+	http://www.grid.ac/institutes/grid.482401.b.. 4.354763..................................... 
+	http://www.grid.ac/institutes/grid.482401.b.. 51.885113.................................... 
+	http://www.grid.ac/institutes/grid.482401.b.. https://www.chevron.com/..................... 
+	http://www.grid.ac/institutes/grid.482401.b.. Chevron (Netherlands)........................ 
+	http://www.grid.ac/institutes/grid.473921.a.. 115.85078.................................... 
+	http://www.grid.ac/institutes/grid.473921.a.. -31.952206................................... 
+	http://www.grid.ac/institutes/grid.473921.a.. https://www.chevron.com/worldwide/australia.. 
+	http://www.grid.ac/institutes/grid.473921.a.. Chevron (Australia).......................... 
+	http://www.grid.ac/institutes/grid.450626.3.. -121.96765................................... 
+	http://www.grid.ac/institutes/grid.450626.3.. 37.761673.................................... 
+	http://www.grid.ac/institutes/grid.450626.3.. http://www.chevron.com/...................... 
+	http://www.grid.ac/institutes/grid.450626.3.. Chevron (United States)...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.482401.b', '1:grid.450623.6'), ('2:grid.482401.b', '4:grid.450626.3'), ('3:grid.473921.a', '1:grid.450623.6'), ('3:grid.473921.a', '2:grid.482401.b'), ('3:grid.473921.a', '4:grid.450626.3'), ('4:grid.450626.3', '1:grid.450623.6')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

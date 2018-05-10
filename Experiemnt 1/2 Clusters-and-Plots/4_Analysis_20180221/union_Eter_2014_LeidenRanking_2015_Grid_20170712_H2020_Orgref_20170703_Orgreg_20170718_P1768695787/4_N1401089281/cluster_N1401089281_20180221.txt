@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 9399 
+NAME    N1401089281
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.436943.f>
+	<http://risis.eu/orgref_20170703/resource/1683741>
+	<http://www.grid.ac/institutes/grid.482851.2>
+	<http://risis.eu/leidenRanking_2015/resource/100148>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                               object                                               Strength                                             Evidence                                             
+	#################################################### #################################################### #################################################### #################################################### 
+	http://www.grid.ac/institutes/grid.436943.f......... http://www.grid.ac/institutes/grid.482851.2......... 1................................................... [Office of Naval Research] was compared to [Office of Naval Research] 
+	http://www.grid.ac/institutes/grid.482851.2......... http://www.grid.ac/institutes/grid.436943.f......... 1................................................... [Office of Naval Research] was compared to [Office of Naval Research] 
+	http://risis.eu/orgref_20170703/resource/1683741.... http://www.grid.ac/institutes/grid.482851.2......... 1................................................... [Office of Naval Research] was compared to [Office of Naval Research] 
+	http://www.grid.ac/institutes/grid.482851.2......... http://risis.eu/orgref_20170703/resource/1683741.... 1................................................... [Office of Naval Research] was compared to [Office of Naval Research] 
+	http://www.grid.ac/institutes/grid.436943.f......... http://risis.eu/orgref_20170703/resource/1683741.... 1................................................... [Office of Naval Research] was compared to [Office of Naval Research] 
+	http://risis.eu/orgref_20170703/resource/1683741.... http://www.grid.ac/institutes/grid.436943.f......... 1................................................... [Office of Naval Research] was compared to [Office of Naval Research] 
+	http://www.grid.ac/institutes/grid.482851.2......... http://risis.eu/leidenRanking_2015/resource/100148.. 1................................................... [Office of Naval Research] was compared to [Office of Naval Research] 
+	http://risis.eu/leidenRanking_2015/resource/100148.. http://www.grid.ac/institutes/grid.482851.2......... 1................................................... [Office of Naval Research] was compared to [Office of Naval Research] 
+	http://www.grid.ac/institutes/grid.436943.f......... http://risis.eu/leidenRanking_2015/resource/100148.. 1................................................... [Office of Naval Research] was compared to [Office of Naval Research] 
+	http://risis.eu/leidenRanking_2015/resource/100148.. http://www.grid.ac/institutes/grid.436943.f......... 1................................................... [Office of Naval Research] was compared to [Office of Naval Research] 
+	http://risis.eu/orgref_20170703/resource/1683741.... http://risis.eu/leidenRanking_2015/resource/100148.. 1................................................... [Office of Naval Research] was compared to [Office of Naval Research] 
+	http://risis.eu/leidenRanking_2015/resource/100148.. http://risis.eu/orgref_20170703/resource/1683741.... 1................................................... [Office of Naval Research] was compared to [Office of Naval Research] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                              object                                               
+	#################################################### #################################################### 
+	http://www.grid.ac/institutes/grid.436943.f......... -0.431932........................................... 
+	http://www.grid.ac/institutes/grid.436943.f......... 51.57664............................................ 
+	http://www.grid.ac/institutes/grid.436943.f......... http://www.onr.navy.mil/en/......................... 
+	http://www.grid.ac/institutes/grid.436943.f......... Office of Naval Research............................ 
+	http://risis.eu/orgref_20170703/resource/1683741.... http://en.wikipedia.org/wiki?curid=1683741.......... 
+	http://risis.eu/orgref_20170703/resource/1683741.... http://www.wikidata.org/wiki/Q1063818............... 
+	http://risis.eu/orgref_20170703/resource/1683741.... http://www.onr.navy.mil............................. 
+	http://risis.eu/orgref_20170703/resource/1683741.... Office of Naval Research............................ 
+	http://www.grid.ac/institutes/grid.482851.2......... -77.10891........................................... 
+	http://www.grid.ac/institutes/grid.482851.2......... 38.88076............................................ 
+	http://www.grid.ac/institutes/grid.482851.2......... https://www.onr.navy.mil/........................... 
+	http://www.grid.ac/institutes/grid.482851.2......... Office of Naval Research............................ 
+	http://risis.eu/leidenRanking_2015/resource/100148.. Office of Naval Research............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1683741', '1:grid.436943.f'), ('2:1683741', '3:grid.482851.2'), ('3:grid.482851.2', '1:grid.436943.f'), ('4:100148', '1:grid.436943.f'), ('4:100148', '2:1683741'), ('4:100148', '3:grid.482851.2')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 17733 
+NAME    N1039360569
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.411108.d>
+	<http://risis.eu/orgref_20170703/resource/30503305>
+	<http://risis.eu/eter_2014/resource/TR0006>
+	<http://risis.eu/leidenRanking_2015/resource/1027>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.411108.d........ http://risis.eu/orgref_20170703/resource/30503305.. 1.................................................. [Afyon Kocatepe University] was compared to [Afyon Kocatepe University] 
+	http://risis.eu/orgref_20170703/resource/30503305.. http://www.grid.ac/institutes/grid.411108.d........ 1.................................................. [Afyon Kocatepe University] was compared to [Afyon Kocatepe University] 
+	http://www.grid.ac/institutes/grid.411108.d........ http://risis.eu/leidenRanking_2015/resource/1027... 1.................................................. [Afyon Kocatepe University] was compared to [Afyon Kocatepe University] 
+	http://risis.eu/leidenRanking_2015/resource/1027... http://www.grid.ac/institutes/grid.411108.d........ 1.................................................. [Afyon Kocatepe University] was compared to [Afyon Kocatepe University] 
+	http://www.grid.ac/institutes/grid.411108.d........ http://risis.eu/eter_2014/resource/TR0006.......... 0.888888888889..................................... [Afyon Kocatepe University] was compared to [AFYON KOCATEPE ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0006.......... http://www.grid.ac/institutes/grid.411108.d........ 0.888888888889..................................... [Afyon Kocatepe University] was compared to [AFYON KOCATEPE ÜNIVERSITESI] 
+	http://risis.eu/orgref_20170703/resource/30503305.. http://risis.eu/eter_2014/resource/TR0006.......... 0.888888888889..................................... [Afyon Kocatepe University] was compared to [AFYON KOCATEPE ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0006.......... http://risis.eu/orgref_20170703/resource/30503305.. 0.888888888889..................................... [Afyon Kocatepe University] was compared to [AFYON KOCATEPE ÜNIVERSITESI] 
+	http://risis.eu/orgref_20170703/resource/30503305.. http://risis.eu/leidenRanking_2015/resource/1027... 1.................................................. [Afyon Kocatepe University] was compared to [Afyon Kocatepe University] 
+	http://risis.eu/leidenRanking_2015/resource/1027... http://risis.eu/orgref_20170703/resource/30503305.. 1.................................................. [Afyon Kocatepe University] was compared to [Afyon Kocatepe University] 
+	http://risis.eu/eter_2014/resource/TR0006.......... http://risis.eu/leidenRanking_2015/resource/1027... 0.888888888889..................................... [AFYON KOCATEPE ÜNIVERSITESI] was compared to [Afyon Kocatepe University] 
+	http://risis.eu/leidenRanking_2015/resource/1027... http://risis.eu/eter_2014/resource/TR0006.......... 0.888888888889..................................... [AFYON KOCATEPE ÜNIVERSITESI] was compared to [Afyon Kocatepe University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.411108.d........ 30.53549........................................... 
+	http://www.grid.ac/institutes/grid.411108.d........ 38.80833........................................... 
+	http://www.grid.ac/institutes/grid.411108.d........ http://www.aku.edu.tr/anasayfa/eng/................ 
+	http://www.grid.ac/institutes/grid.411108.d........ Afyon Kocatepe University.......................... 
+	http://risis.eu/orgref_20170703/resource/30503305.. http://en.wikipedia.org/wiki?curid=30503305........ 
+	http://risis.eu/orgref_20170703/resource/30503305.. http://www.wikidata.org/wiki/Q4690863.............. 
+	http://risis.eu/orgref_20170703/resource/30503305.. http://www.aku.edu.tr/anasayfa/eng/default.aspx.... 
+	http://risis.eu/orgref_20170703/resource/30503305.. Afyon Kocatepe University.......................... 
+	http://risis.eu/eter_2014/resource/TR0006.......... 38,760338.......................................... 
+	http://risis.eu/eter_2014/resource/TR0006.......... 30,548058.......................................... 
+	http://risis.eu/eter_2014/resource/TR0006.......... http://www.aku.edu.tr.............................. 
+	http://risis.eu/eter_2014/resource/TR0006.......... a.................................................. 
+	http://risis.eu/eter_2014/resource/TR0006.......... Afyon Kocatepe University.......................... 
+	http://risis.eu/eter_2014/resource/TR0006.......... AFYON KOCATEPE ÜNIVERSITESI....................... 
+	http://risis.eu/leidenRanking_2015/resource/1027... Afyon Kocatepe University.......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:30503305', '1:grid.411108.d'), ('3:TR0006', '1:grid.411108.d'), ('3:TR0006', '2:30503305'), ('4:1027', '1:grid.411108.d'), ('4:1027', '2:30503305'), ('4:1027', '3:TR0006')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

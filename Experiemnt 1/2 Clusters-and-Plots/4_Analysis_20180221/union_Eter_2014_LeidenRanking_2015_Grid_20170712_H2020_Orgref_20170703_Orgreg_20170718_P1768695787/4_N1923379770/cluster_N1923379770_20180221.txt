@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 985 
+NAME    N1923379770
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.418641.e>
+	<http://risis.eu/orgref_20170703/resource/24792797>
+	<http://www.grid.ac/institutes/grid.268193.7>
+	<http://risis.eu/orgref_20170703/resource/5331363>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.268193.7........ http://risis.eu/orgref_20170703/resource/5331363... 1.................................................. [Western Oklahoma State College] was compared to [Western Oklahoma State College] 
+	http://risis.eu/orgref_20170703/resource/5331363... http://www.grid.ac/institutes/grid.268193.7........ 1.................................................. [Western Oklahoma State College] was compared to [Western Oklahoma State College] 
+	http://www.grid.ac/institutes/grid.418641.e........ http://risis.eu/orgref_20170703/resource/24792797.. 1.................................................. [Eastern Oklahoma State College] was compared to [Eastern Oklahoma State College] 
+	http://risis.eu/orgref_20170703/resource/24792797.. http://www.grid.ac/institutes/grid.418641.e........ 1.................................................. [Eastern Oklahoma State College] was compared to [Eastern Oklahoma State College] 
+	http://risis.eu/orgref_20170703/resource/24792797.. http://risis.eu/orgref_20170703/resource/5331363... 0.933333333333..................................... [Eastern Oklahoma State College] was compared to [Western Oklahoma State College] 
+	http://risis.eu/orgref_20170703/resource/5331363... http://risis.eu/orgref_20170703/resource/24792797.. 0.933333333333..................................... [Eastern Oklahoma State College] was compared to [Western Oklahoma State College] 
+	http://www.grid.ac/institutes/grid.418641.e........ http://www.grid.ac/institutes/grid.268193.7........ 0.933333333333..................................... [Western Oklahoma State College] was compared to [Eastern Oklahoma State College] 
+	http://www.grid.ac/institutes/grid.268193.7........ http://www.grid.ac/institutes/grid.418641.e........ 0.933333333333..................................... [Western Oklahoma State College] was compared to [Eastern Oklahoma State College] 
+	http://risis.eu/orgref_20170703/resource/24792797.. http://www.grid.ac/institutes/grid.268193.7........ 0.933333333333..................................... [Western Oklahoma State College] was compared to [Eastern Oklahoma State College] 
+	http://www.grid.ac/institutes/grid.268193.7........ http://risis.eu/orgref_20170703/resource/24792797.. 0.933333333333..................................... [Western Oklahoma State College] was compared to [Eastern Oklahoma State College] 
+	http://www.grid.ac/institutes/grid.418641.e........ http://risis.eu/orgref_20170703/resource/5331363... 0.933333333333..................................... [Eastern Oklahoma State College] was compared to [Western Oklahoma State College] 
+	http://risis.eu/orgref_20170703/resource/5331363... http://www.grid.ac/institutes/grid.418641.e........ 0.933333333333..................................... [Eastern Oklahoma State College] was compared to [Western Oklahoma State College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.418641.e........ -95.32775.......................................... 
+	http://www.grid.ac/institutes/grid.418641.e........ 34.913624.......................................... 
+	http://www.grid.ac/institutes/grid.418641.e........ http://www.eosc.edu/............................... 
+	http://www.grid.ac/institutes/grid.418641.e........ Eastern Oklahoma State College..................... 
+	http://risis.eu/orgref_20170703/resource/24792797.. http://en.wikipedia.org/wiki?curid=24792797........ 
+	http://risis.eu/orgref_20170703/resource/24792797.. http://www.wikidata.org/wiki/Q5330346.............. 
+	http://risis.eu/orgref_20170703/resource/24792797.. Eastern Oklahoma State College..................... 
+	http://www.grid.ac/institutes/grid.268193.7........ -99.33722.......................................... 
+	http://www.grid.ac/institutes/grid.268193.7........ 34.668888.......................................... 
+	http://www.grid.ac/institutes/grid.268193.7........ https://www.wosc.edu/.............................. 
+	http://www.grid.ac/institutes/grid.268193.7........ Altus Junior College............................... 
+	http://www.grid.ac/institutes/grid.268193.7........ Western Oklahoma State College..................... 
+	http://risis.eu/orgref_20170703/resource/5331363... http://en.wikipedia.org/wiki?curid=5331363......... 
+	http://risis.eu/orgref_20170703/resource/5331363... http://www.wikidata.org/wiki/Q7988127.............. 
+	http://risis.eu/orgref_20170703/resource/5331363... http://www.wosc.edu................................ 
+	http://risis.eu/orgref_20170703/resource/5331363... Western Oklahoma State College..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.418641.e', '3:grid.268193.7'), ('2:24792797', '1:grid.418641.e'), ('3:grid.268193.7', '2:24792797'), ('4:5331363', '1:grid.418641.e'), ('4:5331363', '2:24792797'), ('4:5331363', '3:grid.268193.7')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

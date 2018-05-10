@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 14655 
+NAME    N2071693337
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/2621065>
+	<http://risis.eu/leidenRanking_2015/resource/1317>
+	<http://www.grid.ac/institutes/grid.22937.3d>
+	<http://risis.eu/orgreg_20170718/resource/AT0014>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/2621065.. http://www.grid.ac/institutes/grid.22937.3d....... 1................................................. [Medical University of Vienna] was compared to [Medical University of Vienna] 
+	http://www.grid.ac/institutes/grid.22937.3d....... http://risis.eu/orgref_20170703/resource/2621065.. 1................................................. [Medical University of Vienna] was compared to [Medical University of Vienna] 
+	http://risis.eu/leidenRanking_2015/resource/1317.. http://www.grid.ac/institutes/grid.22937.3d....... 1................................................. [Medical University of Vienna] was compared to [Medical University of Vienna] 
+	http://www.grid.ac/institutes/grid.22937.3d....... http://risis.eu/leidenRanking_2015/resource/1317.. 1................................................. [Medical University of Vienna] was compared to [Medical University of Vienna] 
+	http://risis.eu/orgref_20170703/resource/2621065.. http://risis.eu/leidenRanking_2015/resource/1317.. 1................................................. [Medical University of Vienna] was compared to [Medical University of Vienna] 
+	http://risis.eu/leidenRanking_2015/resource/1317.. http://risis.eu/orgref_20170703/resource/2621065.. 1................................................. [Medical University of Vienna] was compared to [Medical University of Vienna] 
+	http://risis.eu/leidenRanking_2015/resource/1317.. http://risis.eu/orgreg_20170718/resource/AT0014... 0.884615384615.................................... [Vienna University of Medicine] was compared to [Medical University of Vienna] 
+	http://risis.eu/orgreg_20170718/resource/AT0014... http://risis.eu/leidenRanking_2015/resource/1317.. 0.884615384615.................................... [Vienna University of Medicine] was compared to [Medical University of Vienna] 
+	http://risis.eu/orgref_20170703/resource/2621065.. http://risis.eu/orgreg_20170718/resource/AT0014... 0.884615384615.................................... [Medical University of Vienna] was compared to [Vienna University of Medicine] 
+	http://risis.eu/orgreg_20170718/resource/AT0014... http://risis.eu/orgref_20170703/resource/2621065.. 0.884615384615.................................... [Medical University of Vienna] was compared to [Vienna University of Medicine] 
+	http://www.grid.ac/institutes/grid.22937.3d....... http://risis.eu/orgreg_20170718/resource/AT0014... 0.884615384615.................................... [Medical University of Vienna] was compared to [Vienna University of Medicine] 
+	http://risis.eu/orgreg_20170718/resource/AT0014... http://www.grid.ac/institutes/grid.22937.3d....... 0.884615384615.................................... [Medical University of Vienna] was compared to [Vienna University of Medicine] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/2621065.. http://en.wikipedia.org/wiki?curid=2621065........ 
+	http://risis.eu/orgref_20170703/resource/2621065.. http://www.wikidata.org/wiki/Q700731.............. 
+	http://risis.eu/orgref_20170703/resource/2621065.. https://www.meduniwien.ac.at/homepage/1/homepage.. 
+	http://risis.eu/orgref_20170703/resource/2621065.. Medical University of Vienna...................... 
+	http://risis.eu/leidenRanking_2015/resource/1317.. Medical University of Vienna...................... 
+	http://www.grid.ac/institutes/grid.22937.3d....... 16.351389......................................... 
+	http://www.grid.ac/institutes/grid.22937.3d....... 48.22............................................. 
+	http://www.grid.ac/institutes/grid.22937.3d....... http://www.meduniwien.ac.at/homepage/1/homepage/.. 
+	http://www.grid.ac/institutes/grid.22937.3d....... Medical University of Vienna...................... 
+	http://risis.eu/orgreg_20170718/resource/AT0014... 16.36............................................. 
+	http://risis.eu/orgreg_20170718/resource/AT0014... 48.23............................................. 
+	http://risis.eu/orgreg_20170718/resource/AT0014... http://www.meduniwien.ac.at/...................... 
+	http://risis.eu/orgreg_20170718/resource/AT0014... Vienna University of Medicine..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1317', '1:2621065'), ('2:1317', '3:grid.22937.3d'), ('2:1317', '4:AT0014'), ('3:grid.22937.3d', '1:2621065'), ('4:AT0014', '1:2621065'), ('4:AT0014', '3:grid.22937.3d')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

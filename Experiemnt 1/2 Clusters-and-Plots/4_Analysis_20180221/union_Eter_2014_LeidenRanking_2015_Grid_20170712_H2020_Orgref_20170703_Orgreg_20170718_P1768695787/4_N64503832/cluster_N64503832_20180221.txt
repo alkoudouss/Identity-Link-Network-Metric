@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 2219 
+NAME    N64503832
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.434432.6>
+	<http://risis.eu/leidenRanking_2015/resource/15724>
+	<http://risis.eu/orgref_20170703/resource/19326228>
+	<http://www.grid.ac/institutes/grid.21941.3f>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.434432.6........ http://www.grid.ac/institutes/grid.21941.3f........ 0.842105263158..................................... [National Institute for Materials Science] was compared to [Foundation Institute of Materials Science] 
+	http://www.grid.ac/institutes/grid.21941.3f........ http://www.grid.ac/institutes/grid.434432.6........ 0.842105263158..................................... [National Institute for Materials Science] was compared to [Foundation Institute of Materials Science] 
+	http://risis.eu/orgref_20170703/resource/19326228.. http://www.grid.ac/institutes/grid.21941.3f........ 1.................................................. [National Institute for Materials Science] was compared to [National Institute for Materials Science] 
+	http://www.grid.ac/institutes/grid.21941.3f........ http://risis.eu/orgref_20170703/resource/19326228.. 1.................................................. [National Institute for Materials Science] was compared to [National Institute for Materials Science] 
+	http://www.grid.ac/institutes/grid.434432.6........ http://risis.eu/orgref_20170703/resource/19326228.. 0.842105263158..................................... [Foundation Institute of Materials Science] was compared to [National Institute for Materials Science] 
+	http://risis.eu/orgref_20170703/resource/19326228.. http://www.grid.ac/institutes/grid.434432.6........ 0.842105263158..................................... [Foundation Institute of Materials Science] was compared to [National Institute for Materials Science] 
+	http://risis.eu/leidenRanking_2015/resource/15724.. http://www.grid.ac/institutes/grid.21941.3f........ 1.................................................. [National Institute for Materials Science] was compared to [National Institute for Materials Science] 
+	http://www.grid.ac/institutes/grid.21941.3f........ http://risis.eu/leidenRanking_2015/resource/15724.. 1.................................................. [National Institute for Materials Science] was compared to [National Institute for Materials Science] 
+	http://www.grid.ac/institutes/grid.434432.6........ http://risis.eu/leidenRanking_2015/resource/15724.. 0.842105263158..................................... [Foundation Institute of Materials Science] was compared to [National Institute for Materials Science] 
+	http://risis.eu/leidenRanking_2015/resource/15724.. http://www.grid.ac/institutes/grid.434432.6........ 0.842105263158..................................... [Foundation Institute of Materials Science] was compared to [National Institute for Materials Science] 
+	http://risis.eu/leidenRanking_2015/resource/15724.. http://risis.eu/orgref_20170703/resource/19326228.. 1.................................................. [National Institute for Materials Science] was compared to [National Institute for Materials Science] 
+	http://risis.eu/orgref_20170703/resource/19326228.. http://risis.eu/leidenRanking_2015/resource/15724.. 1.................................................. [National Institute for Materials Science] was compared to [National Institute for Materials Science] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.434432.6........ 8.855174........................................... 
+	http://www.grid.ac/institutes/grid.434432.6........ 53.109188.......................................... 
+	http://www.grid.ac/institutes/grid.434432.6........ http://www.awt-online.org/en/foundation_institute_for_materials_science.html 
+	http://www.grid.ac/institutes/grid.434432.6........ Foundation Institute of Materials Science.......... 
+	http://risis.eu/leidenRanking_2015/resource/15724.. National Institute for Materials Science........... 
+	http://risis.eu/orgref_20170703/resource/19326228.. http://en.wikipedia.org/wiki?curid=19326228........ 
+	http://risis.eu/orgref_20170703/resource/19326228.. http://www.wikidata.org/wiki/Q4853179.............. 
+	http://risis.eu/orgref_20170703/resource/19326228.. http://www.nims.go.jp/eng.......................... 
+	http://risis.eu/orgref_20170703/resource/19326228.. National Institute for Materials Science........... 
+	http://www.grid.ac/institutes/grid.21941.3f........ 140.12025.......................................... 
+	http://www.grid.ac/institutes/grid.21941.3f........ 36.07394........................................... 
+	http://www.grid.ac/institutes/grid.21941.3f........ http://www.nims.go.jp/eng/......................... 
+	http://www.grid.ac/institutes/grid.21941.3f........ Busshitsu-zairyō kenkyū kikō.................... 
+	http://www.grid.ac/institutes/grid.21941.3f........ National Institute for Materials Science........... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.434432.6', '4:grid.21941.3f'), ('2:15724', '1:grid.434432.6'), ('2:15724', '3:19326228'), ('2:15724', '4:grid.21941.3f'), ('3:19326228', '1:grid.434432.6'), ('4:grid.21941.3f', '3:19326228')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

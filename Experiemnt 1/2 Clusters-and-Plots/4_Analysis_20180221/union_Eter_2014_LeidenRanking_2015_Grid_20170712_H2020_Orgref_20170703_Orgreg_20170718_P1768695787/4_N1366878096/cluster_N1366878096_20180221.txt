@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 13750 
+NAME    N1366878096
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.450633.7>
+	<http://www.grid.ac/institutes/grid.453595.b>
+	<http://www.grid.ac/institutes/grid.452340.4>
+	<http://www.grid.ac/institutes/grid.433241.3>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.450633.7.. http://www.grid.ac/institutes/grid.433241.3.. 1............................................ [ConocoPhillips (United Kingdom)] was compared to [ConocoPhillips (Canada)] 
+	http://www.grid.ac/institutes/grid.433241.3.. http://www.grid.ac/institutes/grid.450633.7.. 1............................................ [ConocoPhillips (United Kingdom)] was compared to [ConocoPhillips (Canada)] 
+	http://www.grid.ac/institutes/grid.453595.b.. http://www.grid.ac/institutes/grid.433241.3.. 1............................................ [ConocoPhillips (United Kingdom)] was compared to [ConocoPhillips (United States)] 
+	http://www.grid.ac/institutes/grid.433241.3.. http://www.grid.ac/institutes/grid.453595.b.. 1............................................ [ConocoPhillips (United Kingdom)] was compared to [ConocoPhillips (United States)] 
+	http://www.grid.ac/institutes/grid.452340.4.. http://www.grid.ac/institutes/grid.433241.3.. 1............................................ [ConocoPhillips (United Kingdom)] was compared to [ConocoPhillips (Qatar)] 
+	http://www.grid.ac/institutes/grid.433241.3.. http://www.grid.ac/institutes/grid.452340.4.. 1............................................ [ConocoPhillips (United Kingdom)] was compared to [ConocoPhillips (Qatar)] 
+	http://www.grid.ac/institutes/grid.450633.7.. http://www.grid.ac/institutes/grid.453595.b.. 1............................................ [ConocoPhillips (Canada)] was compared to [ConocoPhillips (United States)] 
+	http://www.grid.ac/institutes/grid.453595.b.. http://www.grid.ac/institutes/grid.450633.7.. 1............................................ [ConocoPhillips (Canada)] was compared to [ConocoPhillips (United States)] 
+	http://www.grid.ac/institutes/grid.450633.7.. http://www.grid.ac/institutes/grid.452340.4.. 1............................................ [ConocoPhillips (Canada)] was compared to [ConocoPhillips (Qatar)] 
+	http://www.grid.ac/institutes/grid.452340.4.. http://www.grid.ac/institutes/grid.450633.7.. 1............................................ [ConocoPhillips (Canada)] was compared to [ConocoPhillips (Qatar)] 
+	http://www.grid.ac/institutes/grid.453595.b.. http://www.grid.ac/institutes/grid.452340.4.. 1............................................ [ConocoPhillips (Qatar)] was compared to [ConocoPhillips (United States)] 
+	http://www.grid.ac/institutes/grid.452340.4.. http://www.grid.ac/institutes/grid.453595.b.. 1............................................ [ConocoPhillips (Qatar)] was compared to [ConocoPhillips (United States)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.450633.7.. -114.0705.................................... 
+	http://www.grid.ac/institutes/grid.450633.7.. 51.044403.................................... 
+	http://www.grid.ac/institutes/grid.450633.7.. http://www.conocophillips.ca/Pages/default.aspx 
+	http://www.grid.ac/institutes/grid.450633.7.. ConocoPhillips (Canada)...................... 
+	http://www.grid.ac/institutes/grid.453595.b.. -95.61354.................................... 
+	http://www.grid.ac/institutes/grid.453595.b.. 29.78831..................................... 
+	http://www.grid.ac/institutes/grid.453595.b.. http://www.conocophillips.com/Pages/default.aspx 
+	http://www.grid.ac/institutes/grid.453595.b.. ConocoPhillips (United States)............... 
+	http://www.grid.ac/institutes/grid.452340.4.. 51.5407...................................... 
+	http://www.grid.ac/institutes/grid.452340.4.. 25.32523..................................... 
+	http://www.grid.ac/institutes/grid.452340.4.. http://www.conocophillips.com/Pages/default.aspx 
+	http://www.grid.ac/institutes/grid.452340.4.. ConocoPhillips (Qatar)....................... 
+	http://www.grid.ac/institutes/grid.433241.3.. ConocoPhillips (United Kingdom).............. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.450633.7', '4:grid.433241.3'), ('2:grid.453595.b', '1:grid.450633.7'), ('2:grid.453595.b', '4:grid.433241.3'), ('3:grid.452340.4', '1:grid.450633.7'), ('3:grid.452340.4', '2:grid.453595.b'), ('4:grid.433241.3', '3:grid.452340.4')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

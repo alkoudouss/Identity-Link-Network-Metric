@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 2208 
+NAME    N1309008624
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.466443.7>
+	<http://risis.eu/orgreg_20170718/resource/DE0387>
+	<http://risis.eu/eter_2014/resource/DE0387>
+	<http://www.grid.ac/institutes/grid.466304.3>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.466443.7...... http://www.grid.ac/institutes/grid.466304.3...... 0.840909090909................................... [Hochschule für öffentliche Verwaltung] was compared to [Hochschule für Öffentliche Verwaltung Bremen] 
+	http://www.grid.ac/institutes/grid.466304.3...... http://www.grid.ac/institutes/grid.466443.7...... 0.840909090909................................... [Hochschule für öffentliche Verwaltung] was compared to [Hochschule für Öffentliche Verwaltung Bremen] 
+	http://www.grid.ac/institutes/grid.466443.7...... http://risis.eu/eter_2014/resource/DE0387........ 1................................................ [Hochschule für Öffentliche Verwaltung Bremen] was compared to [Hochschule für öffentliche Verwaltung Bremen] 
+	http://risis.eu/eter_2014/resource/DE0387........ http://www.grid.ac/institutes/grid.466443.7...... 1................................................ [Hochschule für Öffentliche Verwaltung Bremen] was compared to [Hochschule für öffentliche Verwaltung Bremen] 
+	http://risis.eu/orgreg_20170718/resource/DE0387.. http://risis.eu/eter_2014/resource/DE0387........ 1................................................ [Hochschule für öffentliche Verwaltung Bremen] was compared to [Hochschule für öffentliche Verwaltung Bremen] 
+	http://risis.eu/eter_2014/resource/DE0387........ http://risis.eu/orgreg_20170718/resource/DE0387.. 1................................................ [Hochschule für öffentliche Verwaltung Bremen] was compared to [Hochschule für öffentliche Verwaltung Bremen] 
+	http://www.grid.ac/institutes/grid.466443.7...... http://risis.eu/orgreg_20170718/resource/DE0387.. 1................................................ [Hochschule für Öffentliche Verwaltung Bremen] was compared to [Hochschule für öffentliche Verwaltung Bremen] 
+	http://risis.eu/orgreg_20170718/resource/DE0387.. http://www.grid.ac/institutes/grid.466443.7...... 1................................................ [Hochschule für Öffentliche Verwaltung Bremen] was compared to [Hochschule für öffentliche Verwaltung Bremen] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.466443.7...... 8.796305......................................... 
+	http://www.grid.ac/institutes/grid.466443.7...... 53.08457......................................... 
+	http://www.grid.ac/institutes/grid.466443.7...... http://www.hfoev.bremen.de/sixcms/detail.php?gsid=bremen02.c.730.de 
+	http://www.grid.ac/institutes/grid.466443.7...... Hochschule für Öffentliche Verwaltung Bremen... 
+	http://risis.eu/orgreg_20170718/resource/DE0387.. 53.0839.......................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0387.. 8.804492......................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0387.. www.hfoev.bremen.de.............................. 
+	http://risis.eu/orgreg_20170718/resource/DE0387.. Hochschule für öffentliche Verwaltung Bremen... 
+	http://risis.eu/eter_2014/resource/DE0387........ 53,0839.......................................... 
+	http://risis.eu/eter_2014/resource/DE0387........ 8,804492......................................... 
+	http://risis.eu/eter_2014/resource/DE0387........ www.hfoev.bremen.de.............................. 
+	http://risis.eu/eter_2014/resource/DE0387........ a................................................ 
+	http://risis.eu/eter_2014/resource/DE0387........ Hochschule für öffentliche Verwaltung Bremen... 
+	http://www.grid.ac/institutes/grid.466304.3...... 7.229581......................................... 
+	http://www.grid.ac/institutes/grid.466304.3...... 50.32811......................................... 
+	http://www.grid.ac/institutes/grid.466304.3...... http://www.hoev-rlp.de/.......................... 
+	http://www.grid.ac/institutes/grid.466304.3...... Hochschule für öffentliche Verwaltung.......... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:DE0387', '1:grid.466443.7'), ('3:DE0387', '1:grid.466443.7'), ('3:DE0387', '2:DE0387'), ('4:grid.466304.3', '1:grid.466443.7')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

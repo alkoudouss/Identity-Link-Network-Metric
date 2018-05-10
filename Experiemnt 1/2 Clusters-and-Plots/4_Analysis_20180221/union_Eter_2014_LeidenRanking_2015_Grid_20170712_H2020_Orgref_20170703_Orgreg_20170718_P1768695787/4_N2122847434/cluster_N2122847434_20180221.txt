@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 9274 
+NAME    N2122847434
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.448855.0>
+	<http://risis.eu/orgreg_20170718/resource/DE0416>
+	<http://risis.eu/orgref_20170703/resource/19777938>
+	<http://risis.eu/cordisH2020/resource/participant_951350587>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.448855.0................. http://risis.eu/orgref_20170703/resource/19777938........... 1........................................................... [Kühne Logistics University] was compared to [Kühne Logistics University] 
+	http://risis.eu/orgref_20170703/resource/19777938........... http://www.grid.ac/institutes/grid.448855.0................. 1........................................................... [Kühne Logistics University] was compared to [Kühne Logistics University] 
+	http://www.grid.ac/institutes/grid.448855.0................. http://risis.eu/cordisH2020/resource/participant_951350587.. 0.838709677419.............................................. [Kühne Logistics University] was compared to [KUHNE LOGISTICS UNIVERSITY GMBH] 
+	http://risis.eu/cordisH2020/resource/participant_951350587.. http://www.grid.ac/institutes/grid.448855.0................. 0.838709677419.............................................. [Kühne Logistics University] was compared to [KUHNE LOGISTICS UNIVERSITY GMBH] 
+	http://risis.eu/orgref_20170703/resource/19777938........... http://risis.eu/cordisH2020/resource/participant_951350587.. 0.838709677419.............................................. [Kühne Logistics University] was compared to [KUHNE LOGISTICS UNIVERSITY GMBH] 
+	http://risis.eu/cordisH2020/resource/participant_951350587.. http://risis.eu/orgref_20170703/resource/19777938........... 0.838709677419.............................................. [Kühne Logistics University] was compared to [KUHNE LOGISTICS UNIVERSITY GMBH] 
+	http://risis.eu/orgreg_20170718/resource/DE0416............. http://risis.eu/cordisH2020/resource/participant_951350587.. 0.838709677419.............................................. [Kühne Logistics University] was compared to [KUHNE LOGISTICS UNIVERSITY GMBH] 
+	http://risis.eu/cordisH2020/resource/participant_951350587.. http://risis.eu/orgreg_20170718/resource/DE0416............. 0.838709677419.............................................. [Kühne Logistics University] was compared to [KUHNE LOGISTICS UNIVERSITY GMBH] 
+	http://risis.eu/orgreg_20170718/resource/DE0416............. http://risis.eu/orgref_20170703/resource/19777938........... 1........................................................... [Kühne Logistics University] was compared to [Kühne Logistics University] 
+	http://risis.eu/orgref_20170703/resource/19777938........... http://risis.eu/orgreg_20170718/resource/DE0416............. 1........................................................... [Kühne Logistics University] was compared to [Kühne Logistics University] 
+	http://www.grid.ac/institutes/grid.448855.0................. http://risis.eu/orgreg_20170718/resource/DE0416............. 1........................................................... [Kühne Logistics University] was compared to [Kühne Logistics University] 
+	http://risis.eu/orgreg_20170718/resource/DE0416............. http://www.grid.ac/institutes/grid.448855.0................. 1........................................................... [Kühne Logistics University] was compared to [Kühne Logistics University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.448855.0................. Kühne Logistics University................................. 
+	http://risis.eu/orgreg_20170718/resource/DE0416............. 53.531648................................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0416............. 9.985257.................................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0416............. http://www.the-klu.org...................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0416............. Kühne Logistics University................................. 
+	http://risis.eu/orgref_20170703/resource/19777938........... http://en.wikipedia.org/wiki?curid=19777938................. 
+	http://risis.eu/orgref_20170703/resource/19777938........... http://www.wikidata.org/wiki/Q1683524....................... 
+	http://risis.eu/orgref_20170703/resource/19777938........... http://www.the-klu.org...................................... 
+	http://risis.eu/orgref_20170703/resource/19777938........... Kühne Logistics University................................. 
+	http://risis.eu/cordisH2020/resource/participant_951350587.. KUHNE LOGISTICS UNIVERSITY GMBH............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:DE0416', '1:grid.448855.0'), ('2:DE0416', '3:19777938'), ('3:19777938', '1:grid.448855.0'), ('4:participant_951350587', '1:grid.448855.0'), ('4:participant_951350587', '2:DE0416'), ('4:participant_951350587', '3:19777938')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 942 
+NAME    N1305570608
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/IT0171>
+	<http://www.grid.ac/institutes/grid.425572.3>
+	<http://www.grid.ac/institutes/grid.466015.0>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/IT0171.... http://www.grid.ac/institutes/grid.425572.3.. 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/IT0171.... http://www.grid.ac/institutes/grid.466015.0.. 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://www.grid.ac/institutes/grid.425572.3.. http://risis.eu/eter_2014/resource/IT0171.... 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://www.grid.ac/institutes/grid.466015.0.. http://risis.eu/eter_2014/resource/IT0171.... 1............................................ Near each other by at most 2000 meter(s)..... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/IT0171.... 40,952517.................................... 
+	http://risis.eu/eter_2014/resource/IT0171.... 17,298556.................................... 
+	http://risis.eu/eter_2014/resource/IT0171.... http://www.conservatoriodimonopoli.org....... 
+	http://risis.eu/eter_2014/resource/IT0171.... a............................................ 
+	http://risis.eu/eter_2014/resource/IT0171.... Music Conservatory of MONOPOLI (BA) Nino Rota 
+	http://risis.eu/eter_2014/resource/IT0171.... Conservatorio di MONOPOLI (BA) Nino Rota..... 
+	http://www.grid.ac/institutes/grid.425572.3.. 17.30304..................................... 
+	http://www.grid.ac/institutes/grid.425572.3.. 40.94381..................................... 
+	http://www.grid.ac/institutes/grid.425572.3.. http://www.mermecgroup.com/.................. 
+	http://www.grid.ac/institutes/grid.425572.3.. MerMec (Italy)............................... 
+	http://www.grid.ac/institutes/grid.466015.0.. 17.294968.................................... 
+	http://www.grid.ac/institutes/grid.466015.0.. 40.952938.................................... 
+	http://www.grid.ac/institutes/grid.466015.0.. http://www.conservatoriodimonopoli.org/...... 
+	http://www.grid.ac/institutes/grid.466015.0.. Conservatorio di Musica Nino Rota............ 
+
+NETWORK ANALYSIS
+	NETWORK [('N1305570608-IT0171', 'P1296947326-grid.466015.0'), ('N1305570608-IT0171', 'N311674176-grid.425572.3')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

@@ -1,0 +1,57 @@
+SIZE    4   
+CLUSTER 811 
+NAME    N2048584476
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.445709.b>
+	<http://www.grid.ac/institutes/grid.465405.6>
+	<http://www.grid.ac/institutes/grid.448568.3>
+	<http://risis.eu/orgref_20170703/resource/33992901>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.448568.3........ http://risis.eu/orgref_20170703/resource/33992901.. 1.................................................. [Adyghe State University] was compared to [Adyghe State University] 
+	http://risis.eu/orgref_20170703/resource/33992901.. http://www.grid.ac/institutes/grid.448568.3........ 1.................................................. [Adyghe State University] was compared to [Adyghe State University] 
+	http://www.grid.ac/institutes/grid.445709.b........ http://www.grid.ac/institutes/grid.465405.6........ 0.916666666667..................................... [Adygei State University] was compared to [Adygeya State University] 
+	http://www.grid.ac/institutes/grid.465405.6........ http://www.grid.ac/institutes/grid.445709.b........ 0.916666666667..................................... [Adygei State University] was compared to [Adygeya State University] 
+	http://www.grid.ac/institutes/grid.445709.b........ http://www.grid.ac/institutes/grid.448568.3........ 0.913043478261..................................... [Adygei State University] was compared to [Adyghe State University] 
+	http://www.grid.ac/institutes/grid.448568.3........ http://www.grid.ac/institutes/grid.445709.b........ 0.913043478261..................................... [Adygei State University] was compared to [Adyghe State University] 
+	http://www.grid.ac/institutes/grid.445709.b........ http://risis.eu/orgref_20170703/resource/33992901.. 0.913043478261..................................... [Adygei State University] was compared to [Adyghe State University] 
+	http://risis.eu/orgref_20170703/resource/33992901.. http://www.grid.ac/institutes/grid.445709.b........ 0.913043478261..................................... [Adygei State University] was compared to [Adyghe State University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.445709.b........ Adygei State University............................ 
+	http://www.grid.ac/institutes/grid.465405.6........ 40.104595.......................................... 
+	http://www.grid.ac/institutes/grid.465405.6........ 44.601017.......................................... 
+	http://www.grid.ac/institutes/grid.465405.6........ http://www.adygnet.ru/info......................... 
+	http://www.grid.ac/institutes/grid.465405.6........ Adygeya State University........................... 
+	http://www.grid.ac/institutes/grid.448568.3........ Adyghe State University............................ 
+	http://risis.eu/orgref_20170703/resource/33992901.. http://en.wikipedia.org/wiki?curid=33992901........ 
+	http://risis.eu/orgref_20170703/resource/33992901.. http://www.wikidata.org/wiki/Q4058030.............. 
+	http://risis.eu/orgref_20170703/resource/33992901.. http://www.adygnet.ru.............................. 
+	http://risis.eu/orgref_20170703/resource/33992901.. Adyghe State University............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.465405.6', '1:grid.445709.b'), ('3:grid.448568.3', '1:grid.445709.b'), ('4:33992901', '1:grid.445709.b'), ('4:33992901', '3:grid.448568.3')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

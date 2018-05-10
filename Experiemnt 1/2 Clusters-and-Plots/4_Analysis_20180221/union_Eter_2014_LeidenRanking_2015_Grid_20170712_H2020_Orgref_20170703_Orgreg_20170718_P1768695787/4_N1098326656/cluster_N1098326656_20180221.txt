@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 770 
+NAME    N1098326656
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/13409094>
+	<http://risis.eu/eter_2014/resource/FR0158>
+	<http://risis.eu/cordisH2020/resource/participant_999855825>
+	<http://www.grid.ac/institutes/grid.72960.3a>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/13409094........... http://www.grid.ac/institutes/grid.72960.3a................. 1........................................................... [Lumière University Lyon 2] was compared to [Lumière University Lyon 2] 
+	http://www.grid.ac/institutes/grid.72960.3a................. http://risis.eu/orgref_20170703/resource/13409094........... 1........................................................... [Lumière University Lyon 2] was compared to [Lumière University Lyon 2] 
+	http://risis.eu/eter_2014/resource/FR0158................... http://www.grid.ac/institutes/grid.72960.3a................. 0.923076923077.............................................. [Lumière University Lyon 2] was compared to [Université Lumière - Lyon 2] 
+	http://www.grid.ac/institutes/grid.72960.3a................. http://risis.eu/eter_2014/resource/FR0158................... 0.923076923077.............................................. [Lumière University Lyon 2] was compared to [Université Lumière - Lyon 2] 
+	http://risis.eu/cordisH2020/resource/participant_999855825.. http://www.grid.ac/institutes/grid.72960.3a................. 0.96........................................................ [Lumière University Lyon 2] was compared to [UNIVERSITE LUMIERE LYON 2] 
+	http://www.grid.ac/institutes/grid.72960.3a................. http://risis.eu/cordisH2020/resource/participant_999855825.. 0.96........................................................ [Lumière University Lyon 2] was compared to [UNIVERSITE LUMIERE LYON 2] 
+	http://risis.eu/orgref_20170703/resource/13409094........... http://risis.eu/eter_2014/resource/FR0158................... 0.923076923077.............................................. [Lumière University Lyon 2] was compared to [Université Lumière - Lyon 2] 
+	http://risis.eu/eter_2014/resource/FR0158................... http://risis.eu/orgref_20170703/resource/13409094........... 0.923076923077.............................................. [Lumière University Lyon 2] was compared to [Université Lumière - Lyon 2] 
+	http://risis.eu/orgref_20170703/resource/13409094........... http://risis.eu/cordisH2020/resource/participant_999855825.. 0.96........................................................ [Lumière University Lyon 2] was compared to [UNIVERSITE LUMIERE LYON 2] 
+	http://risis.eu/cordisH2020/resource/participant_999855825.. http://risis.eu/orgref_20170703/resource/13409094........... 0.96........................................................ [Lumière University Lyon 2] was compared to [UNIVERSITE LUMIERE LYON 2] 
+	http://risis.eu/eter_2014/resource/FR0158................... http://risis.eu/cordisH2020/resource/participant_999855825.. 0.961538461538.............................................. [UNIVERSITE LUMIERE LYON 2] was compared to [Université Lumière - Lyon 2] 
+	http://risis.eu/cordisH2020/resource/participant_999855825.. http://risis.eu/eter_2014/resource/FR0158................... 0.961538461538.............................................. [UNIVERSITE LUMIERE LYON 2] was compared to [Université Lumière - Lyon 2] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/13409094........... http://en.wikipedia.org/wiki?curid=13409094................. 
+	http://risis.eu/orgref_20170703/resource/13409094........... http://www.wikidata.org/wiki/Q4041.......................... 
+	http://risis.eu/orgref_20170703/resource/13409094........... http://www.univ-lyon2.fr.................................... 
+	http://risis.eu/orgref_20170703/resource/13409094........... Lumière University Lyon 2.................................. 
+	http://risis.eu/eter_2014/resource/FR0158................... 45,748991................................................... 
+	http://risis.eu/eter_2014/resource/FR0158................... 4,836954.................................................... 
+	http://risis.eu/eter_2014/resource/FR0158................... http://www.univ-lyon2.fr/................................... 
+	http://risis.eu/eter_2014/resource/FR0158................... m........................................................... 
+	http://risis.eu/eter_2014/resource/FR0158................... Lumière University Lyon 2.................................. 
+	http://risis.eu/eter_2014/resource/FR0158................... Université Lumière - Lyon 2............................... 
+	http://risis.eu/cordisH2020/resource/participant_999855825.. http://risis.eu/cordisH2020/resource/www.univ-lyon2.fr...... 
+	http://risis.eu/cordisH2020/resource/participant_999855825.. UNIVERSITE LUMIERE LYON 2................................... 
+	http://www.grid.ac/institutes/grid.72960.3a................. 4.837222.................................................... 
+	http://www.grid.ac/institutes/grid.72960.3a................. 45.75083.................................................... 
+	http://www.grid.ac/institutes/grid.72960.3a................. http://www.univ-lyon2.fr/................................... 
+	http://www.grid.ac/institutes/grid.72960.3a................. Lumière University Lyon 2.................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:13409094', '4:grid.72960.3a'), ('2:FR0158', '1:13409094'), ('2:FR0158', '4:grid.72960.3a'), ('3:participant_999855825', '1:13409094'), ('3:participant_999855825', '2:FR0158'), ('4:grid.72960.3a', '3:participant_999855825')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

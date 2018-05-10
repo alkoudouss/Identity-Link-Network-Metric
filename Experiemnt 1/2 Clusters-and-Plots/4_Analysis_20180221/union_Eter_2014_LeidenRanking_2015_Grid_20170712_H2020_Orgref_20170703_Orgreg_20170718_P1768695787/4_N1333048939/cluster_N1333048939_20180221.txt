@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 6551 
+NAME    N1333048939
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/3482814>
+	<http://risis.eu/orgreg_20170718/resource/DE0164>
+	<http://risis.eu/eter_2014/resource/DE0164>
+	<http://www.grid.ac/institutes/grid.451810.9>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/3482814.. http://www.grid.ac/institutes/grid.451810.9....... 1................................................. [Kunstakademie Düsseldorf] was compared to [Kunstakademie Düsseldorf] 
+	http://www.grid.ac/institutes/grid.451810.9....... http://risis.eu/orgref_20170703/resource/3482814.. 1................................................. [Kunstakademie Düsseldorf] was compared to [Kunstakademie Düsseldorf] 
+	http://risis.eu/eter_2014/resource/DE0164......... http://www.grid.ac/institutes/grid.451810.9....... 1................................................. [Kunstakademie Düsseldorf] was compared to [Kunstakademie Düsseldorf] 
+	http://www.grid.ac/institutes/grid.451810.9....... http://risis.eu/eter_2014/resource/DE0164......... 1................................................. [Kunstakademie Düsseldorf] was compared to [Kunstakademie Düsseldorf] 
+	http://risis.eu/orgref_20170703/resource/3482814.. http://risis.eu/eter_2014/resource/DE0164......... 1................................................. [Kunstakademie Düsseldorf] was compared to [Kunstakademie Düsseldorf] 
+	http://risis.eu/eter_2014/resource/DE0164......... http://risis.eu/orgref_20170703/resource/3482814.. 1................................................. [Kunstakademie Düsseldorf] was compared to [Kunstakademie Düsseldorf] 
+	http://risis.eu/orgreg_20170718/resource/DE0164... http://risis.eu/eter_2014/resource/DE0164......... 1................................................. [Kunstakademie Düsseldorf] was compared to [Kunstakademie Düsseldorf] 
+	http://risis.eu/eter_2014/resource/DE0164......... http://risis.eu/orgreg_20170718/resource/DE0164... 1................................................. [Kunstakademie Düsseldorf] was compared to [Kunstakademie Düsseldorf] 
+	http://risis.eu/orgref_20170703/resource/3482814.. http://risis.eu/orgreg_20170718/resource/DE0164... 1................................................. [Kunstakademie Düsseldorf] was compared to [Kunstakademie Düsseldorf] 
+	http://risis.eu/orgreg_20170718/resource/DE0164... http://risis.eu/orgref_20170703/resource/3482814.. 1................................................. [Kunstakademie Düsseldorf] was compared to [Kunstakademie Düsseldorf] 
+	http://risis.eu/orgreg_20170718/resource/DE0164... http://www.grid.ac/institutes/grid.451810.9....... 1................................................. [Kunstakademie Düsseldorf] was compared to [Kunstakademie Düsseldorf] 
+	http://www.grid.ac/institutes/grid.451810.9....... http://risis.eu/orgreg_20170718/resource/DE0164... 1................................................. [Kunstakademie Düsseldorf] was compared to [Kunstakademie Düsseldorf] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/3482814.. http://en.wikipedia.org/wiki?curid=3482814........ 
+	http://risis.eu/orgref_20170703/resource/3482814.. http://www.wikidata.org/wiki/Q662355.............. 
+	http://risis.eu/orgref_20170703/resource/3482814.. Kunstakademie Düsseldorf......................... 
+	http://risis.eu/orgreg_20170718/resource/DE0164... 51.222086......................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0164... 6.772708.......................................... 
+	http://risis.eu/orgreg_20170718/resource/DE0164... www.kunstakademie-duesseldorf.de.................. 
+	http://risis.eu/orgreg_20170718/resource/DE0164... Kunstakademie Düsseldorf......................... 
+	http://risis.eu/eter_2014/resource/DE0164......... 51,222086......................................... 
+	http://risis.eu/eter_2014/resource/DE0164......... 6,772708.......................................... 
+	http://risis.eu/eter_2014/resource/DE0164......... www.kunstakademie-duesseldorf.de.................. 
+	http://risis.eu/eter_2014/resource/DE0164......... a................................................. 
+	http://risis.eu/eter_2014/resource/DE0164......... Kunstakademie Düsseldorf......................... 
+	http://www.grid.ac/institutes/grid.451810.9....... 6.773383.......................................... 
+	http://www.grid.ac/institutes/grid.451810.9....... 51.233944......................................... 
+	http://www.grid.ac/institutes/grid.451810.9....... http://kunstakademie-duesseldorf.com/............. 
+	http://www.grid.ac/institutes/grid.451810.9....... Kunstakademie Düsseldorf......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:3482814', '4:grid.451810.9'), ('2:DE0164', '1:3482814'), ('2:DE0164', '4:grid.451810.9'), ('3:DE0164', '1:3482814'), ('3:DE0164', '2:DE0164'), ('4:grid.451810.9', '3:DE0164')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

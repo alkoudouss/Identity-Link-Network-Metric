@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 16976 
+NAME    N1681514730
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.416927.f>
+	<http://www.grid.ac/institutes/grid.425213.3>
+	<http://risis.eu/leidenRanking_2015/resource/1699>
+	<http://risis.eu/orgref_20170703/resource/382312>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.416927.f....... http://www.grid.ac/institutes/grid.425213.3....... 1................................................. [St. Thomas Hospital] was compared to [St Thomas' Hospital] 
+	http://www.grid.ac/institutes/grid.425213.3....... http://www.grid.ac/institutes/grid.416927.f....... 1................................................. [St. Thomas Hospital] was compared to [St Thomas' Hospital] 
+	http://www.grid.ac/institutes/grid.425213.3....... http://risis.eu/orgref_20170703/resource/382312... 1................................................. [St Thomas' Hospital] was compared to [St Thomas' Hospital] 
+	http://risis.eu/orgref_20170703/resource/382312... http://www.grid.ac/institutes/grid.425213.3....... 1................................................. [St Thomas' Hospital] was compared to [St Thomas' Hospital] 
+	http://www.grid.ac/institutes/grid.416927.f....... http://risis.eu/orgref_20170703/resource/382312... 1................................................. [St. Thomas Hospital] was compared to [St Thomas' Hospital] 
+	http://risis.eu/orgref_20170703/resource/382312... http://www.grid.ac/institutes/grid.416927.f....... 1................................................. [St. Thomas Hospital] was compared to [St Thomas' Hospital] 
+	http://www.grid.ac/institutes/grid.425213.3....... http://risis.eu/leidenRanking_2015/resource/1699.. 1................................................. [St Thomas' Hospital] was compared to [St. Thomas' Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1699.. http://www.grid.ac/institutes/grid.425213.3....... 1................................................. [St Thomas' Hospital] was compared to [St. Thomas' Hospital] 
+	http://www.grid.ac/institutes/grid.416927.f....... http://risis.eu/leidenRanking_2015/resource/1699.. 1................................................. [St. Thomas Hospital] was compared to [St. Thomas' Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1699.. http://www.grid.ac/institutes/grid.416927.f....... 1................................................. [St. Thomas Hospital] was compared to [St. Thomas' Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1699.. http://risis.eu/orgref_20170703/resource/382312... 1................................................. [St Thomas' Hospital] was compared to [St. Thomas' Hospital] 
+	http://risis.eu/orgref_20170703/resource/382312... http://risis.eu/leidenRanking_2015/resource/1699.. 1................................................. [St Thomas' Hospital] was compared to [St. Thomas' Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.416927.f....... -81.18099......................................... 
+	http://www.grid.ac/institutes/grid.416927.f....... 42.762753......................................... 
+	http://www.grid.ac/institutes/grid.416927.f....... http://www.stegh.on.ca/........................... 
+	http://www.grid.ac/institutes/grid.416927.f....... St. Thomas Hospital............................... 
+	http://www.grid.ac/institutes/grid.425213.3....... -0.11910081....................................... 
+	http://www.grid.ac/institutes/grid.425213.3....... 51.498817......................................... 
+	http://www.grid.ac/institutes/grid.425213.3....... http://www.nhs.uk/Services/hospitals/Overview/DefaultView.aspx?id=970 
+	http://www.grid.ac/institutes/grid.425213.3....... St Thomas' Hospital............................... 
+	http://risis.eu/leidenRanking_2015/resource/1699.. St. Thomas' Hospital.............................. 
+	http://risis.eu/orgref_20170703/resource/382312... http://en.wikipedia.org/wiki?curid=382312......... 
+	http://risis.eu/orgref_20170703/resource/382312... http://www.wikidata.org/wiki/Q1143779............. 
+	http://risis.eu/orgref_20170703/resource/382312... http://www.guysandstthomas.nhs.uk................. 
+	http://risis.eu/orgref_20170703/resource/382312... St Thomas' Hospital............................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.425213.3', '1:grid.416927.f'), ('3:1699', '1:grid.416927.f'), ('3:1699', '2:grid.425213.3'), ('3:1699', '4:382312'), ('4:382312', '1:grid.416927.f'), ('4:382312', '2:grid.425213.3')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

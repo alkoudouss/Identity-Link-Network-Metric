@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 230 
+NAME    N789985556
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.415053.6>
+	<http://www.grid.ac/institutes/grid.414116.7>
+	<http://risis.eu/eter_2014/resource/TR0152>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.415053.6.. http://risis.eu/eter_2014/resource/TR0152.... 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://www.grid.ac/institutes/grid.414116.7.. http://risis.eu/eter_2014/resource/TR0152.... 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/TR0152.... http://www.grid.ac/institutes/grid.414116.7.. 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/TR0152.... http://www.grid.ac/institutes/grid.415053.6.. 1............................................ Near each other by at most 2000 meter(s)..... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.415053.6.. 29.155478.................................... 
+	http://www.grid.ac/institutes/grid.415053.6.. 40.91087..................................... 
+	http://www.grid.ac/institutes/grid.415053.6.. http://www.kosuyolu.gov.tr/.................. 
+	http://www.grid.ac/institutes/grid.415053.6.. Kosuyolu Yuksek Ihtisas Egitim ve Arastirma Hastanesi 
+	http://www.grid.ac/institutes/grid.414116.7.. 29.173243.................................... 
+	http://www.grid.ac/institutes/grid.414116.7.. 40.91634..................................... 
+	http://www.grid.ac/institutes/grid.414116.7.. http://www.sbkeah.gov.tr/.................... 
+	http://www.grid.ac/institutes/grid.414116.7.. Dr Lütfi Kırdar Kartal Eğitim ve Araştırma Hastanesi 
+	http://risis.eu/eter_2014/resource/TR0152.... 40,905138.................................... 
+	http://risis.eu/eter_2014/resource/TR0152.... 29,159416.................................... 
+	http://risis.eu/eter_2014/resource/TR0152.... http://www.ssu.edu.tr/....................... 
+	http://risis.eu/eter_2014/resource/TR0152.... a............................................ 
+	http://risis.eu/eter_2014/resource/TR0152.... Suleyman Sah University...................... 
+	http://risis.eu/eter_2014/resource/TR0152.... SÜLEYMAN ŞAH ÜNIVERSITESI................. 
+
+NETWORK ANALYSIS
+	NETWORK [('N789985556-TR0152', 'P942802714-grid.414116.7'), ('N789985556-TR0152', 'P212909356-grid.415053.6')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 4970 
+NAME    N2065413939
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.419593.3>
+	<http://risis.eu/leidenRanking_2015/resource/7413>
+	<http://risis.eu/orgreg_20170718/resource/IT3013>
+	<http://risis.eu/cordisH2020/resource/participant_997383489>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.419593.3................. http://risis.eu/leidenRanking_2015/resource/7413............ 1........................................................... [Istituto Zooprofilattico Sperimentale delle Venezie] was compared to [Istituto Zooprofilattico Sperimentale delle Venezie (IZSV)] 
+	http://risis.eu/leidenRanking_2015/resource/7413............ http://www.grid.ac/institutes/grid.419593.3................. 1........................................................... [Istituto Zooprofilattico Sperimentale delle Venezie] was compared to [Istituto Zooprofilattico Sperimentale delle Venezie (IZSV)] 
+	http://www.grid.ac/institutes/grid.419593.3................. http://risis.eu/cordisH2020/resource/participant_997383489.. 1........................................................... [Istituto Zooprofilattico Sperimentale delle Venezie] was compared to [ISTITUTO ZOOPROFILATTICO SPERIMENTALE DELLE VENEZIE] 
+	http://risis.eu/cordisH2020/resource/participant_997383489.. http://www.grid.ac/institutes/grid.419593.3................. 1........................................................... [Istituto Zooprofilattico Sperimentale delle Venezie] was compared to [ISTITUTO ZOOPROFILATTICO SPERIMENTALE DELLE VENEZIE] 
+	http://risis.eu/leidenRanking_2015/resource/7413............ http://risis.eu/cordisH2020/resource/participant_997383489.. 1........................................................... [ISTITUTO ZOOPROFILATTICO SPERIMENTALE DELLE VENEZIE] was compared to [Istituto Zooprofilattico Sperimentale delle Venezie (IZSV)] 
+	http://risis.eu/cordisH2020/resource/participant_997383489.. http://risis.eu/leidenRanking_2015/resource/7413............ 1........................................................... [ISTITUTO ZOOPROFILATTICO SPERIMENTALE DELLE VENEZIE] was compared to [Istituto Zooprofilattico Sperimentale delle Venezie (IZSV)] 
+	http://risis.eu/leidenRanking_2015/resource/7413............ http://risis.eu/orgreg_20170718/resource/IT3013............. 1........................................................... [Istituto Zooprofilattico Sperimentale delle Venezie] was compared to [Istituto Zooprofilattico Sperimentale delle Venezie (IZSV)] 
+	http://risis.eu/orgreg_20170718/resource/IT3013............. http://risis.eu/leidenRanking_2015/resource/7413............ 1........................................................... [Istituto Zooprofilattico Sperimentale delle Venezie] was compared to [Istituto Zooprofilattico Sperimentale delle Venezie (IZSV)] 
+	http://risis.eu/orgreg_20170718/resource/IT3013............. http://risis.eu/cordisH2020/resource/participant_997383489.. 1........................................................... [Istituto Zooprofilattico Sperimentale delle Venezie] was compared to [ISTITUTO ZOOPROFILATTICO SPERIMENTALE DELLE VENEZIE] 
+	http://risis.eu/cordisH2020/resource/participant_997383489.. http://risis.eu/orgreg_20170718/resource/IT3013............. 1........................................................... [Istituto Zooprofilattico Sperimentale delle Venezie] was compared to [ISTITUTO ZOOPROFILATTICO SPERIMENTALE DELLE VENEZIE] 
+	http://www.grid.ac/institutes/grid.419593.3................. http://risis.eu/orgreg_20170718/resource/IT3013............. 1........................................................... [Istituto Zooprofilattico Sperimentale delle Venezie] was compared to [Istituto Zooprofilattico Sperimentale delle Venezie] 
+	http://risis.eu/orgreg_20170718/resource/IT3013............. http://www.grid.ac/institutes/grid.419593.3................. 1........................................................... [Istituto Zooprofilattico Sperimentale delle Venezie] was compared to [Istituto Zooprofilattico Sperimentale delle Venezie] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.419593.3................. 11.958371................................................... 
+	http://www.grid.ac/institutes/grid.419593.3................. 45.34881.................................................... 
+	http://www.grid.ac/institutes/grid.419593.3................. http://www.izsvenezie.com/.................................. 
+	http://www.grid.ac/institutes/grid.419593.3................. Istituto Zooprofilattico Sperimentale delle Venezie......... 
+	http://risis.eu/leidenRanking_2015/resource/7413............ Istituto Zooprofilattico Sperimentale delle Venezie (IZSV).. 
+	http://risis.eu/orgreg_20170718/resource/IT3013............. m........................................................... 
+	http://risis.eu/orgreg_20170718/resource/IT3013............. http://www.izsvenezie.it/................................... 
+	http://risis.eu/orgreg_20170718/resource/IT3013............. Istituto Zooprofilattico Sperimentale delle Venezie......... 
+	http://risis.eu/cordisH2020/resource/participant_997383489.. http://risis.eu/cordisH2020/resource/www.izsvenezie.it...... 
+	http://risis.eu/cordisH2020/resource/participant_997383489.. ISTITUTO ZOOPROFILATTICO SPERIMENTALE DELLE VENEZIE......... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:7413', '1:grid.419593.3'), ('2:7413', '4:participant_997383489'), ('3:IT3013', '1:grid.419593.3'), ('3:IT3013', '2:7413'), ('4:participant_997383489', '1:grid.419593.3'), ('4:participant_997383489', '3:IT3013')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

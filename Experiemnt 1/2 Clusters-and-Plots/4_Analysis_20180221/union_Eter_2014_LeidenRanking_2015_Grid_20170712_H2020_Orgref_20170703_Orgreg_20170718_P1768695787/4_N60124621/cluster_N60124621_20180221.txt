@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 13149 
+NAME    N60124621
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.410781.b>
+	<http://risis.eu/orgref_20170703/resource/17001301>
+	<http://risis.eu/orgref_20170703/resource/1561327>
+	<http://risis.eu/leidenRanking_2015/resource/9492>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.410781.b........ http://risis.eu/orgref_20170703/resource/1561327... 1.................................................. [Kurume University] was compared to [Kurume University] 
+	http://risis.eu/orgref_20170703/resource/1561327... http://www.grid.ac/institutes/grid.410781.b........ 1.................................................. [Kurume University] was compared to [Kurume University] 
+	http://www.grid.ac/institutes/grid.410781.b........ http://risis.eu/leidenRanking_2015/resource/9492... 1.................................................. [Kurume University] was compared to [Kurume University] 
+	http://risis.eu/leidenRanking_2015/resource/9492... http://www.grid.ac/institutes/grid.410781.b........ 1.................................................. [Kurume University] was compared to [Kurume University] 
+	http://risis.eu/orgref_20170703/resource/1561327... http://risis.eu/leidenRanking_2015/resource/9492... 1.................................................. [Kurume University] was compared to [Kurume University] 
+	http://risis.eu/leidenRanking_2015/resource/9492... http://risis.eu/orgref_20170703/resource/1561327... 1.................................................. [Kurume University] was compared to [Kurume University] 
+	http://risis.eu/orgref_20170703/resource/17001301.. http://risis.eu/orgref_20170703/resource/1561327... 0.882352941176..................................... [Kurume University] was compared to [Kure University] 
+	http://risis.eu/orgref_20170703/resource/1561327... http://risis.eu/orgref_20170703/resource/17001301.. 0.882352941176..................................... [Kurume University] was compared to [Kure University] 
+	http://risis.eu/orgref_20170703/resource/17001301.. http://risis.eu/leidenRanking_2015/resource/9492... 0.882352941176..................................... [Kure University] was compared to [Kurume University] 
+	http://risis.eu/leidenRanking_2015/resource/9492... http://risis.eu/orgref_20170703/resource/17001301.. 0.882352941176..................................... [Kure University] was compared to [Kurume University] 
+	http://www.grid.ac/institutes/grid.410781.b........ http://risis.eu/orgref_20170703/resource/17001301.. 0.882352941176..................................... [Kurume University] was compared to [Kure University] 
+	http://risis.eu/orgref_20170703/resource/17001301.. http://www.grid.ac/institutes/grid.410781.b........ 0.882352941176..................................... [Kurume University] was compared to [Kure University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.410781.b........ 130.51117.......................................... 
+	http://www.grid.ac/institutes/grid.410781.b........ 33.328743.......................................... 
+	http://www.grid.ac/institutes/grid.410781.b........ https://www.kurume-u.ac.jp/site/english/........... 
+	http://www.grid.ac/institutes/grid.410781.b........ Kurume Daigaku..................................... 
+	http://www.grid.ac/institutes/grid.410781.b........ Kurume University.................................. 
+	http://risis.eu/orgref_20170703/resource/17001301.. http://en.wikipedia.org/wiki?curid=17001301........ 
+	http://risis.eu/orgref_20170703/resource/17001301.. http://www.wikidata.org/wiki/Q6445845.............. 
+	http://risis.eu/orgref_20170703/resource/17001301.. https://web.archive.org/web/20080227042845/http://www.kure-u.ac.jp 
+	http://risis.eu/orgref_20170703/resource/17001301.. Kure University.................................... 
+	http://risis.eu/orgref_20170703/resource/1561327... http://en.wikipedia.org/wiki?curid=1561327......... 
+	http://risis.eu/orgref_20170703/resource/1561327... http://www.wikidata.org/wiki/Q8191850.............. 
+	http://risis.eu/orgref_20170703/resource/1561327... http://www.kurume-u.ac.jp.......................... 
+	http://risis.eu/orgref_20170703/resource/1561327... Kurume University.................................. 
+	http://risis.eu/leidenRanking_2015/resource/9492... Kurume University.................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:17001301', '1:grid.410781.b'), ('2:17001301', '3:1561327'), ('3:1561327', '1:grid.410781.b'), ('4:9492', '1:grid.410781.b'), ('4:9492', '2:17001301'), ('4:9492', '3:1561327')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

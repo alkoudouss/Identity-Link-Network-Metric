@@ -1,0 +1,57 @@
+SIZE    3   
+CLUSTER 232 
+NAME    P144189341
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.470200.1>
+	<http://www.grid.ac/institutes/grid.466046.6>
+	<http://risis.eu/eter_2014/resource/IT0158>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.470200.1.. http://risis.eu/eter_2014/resource/IT0158.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.466046.6.. http://risis.eu/eter_2014/resource/IT0158.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/IT0158.... http://www.grid.ac/institutes/grid.470200.1.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/IT0158.... http://www.grid.ac/institutes/grid.466046.6.. 1............................................ Near each other by at most 500 meter(s)...... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.470200.1.. 11.615604.................................... 
+	http://www.grid.ac/institutes/grid.470200.1.. 44.84123..................................... 
+	http://www.grid.ac/institutes/grid.470200.1.. http://www.fe.infn.it/....................... 
+	http://www.grid.ac/institutes/grid.470200.1.. Istituto Nazionale di Fisica Nucleare Sezione di Ferrara 
+	http://www.grid.ac/institutes/grid.470200.1.. INFN Sezione di Ferrara...................... 
+	http://www.grid.ac/institutes/grid.466046.6.. 11.621963.................................... 
+	http://www.grid.ac/institutes/grid.466046.6.. 44.838196.................................... 
+	http://www.grid.ac/institutes/grid.466046.6.. http://www.conservatorioferrara.it/.......... 
+	http://www.grid.ac/institutes/grid.466046.6.. Conservatorio di Musica Girolamo Frescobaldi. 
+	http://risis.eu/eter_2014/resource/IT0158.... 44,842288.................................... 
+	http://risis.eu/eter_2014/resource/IT0158.... 11,621698.................................... 
+	http://risis.eu/eter_2014/resource/IT0158.... http://www.conservatorioferrara.it........... 
+	http://risis.eu/eter_2014/resource/IT0158.... a............................................ 
+	http://risis.eu/eter_2014/resource/IT0158.... Music Conservatory of FERRARA Girolamo Frescobaldi 
+	http://risis.eu/eter_2014/resource/IT0158.... Conservatorio di FERRARA Girolamo Frescobaldi 
+
+NETWORK ANALYSIS
+	NETWORK [('P144189341-IT0158', 'P1213206540-grid.466046.6'), ('P144189341-IT0158', 'P1867532000-grid.470200.1')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

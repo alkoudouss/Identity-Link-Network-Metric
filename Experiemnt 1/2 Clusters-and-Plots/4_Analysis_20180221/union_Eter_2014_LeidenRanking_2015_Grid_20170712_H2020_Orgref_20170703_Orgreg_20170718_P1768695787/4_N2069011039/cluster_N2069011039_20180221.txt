@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 10211 
+NAME    N2069011039
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.462977.9>
+	<http://risis.eu/orgref_20170703/resource/11021013>
+	<http://risis.eu/orgref_20170703/resource/21157700>
+	<http://risis.eu/orgref_20170703/resource/34981841>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.462977.9........ http://risis.eu/orgref_20170703/resource/11021013.. 1.................................................. [Toyota National College of Technology] was compared to [Toyota National College of Technology] 
+	http://risis.eu/orgref_20170703/resource/11021013.. http://www.grid.ac/institutes/grid.462977.9........ 1.................................................. [Toyota National College of Technology] was compared to [Toyota National College of Technology] 
+	http://risis.eu/orgref_20170703/resource/21157700.. http://risis.eu/orgref_20170703/resource/34981841.. 0.942857142857..................................... [Toyama National College of Technology] was compared to [Tsuyama National College of Technology] 
+	http://risis.eu/orgref_20170703/resource/34981841.. http://risis.eu/orgref_20170703/resource/21157700.. 0.942857142857..................................... [Toyama National College of Technology] was compared to [Tsuyama National College of Technology] 
+	http://risis.eu/orgref_20170703/resource/11021013.. http://risis.eu/orgref_20170703/resource/21157700.. 0.941176470588..................................... [Toyota National College of Technology] was compared to [Toyama National College of Technology] 
+	http://risis.eu/orgref_20170703/resource/21157700.. http://risis.eu/orgref_20170703/resource/11021013.. 0.941176470588..................................... [Toyota National College of Technology] was compared to [Toyama National College of Technology] 
+	http://www.grid.ac/institutes/grid.462977.9........ http://risis.eu/orgref_20170703/resource/21157700.. 0.941176470588..................................... [Toyota National College of Technology] was compared to [Toyama National College of Technology] 
+	http://risis.eu/orgref_20170703/resource/21157700.. http://www.grid.ac/institutes/grid.462977.9........ 0.941176470588..................................... [Toyota National College of Technology] was compared to [Toyama National College of Technology] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.462977.9........ 137.14932.......................................... 
+	http://www.grid.ac/institutes/grid.462977.9........ 35.10419........................................... 
+	http://www.grid.ac/institutes/grid.462977.9........ http://www.toyota-ct.ac.jp/........................ 
+	http://www.grid.ac/institutes/grid.462977.9........ Kokuritsu toyota kougyou koutou senmon gakko....... 
+	http://www.grid.ac/institutes/grid.462977.9........ Toyota National College of Technology.............. 
+	http://risis.eu/orgref_20170703/resource/11021013.. http://en.wikipedia.org/wiki?curid=11021013........ 
+	http://risis.eu/orgref_20170703/resource/11021013.. http://www.wikidata.org/wiki/Q7830847.............. 
+	http://risis.eu/orgref_20170703/resource/11021013.. http://www.toyota-ct.ac.jp......................... 
+	http://risis.eu/orgref_20170703/resource/11021013.. Toyota National College of Technology.............. 
+	http://risis.eu/orgref_20170703/resource/21157700.. http://en.wikipedia.org/wiki?curid=21157700........ 
+	http://risis.eu/orgref_20170703/resource/21157700.. http://www.wikidata.org/wiki/Q7830586.............. 
+	http://risis.eu/orgref_20170703/resource/21157700.. http://www.nc-toyama.ac.jp/c5/index.php/e.......... 
+	http://risis.eu/orgref_20170703/resource/21157700.. Toyama National College of Technology.............. 
+	http://risis.eu/orgref_20170703/resource/34981841.. http://en.wikipedia.org/wiki?curid=34981841........ 
+	http://risis.eu/orgref_20170703/resource/34981841.. http://www.wikidata.org/wiki/Q7850363.............. 
+	http://risis.eu/orgref_20170703/resource/34981841.. http://www.tsuyama-ct.ac.jp........................ 
+	http://risis.eu/orgref_20170703/resource/34981841.. Tsuyama National College of Technology............. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:11021013', '1:grid.462977.9'), ('3:21157700', '1:grid.462977.9'), ('3:21157700', '2:11021013'), ('4:34981841', '3:21157700')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

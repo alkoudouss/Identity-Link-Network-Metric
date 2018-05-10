@@ -1,0 +1,72 @@
+SIZE    4   
+CLUSTER 1208 
+NAME    N1606474772
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/UK0112>
+	<http://www.grid.ac/institutes/grid.5884.1>
+	<http://www.grid.ac/institutes/grid.11835.3e>
+	<http://risis.eu/eter_2014/resource/UK0111>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/UK0112.... http://www.grid.ac/institutes/grid.5884.1.... 0.740740740741............................... [university sheffield] was compared to [sheffield hallam university] 
+	http://risis.eu/eter_2014/resource/UK0112.... http://www.grid.ac/institutes/grid.11835.3e.. 1............................................ [university sheffield] was compared to [university sheffield] 
+	http://www.grid.ac/institutes/grid.5884.1.... http://risis.eu/eter_2014/resource/UK0111.... 1............................................ [sheffield hallam university] was compared to [sheffield hallam university] 
+	http://www.grid.ac/institutes/grid.5884.1.... http://risis.eu/eter_2014/resource/UK0112.... 0.740740740741............................... [university sheffield] was compared to [sheffield hallam university] 
+	http://www.grid.ac/institutes/grid.11835.3e.. http://risis.eu/eter_2014/resource/UK0111.... 0.740740740741............................... [sheffield hallam university] was compared to [university sheffield] 
+	http://www.grid.ac/institutes/grid.11835.3e.. http://risis.eu/eter_2014/resource/UK0111.... 0.740740740741............................... [instituto superior educacao e ciencias] was compared to [instituto superior educacao e ciencias] 
+	http://www.grid.ac/institutes/grid.11835.3e.. http://risis.eu/eter_2014/resource/UK0111.... 1............................................ [sheffield hallam university] was compared to [university sheffield] 
+	http://www.grid.ac/institutes/grid.11835.3e.. http://risis.eu/eter_2014/resource/UK0111.... 1............................................ [instituto superior educacao e ciencias] was compared to [instituto superior educacao e ciencias] 
+	http://www.grid.ac/institutes/grid.11835.3e.. http://risis.eu/eter_2014/resource/UK0112.... 1............................................ [university sheffield] was compared to [university sheffield] 
+	http://risis.eu/eter_2014/resource/UK0111.... http://www.grid.ac/institutes/grid.5884.1.... 1............................................ [sheffield hallam university] was compared to [sheffield hallam university] 
+	http://risis.eu/eter_2014/resource/UK0111.... http://www.grid.ac/institutes/grid.11835.3e.. 0.740740740741............................... [sheffield hallam university] was compared to [university sheffield] 
+	http://risis.eu/eter_2014/resource/UK0111.... http://www.grid.ac/institutes/grid.11835.3e.. 0.740740740741............................... [instituto superior educacao e ciencias] was compared to [instituto superior educacao e ciencias] 
+	http://risis.eu/eter_2014/resource/UK0111.... http://www.grid.ac/institutes/grid.11835.3e.. 1............................................ [sheffield hallam university] was compared to [university sheffield] 
+	http://risis.eu/eter_2014/resource/UK0111.... http://www.grid.ac/institutes/grid.11835.3e.. 1............................................ [instituto superior educacao e ciencias] was compared to [instituto superior educacao e ciencias] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 19 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/UK0112.... 53,381391.................................... 
+	http://risis.eu/eter_2014/resource/UK0112.... -1,48871..................................... 
+	http://risis.eu/eter_2014/resource/UK0112.... http://www.shef.ac.uk/....................... 
+	http://risis.eu/eter_2014/resource/UK0112.... a............................................ 
+	http://risis.eu/eter_2014/resource/UK0112.... The University of Sheffield.................. 
+	http://www.grid.ac/institutes/grid.5884.1.... -1.465633.................................... 
+	http://www.grid.ac/institutes/grid.5884.1.... 53.3786...................................... 
+	http://www.grid.ac/institutes/grid.5884.1.... http://www.shu.ac.uk/........................ 
+	http://www.grid.ac/institutes/grid.5884.1.... Sheffield Hallam University.................. 
+	http://www.grid.ac/institutes/grid.11835.3e.. -1.488272.................................... 
+	http://www.grid.ac/institutes/grid.11835.3e.. 53.38139..................................... 
+	http://www.grid.ac/institutes/grid.11835.3e.. http://www.sheffield.ac.uk/.................. 
+	http://www.grid.ac/institutes/grid.11835.3e.. Sheffield University......................... 
+	http://www.grid.ac/institutes/grid.11835.3e.. University of Sheffield...................... 
+	http://risis.eu/eter_2014/resource/UK0111.... 53,379194.................................... 
+	http://risis.eu/eter_2014/resource/UK0111.... -1,465255.................................... 
+	http://risis.eu/eter_2014/resource/UK0111.... http://www.shu.ac.uk/........................ 
+	http://risis.eu/eter_2014/resource/UK0111.... a............................................ 
+	http://risis.eu/eter_2014/resource/UK0111.... Sheffield Hallam University.................. 
+
+NETWORK ANALYSIS
+	NETWORK [('N504455697-UK0111', 'N1606474772-grid.5884.1'), ('N504455697-UK0111', 'P250904902-grid.11835.3e'), ('N505455710-UK0112', 'P250904902-grid.11835.3e'), ('N505455710-UK0112', 'N1606474772-grid.5884.1')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.666666666667
+	BRIDGES                         : 0
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.277
+	QUALITY USED                    : 0.277
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.277 QUALITY USED 0.277
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.277 QUALITY USED 0.277

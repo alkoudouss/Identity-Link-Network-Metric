@@ -1,0 +1,69 @@
+SIZE    4   
+CLUSTER 14024 
+NAME    N1613481486
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.419888.4>
+	<http://risis.eu/orgref_20170703/resource/47000630>
+	<http://www.grid.ac/institutes/grid.419891.c>
+	<http://risis.eu/orgref_20170703/resource/1419218>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.419888.4........ http://www.grid.ac/institutes/grid.419891.c........ 1.................................................. [Ministry of Agriculture, Food and Rural Affairs] was compared to [Ministry of Agriculture, Food and Rural Affairs] 
+	http://www.grid.ac/institutes/grid.419891.c........ http://www.grid.ac/institutes/grid.419888.4........ 1.................................................. [Ministry of Agriculture, Food and Rural Affairs] was compared to [Ministry of Agriculture, Food and Rural Affairs] 
+	http://www.grid.ac/institutes/grid.419888.4........ http://risis.eu/orgref_20170703/resource/1419218... 1.................................................. [Ministry of Agriculture, Food and Rural Affairs] was compared to [Ministry of Agriculture, Food and Rural Affairs (Ontario)] 
+	http://risis.eu/orgref_20170703/resource/1419218... http://www.grid.ac/institutes/grid.419888.4........ 1.................................................. [Ministry of Agriculture, Food and Rural Affairs] was compared to [Ministry of Agriculture, Food and Rural Affairs (Ontario)] 
+	http://www.grid.ac/institutes/grid.419888.4........ http://risis.eu/orgref_20170703/resource/47000630.. 1.................................................. [Ministry of Agriculture, Food and Rural Affairs] was compared to [Ministry of Agriculture, Food and Rural Affairs (South Korea)] 
+	http://risis.eu/orgref_20170703/resource/47000630.. http://www.grid.ac/institutes/grid.419888.4........ 1.................................................. [Ministry of Agriculture, Food and Rural Affairs] was compared to [Ministry of Agriculture, Food and Rural Affairs (South Korea)] 
+	http://www.grid.ac/institutes/grid.419891.c........ http://risis.eu/orgref_20170703/resource/1419218... 1.................................................. [Ministry of Agriculture, Food and Rural Affairs] was compared to [Ministry of Agriculture, Food and Rural Affairs (Ontario)] 
+	http://risis.eu/orgref_20170703/resource/1419218... http://www.grid.ac/institutes/grid.419891.c........ 1.................................................. [Ministry of Agriculture, Food and Rural Affairs] was compared to [Ministry of Agriculture, Food and Rural Affairs (Ontario)] 
+	http://risis.eu/orgref_20170703/resource/47000630.. http://www.grid.ac/institutes/grid.419891.c........ 1.................................................. [Ministry of Agriculture, Food and Rural Affairs] was compared to [Ministry of Agriculture, Food and Rural Affairs (South Korea)] 
+	http://www.grid.ac/institutes/grid.419891.c........ http://risis.eu/orgref_20170703/resource/47000630.. 1.................................................. [Ministry of Agriculture, Food and Rural Affairs] was compared to [Ministry of Agriculture, Food and Rural Affairs (South Korea)] 
+	http://risis.eu/orgref_20170703/resource/47000630.. http://risis.eu/orgref_20170703/resource/1419218... 1.................................................. [Ministry of Agriculture, Food and Rural Affairs (Ontario)] was compared to [Ministry of Agriculture, Food and Rural Affairs (South Korea)] 
+	http://risis.eu/orgref_20170703/resource/1419218... http://risis.eu/orgref_20170703/resource/47000630.. 1.................................................. [Ministry of Agriculture, Food and Rural Affairs (Ontario)] was compared to [Ministry of Agriculture, Food and Rural Affairs (South Korea)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.419888.4........ 127.25257.......................................... 
+	http://www.grid.ac/institutes/grid.419888.4........ 36.567043.......................................... 
+	http://www.grid.ac/institutes/grid.419888.4........ http://english.mafra.go.kr/main.jsp................ 
+	http://www.grid.ac/institutes/grid.419888.4........ Ministry of Agriculture............................ 
+	http://www.grid.ac/institutes/grid.419888.4........ Nongnim Chucksan Sikpum-bu......................... 
+	http://www.grid.ac/institutes/grid.419888.4........ Ministry of Agriculture, Food and Rural Affairs.... 
+	http://risis.eu/orgref_20170703/resource/47000630.. http://en.wikipedia.org/wiki?curid=44462095........ 
+	http://risis.eu/orgref_20170703/resource/47000630.. http://www.wikidata.org/wiki/Q624460............... 
+	http://risis.eu/orgref_20170703/resource/47000630.. http://english.mafra.go.kr......................... 
+	http://risis.eu/orgref_20170703/resource/47000630.. Ministry of Agriculture, Food and Rural Affairs (South Korea) 
+	http://www.grid.ac/institutes/grid.419891.c........ -80.22683.......................................... 
+	http://www.grid.ac/institutes/grid.419891.c........ 43.52574........................................... 
+	http://www.grid.ac/institutes/grid.419891.c........ http://www.omafra.gov.on.ca/english/............... 
+	http://www.grid.ac/institutes/grid.419891.c........ Ministry of Agriculture, Food and Rural Affairs.... 
+	http://risis.eu/orgref_20170703/resource/1419218... http://en.wikipedia.org/wiki?curid=1419218......... 
+	http://risis.eu/orgref_20170703/resource/1419218... http://www.wikidata.org/wiki/Q6866605.............. 
+	http://risis.eu/orgref_20170703/resource/1419218... http://www.omafra.gov.on.ca/english/index.html..... 
+	http://risis.eu/orgref_20170703/resource/1419218... Ministry of Agriculture, Food and Rural Affairs (Ontario) 
+
+NETWORK ANALYSIS
+	NETWORK [('2:47000630', '1:grid.419888.4'), ('2:47000630', '4:1419218'), ('3:grid.419891.c', '1:grid.419888.4'), ('3:grid.419891.c', '2:47000630'), ('4:1419218', '1:grid.419888.4'), ('4:1419218', '3:grid.419891.c')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

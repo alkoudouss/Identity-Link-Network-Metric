@@ -1,0 +1,69 @@
+SIZE    7   
+CLUSTER 6473 
+NAME    N1785656355
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.439432.b>
+	<http://www.grid.ac/institutes/grid.439583.0>
+	<http://www.grid.ac/institutes/grid.415823.9>
+	<http://risis.eu/orgref_20170703/resource/22695573>
+	<http://www.grid.ac/institutes/grid.439870.1>
+	<http://www.grid.ac/institutes/grid.439872.3>
+	<http://www.grid.ac/institutes/grid.439660.e>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.415823.9........ http://risis.eu/orgref_20170703/resource/22695573.. 1.................................................. [Larkin Community Hospital] was compared to [Larkin Community Hospital] 
+	http://risis.eu/orgref_20170703/resource/22695573.. http://www.grid.ac/institutes/grid.415823.9........ 1.................................................. [Larkin Community Hospital] was compared to [Larkin Community Hospital] 
+	http://www.grid.ac/institutes/grid.439432.b........ http://www.grid.ac/institutes/grid.415823.9........ 0.923076923077..................................... [Larkin Community Hospital] was compared to [Barking Community Hospital] 
+	http://www.grid.ac/institutes/grid.415823.9........ http://www.grid.ac/institutes/grid.439432.b........ 0.923076923077..................................... [Larkin Community Hospital] was compared to [Barking Community Hospital] 
+	http://www.grid.ac/institutes/grid.439432.b........ http://www.grid.ac/institutes/grid.439583.0........ 0.923076923077..................................... [Barking Community Hospital] was compared to [Dorking Community Hospital] 
+	http://www.grid.ac/institutes/grid.439583.0........ http://www.grid.ac/institutes/grid.439432.b........ 0.923076923077..................................... [Barking Community Hospital] was compared to [Dorking Community Hospital] 
+	http://www.grid.ac/institutes/grid.439583.0........ http://www.grid.ac/institutes/grid.439870.1........ 0.923076923077..................................... [Dorking Community Hospital] was compared to [Woking Community Hospital] 
+	http://www.grid.ac/institutes/grid.439870.1........ http://www.grid.ac/institutes/grid.439583.0........ 0.923076923077..................................... [Dorking Community Hospital] was compared to [Woking Community Hospital] 
+	http://www.grid.ac/institutes/grid.439872.3........ http://www.grid.ac/institutes/grid.439660.e........ 0.896551724138..................................... [Buckingham Community Hospital] was compared to [Wokingham Community Hospital] 
+	http://www.grid.ac/institutes/grid.439660.e........ http://www.grid.ac/institutes/grid.439872.3........ 0.896551724138..................................... [Buckingham Community Hospital] was compared to [Wokingham Community Hospital] 
+	http://www.grid.ac/institutes/grid.439870.1........ http://www.grid.ac/institutes/grid.439872.3........ 0.892857142857..................................... [Woking Community Hospital] was compared to [Wokingham Community Hospital] 
+	http://www.grid.ac/institutes/grid.439872.3........ http://www.grid.ac/institutes/grid.439870.1........ 0.892857142857..................................... [Woking Community Hospital] was compared to [Wokingham Community Hospital] 
+	http://www.grid.ac/institutes/grid.439432.b........ http://risis.eu/orgref_20170703/resource/22695573.. 0.923076923077..................................... [Barking Community Hospital] was compared to [Larkin Community Hospital] 
+	http://risis.eu/orgref_20170703/resource/22695573.. http://www.grid.ac/institutes/grid.439432.b........ 0.923076923077..................................... [Barking Community Hospital] was compared to [Larkin Community Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.439432.b........ Barking Community Hospital......................... 
+	http://www.grid.ac/institutes/grid.439583.0........ Dorking Community Hospital......................... 
+	http://www.grid.ac/institutes/grid.415823.9........ -80.29319.......................................... 
+	http://www.grid.ac/institutes/grid.415823.9........ 25.705626.......................................... 
+	http://www.grid.ac/institutes/grid.415823.9........ http://www.larkinhospital.com/site/................ 
+	http://www.grid.ac/institutes/grid.415823.9........ Larkin Community Hospital.......................... 
+	http://risis.eu/orgref_20170703/resource/22695573.. http://en.wikipedia.org/wiki?curid=22695573........ 
+	http://risis.eu/orgref_20170703/resource/22695573.. http://www.wikidata.org/wiki/Q6489609.............. 
+	http://risis.eu/orgref_20170703/resource/22695573.. http://larkinhospital.com/site..................... 
+	http://risis.eu/orgref_20170703/resource/22695573.. Larkin Community Hospital.......................... 
+	http://www.grid.ac/institutes/grid.439870.1........ Woking Community Hospital.......................... 
+	http://www.grid.ac/institutes/grid.439872.3........ Wokingham Community Hospital....................... 
+	http://www.grid.ac/institutes/grid.439660.e........ Buckingham Community Hospital...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.439583.0', '1:grid.439432.b'), ('3:grid.415823.9', '1:grid.439432.b'), ('4:22695573', '1:grid.439432.b'), ('4:22695573', '3:grid.415823.9'), ('5:grid.439870.1', '2:grid.439583.0'), ('6:grid.439872.3', '5:grid.439870.1'), ('7:grid.439660.e', '6:grid.439872.3')]
+	MAX DISTANCE:                   : 0.333
+	MAXIMUM POSSIBLE CONNECTIVITY   : 6
+	AVERAGE NODE CONNECTIVITY       : 1.14285714286
+	AVERAGE NODE CONNECTIVITY RATIO : 0.190476190476
+	BRIDGES                         : 4
+	CLOSURE                         : 0.333
+	DIAMETER                        : 5
+	QUALITY                         : 0.712
+	QUALITY USED                    : 0.728
+	SUMMARY 1: BRIDGE 0.667 CLOSURE 0.67 DIAMETER 0.8 QUALITY 0.712 QUALITY USED 0.728
+	SUMMARY 2: BRIDGE 0.714 CLOSURE 0.67 DIAMETER 0.8 QUALITY 0.712 QUALITY USED 0.728

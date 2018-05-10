@@ -1,0 +1,69 @@
+SIZE    5   
+CLUSTER 9789 
+NAME    P222457773
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/317478>
+	<http://risis.eu/leidenRanking_2015/resource/3043>
+	<http://risis.eu/eter_2014/resource/FR0190>
+	<http://risis.eu/cordisH2020/resource/participant_999854758>
+	<http://www.grid.ac/institutes/grid.5607.4>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/317478............. http://www.grid.ac/institutes/grid.5607.4................... 1........................................................... [École Normale Supérieure] was compared to [École Normale Supérieure] 
+	http://www.grid.ac/institutes/grid.5607.4................... http://risis.eu/orgref_20170703/resource/317478............. 1........................................................... [École Normale Supérieure] was compared to [École Normale Supérieure] 
+	http://risis.eu/cordisH2020/resource/participant_999854758.. http://www.grid.ac/institutes/grid.5607.4................... 1........................................................... [École Normale Supérieure] was compared to [ECOLE NORMALE SUPERIEURE] 
+	http://www.grid.ac/institutes/grid.5607.4................... http://risis.eu/cordisH2020/resource/participant_999854758.. 1........................................................... [École Normale Supérieure] was compared to [ECOLE NORMALE SUPERIEURE] 
+	http://risis.eu/orgref_20170703/resource/317478............. http://risis.eu/leidenRanking_2015/resource/3043............ 0.8......................................................... [École Normale Supérieure] was compared to [Ecole Normale Superieure, Paris] 
+	http://risis.eu/leidenRanking_2015/resource/3043............ http://risis.eu/orgref_20170703/resource/317478............. 0.8......................................................... [École Normale Supérieure] was compared to [Ecole Normale Superieure, Paris] 
+	http://risis.eu/orgref_20170703/resource/317478............. http://risis.eu/cordisH2020/resource/participant_999854758.. 1........................................................... [École Normale Supérieure] was compared to [ECOLE NORMALE SUPERIEURE] 
+	http://risis.eu/cordisH2020/resource/participant_999854758.. http://risis.eu/orgref_20170703/resource/317478............. 1........................................................... [École Normale Supérieure] was compared to [ECOLE NORMALE SUPERIEURE] 
+	http://risis.eu/leidenRanking_2015/resource/3043............ http://risis.eu/cordisH2020/resource/participant_999854758.. 0.8......................................................... [ECOLE NORMALE SUPERIEURE] was compared to [Ecole Normale Superieure, Paris] 
+	http://risis.eu/cordisH2020/resource/participant_999854758.. http://risis.eu/leidenRanking_2015/resource/3043............ 0.8......................................................... [ECOLE NORMALE SUPERIEURE] was compared to [Ecole Normale Superieure, Paris] 
+	http://risis.eu/leidenRanking_2015/resource/3043............ http://risis.eu/eter_2014/resource/FR0190................... 1........................................................... [École normale supérieure de Paris] was compared to [Ecole Normale Superieure, Paris] 
+	http://risis.eu/eter_2014/resource/FR0190................... http://risis.eu/leidenRanking_2015/resource/3043............ 1........................................................... [École normale supérieure de Paris] was compared to [Ecole Normale Superieure, Paris] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/317478............. http://en.wikipedia.org/wiki?curid=317478................... 
+	http://risis.eu/orgref_20170703/resource/317478............. http://www.wikidata.org/wiki/Q83259......................... 
+	http://risis.eu/orgref_20170703/resource/317478............. http://www.ens.fr/?lang=en.................................. 
+	http://risis.eu/orgref_20170703/resource/317478............. École Normale Supérieure.................................. 
+	http://risis.eu/leidenRanking_2015/resource/3043............ Ecole Normale Superieure, Paris............................. 
+	http://risis.eu/eter_2014/resource/FR0190................... 48,842206................................................... 
+	http://risis.eu/eter_2014/resource/FR0190................... 2,345169.................................................... 
+	http://risis.eu/eter_2014/resource/FR0190................... http://www.ens.fr/.......................................... 
+	http://risis.eu/eter_2014/resource/FR0190................... m........................................................... 
+	http://risis.eu/eter_2014/resource/FR0190................... École normale supérieure de Paris......................... 
+	http://risis.eu/cordisH2020/resource/participant_999854758.. ECOLE NORMALE SUPERIEURE.................................... 
+	http://www.grid.ac/institutes/grid.5607.4................... 2.345158.................................................... 
+	http://www.grid.ac/institutes/grid.5607.4................... 48.84224.................................................... 
+	http://www.grid.ac/institutes/grid.5607.4................... http://www.ens.fr/?lang=en.................................. 
+	http://www.grid.ac/institutes/grid.5607.4................... ENS Paris................................................... 
+	http://www.grid.ac/institutes/grid.5607.4................... Normale sup................................................. 
+	http://www.grid.ac/institutes/grid.5607.4................... École Normale Supérieure.................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:3043', '1:317478'), ('2:3043', '4:participant_999854758'), ('3:FR0190', '2:3043'), ('4:participant_999854758', '1:317478'), ('4:participant_999854758', '5:grid.5607.4'), ('5:grid.5607.4', '1:317478')]
+	MAX DISTANCE:                   : 0.6
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 1.7
+	AVERAGE NODE CONNECTIVITY RATIO : 0.425
+	BRIDGES                         : 1
+	CLOSURE                         : 0.6
+	DIAMETER                        : 3
+	QUALITY                         : 0.439
+	QUALITY USED                    : 0.484
+	SUMMARY 1: BRIDGE 0.25 CLOSURE 0.4 DIAMETER 0.667 QUALITY 0.439 QUALITY USED 0.484
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.4 DIAMETER 0.667 QUALITY 0.439 QUALITY USED 0.484

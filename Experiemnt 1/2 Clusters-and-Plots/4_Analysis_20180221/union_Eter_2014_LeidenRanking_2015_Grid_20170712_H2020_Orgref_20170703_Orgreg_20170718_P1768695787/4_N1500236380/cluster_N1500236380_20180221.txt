@@ -1,0 +1,53 @@
+SIZE    4   
+CLUSTER 10182 
+NAME    N1500236380
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.431414.7>
+	<http://risis.eu/orgref_20170703/resource/47010415>
+	<http://www.grid.ac/institutes/grid.446586.d>
+	<http://www.grid.ac/institutes/grid.431138.c>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.446586.d........ http://www.grid.ac/institutes/grid.431138.c........ 0.846153846154..................................... [Deerfield Public Library] was compared to [Bergenfield Public Library] 
+	http://www.grid.ac/institutes/grid.431138.c........ http://www.grid.ac/institutes/grid.446586.d........ 0.846153846154..................................... [Deerfield Public Library] was compared to [Bergenfield Public Library] 
+	http://www.grid.ac/institutes/grid.431414.7........ http://www.grid.ac/institutes/grid.446586.d........ 0.846153846154..................................... [Brimfield Public Library] was compared to [Bergenfield Public Library] 
+	http://www.grid.ac/institutes/grid.446586.d........ http://www.grid.ac/institutes/grid.431414.7........ 0.846153846154..................................... [Brimfield Public Library] was compared to [Bergenfield Public Library] 
+	http://risis.eu/orgref_20170703/resource/47010415.. http://www.grid.ac/institutes/grid.431138.c........ 0.875.............................................. [Deerfield Public Library] was compared to [Fairfield Public Library] 
+	http://www.grid.ac/institutes/grid.431138.c........ http://risis.eu/orgref_20170703/resource/47010415.. 0.875.............................................. [Deerfield Public Library] was compared to [Fairfield Public Library] 
+	http://www.grid.ac/institutes/grid.431414.7........ http://risis.eu/orgref_20170703/resource/47010415.. 0.875.............................................. [Brimfield Public Library] was compared to [Fairfield Public Library] 
+	http://risis.eu/orgref_20170703/resource/47010415.. http://www.grid.ac/institutes/grid.431414.7........ 0.875.............................................. [Brimfield Public Library] was compared to [Fairfield Public Library] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.431414.7........ Brimfield Public Library........................... 
+	http://risis.eu/orgref_20170703/resource/47010415.. http://en.wikipedia.org/wiki?curid=50603117........ 
+	http://risis.eu/orgref_20170703/resource/47010415.. http://www.wikidata.org/wiki/Q24256914............. 
+	http://risis.eu/orgref_20170703/resource/47010415.. Fairfield Public Library........................... 
+	http://www.grid.ac/institutes/grid.446586.d........ Bergenfield Public Library......................... 
+	http://www.grid.ac/institutes/grid.431138.c........ Deerfield Public Library........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:47010415', '1:grid.431414.7'), ('3:grid.446586.d', '1:grid.431414.7'), ('3:grid.446586.d', '4:grid.431138.c'), ('4:grid.431138.c', '2:47010415')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.666666666667
+	BRIDGES                         : 0
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.277
+	QUALITY USED                    : 0.277
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.277 QUALITY USED 0.277
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.277 QUALITY USED 0.277

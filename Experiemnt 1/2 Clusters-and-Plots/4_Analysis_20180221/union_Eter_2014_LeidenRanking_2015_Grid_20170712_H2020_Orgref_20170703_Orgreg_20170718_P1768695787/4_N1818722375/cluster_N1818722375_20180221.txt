@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 10386 
+NAME    N1818722375
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/PT0002>
+	<http://risis.eu/leidenRanking_2015/resource/553>
+	<http://www.grid.ac/institutes/grid.7157.4>
+	<http://risis.eu/orgref_20170703/resource/1919382>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.7157.4......... http://risis.eu/orgref_20170703/resource/1919382.. 1................................................. [University of Algarve] was compared to [University of Algarve] 
+	http://risis.eu/orgref_20170703/resource/1919382.. http://www.grid.ac/institutes/grid.7157.4......... 1................................................. [University of Algarve] was compared to [University of Algarve] 
+	http://risis.eu/leidenRanking_2015/resource/553... http://www.grid.ac/institutes/grid.7157.4......... 1................................................. [University of Algarve] was compared to [University of the Algarve] 
+	http://www.grid.ac/institutes/grid.7157.4......... http://risis.eu/leidenRanking_2015/resource/553... 1................................................. [University of Algarve] was compared to [University of the Algarve] 
+	http://risis.eu/leidenRanking_2015/resource/553... http://risis.eu/orgref_20170703/resource/1919382.. 1................................................. [University of Algarve] was compared to [University of the Algarve] 
+	http://risis.eu/orgref_20170703/resource/1919382.. http://risis.eu/leidenRanking_2015/resource/553... 1................................................. [University of Algarve] was compared to [University of the Algarve] 
+	http://risis.eu/orgreg_20170718/resource/PT0002... http://risis.eu/leidenRanking_2015/resource/553... 1................................................. [University of Algarve] was compared to [University of the Algarve] 
+	http://risis.eu/leidenRanking_2015/resource/553... http://risis.eu/orgreg_20170718/resource/PT0002... 1................................................. [University of Algarve] was compared to [University of the Algarve] 
+	http://risis.eu/orgreg_20170718/resource/PT0002... http://risis.eu/orgref_20170703/resource/1919382.. 1................................................. [University of Algarve] was compared to [University of Algarve] 
+	http://risis.eu/orgref_20170703/resource/1919382.. http://risis.eu/orgreg_20170718/resource/PT0002... 1................................................. [University of Algarve] was compared to [University of Algarve] 
+	http://risis.eu/orgreg_20170718/resource/PT0002... http://www.grid.ac/institutes/grid.7157.4......... 1................................................. [University of Algarve] was compared to [University of Algarve] 
+	http://www.grid.ac/institutes/grid.7157.4......... http://risis.eu/orgreg_20170718/resource/PT0002... 1................................................. [University of Algarve] was compared to [University of Algarve] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgreg_20170718/resource/PT0002... -7.924287......................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0002... 37.026942......................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0002... http://www.ualg.pt/............................... 
+	http://risis.eu/orgreg_20170718/resource/PT0002... University of Algarve............................. 
+	http://risis.eu/leidenRanking_2015/resource/553... University of the Algarve......................... 
+	http://www.grid.ac/institutes/grid.7157.4......... -7.927639......................................... 
+	http://www.grid.ac/institutes/grid.7157.4......... 37.02236.......................................... 
+	http://www.grid.ac/institutes/grid.7157.4......... https://www.ualg.pt/home/en....................... 
+	http://www.grid.ac/institutes/grid.7157.4......... University of Algarve............................. 
+	http://risis.eu/orgref_20170703/resource/1919382.. http://en.wikipedia.org/wiki?curid=1919382........ 
+	http://risis.eu/orgref_20170703/resource/1919382.. http://www.wikidata.org/wiki/Q1972136............. 
+	http://risis.eu/orgref_20170703/resource/1919382.. http://www.ualg.pt/home/en........................ 
+	http://risis.eu/orgref_20170703/resource/1919382.. University of Algarve............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:PT0002', '3:grid.7157.4'), ('2:553', '1:PT0002'), ('2:553', '4:1919382'), ('3:grid.7157.4', '2:553'), ('4:1919382', '1:PT0002'), ('4:1919382', '3:grid.7157.4')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

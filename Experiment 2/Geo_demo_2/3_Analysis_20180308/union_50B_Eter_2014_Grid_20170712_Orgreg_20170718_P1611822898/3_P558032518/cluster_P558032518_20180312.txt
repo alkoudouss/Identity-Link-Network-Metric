@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 211 
+NAME    P558032518
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.457313.7>
+	<http://www.grid.ac/institutes/grid.426233.2>
+	<http://risis.eu/orgreg_20170718/resource/SI1008>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.457313.7...... http://risis.eu/orgreg_20170718/resource/SI1008.. 1................................................ Near each other by at most 50 meter(s)........... 
+	http://www.grid.ac/institutes/grid.426233.2...... http://risis.eu/orgreg_20170718/resource/SI1008.. 1................................................ Near each other by at most 50 meter(s)........... 
+	http://risis.eu/orgreg_20170718/resource/SI1008.. http://www.grid.ac/institutes/grid.426233.2...... 1................................................ Near each other by at most 50 meter(s)........... 
+	http://risis.eu/orgreg_20170718/resource/SI1008.. http://www.grid.ac/institutes/grid.457313.7...... 1................................................ Near each other by at most 50 meter(s)........... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.457313.7...... 14.513535........................................ 
+	http://www.grid.ac/institutes/grid.457313.7...... 46.070583........................................ 
+	http://www.grid.ac/institutes/grid.457313.7...... http://www.i-var.si/eng.......................... 
+	http://www.grid.ac/institutes/grid.457313.7...... Institut za varilstvo............................ 
+	http://www.grid.ac/institutes/grid.457313.7...... Welding Institute (Slovenia)..................... 
+	http://www.grid.ac/institutes/grid.426233.2...... 14.513908........................................ 
+	http://www.grid.ac/institutes/grid.426233.2...... 46.070538........................................ 
+	http://www.grid.ac/institutes/grid.426233.2...... http://www.zag.si/en............................. 
+	http://www.grid.ac/institutes/grid.426233.2...... Zavod za gradbeništvo Slovenije................. 
+	http://www.grid.ac/institutes/grid.426233.2...... Slovenian National Building and Civil Engineering Institute 
+	http://risis.eu/orgreg_20170718/resource/SI1008.. 14.513919........................................ 
+	http://risis.eu/orgreg_20170718/resource/SI1008.. 46.070629........................................ 
+	http://risis.eu/orgreg_20170718/resource/SI1008.. www.zag.si/en.................................... 
+	http://risis.eu/orgreg_20170718/resource/SI1008.. The Slovenian National Building and Civil Engineering Institute 
+
+NETWORK ANALYSIS
+	NETWORK [('P639389742-SI1008', 'P703858508-grid.457313.7'), ('P639389742-SI1008', 'P558032518-grid.426233.2')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

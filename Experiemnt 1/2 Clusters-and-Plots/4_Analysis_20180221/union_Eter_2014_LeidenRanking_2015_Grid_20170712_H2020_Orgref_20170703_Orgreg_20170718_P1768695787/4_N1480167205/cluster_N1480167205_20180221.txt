@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 4004 
+NAME    N1480167205
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.418193.6>
+	<http://risis.eu/orgreg_20170718/resource/NO3039>
+	<http://risis.eu/orgref_20170703/resource/5284188>
+	<http://risis.eu/leidenRanking_2015/resource/15135>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.418193.6........ http://risis.eu/orgref_20170703/resource/5284188... 1.................................................. [Norwegian Institute of Public Health] was compared to [Norwegian Institute of Public Health] 
+	http://risis.eu/orgref_20170703/resource/5284188... http://www.grid.ac/institutes/grid.418193.6........ 1.................................................. [Norwegian Institute of Public Health] was compared to [Norwegian Institute of Public Health] 
+	http://www.grid.ac/institutes/grid.418193.6........ http://risis.eu/leidenRanking_2015/resource/15135.. 1.................................................. [Norwegian Institute of Public Health] was compared to [Norwegian Institute of Public Health] 
+	http://risis.eu/leidenRanking_2015/resource/15135.. http://www.grid.ac/institutes/grid.418193.6........ 1.................................................. [Norwegian Institute of Public Health] was compared to [Norwegian Institute of Public Health] 
+	http://risis.eu/orgref_20170703/resource/5284188... http://risis.eu/leidenRanking_2015/resource/15135.. 1.................................................. [Norwegian Institute of Public Health] was compared to [Norwegian Institute of Public Health] 
+	http://risis.eu/leidenRanking_2015/resource/15135.. http://risis.eu/orgref_20170703/resource/5284188... 1.................................................. [Norwegian Institute of Public Health] was compared to [Norwegian Institute of Public Health] 
+	http://risis.eu/orgreg_20170718/resource/NO3039.... http://risis.eu/leidenRanking_2015/resource/15135.. 1.................................................. [Norwegian Institute of Public Health] was compared to [Norwegian Institute of Public Health] 
+	http://risis.eu/leidenRanking_2015/resource/15135.. http://risis.eu/orgreg_20170718/resource/NO3039.... 1.................................................. [Norwegian Institute of Public Health] was compared to [Norwegian Institute of Public Health] 
+	http://risis.eu/orgreg_20170718/resource/NO3039.... http://risis.eu/orgref_20170703/resource/5284188... 1.................................................. [Norwegian Institute of Public Health] was compared to [Norwegian Institute of Public Health] 
+	http://risis.eu/orgref_20170703/resource/5284188... http://risis.eu/orgreg_20170718/resource/NO3039.... 1.................................................. [Norwegian Institute of Public Health] was compared to [Norwegian Institute of Public Health] 
+	http://www.grid.ac/institutes/grid.418193.6........ http://risis.eu/orgreg_20170718/resource/NO3039.... 1.................................................. [Norwegian Institute of Public Health] was compared to [Norwegian Institute of Public Health] 
+	http://risis.eu/orgreg_20170718/resource/NO3039.... http://www.grid.ac/institutes/grid.418193.6........ 1.................................................. [Norwegian Institute of Public Health] was compared to [Norwegian Institute of Public Health] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.418193.6........ 10.745209.......................................... 
+	http://www.grid.ac/institutes/grid.418193.6........ 59.934086.......................................... 
+	http://www.grid.ac/institutes/grid.418193.6........ http://www.fhi.no/................................. 
+	http://www.grid.ac/institutes/grid.418193.6........ Folkehelseinstituttet.............................. 
+	http://www.grid.ac/institutes/grid.418193.6........ Norwegian Institute of Public Health............... 
+	http://risis.eu/orgreg_20170718/resource/NO3039.... 10.7724............................................ 
+	http://risis.eu/orgreg_20170718/resource/NO3039.... 59.9506............................................ 
+	http://risis.eu/orgreg_20170718/resource/NO3039.... https://www.fhi.no/en/............................. 
+	http://risis.eu/orgreg_20170718/resource/NO3039.... Norwegian Institute of Public Health............... 
+	http://risis.eu/orgref_20170703/resource/5284188... http://en.wikipedia.org/wiki?curid=5284188......... 
+	http://risis.eu/orgref_20170703/resource/5284188... http://www.wikidata.org/wiki/Q7061149.............. 
+	http://risis.eu/orgref_20170703/resource/5284188... http://www.fhi.no.................................. 
+	http://risis.eu/orgref_20170703/resource/5284188... Norwegian Institute of Public Health............... 
+	http://risis.eu/leidenRanking_2015/resource/15135.. Norwegian Institute of Public Health............... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:NO3039', '1:grid.418193.6'), ('2:NO3039', '3:5284188'), ('3:5284188', '1:grid.418193.6'), ('4:15135', '1:grid.418193.6'), ('4:15135', '2:NO3039'), ('4:15135', '3:5284188')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,71 @@
+SIZE    4   
+CLUSTER 10856 
+NAME    N1198334450
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.412716.7>
+	<http://www.grid.ac/institutes/grid.441367.3>
+	<http://risis.eu/orgref_20170703/resource/4032612>
+	<http://risis.eu/orgreg_20170718/resource/SE0030>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.412716.7....... http://www.grid.ac/institutes/grid.441367.3....... 1................................................. [University West] was compared to [University of the West] 
+	http://www.grid.ac/institutes/grid.441367.3....... http://www.grid.ac/institutes/grid.412716.7....... 1................................................. [University West] was compared to [University of the West] 
+	http://www.grid.ac/institutes/grid.412716.7....... http://risis.eu/orgref_20170703/resource/4032612.. 1................................................. [University West] was compared to [University of the West] 
+	http://risis.eu/orgref_20170703/resource/4032612.. http://www.grid.ac/institutes/grid.412716.7....... 1................................................. [University West] was compared to [University of the West] 
+	http://www.grid.ac/institutes/grid.441367.3....... http://risis.eu/orgref_20170703/resource/4032612.. 1................................................. [University of the West] was compared to [University of the West] 
+	http://risis.eu/orgref_20170703/resource/4032612.. http://www.grid.ac/institutes/grid.441367.3....... 1................................................. [University of the West] was compared to [University of the West] 
+	http://risis.eu/orgref_20170703/resource/4032612.. http://risis.eu/orgreg_20170718/resource/SE0030... 1................................................. [University of the West] was compared to [University West] 
+	http://risis.eu/orgreg_20170718/resource/SE0030... http://risis.eu/orgref_20170703/resource/4032612.. 1................................................. [University of the West] was compared to [University West] 
+	http://www.grid.ac/institutes/grid.412716.7....... http://risis.eu/orgreg_20170718/resource/SE0030... 1................................................. [University West] was compared to [University West] 
+	http://risis.eu/orgreg_20170718/resource/SE0030... http://www.grid.ac/institutes/grid.412716.7....... 1................................................. [University West] was compared to [University West] 
+	http://www.grid.ac/institutes/grid.441367.3....... http://risis.eu/orgreg_20170718/resource/SE0030... 1................................................. [University of the West] was compared to [University West] 
+	http://risis.eu/orgreg_20170718/resource/SE0030... http://www.grid.ac/institutes/grid.441367.3....... 1................................................. [University of the West] was compared to [University West] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 20 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.412716.7....... 12.29285.......................................... 
+	http://www.grid.ac/institutes/grid.412716.7....... 58.28225.......................................... 
+	http://www.grid.ac/institutes/grid.412716.7....... http://www.hv.se/en............................... 
+	http://www.grid.ac/institutes/grid.412716.7....... Högskolan Väst.................................. 
+	http://www.grid.ac/institutes/grid.412716.7....... University College West........................... 
+	http://www.grid.ac/institutes/grid.412716.7....... University College of Trollhättan/Uddevalla...... 
+	http://www.grid.ac/institutes/grid.412716.7....... University West................................... 
+	http://www.grid.ac/institutes/grid.441367.3....... -118.08285........................................ 
+	http://www.grid.ac/institutes/grid.441367.3....... 34.046543......................................... 
+	http://www.grid.ac/institutes/grid.441367.3....... http://www.uwest.edu/site/........................ 
+	http://www.grid.ac/institutes/grid.441367.3....... UWest............................................. 
+	http://www.grid.ac/institutes/grid.441367.3....... University of the West............................ 
+	http://risis.eu/orgref_20170703/resource/4032612.. http://en.wikipedia.org/wiki?curid=4032612........ 
+	http://risis.eu/orgref_20170703/resource/4032612.. http://www.wikidata.org/wiki/Q7896781............. 
+	http://risis.eu/orgref_20170703/resource/4032612.. http://www.uwest.edu.............................. 
+	http://risis.eu/orgref_20170703/resource/4032612.. University of the West............................ 
+	http://risis.eu/orgreg_20170718/resource/SE0030... 12.298562......................................... 
+	http://risis.eu/orgreg_20170718/resource/SE0030... 58.284472......................................... 
+	http://risis.eu/orgreg_20170718/resource/SE0030... http://www.hv.se/en............................... 
+	http://risis.eu/orgreg_20170718/resource/SE0030... University West................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.441367.3', '1:grid.412716.7'), ('3:4032612', '1:grid.412716.7'), ('3:4032612', '2:grid.441367.3'), ('4:SE0030', '1:grid.412716.7'), ('4:SE0030', '2:grid.441367.3'), ('4:SE0030', '3:4032612')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

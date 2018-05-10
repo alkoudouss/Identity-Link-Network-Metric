@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 15219 
+NAME    N1135014425
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.28390.30>
+	<http://risis.eu/cordisH2020/resource/participant_999936335>
+	<http://www.grid.ac/institutes/grid.436161.7>
+	<http://www.grid.ac/institutes/grid.473031.2>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.28390.30................. http://www.grid.ac/institutes/grid.436161.7................. 1........................................................... [Deutsche Telekom (Germany)] was compared to [Deutsche Telekom (Hungary)] 
+	http://www.grid.ac/institutes/grid.436161.7................. http://www.grid.ac/institutes/grid.28390.30................. 1........................................................... [Deutsche Telekom (Germany)] was compared to [Deutsche Telekom (Hungary)] 
+	http://www.grid.ac/institutes/grid.28390.30................. http://www.grid.ac/institutes/grid.473031.2................. 1........................................................... [Deutsche Telekom (Germany)] was compared to [Deutsche Telekom (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.473031.2................. http://www.grid.ac/institutes/grid.28390.30................. 1........................................................... [Deutsche Telekom (Germany)] was compared to [Deutsche Telekom (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.436161.7................. http://www.grid.ac/institutes/grid.473031.2................. 1........................................................... [Deutsche Telekom (Hungary)] was compared to [Deutsche Telekom (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.473031.2................. http://www.grid.ac/institutes/grid.436161.7................. 1........................................................... [Deutsche Telekom (Hungary)] was compared to [Deutsche Telekom (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.28390.30................. http://risis.eu/cordisH2020/resource/participant_999936335.. 0.842105263158.............................................. [Deutsche Telekom (Germany)] was compared to [DEUTSCHE TELEKOM AG] 
+	http://risis.eu/cordisH2020/resource/participant_999936335.. http://www.grid.ac/institutes/grid.28390.30................. 0.842105263158.............................................. [Deutsche Telekom (Germany)] was compared to [DEUTSCHE TELEKOM AG] 
+	http://risis.eu/cordisH2020/resource/participant_999936335.. http://www.grid.ac/institutes/grid.436161.7................. 0.842105263158.............................................. [Deutsche Telekom (Hungary)] was compared to [DEUTSCHE TELEKOM AG] 
+	http://www.grid.ac/institutes/grid.436161.7................. http://risis.eu/cordisH2020/resource/participant_999936335.. 0.842105263158.............................................. [Deutsche Telekom (Hungary)] was compared to [DEUTSCHE TELEKOM AG] 
+	http://risis.eu/cordisH2020/resource/participant_999936335.. http://www.grid.ac/institutes/grid.473031.2................. 0.842105263158.............................................. [Deutsche Telekom (United Kingdom)] was compared to [DEUTSCHE TELEKOM AG] 
+	http://www.grid.ac/institutes/grid.473031.2................. http://risis.eu/cordisH2020/resource/participant_999936335.. 0.842105263158.............................................. [Deutsche Telekom (United Kingdom)] was compared to [DEUTSCHE TELEKOM AG] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.28390.30................. 7.127765.................................................... 
+	http://www.grid.ac/institutes/grid.28390.30................. 50.7076..................................................... 
+	http://www.grid.ac/institutes/grid.28390.30................. http://www.telekom.com/home................................. 
+	http://www.grid.ac/institutes/grid.28390.30................. Deutsche Telekom (Germany).................................. 
+	http://risis.eu/cordisH2020/resource/participant_999936335.. DEUTSCHE TELEKOM AG......................................... 
+	http://www.grid.ac/institutes/grid.436161.7................. Deutsche Telekom (Hungary).................................. 
+	http://www.grid.ac/institutes/grid.473031.2................. -0.196422................................................... 
+	http://www.grid.ac/institutes/grid.473031.2................. 51.805187................................................... 
+	http://www.grid.ac/institutes/grid.473031.2................. https://www.telekom.com/company/worldwide/60914............. 
+	http://www.grid.ac/institutes/grid.473031.2................. Deutsche Telekom (United Kingdom)........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_999936335', '1:grid.28390.30'), ('2:participant_999936335', '4:grid.473031.2'), ('3:grid.436161.7', '1:grid.28390.30'), ('3:grid.436161.7', '2:participant_999936335'), ('4:grid.473031.2', '1:grid.28390.30'), ('4:grid.473031.2', '3:grid.436161.7')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

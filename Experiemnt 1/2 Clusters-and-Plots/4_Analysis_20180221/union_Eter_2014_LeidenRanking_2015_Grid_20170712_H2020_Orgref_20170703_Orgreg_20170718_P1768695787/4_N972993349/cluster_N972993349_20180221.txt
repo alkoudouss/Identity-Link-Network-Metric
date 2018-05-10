@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 2471 
+NAME    N972993349
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.413030.5>
+	<http://risis.eu/leidenRanking_2015/resource/1731>
+	<http://www.grid.ac/institutes/grid.412937.a>
+	<http://risis.eu/orgref_20170703/resource/10137601>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.412937.a........ http://risis.eu/orgref_20170703/resource/10137601.. 1.................................................. [Northern General Hospital] was compared to [Northern General Hospital] 
+	http://risis.eu/orgref_20170703/resource/10137601.. http://www.grid.ac/institutes/grid.412937.a........ 1.................................................. [Northern General Hospital] was compared to [Northern General Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1731... http://www.grid.ac/institutes/grid.412937.a........ 1.................................................. [Northern General Hospital] was compared to [Northern General Hospital] 
+	http://www.grid.ac/institutes/grid.412937.a........ http://risis.eu/leidenRanking_2015/resource/1731... 1.................................................. [Northern General Hospital] was compared to [Northern General Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1731... http://risis.eu/orgref_20170703/resource/10137601.. 1.................................................. [Northern General Hospital] was compared to [Northern General Hospital] 
+	http://risis.eu/orgref_20170703/resource/10137601.. http://risis.eu/leidenRanking_2015/resource/1731... 1.................................................. [Northern General Hospital] was compared to [Northern General Hospital] 
+	http://www.grid.ac/institutes/grid.413030.5........ http://www.grid.ac/institutes/grid.412937.a........ 0.92............................................... [Northern General Hospital] was compared to [Southern General Hospital] 
+	http://www.grid.ac/institutes/grid.412937.a........ http://www.grid.ac/institutes/grid.413030.5........ 0.92............................................... [Northern General Hospital] was compared to [Southern General Hospital] 
+	http://www.grid.ac/institutes/grid.413030.5........ http://risis.eu/orgref_20170703/resource/10137601.. 0.92............................................... [Southern General Hospital] was compared to [Northern General Hospital] 
+	http://risis.eu/orgref_20170703/resource/10137601.. http://www.grid.ac/institutes/grid.413030.5........ 0.92............................................... [Southern General Hospital] was compared to [Northern General Hospital] 
+	http://www.grid.ac/institutes/grid.413030.5........ http://risis.eu/leidenRanking_2015/resource/1731... 0.92............................................... [Southern General Hospital] was compared to [Northern General Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1731... http://www.grid.ac/institutes/grid.413030.5........ 0.92............................................... [Southern General Hospital] was compared to [Northern General Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.413030.5........ -4.340556.......................................... 
+	http://www.grid.ac/institutes/grid.413030.5........ 55.8625............................................ 
+	http://www.grid.ac/institutes/grid.413030.5........ http://www.nhsggc.org.uk/.......................... 
+	http://www.grid.ac/institutes/grid.413030.5........ Southern General Hospital.......................... 
+	http://risis.eu/leidenRanking_2015/resource/1731... Northern General Hospital.......................... 
+	http://www.grid.ac/institutes/grid.412937.a........ -1.460831.......................................... 
+	http://www.grid.ac/institutes/grid.412937.a........ 53.409054.......................................... 
+	http://www.grid.ac/institutes/grid.412937.a........ http://www.sth.nhs.uk/our-hospitals/northern-general-hospital 
+	http://www.grid.ac/institutes/grid.412937.a........ Northern General Hospital.......................... 
+	http://risis.eu/orgref_20170703/resource/10137601.. http://en.wikipedia.org/wiki?curid=10137601........ 
+	http://risis.eu/orgref_20170703/resource/10137601.. http://www.wikidata.org/wiki/Q7058368.............. 
+	http://risis.eu/orgref_20170703/resource/10137601.. http://www.sth.nhs.uk.............................. 
+	http://risis.eu/orgref_20170703/resource/10137601.. Northern General Hospital.......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.413030.5', '3:grid.412937.a'), ('2:1731', '1:grid.413030.5'), ('3:grid.412937.a', '2:1731'), ('4:10137601', '1:grid.413030.5'), ('4:10137601', '2:1731'), ('4:10137601', '3:grid.412937.a')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

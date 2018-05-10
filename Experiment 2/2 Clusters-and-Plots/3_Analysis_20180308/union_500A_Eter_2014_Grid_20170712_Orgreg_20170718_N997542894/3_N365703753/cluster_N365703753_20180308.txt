@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 357 
+NAME    N365703753
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.463210.2>
+	<http://risis.eu/orgreg_20170718/resource/CH0019>
+	<http://risis.eu/eter_2014/resource/CH0019>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.463210.2...... http://risis.eu/eter_2014/resource/CH0019........ 0.95652173913.................................... [zuricher fachhochschule] was compared to [zurcher fachhochschule] 
+	http://risis.eu/orgreg_20170718/resource/CH0019.. http://risis.eu/eter_2014/resource/CH0019........ 1................................................ [uas zurich] was compared to [uas zurich]........ 
+	http://risis.eu/eter_2014/resource/CH0019........ http://www.grid.ac/institutes/grid.463210.2...... 0.95652173913.................................... [zuricher fachhochschule] was compared to [zurcher fachhochschule] 
+	http://risis.eu/eter_2014/resource/CH0019........ http://risis.eu/orgreg_20170718/resource/CH0019.. 1................................................ [uas zurich] was compared to [uas zurich]........ 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.463210.2...... 8.543764......................................... 
+	http://www.grid.ac/institutes/grid.463210.2...... 47.378567........................................ 
+	http://www.grid.ac/institutes/grid.463210.2...... http://www.zfh.ch/en/start.html.................. 
+	http://www.grid.ac/institutes/grid.463210.2...... Zürcher Fachhochschule.......................... 
+	http://risis.eu/orgreg_20170718/resource/CH0019.. 8.543272......................................... 
+	http://risis.eu/orgreg_20170718/resource/CH0019.. 47.378751........................................ 
+	http://risis.eu/orgreg_20170718/resource/CH0019.. http://www.zfh.ch................................ 
+	http://risis.eu/orgreg_20170718/resource/CH0019.. UAS of Zurich.................................... 
+	http://risis.eu/eter_2014/resource/CH0019........ 47,378751........................................ 
+	http://risis.eu/eter_2014/resource/CH0019........ 8,543272......................................... 
+	http://risis.eu/eter_2014/resource/CH0019........ http://www.zfh.ch................................ 
+	http://risis.eu/eter_2014/resource/CH0019........ a................................................ 
+	http://risis.eu/eter_2014/resource/CH0019........ UAS of Zurich.................................... 
+	http://risis.eu/eter_2014/resource/CH0019........ Züricher Fachhochschule......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('N365703753-CH0019', 'P692221016-grid.463210.2'), ('N365703753-CH0019', 'P901338082-CH0019')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

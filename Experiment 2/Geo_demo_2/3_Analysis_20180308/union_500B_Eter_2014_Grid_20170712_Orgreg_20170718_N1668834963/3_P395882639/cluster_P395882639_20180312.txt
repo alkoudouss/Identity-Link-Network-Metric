@@ -1,0 +1,54 @@
+SIZE    3   
+CLUSTER 968 
+NAME    P395882639
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.445766.2>
+	<http://www.grid.ac/institutes/grid.452113.0>
+	<http://risis.eu/orgreg_20170718/resource/HU0063>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.445766.2...... http://risis.eu/orgreg_20170718/resource/HU0063.. 1................................................ Near each other by at most 500 meter(s).......... 
+	http://www.grid.ac/institutes/grid.452113.0...... http://risis.eu/orgreg_20170718/resource/HU0063.. 1................................................ Near each other by at most 500 meter(s).......... 
+	http://risis.eu/orgreg_20170718/resource/HU0063.. http://www.grid.ac/institutes/grid.445766.2...... 1................................................ Near each other by at most 500 meter(s).......... 
+	http://risis.eu/orgreg_20170718/resource/HU0063.. http://www.grid.ac/institutes/grid.452113.0...... 1................................................ Near each other by at most 500 meter(s).......... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.445766.2...... 21.713999........................................ 
+	http://www.grid.ac/institutes/grid.445766.2...... 47.955357........................................ 
+	http://www.grid.ac/institutes/grid.445766.2...... http://www.atanaz.hu/?q=content/english.......... 
+	http://www.grid.ac/institutes/grid.445766.2...... Szent Atanáz Görögkatolikus Hittudományi Főiskola 
+	http://www.grid.ac/institutes/grid.452113.0...... 21.71352......................................... 
+	http://www.grid.ac/institutes/grid.452113.0...... 47.953068........................................ 
+	http://www.grid.ac/institutes/grid.452113.0...... http://josamuzeum.hu/en/......................... 
+	http://www.grid.ac/institutes/grid.452113.0...... Jósa András Múzeum............................ 
+	http://risis.eu/orgreg_20170718/resource/HU0063.. 21.712153........................................ 
+	http://risis.eu/orgreg_20170718/resource/HU0063.. 47.95592......................................... 
+	http://risis.eu/orgreg_20170718/resource/HU0063.. https://szentatanaz.hu/.......................... 
+	http://risis.eu/orgreg_20170718/resource/HU0063.. Szent Atanáz Greek Catholic Theological Institute	 Nyíregyháza 
+
+NETWORK ANALYSIS
+	NETWORK [('P395882639-HU0063', 'P1175517198-grid.452113.0'), ('P395882639-HU0063', 'P2049369206-grid.445766.2')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

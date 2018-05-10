@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 9860 
+NAME    N558013650
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.455223.7>
+	<http://www.grid.ac/institutes/grid.472798.7>
+	<http://www.grid.ac/institutes/grid.432770.5>
+	<http://www.grid.ac/institutes/grid.432741.7>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.455223.7.. http://www.grid.ac/institutes/grid.432741.7.. 1............................................ [Applied Materials (Germany)] was compared to [Applied Materials (United States)] 
+	http://www.grid.ac/institutes/grid.432741.7.. http://www.grid.ac/institutes/grid.455223.7.. 1............................................ [Applied Materials (Germany)] was compared to [Applied Materials (United States)] 
+	http://www.grid.ac/institutes/grid.472798.7.. http://www.grid.ac/institutes/grid.432741.7.. 1............................................ [Applied Materials (Germany)] was compared to [Applied Materials (Singapore)] 
+	http://www.grid.ac/institutes/grid.432741.7.. http://www.grid.ac/institutes/grid.472798.7.. 1............................................ [Applied Materials (Germany)] was compared to [Applied Materials (Singapore)] 
+	http://www.grid.ac/institutes/grid.432770.5.. http://www.grid.ac/institutes/grid.432741.7.. 1............................................ [Applied Materials (Germany)] was compared to [Applied Materials (Israel)] 
+	http://www.grid.ac/institutes/grid.432741.7.. http://www.grid.ac/institutes/grid.432770.5.. 1............................................ [Applied Materials (Germany)] was compared to [Applied Materials (Israel)] 
+	http://www.grid.ac/institutes/grid.455223.7.. http://www.grid.ac/institutes/grid.432770.5.. 1............................................ [Applied Materials (Israel)] was compared to [Applied Materials (United States)] 
+	http://www.grid.ac/institutes/grid.432770.5.. http://www.grid.ac/institutes/grid.455223.7.. 1............................................ [Applied Materials (Israel)] was compared to [Applied Materials (United States)] 
+	http://www.grid.ac/institutes/grid.472798.7.. http://www.grid.ac/institutes/grid.432770.5.. 1............................................ [Applied Materials (Israel)] was compared to [Applied Materials (Singapore)] 
+	http://www.grid.ac/institutes/grid.432770.5.. http://www.grid.ac/institutes/grid.472798.7.. 1............................................ [Applied Materials (Israel)] was compared to [Applied Materials (Singapore)] 
+	http://www.grid.ac/institutes/grid.455223.7.. http://www.grid.ac/institutes/grid.472798.7.. 1............................................ [Applied Materials (United States)] was compared to [Applied Materials (Singapore)] 
+	http://www.grid.ac/institutes/grid.472798.7.. http://www.grid.ac/institutes/grid.455223.7.. 1............................................ [Applied Materials (United States)] was compared to [Applied Materials (Singapore)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.455223.7.. -121.97872................................... 
+	http://www.grid.ac/institutes/grid.455223.7.. 37.377533.................................... 
+	http://www.grid.ac/institutes/grid.455223.7.. http://www.appliedmaterials.com/............. 
+	http://www.grid.ac/institutes/grid.455223.7.. Applied Materials (United States)............ 
+	http://www.grid.ac/institutes/grid.472798.7.. 103.9652..................................... 
+	http://www.grid.ac/institutes/grid.472798.7.. 1.353663..................................... 
+	http://www.grid.ac/institutes/grid.472798.7.. http://www.appliedmaterials.com/en-sg........ 
+	http://www.grid.ac/institutes/grid.472798.7.. Applied Materials (Singapore)................ 
+	http://www.grid.ac/institutes/grid.432770.5.. 34.767498.................................... 
+	http://www.grid.ac/institutes/grid.432770.5.. 31.610897.................................... 
+	http://www.grid.ac/institutes/grid.432770.5.. http://www.appliedmaterials.com/............. 
+	http://www.grid.ac/institutes/grid.432770.5.. Applied Materials (Israel)................... 
+	http://www.grid.ac/institutes/grid.432741.7.. Applied Materials (Germany).................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.455223.7', '4:grid.432741.7'), ('2:grid.472798.7', '1:grid.455223.7'), ('2:grid.472798.7', '3:grid.432770.5'), ('3:grid.432770.5', '1:grid.455223.7'), ('3:grid.432770.5', '4:grid.432741.7'), ('4:grid.432741.7', '2:grid.472798.7')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

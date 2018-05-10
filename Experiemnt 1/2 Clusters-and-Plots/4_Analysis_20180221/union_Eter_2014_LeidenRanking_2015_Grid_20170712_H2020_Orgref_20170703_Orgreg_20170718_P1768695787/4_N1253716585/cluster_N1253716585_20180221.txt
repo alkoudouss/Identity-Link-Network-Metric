@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 3423 
+NAME    N1253716585
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.15667.33>
+	<http://risis.eu/leidenRanking_2015/resource/7372>
+	<http://risis.eu/orgreg_20170718/resource/IT2049>
+	<http://risis.eu/orgref_20170703/resource/5381007>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.15667.33....... http://risis.eu/orgref_20170703/resource/5381007.. 1................................................. [European Institute of Oncology] was compared to [European Institute of Oncology] 
+	http://risis.eu/orgref_20170703/resource/5381007.. http://www.grid.ac/institutes/grid.15667.33....... 1................................................. [European Institute of Oncology] was compared to [European Institute of Oncology] 
+	http://www.grid.ac/institutes/grid.15667.33....... http://risis.eu/leidenRanking_2015/resource/7372.. 1................................................. [European Institute of Oncology] was compared to [European Institute of Oncology] 
+	http://risis.eu/leidenRanking_2015/resource/7372.. http://www.grid.ac/institutes/grid.15667.33....... 1................................................. [European Institute of Oncology] was compared to [European Institute of Oncology] 
+	http://risis.eu/leidenRanking_2015/resource/7372.. http://risis.eu/orgref_20170703/resource/5381007.. 1................................................. [European Institute of Oncology] was compared to [European Institute of Oncology] 
+	http://risis.eu/orgref_20170703/resource/5381007.. http://risis.eu/leidenRanking_2015/resource/7372.. 1................................................. [European Institute of Oncology] was compared to [European Institute of Oncology] 
+	http://risis.eu/leidenRanking_2015/resource/7372.. http://risis.eu/orgreg_20170718/resource/IT2049... 1................................................. [European Institute of Oncology] was compared to [European Institute of Oncology] 
+	http://risis.eu/orgreg_20170718/resource/IT2049... http://risis.eu/leidenRanking_2015/resource/7372.. 1................................................. [European Institute of Oncology] was compared to [European Institute of Oncology] 
+	http://risis.eu/orgreg_20170718/resource/IT2049... http://risis.eu/orgref_20170703/resource/5381007.. 1................................................. [European Institute of Oncology] was compared to [European Institute of Oncology] 
+	http://risis.eu/orgref_20170703/resource/5381007.. http://risis.eu/orgreg_20170718/resource/IT2049... 1................................................. [European Institute of Oncology] was compared to [European Institute of Oncology] 
+	http://www.grid.ac/institutes/grid.15667.33....... http://risis.eu/orgreg_20170718/resource/IT2049... 1................................................. [European Institute of Oncology] was compared to [European Institute of Oncology] 
+	http://risis.eu/orgreg_20170718/resource/IT2049... http://www.grid.ac/institutes/grid.15667.33....... 1................................................. [European Institute of Oncology] was compared to [European Institute of Oncology] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.15667.33....... 9.208186.......................................... 
+	http://www.grid.ac/institutes/grid.15667.33....... 45.414036......................................... 
+	http://www.grid.ac/institutes/grid.15667.33....... https://www.ieo.it/en/............................ 
+	http://www.grid.ac/institutes/grid.15667.33....... European Institute of Oncology.................... 
+	http://risis.eu/leidenRanking_2015/resource/7372.. European Institute of Oncology.................... 
+	http://risis.eu/orgreg_20170718/resource/IT2049... m................................................. 
+	http://risis.eu/orgreg_20170718/resource/IT2049... https://www.ieo.it/en/............................ 
+	http://risis.eu/orgreg_20170718/resource/IT2049... European Institute of Oncology.................... 
+	http://risis.eu/orgref_20170703/resource/5381007.. http://en.wikipedia.org/wiki?curid=5381007........ 
+	http://risis.eu/orgref_20170703/resource/5381007.. http://www.wikidata.org/wiki/Q1376693............. 
+	http://risis.eu/orgref_20170703/resource/5381007.. http://www.ieo.it................................. 
+	http://risis.eu/orgref_20170703/resource/5381007.. European Institute of Oncology.................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:7372', '1:grid.15667.33'), ('2:7372', '3:IT2049'), ('3:IT2049', '1:grid.15667.33'), ('3:IT2049', '4:5381007'), ('4:5381007', '1:grid.15667.33'), ('4:5381007', '2:7372')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

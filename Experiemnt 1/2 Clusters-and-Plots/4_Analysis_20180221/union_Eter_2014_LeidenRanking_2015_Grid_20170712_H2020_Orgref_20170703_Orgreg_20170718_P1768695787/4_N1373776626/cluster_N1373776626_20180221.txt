@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 1589 
+NAME    N1373776626
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.423019.d>
+	<http://www.grid.ac/institutes/grid.423729.9>
+	<http://www.grid.ac/institutes/grid.457479.c>
+	<http://www.grid.ac/institutes/grid.423728.8>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.423019.d.. http://www.grid.ac/institutes/grid.423728.8.. 1............................................ [Atmel (United States)] was compared to [Atmel (Germany)] 
+	http://www.grid.ac/institutes/grid.423728.8.. http://www.grid.ac/institutes/grid.423019.d.. 1............................................ [Atmel (United States)] was compared to [Atmel (Germany)] 
+	http://www.grid.ac/institutes/grid.423019.d.. http://www.grid.ac/institutes/grid.423729.9.. 1............................................ [Atmel (United States)] was compared to [Atmel (France)] 
+	http://www.grid.ac/institutes/grid.423729.9.. http://www.grid.ac/institutes/grid.423019.d.. 1............................................ [Atmel (United States)] was compared to [Atmel (France)] 
+	http://www.grid.ac/institutes/grid.423019.d.. http://www.grid.ac/institutes/grid.457479.c.. 1............................................ [Atmel (United States)] was compared to [Atmel (Norway)] 
+	http://www.grid.ac/institutes/grid.457479.c.. http://www.grid.ac/institutes/grid.423019.d.. 1............................................ [Atmel (United States)] was compared to [Atmel (Norway)] 
+	http://www.grid.ac/institutes/grid.423729.9.. http://www.grid.ac/institutes/grid.423728.8.. 1............................................ [Atmel (Germany)] was compared to [Atmel (France)] 
+	http://www.grid.ac/institutes/grid.423728.8.. http://www.grid.ac/institutes/grid.423729.9.. 1............................................ [Atmel (Germany)] was compared to [Atmel (France)] 
+	http://www.grid.ac/institutes/grid.457479.c.. http://www.grid.ac/institutes/grid.423728.8.. 1............................................ [Atmel (Germany)] was compared to [Atmel (Norway)] 
+	http://www.grid.ac/institutes/grid.423728.8.. http://www.grid.ac/institutes/grid.457479.c.. 1............................................ [Atmel (Germany)] was compared to [Atmel (Norway)] 
+	http://www.grid.ac/institutes/grid.423729.9.. http://www.grid.ac/institutes/grid.457479.c.. 1............................................ [Atmel (France)] was compared to [Atmel (Norway)] 
+	http://www.grid.ac/institutes/grid.457479.c.. http://www.grid.ac/institutes/grid.423729.9.. 1............................................ [Atmel (France)] was compared to [Atmel (Norway)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.423019.d.. -121.91518................................... 
+	http://www.grid.ac/institutes/grid.423019.d.. 37.364426.................................... 
+	http://www.grid.ac/institutes/grid.423019.d.. http://www.atmel.com/........................ 
+	http://www.grid.ac/institutes/grid.423019.d.. Atmel (United States)........................ 
+	http://www.grid.ac/institutes/grid.423729.9.. 2.219896..................................... 
+	http://www.grid.ac/institutes/grid.423729.9.. 48.840515.................................... 
+	http://www.grid.ac/institutes/grid.423729.9.. http://www.atmel.com/........................ 
+	http://www.grid.ac/institutes/grid.423729.9.. Atmel Europe S.a.r.l......................... 
+	http://www.grid.ac/institutes/grid.423729.9.. Atmel (France)............................... 
+	http://www.grid.ac/institutes/grid.457479.c.. 10.373048.................................... 
+	http://www.grid.ac/institutes/grid.457479.c.. 63.36385..................................... 
+	http://www.grid.ac/institutes/grid.457479.c.. http://www.atmel.com/........................ 
+	http://www.grid.ac/institutes/grid.457479.c.. Atmel (Norway)............................... 
+	http://www.grid.ac/institutes/grid.423728.8.. Atmel (Germany).............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.423729.9', '1:grid.423019.d'), ('2:grid.423729.9', '4:grid.423728.8'), ('3:grid.457479.c', '1:grid.423019.d'), ('3:grid.457479.c', '2:grid.423729.9'), ('4:grid.423728.8', '1:grid.423019.d'), ('4:grid.423728.8', '3:grid.457479.c')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

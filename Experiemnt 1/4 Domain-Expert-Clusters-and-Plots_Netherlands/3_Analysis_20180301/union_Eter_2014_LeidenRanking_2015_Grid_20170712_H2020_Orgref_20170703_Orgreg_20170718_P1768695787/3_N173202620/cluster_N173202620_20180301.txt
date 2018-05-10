@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 6881 
+NAME    N173202620
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.481712.9>
+	<http://www.grid.ac/institutes/grid.480275.c>
+	<http://www.grid.ac/institutes/grid.481713.8>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.481712.9.. http://www.grid.ac/institutes/grid.481713.8.. 1............................................ [Neopost (United Kingdom)] was compared to [Neopost (Netherlands)] 
+	http://www.grid.ac/institutes/grid.481712.9.. http://www.grid.ac/institutes/grid.480275.c.. 1............................................ [Neopost (France)] was compared to [Neopost (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.480275.c.. http://www.grid.ac/institutes/grid.481712.9.. 1............................................ [Neopost (France)] was compared to [Neopost (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.480275.c.. http://www.grid.ac/institutes/grid.481713.8.. 1............................................ [Neopost (France)] was compared to [Neopost (Netherlands)] 
+	http://www.grid.ac/institutes/grid.481713.8.. http://www.grid.ac/institutes/grid.480275.c.. 1............................................ [Neopost (France)] was compared to [Neopost (Netherlands)] 
+	http://www.grid.ac/institutes/grid.481713.8.. http://www.grid.ac/institutes/grid.481712.9.. 1............................................ [Neopost (United Kingdom)] was compared to [Neopost (Netherlands)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.481712.9.. 0.186788..................................... 
+	http://www.grid.ac/institutes/grid.481712.9.. 51.567272.................................... 
+	http://www.grid.ac/institutes/grid.481712.9.. http://www.neopost.co.uk/.................... 
+	http://www.grid.ac/institutes/grid.481712.9.. Neopost (United Kingdom)..................... 
+	http://www.grid.ac/institutes/grid.480275.c.. 2.220994..................................... 
+	http://www.grid.ac/institutes/grid.480275.c.. 48.897915.................................... 
+	http://www.grid.ac/institutes/grid.480275.c.. http://www.neopost.fr/....................... 
+	http://www.grid.ac/institutes/grid.480275.c.. Neopost (France)............................. 
+	http://www.grid.ac/institutes/grid.481713.8.. 6.088978..................................... 
+	http://www.grid.ac/institutes/grid.481713.8.. 53.111378.................................... 
+	http://www.grid.ac/institutes/grid.481713.8.. http://www.neopost-technologies.nl/.......... 
+	http://www.grid.ac/institutes/grid.481713.8.. Neopost (Netherlands)........................ 
+
+NETWORK ANALYSIS
+	NETWORK [('P1299816003-grid.480275.c', 'P637348512-grid.481712.9'), ('P1299816003-grid.480275.c', 'N173202620-grid.481713.8'), ('P637348512-grid.481712.9', 'N173202620-grid.481713.8')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

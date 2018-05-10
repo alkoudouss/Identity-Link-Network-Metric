@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 9359 
+NAME    N1786428814
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.451991.1>
+	<http://www.grid.ac/institutes/grid.455372.2>
+	<http://www.grid.ac/institutes/grid.456012.4>
+	<http://www.grid.ac/institutes/grid.456017.1>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.451991.1.. http://www.grid.ac/institutes/grid.455372.2.. 0.857142857143............................... [Tacton Systems (Sweden)] was compared to [Triton Systems (United States)] 
+	http://www.grid.ac/institutes/grid.455372.2.. http://www.grid.ac/institutes/grid.451991.1.. 0.857142857143............................... [Tacton Systems (Sweden)] was compared to [Triton Systems (United States)] 
+	http://www.grid.ac/institutes/grid.451991.1.. http://www.grid.ac/institutes/grid.456012.4.. 0.8125....................................... [Tacton Systems (Sweden)] was compared to [Reaction Systems (United States)] 
+	http://www.grid.ac/institutes/grid.456012.4.. http://www.grid.ac/institutes/grid.451991.1.. 0.8125....................................... [Tacton Systems (Sweden)] was compared to [Reaction Systems (United States)] 
+	http://www.grid.ac/institutes/grid.456012.4.. http://www.grid.ac/institutes/grid.456017.1.. 0.833333333333............................... [Reaction Systems (United States)] was compared to [Prediction Systems (United States)] 
+	http://www.grid.ac/institutes/grid.456017.1.. http://www.grid.ac/institutes/grid.456012.4.. 0.833333333333............................... [Reaction Systems (United States)] was compared to [Prediction Systems (United States)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.451991.1.. 18.047499.................................... 
+	http://www.grid.ac/institutes/grid.451991.1.. 59.332336.................................... 
+	http://www.grid.ac/institutes/grid.451991.1.. http://www.tacton.com/....................... 
+	http://www.grid.ac/institutes/grid.451991.1.. Tacton Systems (Sweden)...................... 
+	http://www.grid.ac/institutes/grid.455372.2.. -71.32057.................................... 
+	http://www.grid.ac/institutes/grid.455372.2.. 42.58355..................................... 
+	http://www.grid.ac/institutes/grid.455372.2.. http://www.tritonsys.com/.................... 
+	http://www.grid.ac/institutes/grid.455372.2.. Triton Systems (United States)............... 
+	http://www.grid.ac/institutes/grid.456012.4.. -105.19515................................... 
+	http://www.grid.ac/institutes/grid.456012.4.. 39.72414..................................... 
+	http://www.grid.ac/institutes/grid.456012.4.. http://rxnsys.com/........................... 
+	http://www.grid.ac/institutes/grid.456012.4.. Reaction Systems (United States)............. 
+	http://www.grid.ac/institutes/grid.456017.1.. -74.02895.................................... 
+	http://www.grid.ac/institutes/grid.456017.1.. 40.15243..................................... 
+	http://www.grid.ac/institutes/grid.456017.1.. http://www.predictsys.com/................... 
+	http://www.grid.ac/institutes/grid.456017.1.. Prediction Systems (United States)........... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.455372.2', '1:grid.451991.1'), ('3:grid.456012.4', '1:grid.451991.1'), ('4:grid.456017.1', '3:grid.456012.4')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

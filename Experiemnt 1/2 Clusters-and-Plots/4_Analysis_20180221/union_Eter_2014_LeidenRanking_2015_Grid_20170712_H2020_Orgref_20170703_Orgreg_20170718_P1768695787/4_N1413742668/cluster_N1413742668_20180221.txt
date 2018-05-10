@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 430 
+NAME    N1413742668
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.432456.2>
+	<http://www.grid.ac/institutes/grid.472727.3>
+	<http://www.grid.ac/institutes/grid.472812.a>
+	<http://www.grid.ac/institutes/grid.473159.d>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.432456.2.. http://www.grid.ac/institutes/grid.472727.3.. 1............................................ [British American Tobacco (United Kingdom)] was compared to [British American Tobacco (Germany)] 
+	http://www.grid.ac/institutes/grid.472727.3.. http://www.grid.ac/institutes/grid.432456.2.. 1............................................ [British American Tobacco (United Kingdom)] was compared to [British American Tobacco (Germany)] 
+	http://www.grid.ac/institutes/grid.432456.2.. http://www.grid.ac/institutes/grid.472812.a.. 1............................................ [British American Tobacco (United Kingdom)] was compared to [British American Tobacco (Japan)] 
+	http://www.grid.ac/institutes/grid.472812.a.. http://www.grid.ac/institutes/grid.432456.2.. 1............................................ [British American Tobacco (United Kingdom)] was compared to [British American Tobacco (Japan)] 
+	http://www.grid.ac/institutes/grid.432456.2.. http://www.grid.ac/institutes/grid.473159.d.. 1............................................ [British American Tobacco (United Kingdom)] was compared to [British American Tobacco (Canada)] 
+	http://www.grid.ac/institutes/grid.473159.d.. http://www.grid.ac/institutes/grid.432456.2.. 1............................................ [British American Tobacco (United Kingdom)] was compared to [British American Tobacco (Canada)] 
+	http://www.grid.ac/institutes/grid.472727.3.. http://www.grid.ac/institutes/grid.472812.a.. 1............................................ [British American Tobacco (Germany)] was compared to [British American Tobacco (Japan)] 
+	http://www.grid.ac/institutes/grid.472812.a.. http://www.grid.ac/institutes/grid.472727.3.. 1............................................ [British American Tobacco (Germany)] was compared to [British American Tobacco (Japan)] 
+	http://www.grid.ac/institutes/grid.472727.3.. http://www.grid.ac/institutes/grid.473159.d.. 1............................................ [British American Tobacco (Germany)] was compared to [British American Tobacco (Canada)] 
+	http://www.grid.ac/institutes/grid.473159.d.. http://www.grid.ac/institutes/grid.472727.3.. 1............................................ [British American Tobacco (Germany)] was compared to [British American Tobacco (Canada)] 
+	http://www.grid.ac/institutes/grid.472812.a.. http://www.grid.ac/institutes/grid.473159.d.. 1............................................ [British American Tobacco (Japan)] was compared to [British American Tobacco (Canada)] 
+	http://www.grid.ac/institutes/grid.473159.d.. http://www.grid.ac/institutes/grid.472812.a.. 1............................................ [British American Tobacco (Japan)] was compared to [British American Tobacco (Canada)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.432456.2.. -0.113101.................................... 
+	http://www.grid.ac/institutes/grid.432456.2.. 51.511513.................................... 
+	http://www.grid.ac/institutes/grid.432456.2.. http://www.bat.com/.......................... 
+	http://www.grid.ac/institutes/grid.432456.2.. British American Tobacco (United Kingdom).... 
+	http://www.grid.ac/institutes/grid.472727.3.. 9.995813..................................... 
+	http://www.grid.ac/institutes/grid.472727.3.. 53.55988..................................... 
+	http://www.grid.ac/institutes/grid.472727.3.. http://www.bat.de/........................... 
+	http://www.grid.ac/institutes/grid.472727.3.. British American Tobacco (Germany)........... 
+	http://www.grid.ac/institutes/grid.472812.a.. 139.7379..................................... 
+	http://www.grid.ac/institutes/grid.472812.a.. 35.66276..................................... 
+	http://www.grid.ac/institutes/grid.472812.a.. http://www.batj.com/......................... 
+	http://www.grid.ac/institutes/grid.472812.a.. British American Tobacco (Japan)............. 
+	http://www.grid.ac/institutes/grid.473159.d.. -73.58577.................................... 
+	http://www.grid.ac/institutes/grid.473159.d.. 45.481792.................................... 
+	http://www.grid.ac/institutes/grid.473159.d.. http://www.bat.com/.......................... 
+	http://www.grid.ac/institutes/grid.473159.d.. British American Tobacco (Canada)............ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.472727.3', '1:grid.432456.2'), ('3:grid.472812.a', '1:grid.432456.2'), ('3:grid.472812.a', '2:grid.472727.3'), ('4:grid.473159.d', '1:grid.432456.2'), ('4:grid.473159.d', '2:grid.472727.3'), ('4:grid.473159.d', '3:grid.472812.a')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

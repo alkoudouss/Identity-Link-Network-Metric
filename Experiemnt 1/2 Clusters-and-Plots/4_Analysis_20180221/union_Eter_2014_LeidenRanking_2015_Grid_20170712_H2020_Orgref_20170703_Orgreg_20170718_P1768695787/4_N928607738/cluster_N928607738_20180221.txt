@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 11304 
+NAME    N928607738
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.7737.4>
+	<http://risis.eu/leidenRanking_2015/resource/123>
+	<http://risis.eu/orgref_20170703/resource/220548>
+	<http://risis.eu/orgreg_20170718/resource/FI0001>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.7737.4........ http://risis.eu/orgref_20170703/resource/220548.. 1................................................ [University of Helsinki] was compared to [University of Helsinki] 
+	http://risis.eu/orgref_20170703/resource/220548.. http://www.grid.ac/institutes/grid.7737.4........ 1................................................ [University of Helsinki] was compared to [University of Helsinki] 
+	http://www.grid.ac/institutes/grid.7737.4........ http://risis.eu/leidenRanking_2015/resource/123.. 1................................................ [University of Helsinki] was compared to [University of Helsinki] 
+	http://risis.eu/leidenRanking_2015/resource/123.. http://www.grid.ac/institutes/grid.7737.4........ 1................................................ [University of Helsinki] was compared to [University of Helsinki] 
+	http://risis.eu/leidenRanking_2015/resource/123.. http://risis.eu/orgref_20170703/resource/220548.. 1................................................ [University of Helsinki] was compared to [University of Helsinki] 
+	http://risis.eu/orgref_20170703/resource/220548.. http://risis.eu/leidenRanking_2015/resource/123.. 1................................................ [University of Helsinki] was compared to [University of Helsinki] 
+	http://risis.eu/leidenRanking_2015/resource/123.. http://risis.eu/orgreg_20170718/resource/FI0001.. 1................................................ [University of Helsinki] was compared to [University of Helsinki] 
+	http://risis.eu/orgreg_20170718/resource/FI0001.. http://risis.eu/leidenRanking_2015/resource/123.. 1................................................ [University of Helsinki] was compared to [University of Helsinki] 
+	http://risis.eu/orgref_20170703/resource/220548.. http://risis.eu/orgreg_20170718/resource/FI0001.. 1................................................ [University of Helsinki] was compared to [University of Helsinki] 
+	http://risis.eu/orgreg_20170718/resource/FI0001.. http://risis.eu/orgref_20170703/resource/220548.. 1................................................ [University of Helsinki] was compared to [University of Helsinki] 
+	http://www.grid.ac/institutes/grid.7737.4........ http://risis.eu/orgreg_20170718/resource/FI0001.. 1................................................ [University of Helsinki] was compared to [University of Helsinki] 
+	http://risis.eu/orgreg_20170718/resource/FI0001.. http://www.grid.ac/institutes/grid.7737.4........ 1................................................ [University of Helsinki] was compared to [University of Helsinki] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.7737.4........ 24.950956........................................ 
+	http://www.grid.ac/institutes/grid.7737.4........ 60.17251......................................... 
+	http://www.grid.ac/institutes/grid.7737.4........ https://university.helsinki.fi/en................ 
+	http://www.grid.ac/institutes/grid.7737.4........ Helsingin yliopisto.............................. 
+	http://www.grid.ac/institutes/grid.7737.4........ Helsingfors universitet.......................... 
+	http://www.grid.ac/institutes/grid.7737.4........ University of Helsinki........................... 
+	http://risis.eu/leidenRanking_2015/resource/123.. University of Helsinki........................... 
+	http://risis.eu/orgref_20170703/resource/220548.. http://en.wikipedia.org/wiki?curid=220548........ 
+	http://risis.eu/orgref_20170703/resource/220548.. http://www.wikidata.org/wiki/Q28695.............. 
+	http://risis.eu/orgref_20170703/resource/220548.. https://www.helsinki.fi/en....................... 
+	http://risis.eu/orgref_20170703/resource/220548.. University of Helsinki........................... 
+	http://risis.eu/orgreg_20170718/resource/FI0001.. 24.526788........................................ 
+	http://risis.eu/orgreg_20170718/resource/FI0001.. 60.288409........................................ 
+	http://risis.eu/orgreg_20170718/resource/FI0001.. http://www.helsinki.fi/university/index.html..... 
+	http://risis.eu/orgreg_20170718/resource/FI0001.. University of Helsinki........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:123', '1:grid.7737.4'), ('2:123', '4:FI0001'), ('3:220548', '1:grid.7737.4'), ('3:220548', '2:123'), ('4:FI0001', '1:grid.7737.4'), ('4:FI0001', '3:220548')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

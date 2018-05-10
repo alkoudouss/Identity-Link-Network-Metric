@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 823 
+NAME    N2034321789
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/1046949>
+	<http://risis.eu/leidenRanking_2015/resource/2805>
+	<http://www.grid.ac/institutes/grid.431727.4>
+	<http://risis.eu/orgref_20170703/resource/39900572>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/1046949... http://www.grid.ac/institutes/grid.431727.4........ 1.................................................. [Indiana Institute of Technology] was compared to [Indiana Institute of Technology] 
+	http://www.grid.ac/institutes/grid.431727.4........ http://risis.eu/orgref_20170703/resource/1046949... 1.................................................. [Indiana Institute of Technology] was compared to [Indiana Institute of Technology] 
+	http://risis.eu/leidenRanking_2015/resource/2805... http://www.grid.ac/institutes/grid.431727.4........ 0.964285714286..................................... [Indiana Institute of Technology] was compared to [Indian Institute of Technology] 
+	http://www.grid.ac/institutes/grid.431727.4........ http://risis.eu/leidenRanking_2015/resource/2805... 0.964285714286..................................... [Indiana Institute of Technology] was compared to [Indian Institute of Technology] 
+	http://risis.eu/orgref_20170703/resource/1046949... http://risis.eu/leidenRanking_2015/resource/2805... 0.964285714286..................................... [Indiana Institute of Technology] was compared to [Indian Institute of Technology] 
+	http://risis.eu/leidenRanking_2015/resource/2805... http://risis.eu/orgref_20170703/resource/1046949... 0.964285714286..................................... [Indiana Institute of Technology] was compared to [Indian Institute of Technology] 
+	http://risis.eu/leidenRanking_2015/resource/2805... http://risis.eu/orgref_20170703/resource/39900572.. 0.896551724138..................................... [Canadian Institute of Technology] was compared to [Indian Institute of Technology] 
+	http://risis.eu/orgref_20170703/resource/39900572.. http://risis.eu/leidenRanking_2015/resource/2805... 0.896551724138..................................... [Canadian Institute of Technology] was compared to [Indian Institute of Technology] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/1046949... http://en.wikipedia.org/wiki?curid=1046949......... 
+	http://risis.eu/orgref_20170703/resource/1046949... http://www.wikidata.org/wiki/Q14688450............. 
+	http://risis.eu/orgref_20170703/resource/1046949... http://www.indianatech.edu......................... 
+	http://risis.eu/orgref_20170703/resource/1046949... Indiana Institute of Technology.................... 
+	http://risis.eu/leidenRanking_2015/resource/2805... Indian Institute of Technology..................... 
+	http://www.grid.ac/institutes/grid.431727.4........ -85.11723.......................................... 
+	http://www.grid.ac/institutes/grid.431727.4........ 41.078625.......................................... 
+	http://www.grid.ac/institutes/grid.431727.4........ http://www.indianatech.edu/........................ 
+	http://www.grid.ac/institutes/grid.431727.4........ Indiana Tech....................................... 
+	http://www.grid.ac/institutes/grid.431727.4........ Indiana Institute of Technology.................... 
+	http://risis.eu/orgref_20170703/resource/39900572.. http://en.wikipedia.org/wiki?curid=39900572........ 
+	http://risis.eu/orgref_20170703/resource/39900572.. http://www.wikidata.org/wiki/Q15040999............. 
+	http://risis.eu/orgref_20170703/resource/39900572.. http://www.cit.edu.al.............................. 
+	http://risis.eu/orgref_20170703/resource/39900572.. Canadian Institute of Technology................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:2805', '1:1046949'), ('2:2805', '3:grid.431727.4'), ('3:grid.431727.4', '1:1046949'), ('4:39900572', '2:2805')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

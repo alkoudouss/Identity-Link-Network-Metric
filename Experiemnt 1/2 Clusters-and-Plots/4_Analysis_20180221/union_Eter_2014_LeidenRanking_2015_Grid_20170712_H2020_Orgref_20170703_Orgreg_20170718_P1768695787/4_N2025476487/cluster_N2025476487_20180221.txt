@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 11302 
+NAME    N2025476487
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/98089>
+	<http://risis.eu/cordisH2020/resource/participant_998331567>
+	<http://www.grid.ac/institutes/grid.29980.3a>
+	<http://risis.eu/leidenRanking_2015/resource/1123>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/98089.............. http://www.grid.ac/institutes/grid.29980.3a................. 1........................................................... [University of Otago] was compared to [University of Otago]. 
+	http://www.grid.ac/institutes/grid.29980.3a................. http://risis.eu/orgref_20170703/resource/98089.............. 1........................................................... [University of Otago] was compared to [University of Otago]. 
+	http://www.grid.ac/institutes/grid.29980.3a................. http://risis.eu/leidenRanking_2015/resource/1123............ 1........................................................... [University of Otago] was compared to [University of Otago]. 
+	http://risis.eu/leidenRanking_2015/resource/1123............ http://www.grid.ac/institutes/grid.29980.3a................. 1........................................................... [University of Otago] was compared to [University of Otago]. 
+	http://risis.eu/cordisH2020/resource/participant_998331567.. http://www.grid.ac/institutes/grid.29980.3a................. 1........................................................... [University of Otago] was compared to [UNIVERSITY OF OTAGO]. 
+	http://www.grid.ac/institutes/grid.29980.3a................. http://risis.eu/cordisH2020/resource/participant_998331567.. 1........................................................... [University of Otago] was compared to [UNIVERSITY OF OTAGO]. 
+	http://risis.eu/orgref_20170703/resource/98089.............. http://risis.eu/leidenRanking_2015/resource/1123............ 1........................................................... [University of Otago] was compared to [University of Otago]. 
+	http://risis.eu/leidenRanking_2015/resource/1123............ http://risis.eu/orgref_20170703/resource/98089.............. 1........................................................... [University of Otago] was compared to [University of Otago]. 
+	http://risis.eu/orgref_20170703/resource/98089.............. http://risis.eu/cordisH2020/resource/participant_998331567.. 1........................................................... [University of Otago] was compared to [UNIVERSITY OF OTAGO]. 
+	http://risis.eu/cordisH2020/resource/participant_998331567.. http://risis.eu/orgref_20170703/resource/98089.............. 1........................................................... [University of Otago] was compared to [UNIVERSITY OF OTAGO]. 
+	http://risis.eu/cordisH2020/resource/participant_998331567.. http://risis.eu/leidenRanking_2015/resource/1123............ 1........................................................... [UNIVERSITY OF OTAGO] was compared to [University of Otago]. 
+	http://risis.eu/leidenRanking_2015/resource/1123............ http://risis.eu/cordisH2020/resource/participant_998331567.. 1........................................................... [UNIVERSITY OF OTAGO] was compared to [University of Otago]. 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/98089.............. http://en.wikipedia.org/wiki?curid=98089.................... 
+	http://risis.eu/orgref_20170703/resource/98089.............. http://www.wikidata.org/wiki/Q1201513....................... 
+	http://risis.eu/orgref_20170703/resource/98089.............. http://www.otago.ac.nz...................................... 
+	http://risis.eu/orgref_20170703/resource/98089.............. University of Otago......................................... 
+	http://risis.eu/cordisH2020/resource/participant_998331567.. http://risis.eu/cordisH2020/resource/www.otago.ac.nz........ 
+	http://risis.eu/cordisH2020/resource/participant_998331567.. UNIVERSITY OF OTAGO......................................... 
+	http://www.grid.ac/institutes/grid.29980.3a................. 170.51468................................................... 
+	http://www.grid.ac/institutes/grid.29980.3a................. -45.864895.................................................. 
+	http://www.grid.ac/institutes/grid.29980.3a................. http://www.otago.ac.nz/..................................... 
+	http://www.grid.ac/institutes/grid.29980.3a................. University of Otago......................................... 
+	http://risis.eu/leidenRanking_2015/resource/1123............ University of Otago......................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:98089', '3:grid.29980.3a'), ('2:participant_998331567', '1:98089'), ('2:participant_998331567', '3:grid.29980.3a'), ('4:1123', '1:98089'), ('4:1123', '2:participant_998331567'), ('4:1123', '3:grid.29980.3a')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

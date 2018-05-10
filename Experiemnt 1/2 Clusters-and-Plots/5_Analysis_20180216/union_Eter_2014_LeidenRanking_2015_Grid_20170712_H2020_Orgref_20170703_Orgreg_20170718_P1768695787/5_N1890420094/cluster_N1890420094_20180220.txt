@@ -1,0 +1,71 @@
+SIZE    5   
+CLUSTER 11786 
+NAME    N1890420094
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.435869.5>
+	<http://www.grid.ac/institutes/grid.471229.b>
+	<http://www.grid.ac/institutes/grid.432143.3>
+	<http://www.grid.ac/institutes/grid.420207.3>
+	<http://www.grid.ac/institutes/grid.434762.0>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 20 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.432143.3.. http://www.grid.ac/institutes/grid.420207.3.. 1............................................ [Henkel (Germany)] was compared to [Henkel (Netherlands)] 
+	http://www.grid.ac/institutes/grid.420207.3.. http://www.grid.ac/institutes/grid.432143.3.. 1............................................ [Henkel (Germany)] was compared to [Henkel (Netherlands)] 
+	http://www.grid.ac/institutes/grid.435869.5.. http://www.grid.ac/institutes/grid.420207.3.. 1............................................ [Henkel (Germany)] was compared to [Henkel (Ireland)] 
+	http://www.grid.ac/institutes/grid.420207.3.. http://www.grid.ac/institutes/grid.435869.5.. 1............................................ [Henkel (Germany)] was compared to [Henkel (Ireland)] 
+	http://www.grid.ac/institutes/grid.471229.b.. http://www.grid.ac/institutes/grid.420207.3.. 1............................................ [Henkel (Germany)] was compared to [Henkel (United States)] 
+	http://www.grid.ac/institutes/grid.420207.3.. http://www.grid.ac/institutes/grid.471229.b.. 1............................................ [Henkel (Germany)] was compared to [Henkel (United States)] 
+	http://www.grid.ac/institutes/grid.420207.3.. http://www.grid.ac/institutes/grid.434762.0.. 1............................................ [Henkel (Germany)] was compared to [Henkel (Belgium)] 
+	http://www.grid.ac/institutes/grid.434762.0.. http://www.grid.ac/institutes/grid.420207.3.. 1............................................ [Henkel (Germany)] was compared to [Henkel (Belgium)] 
+	http://www.grid.ac/institutes/grid.435869.5.. http://www.grid.ac/institutes/grid.432143.3.. 1............................................ [Henkel (Netherlands)] was compared to [Henkel (Ireland)] 
+	http://www.grid.ac/institutes/grid.432143.3.. http://www.grid.ac/institutes/grid.435869.5.. 1............................................ [Henkel (Netherlands)] was compared to [Henkel (Ireland)] 
+	http://www.grid.ac/institutes/grid.471229.b.. http://www.grid.ac/institutes/grid.432143.3.. 1............................................ [Henkel (Netherlands)] was compared to [Henkel (United States)] 
+	http://www.grid.ac/institutes/grid.432143.3.. http://www.grid.ac/institutes/grid.471229.b.. 1............................................ [Henkel (Netherlands)] was compared to [Henkel (United States)] 
+	http://www.grid.ac/institutes/grid.432143.3.. http://www.grid.ac/institutes/grid.434762.0.. 1............................................ [Henkel (Netherlands)] was compared to [Henkel (Belgium)] 
+	http://www.grid.ac/institutes/grid.434762.0.. http://www.grid.ac/institutes/grid.432143.3.. 1............................................ [Henkel (Netherlands)] was compared to [Henkel (Belgium)] 
+	http://www.grid.ac/institutes/grid.435869.5.. http://www.grid.ac/institutes/grid.434762.0.. 1............................................ [Henkel (Belgium)] was compared to [Henkel (Ireland)] 
+	http://www.grid.ac/institutes/grid.434762.0.. http://www.grid.ac/institutes/grid.435869.5.. 1............................................ [Henkel (Belgium)] was compared to [Henkel (Ireland)] 
+	http://www.grid.ac/institutes/grid.471229.b.. http://www.grid.ac/institutes/grid.434762.0.. 1............................................ [Henkel (Belgium)] was compared to [Henkel (United States)] 
+	http://www.grid.ac/institutes/grid.434762.0.. http://www.grid.ac/institutes/grid.471229.b.. 1............................................ [Henkel (Belgium)] was compared to [Henkel (United States)] 
+	http://www.grid.ac/institutes/grid.435869.5.. http://www.grid.ac/institutes/grid.471229.b.. 1............................................ [Henkel (Ireland)] was compared to [Henkel (United States)] 
+	http://www.grid.ac/institutes/grid.471229.b.. http://www.grid.ac/institutes/grid.435869.5.. 1............................................ [Henkel (Ireland)] was compared to [Henkel (United States)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.435869.5.. Henkel (Ireland)............................. 
+	http://www.grid.ac/institutes/grid.471229.b.. -72.65929.................................... 
+	http://www.grid.ac/institutes/grid.471229.b.. 41.647602.................................... 
+	http://www.grid.ac/institutes/grid.471229.b.. http://www.henkel-northamerica.com/.......... 
+	http://www.grid.ac/institutes/grid.471229.b.. Henkel (United States)....................... 
+	http://www.grid.ac/institutes/grid.432143.3.. Henkel (Netherlands)......................... 
+	http://www.grid.ac/institutes/grid.420207.3.. 6.837396..................................... 
+	http://www.grid.ac/institutes/grid.420207.3.. 51.176308.................................... 
+	http://www.grid.ac/institutes/grid.420207.3.. http://www.henkel.de/........................ 
+	http://www.grid.ac/institutes/grid.420207.3.. Henkel (Germany)............................. 
+	http://www.grid.ac/institutes/grid.434762.0.. Henkel (Belgium)............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.435869.5', '4:grid.420207.3'), ('1:grid.435869.5', '5:grid.434762.0'), ('2:grid.471229.b', '1:grid.435869.5'), ('2:grid.471229.b', '3:grid.432143.3'), ('2:grid.471229.b', '4:grid.420207.3'), ('2:grid.471229.b', '5:grid.434762.0'), ('3:grid.432143.3', '1:grid.435869.5'), ('3:grid.432143.3', '4:grid.420207.3'), ('5:grid.434762.0', '3:grid.432143.3'), ('5:grid.434762.0', '4:grid.420207.3')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 4.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

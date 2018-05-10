@@ -1,0 +1,54 @@
+SIZE    3   
+CLUSTER 322 
+NAME    N1026912404
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/CY0001>
+	<http://risis.eu/orgreg_20170718/resource/CY0009>
+	<http://www.grid.ac/institutes/grid.6603.3>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/CY0001.. http://www.grid.ac/institutes/grid.6603.3........ 1................................................ Near each other by at most 500 meter(s).......... 
+	http://risis.eu/orgreg_20170718/resource/CY0009.. http://www.grid.ac/institutes/grid.6603.3........ 1................................................ Near each other by at most 500 meter(s).......... 
+	http://www.grid.ac/institutes/grid.6603.3........ http://risis.eu/orgreg_20170718/resource/CY0001.. 1................................................ Near each other by at most 500 meter(s).......... 
+	http://www.grid.ac/institutes/grid.6603.3........ http://risis.eu/orgreg_20170718/resource/CY0009.. 1................................................ Near each other by at most 500 meter(s).......... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/CY0001.. 33.377028........................................ 
+	http://risis.eu/orgreg_20170718/resource/CY0001.. 35.160136........................................ 
+	http://risis.eu/orgreg_20170718/resource/CY0001.. http://www.ucy.ac.cy............................. 
+	http://risis.eu/orgreg_20170718/resource/CY0001.. University of Cyprus............................. 
+	http://risis.eu/orgreg_20170718/resource/CY0009.. 33.374011........................................ 
+	http://risis.eu/orgreg_20170718/resource/CY0009.. 35.162532........................................ 
+	http://risis.eu/orgreg_20170718/resource/CY0009.. http://www.kepa.gov.cy/MIM/...................... 
+	http://risis.eu/orgreg_20170718/resource/CY0009.. Mediterranean Institute of Management............ 
+	http://www.grid.ac/institutes/grid.6603.3........ 33.376976........................................ 
+	http://www.grid.ac/institutes/grid.6603.3........ 35.16027......................................... 
+	http://www.grid.ac/institutes/grid.6603.3........ http://www.ucy.ac.cy/en/......................... 
+	http://www.grid.ac/institutes/grid.6603.3........ University of Cyprus............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('N1026912404-CY0009', 'P2114954950-grid.6603.3'), ('N1018912396-CY0001', 'P2114954950-grid.6603.3')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 12682 
+NAME    N753528816
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.415301.2>
+	<http://risis.eu/orgref_20170703/resource/17001974>
+	<http://www.grid.ac/institutes/grid.429318.5>
+	<http://risis.eu/orgref_20170703/resource/9704538>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.415301.2........ http://www.grid.ac/institutes/grid.429318.5........ 1.................................................. [Memorial Medical Center] was compared to [Memorial Medical Center] 
+	http://www.grid.ac/institutes/grid.429318.5........ http://www.grid.ac/institutes/grid.415301.2........ 1.................................................. [Memorial Medical Center] was compared to [Memorial Medical Center] 
+	http://www.grid.ac/institutes/grid.415301.2........ http://risis.eu/orgref_20170703/resource/17001974.. 1.................................................. [Memorial Medical Center] was compared to [Memorial Medical Center (Modesto, California)] 
+	http://risis.eu/orgref_20170703/resource/17001974.. http://www.grid.ac/institutes/grid.415301.2........ 1.................................................. [Memorial Medical Center] was compared to [Memorial Medical Center (Modesto, California)] 
+	http://www.grid.ac/institutes/grid.415301.2........ http://risis.eu/orgref_20170703/resource/9704538... 1.................................................. [Memorial Medical Center] was compared to [Memorial Medical Center (Springfield, Illinois)] 
+	http://risis.eu/orgref_20170703/resource/9704538... http://www.grid.ac/institutes/grid.415301.2........ 1.................................................. [Memorial Medical Center] was compared to [Memorial Medical Center (Springfield, Illinois)] 
+	http://risis.eu/orgref_20170703/resource/17001974.. http://www.grid.ac/institutes/grid.429318.5........ 1.................................................. [Memorial Medical Center] was compared to [Memorial Medical Center (Modesto, California)] 
+	http://www.grid.ac/institutes/grid.429318.5........ http://risis.eu/orgref_20170703/resource/17001974.. 1.................................................. [Memorial Medical Center] was compared to [Memorial Medical Center (Modesto, California)] 
+	http://www.grid.ac/institutes/grid.429318.5........ http://risis.eu/orgref_20170703/resource/9704538... 1.................................................. [Memorial Medical Center] was compared to [Memorial Medical Center (Springfield, Illinois)] 
+	http://risis.eu/orgref_20170703/resource/9704538... http://www.grid.ac/institutes/grid.429318.5........ 1.................................................. [Memorial Medical Center] was compared to [Memorial Medical Center (Springfield, Illinois)] 
+	http://risis.eu/orgref_20170703/resource/17001974.. http://risis.eu/orgref_20170703/resource/9704538... 1.................................................. [Memorial Medical Center (Modesto, California)] was compared to [Memorial Medical Center (Springfield, Illinois)] 
+	http://risis.eu/orgref_20170703/resource/9704538... http://risis.eu/orgref_20170703/resource/17001974.. 1.................................................. [Memorial Medical Center (Modesto, California)] was compared to [Memorial Medical Center (Springfield, Illinois)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.415301.2........ -89.65604.......................................... 
+	http://www.grid.ac/institutes/grid.415301.2........ 39.809513.......................................... 
+	http://www.grid.ac/institutes/grid.415301.2........ https://www.memorialmedical.com/................... 
+	http://www.grid.ac/institutes/grid.415301.2........ Memorial Medical Center............................ 
+	http://risis.eu/orgref_20170703/resource/17001974.. http://en.wikipedia.org/wiki?curid=17001974........ 
+	http://risis.eu/orgref_20170703/resource/17001974.. http://www.wikidata.org/wiki/Q6815474.............. 
+	http://risis.eu/orgref_20170703/resource/17001974.. http://www.memorialmedicalcenter.org............... 
+	http://risis.eu/orgref_20170703/resource/17001974.. Memorial Medical Center (Modesto, California)...... 
+	http://www.grid.ac/institutes/grid.429318.5........ Memorial Medical Center............................ 
+	http://risis.eu/orgref_20170703/resource/9704538... http://en.wikipedia.org/wiki?curid=9704538......... 
+	http://risis.eu/orgref_20170703/resource/9704538... http://www.wikidata.org/wiki/Q6815476.............. 
+	http://risis.eu/orgref_20170703/resource/9704538... https://www.memorialmedical.com.................... 
+	http://risis.eu/orgref_20170703/resource/9704538... Memorial Medical Center (Springfield, Illinois).... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:17001974', '1:grid.415301.2'), ('2:17001974', '3:grid.429318.5'), ('3:grid.429318.5', '1:grid.415301.2'), ('4:9704538', '1:grid.415301.2'), ('4:9704538', '2:17001974'), ('4:9704538', '3:grid.429318.5')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

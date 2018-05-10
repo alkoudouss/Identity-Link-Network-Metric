@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 17757 
+NAME    N784417141
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/1909899>
+	<http://risis.eu/eter_2014/resource/TR0107>
+	<http://risis.eu/leidenRanking_2015/resource/1029>
+	<http://www.grid.ac/institutes/grid.440424.2>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/1909899.. http://www.grid.ac/institutes/grid.440424.2....... 1................................................. [Atilim University] was compared to [Atılım University] 
+	http://www.grid.ac/institutes/grid.440424.2....... http://risis.eu/orgref_20170703/resource/1909899.. 1................................................. [Atilim University] was compared to [Atılım University] 
+	http://risis.eu/leidenRanking_2015/resource/1029.. http://www.grid.ac/institutes/grid.440424.2....... 1................................................. [Atilim University] was compared to [Atilim University] 
+	http://www.grid.ac/institutes/grid.440424.2....... http://risis.eu/leidenRanking_2015/resource/1029.. 1................................................. [Atilim University] was compared to [Atilim University] 
+	http://risis.eu/orgref_20170703/resource/1909899.. http://risis.eu/leidenRanking_2015/resource/1029.. 1................................................. [Atılım University] was compared to [Atilim University] 
+	http://risis.eu/leidenRanking_2015/resource/1029.. http://risis.eu/orgref_20170703/resource/1909899.. 1................................................. [Atılım University] was compared to [Atilim University] 
+	http://risis.eu/eter_2014/resource/TR0107......... http://risis.eu/leidenRanking_2015/resource/1029.. 0.842105263158.................................... [ATILIM ÜNIVERSITESI] was compared to [Atilim University] 
+	http://risis.eu/leidenRanking_2015/resource/1029.. http://risis.eu/eter_2014/resource/TR0107......... 0.842105263158.................................... [ATILIM ÜNIVERSITESI] was compared to [Atilim University] 
+	http://risis.eu/orgref_20170703/resource/1909899.. http://risis.eu/eter_2014/resource/TR0107......... 0.842105263158.................................... [Atılım University] was compared to [ATILIM ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0107......... http://risis.eu/orgref_20170703/resource/1909899.. 0.842105263158.................................... [Atılım University] was compared to [ATILIM ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0107......... http://www.grid.ac/institutes/grid.440424.2....... 0.842105263158.................................... [Atilim University] was compared to [ATILIM ÜNIVERSITESI] 
+	http://www.grid.ac/institutes/grid.440424.2....... http://risis.eu/eter_2014/resource/TR0107......... 0.842105263158.................................... [Atilim University] was compared to [ATILIM ÜNIVERSITESI] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/1909899.. http://en.wikipedia.org/wiki?curid=1909899........ 
+	http://risis.eu/orgref_20170703/resource/1909899.. http://www.wikidata.org/wiki/Q3321507............. 
+	http://risis.eu/orgref_20170703/resource/1909899.. http://www.atilim.edu.tr.......................... 
+	http://risis.eu/orgref_20170703/resource/1909899.. Atılım University............................... 
+	http://risis.eu/eter_2014/resource/TR0107......... 39,93795.......................................... 
+	http://risis.eu/eter_2014/resource/TR0107......... 32,827267......................................... 
+	http://risis.eu/eter_2014/resource/TR0107......... http://www.atilim.edu.tr.......................... 
+	http://risis.eu/eter_2014/resource/TR0107......... a................................................. 
+	http://risis.eu/eter_2014/resource/TR0107......... Atilim University................................. 
+	http://risis.eu/eter_2014/resource/TR0107......... ATILIM ÜNIVERSITESI.............................. 
+	http://risis.eu/leidenRanking_2015/resource/1029.. Atilim University................................. 
+	http://www.grid.ac/institutes/grid.440424.2....... 32.72368.......................................... 
+	http://www.grid.ac/institutes/grid.440424.2....... 39.81351.......................................... 
+	http://www.grid.ac/institutes/grid.440424.2....... http://www.atilim.edu.tr/?lang=en................. 
+	http://www.grid.ac/institutes/grid.440424.2....... Atılım Üniversitesi............................ 
+	http://www.grid.ac/institutes/grid.440424.2....... Atilim University................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:1909899', '4:grid.440424.2'), ('2:TR0107', '1:1909899'), ('3:1029', '1:1909899'), ('3:1029', '2:TR0107'), ('3:1029', '4:grid.440424.2'), ('4:grid.440424.2', '2:TR0107')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

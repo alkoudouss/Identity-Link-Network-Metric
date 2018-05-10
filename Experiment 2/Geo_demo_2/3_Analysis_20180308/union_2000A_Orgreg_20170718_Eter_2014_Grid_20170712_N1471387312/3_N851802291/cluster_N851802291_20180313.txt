@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 1355 
+NAME    N851802291
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.4991.5>
+	<http://risis.eu/eter_2014/resource/UK0090>
+	<http://www.grid.ac/institutes/grid.470899.b>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.4991.5.... http://risis.eu/eter_2014/resource/UK0090.... 1............................................ [university oxford] was compared to [university oxford] 
+	http://risis.eu/eter_2014/resource/UK0090.... http://www.grid.ac/institutes/grid.4991.5.... 1............................................ [university oxford] was compared to [university oxford] 
+	http://risis.eu/eter_2014/resource/UK0090.... http://www.grid.ac/institutes/grid.470899.b.. 0.739130434783............................... [university oxford] was compared to [oxford university press] 
+	http://www.grid.ac/institutes/grid.470899.b.. http://risis.eu/eter_2014/resource/UK0090.... 0.739130434783............................... [university oxford] was compared to [oxford university press] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.4991.5.... -1.2540097................................... 
+	http://www.grid.ac/institutes/grid.4991.5.... 51.753437.................................... 
+	http://www.grid.ac/institutes/grid.4991.5.... http://www.ox.ac.uk/......................... 
+	http://www.grid.ac/institutes/grid.4991.5.... Oxford University............................ 
+	http://www.grid.ac/institutes/grid.4991.5.... University of Oxford......................... 
+	http://risis.eu/eter_2014/resource/UK0090.... 51,757639.................................... 
+	http://risis.eu/eter_2014/resource/UK0090.... -1,262886.................................... 
+	http://risis.eu/eter_2014/resource/UK0090.... http://www.ox.ac.uk/......................... 
+	http://risis.eu/eter_2014/resource/UK0090.... a............................................ 
+	http://risis.eu/eter_2014/resource/UK0090.... The University of Oxford..................... 
+	http://www.grid.ac/institutes/grid.470899.b.. -1.265633.................................... 
+	http://www.grid.ac/institutes/grid.470899.b.. 51.758404.................................... 
+	http://www.grid.ac/institutes/grid.470899.b.. http://global.oup.com/?cc=gb................. 
+	http://www.grid.ac/institutes/grid.470899.b.. Oxford University Press (United Kingdom)..... 
+
+NETWORK ANALYSIS
+	NETWORK [('N16872037-UK0090', 'P1243143960-grid.4991.5'), ('N16872037-UK0090', 'N851802291-grid.470899.b')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

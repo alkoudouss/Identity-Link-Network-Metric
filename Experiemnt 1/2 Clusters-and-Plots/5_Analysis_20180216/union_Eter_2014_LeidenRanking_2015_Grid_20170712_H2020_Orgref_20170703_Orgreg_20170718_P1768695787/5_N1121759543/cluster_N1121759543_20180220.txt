@@ -1,0 +1,68 @@
+SIZE    5   
+CLUSTER 10380 
+NAME    N1121759543
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/19282357>
+	<http://risis.eu/leidenRanking_2015/resource/3404>
+	<http://www.grid.ac/institutes/grid.464480.a>
+	<http://www.grid.ac/institutes/grid.440646.4>
+	<http://www.grid.ac/institutes/grid.459704.b>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/19282357.. http://www.grid.ac/institutes/grid.440646.4........ 1.................................................. [Anhui Normal University] was compared to [Anhui Normal University] 
+	http://www.grid.ac/institutes/grid.440646.4........ http://risis.eu/orgref_20170703/resource/19282357.. 1.................................................. [Anhui Normal University] was compared to [Anhui Normal University] 
+	http://risis.eu/leidenRanking_2015/resource/3404... http://www.grid.ac/institutes/grid.440646.4........ 1.................................................. [Anhui Normal University] was compared to [Anhui Normal University] 
+	http://www.grid.ac/institutes/grid.440646.4........ http://risis.eu/leidenRanking_2015/resource/3404... 1.................................................. [Anhui Normal University] was compared to [Anhui Normal University] 
+	http://risis.eu/orgref_20170703/resource/19282357.. http://risis.eu/leidenRanking_2015/resource/3404... 1.................................................. [Anhui Normal University] was compared to [Anhui Normal University] 
+	http://risis.eu/leidenRanking_2015/resource/3404... http://risis.eu/orgref_20170703/resource/19282357.. 1.................................................. [Anhui Normal University] was compared to [Anhui Normal University] 
+	http://www.grid.ac/institutes/grid.464480.a........ http://www.grid.ac/institutes/grid.440646.4........ 0.884615384615..................................... [Anhui Normal University] was compared to [Tianshui Normal University] 
+	http://www.grid.ac/institutes/grid.440646.4........ http://www.grid.ac/institutes/grid.464480.a........ 0.884615384615..................................... [Anhui Normal University] was compared to [Tianshui Normal University] 
+	http://www.grid.ac/institutes/grid.464480.a........ http://www.grid.ac/institutes/grid.459704.b........ 0.892857142857..................................... [Liupanshui Normal University] was compared to [Tianshui Normal University] 
+	http://www.grid.ac/institutes/grid.459704.b........ http://www.grid.ac/institutes/grid.464480.a........ 0.892857142857..................................... [Liupanshui Normal University] was compared to [Tianshui Normal University] 
+	http://risis.eu/orgref_20170703/resource/19282357.. http://www.grid.ac/institutes/grid.464480.a........ 0.884615384615..................................... [Tianshui Normal University] was compared to [Anhui Normal University] 
+	http://www.grid.ac/institutes/grid.464480.a........ http://risis.eu/orgref_20170703/resource/19282357.. 0.884615384615..................................... [Tianshui Normal University] was compared to [Anhui Normal University] 
+	http://risis.eu/leidenRanking_2015/resource/3404... http://www.grid.ac/institutes/grid.464480.a........ 0.884615384615..................................... [Tianshui Normal University] was compared to [Anhui Normal University] 
+	http://www.grid.ac/institutes/grid.464480.a........ http://risis.eu/leidenRanking_2015/resource/3404... 0.884615384615..................................... [Tianshui Normal University] was compared to [Anhui Normal University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/19282357.. http://en.wikipedia.org/wiki?curid=19282357........ 
+	http://risis.eu/orgref_20170703/resource/19282357.. http://www.wikidata.org/wiki/Q614203............... 
+	http://risis.eu/orgref_20170703/resource/19282357.. http://www.ahnu.edu.cn............................. 
+	http://risis.eu/orgref_20170703/resource/19282357.. Anhui Normal University............................ 
+	http://risis.eu/leidenRanking_2015/resource/3404... Anhui Normal University............................ 
+	http://www.grid.ac/institutes/grid.464480.a........ 105.70278.......................................... 
+	http://www.grid.ac/institutes/grid.464480.a........ 34.56971........................................... 
+	http://www.grid.ac/institutes/grid.464480.a........ http://www.tsnc.edu.cn/............................ 
+	http://www.grid.ac/institutes/grid.464480.a........ Tianshui Normal University......................... 
+	http://www.grid.ac/institutes/grid.440646.4........ Anhui Normal University............................ 
+	http://www.grid.ac/institutes/grid.459704.b........ 104.820465......................................... 
+	http://www.grid.ac/institutes/grid.459704.b........ 26.57919........................................... 
+	http://www.grid.ac/institutes/grid.459704.b........ http://www.lpssy.edu.cn/........................... 
+	http://www.grid.ac/institutes/grid.459704.b........ Liupanshui Normal University....................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:19282357', '3:grid.464480.a'), ('1:19282357', '4:grid.440646.4'), ('2:3404', '1:19282357'), ('2:3404', '4:grid.440646.4'), ('3:grid.464480.a', '2:3404'), ('4:grid.440646.4', '3:grid.464480.a'), ('5:grid.459704.b', '3:grid.464480.a')]
+	MAX DISTANCE:                   : 0.7
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 2.2
+	AVERAGE NODE CONNECTIVITY RATIO : 0.55
+	BRIDGES                         : 1
+	CLOSURE                         : 0.7
+	DIAMETER                        : 2
+	QUALITY                         : 0.294
+	QUALITY USED                    : 0.357
+	SUMMARY 1: BRIDGE 0.25 CLOSURE 0.3 DIAMETER 0.333 QUALITY 0.294 QUALITY USED 0.357
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.3 DIAMETER 0.385 QUALITY 0.294 QUALITY USED 0.357

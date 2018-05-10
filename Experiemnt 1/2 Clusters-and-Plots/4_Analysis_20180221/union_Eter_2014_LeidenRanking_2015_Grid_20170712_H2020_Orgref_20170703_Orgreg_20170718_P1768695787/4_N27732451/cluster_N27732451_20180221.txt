@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 13801 
+NAME    N27732451
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.428563.e>
+	<http://risis.eu/orgref_20170703/resource/24596603>
+	<http://risis.eu/orgref_20170703/resource/10874468>
+	<http://risis.eu/orgref_20170703/resource/34992805>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.428563.e........ http://risis.eu/orgref_20170703/resource/24596603.. 1.................................................. [Firelands Regional Medical Center] was compared to [Firelands Regional Medical Center] 
+	http://risis.eu/orgref_20170703/resource/24596603.. http://www.grid.ac/institutes/grid.428563.e........ 1.................................................. [Firelands Regional Medical Center] was compared to [Firelands Regional Medical Center] 
+	http://risis.eu/orgref_20170703/resource/10874468.. http://risis.eu/orgref_20170703/resource/34992805.. 1.................................................. [Highlands Regional Medical Center] was compared to [Highlands Regional Medical Center (Sebring)] 
+	http://risis.eu/orgref_20170703/resource/34992805.. http://risis.eu/orgref_20170703/resource/10874468.. 1.................................................. [Highlands Regional Medical Center] was compared to [Highlands Regional Medical Center (Sebring)] 
+	http://risis.eu/orgref_20170703/resource/24596603.. http://risis.eu/orgref_20170703/resource/34992805.. 0.909090909091..................................... [Firelands Regional Medical Center] was compared to [Highlands Regional Medical Center (Sebring)] 
+	http://risis.eu/orgref_20170703/resource/34992805.. http://risis.eu/orgref_20170703/resource/24596603.. 0.909090909091..................................... [Firelands Regional Medical Center] was compared to [Highlands Regional Medical Center (Sebring)] 
+	http://risis.eu/orgref_20170703/resource/24596603.. http://risis.eu/orgref_20170703/resource/10874468.. 0.909090909091..................................... [Highlands Regional Medical Center] was compared to [Firelands Regional Medical Center] 
+	http://risis.eu/orgref_20170703/resource/10874468.. http://risis.eu/orgref_20170703/resource/24596603.. 0.909090909091..................................... [Highlands Regional Medical Center] was compared to [Firelands Regional Medical Center] 
+	http://www.grid.ac/institutes/grid.428563.e........ http://risis.eu/orgref_20170703/resource/34992805.. 0.909090909091..................................... [Firelands Regional Medical Center] was compared to [Highlands Regional Medical Center (Sebring)] 
+	http://risis.eu/orgref_20170703/resource/34992805.. http://www.grid.ac/institutes/grid.428563.e........ 0.909090909091..................................... [Firelands Regional Medical Center] was compared to [Highlands Regional Medical Center (Sebring)] 
+	http://www.grid.ac/institutes/grid.428563.e........ http://risis.eu/orgref_20170703/resource/10874468.. 0.909090909091..................................... [Firelands Regional Medical Center] was compared to [Highlands Regional Medical Center] 
+	http://risis.eu/orgref_20170703/resource/10874468.. http://www.grid.ac/institutes/grid.428563.e........ 0.909090909091..................................... [Firelands Regional Medical Center] was compared to [Highlands Regional Medical Center] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.428563.e........ -82.71189.......................................... 
+	http://www.grid.ac/institutes/grid.428563.e........ 41.43719........................................... 
+	http://www.grid.ac/institutes/grid.428563.e........ https://www.firelands.com/......................... 
+	http://www.grid.ac/institutes/grid.428563.e........ Firelands Community Hospital....................... 
+	http://www.grid.ac/institutes/grid.428563.e........ Firelands Regional Medical Center.................. 
+	http://risis.eu/orgref_20170703/resource/24596603.. http://en.wikipedia.org/wiki?curid=24596603........ 
+	http://risis.eu/orgref_20170703/resource/24596603.. http://www.wikidata.org/wiki/Q5451881.............. 
+	http://risis.eu/orgref_20170703/resource/24596603.. http://www.firelands.com........................... 
+	http://risis.eu/orgref_20170703/resource/24596603.. Firelands Regional Medical Center.................. 
+	http://risis.eu/orgref_20170703/resource/10874468.. http://en.wikipedia.org/wiki?curid=10874468........ 
+	http://risis.eu/orgref_20170703/resource/10874468.. http://www.wikidata.org/wiki/Q5759409.............. 
+	http://risis.eu/orgref_20170703/resource/10874468.. http://www.hrmc.org................................ 
+	http://risis.eu/orgref_20170703/resource/10874468.. Highlands Regional Medical Center.................. 
+	http://risis.eu/orgref_20170703/resource/34992805.. http://en.wikipedia.org/wiki?curid=34992805........ 
+	http://risis.eu/orgref_20170703/resource/34992805.. http://www.wikidata.org/wiki/Q14685896............. 
+	http://risis.eu/orgref_20170703/resource/34992805.. http://www.highlandsregional.com................... 
+	http://risis.eu/orgref_20170703/resource/34992805.. Highlands Regional Medical Center (Sebring)........ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:24596603', '1:grid.428563.e'), ('3:10874468', '1:grid.428563.e'), ('3:10874468', '2:24596603'), ('4:34992805', '1:grid.428563.e'), ('4:34992805', '2:24596603'), ('4:34992805', '3:10874468')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

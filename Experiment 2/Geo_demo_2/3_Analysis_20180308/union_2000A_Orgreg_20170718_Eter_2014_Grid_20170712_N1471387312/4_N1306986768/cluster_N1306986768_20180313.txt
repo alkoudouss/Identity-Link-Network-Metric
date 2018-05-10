@@ -1,0 +1,72 @@
+SIZE    4   
+CLUSTER 1057 
+NAME    N1306986768
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.439251.8>
+	<http://risis.eu/eter_2014/resource/TR0153>
+	<http://risis.eu/eter_2014/resource/TR0162>
+	<http://www.grid.ac/institutes/grid.8302.9>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.439251.8.. http://risis.eu/eter_2014/resource/TR0153.... 0.75......................................... [sifa university] was compared to [yasar university] 
+	http://www.grid.ac/institutes/grid.439251.8.. http://risis.eu/eter_2014/resource/TR0162.... 1............................................ [yasar university] was compared to [yasar university] 
+	http://www.grid.ac/institutes/grid.439251.8.. http://risis.eu/eter_2014/resource/TR0162.... 0.833333333333............................... [yasar university] was compared to [yasar university] 
+	http://www.grid.ac/institutes/grid.439251.8.. http://risis.eu/eter_2014/resource/TR0162.... 0.833333333333............................... [yasar universitesi] was compared to [yasar university] 
+	http://www.grid.ac/institutes/grid.439251.8.. http://risis.eu/eter_2014/resource/TR0162.... 1............................................ [yasar universitesi] was compared to [yasar university] 
+	http://risis.eu/eter_2014/resource/TR0153.... http://www.grid.ac/institutes/grid.8302.9.... 0.733333333333............................... [sifa university] was compared to [ege university] 
+	http://risis.eu/eter_2014/resource/TR0153.... http://www.grid.ac/institutes/grid.439251.8.. 0.75......................................... [sifa university] was compared to [yasar university] 
+	http://risis.eu/eter_2014/resource/TR0162.... http://www.grid.ac/institutes/grid.439251.8.. 1............................................ [yasar university] was compared to [yasar university] 
+	http://risis.eu/eter_2014/resource/TR0162.... http://www.grid.ac/institutes/grid.439251.8.. 0.833333333333............................... [yasar university] was compared to [yasar university] 
+	http://risis.eu/eter_2014/resource/TR0162.... http://www.grid.ac/institutes/grid.439251.8.. 0.833333333333............................... [yasar universitesi] was compared to [yasar university] 
+	http://risis.eu/eter_2014/resource/TR0162.... http://www.grid.ac/institutes/grid.439251.8.. 1............................................ [yasar universitesi] was compared to [yasar university] 
+	http://www.grid.ac/institutes/grid.8302.9.... http://risis.eu/eter_2014/resource/TR0153.... 0.733333333333............................... [sifa university] was compared to [ege university] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 21 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.439251.8.. 27.203642.................................... 
+	http://www.grid.ac/institutes/grid.439251.8.. 38.454063.................................... 
+	http://www.grid.ac/institutes/grid.439251.8.. http://www.yasar.edu.tr/..................... 
+	http://www.grid.ac/institutes/grid.439251.8.. Yaşar Üniversitesi......................... 
+	http://www.grid.ac/institutes/grid.439251.8.. Yaşar University............................ 
+	http://risis.eu/eter_2014/resource/TR0153.... 38,450285.................................... 
+	http://risis.eu/eter_2014/resource/TR0153.... 27,205876.................................... 
+	http://risis.eu/eter_2014/resource/TR0153.... http://www.sifa.edu.tr....................... 
+	http://risis.eu/eter_2014/resource/TR0153.... a............................................ 
+	http://risis.eu/eter_2014/resource/TR0153.... Sifa University.............................. 
+	http://risis.eu/eter_2014/resource/TR0153.... ŞIFA ÜNIVERSITESI.......................... 
+	http://risis.eu/eter_2014/resource/TR0162.... 38,450285.................................... 
+	http://risis.eu/eter_2014/resource/TR0162.... 27,205876.................................... 
+	http://risis.eu/eter_2014/resource/TR0162.... http://www.yasar.edu.tr...................... 
+	http://risis.eu/eter_2014/resource/TR0162.... a............................................ 
+	http://risis.eu/eter_2014/resource/TR0162.... Yasar University............................. 
+	http://risis.eu/eter_2014/resource/TR0162.... YAŞAR ÜNIVERSITESI......................... 
+	http://www.grid.ac/institutes/grid.8302.9.... 27.2117...................................... 
+	http://www.grid.ac/institutes/grid.8302.9.... 38.4539...................................... 
+	http://www.grid.ac/institutes/grid.8302.9.... http://www.ege.edu.tr/....................... 
+	http://www.grid.ac/institutes/grid.8302.9.... Ege University............................... 
+
+NETWORK ANALYSIS
+	NETWORK [('N790985565-TR0153', 'N1306986768-grid.439251.8'), ('P1406154411-TR0162', 'N1306986768-grid.439251.8'), ('N790985565-TR0153', 'P1742923358-grid.8302.9')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

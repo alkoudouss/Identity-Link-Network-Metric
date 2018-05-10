@@ -1,0 +1,54 @@
+SIZE    3   
+CLUSTER 655 
+NAME    N2027851652
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.474389.5>
+	<http://risis.eu/orgreg_20170718/resource/IL2001>
+	<http://www.grid.ac/institutes/grid.460042.4>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.474389.5...... http://risis.eu/orgreg_20170718/resource/IL2001.. 1................................................ Near each other by at most 50 meter(s)........... 
+	http://risis.eu/orgreg_20170718/resource/IL2001.. http://www.grid.ac/institutes/grid.460042.4...... 1................................................ Near each other by at most 50 meter(s)........... 
+	http://risis.eu/orgreg_20170718/resource/IL2001.. http://www.grid.ac/institutes/grid.474389.5...... 1................................................ Near each other by at most 50 meter(s)........... 
+	http://www.grid.ac/institutes/grid.460042.4...... http://risis.eu/orgreg_20170718/resource/IL2001.. 1................................................ Near each other by at most 50 meter(s)........... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.474389.5...... 34.84395......................................... 
+	http://www.grid.ac/institutes/grid.474389.5...... 32.048595........................................ 
+	http://www.grid.ac/institutes/grid.474389.5...... http://www.jnjcareers.co.il/jjcareers-media...... 
+	http://www.grid.ac/institutes/grid.474389.5...... Johnson&Johnson (Israel)......................... 
+	http://risis.eu/orgreg_20170718/resource/IL2001.. 34.843706........................................ 
+	http://risis.eu/orgreg_20170718/resource/IL2001.. 32.04855......................................... 
+	http://risis.eu/orgreg_20170718/resource/IL2001.. https://eng.sheba.co.il/......................... 
+	http://risis.eu/orgreg_20170718/resource/IL2001.. Chaim Sheba Medical Center....................... 
+	http://www.grid.ac/institutes/grid.460042.4...... 34.843884........................................ 
+	http://www.grid.ac/institutes/grid.460042.4...... 32.048298........................................ 
+	http://www.grid.ac/institutes/grid.460042.4...... http://safra.sheba.co.il/........................ 
+	http://www.grid.ac/institutes/grid.460042.4...... Edmond and Lily Safra Children's Hospital........ 
+
+NETWORK ANALYSIS
+	NETWORK [('N759626269-IL2001', 'N1044502664-grid.474389.5'), ('N759626269-IL2001', 'N2027851652-grid.460042.4')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

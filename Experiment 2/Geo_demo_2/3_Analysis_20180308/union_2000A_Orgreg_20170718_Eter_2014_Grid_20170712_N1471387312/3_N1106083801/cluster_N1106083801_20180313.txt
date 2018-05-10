@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 413 
+NAME    N1106083801
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/CH0024>
+	<http://www.grid.ac/institutes/grid.469449.2>
+	<http://risis.eu/eter_2014/resource/CH0024>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/CH0024.. http://risis.eu/eter_2014/resource/CH0024........ 0.979166666667................................... [university teacher education bern	 jura fribourg] was compared to [university teacher education bern jura fribourg] 
+	http://www.grid.ac/institutes/grid.469449.2...... http://risis.eu/eter_2014/resource/CH0024........ 1................................................ [haute ecole pedagogique bejune] was compared to [haute ecole pedagogique bejune] 
+	http://risis.eu/eter_2014/resource/CH0024........ http://www.grid.ac/institutes/grid.469449.2...... 1................................................ [haute ecole pedagogique bejune] was compared to [haute ecole pedagogique bejune] 
+	http://risis.eu/eter_2014/resource/CH0024........ http://risis.eu/orgreg_20170718/resource/CH0024.. 0.979166666667................................... [university teacher education bern	 jura fribourg] was compared to [university teacher education bern jura fribourg] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/CH0024.. 7.07388.......................................... 
+	http://risis.eu/orgreg_20170718/resource/CH0024.. 47.422554........................................ 
+	http://risis.eu/orgreg_20170718/resource/CH0024.. http://www.hep-bejune.ch......................... 
+	http://risis.eu/orgreg_20170718/resource/CH0024.. University of teacher Education of Bern	 Jura and Fribourg 
+	http://www.grid.ac/institutes/grid.469449.2...... 7.07603.......................................... 
+	http://www.grid.ac/institutes/grid.469449.2...... 47.41103......................................... 
+	http://www.grid.ac/institutes/grid.469449.2...... http://www.hep-bejune.ch/........................ 
+	http://www.grid.ac/institutes/grid.469449.2...... Haute École Pédagogique BEJUNE................. 
+	http://risis.eu/eter_2014/resource/CH0024........ 47,422554........................................ 
+	http://risis.eu/eter_2014/resource/CH0024........ 7,07388.......................................... 
+	http://risis.eu/eter_2014/resource/CH0024........ http://www.hep-bejune.ch......................... 
+	http://risis.eu/eter_2014/resource/CH0024........ a................................................ 
+	http://risis.eu/eter_2014/resource/CH0024........ University of teacher Education of Bern, Jura and Fribourg 
+	http://risis.eu/eter_2014/resource/CH0024........ Haute école pédagogique BEJUNE................. 
+
+NETWORK ANALYSIS
+	NETWORK [('N1106083801-CH0024', 'P1657330642-grid.469449.2'), ('N1106083801-CH0024', 'P1617718042-CH0024')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

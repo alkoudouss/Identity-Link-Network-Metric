@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 9910 
+NAME    N1819722372
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/PT0004>
+	<http://risis.eu/leidenRanking_2015/resource/550>
+	<http://www.grid.ac/institutes/grid.7427.6>
+	<http://risis.eu/orgref_20170703/resource/524691>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.7427.6........ http://risis.eu/orgref_20170703/resource/524691.. 1................................................ [University of Beira Interior] was compared to [University of Beira Interior] 
+	http://risis.eu/orgref_20170703/resource/524691.. http://www.grid.ac/institutes/grid.7427.6........ 1................................................ [University of Beira Interior] was compared to [University of Beira Interior] 
+	http://risis.eu/leidenRanking_2015/resource/550.. http://www.grid.ac/institutes/grid.7427.6........ 1................................................ [University of Beira Interior] was compared to [University of Beira Interior] 
+	http://www.grid.ac/institutes/grid.7427.6........ http://risis.eu/leidenRanking_2015/resource/550.. 1................................................ [University of Beira Interior] was compared to [University of Beira Interior] 
+	http://risis.eu/leidenRanking_2015/resource/550.. http://risis.eu/orgref_20170703/resource/524691.. 1................................................ [University of Beira Interior] was compared to [University of Beira Interior] 
+	http://risis.eu/orgref_20170703/resource/524691.. http://risis.eu/leidenRanking_2015/resource/550.. 1................................................ [University of Beira Interior] was compared to [University of Beira Interior] 
+	http://risis.eu/orgreg_20170718/resource/PT0004.. http://risis.eu/leidenRanking_2015/resource/550.. 1................................................ [University of Beira Interior] was compared to [University of Beira Interior] 
+	http://risis.eu/leidenRanking_2015/resource/550.. http://risis.eu/orgreg_20170718/resource/PT0004.. 1................................................ [University of Beira Interior] was compared to [University of Beira Interior] 
+	http://risis.eu/orgreg_20170718/resource/PT0004.. http://risis.eu/orgref_20170703/resource/524691.. 1................................................ [University of Beira Interior] was compared to [University of Beira Interior] 
+	http://risis.eu/orgref_20170703/resource/524691.. http://risis.eu/orgreg_20170718/resource/PT0004.. 1................................................ [University of Beira Interior] was compared to [University of Beira Interior] 
+	http://risis.eu/orgreg_20170718/resource/PT0004.. http://www.grid.ac/institutes/grid.7427.6........ 1................................................ [University of Beira Interior] was compared to [University of Beira Interior] 
+	http://www.grid.ac/institutes/grid.7427.6........ http://risis.eu/orgreg_20170718/resource/PT0004.. 1................................................ [University of Beira Interior] was compared to [University of Beira Interior] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/PT0004.. -7.5............................................. 
+	http://risis.eu/orgreg_20170718/resource/PT0004.. 40.283333........................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0004.. http://www.ubi.pt................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0004.. University of Beira Interior..................... 
+	http://risis.eu/leidenRanking_2015/resource/550.. University of Beira Interior..................... 
+	http://www.grid.ac/institutes/grid.7427.6........ -7.50887......................................... 
+	http://www.grid.ac/institutes/grid.7427.6........ 40.27738......................................... 
+	http://www.grid.ac/institutes/grid.7427.6........ https://www.ubi.pt/.............................. 
+	http://www.grid.ac/institutes/grid.7427.6........ University of Beira Interior..................... 
+	http://risis.eu/orgref_20170703/resource/524691.. http://en.wikipedia.org/wiki?curid=524691........ 
+	http://risis.eu/orgref_20170703/resource/524691.. http://www.wikidata.org/wiki/Q846725............. 
+	http://risis.eu/orgref_20170703/resource/524691.. http://www.ubi.pt/en............................. 
+	http://risis.eu/orgref_20170703/resource/524691.. University of Beira Interior..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:550', '1:PT0004'), ('2:550', '3:grid.7427.6'), ('2:550', '4:524691'), ('3:grid.7427.6', '1:PT0004'), ('4:524691', '1:PT0004'), ('4:524691', '3:grid.7427.6')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

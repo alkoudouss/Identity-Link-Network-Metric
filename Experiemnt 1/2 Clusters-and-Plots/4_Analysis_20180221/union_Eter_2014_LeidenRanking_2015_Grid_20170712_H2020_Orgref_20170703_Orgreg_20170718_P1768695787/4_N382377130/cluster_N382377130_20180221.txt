@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 10976 
+NAME    N382377130
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.422286.8>
+	<http://risis.eu/orgref_20170703/resource/47000463>
+	<http://www.grid.ac/institutes/grid.460287.f>
+	<http://risis.eu/orgref_20170703/resource/784514>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.422286.8........ http://risis.eu/orgref_20170703/resource/784514.... 1.................................................. [National Library of Scotland] was compared to [National Library of Scotland] 
+	http://risis.eu/orgref_20170703/resource/784514.... http://www.grid.ac/institutes/grid.422286.8........ 1.................................................. [National Library of Scotland] was compared to [National Library of Scotland] 
+	http://risis.eu/orgref_20170703/resource/47000463.. http://www.grid.ac/institutes/grid.460287.f........ 1.................................................. [National Library of Poland] was compared to [National Library of Poland] 
+	http://www.grid.ac/institutes/grid.460287.f........ http://risis.eu/orgref_20170703/resource/47000463.. 1.................................................. [National Library of Poland] was compared to [National Library of Poland] 
+	http://risis.eu/orgref_20170703/resource/47000463.. http://risis.eu/orgref_20170703/resource/784514.... 0.88............................................... [National Library of Poland] was compared to [National Library of Scotland] 
+	http://risis.eu/orgref_20170703/resource/784514.... http://risis.eu/orgref_20170703/resource/47000463.. 0.88............................................... [National Library of Poland] was compared to [National Library of Scotland] 
+	http://www.grid.ac/institutes/grid.422286.8........ http://www.grid.ac/institutes/grid.460287.f........ 0.88............................................... [National Library of Scotland] was compared to [National Library of Poland] 
+	http://www.grid.ac/institutes/grid.460287.f........ http://www.grid.ac/institutes/grid.422286.8........ 0.88............................................... [National Library of Scotland] was compared to [National Library of Poland] 
+	http://www.grid.ac/institutes/grid.422286.8........ http://risis.eu/orgref_20170703/resource/47000463.. 0.88............................................... [National Library of Scotland] was compared to [National Library of Poland] 
+	http://risis.eu/orgref_20170703/resource/47000463.. http://www.grid.ac/institutes/grid.422286.8........ 0.88............................................... [National Library of Scotland] was compared to [National Library of Poland] 
+	http://www.grid.ac/institutes/grid.460287.f........ http://risis.eu/orgref_20170703/resource/784514.... 0.88............................................... [National Library of Poland] was compared to [National Library of Scotland] 
+	http://risis.eu/orgref_20170703/resource/784514.... http://www.grid.ac/institutes/grid.460287.f........ 0.88............................................... [National Library of Poland] was compared to [National Library of Scotland] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.422286.8........ National Library of Scotland....................... 
+	http://risis.eu/orgref_20170703/resource/47000463.. http://en.wikipedia.org/wiki?curid=5156876......... 
+	http://risis.eu/orgref_20170703/resource/47000463.. http://www.wikidata.org/wiki/Q856423............... 
+	http://risis.eu/orgref_20170703/resource/47000463.. http://www.bn.org.pl............................... 
+	http://risis.eu/orgref_20170703/resource/47000463.. National Library of Poland......................... 
+	http://www.grid.ac/institutes/grid.460287.f........ 21.00315........................................... 
+	http://www.grid.ac/institutes/grid.460287.f........ 52.21425........................................... 
+	http://www.grid.ac/institutes/grid.460287.f........ http://www.bn.org.pl/.............................. 
+	http://www.grid.ac/institutes/grid.460287.f........ Biblioteka Narodowa................................ 
+	http://www.grid.ac/institutes/grid.460287.f........ National Library of Poland......................... 
+	http://risis.eu/orgref_20170703/resource/784514.... http://en.wikipedia.org/wiki?curid=784514.......... 
+	http://risis.eu/orgref_20170703/resource/784514.... http://www.wikidata.org/wiki/Q1670994.............. 
+	http://risis.eu/orgref_20170703/resource/784514.... http://www.nls.uk.................................. 
+	http://risis.eu/orgref_20170703/resource/784514.... National Library of Scotland....................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:47000463', '1:grid.422286.8'), ('2:47000463', '3:grid.460287.f'), ('3:grid.460287.f', '1:grid.422286.8'), ('4:784514', '1:grid.422286.8'), ('4:784514', '2:47000463'), ('4:784514', '3:grid.460287.f')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

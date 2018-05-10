@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 17917 
+NAME    N1910338356
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.1013.3>
+	<http://risis.eu/orgref_20170703/resource/31928>
+	<http://risis.eu/cordisH2020/resource/participant_998403929>
+	<http://risis.eu/leidenRanking_2015/resource/1062>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.1013.3................... http://risis.eu/orgref_20170703/resource/31928.............. 1........................................................... [University of Sydney] was compared to [University of Sydney] 
+	http://risis.eu/orgref_20170703/resource/31928.............. http://www.grid.ac/institutes/grid.1013.3................... 1........................................................... [University of Sydney] was compared to [University of Sydney] 
+	http://www.grid.ac/institutes/grid.1013.3................... http://risis.eu/leidenRanking_2015/resource/1062............ 1........................................................... [University of Sydney] was compared to [University of Sydney] 
+	http://risis.eu/leidenRanking_2015/resource/1062............ http://www.grid.ac/institutes/grid.1013.3................... 1........................................................... [University of Sydney] was compared to [University of Sydney] 
+	http://www.grid.ac/institutes/grid.1013.3................... http://risis.eu/cordisH2020/resource/participant_998403929.. 1........................................................... [University of Sydney] was compared to [THE UNIVERSITY OF SYDNEY] 
+	http://risis.eu/cordisH2020/resource/participant_998403929.. http://www.grid.ac/institutes/grid.1013.3................... 1........................................................... [University of Sydney] was compared to [THE UNIVERSITY OF SYDNEY] 
+	http://risis.eu/orgref_20170703/resource/31928.............. http://risis.eu/leidenRanking_2015/resource/1062............ 1........................................................... [University of Sydney] was compared to [University of Sydney] 
+	http://risis.eu/leidenRanking_2015/resource/1062............ http://risis.eu/orgref_20170703/resource/31928.............. 1........................................................... [University of Sydney] was compared to [University of Sydney] 
+	http://risis.eu/orgref_20170703/resource/31928.............. http://risis.eu/cordisH2020/resource/participant_998403929.. 1........................................................... [University of Sydney] was compared to [THE UNIVERSITY OF SYDNEY] 
+	http://risis.eu/cordisH2020/resource/participant_998403929.. http://risis.eu/orgref_20170703/resource/31928.............. 1........................................................... [University of Sydney] was compared to [THE UNIVERSITY OF SYDNEY] 
+	http://risis.eu/cordisH2020/resource/participant_998403929.. http://risis.eu/leidenRanking_2015/resource/1062............ 1........................................................... [THE UNIVERSITY OF SYDNEY] was compared to [University of Sydney] 
+	http://risis.eu/leidenRanking_2015/resource/1062............ http://risis.eu/cordisH2020/resource/participant_998403929.. 1........................................................... [THE UNIVERSITY OF SYDNEY] was compared to [University of Sydney] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.1013.3................... 151.1873.................................................... 
+	http://www.grid.ac/institutes/grid.1013.3................... -33.88858................................................... 
+	http://www.grid.ac/institutes/grid.1013.3................... http://sydney.edu.au/....................................... 
+	http://www.grid.ac/institutes/grid.1013.3................... Sydney University........................................... 
+	http://www.grid.ac/institutes/grid.1013.3................... University of Sydney........................................ 
+	http://risis.eu/orgref_20170703/resource/31928.............. http://en.wikipedia.org/wiki?curid=31928.................... 
+	http://risis.eu/orgref_20170703/resource/31928.............. http://www.wikidata.org/wiki/Q487556........................ 
+	http://risis.eu/orgref_20170703/resource/31928.............. http://sydney.edu.au........................................ 
+	http://risis.eu/orgref_20170703/resource/31928.............. University of Sydney........................................ 
+	http://risis.eu/cordisH2020/resource/participant_998403929.. http://risis.eu/cordisH2020/resource/www.usyd.edu.au/....... 
+	http://risis.eu/cordisH2020/resource/participant_998403929.. THE UNIVERSITY OF SYDNEY.................................... 
+	http://risis.eu/leidenRanking_2015/resource/1062............ University of Sydney........................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:31928', '1:grid.1013.3'), ('3:participant_998403929', '1:grid.1013.3'), ('3:participant_998403929', '2:31928'), ('4:1062', '1:grid.1013.3'), ('4:1062', '2:31928'), ('4:1062', '3:participant_998403929')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,59 @@
+SIZE    4   
+CLUSTER 6104 
+NAME    N1160308773
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/12640625>
+	<http://risis.eu/orgref_20170703/resource/13232114>
+	<http://www.grid.ac/institutes/grid.459403.f>
+	<http://www.grid.ac/institutes/grid.440550.0>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/12640625.. http://www.grid.ac/institutes/grid.440550.0........ 1.................................................. [Babasaheb Bhimrao Ambedkar University] was compared to [Babasaheb Bhimrao Ambedkar University] 
+	http://www.grid.ac/institutes/grid.440550.0........ http://risis.eu/orgref_20170703/resource/12640625.. 1.................................................. [Babasaheb Bhimrao Ambedkar University] was compared to [Babasaheb Bhimrao Ambedkar University] 
+	http://risis.eu/orgref_20170703/resource/13232114.. http://www.grid.ac/institutes/grid.459403.f........ 1.................................................. [Babasaheb Bhimrao Ambedkar Bihar University] was compared to [Babasaheb Bhimrao Ambedkar Bihar University] 
+	http://www.grid.ac/institutes/grid.459403.f........ http://risis.eu/orgref_20170703/resource/13232114.. 1.................................................. [Babasaheb Bhimrao Ambedkar Bihar University] was compared to [Babasaheb Bhimrao Ambedkar Bihar University] 
+	http://risis.eu/orgref_20170703/resource/12640625.. http://risis.eu/orgref_20170703/resource/13232114.. 0.860465116279..................................... [Babasaheb Bhimrao Ambedkar University] was compared to [Babasaheb Bhimrao Ambedkar Bihar University] 
+	http://risis.eu/orgref_20170703/resource/13232114.. http://risis.eu/orgref_20170703/resource/12640625.. 0.860465116279..................................... [Babasaheb Bhimrao Ambedkar University] was compared to [Babasaheb Bhimrao Ambedkar Bihar University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/12640625.. http://en.wikipedia.org/wiki?curid=12640625........ 
+	http://risis.eu/orgref_20170703/resource/12640625.. http://www.wikidata.org/wiki/Q797585............... 
+	http://risis.eu/orgref_20170703/resource/12640625.. http://www.bbau.ac.in.............................. 
+	http://risis.eu/orgref_20170703/resource/12640625.. Babasaheb Bhimrao Ambedkar University.............. 
+	http://risis.eu/orgref_20170703/resource/13232114.. http://en.wikipedia.org/wiki?curid=13232114........ 
+	http://risis.eu/orgref_20170703/resource/13232114.. http://www.wikidata.org/wiki/Q4834154.............. 
+	http://risis.eu/orgref_20170703/resource/13232114.. http://www.brabu.net............................... 
+	http://risis.eu/orgref_20170703/resource/13232114.. Babasaheb Bhimrao Ambedkar Bihar University........ 
+	http://www.grid.ac/institutes/grid.459403.f........ 85.37841........................................... 
+	http://www.grid.ac/institutes/grid.459403.f........ 26.113558.......................................... 
+	http://www.grid.ac/institutes/grid.459403.f........ http://www.brabu.net/.............................. 
+	http://www.grid.ac/institutes/grid.459403.f........ B. R. Ambedkar Bihar University.................... 
+	http://www.grid.ac/institutes/grid.459403.f........ Babasaheb Bhimrao Ambedkar Bihar University........ 
+	http://www.grid.ac/institutes/grid.440550.0........ Babasaheb Bhimrao Ambedkar University.............. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:13232114', '1:12640625'), ('3:grid.459403.f', '2:13232114'), ('4:grid.440550.0', '1:12640625')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 1674 
+NAME    N481215220
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/PT0090>
+	<http://www.grid.ac/institutes/grid.410986.2>
+	<http://risis.eu/eter_2014/resource/PT0090>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/PT0090.. http://risis.eu/eter_2014/resource/PT0090........ 1................................................ [joao deus higher school education] was compared to [joao deus higher school education] 
+	http://www.grid.ac/institutes/grid.410986.2...... http://risis.eu/eter_2014/resource/PT0090........ 1................................................ [escola superior educacao joao deus] was compared to [escola superior educacao joao deus] 
+	http://risis.eu/eter_2014/resource/PT0090........ http://www.grid.ac/institutes/grid.410986.2...... 1................................................ [escola superior educacao joao deus] was compared to [escola superior educacao joao deus] 
+	http://risis.eu/eter_2014/resource/PT0090........ http://risis.eu/orgreg_20170718/resource/PT0090.. 1................................................ [joao deus higher school education] was compared to [joao deus higher school education] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/PT0090.. -9.1393366....................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0090.. 38.7222524....................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0090.. http://www.joaodedeus.pt......................... 
+	http://risis.eu/orgreg_20170718/resource/PT0090.. João de Deus Higher School of Education......... 
+	http://www.grid.ac/institutes/grid.410986.2...... -9.156757........................................ 
+	http://www.grid.ac/institutes/grid.410986.2...... 38.717564........................................ 
+	http://www.grid.ac/institutes/grid.410986.2...... http://www.joaodedeus.pt/........................ 
+	http://www.grid.ac/institutes/grid.410986.2...... Escola Superior de Educação de João de Deus... 
+	http://risis.eu/eter_2014/resource/PT0090........ 38,7222524....................................... 
+	http://risis.eu/eter_2014/resource/PT0090........ -9,1393366....................................... 
+	http://risis.eu/eter_2014/resource/PT0090........ http://www.joaodedeus.pt......................... 
+	http://risis.eu/eter_2014/resource/PT0090........ a................................................ 
+	http://risis.eu/eter_2014/resource/PT0090........ João de Deus Higher School of Education......... 
+	http://risis.eu/eter_2014/resource/PT0090........ Escola Superior de Educação de João de Deus... 
+
+NETWORK ANALYSIS
+	NETWORK [('P1738472911-PT0090', 'N481215220-grid.410986.2'), ('P1738472911-PT0090', 'P1331534298-PT0090')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

@@ -1,0 +1,70 @@
+SIZE    5   
+CLUSTER 15024 
+NAME    N2122235320
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.455848.0>
+	<http://www.grid.ac/institutes/grid.481854.4>
+	<http://www.grid.ac/institutes/grid.425476.6>
+	<http://www.grid.ac/institutes/grid.421439.9>
+	<http://www.grid.ac/institutes/grid.435246.2>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.481854.4.. http://www.grid.ac/institutes/grid.425476.6.. 0.947368421053............................... [Marion Technologies (France)] was compared to [Mirion Technologies (France)] 
+	http://www.grid.ac/institutes/grid.425476.6.. http://www.grid.ac/institutes/grid.481854.4.. 0.947368421053............................... [Marion Technologies (France)] was compared to [Mirion Technologies (France)] 
+	http://www.grid.ac/institutes/grid.455848.0.. http://www.grid.ac/institutes/grid.425476.6.. 0.947368421053............................... [Marion Technologies (France)] was compared to [Mirion Technologies (United States)] 
+	http://www.grid.ac/institutes/grid.425476.6.. http://www.grid.ac/institutes/grid.455848.0.. 0.947368421053............................... [Marion Technologies (France)] was compared to [Mirion Technologies (United States)] 
+	http://www.grid.ac/institutes/grid.455848.0.. http://www.grid.ac/institutes/grid.481854.4.. 1............................................ [Mirion Technologies (United States)] was compared to [Mirion Technologies (France)] 
+	http://www.grid.ac/institutes/grid.481854.4.. http://www.grid.ac/institutes/grid.455848.0.. 1............................................ [Mirion Technologies (United States)] was compared to [Mirion Technologies (France)] 
+	http://www.grid.ac/institutes/grid.481854.4.. http://www.grid.ac/institutes/grid.421439.9.. 0.894736842105............................... [Mircom Technologies (Canada)] was compared to [Mirion Technologies (France)] 
+	http://www.grid.ac/institutes/grid.421439.9.. http://www.grid.ac/institutes/grid.481854.4.. 0.894736842105............................... [Mircom Technologies (Canada)] was compared to [Mirion Technologies (France)] 
+	http://www.grid.ac/institutes/grid.455848.0.. http://www.grid.ac/institutes/grid.421439.9.. 0.894736842105............................... [Mircom Technologies (Canada)] was compared to [Mirion Technologies (United States)] 
+	http://www.grid.ac/institutes/grid.421439.9.. http://www.grid.ac/institutes/grid.455848.0.. 0.894736842105............................... [Mircom Technologies (Canada)] was compared to [Mirion Technologies (United States)] 
+	http://www.grid.ac/institutes/grid.425476.6.. http://www.grid.ac/institutes/grid.435246.2.. 0.894736842105............................... [Marion Technologies (France)] was compared to [Acrion Technologies (United States)] 
+	http://www.grid.ac/institutes/grid.435246.2.. http://www.grid.ac/institutes/grid.425476.6.. 0.894736842105............................... [Marion Technologies (France)] was compared to [Acrion Technologies (United States)] 
+	http://www.grid.ac/institutes/grid.481854.4.. http://www.grid.ac/institutes/grid.435246.2.. 0.894736842105............................... [Acrion Technologies (United States)] was compared to [Mirion Technologies (France)] 
+	http://www.grid.ac/institutes/grid.435246.2.. http://www.grid.ac/institutes/grid.481854.4.. 0.894736842105............................... [Acrion Technologies (United States)] was compared to [Mirion Technologies (France)] 
+	http://www.grid.ac/institutes/grid.455848.0.. http://www.grid.ac/institutes/grid.435246.2.. 0.894736842105............................... [Acrion Technologies (United States)] was compared to [Mirion Technologies (United States)] 
+	http://www.grid.ac/institutes/grid.435246.2.. http://www.grid.ac/institutes/grid.455848.0.. 0.894736842105............................... [Acrion Technologies (United States)] was compared to [Mirion Technologies (United States)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.455848.0.. -121.968414.................................. 
+	http://www.grid.ac/institutes/grid.455848.0.. 37.768356.................................... 
+	http://www.grid.ac/institutes/grid.455848.0.. https://www.mirion.com/...................... 
+	http://www.grid.ac/institutes/grid.455848.0.. Mirion Technologies (United States).......... 
+	http://www.grid.ac/institutes/grid.481854.4.. 2.424549..................................... 
+	http://www.grid.ac/institutes/grid.481854.4.. 47.13415..................................... 
+	http://www.grid.ac/institutes/grid.481854.4.. https://www.mirion.com/...................... 
+	http://www.grid.ac/institutes/grid.481854.4.. Mirion Technologies (France)................. 
+	http://www.grid.ac/institutes/grid.425476.6.. Marion Technologies (France)................. 
+	http://www.grid.ac/institutes/grid.421439.9.. -79.52925.................................... 
+	http://www.grid.ac/institutes/grid.421439.9.. 43.78926..................................... 
+	http://www.grid.ac/institutes/grid.421439.9.. http://www.mircom.com/....................... 
+	http://www.grid.ac/institutes/grid.421439.9.. Mircom Technologies (Canada)................. 
+	http://www.grid.ac/institutes/grid.435246.2.. Acrion Technologies (United States).......... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.455848.0', '4:grid.421439.9'), ('1:grid.455848.0', '5:grid.435246.2'), ('2:grid.481854.4', '1:grid.455848.0'), ('2:grid.481854.4', '3:grid.425476.6'), ('2:grid.481854.4', '5:grid.435246.2'), ('3:grid.425476.6', '1:grid.455848.0'), ('4:grid.421439.9', '2:grid.481854.4'), ('5:grid.435246.2', '3:grid.425476.6')]
+	MAX DISTANCE:                   : 0.8
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 2.7
+	AVERAGE NODE CONNECTIVITY RATIO : 0.675
+	BRIDGES                         : 0
+	CLOSURE                         : 0.8
+	DIAMETER                        : 2
+	QUALITY                         : 0.178
+	QUALITY USED                    : 0.195
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.2 DIAMETER 0.333 QUALITY 0.178 QUALITY USED 0.195
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.2 DIAMETER 0.385 QUALITY 0.178 QUALITY USED 0.195

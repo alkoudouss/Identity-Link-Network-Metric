@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 2875 
+NAME    P333562602
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.411798.2>
+	<http://risis.eu/orgref_20170703/resource/40203890>
+	<http://www.grid.ac/institutes/grid.150338.c>
+	<http://risis.eu/orgreg_20170718/resource/CH2004>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/40203890.. http://www.grid.ac/institutes/grid.150338.c........ 1.................................................. [University Hospital of Geneva] was compared to [Geneva University Hospital] 
+	http://www.grid.ac/institutes/grid.150338.c........ http://risis.eu/orgref_20170703/resource/40203890.. 1.................................................. [University Hospital of Geneva] was compared to [Geneva University Hospital] 
+	http://risis.eu/orgref_20170703/resource/40203890.. http://risis.eu/orgreg_20170718/resource/CH2004.... 1.................................................. [Geneva University Hospital] was compared to [University Hospital of Geneva] 
+	http://risis.eu/orgreg_20170718/resource/CH2004.... http://risis.eu/orgref_20170703/resource/40203890.. 1.................................................. [Geneva University Hospital] was compared to [University Hospital of Geneva] 
+	http://www.grid.ac/institutes/grid.411798.2........ http://www.grid.ac/institutes/grid.150338.c........ 0.925925925926..................................... [University Hospital of Geneva] was compared to [General University hospital] 
+	http://www.grid.ac/institutes/grid.150338.c........ http://www.grid.ac/institutes/grid.411798.2........ 0.925925925926..................................... [University Hospital of Geneva] was compared to [General University hospital] 
+	http://www.grid.ac/institutes/grid.411798.2........ http://risis.eu/orgref_20170703/resource/40203890.. 0.925925925926..................................... [General University hospital] was compared to [Geneva University Hospital] 
+	http://risis.eu/orgref_20170703/resource/40203890.. http://www.grid.ac/institutes/grid.411798.2........ 0.925925925926..................................... [General University hospital] was compared to [Geneva University Hospital] 
+	http://www.grid.ac/institutes/grid.150338.c........ http://risis.eu/orgreg_20170718/resource/CH2004.... 1.................................................. [University Hospital of Geneva] was compared to [University Hospital of Geneva] 
+	http://risis.eu/orgreg_20170718/resource/CH2004.... http://www.grid.ac/institutes/grid.150338.c........ 1.................................................. [University Hospital of Geneva] was compared to [University Hospital of Geneva] 
+	http://www.grid.ac/institutes/grid.411798.2........ http://risis.eu/orgreg_20170718/resource/CH2004.... 0.925925925926..................................... [General University hospital] was compared to [University Hospital of Geneva] 
+	http://risis.eu/orgreg_20170718/resource/CH2004.... http://www.grid.ac/institutes/grid.411798.2........ 0.925925925926..................................... [General University hospital] was compared to [University Hospital of Geneva] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.411798.2........ 14.420847.......................................... 
+	http://www.grid.ac/institutes/grid.411798.2........ 50.07383........................................... 
+	http://www.grid.ac/institutes/grid.411798.2........ http://www.vfn.cz/................................. 
+	http://www.grid.ac/institutes/grid.411798.2........ Všeobecná Fakultní Nemocnice v Praze............ 
+	http://www.grid.ac/institutes/grid.411798.2........ General University hospital........................ 
+	http://risis.eu/orgref_20170703/resource/40203890.. http://en.wikipedia.org/wiki?curid=40203890........ 
+	http://risis.eu/orgref_20170703/resource/40203890.. http://www.wikidata.org/wiki/Q3145370.............. 
+	http://risis.eu/orgref_20170703/resource/40203890.. http://www.hug-ge.ch............................... 
+	http://risis.eu/orgref_20170703/resource/40203890.. Geneva University Hospital......................... 
+	http://www.grid.ac/institutes/grid.150338.c........ 6.148998........................................... 
+	http://www.grid.ac/institutes/grid.150338.c........ 46.193817.......................................... 
+	http://www.grid.ac/institutes/grid.150338.c........ http://www.hug-ge.ch/.............................. 
+	http://www.grid.ac/institutes/grid.150338.c........ University Hospital of Geneva...................... 
+	http://risis.eu/orgreg_20170718/resource/CH2004.... m.................................................. 
+	http://risis.eu/orgreg_20170718/resource/CH2004.... http://www.hug-ge.ch/.............................. 
+	http://risis.eu/orgreg_20170718/resource/CH2004.... University Hospital of Geneva...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.411798.2', '3:grid.150338.c'), ('2:40203890', '1:grid.411798.2'), ('2:40203890', '3:grid.150338.c'), ('4:CH2004', '1:grid.411798.2'), ('4:CH2004', '2:40203890'), ('4:CH2004', '3:grid.150338.c')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

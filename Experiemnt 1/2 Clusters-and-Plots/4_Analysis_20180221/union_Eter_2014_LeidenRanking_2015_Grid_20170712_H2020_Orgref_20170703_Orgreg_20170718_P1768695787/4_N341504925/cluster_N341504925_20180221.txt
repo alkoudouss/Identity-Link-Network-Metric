@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 13819 
+NAME    N341504925
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.431172.2>
+	<http://risis.eu/orgref_20170703/resource/19347502>
+	<http://www.grid.ac/institutes/grid.431647.3>
+	<http://risis.eu/orgref_20170703/resource/1370191>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.431172.2........ http://www.grid.ac/institutes/grid.431647.3........ 0.931034482759..................................... [Northwestern Michigan College] was compared to [Southwestern Michigan College] 
+	http://www.grid.ac/institutes/grid.431647.3........ http://www.grid.ac/institutes/grid.431172.2........ 0.931034482759..................................... [Northwestern Michigan College] was compared to [Southwestern Michigan College] 
+	http://www.grid.ac/institutes/grid.431172.2........ http://risis.eu/orgref_20170703/resource/19347502.. 0.931034482759..................................... [Northwestern Michigan College] was compared to [Southwestern Michigan College] 
+	http://risis.eu/orgref_20170703/resource/19347502.. http://www.grid.ac/institutes/grid.431172.2........ 0.931034482759..................................... [Northwestern Michigan College] was compared to [Southwestern Michigan College] 
+	http://www.grid.ac/institutes/grid.431172.2........ http://risis.eu/orgref_20170703/resource/1370191... 1.................................................. [Northwestern Michigan College] was compared to [Northwestern Michigan College] 
+	http://risis.eu/orgref_20170703/resource/1370191... http://www.grid.ac/institutes/grid.431172.2........ 1.................................................. [Northwestern Michigan College] was compared to [Northwestern Michigan College] 
+	http://risis.eu/orgref_20170703/resource/19347502.. http://www.grid.ac/institutes/grid.431647.3........ 1.................................................. [Southwestern Michigan College] was compared to [Southwestern Michigan College] 
+	http://www.grid.ac/institutes/grid.431647.3........ http://risis.eu/orgref_20170703/resource/19347502.. 1.................................................. [Southwestern Michigan College] was compared to [Southwestern Michigan College] 
+	http://www.grid.ac/institutes/grid.431647.3........ http://risis.eu/orgref_20170703/resource/1370191... 0.931034482759..................................... [Southwestern Michigan College] was compared to [Northwestern Michigan College] 
+	http://risis.eu/orgref_20170703/resource/1370191... http://www.grid.ac/institutes/grid.431647.3........ 0.931034482759..................................... [Southwestern Michigan College] was compared to [Northwestern Michigan College] 
+	http://risis.eu/orgref_20170703/resource/19347502.. http://risis.eu/orgref_20170703/resource/1370191... 0.931034482759..................................... [Northwestern Michigan College] was compared to [Southwestern Michigan College] 
+	http://risis.eu/orgref_20170703/resource/1370191... http://risis.eu/orgref_20170703/resource/19347502.. 0.931034482759..................................... [Northwestern Michigan College] was compared to [Southwestern Michigan College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.431172.2........ -85.5836........................................... 
+	http://www.grid.ac/institutes/grid.431172.2........ 44.7659............................................ 
+	http://www.grid.ac/institutes/grid.431172.2........ https://www.nmc.edu................................ 
+	http://www.grid.ac/institutes/grid.431172.2........ Northwestern Michigan College...................... 
+	http://risis.eu/orgref_20170703/resource/19347502.. http://en.wikipedia.org/wiki?curid=19347502........ 
+	http://risis.eu/orgref_20170703/resource/19347502.. http://www.wikidata.org/wiki/Q7571432.............. 
+	http://risis.eu/orgref_20170703/resource/19347502.. http://www.swmich.edu.............................. 
+	http://risis.eu/orgref_20170703/resource/19347502.. Southwestern Michigan College...................... 
+	http://www.grid.ac/institutes/grid.431647.3........ -86.08277.......................................... 
+	http://www.grid.ac/institutes/grid.431647.3........ 41.965523.......................................... 
+	http://www.grid.ac/institutes/grid.431647.3........ https://www.swmich.edu/............................ 
+	http://www.grid.ac/institutes/grid.431647.3........ Southwestern Michigan College...................... 
+	http://risis.eu/orgref_20170703/resource/1370191... http://en.wikipedia.org/wiki?curid=1370191......... 
+	http://risis.eu/orgref_20170703/resource/1370191... http://www.wikidata.org/wiki/Q7060343.............. 
+	http://risis.eu/orgref_20170703/resource/1370191... http://www.nmc.edu................................. 
+	http://risis.eu/orgref_20170703/resource/1370191... Northwestern Michigan College...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:19347502', '1:grid.431172.2'), ('2:19347502', '3:grid.431647.3'), ('2:19347502', '4:1370191'), ('3:grid.431647.3', '1:grid.431172.2'), ('4:1370191', '1:grid.431172.2'), ('4:1370191', '3:grid.431647.3')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 17272 
+NAME    N2030188923
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.253152.2>
+	<http://risis.eu/orgref_20170703/resource/20228031>
+	<http://www.grid.ac/institutes/grid.462090.9>
+	<http://risis.eu/orgref_20170703/resource/2894791>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.253152.2........ http://www.grid.ac/institutes/grid.462090.9........ 1.................................................. [Blackburn College] was compared to [Blackburn College] 
+	http://www.grid.ac/institutes/grid.462090.9........ http://www.grid.ac/institutes/grid.253152.2........ 1.................................................. [Blackburn College] was compared to [Blackburn College] 
+	http://www.grid.ac/institutes/grid.253152.2........ http://risis.eu/orgref_20170703/resource/20228031.. 1.................................................. [Blackburn College] was compared to [Blackburn College (Blackburn with Darwen)] 
+	http://risis.eu/orgref_20170703/resource/20228031.. http://www.grid.ac/institutes/grid.253152.2........ 1.................................................. [Blackburn College] was compared to [Blackburn College (Blackburn with Darwen)] 
+	http://www.grid.ac/institutes/grid.253152.2........ http://risis.eu/orgref_20170703/resource/2894791... 1.................................................. [Blackburn College] was compared to [Blackburn College (Illinois)] 
+	http://risis.eu/orgref_20170703/resource/2894791... http://www.grid.ac/institutes/grid.253152.2........ 1.................................................. [Blackburn College] was compared to [Blackburn College (Illinois)] 
+	http://risis.eu/orgref_20170703/resource/20228031.. http://www.grid.ac/institutes/grid.462090.9........ 1.................................................. [Blackburn College] was compared to [Blackburn College (Blackburn with Darwen)] 
+	http://www.grid.ac/institutes/grid.462090.9........ http://risis.eu/orgref_20170703/resource/20228031.. 1.................................................. [Blackburn College] was compared to [Blackburn College (Blackburn with Darwen)] 
+	http://www.grid.ac/institutes/grid.462090.9........ http://risis.eu/orgref_20170703/resource/2894791... 1.................................................. [Blackburn College] was compared to [Blackburn College (Illinois)] 
+	http://risis.eu/orgref_20170703/resource/2894791... http://www.grid.ac/institutes/grid.462090.9........ 1.................................................. [Blackburn College] was compared to [Blackburn College (Illinois)] 
+	http://risis.eu/orgref_20170703/resource/20228031.. http://risis.eu/orgref_20170703/resource/2894791... 1.................................................. [Blackburn College (Blackburn with Darwen)] was compared to [Blackburn College (Illinois)] 
+	http://risis.eu/orgref_20170703/resource/2894791... http://risis.eu/orgref_20170703/resource/20228031.. 1.................................................. [Blackburn College (Blackburn with Darwen)] was compared to [Blackburn College (Illinois)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.253152.2........ -89.87342.......................................... 
+	http://www.grid.ac/institutes/grid.253152.2........ 39.288673.......................................... 
+	http://www.grid.ac/institutes/grid.253152.2........ https://blackburn.edu/............................. 
+	http://www.grid.ac/institutes/grid.253152.2........ Blackburn College.................................. 
+	http://risis.eu/orgref_20170703/resource/20228031.. http://en.wikipedia.org/wiki?curid=20228031........ 
+	http://risis.eu/orgref_20170703/resource/20228031.. http://www.wikidata.org/wiki/Q4922668.............. 
+	http://risis.eu/orgref_20170703/resource/20228031.. http://www.blackburn.ac.uk......................... 
+	http://risis.eu/orgref_20170703/resource/20228031.. Blackburn College (Blackburn with Darwen).......... 
+	http://www.grid.ac/institutes/grid.462090.9........ -2.489015.......................................... 
+	http://www.grid.ac/institutes/grid.462090.9........ 53.74815........................................... 
+	http://www.grid.ac/institutes/grid.462090.9........ http://www.blackburn.ac.uk/........................ 
+	http://www.grid.ac/institutes/grid.462090.9........ Blackburn College.................................. 
+	http://risis.eu/orgref_20170703/resource/2894791... http://en.wikipedia.org/wiki?curid=2894791......... 
+	http://risis.eu/orgref_20170703/resource/2894791... http://www.wikidata.org/wiki/Q4922670.............. 
+	http://risis.eu/orgref_20170703/resource/2894791... http://www.blackburn.edu........................... 
+	http://risis.eu/orgref_20170703/resource/2894791... Blackburn College (Illinois)....................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:20228031', '1:grid.253152.2'), ('2:20228031', '3:grid.462090.9'), ('3:grid.462090.9', '1:grid.253152.2'), ('4:2894791', '1:grid.253152.2'), ('4:2894791', '2:20228031'), ('4:2894791', '3:grid.462090.9')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

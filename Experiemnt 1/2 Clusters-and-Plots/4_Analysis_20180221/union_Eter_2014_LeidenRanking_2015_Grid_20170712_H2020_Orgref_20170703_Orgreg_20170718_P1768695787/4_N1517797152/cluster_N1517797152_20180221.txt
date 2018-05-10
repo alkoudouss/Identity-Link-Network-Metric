@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 16284 
+NAME    N1517797152
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/10491294>
+	<http://risis.eu/eter_2014/resource/TR0041>
+	<http://www.grid.ac/institutes/grid.164274.2>
+	<http://risis.eu/leidenRanking_2015/resource/1033>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/10491294.. http://www.grid.ac/institutes/grid.164274.2........ 1.................................................. [Eskişehir Osmangazi University] was compared to [Eskişehir Osmangazi University] 
+	http://www.grid.ac/institutes/grid.164274.2........ http://risis.eu/orgref_20170703/resource/10491294.. 1.................................................. [Eskişehir Osmangazi University] was compared to [Eskişehir Osmangazi University] 
+	http://www.grid.ac/institutes/grid.164274.2........ http://risis.eu/leidenRanking_2015/resource/1033... 1.................................................. [Eskişehir Osmangazi University] was compared to [Eskisehir Osmangazi University] 
+	http://risis.eu/leidenRanking_2015/resource/1033... http://www.grid.ac/institutes/grid.164274.2........ 1.................................................. [Eskişehir Osmangazi University] was compared to [Eskisehir Osmangazi University] 
+	http://risis.eu/eter_2014/resource/TR0041.......... http://www.grid.ac/institutes/grid.164274.2........ 0.90625............................................ [Eskişehir Osmangazi University] was compared to [ESKIŞEHIR OSMANGAZI ÜNIVERSITESI] 
+	http://www.grid.ac/institutes/grid.164274.2........ http://risis.eu/eter_2014/resource/TR0041.......... 0.90625............................................ [Eskişehir Osmangazi University] was compared to [ESKIŞEHIR OSMANGAZI ÜNIVERSITESI] 
+	http://risis.eu/orgref_20170703/resource/10491294.. http://risis.eu/eter_2014/resource/TR0041.......... 0.90625............................................ [Eskişehir Osmangazi University] was compared to [ESKIŞEHIR OSMANGAZI ÜNIVERSITESI] 
+	http://risis.eu/eter_2014/resource/TR0041.......... http://risis.eu/orgref_20170703/resource/10491294.. 0.90625............................................ [Eskişehir Osmangazi University] was compared to [ESKIŞEHIR OSMANGAZI ÜNIVERSITESI] 
+	http://risis.eu/orgref_20170703/resource/10491294.. http://risis.eu/leidenRanking_2015/resource/1033... 1.................................................. [Eskişehir Osmangazi University] was compared to [Eskisehir Osmangazi University] 
+	http://risis.eu/leidenRanking_2015/resource/1033... http://risis.eu/orgref_20170703/resource/10491294.. 1.................................................. [Eskişehir Osmangazi University] was compared to [Eskisehir Osmangazi University] 
+	http://risis.eu/eter_2014/resource/TR0041.......... http://risis.eu/leidenRanking_2015/resource/1033... 0.90625............................................ [ESKIŞEHIR OSMANGAZI ÜNIVERSITESI] was compared to [Eskisehir Osmangazi University] 
+	http://risis.eu/leidenRanking_2015/resource/1033... http://risis.eu/eter_2014/resource/TR0041.......... 0.90625............................................ [ESKIŞEHIR OSMANGAZI ÜNIVERSITESI] was compared to [Eskisehir Osmangazi University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/10491294.. http://en.wikipedia.org/wiki?curid=10491294........ 
+	http://risis.eu/orgref_20170703/resource/10491294.. http://www.wikidata.org/wiki/Q3306835.............. 
+	http://risis.eu/orgref_20170703/resource/10491294.. http://www.ogu.edu.tr/en/index.aspx................ 
+	http://risis.eu/orgref_20170703/resource/10491294.. Eskişehir Osmangazi University.................... 
+	http://risis.eu/eter_2014/resource/TR0041.......... 39,766314.......................................... 
+	http://risis.eu/eter_2014/resource/TR0041.......... 30,514595.......................................... 
+	http://risis.eu/eter_2014/resource/TR0041.......... http://www.ogu.edu.tr.............................. 
+	http://risis.eu/eter_2014/resource/TR0041.......... a.................................................. 
+	http://risis.eu/eter_2014/resource/TR0041.......... Eskisehir Osmangazi University..................... 
+	http://risis.eu/eter_2014/resource/TR0041.......... ESKIŞEHIR OSMANGAZI ÜNIVERSITESI................. 
+	http://www.grid.ac/institutes/grid.164274.2........ 30.48813........................................... 
+	http://www.grid.ac/institutes/grid.164274.2........ 39.753857.......................................... 
+	http://www.grid.ac/institutes/grid.164274.2........ https://www.ogu.edu.tr/Web/Index/en................ 
+	http://www.grid.ac/institutes/grid.164274.2........ Eskişehir Osmangazi Üniversitesi................. 
+	http://www.grid.ac/institutes/grid.164274.2........ Eskişehir Osmangazi University.................... 
+	http://risis.eu/leidenRanking_2015/resource/1033... Eskisehir Osmangazi University..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:TR0041', '1:10491294'), ('2:TR0041', '3:grid.164274.2'), ('3:grid.164274.2', '1:10491294'), ('4:1033', '1:10491294'), ('4:1033', '2:TR0041'), ('4:1033', '3:grid.164274.2')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

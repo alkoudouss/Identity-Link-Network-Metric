@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 3218 
+NAME    N1740203363
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.441688.7>
+	<http://www.grid.ac/institutes/grid.441723.7>
+	<http://risis.eu/orgref_20170703/resource/18036980>
+	<http://risis.eu/orgref_20170703/resource/29160364>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.441688.7........ http://www.grid.ac/institutes/grid.441723.7........ 0.965517241379..................................... [National University of Cajamarca] was compared to [National University of Catamarca] 
+	http://www.grid.ac/institutes/grid.441723.7........ http://www.grid.ac/institutes/grid.441688.7........ 0.965517241379..................................... [National University of Cajamarca] was compared to [National University of Catamarca] 
+	http://www.grid.ac/institutes/grid.441688.7........ http://risis.eu/orgref_20170703/resource/29160364.. 1.................................................. [National University of Cajamarca] was compared to [National University of Cajamarca] 
+	http://risis.eu/orgref_20170703/resource/29160364.. http://www.grid.ac/institutes/grid.441688.7........ 1.................................................. [National University of Cajamarca] was compared to [National University of Cajamarca] 
+	http://www.grid.ac/institutes/grid.441688.7........ http://risis.eu/orgref_20170703/resource/18036980.. 0.965517241379..................................... [National University of Cajamarca] was compared to [National University of Catamarca] 
+	http://risis.eu/orgref_20170703/resource/18036980.. http://www.grid.ac/institutes/grid.441688.7........ 0.965517241379..................................... [National University of Cajamarca] was compared to [National University of Catamarca] 
+	http://www.grid.ac/institutes/grid.441723.7........ http://risis.eu/orgref_20170703/resource/29160364.. 0.965517241379..................................... [National University of Catamarca] was compared to [National University of Cajamarca] 
+	http://risis.eu/orgref_20170703/resource/29160364.. http://www.grid.ac/institutes/grid.441723.7........ 0.965517241379..................................... [National University of Catamarca] was compared to [National University of Cajamarca] 
+	http://www.grid.ac/institutes/grid.441723.7........ http://risis.eu/orgref_20170703/resource/18036980.. 1.................................................. [National University of Catamarca] was compared to [National University of Catamarca] 
+	http://risis.eu/orgref_20170703/resource/18036980.. http://www.grid.ac/institutes/grid.441723.7........ 1.................................................. [National University of Catamarca] was compared to [National University of Catamarca] 
+	http://risis.eu/orgref_20170703/resource/18036980.. http://risis.eu/orgref_20170703/resource/29160364.. 0.965517241379..................................... [National University of Catamarca] was compared to [National University of Cajamarca] 
+	http://risis.eu/orgref_20170703/resource/29160364.. http://risis.eu/orgref_20170703/resource/18036980.. 0.965517241379..................................... [National University of Catamarca] was compared to [National University of Cajamarca] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.441688.7........ National University of Cajamarca................... 
+	http://www.grid.ac/institutes/grid.441723.7........ National University of Catamarca................... 
+	http://risis.eu/orgref_20170703/resource/18036980.. http://en.wikipedia.org/wiki?curid=18036980........ 
+	http://risis.eu/orgref_20170703/resource/18036980.. http://www.wikidata.org/wiki/Q6979234.............. 
+	http://risis.eu/orgref_20170703/resource/18036980.. http://www.unca.edu.ar............................. 
+	http://risis.eu/orgref_20170703/resource/18036980.. National University of Catamarca................... 
+	http://risis.eu/orgref_20170703/resource/29160364.. http://en.wikipedia.org/wiki?curid=29160364........ 
+	http://risis.eu/orgref_20170703/resource/29160364.. http://www.wikidata.org/wiki/Q6979226.............. 
+	http://risis.eu/orgref_20170703/resource/29160364.. http://www.unitru.edu.pe........................... 
+	http://risis.eu/orgref_20170703/resource/29160364.. National University of Cajamarca................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.441723.7', '1:grid.441688.7'), ('3:18036980', '1:grid.441688.7'), ('3:18036980', '2:grid.441723.7'), ('4:29160364', '1:grid.441688.7'), ('4:29160364', '2:grid.441723.7'), ('4:29160364', '3:18036980')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

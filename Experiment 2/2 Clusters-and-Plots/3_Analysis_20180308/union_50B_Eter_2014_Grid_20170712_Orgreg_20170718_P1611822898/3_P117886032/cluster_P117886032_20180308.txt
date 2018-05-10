@@ -1,0 +1,55 @@
+SIZE    3   
+CLUSTER 411 
+NAME    P117886032
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.413074.5>
+	<http://www.grid.ac/institutes/grid.457735.7>
+	<http://risis.eu/orgreg_20170718/resource/NO3002>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.413074.5...... http://risis.eu/orgreg_20170718/resource/NO3002.. 1................................................ Near each other by at most 50 meter(s)........... 
+	http://www.grid.ac/institutes/grid.457735.7...... http://risis.eu/orgreg_20170718/resource/NO3002.. 1................................................ Near each other by at most 50 meter(s)........... 
+	http://risis.eu/orgreg_20170718/resource/NO3002.. http://www.grid.ac/institutes/grid.413074.5...... 1................................................ Near each other by at most 50 meter(s)........... 
+	http://risis.eu/orgreg_20170718/resource/NO3002.. http://www.grid.ac/institutes/grid.457735.7...... 1................................................ Near each other by at most 50 meter(s)........... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.413074.5...... 10.768578........................................ 
+	http://www.grid.ac/institutes/grid.413074.5...... 59.948395........................................ 
+	http://www.grid.ac/institutes/grid.413074.5...... http://www.bi.edu/............................... 
+	http://www.grid.ac/institutes/grid.413074.5...... Handelshøyskolen BI............................. 
+	http://www.grid.ac/institutes/grid.413074.5...... BI Norwegian Business School..................... 
+	http://www.grid.ac/institutes/grid.457735.7...... 10.768503........................................ 
+	http://www.grid.ac/institutes/grid.457735.7...... 59.948433........................................ 
+	http://www.grid.ac/institutes/grid.457735.7...... http://www.edtechfoundry.com/.................... 
+	http://www.grid.ac/institutes/grid.457735.7...... Edtech Foundry (Norway).......................... 
+	http://risis.eu/orgreg_20170718/resource/NO3002.. 10.76769......................................... 
+	http://risis.eu/orgreg_20170718/resource/NO3002.. 59.94847......................................... 
+	http://risis.eu/orgreg_20170718/resource/NO3002.. http://www.r-bup.no/............................. 
+	http://risis.eu/orgreg_20170718/resource/NO3002.. Regional Center for Child and Adolescent Mental Health	 Eastern and Southern Norway 
+
+NETWORK ANALYSIS
+	NETWORK [('P710972741-NO3002', 'P1119193172-grid.457735.7'), ('P710972741-NO3002', 'P117886032-grid.413074.5')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

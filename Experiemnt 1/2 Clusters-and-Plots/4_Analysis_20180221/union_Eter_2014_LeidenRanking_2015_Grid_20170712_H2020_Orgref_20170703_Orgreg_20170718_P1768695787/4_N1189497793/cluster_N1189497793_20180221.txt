@@ -1,0 +1,70 @@
+SIZE    4   
+CLUSTER 4085 
+NAME    N1189497793
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/4876289>
+	<http://risis.eu/leidenRanking_2015/resource/2641>
+	<http://risis.eu/eter_2014/resource/FR0007>
+	<http://www.grid.ac/institutes/grid.5399.6>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/4876289.. http://www.grid.ac/institutes/grid.5399.6......... 1................................................. [Aix-Marseille University] was compared to [Aix-Marseille University] 
+	http://www.grid.ac/institutes/grid.5399.6......... http://risis.eu/orgref_20170703/resource/4876289.. 1................................................. [Aix-Marseille University] was compared to [Aix-Marseille University] 
+	http://risis.eu/leidenRanking_2015/resource/2641.. http://www.grid.ac/institutes/grid.5399.6......... 1................................................. [Aix-Marseille University] was compared to [Aix-Marseille University] 
+	http://www.grid.ac/institutes/grid.5399.6......... http://risis.eu/leidenRanking_2015/resource/2641.. 1................................................. [Aix-Marseille University] was compared to [Aix-Marseille University] 
+	http://risis.eu/eter_2014/resource/FR0007......... http://www.grid.ac/institutes/grid.5399.6......... 0.95652173913..................................... [Aix-Marseille University] was compared to [Aix-Marseille université] 
+	http://www.grid.ac/institutes/grid.5399.6......... http://risis.eu/eter_2014/resource/FR0007......... 0.95652173913..................................... [Aix-Marseille University] was compared to [Aix-Marseille université] 
+	http://risis.eu/orgref_20170703/resource/4876289.. http://risis.eu/eter_2014/resource/FR0007......... 0.95652173913..................................... [Aix-Marseille University] was compared to [Aix-Marseille université] 
+	http://risis.eu/eter_2014/resource/FR0007......... http://risis.eu/orgref_20170703/resource/4876289.. 0.95652173913..................................... [Aix-Marseille University] was compared to [Aix-Marseille université] 
+	http://risis.eu/orgref_20170703/resource/4876289.. http://risis.eu/leidenRanking_2015/resource/2641.. 1................................................. [Aix-Marseille University] was compared to [Aix-Marseille University] 
+	http://risis.eu/leidenRanking_2015/resource/2641.. http://risis.eu/orgref_20170703/resource/4876289.. 1................................................. [Aix-Marseille University] was compared to [Aix-Marseille University] 
+	http://risis.eu/leidenRanking_2015/resource/2641.. http://risis.eu/eter_2014/resource/FR0007......... 0.95652173913..................................... [Aix-Marseille université] was compared to [Aix-Marseille University] 
+	http://risis.eu/eter_2014/resource/FR0007......... http://risis.eu/leidenRanking_2015/resource/2641.. 0.95652173913..................................... [Aix-Marseille université] was compared to [Aix-Marseille University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 19 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/4876289.. http://en.wikipedia.org/wiki?curid=4876289........ 
+	http://risis.eu/orgref_20170703/resource/4876289.. http://www.wikidata.org/wiki/Q2302586............. 
+	http://risis.eu/orgref_20170703/resource/4876289.. http://www.univ-amu.fr............................ 
+	http://risis.eu/orgref_20170703/resource/4876289.. Aix-Marseille University.......................... 
+	http://risis.eu/leidenRanking_2015/resource/2641.. Aix-Marseille University.......................... 
+	http://risis.eu/eter_2014/resource/FR0007......... 43,533732......................................... 
+	http://risis.eu/eter_2014/resource/FR0007......... 5,452006.......................................... 
+	http://risis.eu/eter_2014/resource/FR0007......... http://www.univ-amu.fr/........................... 
+	http://risis.eu/eter_2014/resource/FR0007......... m................................................. 
+	http://risis.eu/eter_2014/resource/FR0007......... Aix-Marseille University.......................... 
+	http://risis.eu/eter_2014/resource/FR0007......... Aix-Marseille université......................... 
+	http://www.grid.ac/institutes/grid.5399.6......... 5.357944.......................................... 
+	http://www.grid.ac/institutes/grid.5399.6......... 43.293537......................................... 
+	http://www.grid.ac/institutes/grid.5399.6......... http://www.univ-amu.fr/........................... 
+	http://www.grid.ac/institutes/grid.5399.6......... University of the Mediterranean................... 
+	http://www.grid.ac/institutes/grid.5399.6......... University of Provence............................ 
+	http://www.grid.ac/institutes/grid.5399.6......... Paul Cézanne University.......................... 
+	http://www.grid.ac/institutes/grid.5399.6......... Université d'Aix-Marseille....................... 
+	http://www.grid.ac/institutes/grid.5399.6......... Aix-Marseille University.......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:2641', '1:4876289'), ('2:2641', '4:grid.5399.6'), ('3:FR0007', '1:4876289'), ('3:FR0007', '2:2641'), ('3:FR0007', '4:grid.5399.6'), ('4:grid.5399.6', '1:4876289')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

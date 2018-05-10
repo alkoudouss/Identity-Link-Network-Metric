@@ -1,0 +1,69 @@
+SIZE    4   
+CLUSTER 18211 
+NAME    N528819351
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.444049.9>
+	<http://risis.eu/orgref_20170703/resource/1439233>
+	<http://risis.eu/orgref_20170703/resource/16891943>
+	<http://www.grid.ac/institutes/grid.412586.c>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/1439233... http://www.grid.ac/institutes/grid.412586.c........ 1.................................................. [The University of Kitakyushu] was compared to [University of Kitakyushu] 
+	http://www.grid.ac/institutes/grid.412586.c........ http://risis.eu/orgref_20170703/resource/1439233... 1.................................................. [The University of Kitakyushu] was compared to [University of Kitakyushu] 
+	http://www.grid.ac/institutes/grid.444049.9........ http://risis.eu/orgref_20170703/resource/16891943.. 1.................................................. [Nishikyushu University] was compared to [Nishikyushu University] 
+	http://risis.eu/orgref_20170703/resource/16891943.. http://www.grid.ac/institutes/grid.444049.9........ 1.................................................. [Nishikyushu University] was compared to [Nishikyushu University] 
+	http://risis.eu/orgref_20170703/resource/1439233... http://risis.eu/orgref_20170703/resource/16891943.. 0.818181818182..................................... [University of Kitakyushu] was compared to [Nishikyushu University] 
+	http://risis.eu/orgref_20170703/resource/16891943.. http://risis.eu/orgref_20170703/resource/1439233... 0.818181818182..................................... [University of Kitakyushu] was compared to [Nishikyushu University] 
+	http://www.grid.ac/institutes/grid.444049.9........ http://www.grid.ac/institutes/grid.412586.c........ 0.818181818182..................................... [The University of Kitakyushu] was compared to [Nishikyushu University] 
+	http://www.grid.ac/institutes/grid.412586.c........ http://www.grid.ac/institutes/grid.444049.9........ 0.818181818182..................................... [The University of Kitakyushu] was compared to [Nishikyushu University] 
+	http://risis.eu/orgref_20170703/resource/16891943.. http://www.grid.ac/institutes/grid.412586.c........ 0.818181818182..................................... [The University of Kitakyushu] was compared to [Nishikyushu University] 
+	http://www.grid.ac/institutes/grid.412586.c........ http://risis.eu/orgref_20170703/resource/16891943.. 0.818181818182..................................... [The University of Kitakyushu] was compared to [Nishikyushu University] 
+	http://www.grid.ac/institutes/grid.444049.9........ http://risis.eu/orgref_20170703/resource/1439233... 0.818181818182..................................... [Nishikyushu University] was compared to [University of Kitakyushu] 
+	http://risis.eu/orgref_20170703/resource/1439233... http://www.grid.ac/institutes/grid.444049.9........ 0.818181818182..................................... [Nishikyushu University] was compared to [University of Kitakyushu] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.444049.9........ 130.34825.......................................... 
+	http://www.grid.ac/institutes/grid.444049.9........ 33.329742.......................................... 
+	http://www.grid.ac/institutes/grid.444049.9........ http://www.nisikyu-u.ac.jp/en/..................... 
+	http://www.grid.ac/institutes/grid.444049.9........ Nishi kyūshū daigaku............................. 
+	http://www.grid.ac/institutes/grid.444049.9........ Nishikyushu University............................. 
+	http://risis.eu/orgref_20170703/resource/1439233... http://en.wikipedia.org/wiki?curid=1439233......... 
+	http://risis.eu/orgref_20170703/resource/1439233... http://www.wikidata.org/wiki/Q195546............... 
+	http://risis.eu/orgref_20170703/resource/1439233... http://www.kitakyu-u.ac.jp......................... 
+	http://risis.eu/orgref_20170703/resource/1439233... University of Kitakyushu........................... 
+	http://risis.eu/orgref_20170703/resource/16891943.. http://en.wikipedia.org/wiki?curid=16891943........ 
+	http://risis.eu/orgref_20170703/resource/16891943.. http://www.wikidata.org/wiki/Q7040607.............. 
+	http://risis.eu/orgref_20170703/resource/16891943.. http://www.nisikyu-u.ac.jp......................... 
+	http://risis.eu/orgref_20170703/resource/16891943.. Nishikyushu University............................. 
+	http://www.grid.ac/institutes/grid.412586.c........ 130.87819.......................................... 
+	http://www.grid.ac/institutes/grid.412586.c........ 33.84325........................................... 
+	http://www.grid.ac/institutes/grid.412586.c........ http://www.kitakyu-u.ac.jp/........................ 
+	http://www.grid.ac/institutes/grid.412586.c........ Kitakyūshū shiritsu daigaku...................... 
+	http://www.grid.ac/institutes/grid.412586.c........ The University of Kitakyushu....................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.444049.9', '4:grid.412586.c'), ('2:1439233', '1:grid.444049.9'), ('3:16891943', '1:grid.444049.9'), ('3:16891943', '2:1439233'), ('3:16891943', '4:grid.412586.c'), ('4:grid.412586.c', '2:1439233')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

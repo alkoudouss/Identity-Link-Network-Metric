@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 408 
+NAME    P382566585
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.415184.d>
+	<http://www.grid.ac/institutes/grid.415187.e>
+	<http://risis.eu/leidenRanking_2015/resource/1605>
+	<http://risis.eu/orgref_20170703/resource/9092250>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.415184.d....... http://www.grid.ac/institutes/grid.415187.e....... 1................................................. [Prince Charles Hospital] was compared to [Prince Charles Hospital] 
+	http://www.grid.ac/institutes/grid.415187.e....... http://www.grid.ac/institutes/grid.415184.d....... 1................................................. [Prince Charles Hospital] was compared to [Prince Charles Hospital] 
+	http://www.grid.ac/institutes/grid.415184.d....... http://risis.eu/orgref_20170703/resource/9092250.. 1................................................. [Prince Charles Hospital] was compared to [The Prince Charles Hospital] 
+	http://risis.eu/orgref_20170703/resource/9092250.. http://www.grid.ac/institutes/grid.415184.d....... 1................................................. [Prince Charles Hospital] was compared to [The Prince Charles Hospital] 
+	http://www.grid.ac/institutes/grid.415187.e....... http://risis.eu/orgref_20170703/resource/9092250.. 1................................................. [Prince Charles Hospital] was compared to [The Prince Charles Hospital] 
+	http://risis.eu/orgref_20170703/resource/9092250.. http://www.grid.ac/institutes/grid.415187.e....... 1................................................. [Prince Charles Hospital] was compared to [The Prince Charles Hospital] 
+	http://www.grid.ac/institutes/grid.415184.d....... http://risis.eu/leidenRanking_2015/resource/1605.. 1................................................. [Prince Charles Hospital] was compared to [Prince Charles Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1605.. http://www.grid.ac/institutes/grid.415184.d....... 1................................................. [Prince Charles Hospital] was compared to [Prince Charles Hospital] 
+	http://www.grid.ac/institutes/grid.415187.e....... http://risis.eu/leidenRanking_2015/resource/1605.. 1................................................. [Prince Charles Hospital] was compared to [Prince Charles Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1605.. http://www.grid.ac/institutes/grid.415187.e....... 1................................................. [Prince Charles Hospital] was compared to [Prince Charles Hospital] 
+	http://risis.eu/leidenRanking_2015/resource/1605.. http://risis.eu/orgref_20170703/resource/9092250.. 1................................................. [The Prince Charles Hospital] was compared to [Prince Charles Hospital] 
+	http://risis.eu/orgref_20170703/resource/9092250.. http://risis.eu/leidenRanking_2015/resource/1605.. 1................................................. [The Prince Charles Hospital] was compared to [Prince Charles Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.415184.d....... 153.02258......................................... 
+	http://www.grid.ac/institutes/grid.415184.d....... -27.390133........................................ 
+	http://www.grid.ac/institutes/grid.415184.d....... http://www.health.qld.gov.au/tpch/................ 
+	http://www.grid.ac/institutes/grid.415184.d....... Prince Charles Hospital........................... 
+	http://www.grid.ac/institutes/grid.415187.e....... -3.386042......................................... 
+	http://www.grid.ac/institutes/grid.415187.e....... 51.76471.......................................... 
+	http://www.grid.ac/institutes/grid.415187.e....... http://www.cwmtafuhb.wales.nhs.uk/prince-charles-hospital 
+	http://www.grid.ac/institutes/grid.415187.e....... Prince Charles Hospital........................... 
+	http://risis.eu/leidenRanking_2015/resource/1605.. Prince Charles Hospital........................... 
+	http://risis.eu/orgref_20170703/resource/9092250.. http://en.wikipedia.org/wiki?curid=9092250........ 
+	http://risis.eu/orgref_20170703/resource/9092250.. http://www.wikidata.org/wiki/Q7758249............. 
+	http://risis.eu/orgref_20170703/resource/9092250.. http://www.health.qld.gov.au/tpch................. 
+	http://risis.eu/orgref_20170703/resource/9092250.. The Prince Charles Hospital....................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.415187.e', '1:grid.415184.d'), ('3:1605', '1:grid.415184.d'), ('3:1605', '2:grid.415187.e'), ('4:9092250', '1:grid.415184.d'), ('4:9092250', '2:grid.415187.e'), ('4:9092250', '3:1605')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 11938 
+NAME    N414061691
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/29614752>
+	<http://risis.eu/orgref_20170703/resource/3602257>
+	<http://www.grid.ac/institutes/grid.462900.9>
+	<http://risis.eu/orgref_20170703/resource/23276272>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/3602257... http://www.grid.ac/institutes/grid.462900.9........ 1.................................................. [Sunderland College] was compared to [Sunderland College] 
+	http://www.grid.ac/institutes/grid.462900.9........ http://risis.eu/orgref_20170703/resource/3602257... 1.................................................. [Sunderland College] was compared to [Sunderland College] 
+	http://risis.eu/orgref_20170703/resource/29614752.. http://risis.eu/orgref_20170703/resource/3602257... 0.833333333333..................................... [Cumberland College (Saskatchewan)] was compared to [Sunderland College] 
+	http://risis.eu/orgref_20170703/resource/3602257... http://risis.eu/orgref_20170703/resource/29614752.. 0.833333333333..................................... [Cumberland College (Saskatchewan)] was compared to [Sunderland College] 
+	http://risis.eu/orgref_20170703/resource/29614752.. http://risis.eu/orgref_20170703/resource/23276272.. 0.842105263158..................................... [Cumbernauld College] was compared to [Cumberland College (Saskatchewan)] 
+	http://risis.eu/orgref_20170703/resource/23276272.. http://risis.eu/orgref_20170703/resource/29614752.. 0.842105263158..................................... [Cumbernauld College] was compared to [Cumberland College (Saskatchewan)] 
+	http://risis.eu/orgref_20170703/resource/29614752.. http://www.grid.ac/institutes/grid.462900.9........ 0.833333333333..................................... [Sunderland College] was compared to [Cumberland College (Saskatchewan)] 
+	http://www.grid.ac/institutes/grid.462900.9........ http://risis.eu/orgref_20170703/resource/29614752.. 0.833333333333..................................... [Sunderland College] was compared to [Cumberland College (Saskatchewan)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/29614752.. http://en.wikipedia.org/wiki?curid=29614752........ 
+	http://risis.eu/orgref_20170703/resource/29614752.. http://www.wikidata.org/wiki/Q5193856.............. 
+	http://risis.eu/orgref_20170703/resource/29614752.. http://www.cumberlandcollege.sk.ca................. 
+	http://risis.eu/orgref_20170703/resource/29614752.. Cumberland College (Saskatchewan).................. 
+	http://risis.eu/orgref_20170703/resource/3602257... http://en.wikipedia.org/wiki?curid=3602257......... 
+	http://risis.eu/orgref_20170703/resource/3602257... http://www.wikidata.org/wiki/Q5123940.............. 
+	http://risis.eu/orgref_20170703/resource/3602257... http://www.sunderlandcollege.ac.uk................. 
+	http://risis.eu/orgref_20170703/resource/3602257... Sunderland College................................. 
+	http://www.grid.ac/institutes/grid.462900.9........ -1.377346.......................................... 
+	http://www.grid.ac/institutes/grid.462900.9........ 54.91237........................................... 
+	http://www.grid.ac/institutes/grid.462900.9........ http://sunderlandcollege.ac.uk/.................... 
+	http://www.grid.ac/institutes/grid.462900.9........ Sunderland College................................. 
+	http://risis.eu/orgref_20170703/resource/23276272.. http://en.wikipedia.org/wiki?curid=23276272........ 
+	http://risis.eu/orgref_20170703/resource/23276272.. http://www.wikidata.org/wiki/Q5193996.............. 
+	http://risis.eu/orgref_20170703/resource/23276272.. Cumbernauld College................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:29614752', '3:grid.462900.9'), ('2:3602257', '1:29614752'), ('3:grid.462900.9', '2:3602257'), ('4:23276272', '1:29614752')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

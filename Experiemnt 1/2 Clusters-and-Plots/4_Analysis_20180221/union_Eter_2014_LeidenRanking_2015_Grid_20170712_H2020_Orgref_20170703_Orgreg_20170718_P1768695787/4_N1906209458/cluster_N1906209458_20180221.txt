@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 13643 
+NAME    N1906209458
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.412775.2>
+	<http://www.grid.ac/institutes/grid.441783.d>
+	<http://www.grid.ac/institutes/grid.442190.a>
+	<http://risis.eu/orgref_20170703/resource/731199>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.412775.2...... http://www.grid.ac/institutes/grid.441783.d...... 0.869565217391................................... [University of Santo Tomas] was compared to [Universidad Santo Tomás] 
+	http://www.grid.ac/institutes/grid.441783.d...... http://www.grid.ac/institutes/grid.412775.2...... 0.869565217391................................... [University of Santo Tomas] was compared to [Universidad Santo Tomás] 
+	http://www.grid.ac/institutes/grid.412775.2...... http://www.grid.ac/institutes/grid.442190.a...... 0.869565217391................................... [University of Santo Tomas] was compared to [Universidad Santo Tomás] 
+	http://www.grid.ac/institutes/grid.442190.a...... http://www.grid.ac/institutes/grid.412775.2...... 0.869565217391................................... [University of Santo Tomas] was compared to [Universidad Santo Tomás] 
+	http://www.grid.ac/institutes/grid.441783.d...... http://www.grid.ac/institutes/grid.442190.a...... 1................................................ [Universidad Santo Tomás] was compared to [Universidad Santo Tomás] 
+	http://www.grid.ac/institutes/grid.442190.a...... http://www.grid.ac/institutes/grid.441783.d...... 1................................................ [Universidad Santo Tomás] was compared to [Universidad Santo Tomás] 
+	http://www.grid.ac/institutes/grid.412775.2...... http://risis.eu/orgref_20170703/resource/731199.. 1................................................ [University of Santo Tomas] was compared to [University of Santo Tomas] 
+	http://risis.eu/orgref_20170703/resource/731199.. http://www.grid.ac/institutes/grid.412775.2...... 1................................................ [University of Santo Tomas] was compared to [University of Santo Tomas] 
+	http://www.grid.ac/institutes/grid.441783.d...... http://risis.eu/orgref_20170703/resource/731199.. 0.869565217391................................... [Universidad Santo Tomás] was compared to [University of Santo Tomas] 
+	http://risis.eu/orgref_20170703/resource/731199.. http://www.grid.ac/institutes/grid.441783.d...... 0.869565217391................................... [Universidad Santo Tomás] was compared to [University of Santo Tomas] 
+	http://www.grid.ac/institutes/grid.442190.a...... http://risis.eu/orgref_20170703/resource/731199.. 0.869565217391................................... [Universidad Santo Tomás] was compared to [University of Santo Tomas] 
+	http://risis.eu/orgref_20170703/resource/731199.. http://www.grid.ac/institutes/grid.442190.a...... 0.869565217391................................... [Universidad Santo Tomás] was compared to [University of Santo Tomas] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.412775.2...... 120.9893......................................... 
+	http://www.grid.ac/institutes/grid.412775.2...... 14.609861........................................ 
+	http://www.grid.ac/institutes/grid.412775.2...... http://www.ust.edu.ph/........................... 
+	http://www.grid.ac/institutes/grid.412775.2...... Catholic University of the Philippines........... 
+	http://www.grid.ac/institutes/grid.412775.2...... Pontifical and Royal University of Santo Tomas... 
+	http://www.grid.ac/institutes/grid.412775.2...... Unibersidad ng Santo Tomas or Pamantasan ng Santo Tomas 
+	http://www.grid.ac/institutes/grid.412775.2...... University of Santo Tomas........................ 
+	http://www.grid.ac/institutes/grid.441783.d...... Universidad Santo Tomás......................... 
+	http://www.grid.ac/institutes/grid.442190.a...... -74.06416........................................ 
+	http://www.grid.ac/institutes/grid.442190.a...... 4.638175......................................... 
+	http://www.grid.ac/institutes/grid.442190.a...... http://www.usta.edu.co/.......................... 
+	http://www.grid.ac/institutes/grid.442190.a...... Universidad Santo Tomás......................... 
+	http://risis.eu/orgref_20170703/resource/731199.. http://en.wikipedia.org/wiki?curid=731199........ 
+	http://risis.eu/orgref_20170703/resource/731199.. http://www.wikidata.org/wiki/Q1401524............ 
+	http://risis.eu/orgref_20170703/resource/731199.. http://www.ust.edu.ph............................ 
+	http://risis.eu/orgref_20170703/resource/731199.. University of Santo Tomas........................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.441783.d', '1:grid.412775.2'), ('3:grid.442190.a', '1:grid.412775.2'), ('3:grid.442190.a', '2:grid.441783.d'), ('4:731199', '1:grid.412775.2'), ('4:731199', '2:grid.441783.d'), ('4:731199', '3:grid.442190.a')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

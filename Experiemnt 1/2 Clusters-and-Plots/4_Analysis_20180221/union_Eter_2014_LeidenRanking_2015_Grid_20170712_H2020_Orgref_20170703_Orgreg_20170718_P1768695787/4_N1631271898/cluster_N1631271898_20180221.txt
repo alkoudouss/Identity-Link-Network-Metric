@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 1988 
+NAME    N1631271898
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/167426>
+	<http://risis.eu/orgreg_20170718/resource/SI0002>
+	<http://www.grid.ac/institutes/grid.8647.d>
+	<http://risis.eu/leidenRanking_2015/resource/620>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/167426.. http://www.grid.ac/institutes/grid.8647.d........ 1................................................ [University of Maribor] was compared to [University of Maribor] 
+	http://www.grid.ac/institutes/grid.8647.d........ http://risis.eu/orgref_20170703/resource/167426.. 1................................................ [University of Maribor] was compared to [University of Maribor] 
+	http://www.grid.ac/institutes/grid.8647.d........ http://risis.eu/leidenRanking_2015/resource/620.. 1................................................ [University of Maribor] was compared to [University of Maribor] 
+	http://risis.eu/leidenRanking_2015/resource/620.. http://www.grid.ac/institutes/grid.8647.d........ 1................................................ [University of Maribor] was compared to [University of Maribor] 
+	http://risis.eu/orgref_20170703/resource/167426.. http://risis.eu/leidenRanking_2015/resource/620.. 1................................................ [University of Maribor] was compared to [University of Maribor] 
+	http://risis.eu/leidenRanking_2015/resource/620.. http://risis.eu/orgref_20170703/resource/167426.. 1................................................ [University of Maribor] was compared to [University of Maribor] 
+	http://risis.eu/orgreg_20170718/resource/SI0002.. http://risis.eu/leidenRanking_2015/resource/620.. 1................................................ [University of Maribor] was compared to [University of Maribor] 
+	http://risis.eu/leidenRanking_2015/resource/620.. http://risis.eu/orgreg_20170718/resource/SI0002.. 1................................................ [University of Maribor] was compared to [University of Maribor] 
+	http://risis.eu/orgref_20170703/resource/167426.. http://risis.eu/orgreg_20170718/resource/SI0002.. 1................................................ [University of Maribor] was compared to [University of Maribor] 
+	http://risis.eu/orgreg_20170718/resource/SI0002.. http://risis.eu/orgref_20170703/resource/167426.. 1................................................ [University of Maribor] was compared to [University of Maribor] 
+	http://risis.eu/orgreg_20170718/resource/SI0002.. http://www.grid.ac/institutes/grid.8647.d........ 1................................................ [University of Maribor] was compared to [University of Maribor] 
+	http://www.grid.ac/institutes/grid.8647.d........ http://risis.eu/orgreg_20170718/resource/SI0002.. 1................................................ [University of Maribor] was compared to [University of Maribor] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/167426.. http://en.wikipedia.org/wiki?curid=167426........ 
+	http://risis.eu/orgref_20170703/resource/167426.. http://www.wikidata.org/wiki/Q1378............... 
+	http://risis.eu/orgref_20170703/resource/167426.. http://www.um.si................................. 
+	http://risis.eu/orgref_20170703/resource/167426.. University of Maribor............................ 
+	http://risis.eu/orgreg_20170718/resource/SI0002.. 15.645881........................................ 
+	http://risis.eu/orgreg_20170718/resource/SI0002.. 46.55465......................................... 
+	http://risis.eu/orgreg_20170718/resource/SI0002.. https://www.um.si/en/Pages/default.aspx.......... 
+	http://risis.eu/orgreg_20170718/resource/SI0002.. University of Maribor............................ 
+	http://www.grid.ac/institutes/grid.8647.d........ 15.644444........................................ 
+	http://www.grid.ac/institutes/grid.8647.d........ 46.559444........................................ 
+	http://www.grid.ac/institutes/grid.8647.d........ http://www.um.si/en/Pages/default.aspx........... 
+	http://www.grid.ac/institutes/grid.8647.d........ Univerza v Mariboru.............................. 
+	http://www.grid.ac/institutes/grid.8647.d........ University of Maribor............................ 
+	http://risis.eu/leidenRanking_2015/resource/620.. University of Maribor............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:SI0002', '1:167426'), ('2:SI0002', '3:grid.8647.d'), ('3:grid.8647.d', '1:167426'), ('4:620', '1:167426'), ('4:620', '2:SI0002'), ('4:620', '3:grid.8647.d')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

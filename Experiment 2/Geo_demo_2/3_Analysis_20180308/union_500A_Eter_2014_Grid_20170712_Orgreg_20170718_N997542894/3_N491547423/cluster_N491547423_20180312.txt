@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 1058 
+NAME    N491547423
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/PT0125>
+	<http://risis.eu/eter_2014/resource/PT0125>
+	<http://www.grid.ac/institutes/grid.121559.b>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/PT0125.. http://risis.eu/eter_2014/resource/PT0125........ 1................................................ [higher institute educative sciences] was compared to [higher institute educative sciences] 
+	http://risis.eu/eter_2014/resource/PT0125........ http://www.grid.ac/institutes/grid.121559.b...... 1................................................ [instituto superior ciencias educativas] was compared to [instituto superior ciencias educativas] 
+	http://risis.eu/eter_2014/resource/PT0125........ http://risis.eu/orgreg_20170718/resource/PT0125.. 1................................................ [higher institute educative sciences] was compared to [higher institute educative sciences] 
+	http://www.grid.ac/institutes/grid.121559.b...... http://risis.eu/eter_2014/resource/PT0125........ 1................................................ [instituto superior ciencias educativas] was compared to [instituto superior ciencias educativas] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/PT0125.. -9.193111........................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0125.. 38.805916........................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0125.. http://www.isce.pt............................... 
+	http://risis.eu/orgreg_20170718/resource/PT0125.. Higher Institute of Educative Sciences........... 
+	http://risis.eu/eter_2014/resource/PT0125........ 38,805916........................................ 
+	http://risis.eu/eter_2014/resource/PT0125........ -9,193111........................................ 
+	http://risis.eu/eter_2014/resource/PT0125........ http://www.isce.pt............................... 
+	http://risis.eu/eter_2014/resource/PT0125........ a................................................ 
+	http://risis.eu/eter_2014/resource/PT0125........ Higher Institute of Educative Sciences........... 
+	http://risis.eu/eter_2014/resource/PT0125........ Instituto Superior de Ciências Educativas....... 
+	http://www.grid.ac/institutes/grid.121559.b...... -9.191808........................................ 
+	http://www.grid.ac/institutes/grid.121559.b...... 38.80672......................................... 
+	http://www.grid.ac/institutes/grid.121559.b...... http://www.ice.edu.pt/........................... 
+	http://www.grid.ac/institutes/grid.121559.b...... Instituto Superior de Ciências Educativas....... 
+
+NETWORK ANALYSIS
+	NETWORK [('P495509244-PT0125', 'N491547423-grid.121559.b'), ('P495509244-PT0125', 'P1319675697-PT0125')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

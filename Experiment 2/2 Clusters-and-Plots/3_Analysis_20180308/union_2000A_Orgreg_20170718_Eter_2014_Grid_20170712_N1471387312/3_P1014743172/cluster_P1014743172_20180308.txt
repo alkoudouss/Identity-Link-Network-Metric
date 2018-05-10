@@ -1,0 +1,59 @@
+SIZE    3   
+CLUSTER 1625 
+NAME    P1014743172
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.445307.1>
+	<http://risis.eu/eter_2014/resource/SE0046>
+	<http://risis.eu/orgreg_20170718/resource/SE0046>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.445307.1...... http://risis.eu/eter_2014/resource/SE0046........ 0.777777777778................................... [red cross university college] was compared to [red cross university college nursing] 
+	http://www.grid.ac/institutes/grid.445307.1...... http://risis.eu/orgreg_20170718/resource/SE0046.. 0.777777777778................................... [red cross university college] was compared to [red cross university college nursing] 
+	http://risis.eu/eter_2014/resource/SE0046........ http://www.grid.ac/institutes/grid.445307.1...... 0.777777777778................................... [red cross university college] was compared to [red cross university college nursing] 
+	http://risis.eu/eter_2014/resource/SE0046........ http://risis.eu/orgreg_20170718/resource/SE0046.. 1................................................ [red cross university college] was compared to [red cross university college] 
+	http://risis.eu/orgreg_20170718/resource/SE0046.. http://www.grid.ac/institutes/grid.445307.1...... 0.777777777778................................... [red cross university college] was compared to [red cross university college nursing] 
+	http://risis.eu/orgreg_20170718/resource/SE0046.. http://risis.eu/eter_2014/resource/SE0046........ 1................................................ [red cross university college] was compared to [red cross university college] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.445307.1...... 18.071318........................................ 
+	http://www.grid.ac/institutes/grid.445307.1...... 59.349434........................................ 
+	http://www.grid.ac/institutes/grid.445307.1...... http://www.rkh.se/............................... 
+	http://www.grid.ac/institutes/grid.445307.1...... Red Cross School of Nursing...................... 
+	http://www.grid.ac/institutes/grid.445307.1...... Red Cross University College of Nursing.......... 
+	http://risis.eu/eter_2014/resource/SE0046........ 59,351175........................................ 
+	http://risis.eu/eter_2014/resource/SE0046........ 18,072326........................................ 
+	http://risis.eu/eter_2014/resource/SE0046........ http://www.rkh.se/en/............................ 
+	http://risis.eu/eter_2014/resource/SE0046........ a................................................ 
+	http://risis.eu/eter_2014/resource/SE0046........ The Red Cross University College................. 
+	http://risis.eu/eter_2014/resource/SE0046........ Röda Korsets högskola.......................... 
+	http://risis.eu/orgreg_20170718/resource/SE0046.. 18.072326........................................ 
+	http://risis.eu/orgreg_20170718/resource/SE0046.. 59.351175........................................ 
+	http://risis.eu/orgreg_20170718/resource/SE0046.. http://www.rkh.se/en/............................ 
+	http://risis.eu/orgreg_20170718/resource/SE0046.. The Red Cross University College................. 
+
+NETWORK ANALYSIS
+	NETWORK [('P1014743172-SE0046', 'P2109298197-SE0046'), ('P1014743172-SE0046', 'P2054573602-grid.445307.1'), ('P2109298197-SE0046', 'P2054573602-grid.445307.1')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 991 
+NAME    N1013996679
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/34281453>
+	<http://risis.eu/cordisH2020/resource/participant_996754541>
+	<http://www.grid.ac/institutes/grid.417899.a>
+	<http://risis.eu/eter_2014/resource/UK0048>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/34281453........... http://www.grid.ac/institutes/grid.417899.a................. 1........................................................... [Harper Adams University] was compared to [Harper Adams University] 
+	http://www.grid.ac/institutes/grid.417899.a................. http://risis.eu/orgref_20170703/resource/34281453........... 1........................................................... [Harper Adams University] was compared to [Harper Adams University] 
+	http://www.grid.ac/institutes/grid.417899.a................. http://risis.eu/eter_2014/resource/UK0048................... 1........................................................... [Harper Adams University] was compared to [Harper Adams University] 
+	http://risis.eu/eter_2014/resource/UK0048................... http://www.grid.ac/institutes/grid.417899.a................. 1........................................................... [Harper Adams University] was compared to [Harper Adams University] 
+	http://risis.eu/cordisH2020/resource/participant_996754541.. http://www.grid.ac/institutes/grid.417899.a................. 1........................................................... [Harper Adams University] was compared to [HARPER ADAMS UNIVERSITY] 
+	http://www.grid.ac/institutes/grid.417899.a................. http://risis.eu/cordisH2020/resource/participant_996754541.. 1........................................................... [Harper Adams University] was compared to [HARPER ADAMS UNIVERSITY] 
+	http://risis.eu/orgref_20170703/resource/34281453........... http://risis.eu/eter_2014/resource/UK0048................... 1........................................................... [Harper Adams University] was compared to [Harper Adams University] 
+	http://risis.eu/eter_2014/resource/UK0048................... http://risis.eu/orgref_20170703/resource/34281453........... 1........................................................... [Harper Adams University] was compared to [Harper Adams University] 
+	http://risis.eu/orgref_20170703/resource/34281453........... http://risis.eu/cordisH2020/resource/participant_996754541.. 1........................................................... [Harper Adams University] was compared to [HARPER ADAMS UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_996754541.. http://risis.eu/orgref_20170703/resource/34281453........... 1........................................................... [Harper Adams University] was compared to [HARPER ADAMS UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_996754541.. http://risis.eu/eter_2014/resource/UK0048................... 1........................................................... [HARPER ADAMS UNIVERSITY] was compared to [Harper Adams University] 
+	http://risis.eu/eter_2014/resource/UK0048................... http://risis.eu/cordisH2020/resource/participant_996754541.. 1........................................................... [HARPER ADAMS UNIVERSITY] was compared to [Harper Adams University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/34281453........... http://en.wikipedia.org/wiki?curid=34281453................. 
+	http://risis.eu/orgref_20170703/resource/34281453........... http://www.wikidata.org/wiki/Q5663364....................... 
+	http://risis.eu/orgref_20170703/resource/34281453........... http://www.harper-adams.ac.uk............................... 
+	http://risis.eu/orgref_20170703/resource/34281453........... Harper Adams University..................................... 
+	http://risis.eu/cordisH2020/resource/participant_996754541.. http://risis.eu/cordisH2020/resource/www.harper-adams.ac.uk. 
+	http://risis.eu/cordisH2020/resource/participant_996754541.. HARPER ADAMS UNIVERSITY..................................... 
+	http://www.grid.ac/institutes/grid.417899.a................. -2.427323................................................... 
+	http://www.grid.ac/institutes/grid.417899.a................. 52.77948.................................................... 
+	http://www.grid.ac/institutes/grid.417899.a................. http://www.harper-adams.ac.uk/.............................. 
+	http://www.grid.ac/institutes/grid.417899.a................. Harper Adams University..................................... 
+	http://risis.eu/eter_2014/resource/UK0048................... 52,780004................................................... 
+	http://risis.eu/eter_2014/resource/UK0048................... -2,425381................................................... 
+	http://risis.eu/eter_2014/resource/UK0048................... http://www.harper-adams.ac.uk/.............................. 
+	http://risis.eu/eter_2014/resource/UK0048................... a........................................................... 
+	http://risis.eu/eter_2014/resource/UK0048................... Harper Adams University..................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:34281453', '3:grid.417899.a'), ('2:participant_996754541', '1:34281453'), ('3:grid.417899.a', '2:participant_996754541'), ('4:UK0048', '1:34281453'), ('4:UK0048', '2:participant_996754541'), ('4:UK0048', '3:grid.417899.a')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

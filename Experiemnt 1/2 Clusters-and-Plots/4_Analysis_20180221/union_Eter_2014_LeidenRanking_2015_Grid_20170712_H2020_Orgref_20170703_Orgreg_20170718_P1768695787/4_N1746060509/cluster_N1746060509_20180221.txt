@@ -1,0 +1,69 @@
+SIZE    4   
+CLUSTER 179 
+NAME    N1746060509
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.417196.c>
+	<http://risis.eu/orgref_20170703/resource/8775052>
+	<http://www.grid.ac/institutes/grid.415680.e>
+	<http://risis.eu/orgref_20170703/resource/20868818>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.415680.e........ http://risis.eu/orgref_20170703/resource/20868818.. 1.................................................. [Shenyang Medical College] was compared to [Shenyang Medical College] 
+	http://risis.eu/orgref_20170703/resource/20868818.. http://www.grid.ac/institutes/grid.415680.e........ 1.................................................. [Shenyang Medical College] was compared to [Shenyang Medical College] 
+	http://www.grid.ac/institutes/grid.417196.c........ http://risis.eu/orgref_20170703/resource/8775052... 1.................................................. [Penang Medical College] was compared to [Penang Medical College] 
+	http://risis.eu/orgref_20170703/resource/8775052... http://www.grid.ac/institutes/grid.417196.c........ 1.................................................. [Penang Medical College] was compared to [Penang Medical College] 
+	http://risis.eu/orgref_20170703/resource/8775052... http://risis.eu/orgref_20170703/resource/20868818.. 0.875.............................................. [Shenyang Medical College] was compared to [Penang Medical College] 
+	http://risis.eu/orgref_20170703/resource/20868818.. http://risis.eu/orgref_20170703/resource/8775052... 0.875.............................................. [Shenyang Medical College] was compared to [Penang Medical College] 
+	http://www.grid.ac/institutes/grid.417196.c........ http://www.grid.ac/institutes/grid.415680.e........ 0.875.............................................. [Shenyang Medical College] was compared to [Penang Medical College] 
+	http://www.grid.ac/institutes/grid.415680.e........ http://www.grid.ac/institutes/grid.417196.c........ 0.875.............................................. [Shenyang Medical College] was compared to [Penang Medical College] 
+	http://risis.eu/orgref_20170703/resource/8775052... http://www.grid.ac/institutes/grid.415680.e........ 0.875.............................................. [Shenyang Medical College] was compared to [Penang Medical College] 
+	http://www.grid.ac/institutes/grid.415680.e........ http://risis.eu/orgref_20170703/resource/8775052... 0.875.............................................. [Shenyang Medical College] was compared to [Penang Medical College] 
+	http://www.grid.ac/institutes/grid.417196.c........ http://risis.eu/orgref_20170703/resource/20868818.. 0.875.............................................. [Penang Medical College] was compared to [Shenyang Medical College] 
+	http://risis.eu/orgref_20170703/resource/20868818.. http://www.grid.ac/institutes/grid.417196.c........ 0.875.............................................. [Penang Medical College] was compared to [Shenyang Medical College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.417196.c........ 100.30701.......................................... 
+	http://www.grid.ac/institutes/grid.417196.c........ 5.419862........................................... 
+	http://www.grid.ac/institutes/grid.417196.c........ http://www.pmc.edu.my/............................. 
+	http://www.grid.ac/institutes/grid.417196.c........ Penang Medical College............................. 
+	http://risis.eu/orgref_20170703/resource/8775052... http://en.wikipedia.org/wiki?curid=8775052......... 
+	http://risis.eu/orgref_20170703/resource/8775052... http://www.wikidata.org/wiki/Q7162228.............. 
+	http://risis.eu/orgref_20170703/resource/8775052... http://www.pmc.edu.my.............................. 
+	http://risis.eu/orgref_20170703/resource/8775052... Penang Medical College............................. 
+	http://www.grid.ac/institutes/grid.415680.e........ 123.40936.......................................... 
+	http://www.grid.ac/institutes/grid.415680.e........ 41.88859........................................... 
+	http://www.grid.ac/institutes/grid.415680.e........ http://www.symc.edu.cn/web/guest/home.............. 
+	http://www.grid.ac/institutes/grid.415680.e........ Shenyang Advanced Medical School................... 
+	http://www.grid.ac/institutes/grid.415680.e........ Shenyang Municipal Advanced Practice Nurse School.. 
+	http://www.grid.ac/institutes/grid.415680.e........ Shenyang Medical College........................... 
+	http://risis.eu/orgref_20170703/resource/20868818.. http://en.wikipedia.org/wiki?curid=20868818........ 
+	http://risis.eu/orgref_20170703/resource/20868818.. http://www.wikidata.org/wiki/Q7494351.............. 
+	http://risis.eu/orgref_20170703/resource/20868818.. http://www.symc.edu.cn............................. 
+	http://risis.eu/orgref_20170703/resource/20868818.. Shenyang Medical College........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:8775052', '1:grid.417196.c'), ('2:8775052', '3:grid.415680.e'), ('2:8775052', '4:20868818'), ('3:grid.415680.e', '1:grid.417196.c'), ('4:20868818', '1:grid.417196.c'), ('4:20868818', '3:grid.415680.e')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 1627 
+NAME    P495115665
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.449026.d>
+	<http://www.grid.ac/institutes/grid.466073.0>
+	<http://risis.eu/eter_2014/resource/DE0293>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.449026.d.. http://risis.eu/eter_2014/resource/DE0293.... 0.770833333333............................... [protestant university applied sciences darmstadt] was compared to [darmstadt university applied sciences] 
+	http://www.grid.ac/institutes/grid.466073.0.. http://risis.eu/eter_2014/resource/DE0293.... 0.916666666667............................... [evangelische hochschule darmstadt fh] was compared to [evangelische hochschule darmstadt] 
+	http://risis.eu/eter_2014/resource/DE0293.... http://www.grid.ac/institutes/grid.449026.d.. 0.770833333333............................... [protestant university applied sciences darmstadt] was compared to [darmstadt university applied sciences] 
+	http://risis.eu/eter_2014/resource/DE0293.... http://www.grid.ac/institutes/grid.466073.0.. 0.916666666667............................... [evangelische hochschule darmstadt fh] was compared to [evangelische hochschule darmstadt] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.449026.d.. 8.632533..................................... 
+	http://www.grid.ac/institutes/grid.449026.d.. 49.86598..................................... 
+	http://www.grid.ac/institutes/grid.449026.d.. https://www.h-da.de/......................... 
+	http://www.grid.ac/institutes/grid.449026.d.. Darmstadt University of Applied Sciences..... 
+	http://www.grid.ac/institutes/grid.466073.0.. 8.627541..................................... 
+	http://www.grid.ac/institutes/grid.466073.0.. 49.87393..................................... 
+	http://www.grid.ac/institutes/grid.466073.0.. https://www.eh-darmstadt.de/home/............ 
+	http://www.grid.ac/institutes/grid.466073.0.. Evangelische Hochschule Darmstadt............ 
+	http://risis.eu/eter_2014/resource/DE0293.... 49,877635.................................... 
+	http://risis.eu/eter_2014/resource/DE0293.... 8,628536..................................... 
+	http://risis.eu/eter_2014/resource/DE0293.... www.efh-darmstadt.de......................... 
+	http://risis.eu/eter_2014/resource/DE0293.... a............................................ 
+	http://risis.eu/eter_2014/resource/DE0293.... Protestant University of Applied Sciences Darmstadt 
+	http://risis.eu/eter_2014/resource/DE0293.... Evangelische Hochschule Darmstadt (EHD), FH.. 
+
+NETWORK ANALYSIS
+	NETWORK [('P1902696819-DE0293', 'P985282634-grid.466073.0'), ('P1902696819-DE0293', 'P495115665-grid.449026.d')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

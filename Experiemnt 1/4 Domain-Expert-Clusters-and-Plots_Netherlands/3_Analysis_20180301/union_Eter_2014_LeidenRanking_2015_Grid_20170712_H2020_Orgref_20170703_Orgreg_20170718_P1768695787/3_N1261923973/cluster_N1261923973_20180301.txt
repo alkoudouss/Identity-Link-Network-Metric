@@ -1,0 +1,53 @@
+SIZE    3   
+CLUSTER 15065 
+NAME    N1261923973
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.8653.8>
+	<http://risis.eu/leidenRanking_2015/resource/7368>
+	<http://risis.eu/orgreg_20170718/resource/NL3002>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.8653.8......... http://risis.eu/leidenRanking_2015/resource/7368.. 0.904761904762.................................... [Royal Netherlands Meteorological Institute] was compared to [Royal Netherlands Meteorology Institute] 
+	http://www.grid.ac/institutes/grid.8653.8......... http://risis.eu/orgreg_20170718/resource/NL3002... 1................................................. [Royal Netherlands Meteorological Institute] was compared to [Royal Netherlands Meteorological Institute] 
+	http://risis.eu/leidenRanking_2015/resource/7368.. http://www.grid.ac/institutes/grid.8653.8......... 0.904761904762.................................... [Royal Netherlands Meteorological Institute] was compared to [Royal Netherlands Meteorology Institute] 
+	http://risis.eu/leidenRanking_2015/resource/7368.. http://risis.eu/orgreg_20170718/resource/NL3002... 0.904761904762.................................... [Royal Netherlands Meteorological Institute] was compared to [Royal Netherlands Meteorology Institute] 
+	http://risis.eu/orgreg_20170718/resource/NL3002... http://risis.eu/leidenRanking_2015/resource/7368.. 0.904761904762.................................... [Royal Netherlands Meteorological Institute] was compared to [Royal Netherlands Meteorology Institute] 
+	http://risis.eu/orgreg_20170718/resource/NL3002... http://www.grid.ac/institutes/grid.8653.8......... 1................................................. [Royal Netherlands Meteorological Institute] was compared to [Royal Netherlands Meteorological Institute] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 9 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.8653.8......... 5.176281.......................................... 
+	http://www.grid.ac/institutes/grid.8653.8......... 52.103695......................................... 
+	http://www.grid.ac/institutes/grid.8653.8......... http://www.knmi.nl/over-het-knmi/about............ 
+	http://www.grid.ac/institutes/grid.8653.8......... Royal Netherlands Meteorological Institute........ 
+	http://risis.eu/leidenRanking_2015/resource/7368.. Royal Netherlands Meteorology Institute........... 
+	http://risis.eu/orgreg_20170718/resource/NL3002... 5................................................. 
+	http://risis.eu/orgreg_20170718/resource/NL3002... 52................................................ 
+	http://risis.eu/orgreg_20170718/resource/NL3002... http://www.knmi.nl/home........................... 
+	http://risis.eu/orgreg_20170718/resource/NL3002... Royal Netherlands Meteorological Institute........ 
+
+NETWORK ANALYSIS
+	NETWORK [('N1261923973-7368', 'P409450804-grid.8653.8'), ('N893694404-NL3002', 'P409450804-grid.8653.8'), ('N1261923973-7368', 'N893694404-NL3002')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

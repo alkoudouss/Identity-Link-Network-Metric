@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 5998 
+NAME    N2114619550
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/20181300>
+	<http://risis.eu/leidenRanking_2015/resource/3397>
+	<http://www.grid.ac/institutes/grid.440653.0>
+	<http://risis.eu/orgref_20170703/resource/6073100>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.440653.0........ http://risis.eu/orgref_20170703/resource/6073100... 0.961538461538..................................... [Binzhou Medical University] was compared to [Jinzhou Medical University] 
+	http://risis.eu/orgref_20170703/resource/6073100... http://www.grid.ac/institutes/grid.440653.0........ 0.961538461538..................................... [Binzhou Medical University] was compared to [Jinzhou Medical University] 
+	http://risis.eu/orgref_20170703/resource/20181300.. http://risis.eu/leidenRanking_2015/resource/3397... 1.................................................. [Wenzhou Medical University] was compared to [Wenzhou Medical University] 
+	http://risis.eu/leidenRanking_2015/resource/3397... http://risis.eu/orgref_20170703/resource/20181300.. 1.................................................. [Wenzhou Medical University] was compared to [Wenzhou Medical University] 
+	http://risis.eu/orgref_20170703/resource/20181300.. http://risis.eu/orgref_20170703/resource/6073100... 0.923076923077..................................... [Wenzhou Medical University] was compared to [Jinzhou Medical University] 
+	http://risis.eu/orgref_20170703/resource/6073100... http://risis.eu/orgref_20170703/resource/20181300.. 0.923076923077..................................... [Wenzhou Medical University] was compared to [Jinzhou Medical University] 
+	http://risis.eu/leidenRanking_2015/resource/3397... http://risis.eu/orgref_20170703/resource/6073100... 0.923076923077..................................... [Jinzhou Medical University] was compared to [Wenzhou Medical University] 
+	http://risis.eu/orgref_20170703/resource/6073100... http://risis.eu/leidenRanking_2015/resource/3397... 0.923076923077..................................... [Jinzhou Medical University] was compared to [Wenzhou Medical University] 
+	http://risis.eu/orgref_20170703/resource/20181300.. http://www.grid.ac/institutes/grid.440653.0........ 0.923076923077..................................... [Binzhou Medical University] was compared to [Wenzhou Medical University] 
+	http://www.grid.ac/institutes/grid.440653.0........ http://risis.eu/orgref_20170703/resource/20181300.. 0.923076923077..................................... [Binzhou Medical University] was compared to [Wenzhou Medical University] 
+	http://risis.eu/leidenRanking_2015/resource/3397... http://www.grid.ac/institutes/grid.440653.0........ 0.923076923077..................................... [Binzhou Medical University] was compared to [Wenzhou Medical University] 
+	http://www.grid.ac/institutes/grid.440653.0........ http://risis.eu/leidenRanking_2015/resource/3397... 0.923076923077..................................... [Binzhou Medical University] was compared to [Wenzhou Medical University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/20181300.. http://en.wikipedia.org/wiki?curid=20181300........ 
+	http://risis.eu/orgref_20170703/resource/20181300.. http://www.wikidata.org/wiki/Q3338511.............. 
+	http://risis.eu/orgref_20170703/resource/20181300.. http://en.wmu.edu.cn............................... 
+	http://risis.eu/orgref_20170703/resource/20181300.. Wenzhou Medical University......................... 
+	http://risis.eu/leidenRanking_2015/resource/3397... Wenzhou Medical University......................... 
+	http://www.grid.ac/institutes/grid.440653.0........ 121.46116.......................................... 
+	http://www.grid.ac/institutes/grid.440653.0........ 37.459576.......................................... 
+	http://www.grid.ac/institutes/grid.440653.0........ http://wwwe.bzmc.edu.cn/Survey.htm................. 
+	http://www.grid.ac/institutes/grid.440653.0........ Binzhou Medical College............................ 
+	http://www.grid.ac/institutes/grid.440653.0........ Binzhou Medical University......................... 
+	http://risis.eu/orgref_20170703/resource/6073100... http://en.wikipedia.org/wiki?curid=6073100......... 
+	http://risis.eu/orgref_20170703/resource/6073100... http://www.wikidata.org/wiki/Q6202901.............. 
+	http://risis.eu/orgref_20170703/resource/6073100... http://www.jzmu.edu.cn............................. 
+	http://risis.eu/orgref_20170703/resource/6073100... Jinzhou Medical University......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:20181300', '3:grid.440653.0'), ('2:3397', '1:20181300'), ('3:grid.440653.0', '2:3397'), ('4:6073100', '1:20181300'), ('4:6073100', '2:3397'), ('4:6073100', '3:grid.440653.0')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

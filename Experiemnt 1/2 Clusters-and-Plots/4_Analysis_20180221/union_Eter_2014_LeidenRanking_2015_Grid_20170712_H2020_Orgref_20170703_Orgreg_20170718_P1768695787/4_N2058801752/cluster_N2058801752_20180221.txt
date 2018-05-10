@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 17335 
+NAME    N2058801752
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.9580.4>
+	<http://risis.eu/orgreg_20170718/resource/IS0005>
+	<http://risis.eu/orgref_20170703/resource/1119047>
+	<http://risis.eu/leidenRanking_2015/resource/376>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.9580.4......... http://risis.eu/orgref_20170703/resource/1119047.. 1................................................. [Reykjavík University] was compared to [Reykjavík University] 
+	http://risis.eu/orgref_20170703/resource/1119047.. http://www.grid.ac/institutes/grid.9580.4......... 1................................................. [Reykjavík University] was compared to [Reykjavík University] 
+	http://www.grid.ac/institutes/grid.9580.4......... http://risis.eu/leidenRanking_2015/resource/376... 0.95.............................................. [Reykjavík University] was compared to [Reykjav�k University] 
+	http://risis.eu/leidenRanking_2015/resource/376... http://www.grid.ac/institutes/grid.9580.4......... 0.95.............................................. [Reykjavík University] was compared to [Reykjav�k University] 
+	http://risis.eu/orgref_20170703/resource/1119047.. http://risis.eu/leidenRanking_2015/resource/376... 0.95.............................................. [Reykjavík University] was compared to [Reykjav�k University] 
+	http://risis.eu/leidenRanking_2015/resource/376... http://risis.eu/orgref_20170703/resource/1119047.. 0.95.............................................. [Reykjavík University] was compared to [Reykjav�k University] 
+	http://risis.eu/orgreg_20170718/resource/IS0005... http://risis.eu/leidenRanking_2015/resource/376... 0.95.............................................. [Reykjavik University] was compared to [Reykjav�k University] 
+	http://risis.eu/leidenRanking_2015/resource/376... http://risis.eu/orgreg_20170718/resource/IS0005... 0.95.............................................. [Reykjavik University] was compared to [Reykjav�k University] 
+	http://risis.eu/orgreg_20170718/resource/IS0005... http://risis.eu/orgref_20170703/resource/1119047.. 1................................................. [Reykjavík University] was compared to [Reykjavik University] 
+	http://risis.eu/orgref_20170703/resource/1119047.. http://risis.eu/orgreg_20170718/resource/IS0005... 1................................................. [Reykjavík University] was compared to [Reykjavik University] 
+	http://www.grid.ac/institutes/grid.9580.4......... http://risis.eu/orgreg_20170718/resource/IS0005... 1................................................. [Reykjavík University] was compared to [Reykjavik University] 
+	http://risis.eu/orgreg_20170718/resource/IS0005... http://www.grid.ac/institutes/grid.9580.4......... 1................................................. [Reykjavík University] was compared to [Reykjavik University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.9580.4......... -21.924925........................................ 
+	http://www.grid.ac/institutes/grid.9580.4......... 64.123276......................................... 
+	http://www.grid.ac/institutes/grid.9580.4......... http://en.ru.is/.................................. 
+	http://www.grid.ac/institutes/grid.9580.4......... Háskólinn í Reykjavík......................... 
+	http://www.grid.ac/institutes/grid.9580.4......... Reykjavík University............................. 
+	http://risis.eu/orgreg_20170718/resource/IS0005... -21.937521........................................ 
+	http://risis.eu/orgreg_20170718/resource/IS0005... 64.143161......................................... 
+	http://risis.eu/orgreg_20170718/resource/IS0005... http://en.ru.is/.................................. 
+	http://risis.eu/orgreg_20170718/resource/IS0005... Reykjavik University.............................. 
+	http://risis.eu/orgref_20170703/resource/1119047.. http://en.wikipedia.org/wiki?curid=1119047........ 
+	http://risis.eu/orgref_20170703/resource/1119047.. http://www.wikidata.org/wiki/Q1542418............. 
+	http://risis.eu/orgref_20170703/resource/1119047.. http://www.ru.is.................................. 
+	http://risis.eu/orgref_20170703/resource/1119047.. Reykjavík University............................. 
+	http://risis.eu/leidenRanking_2015/resource/376... Reykjav�k University............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:IS0005', '1:grid.9580.4'), ('2:IS0005', '3:1119047'), ('3:1119047', '1:grid.9580.4'), ('4:376', '1:grid.9580.4'), ('4:376', '2:IS0005'), ('4:376', '3:1119047')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

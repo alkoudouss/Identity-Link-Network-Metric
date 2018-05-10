@@ -1,0 +1,72 @@
+SIZE    5   
+CLUSTER 3434 
+NAME    N1890805746
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.415287.d>
+	<http://www.grid.ac/institutes/grid.460991.3>
+	<http://www.grid.ac/institutes/grid.461878.4>
+	<http://www.grid.ac/institutes/grid.413284.8>
+	<http://risis.eu/orgref_20170703/resource/6998797>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.415287.d....... http://www.grid.ac/institutes/grid.460991.3....... 0.928571428571.................................... [Ganga Hospital] was compared to [Ganta Hospital]. 
+	http://www.grid.ac/institutes/grid.460991.3....... http://www.grid.ac/institutes/grid.415287.d....... 0.928571428571.................................... [Ganga Hospital] was compared to [Ganta Hospital]. 
+	http://www.grid.ac/institutes/grid.413284.8....... http://risis.eu/orgref_20170703/resource/6998797.. 1................................................. [Grantham Hospital] was compared to [Grantham Hospital] 
+	http://risis.eu/orgref_20170703/resource/6998797.. http://www.grid.ac/institutes/grid.413284.8....... 1................................................. [Grantham Hospital] was compared to [Grantham Hospital] 
+	http://www.grid.ac/institutes/grid.460991.3....... http://www.grid.ac/institutes/grid.413284.8....... 0.823529411765.................................... [Grantham Hospital] was compared to [Ganta Hospital] 
+	http://www.grid.ac/institutes/grid.413284.8....... http://www.grid.ac/institutes/grid.460991.3....... 0.823529411765.................................... [Grantham Hospital] was compared to [Ganta Hospital] 
+	http://www.grid.ac/institutes/grid.415287.d....... http://www.grid.ac/institutes/grid.461878.4....... 0.823529411765.................................... [Ganga Hospital] was compared to [Guanghua Hospital] 
+	http://www.grid.ac/institutes/grid.461878.4....... http://www.grid.ac/institutes/grid.415287.d....... 0.823529411765.................................... [Ganga Hospital] was compared to [Guanghua Hospital] 
+	http://www.grid.ac/institutes/grid.460991.3....... http://risis.eu/orgref_20170703/resource/6998797.. 0.823529411765.................................... [Ganta Hospital] was compared to [Grantham Hospital] 
+	http://risis.eu/orgref_20170703/resource/6998797.. http://www.grid.ac/institutes/grid.460991.3....... 0.823529411765.................................... [Ganta Hospital] was compared to [Grantham Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 22 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.415287.d....... 76.9525........................................... 
+	http://www.grid.ac/institutes/grid.415287.d....... 11.025159......................................... 
+	http://www.grid.ac/institutes/grid.415287.d....... http://www.gangahospital.com/..................... 
+	http://www.grid.ac/institutes/grid.415287.d....... Ganga Medical Centre & Hospitals.................. 
+	http://www.grid.ac/institutes/grid.415287.d....... Ganga Hospital.................................... 
+	http://www.grid.ac/institutes/grid.460991.3....... -8.970165......................................... 
+	http://www.grid.ac/institutes/grid.460991.3....... 7.236744.......................................... 
+	http://www.grid.ac/institutes/grid.460991.3....... Ganta United Methodist Hospital................... 
+	http://www.grid.ac/institutes/grid.460991.3....... Ganta Hospital.................................... 
+	http://www.grid.ac/institutes/grid.461878.4....... 121.42235......................................... 
+	http://www.grid.ac/institutes/grid.461878.4....... 31.204819......................................... 
+	http://www.grid.ac/institutes/grid.461878.4....... http://www.ghhospital.com.cn/home/show.aspx?showid=IX4vSjwsfkYvSSFSSzVSJDpMJis1VQ%3d%3d 
+	http://www.grid.ac/institutes/grid.461878.4....... Shanghai Guanghua Integrative Medicine Hospital... 
+	http://www.grid.ac/institutes/grid.461878.4....... Guanghua Hospital................................. 
+	http://www.grid.ac/institutes/grid.413284.8....... 114.17317......................................... 
+	http://www.grid.ac/institutes/grid.413284.8....... 22.25119.......................................... 
+	http://www.grid.ac/institutes/grid.413284.8....... http://www.ha.org.hk/visitor/ha_index.asp?Content_ID=0&Lang=ENG&Dimension=100&Ver=HTML 
+	http://www.grid.ac/institutes/grid.413284.8....... Gotlèuhnghùhng Yīyún.......................... 
+	http://www.grid.ac/institutes/grid.413284.8....... Grantham Hospital................................. 
+	http://risis.eu/orgref_20170703/resource/6998797.. http://en.wikipedia.org/wiki?curid=6998797........ 
+	http://risis.eu/orgref_20170703/resource/6998797.. http://www.wikidata.org/wiki/Q5596630............. 
+	http://risis.eu/orgref_20170703/resource/6998797.. Grantham Hospital................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.460991.3', '1:grid.415287.d'), ('3:grid.461878.4', '1:grid.415287.d'), ('4:grid.413284.8', '2:grid.460991.3'), ('5:6998797', '2:grid.460991.3'), ('5:6998797', '4:grid.413284.8')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 1.3
+	AVERAGE NODE CONNECTIVITY RATIO : 0.325
+	BRIDGES                         : 2
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.556
+	QUALITY USED                    : 0.574
+	SUMMARY 1: BRIDGE 0.5 CLOSURE 0.5 DIAMETER 0.667 QUALITY 0.556 QUALITY USED 0.574
+	SUMMARY 2: BRIDGE 0.556 CLOSURE 0.5 DIAMETER 0.667 QUALITY 0.556 QUALITY USED 0.574

@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 12073 
+NAME    N1857517588
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.417866.a>
+	<http://www.grid.ac/institutes/grid.476084.9>
+	<http://risis.eu/orgref_20170703/resource/6789892>
+	<http://www.grid.ac/institutes/grid.476088.5>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.417866.a....... http://www.grid.ac/institutes/grid.476088.5....... 1................................................. [ALK-Abelló (Denmark)] was compared to [ALK-Abelló (Germany)] 
+	http://www.grid.ac/institutes/grid.476088.5....... http://www.grid.ac/institutes/grid.417866.a....... 1................................................. [ALK-Abelló (Denmark)] was compared to [ALK-Abelló (Germany)] 
+	http://www.grid.ac/institutes/grid.417866.a....... http://www.grid.ac/institutes/grid.476084.9....... 1................................................. [ALK-Abelló (Denmark)] was compared to [ALK-Abelló (Spain)] 
+	http://www.grid.ac/institutes/grid.476084.9....... http://www.grid.ac/institutes/grid.417866.a....... 1................................................. [ALK-Abelló (Denmark)] was compared to [ALK-Abelló (Spain)] 
+	http://www.grid.ac/institutes/grid.476084.9....... http://www.grid.ac/institutes/grid.476088.5....... 1................................................. [ALK-Abelló (Spain)] was compared to [ALK-Abelló (Germany)] 
+	http://www.grid.ac/institutes/grid.476088.5....... http://www.grid.ac/institutes/grid.476084.9....... 1................................................. [ALK-Abelló (Spain)] was compared to [ALK-Abelló (Germany)] 
+	http://www.grid.ac/institutes/grid.417866.a....... http://risis.eu/orgref_20170703/resource/6789892.. 1................................................. [ALK-Abelló (Denmark)] was compared to [ALK-Abelló] 
+	http://risis.eu/orgref_20170703/resource/6789892.. http://www.grid.ac/institutes/grid.417866.a....... 1................................................. [ALK-Abelló (Denmark)] was compared to [ALK-Abelló] 
+	http://www.grid.ac/institutes/grid.476084.9....... http://risis.eu/orgref_20170703/resource/6789892.. 1................................................. [ALK-Abelló (Spain)] was compared to [ALK-Abelló] 
+	http://risis.eu/orgref_20170703/resource/6789892.. http://www.grid.ac/institutes/grid.476084.9....... 1................................................. [ALK-Abelló (Spain)] was compared to [ALK-Abelló] 
+	http://risis.eu/orgref_20170703/resource/6789892.. http://www.grid.ac/institutes/grid.476088.5....... 1................................................. [ALK-Abelló (Germany)] was compared to [ALK-Abelló] 
+	http://www.grid.ac/institutes/grid.476088.5....... http://risis.eu/orgref_20170703/resource/6789892.. 1................................................. [ALK-Abelló (Germany)] was compared to [ALK-Abelló] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.417866.a....... 12.488237......................................... 
+	http://www.grid.ac/institutes/grid.417866.a....... 55.87536.......................................... 
+	http://www.grid.ac/institutes/grid.417866.a....... http://www.alk-abello.com/Pages/CorpFrontPage.aspx 
+	http://www.grid.ac/institutes/grid.417866.a....... ALK-Abelló (Denmark)............................. 
+	http://www.grid.ac/institutes/grid.476084.9....... -3.710444......................................... 
+	http://www.grid.ac/institutes/grid.476084.9....... 40.447277......................................... 
+	http://www.grid.ac/institutes/grid.476084.9....... https://www.alk.net/es/........................... 
+	http://www.grid.ac/institutes/grid.476084.9....... ALK-Abelló (Spain)............................... 
+	http://risis.eu/orgref_20170703/resource/6789892.. http://en.wikipedia.org/wiki?curid=6789892........ 
+	http://risis.eu/orgref_20170703/resource/6789892.. http://www.wikidata.org/wiki/Q4652383............. 
+	http://risis.eu/orgref_20170703/resource/6789892.. http://www.alk.net................................ 
+	http://risis.eu/orgref_20170703/resource/6789892.. ALK-Abelló....................................... 
+	http://www.grid.ac/institutes/grid.476088.5....... 10.051393......................................... 
+	http://www.grid.ac/institutes/grid.476088.5....... 53.588417......................................... 
+	http://www.grid.ac/institutes/grid.476088.5....... https://www.alk.de/............................... 
+	http://www.grid.ac/institutes/grid.476088.5....... ALK-Abelló (Germany)............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.476084.9', '1:grid.417866.a'), ('3:6789892', '1:grid.417866.a'), ('3:6789892', '2:grid.476084.9'), ('3:6789892', '4:grid.476088.5'), ('4:grid.476088.5', '1:grid.417866.a'), ('4:grid.476088.5', '2:grid.476084.9')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

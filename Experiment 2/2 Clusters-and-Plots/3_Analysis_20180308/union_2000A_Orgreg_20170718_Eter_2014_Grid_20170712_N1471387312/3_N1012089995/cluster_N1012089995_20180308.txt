@@ -1,0 +1,60 @@
+SIZE    3   
+CLUSTER 157 
+NAME    N1012089995
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/BG0007>
+	<http://www.grid.ac/institutes/grid.20501.36>
+	<http://risis.eu/orgreg_20170718/resource/BG0007>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/eter_2014/resource/BG0007........ http://www.grid.ac/institutes/grid.20501.36...... 0.846153846154................................... [varna technical university] was compared to [medical university varna] 
+	http://risis.eu/eter_2014/resource/BG0007........ http://risis.eu/orgreg_20170718/resource/BG0007.. 1................................................ [varna technical university] was compared to [varna technical university] 
+	http://www.grid.ac/institutes/grid.20501.36...... http://risis.eu/eter_2014/resource/BG0007........ 0.846153846154................................... [varna technical university] was compared to [medical university varna] 
+	http://www.grid.ac/institutes/grid.20501.36...... http://risis.eu/orgreg_20170718/resource/BG0007.. 0.846153846154................................... [varna technical university] was compared to [medical university varna] 
+	http://risis.eu/orgreg_20170718/resource/BG0007.. http://www.grid.ac/institutes/grid.20501.36...... 0.846153846154................................... [varna technical university] was compared to [medical university varna] 
+	http://risis.eu/orgreg_20170718/resource/BG0007.. http://risis.eu/eter_2014/resource/BG0007........ 1................................................ [varna technical university] was compared to [varna technical university] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/eter_2014/resource/BG0007........ 43,204938........................................ 
+	http://risis.eu/eter_2014/resource/BG0007........ 27,901881........................................ 
+	http://risis.eu/eter_2014/resource/BG0007........ http://new.tu-varna.bg/en/index.php/bg/.......... 
+	http://risis.eu/eter_2014/resource/BG0007........ a................................................ 
+	http://risis.eu/eter_2014/resource/BG0007........ Varna Technical University....................... 
+	http://risis.eu/eter_2014/resource/BG0007........ Технически университет - Варна 
+	http://www.grid.ac/institutes/grid.20501.36...... 27.9208.......................................... 
+	http://www.grid.ac/institutes/grid.20501.36...... 43.212177........................................ 
+	http://www.grid.ac/institutes/grid.20501.36...... http://www.mu-varna.bg/EN........................ 
+	http://www.grid.ac/institutes/grid.20501.36...... MU-Varna......................................... 
+	http://www.grid.ac/institutes/grid.20501.36...... Higher Medical Institute of Varna................ 
+	http://www.grid.ac/institutes/grid.20501.36...... Medical University of Varna...................... 
+	http://risis.eu/orgreg_20170718/resource/BG0007.. 27.901881........................................ 
+	http://risis.eu/orgreg_20170718/resource/BG0007.. 43.204938........................................ 
+	http://risis.eu/orgreg_20170718/resource/BG0007.. http://new.tu-varna.bg/en/index.php/bg/.......... 
+	http://risis.eu/orgreg_20170718/resource/BG0007.. Varna Technical University....................... 
+
+NETWORK ANALYSIS
+	NETWORK [('P2117519536-BG0007', 'N1011669205-grid.20501.36'), ('P2117519536-BG0007', 'N1012089995-BG0007'), ('N1012089995-BG0007', 'N1011669205-grid.20501.36')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

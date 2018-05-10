@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 504 
+NAME    N603626910
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.21027.36>
+	<http://risis.eu/eter_2014/resource/UK0044>
+	<http://risis.eu/orgref_20170703/resource/703661>
+	<http://risis.eu/leidenRanking_2015/resource/789>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.21027.36...... http://risis.eu/orgref_20170703/resource/703661.. 1................................................ [University of Gloucestershire] was compared to [University of Gloucestershire] 
+	http://risis.eu/orgref_20170703/resource/703661.. http://www.grid.ac/institutes/grid.21027.36...... 1................................................ [University of Gloucestershire] was compared to [University of Gloucestershire] 
+	http://www.grid.ac/institutes/grid.21027.36...... http://risis.eu/leidenRanking_2015/resource/789.. 1................................................ [University of Gloucestershire] was compared to [University of Gloucestershire] 
+	http://risis.eu/leidenRanking_2015/resource/789.. http://www.grid.ac/institutes/grid.21027.36...... 1................................................ [University of Gloucestershire] was compared to [University of Gloucestershire] 
+	http://www.grid.ac/institutes/grid.21027.36...... http://risis.eu/eter_2014/resource/UK0044........ 1................................................ [University of Gloucestershire] was compared to [University of Gloucestershire] 
+	http://risis.eu/eter_2014/resource/UK0044........ http://www.grid.ac/institutes/grid.21027.36...... 1................................................ [University of Gloucestershire] was compared to [University of Gloucestershire] 
+	http://risis.eu/eter_2014/resource/UK0044........ http://risis.eu/orgref_20170703/resource/703661.. 1................................................ [University of Gloucestershire] was compared to [University of Gloucestershire] 
+	http://risis.eu/orgref_20170703/resource/703661.. http://risis.eu/eter_2014/resource/UK0044........ 1................................................ [University of Gloucestershire] was compared to [University of Gloucestershire] 
+	http://risis.eu/orgref_20170703/resource/703661.. http://risis.eu/leidenRanking_2015/resource/789.. 1................................................ [University of Gloucestershire] was compared to [University of Gloucestershire] 
+	http://risis.eu/leidenRanking_2015/resource/789.. http://risis.eu/orgref_20170703/resource/703661.. 1................................................ [University of Gloucestershire] was compared to [University of Gloucestershire] 
+	http://risis.eu/eter_2014/resource/UK0044........ http://risis.eu/leidenRanking_2015/resource/789.. 1................................................ [University of Gloucestershire] was compared to [University of Gloucestershire] 
+	http://risis.eu/leidenRanking_2015/resource/789.. http://risis.eu/eter_2014/resource/UK0044........ 1................................................ [University of Gloucestershire] was compared to [University of Gloucestershire] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.21027.36...... -2.088797........................................ 
+	http://www.grid.ac/institutes/grid.21027.36...... 51.88791......................................... 
+	http://www.grid.ac/institutes/grid.21027.36...... http://www.glos.ac.uk/Pages/default.aspx......... 
+	http://www.grid.ac/institutes/grid.21027.36...... University of Gloucestershire.................... 
+	http://risis.eu/eter_2014/resource/UK0044........ 51,887496........................................ 
+	http://risis.eu/eter_2014/resource/UK0044........ -2,088788........................................ 
+	http://risis.eu/eter_2014/resource/UK0044........ http://www.glos.ac.uk............................ 
+	http://risis.eu/eter_2014/resource/UK0044........ a................................................ 
+	http://risis.eu/eter_2014/resource/UK0044........ University of Gloucestershire.................... 
+	http://risis.eu/orgref_20170703/resource/703661.. http://en.wikipedia.org/wiki?curid=703661........ 
+	http://risis.eu/orgref_20170703/resource/703661.. http://www.wikidata.org/wiki/Q1816872............ 
+	http://risis.eu/orgref_20170703/resource/703661.. http://www.glos.ac.uk............................ 
+	http://risis.eu/orgref_20170703/resource/703661.. University of Gloucestershire.................... 
+	http://risis.eu/leidenRanking_2015/resource/789.. University of Gloucestershire.................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:UK0044', '1:grid.21027.36'), ('2:UK0044', '3:703661'), ('3:703661', '1:grid.21027.36'), ('4:789', '1:grid.21027.36'), ('4:789', '2:UK0044'), ('4:789', '3:703661')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

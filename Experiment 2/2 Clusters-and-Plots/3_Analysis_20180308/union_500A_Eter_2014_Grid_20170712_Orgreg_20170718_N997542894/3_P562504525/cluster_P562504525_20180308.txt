@@ -1,0 +1,63 @@
+SIZE    3   
+CLUSTER 521 
+NAME    P562504525
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/NL0007>
+	<http://risis.eu/eter_2014/resource/NL0007>
+	<http://www.grid.ac/institutes/grid.5132.5>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/NL0007.. http://www.grid.ac/institutes/grid.5132.5........ 1................................................ [leiden university] was compared to [leiden university] 
+	http://risis.eu/orgreg_20170718/resource/NL0007.. http://risis.eu/eter_2014/resource/NL0007........ 1................................................ [leiden university] was compared to [leiden university] 
+	http://risis.eu/orgreg_20170718/resource/NL0007.. http://risis.eu/eter_2014/resource/NL0007........ 0.842105263158................................... [leiden university] was compared to [universiteit leiden] 
+	http://risis.eu/eter_2014/resource/NL0007........ http://www.grid.ac/institutes/grid.5132.5........ 1................................................ [leiden university] was compared to [leiden university] 
+	http://risis.eu/eter_2014/resource/NL0007........ http://www.grid.ac/institutes/grid.5132.5........ 0.842105263158................................... [universiteit leiden] was compared to [leiden university] 
+	http://risis.eu/eter_2014/resource/NL0007........ http://risis.eu/orgreg_20170718/resource/NL0007.. 1................................................ [leiden university] was compared to [leiden university] 
+	http://risis.eu/eter_2014/resource/NL0007........ http://risis.eu/orgreg_20170718/resource/NL0007.. 0.842105263158................................... [leiden university] was compared to [universiteit leiden] 
+	http://www.grid.ac/institutes/grid.5132.5........ http://risis.eu/eter_2014/resource/NL0007........ 1................................................ [leiden university] was compared to [leiden university] 
+	http://www.grid.ac/institutes/grid.5132.5........ http://risis.eu/eter_2014/resource/NL0007........ 0.842105263158................................... [universiteit leiden] was compared to [leiden university] 
+	http://www.grid.ac/institutes/grid.5132.5........ http://risis.eu/orgreg_20170718/resource/NL0007.. 1................................................ [leiden university] was compared to [leiden university] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/NL0007.. 4.486543......................................... 
+	http://risis.eu/orgreg_20170718/resource/NL0007.. 52.156535........................................ 
+	http://risis.eu/orgreg_20170718/resource/NL0007.. http://www.leidenuniv.nl/........................ 
+	http://risis.eu/orgreg_20170718/resource/NL0007.. Leiden University................................ 
+	http://risis.eu/eter_2014/resource/NL0007........ 52,156535........................................ 
+	http://risis.eu/eter_2014/resource/NL0007........ 4,486543......................................... 
+	http://risis.eu/eter_2014/resource/NL0007........ http://www.leidenuniv.nl/........................ 
+	http://risis.eu/eter_2014/resource/NL0007........ a................................................ 
+	http://risis.eu/eter_2014/resource/NL0007........ Leiden University................................ 
+	http://risis.eu/eter_2014/resource/NL0007........ Universiteit Leiden.............................. 
+	http://www.grid.ac/institutes/grid.5132.5........ 4.485037......................................... 
+	http://www.grid.ac/institutes/grid.5132.5........ 52.15669......................................... 
+	http://www.grid.ac/institutes/grid.5132.5........ http://www.leiden.edu/........................... 
+	http://www.grid.ac/institutes/grid.5132.5........ Rijksuniversiteit Leiden......................... 
+	http://www.grid.ac/institutes/grid.5132.5........ Leiden University................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('P562504525-NL0007', 'P1823985502-grid.5132.5'), ('P562504525-NL0007', 'P597070420-NL0007'), ('P597070420-NL0007', 'P1823985502-grid.5132.5')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

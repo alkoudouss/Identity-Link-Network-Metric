@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 7432 
+NAME    N2026563459
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.10400.35>
+	<http://risis.eu/leidenRanking_2015/resource/2630>
+	<http://risis.eu/eter_2014/resource/FR0218>
+	<http://risis.eu/orgref_20170703/resource/13955537>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.10400.35........ http://risis.eu/orgref_20170703/resource/13955537.. 1.................................................. [University of Rouen] was compared to [University of Rouen] 
+	http://risis.eu/orgref_20170703/resource/13955537.. http://www.grid.ac/institutes/grid.10400.35........ 1.................................................. [University of Rouen] was compared to [University of Rouen] 
+	http://www.grid.ac/institutes/grid.10400.35........ http://risis.eu/leidenRanking_2015/resource/2630... 1.................................................. [University of Rouen] was compared to [University of Rouen] 
+	http://risis.eu/leidenRanking_2015/resource/2630... http://www.grid.ac/institutes/grid.10400.35........ 1.................................................. [University of Rouen] was compared to [University of Rouen] 
+	http://www.grid.ac/institutes/grid.10400.35........ http://risis.eu/eter_2014/resource/FR0218.......... 0.9375............................................. [University of Rouen] was compared to [Université de Rouen] 
+	http://risis.eu/eter_2014/resource/FR0218.......... http://www.grid.ac/institutes/grid.10400.35........ 0.9375............................................. [University of Rouen] was compared to [Université de Rouen] 
+	http://risis.eu/eter_2014/resource/FR0218.......... http://risis.eu/orgref_20170703/resource/13955537.. 0.9375............................................. [University of Rouen] was compared to [Université de Rouen] 
+	http://risis.eu/orgref_20170703/resource/13955537.. http://risis.eu/eter_2014/resource/FR0218.......... 0.9375............................................. [University of Rouen] was compared to [Université de Rouen] 
+	http://risis.eu/leidenRanking_2015/resource/2630... http://risis.eu/orgref_20170703/resource/13955537.. 1.................................................. [University of Rouen] was compared to [University of Rouen] 
+	http://risis.eu/orgref_20170703/resource/13955537.. http://risis.eu/leidenRanking_2015/resource/2630... 1.................................................. [University of Rouen] was compared to [University of Rouen] 
+	http://risis.eu/leidenRanking_2015/resource/2630... http://risis.eu/eter_2014/resource/FR0218.......... 0.9375............................................. [Université de Rouen] was compared to [University of Rouen] 
+	http://risis.eu/eter_2014/resource/FR0218.......... http://risis.eu/leidenRanking_2015/resource/2630... 0.9375............................................. [Université de Rouen] was compared to [University of Rouen] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.10400.35........ 1.067002........................................... 
+	http://www.grid.ac/institutes/grid.10400.35........ 49.460003.......................................... 
+	http://www.grid.ac/institutes/grid.10400.35........ http://www.univ-rouen.fr/.......................... 
+	http://www.grid.ac/institutes/grid.10400.35........ University of Rouen................................ 
+	http://risis.eu/leidenRanking_2015/resource/2630... University of Rouen................................ 
+	http://risis.eu/eter_2014/resource/FR0218.......... 49,459518.......................................... 
+	http://risis.eu/eter_2014/resource/FR0218.......... 1,068952........................................... 
+	http://risis.eu/eter_2014/resource/FR0218.......... http://www.univ-rouen.fr/.......................... 
+	http://risis.eu/eter_2014/resource/FR0218.......... m.................................................. 
+	http://risis.eu/eter_2014/resource/FR0218.......... University of Rouen................................ 
+	http://risis.eu/eter_2014/resource/FR0218.......... Université de Rouen............................... 
+	http://risis.eu/orgref_20170703/resource/13955537.. http://en.wikipedia.org/wiki?curid=13955537........ 
+	http://risis.eu/orgref_20170703/resource/13955537.. http://www.wikidata.org/wiki/Q494247............... 
+	http://risis.eu/orgref_20170703/resource/13955537.. http://www.univ-rouen.fr........................... 
+	http://risis.eu/orgref_20170703/resource/13955537.. University of Rouen................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:2630', '1:grid.10400.35'), ('2:2630', '3:FR0218'), ('2:2630', '4:13955537'), ('3:FR0218', '1:grid.10400.35'), ('3:FR0218', '4:13955537'), ('4:13955537', '1:grid.10400.35')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

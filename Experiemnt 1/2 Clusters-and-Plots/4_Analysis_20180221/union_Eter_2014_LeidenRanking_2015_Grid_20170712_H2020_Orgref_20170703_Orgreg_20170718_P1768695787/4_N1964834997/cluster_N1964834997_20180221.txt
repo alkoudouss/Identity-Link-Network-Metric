@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 1567 
+NAME    N1964834997
+
+RESOURCES INVOLVED
+	<http://risis.eu/cordisH2020/resource/participant_999870860>
+	<http://risis.eu/leidenRanking_2015/resource/1412>
+	<http://www.grid.ac/institutes/grid.12981.33>
+	<http://risis.eu/orgref_20170703/resource/545871>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.12981.33................. http://risis.eu/orgref_20170703/resource/545871............. 1........................................................... [Sun Yat-sen University] was compared to [Sun Yat-sen University] 
+	http://risis.eu/orgref_20170703/resource/545871............. http://www.grid.ac/institutes/grid.12981.33................. 1........................................................... [Sun Yat-sen University] was compared to [Sun Yat-sen University] 
+	http://risis.eu/leidenRanking_2015/resource/1412............ http://www.grid.ac/institutes/grid.12981.33................. 1........................................................... [Sun Yat-sen University] was compared to [Sun Yat-sen University] 
+	http://www.grid.ac/institutes/grid.12981.33................. http://risis.eu/leidenRanking_2015/resource/1412............ 1........................................................... [Sun Yat-sen University] was compared to [Sun Yat-sen University] 
+	http://risis.eu/cordisH2020/resource/participant_999870860.. http://www.grid.ac/institutes/grid.12981.33................. 1........................................................... [Sun Yat-sen University] was compared to [SUN YAT-SEN UNIVERSITY] 
+	http://www.grid.ac/institutes/grid.12981.33................. http://risis.eu/cordisH2020/resource/participant_999870860.. 1........................................................... [Sun Yat-sen University] was compared to [SUN YAT-SEN UNIVERSITY] 
+	http://risis.eu/leidenRanking_2015/resource/1412............ http://risis.eu/orgref_20170703/resource/545871............. 1........................................................... [Sun Yat-sen University] was compared to [Sun Yat-sen University] 
+	http://risis.eu/orgref_20170703/resource/545871............. http://risis.eu/leidenRanking_2015/resource/1412............ 1........................................................... [Sun Yat-sen University] was compared to [Sun Yat-sen University] 
+	http://risis.eu/cordisH2020/resource/participant_999870860.. http://risis.eu/orgref_20170703/resource/545871............. 1........................................................... [Sun Yat-sen University] was compared to [SUN YAT-SEN UNIVERSITY] 
+	http://risis.eu/orgref_20170703/resource/545871............. http://risis.eu/cordisH2020/resource/participant_999870860.. 1........................................................... [Sun Yat-sen University] was compared to [SUN YAT-SEN UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_999870860.. http://risis.eu/leidenRanking_2015/resource/1412............ 1........................................................... [SUN YAT-SEN UNIVERSITY] was compared to [Sun Yat-sen University] 
+	http://risis.eu/leidenRanking_2015/resource/1412............ http://risis.eu/cordisH2020/resource/participant_999870860.. 1........................................................... [SUN YAT-SEN UNIVERSITY] was compared to [Sun Yat-sen University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_999870860.. SUN YAT-SEN UNIVERSITY...................................... 
+	http://risis.eu/leidenRanking_2015/resource/1412............ Sun Yat-sen University...................................... 
+	http://www.grid.ac/institutes/grid.12981.33................. 113.29806................................................... 
+	http://www.grid.ac/institutes/grid.12981.33................. 23.0962..................................................... 
+	http://www.grid.ac/institutes/grid.12981.33................. http://www.sysu.edu.cn/2012/en/index.htm.................... 
+	http://www.grid.ac/institutes/grid.12981.33................. Sun Yat-sen University...................................... 
+	http://risis.eu/orgref_20170703/resource/545871............. http://en.wikipedia.org/wiki?curid=545871................... 
+	http://risis.eu/orgref_20170703/resource/545871............. http://www.wikidata.org/wiki/Q178972........................ 
+	http://risis.eu/orgref_20170703/resource/545871............. http://www.sysu.edu.cn...................................... 
+	http://risis.eu/orgref_20170703/resource/545871............. Sun Yat-sen University...................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:participant_999870860', '3:grid.12981.33'), ('1:participant_999870860', '4:545871'), ('2:1412', '1:participant_999870860'), ('3:grid.12981.33', '2:1412'), ('4:545871', '2:1412'), ('4:545871', '3:grid.12981.33')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 2138 
+NAME    N1854179813
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.18147.3b>
+	<http://risis.eu/orgreg_20170718/resource/IT0090>
+	<http://risis.eu/orgref_20170703/resource/4946009>
+	<http://risis.eu/leidenRanking_2015/resource/811>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.18147.3b....... http://risis.eu/orgref_20170703/resource/4946009.. 1................................................. [University of Insubria] was compared to [University of Insubria] 
+	http://risis.eu/orgref_20170703/resource/4946009.. http://www.grid.ac/institutes/grid.18147.3b....... 1................................................. [University of Insubria] was compared to [University of Insubria] 
+	http://www.grid.ac/institutes/grid.18147.3b....... http://risis.eu/leidenRanking_2015/resource/811... 1................................................. [University of Insubria] was compared to [University of Insubria] 
+	http://risis.eu/leidenRanking_2015/resource/811... http://www.grid.ac/institutes/grid.18147.3b....... 1................................................. [University of Insubria] was compared to [University of Insubria] 
+	http://risis.eu/orgref_20170703/resource/4946009.. http://risis.eu/leidenRanking_2015/resource/811... 1................................................. [University of Insubria] was compared to [University of Insubria] 
+	http://risis.eu/leidenRanking_2015/resource/811... http://risis.eu/orgref_20170703/resource/4946009.. 1................................................. [University of Insubria] was compared to [University of Insubria] 
+	http://risis.eu/orgreg_20170718/resource/IT0090... http://risis.eu/leidenRanking_2015/resource/811... 1................................................. [University of Insubria] was compared to [University of Insubria] 
+	http://risis.eu/leidenRanking_2015/resource/811... http://risis.eu/orgreg_20170718/resource/IT0090... 1................................................. [University of Insubria] was compared to [University of Insubria] 
+	http://risis.eu/orgreg_20170718/resource/IT0090... http://risis.eu/orgref_20170703/resource/4946009.. 1................................................. [University of Insubria] was compared to [University of Insubria] 
+	http://risis.eu/orgref_20170703/resource/4946009.. http://risis.eu/orgreg_20170718/resource/IT0090... 1................................................. [University of Insubria] was compared to [University of Insubria] 
+	http://www.grid.ac/institutes/grid.18147.3b....... http://risis.eu/orgreg_20170718/resource/IT0090... 1................................................. [University of Insubria] was compared to [University of Insubria] 
+	http://risis.eu/orgreg_20170718/resource/IT0090... http://www.grid.ac/institutes/grid.18147.3b....... 1................................................. [University of Insubria] was compared to [University of Insubria] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.18147.3b....... 8.827378.......................................... 
+	http://www.grid.ac/institutes/grid.18147.3b....... 45.814236......................................... 
+	http://www.grid.ac/institutes/grid.18147.3b....... http://www.uninsubria.eu/......................... 
+	http://www.grid.ac/institutes/grid.18147.3b....... University of Insubria............................ 
+	http://risis.eu/orgreg_20170718/resource/IT0090... 45.820599......................................... 
+	http://risis.eu/orgreg_20170718/resource/IT0090... 8.825058.......................................... 
+	http://risis.eu/orgreg_20170718/resource/IT0090... http://www.uninsubria.it.......................... 
+	http://risis.eu/orgreg_20170718/resource/IT0090... University of Insubria............................ 
+	http://risis.eu/orgref_20170703/resource/4946009.. http://en.wikipedia.org/wiki?curid=4946009........ 
+	http://risis.eu/orgref_20170703/resource/4946009.. http://www.wikidata.org/wiki/Q1309998............. 
+	http://risis.eu/orgref_20170703/resource/4946009.. http://www.uninsubria.eu.......................... 
+	http://risis.eu/orgref_20170703/resource/4946009.. University of Insubria............................ 
+	http://risis.eu/leidenRanking_2015/resource/811... University of Insubria............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:IT0090', '1:grid.18147.3b'), ('2:IT0090', '3:4946009'), ('3:4946009', '1:grid.18147.3b'), ('4:811', '1:grid.18147.3b'), ('4:811', '2:IT0090'), ('4:811', '3:4946009')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

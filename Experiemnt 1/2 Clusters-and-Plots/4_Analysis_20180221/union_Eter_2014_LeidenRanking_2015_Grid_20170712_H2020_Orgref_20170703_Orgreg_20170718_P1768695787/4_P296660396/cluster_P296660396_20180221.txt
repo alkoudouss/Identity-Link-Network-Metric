@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 14603 
+NAME    P296660396
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.454750.7>
+	<http://risis.eu/orgref_20170703/resource/30155941>
+	<http://risis.eu/orgref_20170703/resource/30673483>
+	<http://risis.eu/orgref_20170703/resource/1988499>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.454750.7........ http://risis.eu/orgref_20170703/resource/30155941.. 0.857142857143..................................... [Civil Aviation Administration of China] was compared to [State Civil Aviation Administration (Azerbaijan)] 
+	http://risis.eu/orgref_20170703/resource/30155941.. http://www.grid.ac/institutes/grid.454750.7........ 0.857142857143..................................... [Civil Aviation Administration of China] was compared to [State Civil Aviation Administration (Azerbaijan)] 
+	http://www.grid.ac/institutes/grid.454750.7........ http://risis.eu/orgref_20170703/resource/1988499... 1.................................................. [Civil Aviation Administration of China] was compared to [Civil Aviation Administration of China] 
+	http://risis.eu/orgref_20170703/resource/1988499... http://www.grid.ac/institutes/grid.454750.7........ 1.................................................. [Civil Aviation Administration of China] was compared to [Civil Aviation Administration of China] 
+	http://www.grid.ac/institutes/grid.454750.7........ http://risis.eu/orgref_20170703/resource/30673483.. 0.868421052632..................................... [Civil Aviation Administration of China] was compared to [National Civil Aviation Administration] 
+	http://risis.eu/orgref_20170703/resource/30673483.. http://www.grid.ac/institutes/grid.454750.7........ 0.868421052632..................................... [Civil Aviation Administration of China] was compared to [National Civil Aviation Administration] 
+	http://risis.eu/orgref_20170703/resource/30155941.. http://risis.eu/orgref_20170703/resource/30673483.. 0.815789473684..................................... [State Civil Aviation Administration (Azerbaijan)] was compared to [National Civil Aviation Administration] 
+	http://risis.eu/orgref_20170703/resource/30673483.. http://risis.eu/orgref_20170703/resource/30155941.. 0.815789473684..................................... [State Civil Aviation Administration (Azerbaijan)] was compared to [National Civil Aviation Administration] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.454750.7........ 116.41271.......................................... 
+	http://www.grid.ac/institutes/grid.454750.7........ 39.92528........................................... 
+	http://www.grid.ac/institutes/grid.454750.7........ http://www.chinacivilaviation.com/................. 
+	http://www.grid.ac/institutes/grid.454750.7........ General Administration of Civil Aviation of China.. 
+	http://www.grid.ac/institutes/grid.454750.7........ Zhōngguó Mínyòng Hángkōng Jú................ 
+	http://www.grid.ac/institutes/grid.454750.7........ Civil Aviation Administration of China............. 
+	http://risis.eu/orgref_20170703/resource/30155941.. http://en.wikipedia.org/wiki?curid=30155941........ 
+	http://risis.eu/orgref_20170703/resource/30155941.. http://www.wikidata.org/wiki/Q4146547.............. 
+	http://risis.eu/orgref_20170703/resource/30155941.. http://www.caa.gov.az.............................. 
+	http://risis.eu/orgref_20170703/resource/30155941.. State Civil Aviation Administration (Azerbaijan)... 
+	http://risis.eu/orgref_20170703/resource/30673483.. http://en.wikipedia.org/wiki?curid=30673483........ 
+	http://risis.eu/orgref_20170703/resource/30673483.. http://www.wikidata.org/wiki/Q6971520.............. 
+	http://risis.eu/orgref_20170703/resource/30673483.. http://www.anac.gob.ar............................. 
+	http://risis.eu/orgref_20170703/resource/30673483.. National Civil Aviation Administration............. 
+	http://risis.eu/orgref_20170703/resource/1988499... http://en.wikipedia.org/wiki?curid=1988499......... 
+	http://risis.eu/orgref_20170703/resource/1988499... http://www.wikidata.org/wiki/Q1329619.............. 
+	http://risis.eu/orgref_20170703/resource/1988499... http://www.caac.gov.cn............................. 
+	http://risis.eu/orgref_20170703/resource/1988499... Civil Aviation Administration of China............. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:30155941', '1:grid.454750.7'), ('3:30673483', '1:grid.454750.7'), ('3:30673483', '2:30155941'), ('4:1988499', '1:grid.454750.7')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

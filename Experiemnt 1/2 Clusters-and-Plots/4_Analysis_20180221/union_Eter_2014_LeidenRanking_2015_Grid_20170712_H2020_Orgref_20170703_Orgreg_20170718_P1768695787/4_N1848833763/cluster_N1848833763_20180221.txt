@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 8386 
+NAME    N1848833763
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.7345.5>
+	<http://risis.eu/cordisH2020/resource/participant_999881336>
+	<http://risis.eu/orgref_20170703/resource/477714>
+	<http://risis.eu/leidenRanking_2015/resource/1052>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.7345.5................... http://risis.eu/orgref_20170703/resource/477714............. 1........................................................... [University of Buenos Aires] was compared to [University of Buenos Aires] 
+	http://risis.eu/orgref_20170703/resource/477714............. http://www.grid.ac/institutes/grid.7345.5................... 1........................................................... [University of Buenos Aires] was compared to [University of Buenos Aires] 
+	http://www.grid.ac/institutes/grid.7345.5................... http://risis.eu/leidenRanking_2015/resource/1052............ 0.875....................................................... [University of Buenos Aires] was compared to [Universidad de Buenos Aires] 
+	http://risis.eu/leidenRanking_2015/resource/1052............ http://www.grid.ac/institutes/grid.7345.5................... 0.875....................................................... [University of Buenos Aires] was compared to [Universidad de Buenos Aires] 
+	http://www.grid.ac/institutes/grid.7345.5................... http://risis.eu/cordisH2020/resource/participant_999881336.. 0.875....................................................... [University of Buenos Aires] was compared to [UNIVERSIDAD DE BUENOS AIRES] 
+	http://risis.eu/cordisH2020/resource/participant_999881336.. http://www.grid.ac/institutes/grid.7345.5................... 0.875....................................................... [University of Buenos Aires] was compared to [UNIVERSIDAD DE BUENOS AIRES] 
+	http://risis.eu/orgref_20170703/resource/477714............. http://risis.eu/leidenRanking_2015/resource/1052............ 0.875....................................................... [University of Buenos Aires] was compared to [Universidad de Buenos Aires] 
+	http://risis.eu/leidenRanking_2015/resource/1052............ http://risis.eu/orgref_20170703/resource/477714............. 0.875....................................................... [University of Buenos Aires] was compared to [Universidad de Buenos Aires] 
+	http://risis.eu/cordisH2020/resource/participant_999881336.. http://risis.eu/orgref_20170703/resource/477714............. 0.875....................................................... [University of Buenos Aires] was compared to [UNIVERSIDAD DE BUENOS AIRES] 
+	http://risis.eu/orgref_20170703/resource/477714............. http://risis.eu/cordisH2020/resource/participant_999881336.. 0.875....................................................... [University of Buenos Aires] was compared to [UNIVERSIDAD DE BUENOS AIRES] 
+	http://risis.eu/cordisH2020/resource/participant_999881336.. http://risis.eu/leidenRanking_2015/resource/1052............ 1........................................................... [UNIVERSIDAD DE BUENOS AIRES] was compared to [Universidad de Buenos Aires] 
+	http://risis.eu/leidenRanking_2015/resource/1052............ http://risis.eu/cordisH2020/resource/participant_999881336.. 1........................................................... [UNIVERSIDAD DE BUENOS AIRES] was compared to [Universidad de Buenos Aires] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.7345.5................... -58.373055.................................................. 
+	http://www.grid.ac/institutes/grid.7345.5................... -34.599724.................................................. 
+	http://www.grid.ac/institutes/grid.7345.5................... http://www.uba.ar/.......................................... 
+	http://www.grid.ac/institutes/grid.7345.5................... University of Buenos Aires.................................. 
+	http://risis.eu/cordisH2020/resource/participant_999881336.. http://risis.eu/cordisH2020/resource/www.uba.ar............. 
+	http://risis.eu/cordisH2020/resource/participant_999881336.. UNIVERSIDAD DE BUENOS AIRES................................. 
+	http://risis.eu/orgref_20170703/resource/477714............. http://en.wikipedia.org/wiki?curid=477714................... 
+	http://risis.eu/orgref_20170703/resource/477714............. http://www.wikidata.org/wiki/Q194223........................ 
+	http://risis.eu/orgref_20170703/resource/477714............. http://www.uba.ar........................................... 
+	http://risis.eu/orgref_20170703/resource/477714............. University of Buenos Aires.................................. 
+	http://risis.eu/leidenRanking_2015/resource/1052............ Universidad de Buenos Aires................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_999881336', '1:grid.7345.5'), ('2:participant_999881336', '3:477714'), ('3:477714', '1:grid.7345.5'), ('4:1052', '1:grid.7345.5'), ('4:1052', '2:participant_999881336'), ('4:1052', '3:477714')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

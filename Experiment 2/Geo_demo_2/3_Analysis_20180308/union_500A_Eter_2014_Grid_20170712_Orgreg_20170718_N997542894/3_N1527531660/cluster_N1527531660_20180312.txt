@@ -1,0 +1,57 @@
+SIZE    3   
+CLUSTER 870 
+NAME    N1527531660
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/PT0140>
+	<http://www.grid.ac/institutes/grid.9983.b>
+	<http://risis.eu/orgreg_20170718/resource/PT0140>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/eter_2014/resource/PT0140........ http://www.grid.ac/institutes/grid.9983.b........ 0.736842105263................................... [universidade lisboa] was compared to [university lisbon] 
+	http://risis.eu/eter_2014/resource/PT0140........ http://risis.eu/orgreg_20170718/resource/PT0140.. 1................................................ [universidade lisboa] was compared to [universidade lisboa] 
+	http://www.grid.ac/institutes/grid.9983.b........ http://risis.eu/eter_2014/resource/PT0140........ 0.736842105263................................... [universidade lisboa] was compared to [university lisbon] 
+	http://www.grid.ac/institutes/grid.9983.b........ http://risis.eu/orgreg_20170718/resource/PT0140.. 0.736842105263................................... [universidade lisboa] was compared to [university lisbon] 
+	http://risis.eu/orgreg_20170718/resource/PT0140.. http://www.grid.ac/institutes/grid.9983.b........ 0.736842105263................................... [universidade lisboa] was compared to [university lisbon] 
+	http://risis.eu/orgreg_20170718/resource/PT0140.. http://risis.eu/eter_2014/resource/PT0140........ 1................................................ [universidade lisboa] was compared to [universidade lisboa] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/eter_2014/resource/PT0140........ 38,752768........................................ 
+	http://risis.eu/eter_2014/resource/PT0140........ -9,156876........................................ 
+	http://risis.eu/eter_2014/resource/PT0140........ http://www.ulisboa.pt............................ 
+	http://risis.eu/eter_2014/resource/PT0140........ a................................................ 
+	http://risis.eu/eter_2014/resource/PT0140........ Universidade de Lisboa........................... 
+	http://www.grid.ac/institutes/grid.9983.b........ -9.156779........................................ 
+	http://www.grid.ac/institutes/grid.9983.b........ 38.753227........................................ 
+	http://www.grid.ac/institutes/grid.9983.b........ http://www.ulisboa.pt/........................... 
+	http://www.grid.ac/institutes/grid.9983.b........ University of Lisbon............................. 
+	http://risis.eu/orgreg_20170718/resource/PT0140.. -9.156876........................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0140.. 38.752768........................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0140.. http://www.ulisboa.pt............................ 
+	http://risis.eu/orgreg_20170718/resource/PT0140.. Universidade de Lisboa........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('N944250671-PT0140', 'P1853642027-grid.9983.b'), ('N944250671-PT0140', 'N1527531660-PT0140'), ('N1527531660-PT0140', 'P1853642027-grid.9983.b')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

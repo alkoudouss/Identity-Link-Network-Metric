@@ -1,0 +1,59 @@
+SIZE    3   
+CLUSTER 3 
+NAME    N1695390594
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/EE0011>
+	<http://risis.eu/eter_2014/resource/EE0011>
+	<http://www.grid.ac/institutes/grid.418882.f>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/EE0011.. http://www.grid.ac/institutes/grid.418882.f...... 0.72............................................. [estonian academy arts] was compared to [estonian academy sciences] 
+	http://risis.eu/orgreg_20170718/resource/EE0011.. http://risis.eu/eter_2014/resource/EE0011........ 1................................................ [estonian academy arts] was compared to [estonian academy arts] 
+	http://risis.eu/eter_2014/resource/EE0011........ http://www.grid.ac/institutes/grid.418882.f...... 0.72............................................. [estonian academy arts] was compared to [estonian academy sciences] 
+	http://risis.eu/eter_2014/resource/EE0011........ http://risis.eu/orgreg_20170718/resource/EE0011.. 1................................................ [estonian academy arts] was compared to [estonian academy arts] 
+	http://www.grid.ac/institutes/grid.418882.f...... http://risis.eu/eter_2014/resource/EE0011........ 0.72............................................. [estonian academy arts] was compared to [estonian academy sciences] 
+	http://www.grid.ac/institutes/grid.418882.f...... http://risis.eu/orgreg_20170718/resource/EE0011.. 0.72............................................. [estonian academy arts] was compared to [estonian academy sciences] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/EE0011.. 24.750961........................................ 
+	http://risis.eu/orgreg_20170718/resource/EE0011.. 59.434352........................................ 
+	http://risis.eu/orgreg_20170718/resource/EE0011.. http://www.artun.ee.............................. 
+	http://risis.eu/orgreg_20170718/resource/EE0011.. Estonian Academy of Arts......................... 
+	http://risis.eu/eter_2014/resource/EE0011........ 59,434352........................................ 
+	http://risis.eu/eter_2014/resource/EE0011........ 24,750961........................................ 
+	http://risis.eu/eter_2014/resource/EE0011........ http://www.artun.ee.............................. 
+	http://risis.eu/eter_2014/resource/EE0011........ a................................................ 
+	http://risis.eu/eter_2014/resource/EE0011........ Estonian Academy of Arts......................... 
+	http://risis.eu/eter_2014/resource/EE0011........ Eesti Kunstiakadeemia............................ 
+	http://www.grid.ac/institutes/grid.418882.f...... 24.745369........................................ 
+	http://www.grid.ac/institutes/grid.418882.f...... 59.437214........................................ 
+	http://www.grid.ac/institutes/grid.418882.f...... http://www.akadeemia.ee/......................... 
+	http://www.grid.ac/institutes/grid.418882.f...... Eesti Teaduste Akadeemia......................... 
+	http://www.grid.ac/institutes/grid.418882.f...... Estonian Academy of Sciences..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('N1695390594-EE0011', 'P963799667-EE0011'), ('N1695390594-EE0011', 'P1405895155-grid.418882.f'), ('P963799667-EE0011', 'P1405895155-grid.418882.f')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

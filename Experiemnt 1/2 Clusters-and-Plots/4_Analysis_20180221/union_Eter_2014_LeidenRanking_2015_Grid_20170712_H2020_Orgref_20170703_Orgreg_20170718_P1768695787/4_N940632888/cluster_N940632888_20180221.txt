@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 13475 
+NAME    N940632888
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.428469.5>
+	<http://www.grid.ac/institutes/grid.466914.8>
+	<http://risis.eu/orgref_20170703/resource/34324580>
+	<http://www.grid.ac/institutes/grid.484508.5>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.428469.5........ http://www.grid.ac/institutes/grid.466914.8........ 1.................................................. [National Center for Biotechnology] was compared to [National Center for Biotechnology] 
+	http://www.grid.ac/institutes/grid.466914.8........ http://www.grid.ac/institutes/grid.428469.5........ 1.................................................. [National Center for Biotechnology] was compared to [National Center for Biotechnology] 
+	http://www.grid.ac/institutes/grid.428469.5........ http://www.grid.ac/institutes/grid.484508.5........ 0.9................................................ [National Center for Biotechnology] was compared to [National Nanotechnology Center] 
+	http://www.grid.ac/institutes/grid.484508.5........ http://www.grid.ac/institutes/grid.428469.5........ 0.9................................................ [National Center for Biotechnology] was compared to [National Nanotechnology Center] 
+	http://www.grid.ac/institutes/grid.466914.8........ http://www.grid.ac/institutes/grid.484508.5........ 0.9................................................ [National Center for Biotechnology] was compared to [National Nanotechnology Center] 
+	http://www.grid.ac/institutes/grid.484508.5........ http://www.grid.ac/institutes/grid.466914.8........ 0.9................................................ [National Center for Biotechnology] was compared to [National Nanotechnology Center] 
+	http://www.grid.ac/institutes/grid.428469.5........ http://risis.eu/orgref_20170703/resource/34324580.. 0.827586206897..................................... [National Center for Biotechnology] was compared to [Regional Centre for Biotechnology] 
+	http://risis.eu/orgref_20170703/resource/34324580.. http://www.grid.ac/institutes/grid.428469.5........ 0.827586206897..................................... [National Center for Biotechnology] was compared to [Regional Centre for Biotechnology] 
+	http://www.grid.ac/institutes/grid.466914.8........ http://risis.eu/orgref_20170703/resource/34324580.. 0.827586206897..................................... [National Center for Biotechnology] was compared to [Regional Centre for Biotechnology] 
+	http://risis.eu/orgref_20170703/resource/34324580.. http://www.grid.ac/institutes/grid.466914.8........ 0.827586206897..................................... [National Center for Biotechnology] was compared to [Regional Centre for Biotechnology] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.428469.5........ -3.690223.......................................... 
+	http://www.grid.ac/institutes/grid.428469.5........ 40.54476........................................... 
+	http://www.grid.ac/institutes/grid.428469.5........ http://www.cnb.csic.es/index.php/en/............... 
+	http://www.grid.ac/institutes/grid.428469.5........ National Center for Biotechnology.................. 
+	http://www.grid.ac/institutes/grid.466914.8........ 71.46248........................................... 
+	http://www.grid.ac/institutes/grid.466914.8........ 51.16426........................................... 
+	http://www.grid.ac/institutes/grid.466914.8........ http://www.biocenter.kz/........................... 
+	http://www.grid.ac/institutes/grid.466914.8........ National Center for Biotechnology.................. 
+	http://risis.eu/orgref_20170703/resource/34324580.. http://en.wikipedia.org/wiki?curid=34324580........ 
+	http://risis.eu/orgref_20170703/resource/34324580.. http://www.wikidata.org/wiki/Q7309016.............. 
+	http://risis.eu/orgref_20170703/resource/34324580.. http://www.rcb.res.in.............................. 
+	http://risis.eu/orgref_20170703/resource/34324580.. Regional Centre for Biotechnology.................. 
+	http://www.grid.ac/institutes/grid.484508.5........ 100.603806......................................... 
+	http://www.grid.ac/institutes/grid.484508.5........ 14.079378.......................................... 
+	http://www.grid.ac/institutes/grid.484508.5........ http://www2.nanotec.or.th/en/...................... 
+	http://www.grid.ac/institutes/grid.484508.5........ Thailand National Nanotechnology Center............ 
+	http://www.grid.ac/institutes/grid.484508.5........ National Nanotechnology Center..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.466914.8', '1:grid.428469.5'), ('3:34324580', '1:grid.428469.5'), ('3:34324580', '2:grid.466914.8'), ('4:grid.484508.5', '1:grid.428469.5'), ('4:grid.484508.5', '2:grid.466914.8')]
+	MAX DISTANCE:                   : 0.833
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 2.16666666667
+	AVERAGE NODE CONNECTIVITY RATIO : 0.722222222222
+	BRIDGES                         : 0
+	CLOSURE                         : 0.833
+	DIAMETER                        : 2
+	QUALITY                         : 0.223
+	QUALITY USED                    : 0.223
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223

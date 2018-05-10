@@ -1,0 +1,74 @@
+SIZE    5   
+CLUSTER 7708 
+NAME    N1208009406
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.284009.7>
+	<http://www.grid.ac/institutes/grid.422576.0>
+	<http://www.grid.ac/institutes/grid.280937.7>
+	<http://www.grid.ac/institutes/grid.298600.5>
+	<http://www.grid.ac/institutes/grid.427706.0>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.422576.0.. http://www.grid.ac/institutes/grid.427706.0.. 0.939393939394............................... [American Urological Association] was compared to [American Neurological Association] 
+	http://www.grid.ac/institutes/grid.427706.0.. http://www.grid.ac/institutes/grid.422576.0.. 0.939393939394............................... [American Urological Association] was compared to [American Neurological Association] 
+	http://www.grid.ac/institutes/grid.280937.7.. http://www.grid.ac/institutes/grid.427706.0.. 0.852941176471............................... [American Psychological Association] was compared to [American Neurological Association] 
+	http://www.grid.ac/institutes/grid.427706.0.. http://www.grid.ac/institutes/grid.280937.7.. 0.852941176471............................... [American Psychological Association] was compared to [American Neurological Association] 
+	http://www.grid.ac/institutes/grid.284009.7.. http://www.grid.ac/institutes/grid.280937.7.. 0.911764705882............................... [American Psychological Association] was compared to [American Sociological Association] 
+	http://www.grid.ac/institutes/grid.280937.7.. http://www.grid.ac/institutes/grid.284009.7.. 0.911764705882............................... [American Psychological Association] was compared to [American Sociological Association] 
+	http://www.grid.ac/institutes/grid.422576.0.. http://www.grid.ac/institutes/grid.280937.7.. 0.852941176471............................... [American Psychological Association] was compared to [American Urological Association] 
+	http://www.grid.ac/institutes/grid.280937.7.. http://www.grid.ac/institutes/grid.422576.0.. 0.852941176471............................... [American Psychological Association] was compared to [American Urological Association] 
+	http://www.grid.ac/institutes/grid.284009.7.. http://www.grid.ac/institutes/grid.427706.0.. 0.878787878788............................... [American Sociological Association] was compared to [American Neurological Association] 
+	http://www.grid.ac/institutes/grid.427706.0.. http://www.grid.ac/institutes/grid.284009.7.. 0.878787878788............................... [American Sociological Association] was compared to [American Neurological Association] 
+	http://www.grid.ac/institutes/grid.284009.7.. http://www.grid.ac/institutes/grid.422576.0.. 0.878787878788............................... [American Sociological Association] was compared to [American Urological Association] 
+	http://www.grid.ac/institutes/grid.422576.0.. http://www.grid.ac/institutes/grid.284009.7.. 0.878787878788............................... [American Sociological Association] was compared to [American Urological Association] 
+	http://www.grid.ac/institutes/grid.298600.5.. http://www.grid.ac/institutes/grid.427706.0.. 0.861111111111............................... [American Anthropological Association] was compared to [American Neurological Association] 
+	http://www.grid.ac/institutes/grid.427706.0.. http://www.grid.ac/institutes/grid.298600.5.. 0.861111111111............................... [American Anthropological Association] was compared to [American Neurological Association] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 20 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.284009.7.. -77.0334..................................... 
+	http://www.grid.ac/institutes/grid.284009.7.. 38.902256.................................... 
+	http://www.grid.ac/institutes/grid.284009.7.. http://www.asanet.org/....................... 
+	http://www.grid.ac/institutes/grid.284009.7.. American Sociological Association............ 
+	http://www.grid.ac/institutes/grid.422576.0.. -76.68398.................................... 
+	http://www.grid.ac/institutes/grid.422576.0.. 39.21588..................................... 
+	http://www.grid.ac/institutes/grid.422576.0.. https://www.auanet.org/...................... 
+	http://www.grid.ac/institutes/grid.422576.0.. American Urological Association.............. 
+	http://www.grid.ac/institutes/grid.280937.7.. -77.00755.................................... 
+	http://www.grid.ac/institutes/grid.280937.7.. 38.899906.................................... 
+	http://www.grid.ac/institutes/grid.280937.7.. http://www.apa.org/.......................... 
+	http://www.grid.ac/institutes/grid.280937.7.. American Psychological Association........... 
+	http://www.grid.ac/institutes/grid.298600.5.. -77.086975................................... 
+	http://www.grid.ac/institutes/grid.298600.5.. 38.890102.................................... 
+	http://www.grid.ac/institutes/grid.298600.5.. http://www.americananthro.org/............... 
+	http://www.grid.ac/institutes/grid.298600.5.. American Anthropological Association......... 
+	http://www.grid.ac/institutes/grid.427706.0.. -74.9552..................................... 
+	http://www.grid.ac/institutes/grid.427706.0.. 39.925346.................................... 
+	http://www.grid.ac/institutes/grid.427706.0.. https://myana.org/........................... 
+	http://www.grid.ac/institutes/grid.427706.0.. American Neurological Association............ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.284009.7', '3:grid.280937.7'), ('2:grid.422576.0', '1:grid.284009.7'), ('3:grid.280937.7', '2:grid.422576.0'), ('5:grid.427706.0', '1:grid.284009.7'), ('5:grid.427706.0', '2:grid.422576.0'), ('5:grid.427706.0', '3:grid.280937.7'), ('5:grid.427706.0', '4:grid.298600.5')]
+	MAX DISTANCE:                   : 0.7
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 2.2
+	AVERAGE NODE CONNECTIVITY RATIO : 0.55
+	BRIDGES                         : 1
+	CLOSURE                         : 0.7
+	DIAMETER                        : 2
+	QUALITY                         : 0.294
+	QUALITY USED                    : 0.357
+	SUMMARY 1: BRIDGE 0.25 CLOSURE 0.3 DIAMETER 0.333 QUALITY 0.294 QUALITY USED 0.357
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.3 DIAMETER 0.385 QUALITY 0.294 QUALITY USED 0.357

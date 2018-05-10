@@ -1,0 +1,54 @@
+SIZE    3   
+CLUSTER 323 
+NAME    N350728388
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/DK1005>
+	<http://risis.eu/orgreg_20170718/resource/DK1002>
+	<http://www.grid.ac/institutes/grid.423764.0>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/DK1005.. http://www.grid.ac/institutes/grid.423764.0...... 1................................................ Near each other by at most 500 meter(s).......... 
+	http://risis.eu/orgreg_20170718/resource/DK1002.. http://www.grid.ac/institutes/grid.423764.0...... 1................................................ Near each other by at most 500 meter(s).......... 
+	http://www.grid.ac/institutes/grid.423764.0...... http://risis.eu/orgreg_20170718/resource/DK1002.. 1................................................ Near each other by at most 500 meter(s).......... 
+	http://www.grid.ac/institutes/grid.423764.0...... http://risis.eu/orgreg_20170718/resource/DK1005.. 1................................................ Near each other by at most 500 meter(s).......... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/DK1005.. 12.5038.......................................... 
+	http://risis.eu/orgreg_20170718/resource/DK1005.. 55.7704.......................................... 
+	http://risis.eu/orgreg_20170718/resource/DK1005.. m................................................ 
+	http://risis.eu/orgreg_20170718/resource/DK1005.. Transport DTU.................................... 
+	http://risis.eu/orgreg_20170718/resource/DK1002.. 12.5038.......................................... 
+	http://risis.eu/orgreg_20170718/resource/DK1002.. 55.7704.......................................... 
+	http://risis.eu/orgreg_20170718/resource/DK1002.. m................................................ 
+	http://risis.eu/orgreg_20170718/resource/DK1002.. Danish National Metrology Institute.............. 
+	http://www.grid.ac/institutes/grid.423764.0...... 12.506966........................................ 
+	http://www.grid.ac/institutes/grid.423764.0...... 55.76635......................................... 
+	http://www.grid.ac/institutes/grid.423764.0...... http://www.cowi.dk/menu/home/.................... 
+	http://www.grid.ac/institutes/grid.423764.0...... Cowi (Denmark)................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('N345728371-DK1002', 'P1289089190-grid.423764.0'), ('N350728388-DK1005', 'P1289089190-grid.423764.0')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

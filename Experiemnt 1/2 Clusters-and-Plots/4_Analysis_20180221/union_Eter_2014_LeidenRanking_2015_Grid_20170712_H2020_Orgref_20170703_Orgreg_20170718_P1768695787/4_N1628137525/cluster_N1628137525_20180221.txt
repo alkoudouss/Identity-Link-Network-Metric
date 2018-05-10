@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 10635 
+NAME    N1628137525
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.411820.e>
+	<http://risis.eu/cordisH2020/resource/participant_988392074>
+	<http://risis.eu/orgref_20170703/resource/1030678>
+	<http://risis.eu/eter_2014/resource/UK0018>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.411820.e................. http://risis.eu/orgref_20170703/resource/1030678............ 1........................................................... [Buckinghamshire New University] was compared to [Buckinghamshire New University] 
+	http://risis.eu/orgref_20170703/resource/1030678............ http://www.grid.ac/institutes/grid.411820.e................. 1........................................................... [Buckinghamshire New University] was compared to [Buckinghamshire New University] 
+	http://www.grid.ac/institutes/grid.411820.e................. http://risis.eu/eter_2014/resource/UK0018................... 1........................................................... [Buckinghamshire New University] was compared to [Buckinghamshire New University] 
+	http://risis.eu/eter_2014/resource/UK0018................... http://www.grid.ac/institutes/grid.411820.e................. 1........................................................... [Buckinghamshire New University] was compared to [Buckinghamshire New University] 
+	http://www.grid.ac/institutes/grid.411820.e................. http://risis.eu/cordisH2020/resource/participant_988392074.. 1........................................................... [Buckinghamshire New University] was compared to [BUCKINGHAMSHIRE NEW UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_988392074.. http://www.grid.ac/institutes/grid.411820.e................. 1........................................................... [Buckinghamshire New University] was compared to [BUCKINGHAMSHIRE NEW UNIVERSITY] 
+	http://risis.eu/orgref_20170703/resource/1030678............ http://risis.eu/eter_2014/resource/UK0018................... 1........................................................... [Buckinghamshire New University] was compared to [Buckinghamshire New University] 
+	http://risis.eu/eter_2014/resource/UK0018................... http://risis.eu/orgref_20170703/resource/1030678............ 1........................................................... [Buckinghamshire New University] was compared to [Buckinghamshire New University] 
+	http://risis.eu/cordisH2020/resource/participant_988392074.. http://risis.eu/orgref_20170703/resource/1030678............ 1........................................................... [Buckinghamshire New University] was compared to [BUCKINGHAMSHIRE NEW UNIVERSITY] 
+	http://risis.eu/orgref_20170703/resource/1030678............ http://risis.eu/cordisH2020/resource/participant_988392074.. 1........................................................... [Buckinghamshire New University] was compared to [BUCKINGHAMSHIRE NEW UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_988392074.. http://risis.eu/eter_2014/resource/UK0018................... 1........................................................... [BUCKINGHAMSHIRE NEW UNIVERSITY] was compared to [Buckinghamshire New University] 
+	http://risis.eu/eter_2014/resource/UK0018................... http://risis.eu/cordisH2020/resource/participant_988392074.. 1........................................................... [BUCKINGHAMSHIRE NEW UNIVERSITY] was compared to [Buckinghamshire New University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.411820.e................. -0.751809................................................... 
+	http://www.grid.ac/institutes/grid.411820.e................. 51.627254................................................... 
+	http://www.grid.ac/institutes/grid.411820.e................. http://bucks.ac.uk/......................................... 
+	http://www.grid.ac/institutes/grid.411820.e................. Buckinghamshire New University.............................. 
+	http://risis.eu/cordisH2020/resource/participant_988392074.. BUCKINGHAMSHIRE NEW UNIVERSITY.............................. 
+	http://risis.eu/orgref_20170703/resource/1030678............ http://en.wikipedia.org/wiki?curid=1030678.................. 
+	http://risis.eu/orgref_20170703/resource/1030678............ http://www.wikidata.org/wiki/Q448403........................ 
+	http://risis.eu/orgref_20170703/resource/1030678............ http://www.bucks.ac.uk...................................... 
+	http://risis.eu/orgref_20170703/resource/1030678............ Buckinghamshire New University.............................. 
+	http://risis.eu/eter_2014/resource/UK0018................... 51,627853................................................... 
+	http://risis.eu/eter_2014/resource/UK0018................... -0,752537................................................... 
+	http://risis.eu/eter_2014/resource/UK0018................... http://bucks.ac.uk/......................................... 
+	http://risis.eu/eter_2014/resource/UK0018................... a........................................................... 
+	http://risis.eu/eter_2014/resource/UK0018................... Buckinghamshire New University.............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:participant_988392074', '1:grid.411820.e'), ('2:participant_988392074', '3:1030678'), ('3:1030678', '1:grid.411820.e'), ('4:UK0018', '1:grid.411820.e'), ('4:UK0018', '2:participant_988392074'), ('4:UK0018', '3:1030678')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

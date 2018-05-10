@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 2882 
+NAME    N303441227
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.8509.4>
+	<http://risis.eu/orgref_20170703/resource/2097545>
+	<http://risis.eu/leidenRanking_2015/resource/448>
+	<http://risis.eu/orgreg_20170718/resource/IT0063>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.8509.4......... http://risis.eu/orgref_20170703/resource/2097545.. 1................................................. [Roma Tre University] was compared to [Roma Tre University] 
+	http://risis.eu/orgref_20170703/resource/2097545.. http://www.grid.ac/institutes/grid.8509.4......... 1................................................. [Roma Tre University] was compared to [Roma Tre University] 
+	http://www.grid.ac/institutes/grid.8509.4......... http://risis.eu/leidenRanking_2015/resource/448... 1................................................. [Roma Tre University] was compared to [Roma Tre University] 
+	http://risis.eu/leidenRanking_2015/resource/448... http://www.grid.ac/institutes/grid.8509.4......... 1................................................. [Roma Tre University] was compared to [Roma Tre University] 
+	http://risis.eu/orgref_20170703/resource/2097545.. http://risis.eu/leidenRanking_2015/resource/448... 1................................................. [Roma Tre University] was compared to [Roma Tre University] 
+	http://risis.eu/leidenRanking_2015/resource/448... http://risis.eu/orgref_20170703/resource/2097545.. 1................................................. [Roma Tre University] was compared to [Roma Tre University] 
+	http://risis.eu/leidenRanking_2015/resource/448... http://risis.eu/orgreg_20170718/resource/IT0063... 1................................................. [Roma Tre University] was compared to [Roma Tre University] 
+	http://risis.eu/orgreg_20170718/resource/IT0063... http://risis.eu/leidenRanking_2015/resource/448... 1................................................. [Roma Tre University] was compared to [Roma Tre University] 
+	http://risis.eu/orgref_20170703/resource/2097545.. http://risis.eu/orgreg_20170718/resource/IT0063... 1................................................. [Roma Tre University] was compared to [Roma Tre University] 
+	http://risis.eu/orgreg_20170718/resource/IT0063... http://risis.eu/orgref_20170703/resource/2097545.. 1................................................. [Roma Tre University] was compared to [Roma Tre University] 
+	http://www.grid.ac/institutes/grid.8509.4......... http://risis.eu/orgreg_20170718/resource/IT0063... 1................................................. [Roma Tre University] was compared to [Roma Tre University] 
+	http://risis.eu/orgreg_20170718/resource/IT0063... http://www.grid.ac/institutes/grid.8509.4......... 1................................................. [Roma Tre University] was compared to [Roma Tre University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.8509.4......... 12.479414......................................... 
+	http://www.grid.ac/institutes/grid.8509.4......... 41.86219.......................................... 
+	http://www.grid.ac/institutes/grid.8509.4......... http://www.uniroma3.it/........................... 
+	http://www.grid.ac/institutes/grid.8509.4......... Roma Tre University............................... 
+	http://risis.eu/orgref_20170703/resource/2097545.. http://en.wikipedia.org/wiki?curid=2097545........ 
+	http://risis.eu/orgref_20170703/resource/2097545.. http://www.wikidata.org/wiki/Q2297486............. 
+	http://risis.eu/orgref_20170703/resource/2097545.. http://www.uniroma3.it............................ 
+	http://risis.eu/orgref_20170703/resource/2097545.. Roma Tre University............................... 
+	http://risis.eu/leidenRanking_2015/resource/448... Roma Tre University............................... 
+	http://risis.eu/orgreg_20170718/resource/IT0063... 43.777339......................................... 
+	http://risis.eu/orgreg_20170718/resource/IT0063... 11.09637.......................................... 
+	http://risis.eu/orgreg_20170718/resource/IT0063... http://www.uniroma3.it............................ 
+	http://risis.eu/orgreg_20170718/resource/IT0063... Roma Tre University............................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:2097545', '1:grid.8509.4'), ('3:448', '1:grid.8509.4'), ('3:448', '2:2097545'), ('3:448', '4:IT0063'), ('4:IT0063', '1:grid.8509.4'), ('4:IT0063', '2:2097545')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

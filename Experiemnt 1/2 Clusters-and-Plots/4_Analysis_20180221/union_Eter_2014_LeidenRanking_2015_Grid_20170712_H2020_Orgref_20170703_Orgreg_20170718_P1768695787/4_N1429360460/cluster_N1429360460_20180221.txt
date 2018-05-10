@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 15362 
+NAME    N1429360460
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.410921.f>
+	<http://risis.eu/eter_2014/resource/PT0016>
+	<http://www.grid.ac/institutes/grid.421124.0>
+	<http://risis.eu/orgreg_20170718/resource/PT0016>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/eter_2014/resource/PT0016........ http://www.grid.ac/institutes/grid.421124.0...... 1................................................ [Instituto Politécnico de Beja] was compared to [Instituto Politécnico de Beja] 
+	http://www.grid.ac/institutes/grid.421124.0...... http://risis.eu/eter_2014/resource/PT0016........ 1................................................ [Instituto Politécnico de Beja] was compared to [Instituto Politécnico de Beja] 
+	http://risis.eu/eter_2014/resource/PT0016........ http://risis.eu/orgreg_20170718/resource/PT0016.. 0.846153846154................................... [Polytechnic Institute of Beja] was compared to [Instituto Politécnico de Beja] 
+	http://risis.eu/orgreg_20170718/resource/PT0016.. http://risis.eu/eter_2014/resource/PT0016........ 0.846153846154................................... [Polytechnic Institute of Beja] was compared to [Instituto Politécnico de Beja] 
+	http://www.grid.ac/institutes/grid.410921.f...... http://www.grid.ac/institutes/grid.421124.0...... 0.846153846154................................... [Polytechnic Institute of Beja] was compared to [Instituto Politécnico de Beja] 
+	http://www.grid.ac/institutes/grid.421124.0...... http://www.grid.ac/institutes/grid.410921.f...... 0.846153846154................................... [Polytechnic Institute of Beja] was compared to [Instituto Politécnico de Beja] 
+	http://www.grid.ac/institutes/grid.410921.f...... http://risis.eu/eter_2014/resource/PT0016........ 0.846153846154................................... [Polytechnic Institute of Beja] was compared to [Instituto Politécnico de Beja] 
+	http://risis.eu/eter_2014/resource/PT0016........ http://www.grid.ac/institutes/grid.410921.f...... 0.846153846154................................... [Polytechnic Institute of Beja] was compared to [Instituto Politécnico de Beja] 
+	http://www.grid.ac/institutes/grid.410921.f...... http://risis.eu/orgreg_20170718/resource/PT0016.. 1................................................ [Polytechnic Institute of Beja] was compared to [Polytechnic Institute of Beja] 
+	http://risis.eu/orgreg_20170718/resource/PT0016.. http://www.grid.ac/institutes/grid.410921.f...... 1................................................ [Polytechnic Institute of Beja] was compared to [Polytechnic Institute of Beja] 
+	http://www.grid.ac/institutes/grid.421124.0...... http://risis.eu/orgreg_20170718/resource/PT0016.. 0.846153846154................................... [Instituto Politécnico de Beja] was compared to [Polytechnic Institute of Beja] 
+	http://risis.eu/orgreg_20170718/resource/PT0016.. http://www.grid.ac/institutes/grid.421124.0...... 0.846153846154................................... [Instituto Politécnico de Beja] was compared to [Polytechnic Institute of Beja] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.410921.f...... Polytechnic Institute of Beja.................... 
+	http://risis.eu/eter_2014/resource/PT0016........ 38,013719........................................ 
+	http://risis.eu/eter_2014/resource/PT0016........ -7,873204........................................ 
+	http://risis.eu/eter_2014/resource/PT0016........ http://www.ipbeja.pt............................. 
+	http://risis.eu/eter_2014/resource/PT0016........ a................................................ 
+	http://risis.eu/eter_2014/resource/PT0016........ Polytechnic Institute of Beja.................... 
+	http://risis.eu/eter_2014/resource/PT0016........ Instituto Politécnico de Beja................... 
+	http://www.grid.ac/institutes/grid.421124.0...... -7.863271........................................ 
+	http://www.grid.ac/institutes/grid.421124.0...... 38.01362......................................... 
+	http://www.grid.ac/institutes/grid.421124.0...... https://www.ipbeja.pt/en/Pages/default.aspx...... 
+	http://www.grid.ac/institutes/grid.421124.0...... IPBeja........................................... 
+	http://www.grid.ac/institutes/grid.421124.0...... Instituto Politécnico de Beja................... 
+	http://risis.eu/orgreg_20170718/resource/PT0016.. -7.873204........................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0016.. 38.013719........................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0016.. http://www.ipbeja.pt............................. 
+	http://risis.eu/orgreg_20170718/resource/PT0016.. Polytechnic Institute of Beja.................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:PT0016', '1:grid.410921.f'), ('2:PT0016', '4:PT0016'), ('3:grid.421124.0', '1:grid.410921.f'), ('3:grid.421124.0', '2:PT0016'), ('4:PT0016', '1:grid.410921.f'), ('4:PT0016', '3:grid.421124.0')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

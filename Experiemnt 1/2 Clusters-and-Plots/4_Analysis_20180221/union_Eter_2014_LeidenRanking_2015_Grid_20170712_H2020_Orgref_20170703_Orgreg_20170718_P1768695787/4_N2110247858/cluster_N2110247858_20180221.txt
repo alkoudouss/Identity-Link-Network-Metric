@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 10738 
+NAME    N2110247858
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.5115.0>
+	<http://risis.eu/eter_2014/resource/UK0001>
+	<http://risis.eu/orgref_20170703/resource/96932>
+	<http://risis.eu/leidenRanking_2015/resource/285>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.5115.0........ http://risis.eu/orgref_20170703/resource/96932... 1................................................ [Anglia Ruskin University] was compared to [Anglia Ruskin University] 
+	http://risis.eu/orgref_20170703/resource/96932... http://www.grid.ac/institutes/grid.5115.0........ 1................................................ [Anglia Ruskin University] was compared to [Anglia Ruskin University] 
+	http://www.grid.ac/institutes/grid.5115.0........ http://risis.eu/leidenRanking_2015/resource/285.. 1................................................ [Anglia Ruskin University] was compared to [Anglia Ruskin University] 
+	http://risis.eu/leidenRanking_2015/resource/285.. http://www.grid.ac/institutes/grid.5115.0........ 1................................................ [Anglia Ruskin University] was compared to [Anglia Ruskin University] 
+	http://www.grid.ac/institutes/grid.5115.0........ http://risis.eu/eter_2014/resource/UK0001........ 1................................................ [Anglia Ruskin University] was compared to [Anglia Ruskin University] 
+	http://risis.eu/eter_2014/resource/UK0001........ http://www.grid.ac/institutes/grid.5115.0........ 1................................................ [Anglia Ruskin University] was compared to [Anglia Ruskin University] 
+	http://risis.eu/eter_2014/resource/UK0001........ http://risis.eu/orgref_20170703/resource/96932... 1................................................ [Anglia Ruskin University] was compared to [Anglia Ruskin University] 
+	http://risis.eu/orgref_20170703/resource/96932... http://risis.eu/eter_2014/resource/UK0001........ 1................................................ [Anglia Ruskin University] was compared to [Anglia Ruskin University] 
+	http://risis.eu/orgref_20170703/resource/96932... http://risis.eu/leidenRanking_2015/resource/285.. 1................................................ [Anglia Ruskin University] was compared to [Anglia Ruskin University] 
+	http://risis.eu/leidenRanking_2015/resource/285.. http://risis.eu/orgref_20170703/resource/96932... 1................................................ [Anglia Ruskin University] was compared to [Anglia Ruskin University] 
+	http://risis.eu/eter_2014/resource/UK0001........ http://risis.eu/leidenRanking_2015/resource/285.. 1................................................ [Anglia Ruskin University] was compared to [Anglia Ruskin University] 
+	http://risis.eu/leidenRanking_2015/resource/285.. http://risis.eu/eter_2014/resource/UK0001........ 1................................................ [Anglia Ruskin University] was compared to [Anglia Ruskin University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.5115.0........ 0.133694......................................... 
+	http://www.grid.ac/institutes/grid.5115.0........ 52.203083........................................ 
+	http://www.grid.ac/institutes/grid.5115.0........ http://www.anglia.ac.uk/......................... 
+	http://www.grid.ac/institutes/grid.5115.0........ Anglia Ruskin University......................... 
+	http://risis.eu/eter_2014/resource/UK0001........ 51,74126......................................... 
+	http://risis.eu/eter_2014/resource/UK0001........ 0,474285......................................... 
+	http://risis.eu/eter_2014/resource/UK0001........ http://www.anglia.ac.uk.......................... 
+	http://risis.eu/eter_2014/resource/UK0001........ a................................................ 
+	http://risis.eu/eter_2014/resource/UK0001........ Anglia Ruskin University......................... 
+	http://risis.eu/orgref_20170703/resource/96932... http://en.wikipedia.org/wiki?curid=96932......... 
+	http://risis.eu/orgref_20170703/resource/96932... http://www.wikidata.org/wiki/Q540751............. 
+	http://risis.eu/orgref_20170703/resource/96932... http://anglia.ac.uk.............................. 
+	http://risis.eu/orgref_20170703/resource/96932... Anglia Ruskin University......................... 
+	http://risis.eu/leidenRanking_2015/resource/285.. Anglia Ruskin University......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:UK0001', '1:grid.5115.0'), ('2:UK0001', '3:96932'), ('3:96932', '1:grid.5115.0'), ('4:285', '1:grid.5115.0'), ('4:285', '2:UK0001'), ('4:285', '3:96932')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

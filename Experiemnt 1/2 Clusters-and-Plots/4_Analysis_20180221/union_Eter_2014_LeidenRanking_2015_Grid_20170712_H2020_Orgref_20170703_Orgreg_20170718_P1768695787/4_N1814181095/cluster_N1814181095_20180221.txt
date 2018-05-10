@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 14591 
+NAME    N1814181095
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/SE0010>
+	<http://risis.eu/leidenRanking_2015/resource/678>
+	<http://risis.eu/orgref_20170703/resource/216885>
+	<http://www.grid.ac/institutes/grid.6926.b>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/216885.. http://www.grid.ac/institutes/grid.6926.b........ 1................................................ [Luleå University of Technology] was compared to [Luleå University of Technology] 
+	http://www.grid.ac/institutes/grid.6926.b........ http://risis.eu/orgref_20170703/resource/216885.. 1................................................ [Luleå University of Technology] was compared to [Luleå University of Technology] 
+	http://risis.eu/leidenRanking_2015/resource/678.. http://www.grid.ac/institutes/grid.6926.b........ 0.962962962963................................... [Luleå University of Technology] was compared to [Lule� University of Technology] 
+	http://www.grid.ac/institutes/grid.6926.b........ http://risis.eu/leidenRanking_2015/resource/678.. 0.962962962963................................... [Luleå University of Technology] was compared to [Lule� University of Technology] 
+	http://risis.eu/leidenRanking_2015/resource/678.. http://risis.eu/orgref_20170703/resource/216885.. 0.962962962963................................... [Luleå University of Technology] was compared to [Lule� University of Technology] 
+	http://risis.eu/orgref_20170703/resource/216885.. http://risis.eu/leidenRanking_2015/resource/678.. 0.962962962963................................... [Luleå University of Technology] was compared to [Lule� University of Technology] 
+	http://risis.eu/orgreg_20170718/resource/SE0010.. http://risis.eu/leidenRanking_2015/resource/678.. 0.962962962963................................... [Luleå University of Technology] was compared to [Lule� University of Technology] 
+	http://risis.eu/leidenRanking_2015/resource/678.. http://risis.eu/orgreg_20170718/resource/SE0010.. 0.962962962963................................... [Luleå University of Technology] was compared to [Lule� University of Technology] 
+	http://risis.eu/orgreg_20170718/resource/SE0010.. http://risis.eu/orgref_20170703/resource/216885.. 1................................................ [Luleå University of Technology] was compared to [Luleå University of Technology] 
+	http://risis.eu/orgref_20170703/resource/216885.. http://risis.eu/orgreg_20170718/resource/SE0010.. 1................................................ [Luleå University of Technology] was compared to [Luleå University of Technology] 
+	http://risis.eu/orgreg_20170718/resource/SE0010.. http://www.grid.ac/institutes/grid.6926.b........ 1................................................ [Luleå University of Technology] was compared to [Luleå University of Technology] 
+	http://www.grid.ac/institutes/grid.6926.b........ http://risis.eu/orgreg_20170718/resource/SE0010.. 1................................................ [Luleå University of Technology] was compared to [Luleå University of Technology] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/SE0010.. 14.821725........................................ 
+	http://risis.eu/orgreg_20170718/resource/SE0010.. 57.847064........................................ 
+	http://risis.eu/orgreg_20170718/resource/SE0010.. http://www.ltu.se/?l=en.......................... 
+	http://risis.eu/orgreg_20170718/resource/SE0010.. Luleå University of Technology.................. 
+	http://risis.eu/leidenRanking_2015/resource/678.. Lule� University of Technology................. 
+	http://risis.eu/orgref_20170703/resource/216885.. http://en.wikipedia.org/wiki?curid=216885........ 
+	http://risis.eu/orgref_20170703/resource/216885.. http://www.wikidata.org/wiki/Q1972721............ 
+	http://risis.eu/orgref_20170703/resource/216885.. http://www.ltu.se................................ 
+	http://risis.eu/orgref_20170703/resource/216885.. Luleå University of Technology.................. 
+	http://www.grid.ac/institutes/grid.6926.b........ 22.140137........................................ 
+	http://www.grid.ac/institutes/grid.6926.b........ 65.61845......................................... 
+	http://www.grid.ac/institutes/grid.6926.b........ http://www.ltu.se/............................... 
+	http://www.grid.ac/institutes/grid.6926.b........ Luleå University College........................ 
+	http://www.grid.ac/institutes/grid.6926.b........ Luleå University of Technology.................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:SE0010', '3:216885'), ('1:SE0010', '4:grid.6926.b'), ('2:678', '1:SE0010'), ('2:678', '4:grid.6926.b'), ('3:216885', '2:678'), ('4:grid.6926.b', '3:216885')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

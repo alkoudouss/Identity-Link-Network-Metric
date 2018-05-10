@@ -1,0 +1,55 @@
+SIZE    3   
+CLUSTER 368 
+NAME    N946965298
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/NO1010>
+	<http://risis.eu/orgreg_20170718/resource/NO1032>
+	<http://www.grid.ac/institutes/grid.6407.5>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/NO1010.. http://www.grid.ac/institutes/grid.6407.5........ 1................................................ [norwegian institute water research] was compared to [norwegian institute water research] 
+	http://risis.eu/orgreg_20170718/resource/NO1032.. http://www.grid.ac/institutes/grid.6407.5........ 0.783783783784................................... [norwegian building research institute] was compared to [norwegian institute water research] 
+	http://www.grid.ac/institutes/grid.6407.5........ http://risis.eu/orgreg_20170718/resource/NO1010.. 1................................................ [norwegian institute water research] was compared to [norwegian institute water research] 
+	http://www.grid.ac/institutes/grid.6407.5........ http://risis.eu/orgreg_20170718/resource/NO1032.. 0.783783783784................................... [norwegian building research institute] was compared to [norwegian institute water research] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgreg_20170718/resource/NO1010.. 10.7159.......................................... 
+	http://risis.eu/orgreg_20170718/resource/NO1010.. 59.94229......................................... 
+	http://risis.eu/orgreg_20170718/resource/NO1010.. http://www.niva.no/en/index...................... 
+	http://risis.eu/orgreg_20170718/resource/NO1010.. The Norwegian Institute for Water Research....... 
+	http://risis.eu/orgreg_20170718/resource/NO1032.. 10.721........................................... 
+	http://risis.eu/orgreg_20170718/resource/NO1032.. 59.94028......................................... 
+	http://risis.eu/orgreg_20170718/resource/NO1032.. http://www.sintef.no/en/building-and-infrastructure/ 
+	http://risis.eu/orgreg_20170718/resource/NO1032.. Norwegian Building Research Institute............ 
+	http://www.grid.ac/institutes/grid.6407.5........ 10.715763........................................ 
+	http://www.grid.ac/institutes/grid.6407.5........ 59.942196........................................ 
+	http://www.grid.ac/institutes/grid.6407.5........ http://www.niva.no/en/om-niva/om-instituttet..... 
+	http://www.grid.ac/institutes/grid.6407.5........ Norsk Institutt for Vannforskning................ 
+	http://www.grid.ac/institutes/grid.6407.5........ Norwegian Institute for Water Research........... 
+
+NETWORK ANALYSIS
+	NETWORK [('P2067310112-NO1010', 'N946965298-grid.6407.5'), ('N754897160-NO1032', 'N946965298-grid.6407.5')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

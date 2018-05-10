@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 2591 
+NAME    N776999293
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/1267376>
+	<http://risis.eu/leidenRanking_2015/resource/12>
+	<http://risis.eu/eter_2014/resource/AT0007>
+	<http://risis.eu/cordisH2020/resource/participant_999898117>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/leidenRanking_2015/resource/12.............. http://risis.eu/eter_2014/resource/AT0007................... 0.958333333333.............................................. [Montanuniversität Leoben] was compared to [Montanuniversit�t Leoben] 
+	http://risis.eu/eter_2014/resource/AT0007................... http://risis.eu/leidenRanking_2015/resource/12.............. 0.958333333333.............................................. [Montanuniversität Leoben] was compared to [Montanuniversit�t Leoben] 
+	http://risis.eu/orgref_20170703/resource/1267376............ http://risis.eu/eter_2014/resource/AT0007................... 1........................................................... [Montanuniversität Leoben] was compared to [Montanuniversität Leoben] 
+	http://risis.eu/eter_2014/resource/AT0007................... http://risis.eu/orgref_20170703/resource/1267376............ 1........................................................... [Montanuniversität Leoben] was compared to [Montanuniversität Leoben] 
+	http://risis.eu/orgref_20170703/resource/1267376............ http://risis.eu/leidenRanking_2015/resource/12.............. 0.958333333333.............................................. [Montanuniversität Leoben] was compared to [Montanuniversit�t Leoben] 
+	http://risis.eu/leidenRanking_2015/resource/12.............. http://risis.eu/orgref_20170703/resource/1267376............ 0.958333333333.............................................. [Montanuniversität Leoben] was compared to [Montanuniversit�t Leoben] 
+	http://risis.eu/orgref_20170703/resource/1267376............ http://risis.eu/cordisH2020/resource/participant_999898117.. 1........................................................... [Montanuniversität Leoben] was compared to [MONTANUNIVERSITAT LEOBEN] 
+	http://risis.eu/cordisH2020/resource/participant_999898117.. http://risis.eu/orgref_20170703/resource/1267376............ 1........................................................... [Montanuniversität Leoben] was compared to [MONTANUNIVERSITAT LEOBEN] 
+	http://risis.eu/leidenRanking_2015/resource/12.............. http://risis.eu/cordisH2020/resource/participant_999898117.. 0.958333333333.............................................. [MONTANUNIVERSITAT LEOBEN] was compared to [Montanuniversit�t Leoben] 
+	http://risis.eu/cordisH2020/resource/participant_999898117.. http://risis.eu/leidenRanking_2015/resource/12.............. 0.958333333333.............................................. [MONTANUNIVERSITAT LEOBEN] was compared to [Montanuniversit�t Leoben] 
+	http://risis.eu/eter_2014/resource/AT0007................... http://risis.eu/cordisH2020/resource/participant_999898117.. 1........................................................... [MONTANUNIVERSITAT LEOBEN] was compared to [Montanuniversität Leoben] 
+	http://risis.eu/cordisH2020/resource/participant_999898117.. http://risis.eu/eter_2014/resource/AT0007................... 1........................................................... [MONTANUNIVERSITAT LEOBEN] was compared to [Montanuniversität Leoben] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/1267376............ http://en.wikipedia.org/wiki?curid=1267376.................. 
+	http://risis.eu/orgref_20170703/resource/1267376............ http://www.wikidata.org/wiki/Q674568........................ 
+	http://risis.eu/orgref_20170703/resource/1267376............ http://www.unileoben.ac.at/index.php?id=2765&l=1............ 
+	http://risis.eu/orgref_20170703/resource/1267376............ Montanuniversität Leoben................................... 
+	http://risis.eu/leidenRanking_2015/resource/12.............. Montanuniversit�t Leoben.................................. 
+	http://risis.eu/eter_2014/resource/AT0007................... 47,345272................................................... 
+	http://risis.eu/eter_2014/resource/AT0007................... 15,11539.................................................... 
+	http://risis.eu/eter_2014/resource/AT0007................... http://www.unileoben.ac.at.................................. 
+	http://risis.eu/eter_2014/resource/AT0007................... a........................................................... 
+	http://risis.eu/eter_2014/resource/AT0007................... University of Mining Leoben................................. 
+	http://risis.eu/eter_2014/resource/AT0007................... Montanuniversität Leoben................................... 
+	http://risis.eu/cordisH2020/resource/participant_999898117.. http://risis.eu/cordisH2020/resource/www.unileoben.ac.at.... 
+	http://risis.eu/cordisH2020/resource/participant_999898117.. MONTANUNIVERSITAT LEOBEN.................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:12', '1:1267376'), ('2:12', '4:participant_999898117'), ('3:AT0007', '1:1267376'), ('3:AT0007', '2:12'), ('4:participant_999898117', '1:1267376'), ('4:participant_999898117', '3:AT0007')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

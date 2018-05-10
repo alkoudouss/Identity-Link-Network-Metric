@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 8752 
+NAME    N1527031003
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.116068.8>
+	<http://risis.eu/leidenRanking_2015/resource/1188>
+	<http://risis.eu/orgref_20170703/resource/18879>
+	<http://risis.eu/cordisH2020/resource/participant_998096827>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.116068.8................. http://risis.eu/orgref_20170703/resource/18879.............. 1........................................................... [Massachusetts Institute of Technology] was compared to [Massachusetts Institute of Technology] 
+	http://risis.eu/orgref_20170703/resource/18879.............. http://www.grid.ac/institutes/grid.116068.8................. 1........................................................... [Massachusetts Institute of Technology] was compared to [Massachusetts Institute of Technology] 
+	http://www.grid.ac/institutes/grid.116068.8................. http://risis.eu/leidenRanking_2015/resource/1188............ 1........................................................... [Massachusetts Institute of Technology] was compared to [Massachusetts Institute of Technology] 
+	http://risis.eu/leidenRanking_2015/resource/1188............ http://www.grid.ac/institutes/grid.116068.8................. 1........................................................... [Massachusetts Institute of Technology] was compared to [Massachusetts Institute of Technology] 
+	http://www.grid.ac/institutes/grid.116068.8................. http://risis.eu/cordisH2020/resource/participant_998096827.. 1........................................................... [Massachusetts Institute of Technology] was compared to [MASSACHUSETTS INSTITUTE OF TECHNOLOGY] 
+	http://risis.eu/cordisH2020/resource/participant_998096827.. http://www.grid.ac/institutes/grid.116068.8................. 1........................................................... [Massachusetts Institute of Technology] was compared to [MASSACHUSETTS INSTITUTE OF TECHNOLOGY] 
+	http://risis.eu/leidenRanking_2015/resource/1188............ http://risis.eu/orgref_20170703/resource/18879.............. 1........................................................... [Massachusetts Institute of Technology] was compared to [Massachusetts Institute of Technology] 
+	http://risis.eu/orgref_20170703/resource/18879.............. http://risis.eu/leidenRanking_2015/resource/1188............ 1........................................................... [Massachusetts Institute of Technology] was compared to [Massachusetts Institute of Technology] 
+	http://risis.eu/orgref_20170703/resource/18879.............. http://risis.eu/cordisH2020/resource/participant_998096827.. 1........................................................... [Massachusetts Institute of Technology] was compared to [MASSACHUSETTS INSTITUTE OF TECHNOLOGY] 
+	http://risis.eu/cordisH2020/resource/participant_998096827.. http://risis.eu/orgref_20170703/resource/18879.............. 1........................................................... [Massachusetts Institute of Technology] was compared to [MASSACHUSETTS INSTITUTE OF TECHNOLOGY] 
+	http://risis.eu/leidenRanking_2015/resource/1188............ http://risis.eu/cordisH2020/resource/participant_998096827.. 1........................................................... [MASSACHUSETTS INSTITUTE OF TECHNOLOGY] was compared to [Massachusetts Institute of Technology] 
+	http://risis.eu/cordisH2020/resource/participant_998096827.. http://risis.eu/leidenRanking_2015/resource/1188............ 1........................................................... [MASSACHUSETTS INSTITUTE OF TECHNOLOGY] was compared to [Massachusetts Institute of Technology] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.116068.8................. -71.09211................................................... 
+	http://www.grid.ac/institutes/grid.116068.8................. 42.35982.................................................... 
+	http://www.grid.ac/institutes/grid.116068.8................. http://web.mit.edu/......................................... 
+	http://www.grid.ac/institutes/grid.116068.8................. Massachusetts Institute of Technology....................... 
+	http://risis.eu/leidenRanking_2015/resource/1188............ Massachusetts Institute of Technology....................... 
+	http://risis.eu/orgref_20170703/resource/18879.............. http://en.wikipedia.org/wiki?curid=18879.................... 
+	http://risis.eu/orgref_20170703/resource/18879.............. http://www.wikidata.org/wiki/Q49108......................... 
+	http://risis.eu/orgref_20170703/resource/18879.............. http://www.mit.edu.......................................... 
+	http://risis.eu/orgref_20170703/resource/18879.............. Massachusetts Institute of Technology....................... 
+	http://risis.eu/cordisH2020/resource/participant_998096827.. MASSACHUSETTS INSTITUTE OF TECHNOLOGY....................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1188', '1:grid.116068.8'), ('2:1188', '3:18879'), ('2:1188', '4:participant_998096827'), ('3:18879', '1:grid.116068.8'), ('4:participant_998096827', '1:grid.116068.8'), ('4:participant_998096827', '3:18879')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

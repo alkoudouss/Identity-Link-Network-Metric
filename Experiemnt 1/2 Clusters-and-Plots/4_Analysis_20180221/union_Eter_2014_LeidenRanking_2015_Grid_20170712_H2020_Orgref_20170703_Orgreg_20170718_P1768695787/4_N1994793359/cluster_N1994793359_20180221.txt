@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 769 
+NAME    N1994793359
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.16713.32>
+	<http://www.grid.ac/institutes/grid.434366.0>
+	<http://risis.eu/orgref_20170703/resource/35430397>
+	<http://risis.eu/orgref_20170703/resource/19775547>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.16713.32........ http://www.grid.ac/institutes/grid.434366.0........ 1.................................................. [Ministry of Higher Education Science, and Technology] was compared to [Ministry of Science Technology and Higher Education] 
+	http://www.grid.ac/institutes/grid.434366.0........ http://www.grid.ac/institutes/grid.16713.32........ 1.................................................. [Ministry of Higher Education Science, and Technology] was compared to [Ministry of Science Technology and Higher Education] 
+	http://www.grid.ac/institutes/grid.16713.32........ http://risis.eu/orgref_20170703/resource/35430397.. 1.................................................. [Ministry of Higher Education Science, and Technology] was compared to [Ministry of Higher Education, Science and Technology (South Sudan)] 
+	http://risis.eu/orgref_20170703/resource/35430397.. http://www.grid.ac/institutes/grid.16713.32........ 1.................................................. [Ministry of Higher Education Science, and Technology] was compared to [Ministry of Higher Education, Science and Technology (South Sudan)] 
+	http://www.grid.ac/institutes/grid.16713.32........ http://risis.eu/orgref_20170703/resource/19775547.. 1.................................................. [Ministry of Higher Education Science, and Technology] was compared to [Ministry of Science, Technology and Higher Education] 
+	http://risis.eu/orgref_20170703/resource/19775547.. http://www.grid.ac/institutes/grid.16713.32........ 1.................................................. [Ministry of Higher Education Science, and Technology] was compared to [Ministry of Science, Technology and Higher Education] 
+	http://www.grid.ac/institutes/grid.434366.0........ http://risis.eu/orgref_20170703/resource/35430397.. 1.................................................. [Ministry of Science Technology and Higher Education] was compared to [Ministry of Higher Education, Science and Technology (South Sudan)] 
+	http://risis.eu/orgref_20170703/resource/35430397.. http://www.grid.ac/institutes/grid.434366.0........ 1.................................................. [Ministry of Science Technology and Higher Education] was compared to [Ministry of Higher Education, Science and Technology (South Sudan)] 
+	http://www.grid.ac/institutes/grid.434366.0........ http://risis.eu/orgref_20170703/resource/19775547.. 1.................................................. [Ministry of Science Technology and Higher Education] was compared to [Ministry of Science, Technology and Higher Education] 
+	http://risis.eu/orgref_20170703/resource/19775547.. http://www.grid.ac/institutes/grid.434366.0........ 1.................................................. [Ministry of Science Technology and Higher Education] was compared to [Ministry of Science, Technology and Higher Education] 
+	http://risis.eu/orgref_20170703/resource/35430397.. http://risis.eu/orgref_20170703/resource/19775547.. 1.................................................. [Ministry of Science, Technology and Higher Education] was compared to [Ministry of Higher Education, Science and Technology (South Sudan)] 
+	http://risis.eu/orgref_20170703/resource/19775547.. http://risis.eu/orgref_20170703/resource/35430397.. 1.................................................. [Ministry of Science, Technology and Higher Education] was compared to [Ministry of Higher Education, Science and Technology (South Sudan)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.16713.32........ 14.509422.......................................... 
+	http://www.grid.ac/institutes/grid.16713.32........ 46.057434.......................................... 
+	http://www.grid.ac/institutes/grid.16713.32........ http://www.arhiv.mvzt.gov.si/en/................... 
+	http://www.grid.ac/institutes/grid.16713.32........ Ministry of Higher Education Science, and Technology 
+	http://www.grid.ac/institutes/grid.434366.0........ -9.146261.......................................... 
+	http://www.grid.ac/institutes/grid.434366.0........ 38.73527........................................... 
+	http://www.grid.ac/institutes/grid.434366.0........ http://www.mctes.pt/............................... 
+	http://www.grid.ac/institutes/grid.434366.0........ Ministry of Science Technology and Higher Education 
+	http://risis.eu/orgref_20170703/resource/35430397.. http://en.wikipedia.org/wiki?curid=35430397........ 
+	http://risis.eu/orgref_20170703/resource/35430397.. http://www.wikidata.org/wiki/Q6867123.............. 
+	http://risis.eu/orgref_20170703/resource/35430397.. Ministry of Higher Education, Science and Technology (South Sudan) 
+	http://risis.eu/orgref_20170703/resource/19775547.. http://en.wikipedia.org/wiki?curid=19775547........ 
+	http://risis.eu/orgref_20170703/resource/19775547.. http://www.wikidata.org/wiki/Q6867530.............. 
+	http://risis.eu/orgref_20170703/resource/19775547.. http://www.mctes.pt................................ 
+	http://risis.eu/orgref_20170703/resource/19775547.. Ministry of Science, Technology and Higher Education 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.434366.0', '1:grid.16713.32'), ('3:35430397', '1:grid.16713.32'), ('3:35430397', '2:grid.434366.0'), ('3:35430397', '4:19775547'), ('4:19775547', '1:grid.16713.32'), ('4:19775547', '2:grid.434366.0')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

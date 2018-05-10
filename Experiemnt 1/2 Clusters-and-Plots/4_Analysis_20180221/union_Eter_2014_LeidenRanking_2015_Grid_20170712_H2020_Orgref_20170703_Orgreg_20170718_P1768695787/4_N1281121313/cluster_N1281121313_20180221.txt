@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 16150 
+NAME    N1281121313
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.240160.1>
+	<http://www.grid.ac/institutes/grid.468205.d>
+	<http://risis.eu/leidenRanking_2015/resource/2138>
+	<http://risis.eu/orgref_20170703/resource/2362850>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.240160.1....... http://www.grid.ac/institutes/grid.468205.d....... 1................................................. [Maine Medical Center] was compared to [Maine Medical Center] 
+	http://www.grid.ac/institutes/grid.468205.d....... http://www.grid.ac/institutes/grid.240160.1....... 1................................................. [Maine Medical Center] was compared to [Maine Medical Center] 
+	http://www.grid.ac/institutes/grid.240160.1....... http://risis.eu/orgref_20170703/resource/2362850.. 1................................................. [Maine Medical Center] was compared to [Maine Medical Center] 
+	http://risis.eu/orgref_20170703/resource/2362850.. http://www.grid.ac/institutes/grid.240160.1....... 1................................................. [Maine Medical Center] was compared to [Maine Medical Center] 
+	http://www.grid.ac/institutes/grid.468205.d....... http://risis.eu/orgref_20170703/resource/2362850.. 1................................................. [Maine Medical Center] was compared to [Maine Medical Center] 
+	http://risis.eu/orgref_20170703/resource/2362850.. http://www.grid.ac/institutes/grid.468205.d....... 1................................................. [Maine Medical Center] was compared to [Maine Medical Center] 
+	http://www.grid.ac/institutes/grid.240160.1....... http://risis.eu/leidenRanking_2015/resource/2138.. 1................................................. [Maine Medical Center] was compared to [Maine Medical center] 
+	http://risis.eu/leidenRanking_2015/resource/2138.. http://www.grid.ac/institutes/grid.240160.1....... 1................................................. [Maine Medical Center] was compared to [Maine Medical center] 
+	http://www.grid.ac/institutes/grid.468205.d....... http://risis.eu/leidenRanking_2015/resource/2138.. 1................................................. [Maine Medical Center] was compared to [Maine Medical center] 
+	http://risis.eu/leidenRanking_2015/resource/2138.. http://www.grid.ac/institutes/grid.468205.d....... 1................................................. [Maine Medical Center] was compared to [Maine Medical center] 
+	http://risis.eu/leidenRanking_2015/resource/2138.. http://risis.eu/orgref_20170703/resource/2362850.. 1................................................. [Maine Medical Center] was compared to [Maine Medical center] 
+	http://risis.eu/orgref_20170703/resource/2362850.. http://risis.eu/leidenRanking_2015/resource/2138.. 1................................................. [Maine Medical Center] was compared to [Maine Medical center] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.240160.1....... -70.276........................................... 
+	http://www.grid.ac/institutes/grid.240160.1....... 43.653............................................ 
+	http://www.grid.ac/institutes/grid.240160.1....... http://www.mmc.org/............................... 
+	http://www.grid.ac/institutes/grid.240160.1....... Maine Medical Center.............................. 
+	http://www.grid.ac/institutes/grid.468205.d....... -70.31413......................................... 
+	http://www.grid.ac/institutes/grid.468205.d....... 43.60435.......................................... 
+	http://www.grid.ac/institutes/grid.468205.d....... http://www.mmc.org/maine-medical-center-scarborough-campus 
+	http://www.grid.ac/institutes/grid.468205.d....... Maine Medical Center.............................. 
+	http://risis.eu/leidenRanking_2015/resource/2138.. Maine Medical center.............................. 
+	http://risis.eu/orgref_20170703/resource/2362850.. http://en.wikipedia.org/wiki?curid=2362850........ 
+	http://risis.eu/orgref_20170703/resource/2362850.. http://www.wikidata.org/wiki/Q6736406............. 
+	http://risis.eu/orgref_20170703/resource/2362850.. http://www.mmc.org................................ 
+	http://risis.eu/orgref_20170703/resource/2362850.. Maine Medical Center.............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.468205.d', '1:grid.240160.1'), ('3:2138', '1:grid.240160.1'), ('3:2138', '2:grid.468205.d'), ('4:2362850', '1:grid.240160.1'), ('4:2362850', '2:grid.468205.d'), ('4:2362850', '3:2138')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

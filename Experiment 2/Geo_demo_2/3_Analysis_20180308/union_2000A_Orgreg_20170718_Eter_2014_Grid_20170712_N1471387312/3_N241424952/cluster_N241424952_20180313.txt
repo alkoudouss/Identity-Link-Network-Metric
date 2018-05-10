@@ -1,0 +1,60 @@
+SIZE    3   
+CLUSTER 602 
+NAME    N241424952
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/PL0305>
+	<http://risis.eu/eter_2014/resource/PL0250>
+	<http://www.grid.ac/institutes/grid.445642.5>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/PL0305.... http://www.grid.ac/institutes/grid.445642.5.. 0.914285714286............................... [wyzsza szkola handlowa we wroclawiu] was compared to [wyzsza szkola bankowa we wroclawiu] 
+	http://risis.eu/eter_2014/resource/PL0250.... http://www.grid.ac/institutes/grid.445642.5.. 1............................................ [wyzsza szkola bankowa we wroclawiu] was compared to [wyzsza szkola bankowa we wroclawiu] 
+	http://www.grid.ac/institutes/grid.445642.5.. http://risis.eu/eter_2014/resource/PL0250.... 1............................................ [wyzsza szkola bankowa we wroclawiu] was compared to [wyzsza szkola bankowa we wroclawiu] 
+	http://www.grid.ac/institutes/grid.445642.5.. http://risis.eu/eter_2014/resource/PL0305.... 0.914285714286............................... [wyzsza szkola handlowa we wroclawiu] was compared to [wyzsza szkola bankowa we wroclawiu] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://risis.eu/eter_2014/resource/PL0305.... 51,096478.................................... 
+	http://risis.eu/eter_2014/resource/PL0305.... 16,975483.................................... 
+	http://risis.eu/eter_2014/resource/PL0305.... http://www.handlowa.eu/...................... 
+	http://risis.eu/eter_2014/resource/PL0305.... a............................................ 
+	http://risis.eu/eter_2014/resource/PL0305.... The University of Business and Commerce inWrocław 
+	http://risis.eu/eter_2014/resource/PL0305.... Wyższa Szkoła Handlowa we Wrocławiu....... 
+	http://risis.eu/eter_2014/resource/PL0250.... 51,109436.................................... 
+	http://risis.eu/eter_2014/resource/PL0250.... 16,989383.................................... 
+	http://risis.eu/eter_2014/resource/PL0250.... http://www.wsb.wroclaw.pl.................... 
+	http://risis.eu/eter_2014/resource/PL0250.... a............................................ 
+	http://risis.eu/eter_2014/resource/PL0250.... Wrocław School of Banking................... 
+	http://risis.eu/eter_2014/resource/PL0250.... Wyższa Szkoła Bankowa we Wrocławiu........ 
+	http://www.grid.ac/institutes/grid.445642.5.. 16.983757.................................... 
+	http://www.grid.ac/institutes/grid.445642.5.. 51.112865.................................... 
+	http://www.grid.ac/institutes/grid.445642.5.. http://www.wsb.pl/english/................... 
+	http://www.grid.ac/institutes/grid.445642.5.. WSB we Wrocławiu............................ 
+	http://www.grid.ac/institutes/grid.445642.5.. WSB Schoold of Banking....................... 
+	http://www.grid.ac/institutes/grid.445642.5.. Wyższa Szkoła Bankowa we Wrocławiu........ 
+
+NETWORK ANALYSIS
+	NETWORK [('P1967299537-PL0250', 'P665877042-grid.445642.5'), ('N241424952-PL0305', 'P665877042-grid.445642.5')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

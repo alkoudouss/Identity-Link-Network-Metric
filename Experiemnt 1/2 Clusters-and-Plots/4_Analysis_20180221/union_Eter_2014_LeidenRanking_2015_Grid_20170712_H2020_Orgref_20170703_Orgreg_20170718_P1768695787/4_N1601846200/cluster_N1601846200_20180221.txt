@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 4659 
+NAME    N1601846200
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.5342.0>
+	<http://risis.eu/orgref_20170703/resource/268040>
+	<http://risis.eu/orgreg_20170718/resource/BE0060>
+	<http://risis.eu/leidenRanking_2015/resource/42>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.5342.0........ http://risis.eu/orgref_20170703/resource/268040.. 1................................................ [Ghent University] was compared to [Ghent University] 
+	http://risis.eu/orgref_20170703/resource/268040.. http://www.grid.ac/institutes/grid.5342.0........ 1................................................ [Ghent University] was compared to [Ghent University] 
+	http://www.grid.ac/institutes/grid.5342.0........ http://risis.eu/leidenRanking_2015/resource/42... 1................................................ [Ghent University] was compared to [Ghent University] 
+	http://risis.eu/leidenRanking_2015/resource/42... http://www.grid.ac/institutes/grid.5342.0........ 1................................................ [Ghent University] was compared to [Ghent University] 
+	http://risis.eu/orgref_20170703/resource/268040.. http://risis.eu/leidenRanking_2015/resource/42... 1................................................ [Ghent University] was compared to [Ghent University] 
+	http://risis.eu/leidenRanking_2015/resource/42... http://risis.eu/orgref_20170703/resource/268040.. 1................................................ [Ghent University] was compared to [Ghent University] 
+	http://risis.eu/orgreg_20170718/resource/BE0060.. http://risis.eu/leidenRanking_2015/resource/42... 1................................................ [Ghent University] was compared to [Ghent University] 
+	http://risis.eu/leidenRanking_2015/resource/42... http://risis.eu/orgreg_20170718/resource/BE0060.. 1................................................ [Ghent University] was compared to [Ghent University] 
+	http://risis.eu/orgref_20170703/resource/268040.. http://risis.eu/orgreg_20170718/resource/BE0060.. 1................................................ [Ghent University] was compared to [Ghent University] 
+	http://risis.eu/orgreg_20170718/resource/BE0060.. http://risis.eu/orgref_20170703/resource/268040.. 1................................................ [Ghent University] was compared to [Ghent University] 
+	http://www.grid.ac/institutes/grid.5342.0........ http://risis.eu/orgreg_20170718/resource/BE0060.. 1................................................ [Ghent University] was compared to [Ghent University] 
+	http://risis.eu/orgreg_20170718/resource/BE0060.. http://www.grid.ac/institutes/grid.5342.0........ 1................................................ [Ghent University] was compared to [Ghent University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.5342.0........ 3.727875......................................... 
+	http://www.grid.ac/institutes/grid.5342.0........ 51.046764........................................ 
+	http://www.grid.ac/institutes/grid.5342.0........ https://www.ugent.be/en.......................... 
+	http://www.grid.ac/institutes/grid.5342.0........ UGent............................................ 
+	http://www.grid.ac/institutes/grid.5342.0........ Ghent University................................. 
+	http://risis.eu/orgref_20170703/resource/268040.. http://en.wikipedia.org/wiki?curid=268040........ 
+	http://risis.eu/orgref_20170703/resource/268040.. http://www.wikidata.org/wiki/Q1137665............ 
+	http://risis.eu/orgref_20170703/resource/268040.. http://www.ugent.be.............................. 
+	http://risis.eu/orgref_20170703/resource/268040.. Ghent University................................. 
+	http://risis.eu/orgreg_20170718/resource/BE0060.. 3.729091......................................... 
+	http://risis.eu/orgreg_20170718/resource/BE0060.. 51.067831........................................ 
+	http://risis.eu/orgreg_20170718/resource/BE0060.. http://www.ugent.be.............................. 
+	http://risis.eu/orgreg_20170718/resource/BE0060.. Ghent University................................. 
+	http://risis.eu/leidenRanking_2015/resource/42... Ghent University................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:268040', '1:grid.5342.0'), ('3:BE0060', '1:grid.5342.0'), ('3:BE0060', '2:268040'), ('4:42', '1:grid.5342.0'), ('4:42', '2:268040'), ('4:42', '3:BE0060')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

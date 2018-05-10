@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 7001 
+NAME    N1160815672
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.419747.8>
+	<http://risis.eu/orgref_20170703/resource/1134956>
+	<http://www.grid.ac/institutes/grid.435696.b>
+	<http://risis.eu/orgref_20170703/resource/1655202>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.419747.8....... http://risis.eu/orgref_20170703/resource/1134956.. 1................................................. [Mercyhurst University] was compared to [Mercyhurst University] 
+	http://risis.eu/orgref_20170703/resource/1134956.. http://www.grid.ac/institutes/grid.419747.8....... 1................................................. [Mercyhurst University] was compared to [Mercyhurst University] 
+	http://www.grid.ac/institutes/grid.435696.b....... http://risis.eu/orgref_20170703/resource/1655202.. 1................................................. [Marylhurst University] was compared to [Marylhurst University] 
+	http://risis.eu/orgref_20170703/resource/1655202.. http://www.grid.ac/institutes/grid.435696.b....... 1................................................. [Marylhurst University] was compared to [Marylhurst University] 
+	http://risis.eu/orgref_20170703/resource/1134956.. http://risis.eu/orgref_20170703/resource/1655202.. 0.857142857143.................................... [Mercyhurst University] was compared to [Marylhurst University] 
+	http://risis.eu/orgref_20170703/resource/1655202.. http://risis.eu/orgref_20170703/resource/1134956.. 0.857142857143.................................... [Mercyhurst University] was compared to [Marylhurst University] 
+	http://www.grid.ac/institutes/grid.419747.8....... http://www.grid.ac/institutes/grid.435696.b....... 0.857142857143.................................... [Mercyhurst University] was compared to [Marylhurst University] 
+	http://www.grid.ac/institutes/grid.435696.b....... http://www.grid.ac/institutes/grid.419747.8....... 0.857142857143.................................... [Mercyhurst University] was compared to [Marylhurst University] 
+	http://www.grid.ac/institutes/grid.419747.8....... http://risis.eu/orgref_20170703/resource/1655202.. 0.857142857143.................................... [Mercyhurst University] was compared to [Marylhurst University] 
+	http://risis.eu/orgref_20170703/resource/1655202.. http://www.grid.ac/institutes/grid.419747.8....... 0.857142857143.................................... [Mercyhurst University] was compared to [Marylhurst University] 
+	http://risis.eu/orgref_20170703/resource/1134956.. http://www.grid.ac/institutes/grid.435696.b....... 0.857142857143.................................... [Marylhurst University] was compared to [Mercyhurst University] 
+	http://www.grid.ac/institutes/grid.435696.b....... http://risis.eu/orgref_20170703/resource/1134956.. 0.857142857143.................................... [Marylhurst University] was compared to [Mercyhurst University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.419747.8....... -80.05373......................................... 
+	http://www.grid.ac/institutes/grid.419747.8....... 42.1052........................................... 
+	http://www.grid.ac/institutes/grid.419747.8....... http://www.mercyhurst.edu/........................ 
+	http://www.grid.ac/institutes/grid.419747.8....... Mercyhurst College................................ 
+	http://www.grid.ac/institutes/grid.419747.8....... Mercyhurst University............................. 
+	http://risis.eu/orgref_20170703/resource/1134956.. http://en.wikipedia.org/wiki?curid=1134956........ 
+	http://risis.eu/orgref_20170703/resource/1134956.. http://www.wikidata.org/wiki/Q6818830............. 
+	http://risis.eu/orgref_20170703/resource/1134956.. http://www.mercyhurst.edu......................... 
+	http://risis.eu/orgref_20170703/resource/1134956.. Mercyhurst University............................. 
+	http://www.grid.ac/institutes/grid.435696.b....... -122.64611........................................ 
+	http://www.grid.ac/institutes/grid.435696.b....... 45.398335......................................... 
+	http://www.grid.ac/institutes/grid.435696.b....... http://www.marylhurst.edu/........................ 
+	http://www.grid.ac/institutes/grid.435696.b....... Marylhurst University............................. 
+	http://risis.eu/orgref_20170703/resource/1655202.. http://en.wikipedia.org/wiki?curid=1655202........ 
+	http://risis.eu/orgref_20170703/resource/1655202.. http://www.wikidata.org/wiki/Q6147915............. 
+	http://risis.eu/orgref_20170703/resource/1655202.. https://www.marylhurst.edu........................ 
+	http://risis.eu/orgref_20170703/resource/1655202.. Marylhurst University............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:1134956', '1:grid.419747.8'), ('3:grid.435696.b', '1:grid.419747.8'), ('3:grid.435696.b', '2:1134956'), ('4:1655202', '1:grid.419747.8'), ('4:1655202', '2:1134956'), ('4:1655202', '3:grid.435696.b')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

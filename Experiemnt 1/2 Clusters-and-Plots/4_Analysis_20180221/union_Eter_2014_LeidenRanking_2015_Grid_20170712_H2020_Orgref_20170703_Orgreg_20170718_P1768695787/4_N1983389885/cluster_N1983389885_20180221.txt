@@ -1,0 +1,69 @@
+SIZE    4   
+CLUSTER 14667 
+NAME    N1983389885
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/1934548>
+	<http://risis.eu/orgreg_20170718/resource/ES0069>
+	<http://www.grid.ac/institutes/grid.449312.9>
+	<http://risis.eu/eter_2014/resource/ES0069>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/1934548.. http://www.grid.ac/institutes/grid.449312.9....... 1................................................. [Pontifical University of Salamanca] was compared to [Pontifical University of Salamanca] 
+	http://www.grid.ac/institutes/grid.449312.9....... http://risis.eu/orgref_20170703/resource/1934548.. 1................................................. [Pontifical University of Salamanca] was compared to [Pontifical University of Salamanca] 
+	http://www.grid.ac/institutes/grid.449312.9....... http://risis.eu/eter_2014/resource/ES0069......... 0.84375........................................... [Pontifical University of Salamanca] was compared to [Universidad Pontificia de Salamanca] 
+	http://risis.eu/eter_2014/resource/ES0069......... http://www.grid.ac/institutes/grid.449312.9....... 0.84375........................................... [Pontifical University of Salamanca] was compared to [Universidad Pontificia de Salamanca] 
+	http://risis.eu/orgref_20170703/resource/1934548.. http://risis.eu/eter_2014/resource/ES0069......... 0.84375........................................... [Pontifical University of Salamanca] was compared to [Universidad Pontificia de Salamanca] 
+	http://risis.eu/eter_2014/resource/ES0069......... http://risis.eu/orgref_20170703/resource/1934548.. 0.84375........................................... [Pontifical University of Salamanca] was compared to [Universidad Pontificia de Salamanca] 
+	http://risis.eu/orgreg_20170718/resource/ES0069... http://risis.eu/eter_2014/resource/ES0069......... 0.84375........................................... [Pontifical University of Salamanca] was compared to [Universidad Pontificia de Salamanca] 
+	http://risis.eu/eter_2014/resource/ES0069......... http://risis.eu/orgreg_20170718/resource/ES0069... 0.84375........................................... [Pontifical University of Salamanca] was compared to [Universidad Pontificia de Salamanca] 
+	http://risis.eu/orgref_20170703/resource/1934548.. http://risis.eu/orgreg_20170718/resource/ES0069... 1................................................. [Pontifical University of Salamanca] was compared to [Pontifical University of Salamanca] 
+	http://risis.eu/orgreg_20170718/resource/ES0069... http://risis.eu/orgref_20170703/resource/1934548.. 1................................................. [Pontifical University of Salamanca] was compared to [Pontifical University of Salamanca] 
+	http://risis.eu/orgreg_20170718/resource/ES0069... http://www.grid.ac/institutes/grid.449312.9....... 1................................................. [Pontifical University of Salamanca] was compared to [Pontifical University of Salamanca] 
+	http://www.grid.ac/institutes/grid.449312.9....... http://risis.eu/orgreg_20170718/resource/ES0069... 1................................................. [Pontifical University of Salamanca] was compared to [Pontifical University of Salamanca] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/1934548.. http://en.wikipedia.org/wiki?curid=1934548........ 
+	http://risis.eu/orgref_20170703/resource/1934548.. http://www.wikidata.org/wiki/Q179501.............. 
+	http://risis.eu/orgref_20170703/resource/1934548.. http://www.upsa.es................................ 
+	http://risis.eu/orgref_20170703/resource/1934548.. Pontifical University of Salamanca................ 
+	http://risis.eu/orgreg_20170718/resource/ES0069... 40.967215......................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0069... -5.665516......................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0069... http://www.upsa.es................................ 
+	http://risis.eu/orgreg_20170718/resource/ES0069... Pontifical University of Salamanca................ 
+	http://www.grid.ac/institutes/grid.449312.9....... -5.666808......................................... 
+	http://www.grid.ac/institutes/grid.449312.9....... 40.9632........................................... 
+	http://www.grid.ac/institutes/grid.449312.9....... http://www.upsa.es/............................... 
+	http://www.grid.ac/institutes/grid.449312.9....... Pontifical University of Salamanca................ 
+	http://risis.eu/eter_2014/resource/ES0069......... 40,967215......................................... 
+	http://risis.eu/eter_2014/resource/ES0069......... -5,665516......................................... 
+	http://risis.eu/eter_2014/resource/ES0069......... http://www.upsa.es................................ 
+	http://risis.eu/eter_2014/resource/ES0069......... a................................................. 
+	http://risis.eu/eter_2014/resource/ES0069......... Pontifical University of Salamanca................ 
+	http://risis.eu/eter_2014/resource/ES0069......... Universidad Pontificia de Salamanca............... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:ES0069', '1:1934548'), ('2:ES0069', '3:grid.449312.9'), ('3:grid.449312.9', '1:1934548'), ('4:ES0069', '1:1934548'), ('4:ES0069', '2:ES0069'), ('4:ES0069', '3:grid.449312.9')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

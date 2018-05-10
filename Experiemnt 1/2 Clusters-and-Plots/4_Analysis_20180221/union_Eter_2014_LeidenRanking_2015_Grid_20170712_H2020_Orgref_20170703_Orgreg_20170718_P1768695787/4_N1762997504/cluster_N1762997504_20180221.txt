@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 2343 
+NAME    N1762997504
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.419962.1>
+	<http://www.grid.ac/institutes/grid.423362.2>
+	<http://www.grid.ac/institutes/grid.426322.3>
+	<http://www.grid.ac/institutes/grid.426889.9>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.419962.1.. http://www.grid.ac/institutes/grid.426322.3.. 1............................................ [Pall Corporation (United States)] was compared to [Pall Corporation (Germany)] 
+	http://www.grid.ac/institutes/grid.426322.3.. http://www.grid.ac/institutes/grid.419962.1.. 1............................................ [Pall Corporation (United States)] was compared to [Pall Corporation (Germany)] 
+	http://www.grid.ac/institutes/grid.419962.1.. http://www.grid.ac/institutes/grid.423362.2.. 1............................................ [Pall Corporation (United States)] was compared to [Pall Corporation (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.423362.2.. http://www.grid.ac/institutes/grid.419962.1.. 1............................................ [Pall Corporation (United States)] was compared to [Pall Corporation (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.423362.2.. http://www.grid.ac/institutes/grid.426322.3.. 1............................................ [Pall Corporation (United Kingdom)] was compared to [Pall Corporation (Germany)] 
+	http://www.grid.ac/institutes/grid.426322.3.. http://www.grid.ac/institutes/grid.423362.2.. 1............................................ [Pall Corporation (United Kingdom)] was compared to [Pall Corporation (Germany)] 
+	http://www.grid.ac/institutes/grid.419962.1.. http://www.grid.ac/institutes/grid.426889.9.. 0.9375....................................... [Pall Corporation (United States)] was compared to [Ball Corporation (United States)] 
+	http://www.grid.ac/institutes/grid.426889.9.. http://www.grid.ac/institutes/grid.419962.1.. 0.9375....................................... [Pall Corporation (United States)] was compared to [Ball Corporation (United States)] 
+	http://www.grid.ac/institutes/grid.423362.2.. http://www.grid.ac/institutes/grid.426889.9.. 0.9375....................................... [Pall Corporation (United Kingdom)] was compared to [Ball Corporation (United States)] 
+	http://www.grid.ac/institutes/grid.426889.9.. http://www.grid.ac/institutes/grid.423362.2.. 0.9375....................................... [Pall Corporation (United Kingdom)] was compared to [Ball Corporation (United States)] 
+	http://www.grid.ac/institutes/grid.426322.3.. http://www.grid.ac/institutes/grid.426889.9.. 0.9375....................................... [Pall Corporation (Germany)] was compared to [Ball Corporation (United States)] 
+	http://www.grid.ac/institutes/grid.426889.9.. http://www.grid.ac/institutes/grid.426322.3.. 0.9375....................................... [Pall Corporation (Germany)] was compared to [Ball Corporation (United States)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.419962.1.. -73.65768.................................... 
+	http://www.grid.ac/institutes/grid.419962.1.. 40.811417.................................... 
+	http://www.grid.ac/institutes/grid.419962.1.. http://www.pall.com/main/home.page........... 
+	http://www.grid.ac/institutes/grid.419962.1.. Micro Metallic Corporation................... 
+	http://www.grid.ac/institutes/grid.419962.1.. Pall Corporation (United States)............. 
+	http://www.grid.ac/institutes/grid.423362.2.. Pall Corporation (United Kingdom)............ 
+	http://www.grid.ac/institutes/grid.426322.3.. Pall Corporation (Germany)................... 
+	http://www.grid.ac/institutes/grid.426889.9.. -105.10825................................... 
+	http://www.grid.ac/institutes/grid.426889.9.. 39.89471..................................... 
+	http://www.grid.ac/institutes/grid.426889.9.. http://www.ball.com/region-selection......... 
+	http://www.grid.ac/institutes/grid.426889.9.. Ball Corporation (United States)............. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.423362.2', '1:grid.419962.1'), ('3:grid.426322.3', '1:grid.419962.1'), ('3:grid.426322.3', '2:grid.423362.2'), ('4:grid.426889.9', '1:grid.419962.1'), ('4:grid.426889.9', '2:grid.423362.2'), ('4:grid.426889.9', '3:grid.426322.3')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

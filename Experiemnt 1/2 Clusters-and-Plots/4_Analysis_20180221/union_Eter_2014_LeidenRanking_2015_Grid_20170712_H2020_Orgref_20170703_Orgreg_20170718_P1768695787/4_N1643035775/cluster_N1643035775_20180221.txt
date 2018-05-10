@@ -1,0 +1,58 @@
+SIZE    4   
+CLUSTER 4922 
+NAME    N1643035775
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/10783358>
+	<http://risis.eu/orgref_20170703/resource/10787356>
+	<http://www.grid.ac/institutes/grid.449959.c>
+	<http://www.grid.ac/institutes/grid.411783.8>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/10787356.. http://www.grid.ac/institutes/grid.449959.c........ 1.................................................. [University of Missouri Women's and Children's Hospital] was compared to [University of Missouri Women's and Children's Hospital] 
+	http://www.grid.ac/institutes/grid.449959.c........ http://risis.eu/orgref_20170703/resource/10787356.. 1.................................................. [University of Missouri Women's and Children's Hospital] was compared to [University of Missouri Women's and Children's Hospital] 
+	http://risis.eu/orgref_20170703/resource/10783358.. http://risis.eu/orgref_20170703/resource/10787356.. 0.844444444444..................................... [University of Missouri Children's Hospital] was compared to [University of Missouri Women's and Children's Hospital] 
+	http://risis.eu/orgref_20170703/resource/10787356.. http://risis.eu/orgref_20170703/resource/10783358.. 0.844444444444..................................... [University of Missouri Children's Hospital] was compared to [University of Missouri Women's and Children's Hospital] 
+	http://risis.eu/orgref_20170703/resource/10783358.. http://www.grid.ac/institutes/grid.411783.8........ 0.921052631579..................................... [Children's Hospital Mansoura University] was compared to [University of Missouri Children's Hospital] 
+	http://www.grid.ac/institutes/grid.411783.8........ http://risis.eu/orgref_20170703/resource/10783358.. 0.921052631579..................................... [Children's Hospital Mansoura University] was compared to [University of Missouri Children's Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/10783358.. http://en.wikipedia.org/wiki?curid=10783358........ 
+	http://risis.eu/orgref_20170703/resource/10783358.. http://www.wikidata.org/wiki/Q7895827.............. 
+	http://risis.eu/orgref_20170703/resource/10783358.. http://www.muhealth.org/default_ch.cfm?id=72....... 
+	http://risis.eu/orgref_20170703/resource/10783358.. University of Missouri Children's Hospital......... 
+	http://risis.eu/orgref_20170703/resource/10787356.. http://en.wikipedia.org/wiki?curid=10787356........ 
+	http://risis.eu/orgref_20170703/resource/10787356.. http://www.wikidata.org/wiki/Q7895841.............. 
+	http://risis.eu/orgref_20170703/resource/10787356.. http://www.muhealth.org............................ 
+	http://risis.eu/orgref_20170703/resource/10787356.. University of Missouri Women's and Children's Hospital 
+	http://www.grid.ac/institutes/grid.449959.c........ University of Missouri Women's and Children's Hospital 
+	http://www.grid.ac/institutes/grid.411783.8........ 31.365435.......................................... 
+	http://www.grid.ac/institutes/grid.411783.8........ 31.044569.......................................... 
+	http://www.grid.ac/institutes/grid.411783.8........ http://much.mans.edu.eg/en/........................ 
+	http://www.grid.ac/institutes/grid.411783.8........ Children's Hospital Mansoura University............ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:10787356', '1:10783358'), ('3:grid.449959.c', '2:10787356'), ('4:grid.411783.8', '1:10783358')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

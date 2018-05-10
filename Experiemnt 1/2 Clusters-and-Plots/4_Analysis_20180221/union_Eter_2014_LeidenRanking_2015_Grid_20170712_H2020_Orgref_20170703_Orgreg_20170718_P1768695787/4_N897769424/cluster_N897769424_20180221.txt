@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 4399 
+NAME    N897769424
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/38509416>
+	<http://risis.eu/orgref_20170703/resource/38509485>
+	<http://risis.eu/orgref_20170703/resource/38509357>
+	<http://risis.eu/orgref_20170703/resource/38509472>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/38509416.. http://risis.eu/orgref_20170703/resource/38509357.. 0.826923076923..................................... [University of Massachusetts Amherst College of Education] was compared to [University of Massachusetts Amherst College of Engineering] 
+	http://risis.eu/orgref_20170703/resource/38509357.. http://risis.eu/orgref_20170703/resource/38509416.. 0.826923076923..................................... [University of Massachusetts Amherst College of Education] was compared to [University of Massachusetts Amherst College of Engineering] 
+	http://risis.eu/orgref_20170703/resource/38509485.. http://risis.eu/orgref_20170703/resource/38509357.. 0.86............................................... [University of Massachusetts Amherst College of Education] was compared to [University of Massachusetts Amherst College of Nursing] 
+	http://risis.eu/orgref_20170703/resource/38509357.. http://risis.eu/orgref_20170703/resource/38509485.. 0.86............................................... [University of Massachusetts Amherst College of Education] was compared to [University of Massachusetts Amherst College of Nursing] 
+	http://risis.eu/orgref_20170703/resource/38509416.. http://risis.eu/orgref_20170703/resource/38509485.. 0.865384615385..................................... [University of Massachusetts Amherst College of Engineering] was compared to [University of Massachusetts Amherst College of Nursing] 
+	http://risis.eu/orgref_20170703/resource/38509485.. http://risis.eu/orgref_20170703/resource/38509416.. 0.865384615385..................................... [University of Massachusetts Amherst College of Engineering] was compared to [University of Massachusetts Amherst College of Nursing] 
+	http://risis.eu/orgref_20170703/resource/38509485.. http://risis.eu/orgref_20170703/resource/38509472.. 0.824561403509..................................... [University of Massachusetts Amherst College of Natural Sciences] was compared to [University of Massachusetts Amherst College of Nursing] 
+	http://risis.eu/orgref_20170703/resource/38509472.. http://risis.eu/orgref_20170703/resource/38509485.. 0.824561403509..................................... [University of Massachusetts Amherst College of Natural Sciences] was compared to [University of Massachusetts Amherst College of Nursing] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/38509416.. http://en.wikipedia.org/wiki?curid=38509416........ 
+	http://risis.eu/orgref_20170703/resource/38509416.. http://www.wikidata.org/wiki/Q7895703.............. 
+	http://risis.eu/orgref_20170703/resource/38509416.. http://www.engineering.umass.edu................... 
+	http://risis.eu/orgref_20170703/resource/38509416.. University of Massachusetts Amherst College of Engineering 
+	http://risis.eu/orgref_20170703/resource/38509485.. http://en.wikipedia.org/wiki?curid=38509485........ 
+	http://risis.eu/orgref_20170703/resource/38509485.. http://www.wikidata.org/wiki/Q7895710.............. 
+	http://risis.eu/orgref_20170703/resource/38509485.. http://www.umass.edu/nursing....................... 
+	http://risis.eu/orgref_20170703/resource/38509485.. University of Massachusetts Amherst College of Nursing 
+	http://risis.eu/orgref_20170703/resource/38509357.. http://en.wikipedia.org/wiki?curid=38509357........ 
+	http://risis.eu/orgref_20170703/resource/38509357.. http://www.wikidata.org/wiki/Q7895709.............. 
+	http://risis.eu/orgref_20170703/resource/38509357.. http://www.umass.edu/education..................... 
+	http://risis.eu/orgref_20170703/resource/38509357.. University of Massachusetts Amherst College of Education 
+	http://risis.eu/orgref_20170703/resource/38509472.. http://en.wikipedia.org/wiki?curid=38509472........ 
+	http://risis.eu/orgref_20170703/resource/38509472.. http://www.wikidata.org/wiki/Q7895706.............. 
+	http://risis.eu/orgref_20170703/resource/38509472.. http://www.cns.umass.edu........................... 
+	http://risis.eu/orgref_20170703/resource/38509472.. University of Massachusetts Amherst College of Natural Sciences 
+
+NETWORK ANALYSIS
+	NETWORK [('1:38509416', '3:38509357'), ('2:38509485', '1:38509416'), ('3:38509357', '2:38509485'), ('4:38509472', '2:38509485')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

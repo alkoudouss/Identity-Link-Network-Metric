@@ -1,0 +1,72 @@
+SIZE    4   
+CLUSTER 800 
+NAME    N2019055842
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.454658.e>
+	<http://risis.eu/orgref_20170703/resource/1444866>
+	<http://www.grid.ac/institutes/grid.411318.e>
+	<http://www.grid.ac/institutes/grid.465721.3>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.411318.e....... http://www.grid.ac/institutes/grid.465721.3....... 1................................................. [Trine University] was compared to [Trine University] 
+	http://www.grid.ac/institutes/grid.465721.3....... http://www.grid.ac/institutes/grid.411318.e....... 1................................................. [Trine University] was compared to [Trine University] 
+	http://risis.eu/orgref_20170703/resource/1444866.. http://www.grid.ac/institutes/grid.411318.e....... 1................................................. [Trine University] was compared to [Trine University] 
+	http://www.grid.ac/institutes/grid.411318.e....... http://risis.eu/orgref_20170703/resource/1444866.. 1................................................. [Trine University] was compared to [Trine University] 
+	http://risis.eu/orgref_20170703/resource/1444866.. http://www.grid.ac/institutes/grid.465721.3....... 1................................................. [Trine University] was compared to [Trine University] 
+	http://www.grid.ac/institutes/grid.465721.3....... http://risis.eu/orgref_20170703/resource/1444866.. 1................................................. [Trine University] was compared to [Trine University] 
+	http://www.grid.ac/institutes/grid.454658.e....... http://www.grid.ac/institutes/grid.411318.e....... 0.882352941176.................................... [Trine University] was compared to [Irvine University] 
+	http://www.grid.ac/institutes/grid.411318.e....... http://www.grid.ac/institutes/grid.454658.e....... 0.882352941176.................................... [Trine University] was compared to [Irvine University] 
+	http://www.grid.ac/institutes/grid.454658.e....... http://www.grid.ac/institutes/grid.465721.3....... 0.882352941176.................................... [Irvine University] was compared to [Trine University] 
+	http://www.grid.ac/institutes/grid.465721.3....... http://www.grid.ac/institutes/grid.454658.e....... 0.882352941176.................................... [Irvine University] was compared to [Trine University] 
+	http://www.grid.ac/institutes/grid.454658.e....... http://risis.eu/orgref_20170703/resource/1444866.. 0.882352941176.................................... [Irvine University] was compared to [Trine University] 
+	http://risis.eu/orgref_20170703/resource/1444866.. http://www.grid.ac/institutes/grid.454658.e....... 0.882352941176.................................... [Irvine University] was compared to [Trine University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 21 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.454658.e....... -118.09716........................................ 
+	http://www.grid.ac/institutes/grid.454658.e....... 33.868484......................................... 
+	http://www.grid.ac/institutes/grid.454658.e....... http://www.irvine.edu/............................ 
+	http://www.grid.ac/institutes/grid.454658.e....... http://www.irvineuniversity.edu/.................. 
+	http://www.grid.ac/institutes/grid.454658.e....... Irvine University................................. 
+	http://risis.eu/orgref_20170703/resource/1444866.. http://en.wikipedia.org/wiki?curid=1444866........ 
+	http://risis.eu/orgref_20170703/resource/1444866.. http://www.wikidata.org/wiki/Q7842344............. 
+	http://risis.eu/orgref_20170703/resource/1444866.. http://www.trine.edu.............................. 
+	http://risis.eu/orgref_20170703/resource/1444866.. Trine University.................................. 
+	http://www.grid.ac/institutes/grid.411318.e....... -85.005554........................................ 
+	http://www.grid.ac/institutes/grid.411318.e....... 41.63222.......................................... 
+	http://www.grid.ac/institutes/grid.411318.e....... http://www.trine.edu/............................. 
+	http://www.grid.ac/institutes/grid.411318.e....... Tri-State University.............................. 
+	http://www.grid.ac/institutes/grid.411318.e....... Trine University.................................. 
+	http://www.grid.ac/institutes/grid.465721.3....... -112.24005........................................ 
+	http://www.grid.ac/institutes/grid.465721.3....... 33.613113......................................... 
+	http://www.grid.ac/institutes/grid.465721.3....... http://www.trine.edu/peoria/...................... 
+	http://www.grid.ac/institutes/grid.465721.3....... Tri-State University.............................. 
+	http://www.grid.ac/institutes/grid.465721.3....... Tri-State College................................. 
+	http://www.grid.ac/institutes/grid.465721.3....... Tri-State Normal College.......................... 
+	http://www.grid.ac/institutes/grid.465721.3....... Trine University.................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.454658.e', '3:grid.411318.e'), ('2:1444866', '1:grid.454658.e'), ('2:1444866', '3:grid.411318.e'), ('2:1444866', '4:grid.465721.3'), ('4:grid.465721.3', '1:grid.454658.e'), ('4:grid.465721.3', '3:grid.411318.e')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

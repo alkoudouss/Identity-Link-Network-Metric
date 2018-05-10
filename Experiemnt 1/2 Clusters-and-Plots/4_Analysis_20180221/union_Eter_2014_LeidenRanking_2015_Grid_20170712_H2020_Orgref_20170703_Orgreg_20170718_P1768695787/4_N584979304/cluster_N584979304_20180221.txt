@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 6768 
+NAME    N584979304
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.480127.8>
+	<http://www.grid.ac/institutes/grid.482805.3>
+	<http://www.grid.ac/institutes/grid.472836.c>
+	<http://www.grid.ac/institutes/grid.433370.0>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.480127.8.. http://www.grid.ac/institutes/grid.433370.0.. 1............................................ [Clariant (Germany)] was compared to [Clariant (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.433370.0.. http://www.grid.ac/institutes/grid.480127.8.. 1............................................ [Clariant (Germany)] was compared to [Clariant (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.472836.c.. http://www.grid.ac/institutes/grid.433370.0.. 1............................................ [Clariant (Germany)] was compared to [Clariant (Switzerland)] 
+	http://www.grid.ac/institutes/grid.433370.0.. http://www.grid.ac/institutes/grid.472836.c.. 1............................................ [Clariant (Germany)] was compared to [Clariant (Switzerland)] 
+	http://www.grid.ac/institutes/grid.482805.3.. http://www.grid.ac/institutes/grid.433370.0.. 1............................................ [Clariant (Germany)] was compared to [Clariant (United States)] 
+	http://www.grid.ac/institutes/grid.433370.0.. http://www.grid.ac/institutes/grid.482805.3.. 1............................................ [Clariant (Germany)] was compared to [Clariant (United States)] 
+	http://www.grid.ac/institutes/grid.480127.8.. http://www.grid.ac/institutes/grid.472836.c.. 1............................................ [Clariant (Switzerland)] was compared to [Clariant (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.472836.c.. http://www.grid.ac/institutes/grid.480127.8.. 1............................................ [Clariant (Switzerland)] was compared to [Clariant (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.482805.3.. http://www.grid.ac/institutes/grid.472836.c.. 1............................................ [Clariant (Switzerland)] was compared to [Clariant (United States)] 
+	http://www.grid.ac/institutes/grid.472836.c.. http://www.grid.ac/institutes/grid.482805.3.. 1............................................ [Clariant (Switzerland)] was compared to [Clariant (United States)] 
+	http://www.grid.ac/institutes/grid.480127.8.. http://www.grid.ac/institutes/grid.482805.3.. 1............................................ [Clariant (United Kingdom)] was compared to [Clariant (United States)] 
+	http://www.grid.ac/institutes/grid.482805.3.. http://www.grid.ac/institutes/grid.480127.8.. 1............................................ [Clariant (United Kingdom)] was compared to [Clariant (United States)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.480127.8.. -1.686288.................................... 
+	http://www.grid.ac/institutes/grid.480127.8.. 53.858498.................................... 
+	http://www.grid.ac/institutes/grid.480127.8.. http://www.clariant.com/..................... 
+	http://www.grid.ac/institutes/grid.480127.8.. Clariant (United Kingdom).................... 
+	http://www.grid.ac/institutes/grid.482805.3.. -71.84355.................................... 
+	http://www.grid.ac/institutes/grid.482805.3.. 42.338833.................................... 
+	http://www.grid.ac/institutes/grid.482805.3.. http://www.clariant.com/..................... 
+	http://www.grid.ac/institutes/grid.482805.3.. Clariant (United States)..................... 
+	http://www.grid.ac/institutes/grid.472836.c.. 7.664886..................................... 
+	http://www.grid.ac/institutes/grid.472836.c.. 47.532238.................................... 
+	http://www.grid.ac/institutes/grid.472836.c.. http://www.clariant.com/en/Corporate......... 
+	http://www.grid.ac/institutes/grid.472836.c.. Clariant (Switzerland)....................... 
+	http://www.grid.ac/institutes/grid.433370.0.. 8.517087..................................... 
+	http://www.grid.ac/institutes/grid.433370.0.. 50.131557.................................... 
+	http://www.grid.ac/institutes/grid.433370.0.. http://www.clariant.com/en/Corporate......... 
+	http://www.grid.ac/institutes/grid.433370.0.. Clariant (Germany)........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.480127.8', '3:grid.472836.c'), ('1:grid.480127.8', '4:grid.433370.0'), ('2:grid.482805.3', '1:grid.480127.8'), ('2:grid.482805.3', '4:grid.433370.0'), ('3:grid.472836.c', '2:grid.482805.3'), ('4:grid.433370.0', '3:grid.472836.c')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

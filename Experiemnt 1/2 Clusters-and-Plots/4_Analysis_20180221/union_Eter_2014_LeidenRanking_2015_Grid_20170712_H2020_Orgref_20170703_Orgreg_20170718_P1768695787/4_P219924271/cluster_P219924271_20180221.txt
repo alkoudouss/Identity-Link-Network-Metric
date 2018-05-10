@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 17417 
+NAME    P219924271
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/175498>
+	<http://risis.eu/cordisH2020/resource/participant_947474176>
+	<http://risis.eu/eter_2014/resource/UK0102>
+	<http://www.grid.ac/institutes/grid.421665.2>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/175498............. http://www.grid.ac/institutes/grid.421665.2................. 1........................................................... [Royal College of Music] was compared to [Royal College of Music] 
+	http://www.grid.ac/institutes/grid.421665.2................. http://risis.eu/orgref_20170703/resource/175498............. 1........................................................... [Royal College of Music] was compared to [Royal College of Music] 
+	http://risis.eu/eter_2014/resource/UK0102................... http://www.grid.ac/institutes/grid.421665.2................. 1........................................................... [Royal College of Music] was compared to [Royal College of Music] 
+	http://www.grid.ac/institutes/grid.421665.2................. http://risis.eu/eter_2014/resource/UK0102................... 1........................................................... [Royal College of Music] was compared to [Royal College of Music] 
+	http://risis.eu/cordisH2020/resource/participant_947474176.. http://www.grid.ac/institutes/grid.421665.2................. 1........................................................... [Royal College of Music] was compared to [ROYAL COLLEGE OF MUSIC] 
+	http://www.grid.ac/institutes/grid.421665.2................. http://risis.eu/cordisH2020/resource/participant_947474176.. 1........................................................... [Royal College of Music] was compared to [ROYAL COLLEGE OF MUSIC] 
+	http://risis.eu/orgref_20170703/resource/175498............. http://risis.eu/eter_2014/resource/UK0102................... 1........................................................... [Royal College of Music] was compared to [Royal College of Music] 
+	http://risis.eu/eter_2014/resource/UK0102................... http://risis.eu/orgref_20170703/resource/175498............. 1........................................................... [Royal College of Music] was compared to [Royal College of Music] 
+	http://risis.eu/orgref_20170703/resource/175498............. http://risis.eu/cordisH2020/resource/participant_947474176.. 1........................................................... [Royal College of Music] was compared to [ROYAL COLLEGE OF MUSIC] 
+	http://risis.eu/cordisH2020/resource/participant_947474176.. http://risis.eu/orgref_20170703/resource/175498............. 1........................................................... [Royal College of Music] was compared to [ROYAL COLLEGE OF MUSIC] 
+	http://risis.eu/cordisH2020/resource/participant_947474176.. http://risis.eu/eter_2014/resource/UK0102................... 1........................................................... [ROYAL COLLEGE OF MUSIC] was compared to [Royal College of Music] 
+	http://risis.eu/eter_2014/resource/UK0102................... http://risis.eu/cordisH2020/resource/participant_947474176.. 1........................................................... [ROYAL COLLEGE OF MUSIC] was compared to [Royal College of Music] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/175498............. http://en.wikipedia.org/wiki?curid=175498................... 
+	http://risis.eu/orgref_20170703/resource/175498............. http://www.wikidata.org/wiki/Q304985........................ 
+	http://risis.eu/orgref_20170703/resource/175498............. http://www.rcm.ac.uk........................................ 
+	http://risis.eu/orgref_20170703/resource/175498............. Royal College of Music...................................... 
+	http://risis.eu/cordisH2020/resource/participant_947474176.. ROYAL COLLEGE OF MUSIC...................................... 
+	http://risis.eu/eter_2014/resource/UK0102................... 51,499279................................................... 
+	http://risis.eu/eter_2014/resource/UK0102................... -0,176913................................................... 
+	http://risis.eu/eter_2014/resource/UK0102................... http://www.rcm.ac.uk/....................................... 
+	http://risis.eu/eter_2014/resource/UK0102................... a........................................................... 
+	http://risis.eu/eter_2014/resource/UK0102................... Royal College of Music...................................... 
+	http://www.grid.ac/institutes/grid.421665.2................. -0.176944................................................... 
+	http://www.grid.ac/institutes/grid.421665.2................. 51.49972.................................................... 
+	http://www.grid.ac/institutes/grid.421665.2................. http://www.rcm.ac.uk/....................................... 
+	http://www.grid.ac/institutes/grid.421665.2................. Royal College of Music...................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:175498', '4:grid.421665.2'), ('2:participant_947474176', '1:175498'), ('2:participant_947474176', '4:grid.421665.2'), ('3:UK0102', '1:175498'), ('3:UK0102', '2:participant_947474176'), ('4:grid.421665.2', '3:UK0102')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

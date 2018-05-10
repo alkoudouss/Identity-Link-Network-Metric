@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 6326 
+NAME    N1879384184
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.411601.3>
+	<http://risis.eu/orgref_20170703/resource/3110220>
+	<http://risis.eu/orgref_20170703/resource/40449094>
+	<http://www.grid.ac/institutes/grid.412983.5>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.411601.3........ http://risis.eu/orgref_20170703/resource/40449094.. 1.................................................. [Beihua University] was compared to [Beihua University] 
+	http://risis.eu/orgref_20170703/resource/40449094.. http://www.grid.ac/institutes/grid.411601.3........ 1.................................................. [Beihua University] was compared to [Beihua University] 
+	http://risis.eu/orgref_20170703/resource/3110220... http://www.grid.ac/institutes/grid.412983.5........ 1.................................................. [Xihua University] was compared to [Xihua University] 
+	http://www.grid.ac/institutes/grid.412983.5........ http://risis.eu/orgref_20170703/resource/3110220... 1.................................................. [Xihua University] was compared to [Xihua University] 
+	http://risis.eu/orgref_20170703/resource/3110220... http://risis.eu/orgref_20170703/resource/40449094.. 0.882352941176..................................... [Xihua University] was compared to [Beihua University] 
+	http://risis.eu/orgref_20170703/resource/40449094.. http://risis.eu/orgref_20170703/resource/3110220... 0.882352941176..................................... [Xihua University] was compared to [Beihua University] 
+	http://www.grid.ac/institutes/grid.411601.3........ http://www.grid.ac/institutes/grid.412983.5........ 0.882352941176..................................... [Beihua University] was compared to [Xihua University] 
+	http://www.grid.ac/institutes/grid.412983.5........ http://www.grid.ac/institutes/grid.411601.3........ 0.882352941176..................................... [Beihua University] was compared to [Xihua University] 
+	http://www.grid.ac/institutes/grid.411601.3........ http://risis.eu/orgref_20170703/resource/3110220... 0.882352941176..................................... [Beihua University] was compared to [Xihua University] 
+	http://risis.eu/orgref_20170703/resource/3110220... http://www.grid.ac/institutes/grid.411601.3........ 0.882352941176..................................... [Beihua University] was compared to [Xihua University] 
+	http://risis.eu/orgref_20170703/resource/40449094.. http://www.grid.ac/institutes/grid.412983.5........ 0.882352941176..................................... [Xihua University] was compared to [Beihua University] 
+	http://www.grid.ac/institutes/grid.412983.5........ http://risis.eu/orgref_20170703/resource/40449094.. 0.882352941176..................................... [Xihua University] was compared to [Beihua University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.411601.3........ 126.606895......................................... 
+	http://www.grid.ac/institutes/grid.411601.3........ 43.83715........................................... 
+	http://www.grid.ac/institutes/grid.411601.3........ http://en.beihua.edu.cn/........................... 
+	http://www.grid.ac/institutes/grid.411601.3........ Běihuá Dàxué................................... 
+	http://www.grid.ac/institutes/grid.411601.3........ Beihua University.................................. 
+	http://risis.eu/orgref_20170703/resource/3110220... http://en.wikipedia.org/wiki?curid=3110220......... 
+	http://risis.eu/orgref_20170703/resource/3110220... http://www.wikidata.org/wiki/Q8044421.............. 
+	http://risis.eu/orgref_20170703/resource/3110220... http://www.xhu.edu.cn.............................. 
+	http://risis.eu/orgref_20170703/resource/3110220... Xihua University................................... 
+	http://risis.eu/orgref_20170703/resource/40449094.. http://en.wikipedia.org/wiki?curid=40449094........ 
+	http://risis.eu/orgref_20170703/resource/40449094.. http://www.wikidata.org/wiki/Q10902560............. 
+	http://risis.eu/orgref_20170703/resource/40449094.. http://www.beihua.edu.cn........................... 
+	http://risis.eu/orgref_20170703/resource/40449094.. Beihua University.................................. 
+	http://www.grid.ac/institutes/grid.412983.5........ 103.9506........................................... 
+	http://www.grid.ac/institutes/grid.412983.5........ 30.772635.......................................... 
+	http://www.grid.ac/institutes/grid.412983.5........ http://www.xhu.edu.cn/english/..................... 
+	http://www.grid.ac/institutes/grid.412983.5........ Xihua University................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:3110220', '1:grid.411601.3'), ('3:40449094', '1:grid.411601.3'), ('3:40449094', '2:3110220'), ('3:40449094', '4:grid.412983.5'), ('4:grid.412983.5', '1:grid.411601.3'), ('4:grid.412983.5', '2:3110220')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

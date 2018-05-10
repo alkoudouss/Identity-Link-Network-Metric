@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 615 
+NAME    N1430042704
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.452920.8>
+	<http://www.grid.ac/institutes/grid.414381.b>
+	<http://risis.eu/eter_2014/resource/FR0301>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.452920.8.. http://risis.eu/eter_2014/resource/FR0301.... 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://www.grid.ac/institutes/grid.414381.b.. http://risis.eu/eter_2014/resource/FR0301.... 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/FR0301.... http://www.grid.ac/institutes/grid.414381.b.. 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/FR0301.... http://www.grid.ac/institutes/grid.452920.8.. 1............................................ Near each other by at most 2000 meter(s)..... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.452920.8.. -61.528107................................... 
+	http://www.grid.ac/institutes/grid.452920.8.. 16.233408.................................... 
+	http://www.grid.ac/institutes/grid.452920.8.. http://www.pasteur-guadeloupe.fr/............ 
+	http://www.grid.ac/institutes/grid.452920.8.. Institut Pasteur de la Guadeloupe............ 
+	http://www.grid.ac/institutes/grid.414381.b.. -61.525326................................... 
+	http://www.grid.ac/institutes/grid.414381.b.. 16.2371...................................... 
+	http://www.grid.ac/institutes/grid.414381.b.. https://www.chu-guadeloupe.fr/............... 
+	http://www.grid.ac/institutes/grid.414381.b.. CHU de Pointe-à-Pitre....................... 
+	http://www.grid.ac/institutes/grid.414381.b.. Centre Hospitalier Universitaire Pointe-à-Pitre 
+	http://risis.eu/eter_2014/resource/FR0301.... 16,247482.................................... 
+	http://risis.eu/eter_2014/resource/FR0301.... -61,531739................................... 
+	http://risis.eu/eter_2014/resource/FR0301.... http://www.espe-guadeloupe.fr/............... 
+	http://risis.eu/eter_2014/resource/FR0301.... m............................................ 
+	http://risis.eu/eter_2014/resource/FR0301.... ESPE Guadeloupe.............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('N513601268-FR0301', 'N1273136733-grid.414381.b'), ('N513601268-FR0301', 'N1430042704-grid.452920.8')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

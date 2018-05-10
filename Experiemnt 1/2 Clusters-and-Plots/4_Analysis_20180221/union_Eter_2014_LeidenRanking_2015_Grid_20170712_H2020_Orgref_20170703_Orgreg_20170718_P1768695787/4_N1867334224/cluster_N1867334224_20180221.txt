@@ -1,0 +1,55 @@
+SIZE    4   
+CLUSTER 5230 
+NAME    N1867334224
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.441887.6>
+	<http://www.grid.ac/institutes/grid.442184.f>
+	<http://www.grid.ac/institutes/grid.440989.8>
+	<http://www.grid.ac/institutes/grid.441310.3>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.442184.f.. http://www.grid.ac/institutes/grid.440989.8.. 1............................................ [Universidad de las Américas] was compared to [Universidad de Las Américas] 
+	http://www.grid.ac/institutes/grid.440989.8.. http://www.grid.ac/institutes/grid.442184.f.. 1............................................ [Universidad de las Américas] was compared to [Universidad de Las Américas] 
+	http://www.grid.ac/institutes/grid.440989.8.. http://www.grid.ac/institutes/grid.441310.3.. 1............................................ [Universidad de las Américas] was compared to [Universidad de las Américas] 
+	http://www.grid.ac/institutes/grid.441310.3.. http://www.grid.ac/institutes/grid.440989.8.. 1............................................ [Universidad de las Américas] was compared to [Universidad de las Américas] 
+	http://www.grid.ac/institutes/grid.441887.6.. http://www.grid.ac/institutes/grid.440989.8.. 1............................................ [Universidad de las Américas] was compared to [Universidad Las Américas] 
+	http://www.grid.ac/institutes/grid.440989.8.. http://www.grid.ac/institutes/grid.441887.6.. 1............................................ [Universidad de las Américas] was compared to [Universidad Las Américas] 
+	http://www.grid.ac/institutes/grid.442184.f.. http://www.grid.ac/institutes/grid.441310.3.. 1............................................ [Universidad de las Américas] was compared to [Universidad de Las Américas] 
+	http://www.grid.ac/institutes/grid.441310.3.. http://www.grid.ac/institutes/grid.442184.f.. 1............................................ [Universidad de las Américas] was compared to [Universidad de Las Américas] 
+	http://www.grid.ac/institutes/grid.441887.6.. http://www.grid.ac/institutes/grid.441310.3.. 1............................................ [Universidad de las Américas] was compared to [Universidad Las Américas] 
+	http://www.grid.ac/institutes/grid.441310.3.. http://www.grid.ac/institutes/grid.441887.6.. 1............................................ [Universidad de las Américas] was compared to [Universidad Las Américas] 
+	http://www.grid.ac/institutes/grid.441887.6.. http://www.grid.ac/institutes/grid.442184.f.. 1............................................ [Universidad Las Américas] was compared to [Universidad de Las Américas] 
+	http://www.grid.ac/institutes/grid.442184.f.. http://www.grid.ac/institutes/grid.441887.6.. 1............................................ [Universidad Las Américas] was compared to [Universidad de Las Américas] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.441887.6.. Universidad Las Américas.................... 
+	http://www.grid.ac/institutes/grid.442184.f.. Universidad de Las Américas................. 
+	http://www.grid.ac/institutes/grid.440989.8.. Universidad de las Américas................. 
+	http://www.grid.ac/institutes/grid.441310.3.. Universidad de las Américas................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.441887.6', '3:grid.440989.8'), ('1:grid.441887.6', '4:grid.441310.3'), ('2:grid.442184.f', '1:grid.441887.6'), ('3:grid.440989.8', '2:grid.442184.f'), ('4:grid.441310.3', '2:grid.442184.f'), ('4:grid.441310.3', '3:grid.440989.8')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

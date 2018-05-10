@@ -1,0 +1,58 @@
+SIZE    4   
+CLUSTER 16164 
+NAME    N1335227887
+
+RESOURCES INVOLVED
+	<http://risis.eu/cordisH2020/resource/participant_997082013>
+	<http://risis.eu/leidenRanking_2015/resource/2434>
+	<http://risis.eu/orgref_20170703/resource/8327699>
+	<http://www.grid.ac/institutes/grid.45907.3f>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/8327699............ http://www.grid.ac/institutes/grid.45907.3f................. 1........................................................... [National Taiwan University of Science and Technology] was compared to [National Taiwan University of Science and Technology] 
+	http://www.grid.ac/institutes/grid.45907.3f................. http://risis.eu/orgref_20170703/resource/8327699............ 1........................................................... [National Taiwan University of Science and Technology] was compared to [National Taiwan University of Science and Technology] 
+	http://risis.eu/cordisH2020/resource/participant_997082013.. http://www.grid.ac/institutes/grid.45907.3f................. 1........................................................... [National Taiwan University of Science and Technology] was compared to [NATIONAL TAIWAN UNIVERSITY OF SCIENCE AND TECHNOLOGY] 
+	http://www.grid.ac/institutes/grid.45907.3f................. http://risis.eu/cordisH2020/resource/participant_997082013.. 1........................................................... [National Taiwan University of Science and Technology] was compared to [NATIONAL TAIWAN UNIVERSITY OF SCIENCE AND TECHNOLOGY] 
+	http://risis.eu/cordisH2020/resource/participant_997082013.. http://risis.eu/orgref_20170703/resource/8327699............ 1........................................................... [National Taiwan University of Science and Technology] was compared to [NATIONAL TAIWAN UNIVERSITY OF SCIENCE AND TECHNOLOGY] 
+	http://risis.eu/orgref_20170703/resource/8327699............ http://risis.eu/cordisH2020/resource/participant_997082013.. 1........................................................... [National Taiwan University of Science and Technology] was compared to [NATIONAL TAIWAN UNIVERSITY OF SCIENCE AND TECHNOLOGY] 
+	http://risis.eu/cordisH2020/resource/participant_997082013.. http://risis.eu/leidenRanking_2015/resource/2434............ 0.957446808511.............................................. [NATIONAL TAIWAN UNIVERSITY OF SCIENCE AND TECHNOLOGY] was compared to [National Taiwan University of Science & Technology] 
+	http://risis.eu/leidenRanking_2015/resource/2434............ http://risis.eu/cordisH2020/resource/participant_997082013.. 0.957446808511.............................................. [NATIONAL TAIWAN UNIVERSITY OF SCIENCE AND TECHNOLOGY] was compared to [National Taiwan University of Science & Technology] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_997082013.. NATIONAL TAIWAN UNIVERSITY OF SCIENCE AND TECHNOLOGY........ 
+	http://risis.eu/leidenRanking_2015/resource/2434............ National Taiwan University of Science & Technology.......... 
+	http://risis.eu/orgref_20170703/resource/8327699............ http://en.wikipedia.org/wiki?curid=8327699.................. 
+	http://risis.eu/orgref_20170703/resource/8327699............ http://www.wikidata.org/wiki/Q699543........................ 
+	http://risis.eu/orgref_20170703/resource/8327699............ http://www.ntust.edu.tw/home.php?lang=en.................... 
+	http://risis.eu/orgref_20170703/resource/8327699............ National Taiwan University of Science and Technology........ 
+	http://www.grid.ac/institutes/grid.45907.3f................. 121.540535.................................................. 
+	http://www.grid.ac/institutes/grid.45907.3f................. 25.013685................................................... 
+	http://www.grid.ac/institutes/grid.45907.3f................. http://www.ntust.edu.tw/home.php?Lang=en.................... 
+	http://www.grid.ac/institutes/grid.45907.3f................. Taiwan Tech................................................. 
+	http://www.grid.ac/institutes/grid.45907.3f................. National Taiwan University of Science and Technology........ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:participant_997082013', '4:grid.45907.3f'), ('2:2434', '1:participant_997082013'), ('3:8327699', '1:participant_997082013'), ('4:grid.45907.3f', '3:8327699')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

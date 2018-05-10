@@ -1,0 +1,60 @@
+SIZE    4   
+CLUSTER 4702 
+NAME    N1359685408
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.410524.6>
+	<http://www.grid.ac/institutes/grid.439976.6>
+	<http://www.grid.ac/institutes/grid.432315.2>
+	<http://risis.eu/orgref_20170703/resource/6221342>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.410524.6....... http://www.grid.ac/institutes/grid.439976.6....... 0.833333333333.................................... [Association of American Colleges and Universities] was compared to [Association of Universities and Colleges of Canada] 
+	http://www.grid.ac/institutes/grid.439976.6....... http://www.grid.ac/institutes/grid.410524.6....... 0.833333333333.................................... [Association of American Colleges and Universities] was compared to [Association of Universities and Colleges of Canada] 
+	http://www.grid.ac/institutes/grid.410524.6....... http://www.grid.ac/institutes/grid.432315.2....... 0.875............................................. [Association of American Colleges and Universities] was compared to [American Association of State Colleges and Universities] 
+	http://www.grid.ac/institutes/grid.432315.2....... http://www.grid.ac/institutes/grid.410524.6....... 0.875............................................. [Association of American Colleges and Universities] was compared to [American Association of State Colleges and Universities] 
+	http://www.grid.ac/institutes/grid.410524.6....... http://risis.eu/orgref_20170703/resource/6221342.. 0.875............................................. [Association of American Colleges and Universities] was compared to [American Association of State Colleges and Universities] 
+	http://risis.eu/orgref_20170703/resource/6221342.. http://www.grid.ac/institutes/grid.410524.6....... 0.875............................................. [Association of American Colleges and Universities] was compared to [American Association of State Colleges and Universities] 
+	http://www.grid.ac/institutes/grid.432315.2....... http://risis.eu/orgref_20170703/resource/6221342.. 1................................................. [American Association of State Colleges and Universities] was compared to [American Association of State Colleges and Universities] 
+	http://risis.eu/orgref_20170703/resource/6221342.. http://www.grid.ac/institutes/grid.432315.2....... 1................................................. [American Association of State Colleges and Universities] was compared to [American Association of State Colleges and Universities] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.410524.6....... -77.042755........................................ 
+	http://www.grid.ac/institutes/grid.410524.6....... 38.91293.......................................... 
+	http://www.grid.ac/institutes/grid.410524.6....... https://www.aacu.org/............................. 
+	http://www.grid.ac/institutes/grid.410524.6....... Association of American Colleges and Universities. 
+	http://www.grid.ac/institutes/grid.439976.6....... Association of Universities and Colleges of Canada 
+	http://www.grid.ac/institutes/grid.432315.2....... -77.04262......................................... 
+	http://www.grid.ac/institutes/grid.432315.2....... 38.912457......................................... 
+	http://www.grid.ac/institutes/grid.432315.2....... http://www.aascu.org/............................. 
+	http://www.grid.ac/institutes/grid.432315.2....... American Association of State Colleges and Universities 
+	http://risis.eu/orgref_20170703/resource/6221342.. http://en.wikipedia.org/wiki?curid=6221342........ 
+	http://risis.eu/orgref_20170703/resource/6221342.. http://www.wikidata.org/wiki/Q4743101............. 
+	http://risis.eu/orgref_20170703/resource/6221342.. http://www.aascu.org.............................. 
+	http://risis.eu/orgref_20170703/resource/6221342.. American Association of State Colleges and Universities 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.439976.6', '1:grid.410524.6'), ('3:grid.432315.2', '1:grid.410524.6'), ('4:6221342', '1:grid.410524.6'), ('4:6221342', '3:grid.432315.2')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

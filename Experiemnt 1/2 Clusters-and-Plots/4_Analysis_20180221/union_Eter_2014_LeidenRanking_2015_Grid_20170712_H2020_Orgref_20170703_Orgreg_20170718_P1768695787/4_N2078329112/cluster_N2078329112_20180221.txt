@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 8604 
+NAME    N2078329112
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.443195.e>
+	<http://www.grid.ac/institutes/grid.444401.1>
+	<http://risis.eu/orgref_20170703/resource/14848040>
+	<http://risis.eu/orgref_20170703/resource/18178636>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.443195.e........ http://risis.eu/orgref_20170703/resource/18178636.. 1.................................................. [Chuo Gakuin University] was compared to [Chuo Gakuin University] 
+	http://risis.eu/orgref_20170703/resource/18178636.. http://www.grid.ac/institutes/grid.443195.e........ 1.................................................. [Chuo Gakuin University] was compared to [Chuo Gakuin University] 
+	http://www.grid.ac/institutes/grid.444401.1........ http://risis.eu/orgref_20170703/resource/14848040.. 1.................................................. [Chukyo Gakuin University] was compared to [Chukyo Gakuin University] 
+	http://risis.eu/orgref_20170703/resource/14848040.. http://www.grid.ac/institutes/grid.444401.1........ 1.................................................. [Chukyo Gakuin University] was compared to [Chukyo Gakuin University] 
+	http://risis.eu/orgref_20170703/resource/14848040.. http://risis.eu/orgref_20170703/resource/18178636.. 0.916666666667..................................... [Chukyo Gakuin University] was compared to [Chuo Gakuin University] 
+	http://risis.eu/orgref_20170703/resource/18178636.. http://risis.eu/orgref_20170703/resource/14848040.. 0.916666666667..................................... [Chukyo Gakuin University] was compared to [Chuo Gakuin University] 
+	http://www.grid.ac/institutes/grid.443195.e........ http://www.grid.ac/institutes/grid.444401.1........ 0.916666666667..................................... [Chuo Gakuin University] was compared to [Chukyo Gakuin University] 
+	http://www.grid.ac/institutes/grid.444401.1........ http://www.grid.ac/institutes/grid.443195.e........ 0.916666666667..................................... [Chuo Gakuin University] was compared to [Chukyo Gakuin University] 
+	http://www.grid.ac/institutes/grid.443195.e........ http://risis.eu/orgref_20170703/resource/14848040.. 0.916666666667..................................... [Chuo Gakuin University] was compared to [Chukyo Gakuin University] 
+	http://risis.eu/orgref_20170703/resource/14848040.. http://www.grid.ac/institutes/grid.443195.e........ 0.916666666667..................................... [Chuo Gakuin University] was compared to [Chukyo Gakuin University] 
+	http://www.grid.ac/institutes/grid.444401.1........ http://risis.eu/orgref_20170703/resource/18178636.. 0.916666666667..................................... [Chukyo Gakuin University] was compared to [Chuo Gakuin University] 
+	http://risis.eu/orgref_20170703/resource/18178636.. http://www.grid.ac/institutes/grid.444401.1........ 0.916666666667..................................... [Chukyo Gakuin University] was compared to [Chuo Gakuin University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.443195.e........ Chuo Gakuin University............................. 
+	http://www.grid.ac/institutes/grid.444401.1........ Chukyo Gakuin University........................... 
+	http://risis.eu/orgref_20170703/resource/14848040.. http://en.wikipedia.org/wiki?curid=14848040........ 
+	http://risis.eu/orgref_20170703/resource/14848040.. http://www.wikidata.org/wiki/Q5116067.............. 
+	http://risis.eu/orgref_20170703/resource/14848040.. http://www.chukyogakuin-u.ac.jp.................... 
+	http://risis.eu/orgref_20170703/resource/14848040.. Chukyo Gakuin University........................... 
+	http://risis.eu/orgref_20170703/resource/18178636.. http://en.wikipedia.org/wiki?curid=18178636........ 
+	http://risis.eu/orgref_20170703/resource/18178636.. http://www.wikidata.org/wiki/Q5116467.............. 
+	http://risis.eu/orgref_20170703/resource/18178636.. http://www.cgu.ac.jp............................... 
+	http://risis.eu/orgref_20170703/resource/18178636.. Chuo Gakuin University............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.444401.1', '1:grid.443195.e'), ('3:14848040', '1:grid.443195.e'), ('3:14848040', '2:grid.444401.1'), ('4:18178636', '1:grid.443195.e'), ('4:18178636', '2:grid.444401.1'), ('4:18178636', '3:14848040')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

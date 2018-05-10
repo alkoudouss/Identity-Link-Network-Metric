@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 10578 
+NAME    N1913377920
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.436502.6>
+	<http://www.grid.ac/institutes/grid.481709.3>
+	<http://www.grid.ac/institutes/grid.481599.8>
+	<http://www.grid.ac/institutes/grid.451058.d>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.436502.6.. http://www.grid.ac/institutes/grid.451058.d.. 1............................................ [Metso (Finland)] was compared to [Metso (Canada)] 
+	http://www.grid.ac/institutes/grid.451058.d.. http://www.grid.ac/institutes/grid.436502.6.. 1............................................ [Metso (Finland)] was compared to [Metso (Canada)] 
+	http://www.grid.ac/institutes/grid.436502.6.. http://www.grid.ac/institutes/grid.481599.8.. 1............................................ [Metso (Finland)] was compared to [Metso (United States)] 
+	http://www.grid.ac/institutes/grid.481599.8.. http://www.grid.ac/institutes/grid.436502.6.. 1............................................ [Metso (Finland)] was compared to [Metso (United States)] 
+	http://www.grid.ac/institutes/grid.436502.6.. http://www.grid.ac/institutes/grid.481709.3.. 1............................................ [Metso (Finland)] was compared to [Metso (Sweden)] 
+	http://www.grid.ac/institutes/grid.481709.3.. http://www.grid.ac/institutes/grid.436502.6.. 1............................................ [Metso (Finland)] was compared to [Metso (Sweden)] 
+	http://www.grid.ac/institutes/grid.481599.8.. http://www.grid.ac/institutes/grid.451058.d.. 1............................................ [Metso (Canada)] was compared to [Metso (United States)] 
+	http://www.grid.ac/institutes/grid.451058.d.. http://www.grid.ac/institutes/grid.481599.8.. 1............................................ [Metso (Canada)] was compared to [Metso (United States)] 
+	http://www.grid.ac/institutes/grid.481709.3.. http://www.grid.ac/institutes/grid.451058.d.. 1............................................ [Metso (Canada)] was compared to [Metso (Sweden)] 
+	http://www.grid.ac/institutes/grid.451058.d.. http://www.grid.ac/institutes/grid.481709.3.. 1............................................ [Metso (Canada)] was compared to [Metso (Sweden)] 
+	http://www.grid.ac/institutes/grid.481709.3.. http://www.grid.ac/institutes/grid.481599.8.. 1............................................ [Metso (United States)] was compared to [Metso (Sweden)] 
+	http://www.grid.ac/institutes/grid.481599.8.. http://www.grid.ac/institutes/grid.481709.3.. 1............................................ [Metso (United States)] was compared to [Metso (Sweden)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.436502.6.. Metso (Finland).............................. 
+	http://www.grid.ac/institutes/grid.481709.3.. 12.017339.................................... 
+	http://www.grid.ac/institutes/grid.481709.3.. 57.638786.................................... 
+	http://www.grid.ac/institutes/grid.481709.3.. http://www.metso.com/........................ 
+	http://www.grid.ac/institutes/grid.481709.3.. Metso (Sweden)............................... 
+	http://www.grid.ac/institutes/grid.481599.8.. -71.05661.................................... 
+	http://www.grid.ac/institutes/grid.481599.8.. 42.35427..................................... 
+	http://www.grid.ac/institutes/grid.481599.8.. http://www.metso.com/........................ 
+	http://www.grid.ac/institutes/grid.481599.8.. Metso (United States)........................ 
+	http://www.grid.ac/institutes/grid.451058.d.. -77.54297.................................... 
+	http://www.grid.ac/institutes/grid.451058.d.. 44.561226.................................... 
+	http://www.grid.ac/institutes/grid.451058.d.. http://www.metso.com/........................ 
+	http://www.grid.ac/institutes/grid.451058.d.. Metso (Canada)............................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.481709.3', '1:grid.436502.6'), ('2:grid.481709.3', '3:grid.481599.8'), ('2:grid.481709.3', '4:grid.451058.d'), ('3:grid.481599.8', '1:grid.436502.6'), ('3:grid.481599.8', '4:grid.451058.d'), ('4:grid.451058.d', '1:grid.436502.6')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

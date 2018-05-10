@@ -1,0 +1,56 @@
+SIZE    3   
+CLUSTER 386 
+NAME    N338829661
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.6884.2>
+	<http://www.grid.ac/institutes/grid.469859.f>
+	<http://risis.eu/eter_2014/resource/DE0043>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.6884.2.... http://risis.eu/eter_2014/resource/DE0043.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.469859.f.. http://risis.eu/eter_2014/resource/DE0043.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/DE0043.... http://www.grid.ac/institutes/grid.469859.f.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/DE0043.... http://www.grid.ac/institutes/grid.6884.2.... 1............................................ Near each other by at most 500 meter(s)...... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.6884.2.... 9.969444..................................... 
+	http://www.grid.ac/institutes/grid.6884.2.... 53.460835.................................... 
+	http://www.grid.ac/institutes/grid.6884.2.... http://www.tuhh.de/alt/tuhh/startpage.html... 
+	http://www.grid.ac/institutes/grid.6884.2.... Hamburg University of Technology............. 
+	http://www.grid.ac/institutes/grid.469859.f.. 9.969056..................................... 
+	http://www.grid.ac/institutes/grid.469859.f.. 53.46313..................................... 
+	http://www.grid.ac/institutes/grid.469859.f.. http://www.cml.fraunhofer.de/en.html......... 
+	http://www.grid.ac/institutes/grid.469859.f.. Fraunhofer Center for Maritime Logistics and Services 
+	http://risis.eu/eter_2014/resource/DE0043.... 53,459223.................................... 
+	http://risis.eu/eter_2014/resource/DE0043.... 9,969903..................................... 
+	http://risis.eu/eter_2014/resource/DE0043.... www.tu-harburg.de............................ 
+	http://risis.eu/eter_2014/resource/DE0043.... a............................................ 
+	http://risis.eu/eter_2014/resource/DE0043.... Hamburg University of Technology............. 
+	http://risis.eu/eter_2014/resource/DE0043.... Technische Universität Hamburg-Harburg...... 
+
+NETWORK ANALYSIS
+	NETWORK [('N148413260-DE0043', 'N191083102-grid.6884.2'), ('N148413260-DE0043', 'N338829661-grid.469859.f')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

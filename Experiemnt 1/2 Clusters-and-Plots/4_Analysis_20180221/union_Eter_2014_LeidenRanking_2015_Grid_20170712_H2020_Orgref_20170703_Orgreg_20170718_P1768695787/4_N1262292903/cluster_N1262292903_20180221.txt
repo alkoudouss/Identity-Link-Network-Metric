@@ -1,0 +1,69 @@
+SIZE    4   
+CLUSTER 6343 
+NAME    N1262292903
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/584680>
+	<http://risis.eu/orgreg_20170718/resource/IE0016>
+	<http://www.grid.ac/institutes/grid.418998.5>
+	<http://risis.eu/eter_2014/resource/IE0016>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/584680.. http://www.grid.ac/institutes/grid.418998.5...... 1................................................ [Institute of Technology Sligo] was compared to [Institute of Technology, Sligo] 
+	http://www.grid.ac/institutes/grid.418998.5...... http://risis.eu/orgref_20170703/resource/584680.. 1................................................ [Institute of Technology Sligo] was compared to [Institute of Technology, Sligo] 
+	http://www.grid.ac/institutes/grid.418998.5...... http://risis.eu/eter_2014/resource/IE0016........ 1................................................ [Institute of Technology Sligo] was compared to [Institute of Technology, Sligo] 
+	http://risis.eu/eter_2014/resource/IE0016........ http://www.grid.ac/institutes/grid.418998.5...... 1................................................ [Institute of Technology Sligo] was compared to [Institute of Technology, Sligo] 
+	http://risis.eu/orgref_20170703/resource/584680.. http://risis.eu/eter_2014/resource/IE0016........ 1................................................ [Institute of Technology, Sligo] was compared to [Institute of Technology, Sligo] 
+	http://risis.eu/eter_2014/resource/IE0016........ http://risis.eu/orgref_20170703/resource/584680.. 1................................................ [Institute of Technology, Sligo] was compared to [Institute of Technology, Sligo] 
+	http://risis.eu/orgreg_20170718/resource/IE0016.. http://risis.eu/eter_2014/resource/IE0016........ 0.962962962963................................... [Institute of Technology	 Sligo] was compared to [Institute of Technology, Sligo] 
+	http://risis.eu/eter_2014/resource/IE0016........ http://risis.eu/orgreg_20170718/resource/IE0016.. 0.962962962963................................... [Institute of Technology	 Sligo] was compared to [Institute of Technology, Sligo] 
+	http://risis.eu/orgref_20170703/resource/584680.. http://risis.eu/orgreg_20170718/resource/IE0016.. 0.962962962963................................... [Institute of Technology, Sligo] was compared to [Institute of Technology	 Sligo] 
+	http://risis.eu/orgreg_20170718/resource/IE0016.. http://risis.eu/orgref_20170703/resource/584680.. 0.962962962963................................... [Institute of Technology, Sligo] was compared to [Institute of Technology	 Sligo] 
+	http://risis.eu/orgreg_20170718/resource/IE0016.. http://www.grid.ac/institutes/grid.418998.5...... 0.962962962963................................... [Institute of Technology Sligo] was compared to [Institute of Technology	 Sligo] 
+	http://www.grid.ac/institutes/grid.418998.5...... http://risis.eu/orgreg_20170718/resource/IE0016.. 0.962962962963................................... [Institute of Technology Sligo] was compared to [Institute of Technology	 Sligo] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/584680.. http://en.wikipedia.org/wiki?curid=584680........ 
+	http://risis.eu/orgref_20170703/resource/584680.. http://www.wikidata.org/wiki/Q11042094........... 
+	http://risis.eu/orgref_20170703/resource/584680.. http://itsligo.ie................................ 
+	http://risis.eu/orgref_20170703/resource/584680.. Institute of Technology, Sligo................... 
+	http://risis.eu/orgreg_20170718/resource/IE0016.. -8.4760888....................................... 
+	http://risis.eu/orgreg_20170718/resource/IE0016.. 54.2766103....................................... 
+	http://risis.eu/orgreg_20170718/resource/IE0016.. http://www.itsligo.ie............................ 
+	http://risis.eu/orgreg_20170718/resource/IE0016.. Institute of Technology	 Sligo................... 
+	http://www.grid.ac/institutes/grid.418998.5...... -8.461624........................................ 
+	http://www.grid.ac/institutes/grid.418998.5...... 54.27827......................................... 
+	http://www.grid.ac/institutes/grid.418998.5...... http://itsligo.ie/............................... 
+	http://www.grid.ac/institutes/grid.418998.5...... Institiúid Teicneolaíochta Sligeach............ 
+	http://www.grid.ac/institutes/grid.418998.5...... Institute of Technology Sligo.................... 
+	http://risis.eu/eter_2014/resource/IE0016........ 54,2766103....................................... 
+	http://risis.eu/eter_2014/resource/IE0016........ -8,4760888....................................... 
+	http://risis.eu/eter_2014/resource/IE0016........ http://www.itsligo.ie............................ 
+	http://risis.eu/eter_2014/resource/IE0016........ a................................................ 
+	http://risis.eu/eter_2014/resource/IE0016........ Institute of Technology, Sligo................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:584680', '3:grid.418998.5'), ('2:IE0016', '1:584680'), ('2:IE0016', '3:grid.418998.5'), ('4:IE0016', '1:584680'), ('4:IE0016', '2:IE0016'), ('4:IE0016', '3:grid.418998.5')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

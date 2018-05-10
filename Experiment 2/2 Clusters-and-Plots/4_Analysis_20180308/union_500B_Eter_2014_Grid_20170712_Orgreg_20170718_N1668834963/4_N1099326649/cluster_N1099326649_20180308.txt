@@ -1,0 +1,63 @@
+SIZE    4   
+CLUSTER 467 
+NAME    N1099326649
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.426010.1>
+	<http://www.grid.ac/institutes/grid.466414.5>
+	<http://www.grid.ac/institutes/grid.466399.7>
+	<http://risis.eu/eter_2014/resource/FR0159>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.426010.1.. http://risis.eu/eter_2014/resource/FR0159.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.466414.5.. http://risis.eu/eter_2014/resource/FR0159.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://www.grid.ac/institutes/grid.466399.7.. http://risis.eu/eter_2014/resource/FR0159.... 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/FR0159.... http://www.grid.ac/institutes/grid.426010.1.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/FR0159.... http://www.grid.ac/institutes/grid.466399.7.. 1............................................ Near each other by at most 500 meter(s)...... 
+	http://risis.eu/eter_2014/resource/FR0159.... http://www.grid.ac/institutes/grid.466414.5.. 1............................................ Near each other by at most 500 meter(s)...... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.426010.1.. 4.864535..................................... 
+	http://www.grid.ac/institutes/grid.426010.1.. 45.771183.................................... 
+	http://www.grid.ac/institutes/grid.426010.1.. http://www.raee.org/en/raee-regional-energy-and-environment-agency-in-rhone-alpes.html 
+	http://www.grid.ac/institutes/grid.426010.1.. Rhônalpénergie Environnement............... 
+	http://www.grid.ac/institutes/grid.466414.5.. 4.860824..................................... 
+	http://www.grid.ac/institutes/grid.466414.5.. 45.773174.................................... 
+	http://www.grid.ac/institutes/grid.466414.5.. http://www.edara.fr/......................... 
+	http://www.grid.ac/institutes/grid.466414.5.. École des avocats de la région Rhône-Alpes 
+	http://www.grid.ac/institutes/grid.466414.5.. Ecole des Avocats Rhône-Alpes............... 
+	http://www.grid.ac/institutes/grid.466399.7.. 4.861598..................................... 
+	http://www.grid.ac/institutes/grid.466399.7.. 45.77469..................................... 
+	http://www.grid.ac/institutes/grid.466399.7.. https://www.ira-lyon.gouv.fr/fr/Pages/accueil.aspx 
+	http://www.grid.ac/institutes/grid.466399.7.. Institut Régional d'Administration de Lyon.. 
+	http://risis.eu/eter_2014/resource/FR0159.... 45,774567.................................... 
+	http://risis.eu/eter_2014/resource/FR0159.... 4,861515..................................... 
+	http://risis.eu/eter_2014/resource/FR0159.... https://www.ira-lyon.gouv.fr/fr/Pages/accueil.aspx 
+	http://risis.eu/eter_2014/resource/FR0159.... m............................................ 
+	http://risis.eu/eter_2014/resource/FR0159.... Institut régional d'administration de Lyon.. 
+
+NETWORK ANALYSIS
+	NETWORK [('N1099326649-FR0159', 'N924602062-grid.466414.5'), ('N1099326649-FR0159', 'P952222314-grid.466399.7'), ('N1099326649-FR0159', 'P204539258-grid.426010.1')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 2
+	QUALITY                         : 0.667
+	QUALITY USED                    : 0.667
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 0.5 QUALITY 0.667 QUALITY USED 0.667
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 0.5 QUALITY 0.667 QUALITY USED 0.667

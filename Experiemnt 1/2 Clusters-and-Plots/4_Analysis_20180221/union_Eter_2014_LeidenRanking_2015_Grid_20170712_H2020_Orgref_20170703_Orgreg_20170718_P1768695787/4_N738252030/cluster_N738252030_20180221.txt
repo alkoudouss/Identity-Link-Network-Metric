@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 14412 
+NAME    N738252030
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/UK0080>
+	<http://risis.eu/leidenRanking_2015/resource/322>
+	<http://www.grid.ac/institutes/grid.15822.3c>
+	<http://risis.eu/orgref_20170703/resource/220104>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.15822.3c...... http://risis.eu/orgref_20170703/resource/220104.. 1................................................ [Middlesex University] was compared to [Middlesex University] 
+	http://risis.eu/orgref_20170703/resource/220104.. http://www.grid.ac/institutes/grid.15822.3c...... 1................................................ [Middlesex University] was compared to [Middlesex University] 
+	http://risis.eu/leidenRanking_2015/resource/322.. http://www.grid.ac/institutes/grid.15822.3c...... 1................................................ [Middlesex University] was compared to [Middlesex University] 
+	http://www.grid.ac/institutes/grid.15822.3c...... http://risis.eu/leidenRanking_2015/resource/322.. 1................................................ [Middlesex University] was compared to [Middlesex University] 
+	http://risis.eu/eter_2014/resource/UK0080........ http://www.grid.ac/institutes/grid.15822.3c...... 1................................................ [Middlesex University] was compared to [Middlesex University] 
+	http://www.grid.ac/institutes/grid.15822.3c...... http://risis.eu/eter_2014/resource/UK0080........ 1................................................ [Middlesex University] was compared to [Middlesex University] 
+	http://risis.eu/eter_2014/resource/UK0080........ http://risis.eu/orgref_20170703/resource/220104.. 1................................................ [Middlesex University] was compared to [Middlesex University] 
+	http://risis.eu/orgref_20170703/resource/220104.. http://risis.eu/eter_2014/resource/UK0080........ 1................................................ [Middlesex University] was compared to [Middlesex University] 
+	http://risis.eu/leidenRanking_2015/resource/322.. http://risis.eu/orgref_20170703/resource/220104.. 1................................................ [Middlesex University] was compared to [Middlesex University] 
+	http://risis.eu/orgref_20170703/resource/220104.. http://risis.eu/leidenRanking_2015/resource/322.. 1................................................ [Middlesex University] was compared to [Middlesex University] 
+	http://risis.eu/eter_2014/resource/UK0080........ http://risis.eu/leidenRanking_2015/resource/322.. 1................................................ [Middlesex University] was compared to [Middlesex University] 
+	http://risis.eu/leidenRanking_2015/resource/322.. http://risis.eu/eter_2014/resource/UK0080........ 1................................................ [Middlesex University] was compared to [Middlesex University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/eter_2014/resource/UK0080........ 51,589714........................................ 
+	http://risis.eu/eter_2014/resource/UK0080........ -0,228441........................................ 
+	http://risis.eu/eter_2014/resource/UK0080........ http://www.mdx.ac.uk/............................ 
+	http://risis.eu/eter_2014/resource/UK0080........ a................................................ 
+	http://risis.eu/eter_2014/resource/UK0080........ Middlesex University............................. 
+	http://risis.eu/leidenRanking_2015/resource/322.. Middlesex University............................. 
+	http://www.grid.ac/institutes/grid.15822.3c...... -0.226912........................................ 
+	http://www.grid.ac/institutes/grid.15822.3c...... 51.589718........................................ 
+	http://www.grid.ac/institutes/grid.15822.3c...... http://www.mdx.ac.uk/............................ 
+	http://www.grid.ac/institutes/grid.15822.3c...... Middlesex University............................. 
+	http://risis.eu/orgref_20170703/resource/220104.. http://en.wikipedia.org/wiki?curid=220104........ 
+	http://risis.eu/orgref_20170703/resource/220104.. http://www.wikidata.org/wiki/Q1760791............ 
+	http://risis.eu/orgref_20170703/resource/220104.. http://mdx.ac.uk................................. 
+	http://risis.eu/orgref_20170703/resource/220104.. Middlesex University............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:UK0080', '4:220104'), ('2:322', '1:UK0080'), ('2:322', '3:grid.15822.3c'), ('2:322', '4:220104'), ('3:grid.15822.3c', '1:UK0080'), ('4:220104', '3:grid.15822.3c')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

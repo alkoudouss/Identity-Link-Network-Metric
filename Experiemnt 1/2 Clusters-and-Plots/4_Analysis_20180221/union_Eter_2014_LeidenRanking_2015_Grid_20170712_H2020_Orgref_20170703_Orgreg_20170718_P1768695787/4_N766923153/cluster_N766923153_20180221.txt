@@ -1,0 +1,69 @@
+SIZE    4   
+CLUSTER 646 
+NAME    N766923153
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.425872.e>
+	<http://www.grid.ac/institutes/grid.436172.5>
+	<http://risis.eu/orgref_20170703/resource/9905605>
+	<http://www.grid.ac/institutes/grid.424594.a>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.425872.e....... http://www.grid.ac/institutes/grid.436172.5....... 1................................................. [Ministry of Education and Research] was compared to [Ministry of Education and Research] 
+	http://www.grid.ac/institutes/grid.436172.5....... http://www.grid.ac/institutes/grid.425872.e....... 1................................................. [Ministry of Education and Research] was compared to [Ministry of Education and Research] 
+	http://www.grid.ac/institutes/grid.425872.e....... http://www.grid.ac/institutes/grid.424594.a....... 1................................................. [Ministry of Education and Research] was compared to [Ministry of Education and Research] 
+	http://www.grid.ac/institutes/grid.424594.a....... http://www.grid.ac/institutes/grid.425872.e....... 1................................................. [Ministry of Education and Research] was compared to [Ministry of Education and Research] 
+	http://www.grid.ac/institutes/grid.436172.5....... http://www.grid.ac/institutes/grid.424594.a....... 1................................................. [Ministry of Education and Research] was compared to [Ministry of Education and Research] 
+	http://www.grid.ac/institutes/grid.424594.a....... http://www.grid.ac/institutes/grid.436172.5....... 1................................................. [Ministry of Education and Research] was compared to [Ministry of Education and Research] 
+	http://www.grid.ac/institutes/grid.425872.e....... http://risis.eu/orgref_20170703/resource/9905605.. 1................................................. [Ministry of Education and Research] was compared to [Ministry of Education and Research (Sweden)] 
+	http://risis.eu/orgref_20170703/resource/9905605.. http://www.grid.ac/institutes/grid.425872.e....... 1................................................. [Ministry of Education and Research] was compared to [Ministry of Education and Research (Sweden)] 
+	http://risis.eu/orgref_20170703/resource/9905605.. http://www.grid.ac/institutes/grid.424594.a....... 1................................................. [Ministry of Education and Research] was compared to [Ministry of Education and Research (Sweden)] 
+	http://www.grid.ac/institutes/grid.424594.a....... http://risis.eu/orgref_20170703/resource/9905605.. 1................................................. [Ministry of Education and Research] was compared to [Ministry of Education and Research (Sweden)] 
+	http://www.grid.ac/institutes/grid.436172.5....... http://risis.eu/orgref_20170703/resource/9905605.. 1................................................. [Ministry of Education and Research] was compared to [Ministry of Education and Research (Sweden)] 
+	http://risis.eu/orgref_20170703/resource/9905605.. http://www.grid.ac/institutes/grid.436172.5....... 1................................................. [Ministry of Education and Research] was compared to [Ministry of Education and Research (Sweden)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.425872.e....... 10.71774.......................................... 
+	http://www.grid.ac/institutes/grid.425872.e....... 59.94328.......................................... 
+	http://www.grid.ac/institutes/grid.425872.e....... https://www.regjeringen.no/en/dep/kd/id586/....... 
+	http://www.grid.ac/institutes/grid.425872.e....... Royal Norwegian Ministry of Education and Research 
+	http://www.grid.ac/institutes/grid.425872.e....... Ministry of Education and Research................ 
+	http://www.grid.ac/institutes/grid.436172.5....... 18.062948......................................... 
+	http://www.grid.ac/institutes/grid.436172.5....... 59.328556......................................... 
+	http://www.grid.ac/institutes/grid.436172.5....... http://www.government.se/government-of-sweden/ministry-of-education-and-research/ 
+	http://www.grid.ac/institutes/grid.436172.5....... Ministry of Education and Research................ 
+	http://risis.eu/orgref_20170703/resource/9905605.. http://en.wikipedia.org/wiki?curid=9905605........ 
+	http://risis.eu/orgref_20170703/resource/9905605.. http://www.wikidata.org/wiki/Q4294535............. 
+	http://risis.eu/orgref_20170703/resource/9905605.. http://sweden.gov.se/sb/d/2063.................... 
+	http://risis.eu/orgref_20170703/resource/9905605.. Ministry of Education and Research (Sweden)....... 
+	http://www.grid.ac/institutes/grid.424594.a....... 26.723804......................................... 
+	http://www.grid.ac/institutes/grid.424594.a....... 58.38256.......................................... 
+	http://www.grid.ac/institutes/grid.424594.a....... https://www.hm.ee/en.............................. 
+	http://www.grid.ac/institutes/grid.424594.a....... Eesti Vabariigi Haridus- ja Teadusministeerium.... 
+	http://www.grid.ac/institutes/grid.424594.a....... Ministry of Education and Research................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.425872.e', '4:grid.424594.a'), ('2:grid.436172.5', '1:grid.425872.e'), ('2:grid.436172.5', '4:grid.424594.a'), ('3:9905605', '1:grid.425872.e'), ('3:9905605', '2:grid.436172.5'), ('4:grid.424594.a', '3:9905605')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

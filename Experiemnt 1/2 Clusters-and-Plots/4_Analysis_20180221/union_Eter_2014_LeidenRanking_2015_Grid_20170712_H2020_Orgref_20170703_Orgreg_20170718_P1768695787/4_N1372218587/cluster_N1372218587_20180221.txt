@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 17518 
+NAME    N1372218587
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.431611.0>
+	<http://www.grid.ac/institutes/grid.431630.3>
+	<http://risis.eu/orgref_20170703/resource/3774771>
+	<http://risis.eu/orgref_20170703/resource/5558338>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.431611.0....... http://www.grid.ac/institutes/grid.431630.3....... 0.931034482759.................................... [Southeastern Illinois College] was compared to [Southwestern Illinois College] 
+	http://www.grid.ac/institutes/grid.431630.3....... http://www.grid.ac/institutes/grid.431611.0....... 0.931034482759.................................... [Southeastern Illinois College] was compared to [Southwestern Illinois College] 
+	http://www.grid.ac/institutes/grid.431611.0....... http://risis.eu/orgref_20170703/resource/3774771.. 0.931034482759.................................... [Southeastern Illinois College] was compared to [Southwestern Illinois College] 
+	http://risis.eu/orgref_20170703/resource/3774771.. http://www.grid.ac/institutes/grid.431611.0....... 0.931034482759.................................... [Southeastern Illinois College] was compared to [Southwestern Illinois College] 
+	http://www.grid.ac/institutes/grid.431611.0....... http://risis.eu/orgref_20170703/resource/5558338.. 1................................................. [Southeastern Illinois College] was compared to [Southeastern Illinois College] 
+	http://risis.eu/orgref_20170703/resource/5558338.. http://www.grid.ac/institutes/grid.431611.0....... 1................................................. [Southeastern Illinois College] was compared to [Southeastern Illinois College] 
+	http://www.grid.ac/institutes/grid.431630.3....... http://risis.eu/orgref_20170703/resource/3774771.. 1................................................. [Southwestern Illinois College] was compared to [Southwestern Illinois College] 
+	http://risis.eu/orgref_20170703/resource/3774771.. http://www.grid.ac/institutes/grid.431630.3....... 1................................................. [Southwestern Illinois College] was compared to [Southwestern Illinois College] 
+	http://www.grid.ac/institutes/grid.431630.3....... http://risis.eu/orgref_20170703/resource/5558338.. 0.931034482759.................................... [Southwestern Illinois College] was compared to [Southeastern Illinois College] 
+	http://risis.eu/orgref_20170703/resource/5558338.. http://www.grid.ac/institutes/grid.431630.3....... 0.931034482759.................................... [Southwestern Illinois College] was compared to [Southeastern Illinois College] 
+	http://risis.eu/orgref_20170703/resource/3774771.. http://risis.eu/orgref_20170703/resource/5558338.. 0.931034482759.................................... [Southwestern Illinois College] was compared to [Southeastern Illinois College] 
+	http://risis.eu/orgref_20170703/resource/5558338.. http://risis.eu/orgref_20170703/resource/3774771.. 0.931034482759.................................... [Southwestern Illinois College] was compared to [Southeastern Illinois College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.431611.0....... -88.43665......................................... 
+	http://www.grid.ac/institutes/grid.431611.0....... 37.752544......................................... 
+	http://www.grid.ac/institutes/grid.431611.0....... https://www.sic.edu/.............................. 
+	http://www.grid.ac/institutes/grid.431611.0....... Southeastern Illinois College..................... 
+	http://www.grid.ac/institutes/grid.431630.3....... -89.92335......................................... 
+	http://www.grid.ac/institutes/grid.431630.3....... 38.51767.......................................... 
+	http://www.grid.ac/institutes/grid.431630.3....... http://www.swic.edu/.............................. 
+	http://www.grid.ac/institutes/grid.431630.3....... Belleville Junior College......................... 
+	http://www.grid.ac/institutes/grid.431630.3....... Southwestern Illinois College..................... 
+	http://risis.eu/orgref_20170703/resource/3774771.. http://en.wikipedia.org/wiki?curid=3774771........ 
+	http://risis.eu/orgref_20170703/resource/3774771.. http://www.wikidata.org/wiki/Q7571420............. 
+	http://risis.eu/orgref_20170703/resource/3774771.. http://www.swic.edu............................... 
+	http://risis.eu/orgref_20170703/resource/3774771.. Southwestern Illinois College..................... 
+	http://risis.eu/orgref_20170703/resource/5558338.. http://en.wikipedia.org/wiki?curid=5558338........ 
+	http://risis.eu/orgref_20170703/resource/5558338.. http://www.wikidata.org/wiki/Q7569478............. 
+	http://risis.eu/orgref_20170703/resource/5558338.. http://www.sic.edu................................ 
+	http://risis.eu/orgref_20170703/resource/5558338.. Southeastern Illinois College..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.431630.3', '1:grid.431611.0'), ('3:3774771', '1:grid.431611.0'), ('3:3774771', '2:grid.431630.3'), ('4:5558338', '1:grid.431611.0'), ('4:5558338', '2:grid.431630.3'), ('4:5558338', '3:3774771')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

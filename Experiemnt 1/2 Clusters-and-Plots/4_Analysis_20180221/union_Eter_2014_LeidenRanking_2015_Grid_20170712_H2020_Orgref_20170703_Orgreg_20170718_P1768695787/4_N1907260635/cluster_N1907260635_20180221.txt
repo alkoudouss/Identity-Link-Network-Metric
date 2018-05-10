@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 5299 
+NAME    N1907260635
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.255395.d>
+	<http://www.grid.ac/institutes/grid.268184.1>
+	<http://risis.eu/orgref_20170703/resource/591324>
+	<http://risis.eu/orgref_20170703/resource/433274>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.255395.d...... http://risis.eu/orgref_20170703/resource/433274.. 1................................................ [Eastern Kentucky University] was compared to [Eastern Kentucky University] 
+	http://risis.eu/orgref_20170703/resource/433274.. http://www.grid.ac/institutes/grid.255395.d...... 1................................................ [Eastern Kentucky University] was compared to [Eastern Kentucky University] 
+	http://www.grid.ac/institutes/grid.268184.1...... http://risis.eu/orgref_20170703/resource/591324.. 1................................................ [Western Kentucky University] was compared to [Western Kentucky University] 
+	http://risis.eu/orgref_20170703/resource/591324.. http://www.grid.ac/institutes/grid.268184.1...... 1................................................ [Western Kentucky University] was compared to [Western Kentucky University] 
+	http://risis.eu/orgref_20170703/resource/591324.. http://risis.eu/orgref_20170703/resource/433274.. 0.925925925926................................... [Eastern Kentucky University] was compared to [Western Kentucky University] 
+	http://risis.eu/orgref_20170703/resource/433274.. http://risis.eu/orgref_20170703/resource/591324.. 0.925925925926................................... [Eastern Kentucky University] was compared to [Western Kentucky University] 
+	http://www.grid.ac/institutes/grid.255395.d...... http://www.grid.ac/institutes/grid.268184.1...... 0.925925925926................................... [Eastern Kentucky University] was compared to [Western Kentucky University] 
+	http://www.grid.ac/institutes/grid.268184.1...... http://www.grid.ac/institutes/grid.255395.d...... 0.925925925926................................... [Eastern Kentucky University] was compared to [Western Kentucky University] 
+	http://www.grid.ac/institutes/grid.255395.d...... http://risis.eu/orgref_20170703/resource/591324.. 0.925925925926................................... [Eastern Kentucky University] was compared to [Western Kentucky University] 
+	http://risis.eu/orgref_20170703/resource/591324.. http://www.grid.ac/institutes/grid.255395.d...... 0.925925925926................................... [Eastern Kentucky University] was compared to [Western Kentucky University] 
+	http://www.grid.ac/institutes/grid.268184.1...... http://risis.eu/orgref_20170703/resource/433274.. 0.925925925926................................... [Western Kentucky University] was compared to [Eastern Kentucky University] 
+	http://risis.eu/orgref_20170703/resource/433274.. http://www.grid.ac/institutes/grid.268184.1...... 0.925925925926................................... [Western Kentucky University] was compared to [Eastern Kentucky University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.255395.d...... -84.29908........................................ 
+	http://www.grid.ac/institutes/grid.255395.d...... 37.73814......................................... 
+	http://www.grid.ac/institutes/grid.255395.d...... http://www.eku.edu/.............................. 
+	http://www.grid.ac/institutes/grid.255395.d...... Eastern Kentucky University...................... 
+	http://www.grid.ac/institutes/grid.268184.1...... -86.45556........................................ 
+	http://www.grid.ac/institutes/grid.268184.1...... 36.98611......................................... 
+	http://www.grid.ac/institutes/grid.268184.1...... http://www.wku.edu/.............................. 
+	http://www.grid.ac/institutes/grid.268184.1...... Western Kentucky University...................... 
+	http://risis.eu/orgref_20170703/resource/591324.. http://en.wikipedia.org/wiki?curid=591324........ 
+	http://risis.eu/orgref_20170703/resource/591324.. http://www.wikidata.org/wiki/Q1474105............ 
+	http://risis.eu/orgref_20170703/resource/591324.. http://www.wku.edu............................... 
+	http://risis.eu/orgref_20170703/resource/591324.. Western Kentucky University...................... 
+	http://risis.eu/orgref_20170703/resource/433274.. http://en.wikipedia.org/wiki?curid=433274........ 
+	http://risis.eu/orgref_20170703/resource/433274.. http://www.wikidata.org/wiki/Q1278206............ 
+	http://risis.eu/orgref_20170703/resource/433274.. http://www.eku.edu............................... 
+	http://risis.eu/orgref_20170703/resource/433274.. Eastern Kentucky University...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.268184.1', '1:grid.255395.d'), ('3:591324', '1:grid.255395.d'), ('3:591324', '2:grid.268184.1'), ('3:591324', '4:433274'), ('4:433274', '1:grid.255395.d'), ('4:433274', '2:grid.268184.1')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

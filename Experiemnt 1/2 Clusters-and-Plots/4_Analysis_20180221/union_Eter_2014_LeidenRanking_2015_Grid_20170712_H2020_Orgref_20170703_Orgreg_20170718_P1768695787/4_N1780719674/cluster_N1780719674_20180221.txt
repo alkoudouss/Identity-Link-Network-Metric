@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 12058 
+NAME    N1780719674
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.472862.d>
+	<http://www.grid.ac/institutes/grid.473080.8>
+	<http://www.grid.ac/institutes/grid.467266.7>
+	<http://www.grid.ac/institutes/grid.433033.4>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.472862.d.. http://www.grid.ac/institutes/grid.433033.4.. 1............................................ [Cadence Design Systems (Germany)] was compared to [Cadence Design Systems (India)] 
+	http://www.grid.ac/institutes/grid.433033.4.. http://www.grid.ac/institutes/grid.472862.d.. 1............................................ [Cadence Design Systems (Germany)] was compared to [Cadence Design Systems (India)] 
+	http://www.grid.ac/institutes/grid.473080.8.. http://www.grid.ac/institutes/grid.433033.4.. 1............................................ [Cadence Design Systems (Germany)] was compared to [Cadence Design Systems (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.433033.4.. http://www.grid.ac/institutes/grid.473080.8.. 1............................................ [Cadence Design Systems (Germany)] was compared to [Cadence Design Systems (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.467266.7.. http://www.grid.ac/institutes/grid.433033.4.. 1............................................ [Cadence Design Systems (Germany)] was compared to [Cadence Design Systems (United States)] 
+	http://www.grid.ac/institutes/grid.433033.4.. http://www.grid.ac/institutes/grid.467266.7.. 1............................................ [Cadence Design Systems (Germany)] was compared to [Cadence Design Systems (United States)] 
+	http://www.grid.ac/institutes/grid.472862.d.. http://www.grid.ac/institutes/grid.467266.7.. 1............................................ [Cadence Design Systems (United States)] was compared to [Cadence Design Systems (India)] 
+	http://www.grid.ac/institutes/grid.467266.7.. http://www.grid.ac/institutes/grid.472862.d.. 1............................................ [Cadence Design Systems (United States)] was compared to [Cadence Design Systems (India)] 
+	http://www.grid.ac/institutes/grid.473080.8.. http://www.grid.ac/institutes/grid.467266.7.. 1............................................ [Cadence Design Systems (United States)] was compared to [Cadence Design Systems (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.467266.7.. http://www.grid.ac/institutes/grid.473080.8.. 1............................................ [Cadence Design Systems (United States)] was compared to [Cadence Design Systems (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.472862.d.. http://www.grid.ac/institutes/grid.473080.8.. 1............................................ [Cadence Design Systems (India)] was compared to [Cadence Design Systems (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.473080.8.. http://www.grid.ac/institutes/grid.472862.d.. 1............................................ [Cadence Design Systems (India)] was compared to [Cadence Design Systems (United Kingdom)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.472862.d.. 77.3963...................................... 
+	http://www.grid.ac/institutes/grid.472862.d.. 28.53805..................................... 
+	http://www.grid.ac/institutes/grid.472862.d.. https://www.cadence.com/..................... 
+	http://www.grid.ac/institutes/grid.472862.d.. Cadence Design Systems (India)............... 
+	http://www.grid.ac/institutes/grid.473080.8.. -0.745081.................................... 
+	http://www.grid.ac/institutes/grid.473080.8.. 51.401024.................................... 
+	http://www.grid.ac/institutes/grid.473080.8.. https://www.cadence.com/..................... 
+	http://www.grid.ac/institutes/grid.473080.8.. Cadence Design Systems (United Kingdom)...... 
+	http://www.grid.ac/institutes/grid.467266.7.. -121.9195.................................... 
+	http://www.grid.ac/institutes/grid.467266.7.. 37.396133.................................... 
+	http://www.grid.ac/institutes/grid.467266.7.. http://www.cadence.com/en/default.aspx....... 
+	http://www.grid.ac/institutes/grid.467266.7.. Cadence Design Systems (United States)....... 
+	http://www.grid.ac/institutes/grid.433033.4.. Cadence Design Systems (Germany)............. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.472862.d', '4:grid.433033.4'), ('2:grid.473080.8', '1:grid.472862.d'), ('2:grid.473080.8', '3:grid.467266.7'), ('2:grid.473080.8', '4:grid.433033.4'), ('3:grid.467266.7', '1:grid.472862.d'), ('4:grid.433033.4', '3:grid.467266.7')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

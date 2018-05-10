@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 6549 
+NAME    N808474304
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/533398>
+	<http://risis.eu/eter_2014/resource/UK0105>
+	<http://risis.eu/cordisH2020/resource/participant_999840790>
+	<http://www.grid.ac/institutes/grid.20931.39>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/533398............. http://www.grid.ac/institutes/grid.20931.39................. 1........................................................... [Royal Veterinary College] was compared to [Royal Veterinary College] 
+	http://www.grid.ac/institutes/grid.20931.39................. http://risis.eu/orgref_20170703/resource/533398............. 1........................................................... [Royal Veterinary College] was compared to [Royal Veterinary College] 
+	http://risis.eu/eter_2014/resource/UK0105................... http://www.grid.ac/institutes/grid.20931.39................. 1........................................................... [Royal Veterinary College] was compared to [The Royal Veterinary College] 
+	http://www.grid.ac/institutes/grid.20931.39................. http://risis.eu/eter_2014/resource/UK0105................... 1........................................................... [Royal Veterinary College] was compared to [The Royal Veterinary College] 
+	http://risis.eu/cordisH2020/resource/participant_999840790.. http://www.grid.ac/institutes/grid.20931.39................. 1........................................................... [Royal Veterinary College] was compared to [THE ROYAL VETERINARY COLLEGE] 
+	http://www.grid.ac/institutes/grid.20931.39................. http://risis.eu/cordisH2020/resource/participant_999840790.. 1........................................................... [Royal Veterinary College] was compared to [THE ROYAL VETERINARY COLLEGE] 
+	http://risis.eu/orgref_20170703/resource/533398............. http://risis.eu/eter_2014/resource/UK0105................... 1........................................................... [Royal Veterinary College] was compared to [The Royal Veterinary College] 
+	http://risis.eu/eter_2014/resource/UK0105................... http://risis.eu/orgref_20170703/resource/533398............. 1........................................................... [Royal Veterinary College] was compared to [The Royal Veterinary College] 
+	http://risis.eu/orgref_20170703/resource/533398............. http://risis.eu/cordisH2020/resource/participant_999840790.. 1........................................................... [Royal Veterinary College] was compared to [THE ROYAL VETERINARY COLLEGE] 
+	http://risis.eu/cordisH2020/resource/participant_999840790.. http://risis.eu/orgref_20170703/resource/533398............. 1........................................................... [Royal Veterinary College] was compared to [THE ROYAL VETERINARY COLLEGE] 
+	http://risis.eu/eter_2014/resource/UK0105................... http://risis.eu/cordisH2020/resource/participant_999840790.. 1........................................................... [THE ROYAL VETERINARY COLLEGE] was compared to [The Royal Veterinary College] 
+	http://risis.eu/cordisH2020/resource/participant_999840790.. http://risis.eu/eter_2014/resource/UK0105................... 1........................................................... [THE ROYAL VETERINARY COLLEGE] was compared to [The Royal Veterinary College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/533398............. http://en.wikipedia.org/wiki?curid=533398................... 
+	http://risis.eu/orgref_20170703/resource/533398............. http://www.wikidata.org/wiki/Q268411........................ 
+	http://risis.eu/orgref_20170703/resource/533398............. http://www.rvc.ac.uk........................................ 
+	http://risis.eu/orgref_20170703/resource/533398............. Royal Veterinary College.................................... 
+	http://risis.eu/eter_2014/resource/UK0105................... 51,53686.................................................... 
+	http://risis.eu/eter_2014/resource/UK0105................... -0,133524................................................... 
+	http://risis.eu/eter_2014/resource/UK0105................... http://www.rvc.ac.uk........................................ 
+	http://risis.eu/eter_2014/resource/UK0105................... a........................................................... 
+	http://risis.eu/eter_2014/resource/UK0105................... The Royal Veterinary College................................ 
+	http://risis.eu/cordisH2020/resource/participant_999840790.. http://risis.eu/cordisH2020/resource/www.rvc.ac.uk.......... 
+	http://risis.eu/cordisH2020/resource/participant_999840790.. THE ROYAL VETERINARY COLLEGE................................ 
+	http://www.grid.ac/institutes/grid.20931.39................. -0.134...................................................... 
+	http://www.grid.ac/institutes/grid.20931.39................. 51.5368..................................................... 
+	http://www.grid.ac/institutes/grid.20931.39................. http://www.rvc.ac.uk/....................................... 
+	http://www.grid.ac/institutes/grid.20931.39................. Royal Veterinary College.................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:533398', '4:grid.20931.39'), ('2:UK0105', '1:533398'), ('2:UK0105', '3:participant_999840790'), ('2:UK0105', '4:grid.20931.39'), ('3:participant_999840790', '1:533398'), ('4:grid.20931.39', '3:participant_999840790')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

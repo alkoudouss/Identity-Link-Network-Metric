@@ -1,0 +1,55 @@
+SIZE    3   
+CLUSTER 712 
+NAME    P914256248
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.472720.4>
+	<http://www.grid.ac/institutes/grid.466364.5>
+	<http://risis.eu/eter_2014/resource/DE0438>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.472720.4.. http://risis.eu/eter_2014/resource/DE0438.... 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://www.grid.ac/institutes/grid.466364.5.. http://risis.eu/eter_2014/resource/DE0438.... 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/DE0438.... http://www.grid.ac/institutes/grid.466364.5.. 1............................................ Near each other by at most 2000 meter(s)..... 
+	http://risis.eu/eter_2014/resource/DE0438.... http://www.grid.ac/institutes/grid.472720.4.. 1............................................ Near each other by at most 2000 meter(s)..... 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.472720.4.. 9.366798..................................... 
+	http://www.grid.ac/institutes/grid.472720.4.. 52.092552.................................... 
+	http://www.grid.ac/institutes/grid.472720.4.. http://www.volvogroup.com/group/global/en-gb/Pages/group_home.aspx 
+	http://www.grid.ac/institutes/grid.472720.4.. Volvo (Germany).............................. 
+	http://www.grid.ac/institutes/grid.466364.5.. 9.355159..................................... 
+	http://www.grid.ac/institutes/grid.466364.5.. 52.098705.................................... 
+	http://www.grid.ac/institutes/grid.466364.5.. http://www.hsw-hameln.de/.................... 
+	http://www.grid.ac/institutes/grid.466364.5.. Hochschule Weserbergland..................... 
+	http://risis.eu/eter_2014/resource/DE0438.... 52,103761.................................... 
+	http://risis.eu/eter_2014/resource/DE0438.... 9,366101..................................... 
+	http://risis.eu/eter_2014/resource/DE0438.... http://www.hsw-hameln.de/.................... 
+	http://risis.eu/eter_2014/resource/DE0438.... a............................................ 
+	http://risis.eu/eter_2014/resource/DE0438.... Hochschule Weserbergland (HSW), Hameln (Priv.FH) 
+
+NETWORK ANALYSIS
+	NETWORK [('P1077276518-DE0438', 'P1513031772-grid.466364.5'), ('P1077276518-DE0438', 'P914256248-grid.472720.4')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

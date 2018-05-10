@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 4893 
+NAME    N315662052
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/14393058>
+	<http://risis.eu/orgref_20170703/resource/20756720>
+	<http://risis.eu/orgref_20170703/resource/20839419>
+	<http://risis.eu/orgref_20170703/resource/21359299>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/14393058.. http://risis.eu/orgref_20170703/resource/21359299.. 0.825.............................................. [University of Santo Tomas College of Education] was compared to [University of Santo Tomas College of Nursing] 
+	http://risis.eu/orgref_20170703/resource/21359299.. http://risis.eu/orgref_20170703/resource/14393058.. 0.825.............................................. [University of Santo Tomas College of Education] was compared to [University of Santo Tomas College of Nursing] 
+	http://risis.eu/orgref_20170703/resource/14393058.. http://risis.eu/orgref_20170703/resource/20756720.. 0.8................................................ [University of Santo Tomas College of Education] was compared to [University of Santo Tomas College of Science] 
+	http://risis.eu/orgref_20170703/resource/20756720.. http://risis.eu/orgref_20170703/resource/14393058.. 0.8................................................ [University of Santo Tomas College of Education] was compared to [University of Santo Tomas College of Science] 
+	http://risis.eu/orgref_20170703/resource/20756720.. http://risis.eu/orgref_20170703/resource/20839419.. 0.813953488372..................................... [University of Santo Tomas College of Science] was compared to [University of Santo Tomas College of Architecture] 
+	http://risis.eu/orgref_20170703/resource/20839419.. http://risis.eu/orgref_20170703/resource/20756720.. 0.813953488372..................................... [University of Santo Tomas College of Science] was compared to [University of Santo Tomas College of Architecture] 
+	http://risis.eu/orgref_20170703/resource/20756720.. http://risis.eu/orgref_20170703/resource/21359299.. 0.815789473684..................................... [University of Santo Tomas College of Science] was compared to [University of Santo Tomas College of Nursing] 
+	http://risis.eu/orgref_20170703/resource/21359299.. http://risis.eu/orgref_20170703/resource/20756720.. 0.815789473684..................................... [University of Santo Tomas College of Science] was compared to [University of Santo Tomas College of Nursing] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/14393058.. http://en.wikipedia.org/wiki?curid=14393058........ 
+	http://risis.eu/orgref_20170703/resource/14393058.. http://www.wikidata.org/wiki/Q7896248.............. 
+	http://risis.eu/orgref_20170703/resource/14393058.. University of Santo Tomas College of Education..... 
+	http://risis.eu/orgref_20170703/resource/20756720.. http://en.wikipedia.org/wiki?curid=20756720........ 
+	http://risis.eu/orgref_20170703/resource/20756720.. http://www.wikidata.org/wiki/Q7896252.............. 
+	http://risis.eu/orgref_20170703/resource/20756720.. http://science.ust.edu.ph.......................... 
+	http://risis.eu/orgref_20170703/resource/20756720.. University of Santo Tomas College of Science....... 
+	http://risis.eu/orgref_20170703/resource/20839419.. http://en.wikipedia.org/wiki?curid=20839419........ 
+	http://risis.eu/orgref_20170703/resource/20839419.. http://www.wikidata.org/wiki/Q7896245.............. 
+	http://risis.eu/orgref_20170703/resource/20839419.. University of Santo Tomas College of Architecture.. 
+	http://risis.eu/orgref_20170703/resource/21359299.. http://en.wikipedia.org/wiki?curid=21359299........ 
+	http://risis.eu/orgref_20170703/resource/21359299.. http://www.wikidata.org/wiki/Q7896250.............. 
+	http://risis.eu/orgref_20170703/resource/21359299.. http://webservice.mnl.ust.edu.ph/nursing/history.html 
+	http://risis.eu/orgref_20170703/resource/21359299.. University of Santo Tomas College of Nursing....... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:20756720', '1:14393058'), ('3:20839419', '2:20756720'), ('4:21359299', '1:14393058'), ('4:21359299', '2:20756720')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

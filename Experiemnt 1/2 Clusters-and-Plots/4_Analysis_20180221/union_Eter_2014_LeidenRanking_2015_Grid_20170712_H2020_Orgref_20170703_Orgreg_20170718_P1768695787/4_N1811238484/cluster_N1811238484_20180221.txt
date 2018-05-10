@@ -1,0 +1,64 @@
+SIZE    4   
+CLUSTER 8188 
+NAME    N1811238484
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.441965.b>
+	<http://risis.eu/orgref_20170703/resource/18565320>
+	<http://www.grid.ac/institutes/grid.264060.6>
+	<http://risis.eu/orgref_20170703/resource/593431>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.441965.b........ http://www.grid.ac/institutes/grid.264060.6........ 0.903225806452..................................... [St. Francis Xavier University] was compared to [University of Saint Francis Xavier] 
+	http://www.grid.ac/institutes/grid.264060.6........ http://www.grid.ac/institutes/grid.441965.b........ 0.903225806452..................................... [St. Francis Xavier University] was compared to [University of Saint Francis Xavier] 
+	http://www.grid.ac/institutes/grid.264060.6........ http://risis.eu/orgref_20170703/resource/593431.... 1.................................................. [St. Francis Xavier University] was compared to [St. Francis Xavier University] 
+	http://risis.eu/orgref_20170703/resource/593431.... http://www.grid.ac/institutes/grid.264060.6........ 1.................................................. [St. Francis Xavier University] was compared to [St. Francis Xavier University] 
+	http://risis.eu/orgref_20170703/resource/18565320.. http://www.grid.ac/institutes/grid.264060.6........ 0.903225806452..................................... [St. Francis Xavier University] was compared to [University of Saint Francis Xavier] 
+	http://www.grid.ac/institutes/grid.264060.6........ http://risis.eu/orgref_20170703/resource/18565320.. 0.903225806452..................................... [St. Francis Xavier University] was compared to [University of Saint Francis Xavier] 
+	http://www.grid.ac/institutes/grid.441965.b........ http://risis.eu/orgref_20170703/resource/593431.... 0.903225806452..................................... [University of Saint Francis Xavier] was compared to [St. Francis Xavier University] 
+	http://risis.eu/orgref_20170703/resource/593431.... http://www.grid.ac/institutes/grid.441965.b........ 0.903225806452..................................... [University of Saint Francis Xavier] was compared to [St. Francis Xavier University] 
+	http://www.grid.ac/institutes/grid.441965.b........ http://risis.eu/orgref_20170703/resource/18565320.. 1.................................................. [University of Saint Francis Xavier] was compared to [University of Saint Francis Xavier] 
+	http://risis.eu/orgref_20170703/resource/18565320.. http://www.grid.ac/institutes/grid.441965.b........ 1.................................................. [University of Saint Francis Xavier] was compared to [University of Saint Francis Xavier] 
+	http://risis.eu/orgref_20170703/resource/18565320.. http://risis.eu/orgref_20170703/resource/593431.... 0.903225806452..................................... [University of Saint Francis Xavier] was compared to [St. Francis Xavier University] 
+	http://risis.eu/orgref_20170703/resource/593431.... http://risis.eu/orgref_20170703/resource/18565320.. 0.903225806452..................................... [University of Saint Francis Xavier] was compared to [St. Francis Xavier University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.441965.b........ University of Saint Francis Xavier................. 
+	http://risis.eu/orgref_20170703/resource/18565320.. http://en.wikipedia.org/wiki?curid=18565320........ 
+	http://risis.eu/orgref_20170703/resource/18565320.. http://www.wikidata.org/wiki/Q930279............... 
+	http://risis.eu/orgref_20170703/resource/18565320.. http://www.usfx.info/edif.......................... 
+	http://risis.eu/orgref_20170703/resource/18565320.. University of Saint Francis Xavier................. 
+	http://www.grid.ac/institutes/grid.264060.6........ -61.994446......................................... 
+	http://www.grid.ac/institutes/grid.264060.6........ 45.618057.......................................... 
+	http://www.grid.ac/institutes/grid.264060.6........ http://www.stfx.ca/................................ 
+	http://www.grid.ac/institutes/grid.264060.6........ St. Francis Xavier University...................... 
+	http://risis.eu/orgref_20170703/resource/593431.... http://en.wikipedia.org/wiki?curid=593431.......... 
+	http://risis.eu/orgref_20170703/resource/593431.... http://www.wikidata.org/wiki/Q2038889.............. 
+	http://risis.eu/orgref_20170703/resource/593431.... http://www.stfx.ca................................. 
+	http://risis.eu/orgref_20170703/resource/593431.... St. Francis Xavier University...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.441965.b', '3:grid.264060.6'), ('2:18565320', '1:grid.441965.b'), ('3:grid.264060.6', '2:18565320'), ('4:593431', '1:grid.441965.b'), ('4:593431', '2:18565320'), ('4:593431', '3:grid.264060.6')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

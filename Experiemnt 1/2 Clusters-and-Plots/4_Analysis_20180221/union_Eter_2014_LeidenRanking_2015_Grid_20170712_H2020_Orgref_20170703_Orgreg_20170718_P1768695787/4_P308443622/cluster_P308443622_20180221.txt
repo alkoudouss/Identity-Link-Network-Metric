@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 10348 
+NAME    P308443622
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.435040.6>
+	<http://www.grid.ac/institutes/grid.437176.0>
+	<http://www.grid.ac/institutes/grid.458919.8>
+	<http://www.grid.ac/institutes/grid.425780.c>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.435040.6.. http://www.grid.ac/institutes/grid.425780.c.. 1............................................ [Ramboll (Finland)] was compared to [Ramboll (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.425780.c.. http://www.grid.ac/institutes/grid.435040.6.. 1............................................ [Ramboll (Finland)] was compared to [Ramboll (United Kingdom)] 
+	http://www.grid.ac/institutes/grid.458919.8.. http://www.grid.ac/institutes/grid.425780.c.. 1............................................ [Ramboll (Finland)] was compared to [Rambøll (Norway)] 
+	http://www.grid.ac/institutes/grid.425780.c.. http://www.grid.ac/institutes/grid.458919.8.. 1............................................ [Ramboll (Finland)] was compared to [Rambøll (Norway)] 
+	http://www.grid.ac/institutes/grid.437176.0.. http://www.grid.ac/institutes/grid.425780.c.. 1............................................ [Ramboll (Finland)] was compared to [Ramboll (Denmark)] 
+	http://www.grid.ac/institutes/grid.425780.c.. http://www.grid.ac/institutes/grid.437176.0.. 1............................................ [Ramboll (Finland)] was compared to [Ramboll (Denmark)] 
+	http://www.grid.ac/institutes/grid.435040.6.. http://www.grid.ac/institutes/grid.458919.8.. 1............................................ [Ramboll (United Kingdom)] was compared to [Rambøll (Norway)] 
+	http://www.grid.ac/institutes/grid.458919.8.. http://www.grid.ac/institutes/grid.435040.6.. 1............................................ [Ramboll (United Kingdom)] was compared to [Rambøll (Norway)] 
+	http://www.grid.ac/institutes/grid.435040.6.. http://www.grid.ac/institutes/grid.437176.0.. 1............................................ [Ramboll (United Kingdom)] was compared to [Ramboll (Denmark)] 
+	http://www.grid.ac/institutes/grid.437176.0.. http://www.grid.ac/institutes/grid.435040.6.. 1............................................ [Ramboll (United Kingdom)] was compared to [Ramboll (Denmark)] 
+	http://www.grid.ac/institutes/grid.437176.0.. http://www.grid.ac/institutes/grid.458919.8.. 1............................................ [Ramboll (Denmark)] was compared to [Rambøll (Norway)] 
+	http://www.grid.ac/institutes/grid.458919.8.. http://www.grid.ac/institutes/grid.437176.0.. 1............................................ [Ramboll (Denmark)] was compared to [Rambøll (Norway)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.435040.6.. -0.10405..................................... 
+	http://www.grid.ac/institutes/grid.435040.6.. 51.506474.................................... 
+	http://www.grid.ac/institutes/grid.435040.6.. http://www.ramboll.co.uk/.................... 
+	http://www.grid.ac/institutes/grid.435040.6.. Rambøll & Hannemann......................... 
+	http://www.grid.ac/institutes/grid.435040.6.. Ramboll (United Kingdom)..................... 
+	http://www.grid.ac/institutes/grid.437176.0.. 12.57942..................................... 
+	http://www.grid.ac/institutes/grid.437176.0.. 55.627136.................................... 
+	http://www.grid.ac/institutes/grid.437176.0.. http://www.ramboll.dk/....................... 
+	http://www.grid.ac/institutes/grid.437176.0.. Rambøll & Hannemann......................... 
+	http://www.grid.ac/institutes/grid.437176.0.. Ramboll Group................................ 
+	http://www.grid.ac/institutes/grid.437176.0.. Ramboll (Denmark)............................ 
+	http://www.grid.ac/institutes/grid.458919.8.. 10.675103.................................... 
+	http://www.grid.ac/institutes/grid.458919.8.. 59.92533..................................... 
+	http://www.grid.ac/institutes/grid.458919.8.. http://www.ramboll.no/....................... 
+	http://www.grid.ac/institutes/grid.458919.8.. Rambøll (Norway)............................ 
+	http://www.grid.ac/institutes/grid.425780.c.. Ramboll (Finland)............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.435040.6', '4:grid.425780.c'), ('2:grid.437176.0', '1:grid.435040.6'), ('2:grid.437176.0', '4:grid.425780.c'), ('3:grid.458919.8', '1:grid.435040.6'), ('3:grid.458919.8', '2:grid.437176.0'), ('4:grid.425780.c', '3:grid.458919.8')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

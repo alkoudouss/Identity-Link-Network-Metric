@@ -1,0 +1,60 @@
+SIZE    5   
+CLUSTER 5766 
+NAME    N754818753
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.443729.f>
+	<http://risis.eu/orgref_20170703/resource/27985475>
+	<http://www.grid.ac/institutes/grid.444265.5>
+	<http://www.grid.ac/institutes/grid.443657.7>
+	<http://www.grid.ac/institutes/grid.444544.1>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/27985475.. http://www.grid.ac/institutes/grid.443657.7........ 1.................................................. [Muhammadiyah University of Magelang] was compared to [Muhammadiyah University of Magelang] 
+	http://www.grid.ac/institutes/grid.443657.7........ http://risis.eu/orgref_20170703/resource/27985475.. 1.................................................. [Muhammadiyah University of Magelang] was compared to [Muhammadiyah University of Magelang] 
+	http://www.grid.ac/institutes/grid.443729.f........ http://www.grid.ac/institutes/grid.443657.7........ 0.875.............................................. [Muhammadiyah University of Magelang] was compared to [Universitas Muhammadiyah Malang] 
+	http://www.grid.ac/institutes/grid.443657.7........ http://www.grid.ac/institutes/grid.443729.f........ 0.875.............................................. [Muhammadiyah University of Magelang] was compared to [Universitas Muhammadiyah Malang] 
+	http://www.grid.ac/institutes/grid.443657.7........ http://www.grid.ac/institutes/grid.444544.1........ 0.852941176471..................................... [Muhammadiyah University of Magelang] was compared to [Universitas Muhammadiyah Tangerang] 
+	http://www.grid.ac/institutes/grid.444544.1........ http://www.grid.ac/institutes/grid.443657.7........ 0.852941176471..................................... [Muhammadiyah University of Magelang] was compared to [Universitas Muhammadiyah Tangerang] 
+	http://www.grid.ac/institutes/grid.443729.f........ http://www.grid.ac/institutes/grid.444265.5........ 0.909090909091..................................... [Universitas Muhammadiyah Malang] was compared to [Universitas Muhammadiyah Semarang] 
+	http://www.grid.ac/institutes/grid.444265.5........ http://www.grid.ac/institutes/grid.443729.f........ 0.909090909091..................................... [Universitas Muhammadiyah Malang] was compared to [Universitas Muhammadiyah Semarang] 
+	http://www.grid.ac/institutes/grid.443729.f........ http://risis.eu/orgref_20170703/resource/27985475.. 0.875.............................................. [Universitas Muhammadiyah Malang] was compared to [Muhammadiyah University of Magelang] 
+	http://risis.eu/orgref_20170703/resource/27985475.. http://www.grid.ac/institutes/grid.443729.f........ 0.875.............................................. [Universitas Muhammadiyah Malang] was compared to [Muhammadiyah University of Magelang] 
+	http://risis.eu/orgref_20170703/resource/27985475.. http://www.grid.ac/institutes/grid.444544.1........ 0.852941176471..................................... [Universitas Muhammadiyah Tangerang] was compared to [Muhammadiyah University of Magelang] 
+	http://www.grid.ac/institutes/grid.444544.1........ http://risis.eu/orgref_20170703/resource/27985475.. 0.852941176471..................................... [Universitas Muhammadiyah Tangerang] was compared to [Muhammadiyah University of Magelang] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.443729.f........ Universitas Muhammadiyah Malang.................... 
+	http://risis.eu/orgref_20170703/resource/27985475.. http://en.wikipedia.org/wiki?curid=27985475........ 
+	http://risis.eu/orgref_20170703/resource/27985475.. http://www.wikidata.org/wiki/Q4263077.............. 
+	http://risis.eu/orgref_20170703/resource/27985475.. http://www.ummgl.ac.id............................. 
+	http://risis.eu/orgref_20170703/resource/27985475.. Muhammadiyah University of Magelang................ 
+	http://www.grid.ac/institutes/grid.444265.5........ Universitas Muhammadiyah Semarang.................. 
+	http://www.grid.ac/institutes/grid.443657.7........ Muhammadiyah University of Magelang................ 
+	http://www.grid.ac/institutes/grid.444544.1........ Universitas Muhammadiyah Tangerang................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:grid.443729.f', '4:grid.443657.7'), ('2:27985475', '1:grid.443729.f'), ('2:27985475', '5:grid.444544.1'), ('3:grid.444265.5', '1:grid.443729.f'), ('4:grid.443657.7', '2:27985475'), ('5:grid.444544.1', '4:grid.443657.7')]
+	MAX DISTANCE:                   : 0.6
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 1.7
+	AVERAGE NODE CONNECTIVITY RATIO : 0.425
+	BRIDGES                         : 1
+	CLOSURE                         : 0.6
+	DIAMETER                        : 3
+	QUALITY                         : 0.439
+	QUALITY USED                    : 0.484
+	SUMMARY 1: BRIDGE 0.25 CLOSURE 0.4 DIAMETER 0.667 QUALITY 0.439 QUALITY USED 0.484
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.4 DIAMETER 0.667 QUALITY 0.439 QUALITY USED 0.484

@@ -1,0 +1,69 @@
+SIZE    4   
+CLUSTER 9732 
+NAME    N2027488148
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.252549.d>
+	<http://www.grid.ac/institutes/grid.435962.f>
+	<http://risis.eu/orgref_20170703/resource/1933948>
+	<http://risis.eu/orgref_20170703/resource/237999>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.252549.d....... http://risis.eu/orgref_20170703/resource/237999... 1................................................. [Augsburg College] was compared to [Augsburg College] 
+	http://risis.eu/orgref_20170703/resource/237999... http://www.grid.ac/institutes/grid.252549.d....... 1................................................. [Augsburg College] was compared to [Augsburg College] 
+	http://www.grid.ac/institutes/grid.435962.f....... http://risis.eu/orgref_20170703/resource/1933948.. 1................................................. [Louisburg College] was compared to [Louisburg College] 
+	http://risis.eu/orgref_20170703/resource/1933948.. http://www.grid.ac/institutes/grid.435962.f....... 1................................................. [Louisburg College] was compared to [Louisburg College] 
+	http://risis.eu/orgref_20170703/resource/1933948.. http://risis.eu/orgref_20170703/resource/237999... 0.823529411765.................................... [Louisburg College] was compared to [Augsburg College] 
+	http://risis.eu/orgref_20170703/resource/237999... http://risis.eu/orgref_20170703/resource/1933948.. 0.823529411765.................................... [Louisburg College] was compared to [Augsburg College] 
+	http://www.grid.ac/institutes/grid.252549.d....... http://www.grid.ac/institutes/grid.435962.f....... 0.823529411765.................................... [Augsburg College] was compared to [Louisburg College] 
+	http://www.grid.ac/institutes/grid.435962.f....... http://www.grid.ac/institutes/grid.252549.d....... 0.823529411765.................................... [Augsburg College] was compared to [Louisburg College] 
+	http://www.grid.ac/institutes/grid.252549.d....... http://risis.eu/orgref_20170703/resource/1933948.. 0.823529411765.................................... [Augsburg College] was compared to [Louisburg College] 
+	http://risis.eu/orgref_20170703/resource/1933948.. http://www.grid.ac/institutes/grid.252549.d....... 0.823529411765.................................... [Augsburg College] was compared to [Louisburg College] 
+	http://www.grid.ac/institutes/grid.435962.f....... http://risis.eu/orgref_20170703/resource/237999... 0.823529411765.................................... [Louisburg College] was compared to [Augsburg College] 
+	http://risis.eu/orgref_20170703/resource/237999... http://www.grid.ac/institutes/grid.435962.f....... 0.823529411765.................................... [Louisburg College] was compared to [Augsburg College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.252549.d....... -93.24182......................................... 
+	http://www.grid.ac/institutes/grid.252549.d....... 44.967464......................................... 
+	http://www.grid.ac/institutes/grid.252549.d....... http://www.augsburg.edu/.......................... 
+	http://www.grid.ac/institutes/grid.252549.d....... Augsburg Seminary................................. 
+	http://www.grid.ac/institutes/grid.252549.d....... Norwegian-American Seminary....................... 
+	http://www.grid.ac/institutes/grid.252549.d....... Augsburg College.................................. 
+	http://www.grid.ac/institutes/grid.435962.f....... -78.297714........................................ 
+	http://www.grid.ac/institutes/grid.435962.f....... 36.106117......................................... 
+	http://www.grid.ac/institutes/grid.435962.f....... https://www.louisburg.edu/........................ 
+	http://www.grid.ac/institutes/grid.435962.f....... Louisburg College................................. 
+	http://risis.eu/orgref_20170703/resource/1933948.. http://en.wikipedia.org/wiki?curid=1933948........ 
+	http://risis.eu/orgref_20170703/resource/1933948.. http://www.wikidata.org/wiki/Q6688580............. 
+	http://risis.eu/orgref_20170703/resource/1933948.. http://www.louisburg.edu.......................... 
+	http://risis.eu/orgref_20170703/resource/1933948.. Louisburg College................................. 
+	http://risis.eu/orgref_20170703/resource/237999... http://en.wikipedia.org/wiki?curid=237999......... 
+	http://risis.eu/orgref_20170703/resource/237999... http://www.wikidata.org/wiki/Q760516.............. 
+	http://risis.eu/orgref_20170703/resource/237999... http://www.augsburg.edu........................... 
+	http://risis.eu/orgref_20170703/resource/237999... Augsburg College.................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.435962.f', '1:grid.252549.d'), ('3:1933948', '1:grid.252549.d'), ('3:1933948', '2:grid.435962.f'), ('4:237999', '1:grid.252549.d'), ('4:237999', '2:grid.435962.f'), ('4:237999', '3:1933948')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

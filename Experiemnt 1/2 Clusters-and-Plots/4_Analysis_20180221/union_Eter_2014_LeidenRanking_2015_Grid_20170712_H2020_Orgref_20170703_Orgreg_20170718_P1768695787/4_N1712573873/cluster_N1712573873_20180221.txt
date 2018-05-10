@@ -1,0 +1,66 @@
+SIZE    4   
+CLUSTER 14066 
+NAME    N1712573873
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/533895>
+	<http://risis.eu/eter_2014/resource/FR0239>
+	<http://www.grid.ac/institutes/grid.11166.31>
+	<http://risis.eu/leidenRanking_2015/resource/2621>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/533895... http://www.grid.ac/institutes/grid.11166.31....... 1................................................. [University of Poitiers] was compared to [University of Poitiers] 
+	http://www.grid.ac/institutes/grid.11166.31....... http://risis.eu/orgref_20170703/resource/533895... 1................................................. [University of Poitiers] was compared to [University of Poitiers] 
+	http://www.grid.ac/institutes/grid.11166.31....... http://risis.eu/leidenRanking_2015/resource/2621.. 1................................................. [University of Poitiers] was compared to [University of Poitiers] 
+	http://risis.eu/leidenRanking_2015/resource/2621.. http://www.grid.ac/institutes/grid.11166.31....... 1................................................. [University of Poitiers] was compared to [University of Poitiers] 
+	http://risis.eu/eter_2014/resource/FR0239......... http://www.grid.ac/institutes/grid.11166.31....... 0.947368421053.................................... [University of Poitiers] was compared to [Université de Poitiers] 
+	http://www.grid.ac/institutes/grid.11166.31....... http://risis.eu/eter_2014/resource/FR0239......... 0.947368421053.................................... [University of Poitiers] was compared to [Université de Poitiers] 
+	http://risis.eu/orgref_20170703/resource/533895... http://risis.eu/eter_2014/resource/FR0239......... 0.947368421053.................................... [University of Poitiers] was compared to [Université de Poitiers] 
+	http://risis.eu/eter_2014/resource/FR0239......... http://risis.eu/orgref_20170703/resource/533895... 0.947368421053.................................... [University of Poitiers] was compared to [Université de Poitiers] 
+	http://risis.eu/orgref_20170703/resource/533895... http://risis.eu/leidenRanking_2015/resource/2621.. 1................................................. [University of Poitiers] was compared to [University of Poitiers] 
+	http://risis.eu/leidenRanking_2015/resource/2621.. http://risis.eu/orgref_20170703/resource/533895... 1................................................. [University of Poitiers] was compared to [University of Poitiers] 
+	http://risis.eu/eter_2014/resource/FR0239......... http://risis.eu/leidenRanking_2015/resource/2621.. 0.947368421053.................................... [Université de Poitiers] was compared to [University of Poitiers] 
+	http://risis.eu/leidenRanking_2015/resource/2621.. http://risis.eu/eter_2014/resource/FR0239......... 0.947368421053.................................... [Université de Poitiers] was compared to [University of Poitiers] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 15 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://risis.eu/orgref_20170703/resource/533895... http://en.wikipedia.org/wiki?curid=533895......... 
+	http://risis.eu/orgref_20170703/resource/533895... http://www.wikidata.org/wiki/Q661056.............. 
+	http://risis.eu/orgref_20170703/resource/533895... http://www.univ-poitiers.fr....................... 
+	http://risis.eu/orgref_20170703/resource/533895... University of Poitiers............................ 
+	http://risis.eu/eter_2014/resource/FR0239......... 46,362172......................................... 
+	http://risis.eu/eter_2014/resource/FR0239......... 0,608954.......................................... 
+	http://risis.eu/eter_2014/resource/FR0239......... http://www.univ-poitiers.fr/...................... 
+	http://risis.eu/eter_2014/resource/FR0239......... m................................................. 
+	http://risis.eu/eter_2014/resource/FR0239......... University of Poitiers............................ 
+	http://risis.eu/eter_2014/resource/FR0239......... Université de Poitiers........................... 
+	http://www.grid.ac/institutes/grid.11166.31....... 0.343889.......................................... 
+	http://www.grid.ac/institutes/grid.11166.31....... 46.58611.......................................... 
+	http://www.grid.ac/institutes/grid.11166.31....... http://www.univ-poitiers.fr/...................... 
+	http://www.grid.ac/institutes/grid.11166.31....... University of Poitiers............................ 
+	http://risis.eu/leidenRanking_2015/resource/2621.. University of Poitiers............................ 
+
+NETWORK ANALYSIS
+	NETWORK [('1:533895', '3:grid.11166.31'), ('2:FR0239', '1:533895'), ('3:grid.11166.31', '2:FR0239'), ('4:2621', '1:533895'), ('4:2621', '2:FR0239'), ('4:2621', '3:grid.11166.31')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

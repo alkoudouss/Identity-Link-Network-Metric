@@ -1,0 +1,68 @@
+SIZE    5   
+CLUSTER 15635 
+NAME    N1576384706
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.440103.2>
+	<http://www.grid.ac/institutes/grid.461176.3>
+	<http://risis.eu/orgref_20170703/resource/32856551>
+	<http://www.grid.ac/institutes/grid.459446.e>
+	<http://www.grid.ac/institutes/grid.439820.4>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.440103.2........ http://www.grid.ac/institutes/grid.461176.3........ 0.9375............................................. [Mannari Hospital] was compared to [Mannar Hospital] 
+	http://www.grid.ac/institutes/grid.461176.3........ http://www.grid.ac/institutes/grid.440103.2........ 0.9375............................................. [Mannari Hospital] was compared to [Mannar Hospital] 
+	http://www.grid.ac/institutes/grid.440103.2........ http://risis.eu/orgref_20170703/resource/32856551.. 0.9375............................................. [Mannari Hospital] was compared to [Mannar Hospital] 
+	http://risis.eu/orgref_20170703/resource/32856551.. http://www.grid.ac/institutes/grid.440103.2........ 0.9375............................................. [Mannari Hospital] was compared to [Mannar Hospital] 
+	http://www.grid.ac/institutes/grid.461176.3........ http://risis.eu/orgref_20170703/resource/32856551.. 1.................................................. [Mannar Hospital] was compared to [Mannar Hospital] 
+	http://risis.eu/orgref_20170703/resource/32856551.. http://www.grid.ac/institutes/grid.461176.3........ 1.................................................. [Mannar Hospital] was compared to [Mannar Hospital] 
+	http://www.grid.ac/institutes/grid.461176.3........ http://www.grid.ac/institutes/grid.439820.4........ 0.866666666667..................................... [Manor Hospital] was compared to [Mannar Hospital]. 
+	http://www.grid.ac/institutes/grid.439820.4........ http://www.grid.ac/institutes/grid.461176.3........ 0.866666666667..................................... [Manor Hospital] was compared to [Mannar Hospital]. 
+	http://www.grid.ac/institutes/grid.461176.3........ http://www.grid.ac/institutes/grid.459446.e........ 0.866666666667..................................... [An-Nan Hospital] was compared to [Mannar Hospital] 
+	http://www.grid.ac/institutes/grid.459446.e........ http://www.grid.ac/institutes/grid.461176.3........ 0.866666666667..................................... [An-Nan Hospital] was compared to [Mannar Hospital] 
+	http://risis.eu/orgref_20170703/resource/32856551.. http://www.grid.ac/institutes/grid.439820.4........ 0.866666666667..................................... [Manor Hospital] was compared to [Mannar Hospital]. 
+	http://www.grid.ac/institutes/grid.439820.4........ http://risis.eu/orgref_20170703/resource/32856551.. 0.866666666667..................................... [Manor Hospital] was compared to [Mannar Hospital]. 
+	http://risis.eu/orgref_20170703/resource/32856551.. http://www.grid.ac/institutes/grid.459446.e........ 0.866666666667..................................... [An-Nan Hospital] was compared to [Mannar Hospital] 
+	http://www.grid.ac/institutes/grid.459446.e........ http://risis.eu/orgref_20170703/resource/32856551.. 0.866666666667..................................... [An-Nan Hospital] was compared to [Mannar Hospital] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.440103.2........ Mannari Hospital................................... 
+	http://www.grid.ac/institutes/grid.461176.3........ 79.90359........................................... 
+	http://www.grid.ac/institutes/grid.461176.3........ 8.983237........................................... 
+	http://www.grid.ac/institutes/grid.461176.3........ Mannar District General Hospital................... 
+	http://www.grid.ac/institutes/grid.461176.3........ Mannar Base Hospital............................... 
+	http://www.grid.ac/institutes/grid.461176.3........ Mannar Hospital.................................... 
+	http://risis.eu/orgref_20170703/resource/32856551.. http://en.wikipedia.org/wiki?curid=32856551........ 
+	http://risis.eu/orgref_20170703/resource/32856551.. http://www.wikidata.org/wiki/Q6750753.............. 
+	http://risis.eu/orgref_20170703/resource/32856551.. Mannar Hospital.................................... 
+	http://www.grid.ac/institutes/grid.459446.e........ 120.22326.......................................... 
+	http://www.grid.ac/institutes/grid.459446.e........ 23.064728.......................................... 
+	http://www.grid.ac/institutes/grid.459446.e........ http://www.tmanh.org.tw/ch/index.php............... 
+	http://www.grid.ac/institutes/grid.459446.e........ An-Nan Hospital.................................... 
+	http://www.grid.ac/institutes/grid.439820.4........ Manor Hospital..................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.461176.3', '1:grid.440103.2'), ('2:grid.461176.3', '4:grid.459446.e'), ('3:32856551', '1:grid.440103.2'), ('3:32856551', '2:grid.461176.3'), ('3:32856551', '5:grid.439820.4'), ('4:grid.459446.e', '3:32856551'), ('5:grid.439820.4', '2:grid.461176.3')]
+	MAX DISTANCE:                   : 0.7
+	MAXIMUM POSSIBLE CONNECTIVITY   : 4
+	AVERAGE NODE CONNECTIVITY       : 2.2
+	AVERAGE NODE CONNECTIVITY RATIO : 0.55
+	BRIDGES                         : 0
+	CLOSURE                         : 0.7
+	DIAMETER                        : 2
+	QUALITY                         : 0.211
+	QUALITY USED                    : 0.228
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.3 DIAMETER 0.333 QUALITY 0.211 QUALITY USED 0.228
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.3 DIAMETER 0.385 QUALITY 0.211 QUALITY USED 0.228

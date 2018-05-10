@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 17244 
+NAME    N1400340974
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.426512.6>
+	<http://www.grid.ac/institutes/grid.474743.7>
+	<http://www.grid.ac/institutes/grid.456992.5>
+	<http://risis.eu/cordisH2020/resource/participant_989177871>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.426512.6................. http://www.grid.ac/institutes/grid.456992.5................. 1........................................................... [ZF Friedrichshafen (Germany)] was compared to [ZF Friedrichshafen (Belgium)] 
+	http://www.grid.ac/institutes/grid.456992.5................. http://www.grid.ac/institutes/grid.426512.6................. 1........................................................... [ZF Friedrichshafen (Germany)] was compared to [ZF Friedrichshafen (Belgium)] 
+	http://www.grid.ac/institutes/grid.426512.6................. http://www.grid.ac/institutes/grid.474743.7................. 1........................................................... [ZF Friedrichshafen (Germany)] was compared to [ZF Friedrichshafen (Japan)] 
+	http://www.grid.ac/institutes/grid.474743.7................. http://www.grid.ac/institutes/grid.426512.6................. 1........................................................... [ZF Friedrichshafen (Germany)] was compared to [ZF Friedrichshafen (Japan)] 
+	http://www.grid.ac/institutes/grid.474743.7................. http://www.grid.ac/institutes/grid.456992.5................. 1........................................................... [ZF Friedrichshafen (Belgium)] was compared to [ZF Friedrichshafen (Japan)] 
+	http://www.grid.ac/institutes/grid.456992.5................. http://www.grid.ac/institutes/grid.474743.7................. 1........................................................... [ZF Friedrichshafen (Belgium)] was compared to [ZF Friedrichshafen (Japan)] 
+	http://www.grid.ac/institutes/grid.426512.6................. http://risis.eu/cordisH2020/resource/participant_989177871.. 0.857142857143.............................................. [ZF Friedrichshafen (Germany)] was compared to [ZF FRIEDRICHSHAFEN AG] 
+	http://risis.eu/cordisH2020/resource/participant_989177871.. http://www.grid.ac/institutes/grid.426512.6................. 0.857142857143.............................................. [ZF Friedrichshafen (Germany)] was compared to [ZF FRIEDRICHSHAFEN AG] 
+	http://www.grid.ac/institutes/grid.456992.5................. http://risis.eu/cordisH2020/resource/participant_989177871.. 0.857142857143.............................................. [ZF Friedrichshafen (Belgium)] was compared to [ZF FRIEDRICHSHAFEN AG] 
+	http://risis.eu/cordisH2020/resource/participant_989177871.. http://www.grid.ac/institutes/grid.456992.5................. 0.857142857143.............................................. [ZF Friedrichshafen (Belgium)] was compared to [ZF FRIEDRICHSHAFEN AG] 
+	http://www.grid.ac/institutes/grid.474743.7................. http://risis.eu/cordisH2020/resource/participant_989177871.. 0.857142857143.............................................. [ZF Friedrichshafen (Japan)] was compared to [ZF FRIEDRICHSHAFEN AG] 
+	http://risis.eu/cordisH2020/resource/participant_989177871.. http://www.grid.ac/institutes/grid.474743.7................. 0.857142857143.............................................. [ZF Friedrichshafen (Japan)] was compared to [ZF FRIEDRICHSHAFEN AG] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.426512.6................. ZF Friedrichshafen (Germany)................................ 
+	http://www.grid.ac/institutes/grid.474743.7................. 139.75723................................................... 
+	http://www.grid.ac/institutes/grid.474743.7................. 35.661457................................................... 
+	http://www.grid.ac/institutes/grid.474743.7................. http://www.zf.com/japan/en_jp/corporate/homepage_corporate/homepage_corporate.html 
+	http://www.grid.ac/institutes/grid.474743.7................. ZF Friedrichshafen (Japan).................................. 
+	http://www.grid.ac/institutes/grid.456992.5................. 4.406544.................................................... 
+	http://www.grid.ac/institutes/grid.456992.5................. 50.91004.................................................... 
+	http://www.grid.ac/institutes/grid.456992.5................. http://www.zf.com/corporate/en_de/homepage/homepage.html.... 
+	http://www.grid.ac/institutes/grid.456992.5................. ZF Friedrichshafen (Belgium)................................ 
+	http://risis.eu/cordisH2020/resource/participant_989177871.. http://risis.eu/cordisH2020/resource/www.zf.com............. 
+	http://risis.eu/cordisH2020/resource/participant_989177871.. ZF FRIEDRICHSHAFEN AG....................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.474743.7', '1:grid.426512.6'), ('3:grid.456992.5', '1:grid.426512.6'), ('3:grid.456992.5', '2:grid.474743.7'), ('4:participant_989177871', '1:grid.426512.6'), ('4:participant_989177871', '2:grid.474743.7'), ('4:participant_989177871', '3:grid.456992.5')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

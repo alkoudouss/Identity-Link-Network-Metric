@@ -1,0 +1,54 @@
+SIZE    4   
+CLUSTER 9232 
+NAME    N1470831321
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.412391.c>
+	<http://risis.eu/leidenRanking_2015/resource/6019>
+	<http://risis.eu/leidenRanking_2015/resource/1066>
+	<http://risis.eu/cordisH2020/resource/participant_999848841>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.412391.c................. http://risis.eu/leidenRanking_2015/resource/6019............ 1........................................................... [Universidade Federal Rural do Rio de Janeiro] was compared to [Universidade Federal Rural do Rio de Janeiro] 
+	http://risis.eu/leidenRanking_2015/resource/6019............ http://www.grid.ac/institutes/grid.412391.c................. 1........................................................... [Universidade Federal Rural do Rio de Janeiro] was compared to [Universidade Federal Rural do Rio de Janeiro] 
+	http://www.grid.ac/institutes/grid.412391.c................. http://risis.eu/leidenRanking_2015/resource/1066............ 0.853658536585.............................................. [Universidade Federal Rural do Rio de Janeiro] was compared to [Universidade Federal do Rio de Janeiro] 
+	http://risis.eu/leidenRanking_2015/resource/1066............ http://www.grid.ac/institutes/grid.412391.c................. 0.853658536585.............................................. [Universidade Federal Rural do Rio de Janeiro] was compared to [Universidade Federal do Rio de Janeiro] 
+	http://www.grid.ac/institutes/grid.412391.c................. http://risis.eu/cordisH2020/resource/participant_999848841.. 0.853658536585.............................................. [Universidade Federal Rural do Rio de Janeiro] was compared to [UNIVERSIDADE FEDERAL DO RIO DE JANEIRO] 
+	http://risis.eu/cordisH2020/resource/participant_999848841.. http://www.grid.ac/institutes/grid.412391.c................. 0.853658536585.............................................. [Universidade Federal Rural do Rio de Janeiro] was compared to [UNIVERSIDADE FEDERAL DO RIO DE JANEIRO] 
+	http://risis.eu/leidenRanking_2015/resource/1066............ http://risis.eu/cordisH2020/resource/participant_999848841.. 1........................................................... [UNIVERSIDADE FEDERAL DO RIO DE JANEIRO] was compared to [Universidade Federal do Rio de Janeiro] 
+	http://risis.eu/cordisH2020/resource/participant_999848841.. http://risis.eu/leidenRanking_2015/resource/1066............ 1........................................................... [UNIVERSIDADE FEDERAL DO RIO DE JANEIRO] was compared to [Universidade Federal do Rio de Janeiro] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 7 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.412391.c................. -43.687057.................................................. 
+	http://www.grid.ac/institutes/grid.412391.c................. -22.763365.................................................. 
+	http://www.grid.ac/institutes/grid.412391.c................. http://www.ufrrj.br/portal/modulo/home/index.php............ 
+	http://www.grid.ac/institutes/grid.412391.c................. Universidade Federal Rural do Rio de Janeiro................ 
+	http://risis.eu/leidenRanking_2015/resource/6019............ Universidade Federal Rural do Rio de Janeiro................ 
+	http://risis.eu/leidenRanking_2015/resource/1066............ Universidade Federal do Rio de Janeiro...................... 
+	http://risis.eu/cordisH2020/resource/participant_999848841.. UNIVERSIDADE FEDERAL DO RIO DE JANEIRO...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:6019', '1:grid.412391.c'), ('3:1066', '1:grid.412391.c'), ('4:participant_999848841', '1:grid.412391.c'), ('4:participant_999848841', '3:1066')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 8653 
+NAME    P632598050
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.413909.6>
+	<http://www.grid.ac/institutes/grid.468822.2>
+	<http://risis.eu/orgref_20170703/resource/18557019>
+	<http://risis.eu/orgref_20170703/resource/186156>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.413909.6........ http://www.grid.ac/institutes/grid.468822.2........ 1.................................................. [Armed Forces Medical College] was compared to [Armed Forces Medical College] 
+	http://www.grid.ac/institutes/grid.468822.2........ http://www.grid.ac/institutes/grid.413909.6........ 1.................................................. [Armed Forces Medical College] was compared to [Armed Forces Medical College] 
+	http://www.grid.ac/institutes/grid.413909.6........ http://risis.eu/orgref_20170703/resource/18557019.. 1.................................................. [Armed Forces Medical College] was compared to [Armed Forces Medical College (Bangladesh)] 
+	http://risis.eu/orgref_20170703/resource/18557019.. http://www.grid.ac/institutes/grid.413909.6........ 1.................................................. [Armed Forces Medical College] was compared to [Armed Forces Medical College (Bangladesh)] 
+	http://www.grid.ac/institutes/grid.413909.6........ http://risis.eu/orgref_20170703/resource/186156.... 1.................................................. [Armed Forces Medical College] was compared to [Armed Forces Medical College (India)] 
+	http://risis.eu/orgref_20170703/resource/186156.... http://www.grid.ac/institutes/grid.413909.6........ 1.................................................. [Armed Forces Medical College] was compared to [Armed Forces Medical College (India)] 
+	http://www.grid.ac/institutes/grid.468822.2........ http://risis.eu/orgref_20170703/resource/18557019.. 1.................................................. [Armed Forces Medical College] was compared to [Armed Forces Medical College (Bangladesh)] 
+	http://risis.eu/orgref_20170703/resource/18557019.. http://www.grid.ac/institutes/grid.468822.2........ 1.................................................. [Armed Forces Medical College] was compared to [Armed Forces Medical College (Bangladesh)] 
+	http://www.grid.ac/institutes/grid.468822.2........ http://risis.eu/orgref_20170703/resource/186156.... 1.................................................. [Armed Forces Medical College] was compared to [Armed Forces Medical College (India)] 
+	http://risis.eu/orgref_20170703/resource/186156.... http://www.grid.ac/institutes/grid.468822.2........ 1.................................................. [Armed Forces Medical College] was compared to [Armed Forces Medical College (India)] 
+	http://risis.eu/orgref_20170703/resource/18557019.. http://risis.eu/orgref_20170703/resource/186156.... 1.................................................. [Armed Forces Medical College (Bangladesh)] was compared to [Armed Forces Medical College (India)] 
+	http://risis.eu/orgref_20170703/resource/186156.... http://risis.eu/orgref_20170703/resource/18557019.. 1.................................................. [Armed Forces Medical College (Bangladesh)] was compared to [Armed Forces Medical College (India)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.413909.6........ 73.891556.......................................... 
+	http://www.grid.ac/institutes/grid.413909.6........ 18.506575.......................................... 
+	http://www.grid.ac/institutes/grid.413909.6........ http://afmc.nic.in/................................ 
+	http://www.grid.ac/institutes/grid.413909.6........ Armed Forces Medical College....................... 
+	http://www.grid.ac/institutes/grid.468822.2........ 90.40844........................................... 
+	http://www.grid.ac/institutes/grid.468822.2........ 23.81999........................................... 
+	http://www.grid.ac/institutes/grid.468822.2........ http://www.afmcbd.com/............................. 
+	http://www.grid.ac/institutes/grid.468822.2........ Armed Forces Medical College....................... 
+	http://risis.eu/orgref_20170703/resource/18557019.. http://en.wikipedia.org/wiki?curid=18557019........ 
+	http://risis.eu/orgref_20170703/resource/18557019.. http://www.wikidata.org/wiki/Q4792997.............. 
+	http://risis.eu/orgref_20170703/resource/18557019.. http://afmcbd.com.................................. 
+	http://risis.eu/orgref_20170703/resource/18557019.. Armed Forces Medical College (Bangladesh).......... 
+	http://risis.eu/orgref_20170703/resource/186156.... http://en.wikipedia.org/wiki?curid=186156.......... 
+	http://risis.eu/orgref_20170703/resource/186156.... http://www.wikidata.org/wiki/Q3595613.............. 
+	http://risis.eu/orgref_20170703/resource/186156.... http://afmc.nic.in................................. 
+	http://risis.eu/orgref_20170703/resource/186156.... Armed Forces Medical College (India)............... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.468822.2', '1:grid.413909.6'), ('3:18557019', '1:grid.413909.6'), ('3:18557019', '2:grid.468822.2'), ('4:186156', '1:grid.413909.6'), ('4:186156', '2:grid.468822.2'), ('4:186156', '3:18557019')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

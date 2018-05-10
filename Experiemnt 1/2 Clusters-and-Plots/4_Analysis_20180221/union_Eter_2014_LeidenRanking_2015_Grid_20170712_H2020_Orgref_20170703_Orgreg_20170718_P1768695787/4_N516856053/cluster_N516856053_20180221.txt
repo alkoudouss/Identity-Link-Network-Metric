@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 16631 
+NAME    N516856053
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/4877891>
+	<http://risis.eu/cordisH2020/resource/participant_972722209>
+	<http://www.grid.ac/institutes/grid.411711.3>
+	<http://risis.eu/orgreg_20170718/resource/BG0016>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/4877891............ http://www.grid.ac/institutes/grid.411711.3................. 1........................................................... [Medical University Pleven] was compared to [Medical University Pleven] 
+	http://www.grid.ac/institutes/grid.411711.3................. http://risis.eu/orgref_20170703/resource/4877891............ 1........................................................... [Medical University Pleven] was compared to [Medical University Pleven] 
+	http://risis.eu/cordisH2020/resource/participant_972722209.. http://risis.eu/orgreg_20170718/resource/BG0016............. 0.888888888889.............................................. [Medical University - Pleven] was compared to [UNIVERSITY OF MEDICINE - PLEVEN] 
+	http://risis.eu/orgreg_20170718/resource/BG0016............. http://risis.eu/cordisH2020/resource/participant_972722209.. 0.888888888889.............................................. [Medical University - Pleven] was compared to [UNIVERSITY OF MEDICINE - PLEVEN] 
+	http://risis.eu/orgref_20170703/resource/4877891............ http://risis.eu/cordisH2020/resource/participant_972722209.. 0.851851851852.............................................. [Medical University Pleven] was compared to [UNIVERSITY OF MEDICINE - PLEVEN] 
+	http://risis.eu/cordisH2020/resource/participant_972722209.. http://risis.eu/orgref_20170703/resource/4877891............ 0.851851851852.............................................. [Medical University Pleven] was compared to [UNIVERSITY OF MEDICINE - PLEVEN] 
+	http://risis.eu/cordisH2020/resource/participant_972722209.. http://www.grid.ac/institutes/grid.411711.3................. 0.851851851852.............................................. [Medical University Pleven] was compared to [UNIVERSITY OF MEDICINE - PLEVEN] 
+	http://www.grid.ac/institutes/grid.411711.3................. http://risis.eu/cordisH2020/resource/participant_972722209.. 0.851851851852.............................................. [Medical University Pleven] was compared to [UNIVERSITY OF MEDICINE - PLEVEN] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/4877891............ http://en.wikipedia.org/wiki?curid=4877891.................. 
+	http://risis.eu/orgref_20170703/resource/4877891............ http://www.wikidata.org/wiki/Q1916598....................... 
+	http://risis.eu/orgref_20170703/resource/4877891............ http://www.mu-pleven.bg..................................... 
+	http://risis.eu/orgref_20170703/resource/4877891............ Medical University Pleven................................... 
+	http://risis.eu/cordisH2020/resource/participant_972722209.. UNIVERSITY OF MEDICINE - PLEVEN............................. 
+	http://www.grid.ac/institutes/grid.411711.3................. 24.627584................................................... 
+	http://www.grid.ac/institutes/grid.411711.3................. 43.411297................................................... 
+	http://www.grid.ac/institutes/grid.411711.3................. http://www.mu-pleven.bg/index.php?lang=en................... 
+	http://www.grid.ac/institutes/grid.411711.3................. Meditsinski universitet — Pleven.......................... 
+	http://www.grid.ac/institutes/grid.411711.3................. Medical University Pleven................................... 
+	http://risis.eu/orgreg_20170718/resource/BG0016............. 24.629764................................................... 
+	http://risis.eu/orgreg_20170718/resource/BG0016............. 43.386811................................................... 
+	http://risis.eu/orgreg_20170718/resource/BG0016............. http://www.mu-pleven.bg/index.php?lang=en................... 
+	http://risis.eu/orgreg_20170718/resource/BG0016............. Medical University - Pleven................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:4877891', '3:grid.411711.3'), ('2:participant_972722209', '1:4877891'), ('3:grid.411711.3', '2:participant_972722209'), ('4:BG0016', '2:participant_972722209')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

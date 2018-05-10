@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 3962 
+NAME    N1823432842
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.461423.6>
+	<http://risis.eu/orgref_20170703/resource/27146553>
+	<http://www.grid.ac/institutes/grid.460892.1>
+	<http://risis.eu/orgref_20170703/resource/28354786>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.461423.6........ http://risis.eu/orgref_20170703/resource/27146553.. 1.................................................. [Bon Secours Hospital] was compared to [Bon Secours Hospital (Baltimore)] 
+	http://risis.eu/orgref_20170703/resource/27146553.. http://www.grid.ac/institutes/grid.461423.6........ 1.................................................. [Bon Secours Hospital] was compared to [Bon Secours Hospital (Baltimore)] 
+	http://www.grid.ac/institutes/grid.460892.1........ http://risis.eu/orgref_20170703/resource/28354786.. 1.................................................. [Bon Secours Hospital Cork] was compared to [Bon Secours Hospital, Cork] 
+	http://risis.eu/orgref_20170703/resource/28354786.. http://www.grid.ac/institutes/grid.460892.1........ 1.................................................. [Bon Secours Hospital Cork] was compared to [Bon Secours Hospital, Cork] 
+	http://risis.eu/orgref_20170703/resource/27146553.. http://risis.eu/orgref_20170703/resource/28354786.. 0.8................................................ [Bon Secours Hospital (Baltimore)] was compared to [Bon Secours Hospital, Cork] 
+	http://risis.eu/orgref_20170703/resource/28354786.. http://risis.eu/orgref_20170703/resource/27146553.. 0.8................................................ [Bon Secours Hospital (Baltimore)] was compared to [Bon Secours Hospital, Cork] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.461423.6........ -76.64916.......................................... 
+	http://www.grid.ac/institutes/grid.461423.6........ 39.288315.......................................... 
+	http://www.grid.ac/institutes/grid.461423.6........ http://www.bonsecoursbaltimore.com/................ 
+	http://www.grid.ac/institutes/grid.461423.6........ Bon Secours Hospital............................... 
+	http://risis.eu/orgref_20170703/resource/27146553.. http://en.wikipedia.org/wiki?curid=27146553........ 
+	http://risis.eu/orgref_20170703/resource/27146553.. http://www.wikidata.org/wiki/Q4941011.............. 
+	http://risis.eu/orgref_20170703/resource/27146553.. http://bonsecoursbaltimore.com..................... 
+	http://risis.eu/orgref_20170703/resource/27146553.. Bon Secours Hospital (Baltimore)................... 
+	http://www.grid.ac/institutes/grid.460892.1........ -8.497033.......................................... 
+	http://www.grid.ac/institutes/grid.460892.1........ 51.89137........................................... 
+	http://www.grid.ac/institutes/grid.460892.1........ http://www.bonsecourscork.ie/...................... 
+	http://www.grid.ac/institutes/grid.460892.1........ Bon Secours Hospital Cork.......................... 
+	http://risis.eu/orgref_20170703/resource/28354786.. http://en.wikipedia.org/wiki?curid=28354786........ 
+	http://risis.eu/orgref_20170703/resource/28354786.. http://www.wikidata.org/wiki/Q4941006.............. 
+	http://risis.eu/orgref_20170703/resource/28354786.. http://www.bonsecourscork.ie....................... 
+	http://risis.eu/orgref_20170703/resource/28354786.. Bon Secours Hospital, Cork......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:27146553', '1:grid.461423.6'), ('4:28354786', '2:27146553'), ('4:28354786', '3:grid.460892.1')]
+	MAX DISTANCE:                   : 0.5
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.333333333333
+	BRIDGES                         : 3
+	CLOSURE                         : 0.5
+	DIAMETER                        : 3
+	QUALITY                         : 0.833
+	QUALITY USED                    : 0.833
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.5 DIAMETER 1.0 QUALITY 0.833 QUALITY USED 0.833

@@ -1,0 +1,58 @@
+SIZE    3   
+CLUSTER 1680 
+NAME    P117025345
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.445539.a>
+	<http://risis.eu/eter_2014/resource/CZ0030>
+	<http://risis.eu/orgreg_20170718/resource/CZ0030>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 6 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.445539.a...... http://risis.eu/eter_2014/resource/CZ0030........ 0.757575757576................................... [institute finance administration] was compared to [university finance administration] 
+	http://www.grid.ac/institutes/grid.445539.a...... http://risis.eu/orgreg_20170718/resource/CZ0030.. 0.757575757576................................... [institute finance administration] was compared to [university finance administration] 
+	http://risis.eu/eter_2014/resource/CZ0030........ http://www.grid.ac/institutes/grid.445539.a...... 0.757575757576................................... [institute finance administration] was compared to [university finance administration] 
+	http://risis.eu/eter_2014/resource/CZ0030........ http://risis.eu/orgreg_20170718/resource/CZ0030.. 1................................................ [institute finance administration] was compared to [institute finance administration] 
+	http://risis.eu/orgreg_20170718/resource/CZ0030.. http://www.grid.ac/institutes/grid.445539.a...... 0.757575757576................................... [institute finance administration] was compared to [university finance administration] 
+	http://risis.eu/orgreg_20170718/resource/CZ0030.. http://risis.eu/eter_2014/resource/CZ0030........ 1................................................ [institute finance administration] was compared to [institute finance administration] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.445539.a...... 14.452983........................................ 
+	http://www.grid.ac/institutes/grid.445539.a...... 50.071125........................................ 
+	http://www.grid.ac/institutes/grid.445539.a...... http://www.vsfs.cz/.............................. 
+	http://www.grid.ac/institutes/grid.445539.a...... University of Finance and Administration......... 
+	http://risis.eu/eter_2014/resource/CZ0030........ 50,06228......................................... 
+	http://risis.eu/eter_2014/resource/CZ0030........ 14,464862........................................ 
+	http://risis.eu/eter_2014/resource/CZ0030........ http://www.vsfs.cz/.............................. 
+	http://risis.eu/eter_2014/resource/CZ0030........ a................................................ 
+	http://risis.eu/eter_2014/resource/CZ0030........ Institute of Finance and Administration.......... 
+	http://risis.eu/eter_2014/resource/CZ0030........ Vysoká škola finanční a správní, o.p.s..... 
+	http://risis.eu/orgreg_20170718/resource/CZ0030.. 14.464862........................................ 
+	http://risis.eu/orgreg_20170718/resource/CZ0030.. 50.06228......................................... 
+	http://risis.eu/orgreg_20170718/resource/CZ0030.. http://www.vsfs.cz/.............................. 
+	http://risis.eu/orgreg_20170718/resource/CZ0030.. Institute of Finance and Administration.......... 
+
+NETWORK ANALYSIS
+	NETWORK [('P1222694132-CZ0030', 'P131679541-CZ0030'), ('P131679541-CZ0030', 'P117025345-grid.445539.a'), ('P1222694132-CZ0030', 'P117025345-grid.445539.a')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 2.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

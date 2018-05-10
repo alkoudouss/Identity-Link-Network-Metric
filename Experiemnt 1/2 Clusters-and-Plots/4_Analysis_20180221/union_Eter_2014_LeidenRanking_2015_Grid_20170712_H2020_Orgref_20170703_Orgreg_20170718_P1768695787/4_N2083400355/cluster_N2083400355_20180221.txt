@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 827 
+NAME    N2083400355
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.425458.a>
+	<http://www.grid.ac/institutes/grid.479586.1>
+	<http://www.grid.ac/institutes/grid.448276.b>
+	<http://www.grid.ac/institutes/grid.426238.9>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                        object                                        Strength                                      Evidence                                      
+	############################################# ############################################# ############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.425458.a.. http://www.grid.ac/institutes/grid.479586.1.. 1............................................ [TÜV SÜD (United Kingdom)] was compared to [TÜV SÜD (Singapore)] 
+	http://www.grid.ac/institutes/grid.479586.1.. http://www.grid.ac/institutes/grid.425458.a.. 1............................................ [TÜV SÜD (United Kingdom)] was compared to [TÜV SÜD (Singapore)] 
+	http://www.grid.ac/institutes/grid.425458.a.. http://www.grid.ac/institutes/grid.448276.b.. 1............................................ [TÜV SÜD (United Kingdom)] was compared to [TÜV SÜD (Czech Republic)] 
+	http://www.grid.ac/institutes/grid.448276.b.. http://www.grid.ac/institutes/grid.425458.a.. 1............................................ [TÜV SÜD (United Kingdom)] was compared to [TÜV SÜD (Czech Republic)] 
+	http://www.grid.ac/institutes/grid.425458.a.. http://www.grid.ac/institutes/grid.426238.9.. 1............................................ [TÜV SÜD (United Kingdom)] was compared to [TÜV SÜD (Germany)] 
+	http://www.grid.ac/institutes/grid.426238.9.. http://www.grid.ac/institutes/grid.425458.a.. 1............................................ [TÜV SÜD (United Kingdom)] was compared to [TÜV SÜD (Germany)] 
+	http://www.grid.ac/institutes/grid.479586.1.. http://www.grid.ac/institutes/grid.426238.9.. 1............................................ [TÜV SÜD (Germany)] was compared to [TÜV SÜD (Singapore)] 
+	http://www.grid.ac/institutes/grid.426238.9.. http://www.grid.ac/institutes/grid.479586.1.. 1............................................ [TÜV SÜD (Germany)] was compared to [TÜV SÜD (Singapore)] 
+	http://www.grid.ac/institutes/grid.448276.b.. http://www.grid.ac/institutes/grid.426238.9.. 1............................................ [TÜV SÜD (Germany)] was compared to [TÜV SÜD (Czech Republic)] 
+	http://www.grid.ac/institutes/grid.426238.9.. http://www.grid.ac/institutes/grid.448276.b.. 1............................................ [TÜV SÜD (Germany)] was compared to [TÜV SÜD (Czech Republic)] 
+	http://www.grid.ac/institutes/grid.479586.1.. http://www.grid.ac/institutes/grid.448276.b.. 1............................................ [TÜV SÜD (Czech Republic)] was compared to [TÜV SÜD (Singapore)] 
+	http://www.grid.ac/institutes/grid.448276.b.. http://www.grid.ac/institutes/grid.479586.1.. 1............................................ [TÜV SÜD (Czech Republic)] was compared to [TÜV SÜD (Singapore)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                       object                                        
+	############################################# ############################################# 
+	http://www.grid.ac/institutes/grid.425458.a.. -1.244408.................................... 
+	http://www.grid.ac/institutes/grid.425458.a.. 50.869637.................................... 
+	http://www.grid.ac/institutes/grid.425458.a.. http://www.tuv-sud.co.uk/.................... 
+	http://www.grid.ac/institutes/grid.425458.a.. TÜV SÜD (United Kingdom)................... 
+	http://www.grid.ac/institutes/grid.479586.1.. 103.7856..................................... 
+	http://www.grid.ac/institutes/grid.479586.1.. 1.292077..................................... 
+	http://www.grid.ac/institutes/grid.479586.1.. http://www.tuv-sud-psb.sg/................... 
+	http://www.grid.ac/institutes/grid.479586.1.. TÜV SÜD (Singapore)........................ 
+	http://www.grid.ac/institutes/grid.448276.b.. 14.429018.................................... 
+	http://www.grid.ac/institutes/grid.448276.b.. 50.02867..................................... 
+	http://www.grid.ac/institutes/grid.448276.b.. http://www.tuv-sud.cz/cz-en.................. 
+	http://www.grid.ac/institutes/grid.448276.b.. TÜV SÜD (Czech Republic)................... 
+	http://www.grid.ac/institutes/grid.426238.9.. 11.624782.................................... 
+	http://www.grid.ac/institutes/grid.426238.9.. 48.1027...................................... 
+	http://www.grid.ac/institutes/grid.426238.9.. http://www.tuev-sued.de/home_en.............. 
+	http://www.grid.ac/institutes/grid.426238.9.. TÜV SÜD (Germany).......................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.479586.1', '1:grid.425458.a'), ('2:grid.479586.1', '4:grid.426238.9'), ('3:grid.448276.b', '1:grid.425458.a'), ('3:grid.448276.b', '2:grid.479586.1'), ('4:grid.426238.9', '1:grid.425458.a'), ('4:grid.426238.9', '3:grid.448276.b')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

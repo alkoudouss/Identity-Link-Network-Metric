@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 14006 
+NAME    N821078515
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.31501.36>
+	<http://risis.eu/leidenRanking_2015/resource/2340>
+	<http://risis.eu/orgref_20170703/resource/196029>
+	<http://risis.eu/cordisH2020/resource/participant_996466063>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.31501.36................. http://risis.eu/orgref_20170703/resource/196029............. 1........................................................... [Seoul National University] was compared to [Seoul National University] 
+	http://risis.eu/orgref_20170703/resource/196029............. http://www.grid.ac/institutes/grid.31501.36................. 1........................................................... [Seoul National University] was compared to [Seoul National University] 
+	http://www.grid.ac/institutes/grid.31501.36................. http://risis.eu/leidenRanking_2015/resource/2340............ 1........................................................... [Seoul National University] was compared to [Seoul National University] 
+	http://risis.eu/leidenRanking_2015/resource/2340............ http://www.grid.ac/institutes/grid.31501.36................. 1........................................................... [Seoul National University] was compared to [Seoul National University] 
+	http://www.grid.ac/institutes/grid.31501.36................. http://risis.eu/cordisH2020/resource/participant_996466063.. 1........................................................... [Seoul National University] was compared to [SEOUL NATIONAL UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_996466063.. http://www.grid.ac/institutes/grid.31501.36................. 1........................................................... [Seoul National University] was compared to [SEOUL NATIONAL UNIVERSITY] 
+	http://risis.eu/leidenRanking_2015/resource/2340............ http://risis.eu/orgref_20170703/resource/196029............. 1........................................................... [Seoul National University] was compared to [Seoul National University] 
+	http://risis.eu/orgref_20170703/resource/196029............. http://risis.eu/leidenRanking_2015/resource/2340............ 1........................................................... [Seoul National University] was compared to [Seoul National University] 
+	http://risis.eu/orgref_20170703/resource/196029............. http://risis.eu/cordisH2020/resource/participant_996466063.. 1........................................................... [Seoul National University] was compared to [SEOUL NATIONAL UNIVERSITY] 
+	http://risis.eu/cordisH2020/resource/participant_996466063.. http://risis.eu/orgref_20170703/resource/196029............. 1........................................................... [Seoul National University] was compared to [SEOUL NATIONAL UNIVERSITY] 
+	http://risis.eu/leidenRanking_2015/resource/2340............ http://risis.eu/cordisH2020/resource/participant_996466063.. 1........................................................... [SEOUL NATIONAL UNIVERSITY] was compared to [Seoul National University] 
+	http://risis.eu/cordisH2020/resource/participant_996466063.. http://risis.eu/leidenRanking_2015/resource/2340............ 1........................................................... [SEOUL NATIONAL UNIVERSITY] was compared to [Seoul National University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.31501.36................. 126.9519.................................................... 
+	http://www.grid.ac/institutes/grid.31501.36................. 37.460155................................................... 
+	http://www.grid.ac/institutes/grid.31501.36................. http://www.snu.ac.kr/index.html............................. 
+	http://www.grid.ac/institutes/grid.31501.36................. Seoul Daehakgyo............................................. 
+	http://www.grid.ac/institutes/grid.31501.36................. Seoul National University................................... 
+	http://risis.eu/leidenRanking_2015/resource/2340............ Seoul National University................................... 
+	http://risis.eu/orgref_20170703/resource/196029............. http://en.wikipedia.org/wiki?curid=196029................... 
+	http://risis.eu/orgref_20170703/resource/196029............. http://www.wikidata.org/wiki/Q39913......................... 
+	http://risis.eu/orgref_20170703/resource/196029............. http://www.snu.ac.kr........................................ 
+	http://risis.eu/orgref_20170703/resource/196029............. Seoul National University................................... 
+	http://risis.eu/cordisH2020/resource/participant_996466063.. SEOUL NATIONAL UNIVERSITY................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:2340', '1:grid.31501.36'), ('2:2340', '3:196029'), ('2:2340', '4:participant_996466063'), ('3:196029', '1:grid.31501.36'), ('4:participant_996466063', '1:grid.31501.36'), ('4:participant_996466063', '3:196029')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

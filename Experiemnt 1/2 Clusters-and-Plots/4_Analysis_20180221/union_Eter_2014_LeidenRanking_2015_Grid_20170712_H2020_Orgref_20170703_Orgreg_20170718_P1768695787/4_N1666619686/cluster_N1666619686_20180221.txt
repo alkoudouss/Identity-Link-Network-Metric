@@ -1,0 +1,71 @@
+SIZE    4   
+CLUSTER 13887 
+NAME    N1666619686
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.8217.c>
+	<http://risis.eu/orgref_20170703/resource/142298>
+	<http://risis.eu/orgreg_20170718/resource/IE0004>
+	<http://risis.eu/eter_2014/resource/IE0004>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.8217.c........ http://risis.eu/orgref_20170703/resource/142298.. 1................................................ [Trinity College Dublin] was compared to [Trinity College, Dublin] 
+	http://risis.eu/orgref_20170703/resource/142298.. http://www.grid.ac/institutes/grid.8217.c........ 1................................................ [Trinity College Dublin] was compared to [Trinity College, Dublin] 
+	http://www.grid.ac/institutes/grid.8217.c........ http://risis.eu/eter_2014/resource/IE0004........ 1................................................ [Trinity College Dublin] was compared to [Trinity College Dublin] 
+	http://risis.eu/eter_2014/resource/IE0004........ http://www.grid.ac/institutes/grid.8217.c........ 1................................................ [Trinity College Dublin] was compared to [Trinity College Dublin] 
+	http://risis.eu/orgref_20170703/resource/142298.. http://risis.eu/eter_2014/resource/IE0004........ 1................................................ [Trinity College, Dublin] was compared to [Trinity College Dublin] 
+	http://risis.eu/eter_2014/resource/IE0004........ http://risis.eu/orgref_20170703/resource/142298.. 1................................................ [Trinity College, Dublin] was compared to [Trinity College Dublin] 
+	http://risis.eu/orgreg_20170718/resource/IE0004.. http://risis.eu/eter_2014/resource/IE0004........ 1................................................ [Trinity College Dublin] was compared to [Trinity College Dublin] 
+	http://risis.eu/eter_2014/resource/IE0004........ http://risis.eu/orgreg_20170718/resource/IE0004.. 1................................................ [Trinity College Dublin] was compared to [Trinity College Dublin] 
+	http://risis.eu/orgref_20170703/resource/142298.. http://risis.eu/orgreg_20170718/resource/IE0004.. 1................................................ [Trinity College, Dublin] was compared to [Trinity College Dublin] 
+	http://risis.eu/orgreg_20170718/resource/IE0004.. http://risis.eu/orgref_20170703/resource/142298.. 1................................................ [Trinity College, Dublin] was compared to [Trinity College Dublin] 
+	http://www.grid.ac/institutes/grid.8217.c........ http://risis.eu/orgreg_20170718/resource/IE0004.. 1................................................ [Trinity College Dublin] was compared to [Trinity College Dublin] 
+	http://risis.eu/orgreg_20170718/resource/IE0004.. http://www.grid.ac/institutes/grid.8217.c........ 1................................................ [Trinity College Dublin] was compared to [Trinity College Dublin] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 20 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://www.grid.ac/institutes/grid.8217.c........ -6.259192........................................ 
+	http://www.grid.ac/institutes/grid.8217.c........ 53.34444......................................... 
+	http://www.grid.ac/institutes/grid.8217.c........ https://www.tcd.ie/.............................. 
+	http://www.grid.ac/institutes/grid.8217.c........ University of Dublin............................. 
+	http://www.grid.ac/institutes/grid.8217.c........ Coláiste na Tríonóide......................... 
+	http://www.grid.ac/institutes/grid.8217.c........ College of the Holy and Undivided Trinity of Queen Elizabeth near Dublin 
+	http://www.grid.ac/institutes/grid.8217.c........ Trinity College Dublin........................... 
+	http://risis.eu/orgref_20170703/resource/142298.. http://en.wikipedia.org/wiki?curid=142298........ 
+	http://risis.eu/orgref_20170703/resource/142298.. http://www.wikidata.org/wiki/Q258464............. 
+	http://risis.eu/orgref_20170703/resource/142298.. http://www.tcd.ie................................ 
+	http://risis.eu/orgref_20170703/resource/142298.. Trinity College, Dublin.......................... 
+	http://risis.eu/orgreg_20170718/resource/IE0004.. -6.2603097....................................... 
+	http://risis.eu/orgreg_20170718/resource/IE0004.. 53.3498053....................................... 
+	http://risis.eu/orgreg_20170718/resource/IE0004.. http://www.tcd.ie................................ 
+	http://risis.eu/orgreg_20170718/resource/IE0004.. Trinity College Dublin........................... 
+	http://risis.eu/eter_2014/resource/IE0004........ 53,3498053....................................... 
+	http://risis.eu/eter_2014/resource/IE0004........ -6,2603097....................................... 
+	http://risis.eu/eter_2014/resource/IE0004........ http://www.tcd.ie................................ 
+	http://risis.eu/eter_2014/resource/IE0004........ a................................................ 
+	http://risis.eu/eter_2014/resource/IE0004........ Trinity College Dublin........................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:142298', '1:grid.8217.c'), ('3:IE0004', '1:grid.8217.c'), ('3:IE0004', '2:142298'), ('4:IE0004', '1:grid.8217.c'), ('4:IE0004', '2:142298'), ('4:IE0004', '3:IE0004')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

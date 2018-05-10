@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 5522 
+NAME    N1537536829
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.11194.3c>
+	<http://risis.eu/leidenRanking_2015/resource/9308>
+	<http://risis.eu/orgref_20170703/resource/2077765>
+	<http://risis.eu/cordisH2020/resource/participant_999856601>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.11194.3c................. http://risis.eu/orgref_20170703/resource/2077765............ 1........................................................... [Makerere University] was compared to [Makerere University]. 
+	http://risis.eu/orgref_20170703/resource/2077765............ http://www.grid.ac/institutes/grid.11194.3c................. 1........................................................... [Makerere University] was compared to [Makerere University]. 
+	http://www.grid.ac/institutes/grid.11194.3c................. http://risis.eu/leidenRanking_2015/resource/9308............ 1........................................................... [Makerere University] was compared to [Makerere University]. 
+	http://risis.eu/leidenRanking_2015/resource/9308............ http://www.grid.ac/institutes/grid.11194.3c................. 1........................................................... [Makerere University] was compared to [Makerere University]. 
+	http://www.grid.ac/institutes/grid.11194.3c................. http://risis.eu/cordisH2020/resource/participant_999856601.. 1........................................................... [Makerere University] was compared to [MAKERERE UNIVERSITY]. 
+	http://risis.eu/cordisH2020/resource/participant_999856601.. http://www.grid.ac/institutes/grid.11194.3c................. 1........................................................... [Makerere University] was compared to [MAKERERE UNIVERSITY]. 
+	http://risis.eu/leidenRanking_2015/resource/9308............ http://risis.eu/orgref_20170703/resource/2077765............ 1........................................................... [Makerere University] was compared to [Makerere University]. 
+	http://risis.eu/orgref_20170703/resource/2077765............ http://risis.eu/leidenRanking_2015/resource/9308............ 1........................................................... [Makerere University] was compared to [Makerere University]. 
+	http://risis.eu/orgref_20170703/resource/2077765............ http://risis.eu/cordisH2020/resource/participant_999856601.. 1........................................................... [Makerere University] was compared to [MAKERERE UNIVERSITY]. 
+	http://risis.eu/cordisH2020/resource/participant_999856601.. http://risis.eu/orgref_20170703/resource/2077765............ 1........................................................... [Makerere University] was compared to [MAKERERE UNIVERSITY]. 
+	http://risis.eu/leidenRanking_2015/resource/9308............ http://risis.eu/cordisH2020/resource/participant_999856601.. 1........................................................... [MAKERERE UNIVERSITY] was compared to [Makerere University]. 
+	http://risis.eu/cordisH2020/resource/participant_999856601.. http://risis.eu/leidenRanking_2015/resource/9308............ 1........................................................... [MAKERERE UNIVERSITY] was compared to [Makerere University]. 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.11194.3c................. 32.5675..................................................... 
+	http://www.grid.ac/institutes/grid.11194.3c................. 0.35........................................................ 
+	http://www.grid.ac/institutes/grid.11194.3c................. http://mak.ac.ug/........................................... 
+	http://www.grid.ac/institutes/grid.11194.3c................. Makerere University......................................... 
+	http://risis.eu/leidenRanking_2015/resource/9308............ Makerere University......................................... 
+	http://risis.eu/orgref_20170703/resource/2077765............ http://en.wikipedia.org/wiki?curid=2077765.................. 
+	http://risis.eu/orgref_20170703/resource/2077765............ http://www.wikidata.org/wiki/Q261506........................ 
+	http://risis.eu/orgref_20170703/resource/2077765............ http://www.mak.ac.ug........................................ 
+	http://risis.eu/orgref_20170703/resource/2077765............ Makerere University......................................... 
+	http://risis.eu/cordisH2020/resource/participant_999856601.. MAKERERE UNIVERSITY......................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:9308', '1:grid.11194.3c'), ('2:9308', '3:2077765'), ('2:9308', '4:participant_999856601'), ('3:2077765', '1:grid.11194.3c'), ('4:participant_999856601', '1:grid.11194.3c'), ('4:participant_999856601', '3:2077765')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

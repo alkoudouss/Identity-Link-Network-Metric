@@ -1,0 +1,65 @@
+SIZE    4   
+CLUSTER 2659 
+NAME    N1946692169
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/106170>
+	<http://risis.eu/orgreg_20170718/resource/ES0022>
+	<http://www.grid.ac/institutes/grid.410367.7>
+	<http://risis.eu/leidenRanking_2015/resource/666>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                            object                                            Strength                                          Evidence                                          
+	################################################# ################################################# ################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/106170.. http://www.grid.ac/institutes/grid.410367.7...... 1................................................ [Rovira i Virgili University] was compared to [Rovira i Virgili University] 
+	http://www.grid.ac/institutes/grid.410367.7...... http://risis.eu/orgref_20170703/resource/106170.. 1................................................ [Rovira i Virgili University] was compared to [Rovira i Virgili University] 
+	http://www.grid.ac/institutes/grid.410367.7...... http://risis.eu/leidenRanking_2015/resource/666.. 1................................................ [Rovira i Virgili University] was compared to [Rovira i Virgili University] 
+	http://risis.eu/leidenRanking_2015/resource/666.. http://www.grid.ac/institutes/grid.410367.7...... 1................................................ [Rovira i Virgili University] was compared to [Rovira i Virgili University] 
+	http://risis.eu/orgref_20170703/resource/106170.. http://risis.eu/leidenRanking_2015/resource/666.. 1................................................ [Rovira i Virgili University] was compared to [Rovira i Virgili University] 
+	http://risis.eu/leidenRanking_2015/resource/666.. http://risis.eu/orgref_20170703/resource/106170.. 1................................................ [Rovira i Virgili University] was compared to [Rovira i Virgili University] 
+	http://risis.eu/orgreg_20170718/resource/ES0022.. http://risis.eu/leidenRanking_2015/resource/666.. 1................................................ [Rovira i Virgili University] was compared to [Rovira i Virgili University] 
+	http://risis.eu/leidenRanking_2015/resource/666.. http://risis.eu/orgreg_20170718/resource/ES0022.. 1................................................ [Rovira i Virgili University] was compared to [Rovira i Virgili University] 
+	http://risis.eu/orgref_20170703/resource/106170.. http://risis.eu/orgreg_20170718/resource/ES0022.. 1................................................ [Rovira i Virgili University] was compared to [Rovira i Virgili University] 
+	http://risis.eu/orgreg_20170718/resource/ES0022.. http://risis.eu/orgref_20170703/resource/106170.. 1................................................ [Rovira i Virgili University] was compared to [Rovira i Virgili University] 
+	http://risis.eu/orgreg_20170718/resource/ES0022.. http://www.grid.ac/institutes/grid.410367.7...... 1................................................ [Rovira i Virgili University] was compared to [Rovira i Virgili University] 
+	http://www.grid.ac/institutes/grid.410367.7...... http://risis.eu/orgreg_20170718/resource/ES0022.. 1................................................ [Rovira i Virgili University] was compared to [Rovira i Virgili University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 14 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                           object                                            
+	################################################# ################################################# 
+	http://risis.eu/orgref_20170703/resource/106170.. http://en.wikipedia.org/wiki?curid=106170........ 
+	http://risis.eu/orgref_20170703/resource/106170.. http://www.wikidata.org/wiki/Q3133193............ 
+	http://risis.eu/orgref_20170703/resource/106170.. http://www.urv.cat............................... 
+	http://risis.eu/orgref_20170703/resource/106170.. Rovira i Virgili University...................... 
+	http://risis.eu/orgreg_20170718/resource/ES0022.. 41.116925........................................ 
+	http://risis.eu/orgreg_20170718/resource/ES0022.. 1.25902.......................................... 
+	http://risis.eu/orgreg_20170718/resource/ES0022.. http://www.urv.cat............................... 
+	http://risis.eu/orgreg_20170718/resource/ES0022.. Rovira i Virgili University...................... 
+	http://www.grid.ac/institutes/grid.410367.7...... 1.245434......................................... 
+	http://www.grid.ac/institutes/grid.410367.7...... 41.119137........................................ 
+	http://www.grid.ac/institutes/grid.410367.7...... http://www.urv.cat/en_index.html................. 
+	http://www.grid.ac/institutes/grid.410367.7...... Universitat Rovira i Virgili..................... 
+	http://www.grid.ac/institutes/grid.410367.7...... Rovira i Virgili University...................... 
+	http://risis.eu/leidenRanking_2015/resource/666.. Rovira i Virgili University...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:106170', '3:grid.410367.7'), ('2:ES0022', '1:106170'), ('3:grid.410367.7', '2:ES0022'), ('4:666', '1:106170'), ('4:666', '2:ES0022'), ('4:666', '3:grid.410367.7')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

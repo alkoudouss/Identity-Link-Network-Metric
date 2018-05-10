@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 9764 
+NAME    N1760337464
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.413153.1>
+	<http://www.grid.ac/institutes/grid.461021.0>
+	<http://risis.eu/orgref_20170703/resource/11993430>
+	<http://risis.eu/orgref_20170703/resource/38007314>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.413153.1........ http://www.grid.ac/institutes/grid.461021.0........ 1.................................................. [Butterworth Hospital] was compared to [Butterworth Hospital] 
+	http://www.grid.ac/institutes/grid.461021.0........ http://www.grid.ac/institutes/grid.413153.1........ 1.................................................. [Butterworth Hospital] was compared to [Butterworth Hospital] 
+	http://www.grid.ac/institutes/grid.413153.1........ http://risis.eu/orgref_20170703/resource/38007314.. 1.................................................. [Butterworth Hospital] was compared to [Butterworth Hospital (Eastern Cape)] 
+	http://risis.eu/orgref_20170703/resource/38007314.. http://www.grid.ac/institutes/grid.413153.1........ 1.................................................. [Butterworth Hospital] was compared to [Butterworth Hospital (Eastern Cape)] 
+	http://www.grid.ac/institutes/grid.413153.1........ http://risis.eu/orgref_20170703/resource/11993430.. 1.................................................. [Butterworth Hospital] was compared to [Butterworth Hospital (Michigan)] 
+	http://risis.eu/orgref_20170703/resource/11993430.. http://www.grid.ac/institutes/grid.413153.1........ 1.................................................. [Butterworth Hospital] was compared to [Butterworth Hospital (Michigan)] 
+	http://www.grid.ac/institutes/grid.461021.0........ http://risis.eu/orgref_20170703/resource/38007314.. 1.................................................. [Butterworth Hospital] was compared to [Butterworth Hospital (Eastern Cape)] 
+	http://risis.eu/orgref_20170703/resource/38007314.. http://www.grid.ac/institutes/grid.461021.0........ 1.................................................. [Butterworth Hospital] was compared to [Butterworth Hospital (Eastern Cape)] 
+	http://www.grid.ac/institutes/grid.461021.0........ http://risis.eu/orgref_20170703/resource/11993430.. 1.................................................. [Butterworth Hospital] was compared to [Butterworth Hospital (Michigan)] 
+	http://risis.eu/orgref_20170703/resource/11993430.. http://www.grid.ac/institutes/grid.461021.0........ 1.................................................. [Butterworth Hospital] was compared to [Butterworth Hospital (Michigan)] 
+	http://risis.eu/orgref_20170703/resource/11993430.. http://risis.eu/orgref_20170703/resource/38007314.. 1.................................................. [Butterworth Hospital (Michigan)] was compared to [Butterworth Hospital (Eastern Cape)] 
+	http://risis.eu/orgref_20170703/resource/38007314.. http://risis.eu/orgref_20170703/resource/11993430.. 1.................................................. [Butterworth Hospital (Michigan)] was compared to [Butterworth Hospital (Eastern Cape)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.413153.1........ -85.66464.......................................... 
+	http://www.grid.ac/institutes/grid.413153.1........ 42.971............................................. 
+	http://www.grid.ac/institutes/grid.413153.1........ http://www.spectrumhealth.org/butterworth.......... 
+	http://www.grid.ac/institutes/grid.413153.1........ Butterworth Hospital............................... 
+	http://www.grid.ac/institutes/grid.461021.0........ 28.1382............................................ 
+	http://www.grid.ac/institutes/grid.461021.0........ -32.3325........................................... 
+	http://www.grid.ac/institutes/grid.461021.0........ http://www.ecdoh.gov.za/hospitals/53/Butterworth_Hospital 
+	http://www.grid.ac/institutes/grid.461021.0........ Butterworth Hospital............................... 
+	http://risis.eu/orgref_20170703/resource/11993430.. http://en.wikipedia.org/wiki?curid=11993430........ 
+	http://risis.eu/orgref_20170703/resource/11993430.. http://www.wikidata.org/wiki/Q5003039.............. 
+	http://risis.eu/orgref_20170703/resource/11993430.. http://www.spectrum-health.org..................... 
+	http://risis.eu/orgref_20170703/resource/11993430.. Butterworth Hospital (Michigan).................... 
+	http://risis.eu/orgref_20170703/resource/38007314.. http://en.wikipedia.org/wiki?curid=38007314........ 
+	http://risis.eu/orgref_20170703/resource/38007314.. http://www.wikidata.org/wiki/Q5003037.............. 
+	http://risis.eu/orgref_20170703/resource/38007314.. http://www.ecdoh.gov.za/hospitals/53/butterworth_hospital 
+	http://risis.eu/orgref_20170703/resource/38007314.. Butterworth Hospital (Eastern Cape)................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.461021.0', '1:grid.413153.1'), ('3:11993430', '1:grid.413153.1'), ('3:11993430', '2:grid.461021.0'), ('4:38007314', '1:grid.413153.1'), ('4:38007314', '2:grid.461021.0'), ('4:38007314', '3:11993430')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

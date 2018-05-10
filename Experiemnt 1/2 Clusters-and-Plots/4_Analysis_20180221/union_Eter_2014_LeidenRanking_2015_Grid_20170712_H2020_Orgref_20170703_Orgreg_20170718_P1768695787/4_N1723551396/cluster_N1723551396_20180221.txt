@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 1013 
+NAME    N1723551396
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/11614522>
+	<http://risis.eu/orgref_20170703/resource/41702004>
+	<http://www.grid.ac/institutes/grid.448745.e>
+	<http://www.grid.ac/institutes/grid.472447.6>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/41702004.. http://www.grid.ac/institutes/grid.448745.e........ 1.................................................. [Aljazeera University] was compared to [Aljazeera University] 
+	http://www.grid.ac/institutes/grid.448745.e........ http://risis.eu/orgref_20170703/resource/41702004.. 1.................................................. [Aljazeera University] was compared to [Aljazeera University] 
+	http://risis.eu/orgref_20170703/resource/11614522.. http://risis.eu/orgref_20170703/resource/41702004.. 0.85............................................... [University of al-Jazirah] was compared to [Aljazeera University] 
+	http://risis.eu/orgref_20170703/resource/41702004.. http://risis.eu/orgref_20170703/resource/11614522.. 0.85............................................... [University of al-Jazirah] was compared to [Aljazeera University] 
+	http://www.grid.ac/institutes/grid.448745.e........ http://www.grid.ac/institutes/grid.472447.6........ 0.9................................................ [Aljazeera University] was compared to [University of Jazeera] 
+	http://www.grid.ac/institutes/grid.472447.6........ http://www.grid.ac/institutes/grid.448745.e........ 0.9................................................ [Aljazeera University] was compared to [University of Jazeera] 
+	http://risis.eu/orgref_20170703/resource/11614522.. http://www.grid.ac/institutes/grid.448745.e........ 0.85............................................... [Aljazeera University] was compared to [University of al-Jazirah] 
+	http://www.grid.ac/institutes/grid.448745.e........ http://risis.eu/orgref_20170703/resource/11614522.. 0.85............................................... [Aljazeera University] was compared to [University of al-Jazirah] 
+	http://risis.eu/orgref_20170703/resource/41702004.. http://www.grid.ac/institutes/grid.472447.6........ 0.9................................................ [University of Jazeera] was compared to [Aljazeera University] 
+	http://www.grid.ac/institutes/grid.472447.6........ http://risis.eu/orgref_20170703/resource/41702004.. 0.9................................................ [University of Jazeera] was compared to [Aljazeera University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 13 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/11614522.. http://en.wikipedia.org/wiki?curid=11614522........ 
+	http://risis.eu/orgref_20170703/resource/11614522.. http://www.wikidata.org/wiki/Q7896681.............. 
+	http://risis.eu/orgref_20170703/resource/11614522.. http://www.uofg.edu.sd............................. 
+	http://risis.eu/orgref_20170703/resource/11614522.. University of al-Jazirah........................... 
+	http://risis.eu/orgref_20170703/resource/41702004.. http://en.wikipedia.org/wiki?curid=41702004........ 
+	http://risis.eu/orgref_20170703/resource/41702004.. http://www.wikidata.org/wiki/Q12204413............. 
+	http://risis.eu/orgref_20170703/resource/41702004.. http://www.jude.edu.sy............................. 
+	http://risis.eu/orgref_20170703/resource/41702004.. Aljazeera University............................... 
+	http://www.grid.ac/institutes/grid.448745.e........ Aljazeera University............................... 
+	http://www.grid.ac/institutes/grid.472447.6........ 55.393044.......................................... 
+	http://www.grid.ac/institutes/grid.472447.6........ 25.243979.......................................... 
+	http://www.grid.ac/institutes/grid.472447.6........ https://www.uoj.ac.ae/en/.......................... 
+	http://www.grid.ac/institutes/grid.472447.6........ University of Jazeera.............................. 
+
+NETWORK ANALYSIS
+	NETWORK [('2:41702004', '1:11614522'), ('2:41702004', '3:grid.448745.e'), ('3:grid.448745.e', '1:11614522'), ('4:grid.472447.6', '2:41702004'), ('4:grid.472447.6', '3:grid.448745.e')]
+	MAX DISTANCE:                   : 0.833
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 2.16666666667
+	AVERAGE NODE CONNECTIVITY RATIO : 0.722222222222
+	BRIDGES                         : 0
+	CLOSURE                         : 0.833
+	DIAMETER                        : 2
+	QUALITY                         : 0.223
+	QUALITY USED                    : 0.223
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.17 DIAMETER 0.5 QUALITY 0.223 QUALITY USED 0.223

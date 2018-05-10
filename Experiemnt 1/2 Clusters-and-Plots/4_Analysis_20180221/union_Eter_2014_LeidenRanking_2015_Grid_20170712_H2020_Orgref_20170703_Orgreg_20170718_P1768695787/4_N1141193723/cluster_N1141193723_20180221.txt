@@ -1,0 +1,69 @@
+SIZE    4   
+CLUSTER 13182 
+NAME    N1141193723
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.36895.31>
+	<http://risis.eu/eter_2014/resource/PT0022>
+	<http://risis.eu/orgreg_20170718/resource/PT0022>
+	<http://risis.eu/orgref_20170703/resource/6959755>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.36895.31....... http://risis.eu/eter_2014/resource/PT0022......... 1................................................. [Instituto Politécnico de Leiria] was compared to [Instituto Politécnico de Leiria] 
+	http://risis.eu/eter_2014/resource/PT0022......... http://www.grid.ac/institutes/grid.36895.31....... 1................................................. [Instituto Politécnico de Leiria] was compared to [Instituto Politécnico de Leiria] 
+	http://risis.eu/eter_2014/resource/PT0022......... http://risis.eu/orgreg_20170718/resource/PT0022... 0.857142857143.................................... [Polytechnic Institute of Leiria] was compared to [Instituto Politécnico de Leiria] 
+	http://risis.eu/orgreg_20170718/resource/PT0022... http://risis.eu/eter_2014/resource/PT0022......... 0.857142857143.................................... [Polytechnic Institute of Leiria] was compared to [Instituto Politécnico de Leiria] 
+	http://risis.eu/eter_2014/resource/PT0022......... http://risis.eu/orgref_20170703/resource/6959755.. 0.857142857143.................................... [Polytechnic Institute of Leiria] was compared to [Instituto Politécnico de Leiria] 
+	http://risis.eu/orgref_20170703/resource/6959755.. http://risis.eu/eter_2014/resource/PT0022......... 0.857142857143.................................... [Polytechnic Institute of Leiria] was compared to [Instituto Politécnico de Leiria] 
+	http://risis.eu/orgreg_20170718/resource/PT0022... http://risis.eu/orgref_20170703/resource/6959755.. 1................................................. [Polytechnic Institute of Leiria] was compared to [Polytechnic Institute of Leiria] 
+	http://risis.eu/orgref_20170703/resource/6959755.. http://risis.eu/orgreg_20170718/resource/PT0022... 1................................................. [Polytechnic Institute of Leiria] was compared to [Polytechnic Institute of Leiria] 
+	http://www.grid.ac/institutes/grid.36895.31....... http://risis.eu/orgref_20170703/resource/6959755.. 0.857142857143.................................... [Instituto Politécnico de Leiria] was compared to [Polytechnic Institute of Leiria] 
+	http://risis.eu/orgref_20170703/resource/6959755.. http://www.grid.ac/institutes/grid.36895.31....... 0.857142857143.................................... [Instituto Politécnico de Leiria] was compared to [Polytechnic Institute of Leiria] 
+	http://www.grid.ac/institutes/grid.36895.31....... http://risis.eu/orgreg_20170718/resource/PT0022... 0.857142857143.................................... [Instituto Politécnico de Leiria] was compared to [Polytechnic Institute of Leiria] 
+	http://risis.eu/orgreg_20170718/resource/PT0022... http://www.grid.ac/institutes/grid.36895.31....... 0.857142857143.................................... [Instituto Politécnico de Leiria] was compared to [Polytechnic Institute of Leiria] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.36895.31....... -8.811595......................................... 
+	http://www.grid.ac/institutes/grid.36895.31....... 39.73975.......................................... 
+	http://www.grid.ac/institutes/grid.36895.31....... http://www.ipleiria.pt/home/...................... 
+	http://www.grid.ac/institutes/grid.36895.31....... Instituto Politécnico de Leiria.................. 
+	http://risis.eu/eter_2014/resource/PT0022......... 39,7495331........................................ 
+	http://risis.eu/eter_2014/resource/PT0022......... -8,807683......................................... 
+	http://risis.eu/eter_2014/resource/PT0022......... http://www.ipleiria.pt............................ 
+	http://risis.eu/eter_2014/resource/PT0022......... a................................................. 
+	http://risis.eu/eter_2014/resource/PT0022......... Polytechnic Institute of Leiria................... 
+	http://risis.eu/eter_2014/resource/PT0022......... Instituto Politécnico de Leiria.................. 
+	http://risis.eu/orgreg_20170718/resource/PT0022... -8.807683......................................... 
+	http://risis.eu/orgreg_20170718/resource/PT0022... 39.7495331........................................ 
+	http://risis.eu/orgreg_20170718/resource/PT0022... http://www.ipleiria.pt............................ 
+	http://risis.eu/orgreg_20170718/resource/PT0022... Polytechnic Institute of Leiria................... 
+	http://risis.eu/orgref_20170703/resource/6959755.. http://en.wikipedia.org/wiki?curid=6959755........ 
+	http://risis.eu/orgref_20170703/resource/6959755.. http://www.wikidata.org/wiki/Q7227031............. 
+	http://risis.eu/orgref_20170703/resource/6959755.. http://www.ipleiria.pt............................ 
+	http://risis.eu/orgref_20170703/resource/6959755.. Polytechnic Institute of Leiria................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:PT0022', '1:grid.36895.31'), ('2:PT0022', '3:PT0022'), ('2:PT0022', '4:6959755'), ('3:PT0022', '1:grid.36895.31'), ('4:6959755', '1:grid.36895.31'), ('4:6959755', '3:PT0022')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

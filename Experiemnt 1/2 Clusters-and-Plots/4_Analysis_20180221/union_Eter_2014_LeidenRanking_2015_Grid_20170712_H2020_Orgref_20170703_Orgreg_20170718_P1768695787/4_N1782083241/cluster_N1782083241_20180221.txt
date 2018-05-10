@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 14653 
+NAME    N1782083241
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/900494>
+	<http://risis.eu/cordisH2020/resource/participant_999577920>
+	<http://risis.eu/leidenRanking_2015/resource/9012>
+	<http://www.grid.ac/institutes/grid.434933.a>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/cordisH2020/resource/participant_999577920.. http://www.grid.ac/institutes/grid.434933.a................. 1........................................................... [Institut Teknologi Bandung] was compared to [INSTITUT TEKNOLOGI BANDUNG] 
+	http://www.grid.ac/institutes/grid.434933.a................. http://risis.eu/cordisH2020/resource/participant_999577920.. 1........................................................... [Institut Teknologi Bandung] was compared to [INSTITUT TEKNOLOGI BANDUNG] 
+	http://risis.eu/orgref_20170703/resource/900494............. http://risis.eu/leidenRanking_2015/resource/9012............ 1........................................................... [Bandung Institute of Technology] was compared to [Bandung Institute of Technology] 
+	http://risis.eu/leidenRanking_2015/resource/9012............ http://risis.eu/orgref_20170703/resource/900494............. 1........................................................... [Bandung Institute of Technology] was compared to [Bandung Institute of Technology] 
+	http://risis.eu/cordisH2020/resource/participant_999577920.. http://risis.eu/leidenRanking_2015/resource/9012............ 0.857142857143.............................................. [INSTITUT TEKNOLOGI BANDUNG] was compared to [Bandung Institute of Technology] 
+	http://risis.eu/leidenRanking_2015/resource/9012............ http://risis.eu/cordisH2020/resource/participant_999577920.. 0.857142857143.............................................. [INSTITUT TEKNOLOGI BANDUNG] was compared to [Bandung Institute of Technology] 
+	http://risis.eu/orgref_20170703/resource/900494............. http://risis.eu/cordisH2020/resource/participant_999577920.. 0.857142857143.............................................. [Bandung Institute of Technology] was compared to [INSTITUT TEKNOLOGI BANDUNG] 
+	http://risis.eu/cordisH2020/resource/participant_999577920.. http://risis.eu/orgref_20170703/resource/900494............. 0.857142857143.............................................. [Bandung Institute of Technology] was compared to [INSTITUT TEKNOLOGI BANDUNG] 
+	http://risis.eu/orgref_20170703/resource/900494............. http://www.grid.ac/institutes/grid.434933.a................. 0.857142857143.............................................. [Institut Teknologi Bandung] was compared to [Bandung Institute of Technology] 
+	http://www.grid.ac/institutes/grid.434933.a................. http://risis.eu/orgref_20170703/resource/900494............. 0.857142857143.............................................. [Institut Teknologi Bandung] was compared to [Bandung Institute of Technology] 
+	http://risis.eu/leidenRanking_2015/resource/9012............ http://www.grid.ac/institutes/grid.434933.a................. 0.857142857143.............................................. [Institut Teknologi Bandung] was compared to [Bandung Institute of Technology] 
+	http://www.grid.ac/institutes/grid.434933.a................. http://risis.eu/leidenRanking_2015/resource/9012............ 0.857142857143.............................................. [Institut Teknologi Bandung] was compared to [Bandung Institute of Technology] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/900494............. http://en.wikipedia.org/wiki?curid=900494................... 
+	http://risis.eu/orgref_20170703/resource/900494............. http://www.wikidata.org/wiki/Q1579397....................... 
+	http://risis.eu/orgref_20170703/resource/900494............. http://www.itb.ac.id........................................ 
+	http://risis.eu/orgref_20170703/resource/900494............. Bandung Institute of Technology............................. 
+	http://risis.eu/cordisH2020/resource/participant_999577920.. INSTITUT TEKNOLOGI BANDUNG.................................. 
+	http://risis.eu/leidenRanking_2015/resource/9012............ Bandung Institute of Technology............................. 
+	http://www.grid.ac/institutes/grid.434933.a................. 107.61057................................................... 
+	http://www.grid.ac/institutes/grid.434933.a................. -6.891373................................................... 
+	http://www.grid.ac/institutes/grid.434933.a................. http://www.itb.ac.id/en/.................................... 
+	http://www.grid.ac/institutes/grid.434933.a................. Bandung Institute of Technology............................. 
+	http://www.grid.ac/institutes/grid.434933.a................. Institut Teknologi Bandung.................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:900494', '4:grid.434933.a'), ('2:participant_999577920', '1:900494'), ('2:participant_999577920', '4:grid.434933.a'), ('3:9012', '1:900494'), ('3:9012', '2:participant_999577920'), ('4:grid.434933.a', '3:9012')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 4676 
+NAME    N1696825262
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.453498.7>
+	<http://risis.eu/orgref_20170703/resource/2147726>
+	<http://www.grid.ac/institutes/grid.467653.5>
+	<http://risis.eu/orgref_20170703/resource/3206147>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.453498.7....... http://www.grid.ac/institutes/grid.467653.5....... 1................................................. [Department of Foreign Affairs and Trade] was compared to [Department of Foreign Affairs and Trade] 
+	http://www.grid.ac/institutes/grid.467653.5....... http://www.grid.ac/institutes/grid.453498.7....... 1................................................. [Department of Foreign Affairs and Trade] was compared to [Department of Foreign Affairs and Trade] 
+	http://www.grid.ac/institutes/grid.453498.7....... http://risis.eu/orgref_20170703/resource/2147726.. 1................................................. [Department of Foreign Affairs and Trade] was compared to [Department of Foreign Affairs and Trade (Australia)] 
+	http://risis.eu/orgref_20170703/resource/2147726.. http://www.grid.ac/institutes/grid.453498.7....... 1................................................. [Department of Foreign Affairs and Trade] was compared to [Department of Foreign Affairs and Trade (Australia)] 
+	http://www.grid.ac/institutes/grid.453498.7....... http://risis.eu/orgref_20170703/resource/3206147.. 1................................................. [Department of Foreign Affairs and Trade] was compared to [Department of Foreign Affairs and Trade (Ireland)] 
+	http://risis.eu/orgref_20170703/resource/3206147.. http://www.grid.ac/institutes/grid.453498.7....... 1................................................. [Department of Foreign Affairs and Trade] was compared to [Department of Foreign Affairs and Trade (Ireland)] 
+	http://risis.eu/orgref_20170703/resource/2147726.. http://www.grid.ac/institutes/grid.467653.5....... 1................................................. [Department of Foreign Affairs and Trade] was compared to [Department of Foreign Affairs and Trade (Australia)] 
+	http://www.grid.ac/institutes/grid.467653.5....... http://risis.eu/orgref_20170703/resource/2147726.. 1................................................. [Department of Foreign Affairs and Trade] was compared to [Department of Foreign Affairs and Trade (Australia)] 
+	http://www.grid.ac/institutes/grid.467653.5....... http://risis.eu/orgref_20170703/resource/3206147.. 1................................................. [Department of Foreign Affairs and Trade] was compared to [Department of Foreign Affairs and Trade (Ireland)] 
+	http://risis.eu/orgref_20170703/resource/3206147.. http://www.grid.ac/institutes/grid.467653.5....... 1................................................. [Department of Foreign Affairs and Trade] was compared to [Department of Foreign Affairs and Trade (Ireland)] 
+	http://risis.eu/orgref_20170703/resource/2147726.. http://risis.eu/orgref_20170703/resource/3206147.. 1................................................. [Department of Foreign Affairs and Trade (Australia)] was compared to [Department of Foreign Affairs and Trade (Ireland)] 
+	http://risis.eu/orgref_20170703/resource/3206147.. http://risis.eu/orgref_20170703/resource/2147726.. 1................................................. [Department of Foreign Affairs and Trade (Australia)] was compared to [Department of Foreign Affairs and Trade (Ireland)] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.453498.7....... 149.13084......................................... 
+	http://www.grid.ac/institutes/grid.453498.7....... -35.310135........................................ 
+	http://www.grid.ac/institutes/grid.453498.7....... http://dfat.gov.au/pages/default.aspx............. 
+	http://www.grid.ac/institutes/grid.453498.7....... Department of Foreign Affairs and Trade........... 
+	http://risis.eu/orgref_20170703/resource/2147726.. http://en.wikipedia.org/wiki?curid=2147726........ 
+	http://risis.eu/orgref_20170703/resource/2147726.. http://www.wikidata.org/wiki/Q3055310............. 
+	http://risis.eu/orgref_20170703/resource/2147726.. http://www.dfat.gov.au............................ 
+	http://risis.eu/orgref_20170703/resource/2147726.. Department of Foreign Affairs and Trade (Australia) 
+	http://www.grid.ac/institutes/grid.467653.5....... -6.259444......................................... 
+	http://www.grid.ac/institutes/grid.467653.5....... 53.336666......................................... 
+	http://www.grid.ac/institutes/grid.467653.5....... https://www.dfa.ie/#.............................. 
+	http://www.grid.ac/institutes/grid.467653.5....... Department of Foreign Affairs and Trade........... 
+	http://risis.eu/orgref_20170703/resource/3206147.. http://en.wikipedia.org/wiki?curid=3206147........ 
+	http://risis.eu/orgref_20170703/resource/3206147.. http://www.wikidata.org/wiki/Q848798.............. 
+	http://risis.eu/orgref_20170703/resource/3206147.. http://www.dfa.ie................................. 
+	http://risis.eu/orgref_20170703/resource/3206147.. Department of Foreign Affairs and Trade (Ireland). 
+
+NETWORK ANALYSIS
+	NETWORK [('2:2147726', '1:grid.453498.7'), ('2:2147726', '3:grid.467653.5'), ('3:grid.467653.5', '1:grid.453498.7'), ('4:3206147', '1:grid.453498.7'), ('4:3206147', '2:2147726'), ('4:3206147', '3:grid.467653.5')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

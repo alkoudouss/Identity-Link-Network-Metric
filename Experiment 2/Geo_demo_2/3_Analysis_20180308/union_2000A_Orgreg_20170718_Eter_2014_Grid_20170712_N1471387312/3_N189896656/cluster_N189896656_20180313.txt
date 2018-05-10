@@ -1,0 +1,59 @@
+SIZE    3   
+CLUSTER 1458 
+NAME    N189896656
+
+RESOURCES INVOLVED
+	<http://risis.eu/eter_2014/resource/DE0133>
+	<http://risis.eu/eter_2014/resource/DE0001>
+	<http://www.grid.ac/institutes/grid.5963.9>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 4 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                      object                                      Strength                                    Evidence                                    
+	########################################### ########################################### ########################################### ########################################### 
+	http://risis.eu/eter_2014/resource/DE0133.. http://www.grid.ac/institutes/grid.5963.9.. 0.76....................................... [university music freiburg] was compared to [university freiburg] 
+	http://risis.eu/eter_2014/resource/DE0001.. http://www.grid.ac/institutes/grid.5963.9.. 1.......................................... [university freiburg] was compared to [university freiburg] 
+	http://www.grid.ac/institutes/grid.5963.9.. http://risis.eu/eter_2014/resource/DE0001.. 1.......................................... [university freiburg] was compared to [university freiburg] 
+	http://www.grid.ac/institutes/grid.5963.9.. http://risis.eu/eter_2014/resource/DE0133.. 0.76....................................... [university music freiburg] was compared to [university freiburg] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                     object                                      
+	########################################### ########################################### 
+	http://risis.eu/eter_2014/resource/DE0133.. 47,98661................................... 
+	http://risis.eu/eter_2014/resource/DE0133.. 7,861565................................... 
+	http://risis.eu/eter_2014/resource/DE0133.. www.mh-freiburg.de......................... 
+	http://risis.eu/eter_2014/resource/DE0133.. a.......................................... 
+	http://risis.eu/eter_2014/resource/DE0133.. University of Music Freiburg............... 
+	http://risis.eu/eter_2014/resource/DE0133.. Staatliche Hochschule für Musik Freiburg i.Br. 
+	http://risis.eu/eter_2014/resource/DE0001.. 47,993544.................................. 
+	http://risis.eu/eter_2014/resource/DE0001.. 7,84595.................................... 
+	http://risis.eu/eter_2014/resource/DE0001.. www.uni-freiburg.de/....................... 
+	http://risis.eu/eter_2014/resource/DE0001.. a.......................................... 
+	http://risis.eu/eter_2014/resource/DE0001.. University of Freiburg..................... 
+	http://risis.eu/eter_2014/resource/DE0001.. Albert-Ludwigs-Universität Freiburg....... 
+	http://www.grid.ac/institutes/grid.5963.9.. 7.845918................................... 
+	http://www.grid.ac/institutes/grid.5963.9.. 47.99375................................... 
+	http://www.grid.ac/institutes/grid.5963.9.. https://www.uni-freiburg.de/start-en.html?set_language=en 
+	http://www.grid.ac/institutes/grid.5963.9.. Albert Ludwig University of Freiburg....... 
+	http://www.grid.ac/institutes/grid.5963.9.. University of Freiburg..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('P1355034442-DE0001', 'P782357012-grid.5963.9'), ('N189896656-DE0133', 'P782357012-grid.5963.9')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 2
+	AVERAGE NODE CONNECTIVITY       : 1.0
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 2
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.777
+	QUALITY USED                    : 0.777
+	SUMMARY 1: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777
+	SUMMARY 2: BRIDGE 1.0 CLOSURE 0.33 DIAMETER 1.0 QUALITY 0.777 QUALITY USED 0.777

@@ -1,0 +1,69 @@
+SIZE    4   
+CLUSTER 11775 
+NAME    N797722704
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/24070575>
+	<http://risis.eu/eter_2014/resource/DK0020>
+	<http://risis.eu/orgreg_20170718/resource/DK0020>
+	<http://www.grid.ac/institutes/grid.460785.8>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/24070575.. http://www.grid.ac/institutes/grid.460785.8........ 1.................................................. [University College Lillebaelt] was compared to [University College Lillebaelt] 
+	http://www.grid.ac/institutes/grid.460785.8........ http://risis.eu/orgref_20170703/resource/24070575.. 1.................................................. [University College Lillebaelt] was compared to [University College Lillebaelt] 
+	http://risis.eu/eter_2014/resource/DK0020.......... http://www.grid.ac/institutes/grid.460785.8........ 1.................................................. [University College Lillebaelt] was compared to [University College Lillebælt] 
+	http://www.grid.ac/institutes/grid.460785.8........ http://risis.eu/eter_2014/resource/DK0020.......... 1.................................................. [University College Lillebaelt] was compared to [University College Lillebælt] 
+	http://risis.eu/orgref_20170703/resource/24070575.. http://risis.eu/eter_2014/resource/DK0020.......... 1.................................................. [University College Lillebaelt] was compared to [University College Lillebælt] 
+	http://risis.eu/eter_2014/resource/DK0020.......... http://risis.eu/orgref_20170703/resource/24070575.. 1.................................................. [University College Lillebaelt] was compared to [University College Lillebælt] 
+	http://risis.eu/eter_2014/resource/DK0020.......... http://risis.eu/orgreg_20170718/resource/DK0020.... 1.................................................. [University College Lillebaelt] was compared to [University College Lillebælt] 
+	http://risis.eu/orgreg_20170718/resource/DK0020.... http://risis.eu/eter_2014/resource/DK0020.......... 1.................................................. [University College Lillebaelt] was compared to [University College Lillebælt] 
+	http://risis.eu/orgref_20170703/resource/24070575.. http://risis.eu/orgreg_20170718/resource/DK0020.... 1.................................................. [University College Lillebaelt] was compared to [University College Lillebaelt] 
+	http://risis.eu/orgreg_20170718/resource/DK0020.... http://risis.eu/orgref_20170703/resource/24070575.. 1.................................................. [University College Lillebaelt] was compared to [University College Lillebaelt] 
+	http://risis.eu/orgreg_20170718/resource/DK0020.... http://www.grid.ac/institutes/grid.460785.8........ 1.................................................. [University College Lillebaelt] was compared to [University College Lillebaelt] 
+	http://www.grid.ac/institutes/grid.460785.8........ http://risis.eu/orgreg_20170718/resource/DK0020.... 1.................................................. [University College Lillebaelt] was compared to [University College Lillebaelt] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 18 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://risis.eu/orgref_20170703/resource/24070575.. http://en.wikipedia.org/wiki?curid=24070575........ 
+	http://risis.eu/orgref_20170703/resource/24070575.. http://www.wikidata.org/wiki/Q7894627.............. 
+	http://risis.eu/orgref_20170703/resource/24070575.. http://www.ucl.dk.................................. 
+	http://risis.eu/orgref_20170703/resource/24070575.. University College Lillebaelt...................... 
+	http://risis.eu/eter_2014/resource/DK0020.......... 55,394834.......................................... 
+	http://risis.eu/eter_2014/resource/DK0020.......... 10,316986.......................................... 
+	http://risis.eu/eter_2014/resource/DK0020.......... http://international.ucl.dk/....................... 
+	http://risis.eu/eter_2014/resource/DK0020.......... a.................................................. 
+	http://risis.eu/eter_2014/resource/DK0020.......... University College Lillebaelt...................... 
+	http://risis.eu/eter_2014/resource/DK0020.......... University College Lillebælt...................... 
+	http://risis.eu/orgreg_20170718/resource/DK0020.... 10.316986.......................................... 
+	http://risis.eu/orgreg_20170718/resource/DK0020.... 55.394834.......................................... 
+	http://risis.eu/orgreg_20170718/resource/DK0020.... http://international.ucl.dk/....................... 
+	http://risis.eu/orgreg_20170718/resource/DK0020.... University College Lillebaelt...................... 
+	http://www.grid.ac/institutes/grid.460785.8........ 10.440987.......................................... 
+	http://www.grid.ac/institutes/grid.460785.8........ 55.38983........................................... 
+	http://www.grid.ac/institutes/grid.460785.8........ http://international.ucl.dk/....................... 
+	http://www.grid.ac/institutes/grid.460785.8........ University College Lillebaelt...................... 
+
+NETWORK ANALYSIS
+	NETWORK [('1:24070575', '4:grid.460785.8'), ('2:DK0020', '1:24070575'), ('3:DK0020', '1:24070575'), ('3:DK0020', '2:DK0020'), ('3:DK0020', '4:grid.460785.8'), ('4:grid.460785.8', '2:DK0020')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

@@ -1,0 +1,58 @@
+SIZE    4   
+CLUSTER 8088 
+NAME    N1987070128
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.5336.3>
+	<http://risis.eu/orgreg_20170718/resource/DE1051>
+	<http://risis.eu/cordisH2020/resource/participant_999927120>
+	<http://risis.eu/leidenRanking_2015/resource/7220>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 8 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.5336.3................... http://risis.eu/cordisH2020/resource/participant_999927120.. 0.888888888889.............................................. [Forschungsverbund Berlin] was compared to [FORSCHUNGSVERBUND BERLIN EV] 
+	http://risis.eu/cordisH2020/resource/participant_999927120.. http://www.grid.ac/institutes/grid.5336.3................... 0.888888888889.............................................. [Forschungsverbund Berlin] was compared to [FORSCHUNGSVERBUND BERLIN EV] 
+	http://risis.eu/cordisH2020/resource/participant_999927120.. http://risis.eu/leidenRanking_2015/resource/7220............ 1........................................................... [FORSCHUNGSVERBUND BERLIN EV] was compared to [Forschungsverbund Berlin e.V.] 
+	http://risis.eu/leidenRanking_2015/resource/7220............ http://risis.eu/cordisH2020/resource/participant_999927120.. 1........................................................... [FORSCHUNGSVERBUND BERLIN EV] was compared to [Forschungsverbund Berlin e.V.] 
+	http://risis.eu/orgreg_20170718/resource/DE1051............. http://risis.eu/cordisH2020/resource/participant_999927120.. 0.888888888889.............................................. [Forschungsverbund Berlin] was compared to [FORSCHUNGSVERBUND BERLIN EV] 
+	http://risis.eu/cordisH2020/resource/participant_999927120.. http://risis.eu/orgreg_20170718/resource/DE1051............. 0.888888888889.............................................. [Forschungsverbund Berlin] was compared to [FORSCHUNGSVERBUND BERLIN EV] 
+	http://www.grid.ac/institutes/grid.5336.3................... http://risis.eu/orgreg_20170718/resource/DE1051............. 1........................................................... [Forschungsverbund Berlin] was compared to [Forschungsverbund Berlin] 
+	http://risis.eu/orgreg_20170718/resource/DE1051............. http://www.grid.ac/institutes/grid.5336.3................... 1........................................................... [Forschungsverbund Berlin] was compared to [Forschungsverbund Berlin] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.5336.3................... 13.532838................................................... 
+	http://www.grid.ac/institutes/grid.5336.3................... 52.43585.................................................... 
+	http://www.grid.ac/institutes/grid.5336.3................... http://www.fv-berlin.de/organisation-1/history.............. 
+	http://www.grid.ac/institutes/grid.5336.3................... Forschungsverbund Berlin.................................... 
+	http://risis.eu/orgreg_20170718/resource/DE1051............. 52.431223................................................... 
+	http://risis.eu/orgreg_20170718/resource/DE1051............. 13.534192................................................... 
+	http://risis.eu/orgreg_20170718/resource/DE1051............. http://www.fv-berlin.de/.................................... 
+	http://risis.eu/orgreg_20170718/resource/DE1051............. Forschungsverbund Berlin.................................... 
+	http://risis.eu/cordisH2020/resource/participant_999927120.. http://risis.eu/cordisH2020/resource/www.fv-berlin.de....... 
+	http://risis.eu/cordisH2020/resource/participant_999927120.. FORSCHUNGSVERBUND BERLIN EV................................. 
+	http://risis.eu/leidenRanking_2015/resource/7220............ Forschungsverbund Berlin e.V................................ 
+
+NETWORK ANALYSIS
+	NETWORK [('2:DE1051', '1:grid.5336.3'), ('3:participant_999927120', '1:grid.5336.3'), ('3:participant_999927120', '2:DE1051'), ('4:7220', '3:participant_999927120')]
+	MAX DISTANCE:                   : 0.667
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 1.5
+	AVERAGE NODE CONNECTIVITY RATIO : 0.5
+	BRIDGES                         : 1
+	CLOSURE                         : 0.667
+	DIAMETER                        : 2
+	QUALITY                         : 0.388
+	QUALITY USED                    : 0.405
+	SUMMARY 1: BRIDGE 0.333 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405
+	SUMMARY 2: BRIDGE 0.385 CLOSURE 0.33 DIAMETER 0.5 QUALITY 0.388 QUALITY USED 0.405

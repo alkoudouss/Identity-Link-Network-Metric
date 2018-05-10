@@ -1,0 +1,68 @@
+SIZE    4   
+CLUSTER 17758 
+NAME    N2026160630
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.431227.1>
+	<http://risis.eu/orgref_20170703/resource/22058152>
+	<http://www.grid.ac/institutes/grid.460744.5>
+	<http://risis.eu/orgref_20170703/resource/16842546>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                              object                                              Strength                                            Evidence                                            
+	################################################### ################################################### ################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.431227.1........ http://risis.eu/orgref_20170703/resource/16842546.. 0.933333333333..................................... [Kendall College] was compared to [Kendal College]. 
+	http://risis.eu/orgref_20170703/resource/16842546.. http://www.grid.ac/institutes/grid.431227.1........ 0.933333333333..................................... [Kendall College] was compared to [Kendal College]. 
+	http://www.grid.ac/institutes/grid.431227.1........ http://risis.eu/orgref_20170703/resource/22058152.. 1.................................................. [Kendall College] was compared to [Kendall College] 
+	http://risis.eu/orgref_20170703/resource/22058152.. http://www.grid.ac/institutes/grid.431227.1........ 1.................................................. [Kendall College] was compared to [Kendall College] 
+	http://risis.eu/orgref_20170703/resource/22058152.. http://risis.eu/orgref_20170703/resource/16842546.. 0.933333333333..................................... [Kendal College] was compared to [Kendall College]. 
+	http://risis.eu/orgref_20170703/resource/16842546.. http://risis.eu/orgref_20170703/resource/22058152.. 0.933333333333..................................... [Kendal College] was compared to [Kendall College]. 
+	http://www.grid.ac/institutes/grid.431227.1........ http://www.grid.ac/institutes/grid.460744.5........ 0.866666666667..................................... [Kendall College] was compared to [Kenvale College] 
+	http://www.grid.ac/institutes/grid.460744.5........ http://www.grid.ac/institutes/grid.431227.1........ 0.866666666667..................................... [Kendall College] was compared to [Kenvale College] 
+	http://www.grid.ac/institutes/grid.460744.5........ http://risis.eu/orgref_20170703/resource/16842546.. 0.866666666667..................................... [Kenvale College] was compared to [Kendal College]. 
+	http://risis.eu/orgref_20170703/resource/16842546.. http://www.grid.ac/institutes/grid.460744.5........ 0.866666666667..................................... [Kenvale College] was compared to [Kendal College]. 
+	http://risis.eu/orgref_20170703/resource/22058152.. http://www.grid.ac/institutes/grid.460744.5........ 0.866666666667..................................... [Kenvale College] was compared to [Kendall College] 
+	http://www.grid.ac/institutes/grid.460744.5........ http://risis.eu/orgref_20170703/resource/22058152.. 0.866666666667..................................... [Kenvale College] was compared to [Kendall College] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 17 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                             object                                              
+	################################################### ################################################### 
+	http://www.grid.ac/institutes/grid.431227.1........ -87.64893.......................................... 
+	http://www.grid.ac/institutes/grid.431227.1........ 41.898754.......................................... 
+	http://www.grid.ac/institutes/grid.431227.1........ https://www.kendall.edu/........................... 
+	http://www.grid.ac/institutes/grid.431227.1........ Kendall College.................................... 
+	http://risis.eu/orgref_20170703/resource/22058152.. http://en.wikipedia.org/wiki?curid=22058152........ 
+	http://risis.eu/orgref_20170703/resource/22058152.. http://www.wikidata.org/wiki/Q6388894.............. 
+	http://risis.eu/orgref_20170703/resource/22058152.. http://www.kendall.edu............................. 
+	http://risis.eu/orgref_20170703/resource/22058152.. Kendall College.................................... 
+	http://www.grid.ac/institutes/grid.460744.5........ 151.23552.......................................... 
+	http://www.grid.ac/institutes/grid.460744.5........ -33.916103......................................... 
+	http://www.grid.ac/institutes/grid.460744.5........ http://www.kenvale.edu.au/......................... 
+	http://www.grid.ac/institutes/grid.460744.5........ Kenvale College of Tourism & Hospitality Management 
+	http://www.grid.ac/institutes/grid.460744.5........ Kenvale College.................................... 
+	http://risis.eu/orgref_20170703/resource/16842546.. http://en.wikipedia.org/wiki?curid=16842546........ 
+	http://risis.eu/orgref_20170703/resource/16842546.. http://www.wikidata.org/wiki/Q6388847.............. 
+	http://risis.eu/orgref_20170703/resource/16842546.. http://www.kendal.ac.uk............................ 
+	http://risis.eu/orgref_20170703/resource/16842546.. Kendal College..................................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:22058152', '1:grid.431227.1'), ('2:22058152', '4:16842546'), ('3:grid.460744.5', '1:grid.431227.1'), ('3:grid.460744.5', '2:22058152'), ('4:16842546', '1:grid.431227.1'), ('4:16842546', '3:grid.460744.5')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

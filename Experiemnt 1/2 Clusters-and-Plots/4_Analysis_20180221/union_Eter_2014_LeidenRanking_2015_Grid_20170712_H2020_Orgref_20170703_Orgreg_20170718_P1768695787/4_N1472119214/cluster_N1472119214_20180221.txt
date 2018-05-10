@@ -1,0 +1,62 @@
+SIZE    4   
+CLUSTER 315 
+NAME    N1472119214
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgref_20170703/resource/30541968>
+	<http://risis.eu/leidenRanking_2015/resource/15213>
+	<http://www.grid.ac/institutes/grid.43641.34>
+	<http://risis.eu/cordisH2020/resource/participant_966626341>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/30541968........... http://www.grid.ac/institutes/grid.43641.34................. 1........................................................... [James Hutton Institute] was compared to [James Hutton Institute] 
+	http://www.grid.ac/institutes/grid.43641.34................. http://risis.eu/orgref_20170703/resource/30541968........... 1........................................................... [James Hutton Institute] was compared to [James Hutton Institute] 
+	http://risis.eu/leidenRanking_2015/resource/15213........... http://www.grid.ac/institutes/grid.43641.34................. 1........................................................... [James Hutton Institute] was compared to [James Hutton Institute] 
+	http://www.grid.ac/institutes/grid.43641.34................. http://risis.eu/leidenRanking_2015/resource/15213........... 1........................................................... [James Hutton Institute] was compared to [James Hutton Institute] 
+	http://www.grid.ac/institutes/grid.43641.34................. http://risis.eu/cordisH2020/resource/participant_966626341.. 1........................................................... [James Hutton Institute] was compared to [THE JAMES HUTTON INSTITUTE] 
+	http://risis.eu/cordisH2020/resource/participant_966626341.. http://www.grid.ac/institutes/grid.43641.34................. 1........................................................... [James Hutton Institute] was compared to [THE JAMES HUTTON INSTITUTE] 
+	http://risis.eu/orgref_20170703/resource/30541968........... http://risis.eu/leidenRanking_2015/resource/15213........... 1........................................................... [James Hutton Institute] was compared to [James Hutton Institute] 
+	http://risis.eu/leidenRanking_2015/resource/15213........... http://risis.eu/orgref_20170703/resource/30541968........... 1........................................................... [James Hutton Institute] was compared to [James Hutton Institute] 
+	http://risis.eu/orgref_20170703/resource/30541968........... http://risis.eu/cordisH2020/resource/participant_966626341.. 1........................................................... [James Hutton Institute] was compared to [THE JAMES HUTTON INSTITUTE] 
+	http://risis.eu/cordisH2020/resource/participant_966626341.. http://risis.eu/orgref_20170703/resource/30541968........... 1........................................................... [James Hutton Institute] was compared to [THE JAMES HUTTON INSTITUTE] 
+	http://risis.eu/leidenRanking_2015/resource/15213........... http://risis.eu/cordisH2020/resource/participant_966626341.. 1........................................................... [THE JAMES HUTTON INSTITUTE] was compared to [James Hutton Institute] 
+	http://risis.eu/cordisH2020/resource/participant_966626341.. http://risis.eu/leidenRanking_2015/resource/15213........... 1........................................................... [THE JAMES HUTTON INSTITUTE] was compared to [James Hutton Institute] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 11 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgref_20170703/resource/30541968........... http://en.wikipedia.org/wiki?curid=30541968................. 
+	http://risis.eu/orgref_20170703/resource/30541968........... http://www.wikidata.org/wiki/Q6136486....................... 
+	http://risis.eu/orgref_20170703/resource/30541968........... http://www.hutton.ac.uk..................................... 
+	http://risis.eu/orgref_20170703/resource/30541968........... James Hutton Institute...................................... 
+	http://risis.eu/leidenRanking_2015/resource/15213........... James Hutton Institute...................................... 
+	http://www.grid.ac/institutes/grid.43641.34................. -3.017865................................................... 
+	http://www.grid.ac/institutes/grid.43641.34................. 56.466393................................................... 
+	http://www.grid.ac/institutes/grid.43641.34................. http://www.hutton.ac.uk/.................................... 
+	http://www.grid.ac/institutes/grid.43641.34................. James Hutton Institute...................................... 
+	http://risis.eu/cordisH2020/resource/participant_966626341.. http://risis.eu/cordisH2020/resource/www.hutton.ac.uk....... 
+	http://risis.eu/cordisH2020/resource/participant_966626341.. THE JAMES HUTTON INSTITUTE.................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:30541968', '3:grid.43641.34'), ('2:15213', '1:30541968'), ('3:grid.43641.34', '2:15213'), ('4:participant_966626341', '1:30541968'), ('4:participant_966626341', '2:15213'), ('4:participant_966626341', '3:grid.43641.34')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

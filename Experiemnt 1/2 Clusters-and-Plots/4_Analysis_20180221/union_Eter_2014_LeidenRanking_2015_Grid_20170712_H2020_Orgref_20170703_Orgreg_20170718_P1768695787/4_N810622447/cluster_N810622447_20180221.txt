@@ -1,0 +1,67 @@
+SIZE    4   
+CLUSTER 5417 
+NAME    N810622447
+
+RESOURCES INVOLVED
+	<http://www.grid.ac/institutes/grid.255406.0>
+	<http://www.grid.ac/institutes/grid.268192.6>
+	<http://risis.eu/orgref_20170703/resource/3202571>
+	<http://risis.eu/orgref_20170703/resource/1954283>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                             object                                             Strength                                           Evidence                                           
+	################################################## ################################################## ################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.255406.0....... http://risis.eu/orgref_20170703/resource/1954283.. 1................................................. [Eastern New Mexico University] was compared to [Eastern New Mexico University] 
+	http://risis.eu/orgref_20170703/resource/1954283.. http://www.grid.ac/institutes/grid.255406.0....... 1................................................. [Eastern New Mexico University] was compared to [Eastern New Mexico University] 
+	http://www.grid.ac/institutes/grid.268192.6....... http://risis.eu/orgref_20170703/resource/3202571.. 1................................................. [Western New Mexico University] was compared to [Western New Mexico University] 
+	http://risis.eu/orgref_20170703/resource/3202571.. http://www.grid.ac/institutes/grid.268192.6....... 1................................................. [Western New Mexico University] was compared to [Western New Mexico University] 
+	http://risis.eu/orgref_20170703/resource/3202571.. http://risis.eu/orgref_20170703/resource/1954283.. 0.931034482759.................................... [Eastern New Mexico University] was compared to [Western New Mexico University] 
+	http://risis.eu/orgref_20170703/resource/1954283.. http://risis.eu/orgref_20170703/resource/3202571.. 0.931034482759.................................... [Eastern New Mexico University] was compared to [Western New Mexico University] 
+	http://www.grid.ac/institutes/grid.255406.0....... http://www.grid.ac/institutes/grid.268192.6....... 0.931034482759.................................... [Eastern New Mexico University] was compared to [Western New Mexico University] 
+	http://www.grid.ac/institutes/grid.268192.6....... http://www.grid.ac/institutes/grid.255406.0....... 0.931034482759.................................... [Eastern New Mexico University] was compared to [Western New Mexico University] 
+	http://www.grid.ac/institutes/grid.255406.0....... http://risis.eu/orgref_20170703/resource/3202571.. 0.931034482759.................................... [Eastern New Mexico University] was compared to [Western New Mexico University] 
+	http://risis.eu/orgref_20170703/resource/3202571.. http://www.grid.ac/institutes/grid.255406.0....... 0.931034482759.................................... [Eastern New Mexico University] was compared to [Western New Mexico University] 
+	http://www.grid.ac/institutes/grid.268192.6....... http://risis.eu/orgref_20170703/resource/1954283.. 0.931034482759.................................... [Western New Mexico University] was compared to [Eastern New Mexico University] 
+	http://risis.eu/orgref_20170703/resource/1954283.. http://www.grid.ac/institutes/grid.268192.6....... 0.931034482759.................................... [Western New Mexico University] was compared to [Eastern New Mexico University] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 16 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                            object                                             
+	################################################## ################################################## 
+	http://www.grid.ac/institutes/grid.255406.0....... -103.34861........................................ 
+	http://www.grid.ac/institutes/grid.255406.0....... 34.176945......................................... 
+	http://www.grid.ac/institutes/grid.255406.0....... http://www.enmu.edu/.............................. 
+	http://www.grid.ac/institutes/grid.255406.0....... Eastern New Mexico University..................... 
+	http://www.grid.ac/institutes/grid.268192.6....... -108.28496........................................ 
+	http://www.grid.ac/institutes/grid.268192.6....... 32.775448......................................... 
+	http://www.grid.ac/institutes/grid.268192.6....... http://wnmu.edu/.................................. 
+	http://www.grid.ac/institutes/grid.268192.6....... Western New Mexico University..................... 
+	http://risis.eu/orgref_20170703/resource/3202571.. http://en.wikipedia.org/wiki?curid=3202571........ 
+	http://risis.eu/orgref_20170703/resource/3202571.. http://www.wikidata.org/wiki/Q7988105............. 
+	http://risis.eu/orgref_20170703/resource/3202571.. http://www.wnmu.edu............................... 
+	http://risis.eu/orgref_20170703/resource/3202571.. Western New Mexico University..................... 
+	http://risis.eu/orgref_20170703/resource/1954283.. http://en.wikipedia.org/wiki?curid=1954283........ 
+	http://risis.eu/orgref_20170703/resource/1954283.. http://www.wikidata.org/wiki/Q10854154............ 
+	http://risis.eu/orgref_20170703/resource/1954283.. http://www.enmu.edu............................... 
+	http://risis.eu/orgref_20170703/resource/1954283.. Eastern New Mexico University..................... 
+
+NETWORK ANALYSIS
+	NETWORK [('2:grid.268192.6', '1:grid.255406.0'), ('3:3202571', '1:grid.255406.0'), ('3:3202571', '2:grid.268192.6'), ('3:3202571', '4:1954283'), ('4:1954283', '1:grid.255406.0'), ('4:1954283', '2:grid.268192.6')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0

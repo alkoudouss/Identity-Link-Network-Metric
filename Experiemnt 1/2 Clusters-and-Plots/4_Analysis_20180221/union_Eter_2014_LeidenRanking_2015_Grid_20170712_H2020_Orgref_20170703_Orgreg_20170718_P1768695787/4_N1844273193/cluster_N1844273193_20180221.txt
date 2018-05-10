@@ -1,0 +1,61 @@
+SIZE    4   
+CLUSTER 13300 
+NAME    N1844273193
+
+RESOURCES INVOLVED
+	<http://risis.eu/orgreg_20170718/resource/IT2006>
+	<http://risis.eu/cordisH2020/resource/participant_999445709>
+	<http://www.grid.ac/institutes/grid.419038.7>
+	<http://risis.eu/leidenRanking_2015/resource/7384>
+
+CORRESPONDENT FOUND 
+    ####################################################################################
+    TABLE OF 12 Row(S) AND 4 Columns LIMIT=100
+    ####################################################################################
+         
+	lookup                                                       object                                                       Strength                                                     Evidence                                                     
+	############################################################ ############################################################ ############################################################ ############################################################ 
+	http://www.grid.ac/institutes/grid.419038.7................. http://risis.eu/leidenRanking_2015/resource/7384............ 1........................................................... [Istituto Ortopedico Rizzoli] was compared to [Istituto Ortopedico Rizzoli] 
+	http://risis.eu/leidenRanking_2015/resource/7384............ http://www.grid.ac/institutes/grid.419038.7................. 1........................................................... [Istituto Ortopedico Rizzoli] was compared to [Istituto Ortopedico Rizzoli] 
+	http://risis.eu/cordisH2020/resource/participant_999445709.. http://www.grid.ac/institutes/grid.419038.7................. 1........................................................... [Istituto Ortopedico Rizzoli] was compared to [ISTITUTO ORTOPEDICO RIZZOLI] 
+	http://www.grid.ac/institutes/grid.419038.7................. http://risis.eu/cordisH2020/resource/participant_999445709.. 1........................................................... [Istituto Ortopedico Rizzoli] was compared to [ISTITUTO ORTOPEDICO RIZZOLI] 
+	http://risis.eu/cordisH2020/resource/participant_999445709.. http://risis.eu/leidenRanking_2015/resource/7384............ 1........................................................... [ISTITUTO ORTOPEDICO RIZZOLI] was compared to [Istituto Ortopedico Rizzoli] 
+	http://risis.eu/leidenRanking_2015/resource/7384............ http://risis.eu/cordisH2020/resource/participant_999445709.. 1........................................................... [ISTITUTO ORTOPEDICO RIZZOLI] was compared to [Istituto Ortopedico Rizzoli] 
+	http://risis.eu/orgreg_20170718/resource/IT2006............. http://risis.eu/leidenRanking_2015/resource/7384............ 1........................................................... [Istituto Ortopedico Rizzoli] was compared to [Istituto Ortopedico Rizzoli] 
+	http://risis.eu/leidenRanking_2015/resource/7384............ http://risis.eu/orgreg_20170718/resource/IT2006............. 1........................................................... [Istituto Ortopedico Rizzoli] was compared to [Istituto Ortopedico Rizzoli] 
+	http://risis.eu/orgreg_20170718/resource/IT2006............. http://risis.eu/cordisH2020/resource/participant_999445709.. 1........................................................... [Istituto Ortopedico Rizzoli] was compared to [ISTITUTO ORTOPEDICO RIZZOLI] 
+	http://risis.eu/cordisH2020/resource/participant_999445709.. http://risis.eu/orgreg_20170718/resource/IT2006............. 1........................................................... [Istituto Ortopedico Rizzoli] was compared to [ISTITUTO ORTOPEDICO RIZZOLI] 
+	http://risis.eu/orgreg_20170718/resource/IT2006............. http://www.grid.ac/institutes/grid.419038.7................. 1........................................................... [Istituto Ortopedico Rizzoli] was compared to [Istituto Ortopedico Rizzoli] 
+	http://www.grid.ac/institutes/grid.419038.7................. http://risis.eu/orgreg_20170718/resource/IT2006............. 1........................................................... [Istituto Ortopedico Rizzoli] was compared to [Istituto Ortopedico Rizzoli] 
+
+DISAMBIGUATION HELPER 
+    ####################################################################################
+    TABLE OF 10 Row(S) AND 2 Columns LIMIT=100
+    ####################################################################################
+         
+	subject                                                      object                                                       
+	############################################################ ############################################################ 
+	http://risis.eu/orgreg_20170718/resource/IT2006............. m........................................................... 
+	http://risis.eu/orgreg_20170718/resource/IT2006............. http://www.ior.it/.......................................... 
+	http://risis.eu/orgreg_20170718/resource/IT2006............. Istituto Ortopedico Rizzoli................................. 
+	http://risis.eu/cordisH2020/resource/participant_999445709.. http://risis.eu/cordisH2020/resource/www.ior.it............. 
+	http://risis.eu/cordisH2020/resource/participant_999445709.. ISTITUTO ORTOPEDICO RIZZOLI................................. 
+	http://www.grid.ac/institutes/grid.419038.7................. 11.341855................................................... 
+	http://www.grid.ac/institutes/grid.419038.7................. 44.480778................................................... 
+	http://www.grid.ac/institutes/grid.419038.7................. http://www.ior.it/en/curarsi-al-rizzoli..................... 
+	http://www.grid.ac/institutes/grid.419038.7................. Istituto Ortopedico Rizzoli................................. 
+	http://risis.eu/leidenRanking_2015/resource/7384............ Istituto Ortopedico Rizzoli................................. 
+
+NETWORK ANALYSIS
+	NETWORK [('1:IT2006', '3:grid.419038.7'), ('2:participant_999445709', '1:IT2006'), ('3:grid.419038.7', '2:participant_999445709'), ('4:7384', '1:IT2006'), ('4:7384', '2:participant_999445709'), ('4:7384', '3:grid.419038.7')]
+	MAX DISTANCE:                   : 1.0
+	MAXIMUM POSSIBLE CONNECTIVITY   : 3
+	AVERAGE NODE CONNECTIVITY       : 3.0
+	AVERAGE NODE CONNECTIVITY RATIO : 1.0
+	BRIDGES                         : 0
+	CLOSURE                         : 1.0
+	DIAMETER                        : 1
+	QUALITY                         : 0.0
+	QUALITY USED                    : 0.0
+	SUMMARY 1: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
+	SUMMARY 2: BRIDGE 0.0 CLOSURE 0.0 DIAMETER 0.0 QUALITY 0.0 QUALITY USED 0.0
